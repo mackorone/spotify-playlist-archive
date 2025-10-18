@@ -8449,6 +8449,36 @@
     },
     {
       "album": {
+        "name": "Bandido problem\u00e1tico",
+        "url": "https://open.spotify.com/album/3cZjFKV6EFUqpO1b6Yhkdl"
+      },
+      "artists": [
+        {
+          "name": "Dj Gustomares",
+          "url": "https://open.spotify.com/artist/1o1YHZFva6RI2Ve7kjgRzn"
+        },
+        {
+          "name": "MC Flavinho",
+          "url": "https://open.spotify.com/artist/25AjzG7UO6tKfw11bwPscM"
+        },
+        {
+          "name": "Iraqui ZL",
+          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
+        },
+        {
+          "name": "Dream Records",
+          "url": "https://open.spotify.com/artist/0t58OzGlJIIcczoHSH0GwS"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Bandido problem\u00e1tico",
+      "url": "https://open.spotify.com/track/6pOSgZYfI73XOsjjZqrIUf"
+    },
+    {
+      "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo"
       },
@@ -13350,7 +13380,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 253120,
       "name": "B\u00fcy\u00fck \u0130nsan",
       "url": "https://open.spotify.com/track/5wImzSCz8puf7BY82SXCiF"
@@ -18986,7 +19016,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 206512,
       "name": "Deewane",
       "url": "https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1"
@@ -21670,7 +21700,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 215946,
       "name": "Dooron Dooron",
       "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd"
@@ -47144,10 +47174,28 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 143466,
       "name": "Maui Wowie",
       "url": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Flew To The Moon (Vol. 1)",
+        "url": "https://open.spotify.com/album/4AOuaSsHC7Y0R7ovt98aEo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Maui Wowie",
+      "url": "https://open.spotify.com/track/7uJUDd92ZfawO5clVSY0dq"
     },
     {
       "album": {
@@ -55562,7 +55610,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/3VOfcm1jnPfLNa2QhVsA4j"
@@ -55580,7 +55628,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
@@ -67405,6 +67453,24 @@
     },
     {
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "album": {
         "name": "VEDA T\u00dcRK\u00dcS\u00dc",
         "url": "https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2"
       },
@@ -68776,7 +68842,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"

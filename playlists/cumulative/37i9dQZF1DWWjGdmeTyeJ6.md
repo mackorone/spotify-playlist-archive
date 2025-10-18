@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Cover: Saint Ludo
 
-9,079 songs - 20 day 11 hr 55 min
+9,083 songs - 20 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Angel](https://open.spotify.com/track/5PJ7wQ44XFAHP3AYI4QoSB) | [Lys Allen](https://open.spotify.com/artist/04JlOtr9klyjygCO2aNqkk) | [Angel](https://open.spotify.com/album/29Mkbkys0H1wYgMa0MdNTV) | 3:32 | 2025-05-14 | 2025-07-10 |
 | [ANGEL](https://open.spotify.com/track/09oyGqMXGeIYxIsUkLesj0) | [Vaticanjail](https://open.spotify.com/artist/7bJiw2Rku2rxQMPCuN8yQW) | [ANGEL](https://open.spotify.com/album/18HBkOC9QCxQ87zCTCSCQc) | 3:34 | 2024-12-23 | 2025-01-16 |
 | [Angel](https://open.spotify.com/track/0TXezdBZlkwhAhmrYIBvxv) | [Weatherday](https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK) | [Angel](https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD) | 1:54 | 2025-02-05 | 2025-02-20 |
+| [Angel](https://open.spotify.com/track/3UhmOxZYPnHbQUU49z5GFJ) | [Wet World](https://open.spotify.com/artist/2oPV90oeIctzVCsPqpCgko) | [Angel](https://open.spotify.com/album/3mr9km1WIKBaCO0X0GiCbr) | 2:17 | 2025-10-17 |  |
 | [Angel Baby](https://open.spotify.com/track/2rQ21Ja2Pg3O88NGFEC9v3) | [Suzie True](https://open.spotify.com/artist/4COdM5vE5byEogAXp1cghR) | [Angel Baby](https://open.spotify.com/album/7kLZSaOb6EwfZ3gj7ynwQR) | 3:33 | 2024-02-21 | 2024-03-07 |
 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 | 2024-04-17 | 2024-05-02 |
 | [angel numbers](https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [angel numbers](https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK) | 2:29 | 2023-07-19 | 2023-07-27 |
@@ -2409,6 +2410,7 @@
 | [Elvis](https://open.spotify.com/track/0rRKr4ZW0N1a5QgLpdSrBb) | [Sojabrat](https://open.spotify.com/artist/6qPOPRRZCrcNQtq4Ce44L5), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Elvis](https://open.spotify.com/album/0qDHucLoZvB2MbYm3EC3tV) | 2:20 | 2022-04-06 | 2022-04-14 |
 | [Elvis](https://open.spotify.com/track/194xW9GPLSgAFnGCLTuebd) | [Wildermiss](https://open.spotify.com/artist/7K9fyLw4RPBp8PIFkif2eB) | [Elvis](https://open.spotify.com/album/0csd5T1V7ziPqic307uK2U) | 4:47 | 2022-10-19 | 2022-10-27 |
 | [Emasculate](https://open.spotify.com/track/0PIsET3ekLyiw82zlaDU8B) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Emasculate](https://open.spotify.com/album/18AvIFD1U4sg7hSSYHnhh3) | 2:26 | 2025-03-12 | 2025-04-24 |
+| [Embody](https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Embody](https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz) | 2:47 | 2025-10-17 |  |
 | [Emergency](https://open.spotify.com/track/2TICM2PjHWW5JrMhsxvv2x) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [It's Complicated](https://open.spotify.com/album/3FnLFYRObSLrdMm5Hp9mOo) | 2:40 | 2025-05-07 | 2025-06-19 |
 | [Emergency](https://open.spotify.com/track/4NXnQmKiL2xc1yg7B1AAfO) | [RoeShamBeaux](https://open.spotify.com/artist/25V4zyTWwMcDdy7JWNWkTx) | [Emergency](https://open.spotify.com/album/6SAoxjNkx7q5KoZ2ptcoJ2) | 2:26 | 2022-03-16 | 2022-03-24 |
 | [Emily](https://open.spotify.com/track/5v1Me8UomQqWZKaVLSc4HH) | [MID CITY](https://open.spotify.com/artist/5CfLIXfiqkmqz5If0yFu5E) | [Emily](https://open.spotify.com/album/504xWYLKOV3ePdpUM07e6r) | 3:24 | 2023-05-31 | 2023-06-08 |
@@ -7794,6 +7796,7 @@
 | [Telluride](https://open.spotify.com/track/1pzK8jo9ObHhSJLq11Mjem) | [Middle Child](https://open.spotify.com/artist/0d5rJSCHZBNsrQTSXPgFLy) | [Telluride](https://open.spotify.com/album/0S62tcsQWS8isSgohZrDn8) | 3:17 | 2022-02-23 | 2022-03-03 |
 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 | 2022-09-07 | 2022-09-15 |
 | [Temo Todo](https://open.spotify.com/track/5P2MKs2Bm9qw0ub4K7vw6B) | [Los Daddy Issues](https://open.spotify.com/artist/144F3Wur2jXwIqdIwRJKws) | [Temo Todo](https://open.spotify.com/album/20NRKS2DbWMrss8AdTT1NW) | 3:17 | 2023-08-09 | 2023-08-17 |
+| [temperance](https://open.spotify.com/track/0jjx2Mm02BHb6CeE3WwHjI) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [temperance](https://open.spotify.com/album/6hoBHtYmElo44Vdsbh9Qxw) | 3:41 | 2025-10-17 |  |
 | [Template](https://open.spotify.com/track/4EFrD2CImPNjn1wUWETNIO) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Template](https://open.spotify.com/album/27uFfXEjpgDLcJpAxTNvSv) | 4:42 | 2022-10-05 | 2022-10-13 |
 | [Temple of the Mind](https://open.spotify.com/track/7DrgRNtdIqzaabxfoCYRCj) | [Tomato Flower](https://open.spotify.com/artist/32g8Z2L0lqQH65njcLcBUG) | [Temple of the Mind](https://open.spotify.com/album/6LoUBQe7T8lfwVdLMtvzc3) | 1:54 | 2024-02-14 | 2024-02-29 |
 | [Temporada de Canciones Tristes](https://open.spotify.com/track/4fQXNMVEXKExk6xq1pIeOk) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [Temporada de Canciones Tristes](https://open.spotify.com/album/3Cb8nL9jdnymXDR2fr96bg) | 3:28 | 2024-02-28 | 2024-03-07 |
@@ -8850,6 +8853,7 @@
 | [Wish I could party all the time!](https://open.spotify.com/track/4sRsYjHV23tb9B0wQC6iah) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Wish I could party all the time!](https://open.spotify.com/album/5WR92qUyOTu9gXSF3rQJW9) | 2:45 | 2022-01-12 | 2022-01-20 |
 | [Wish I Had You Now](https://open.spotify.com/track/3NBby1jbaWJaXIUTagpu6T) | [The Finley Ghost](https://open.spotify.com/artist/2FDDxS1r0AdQzitRtjqdsb) | [Wish I Had You Now](https://open.spotify.com/album/1uWCJKpS1fKWPwtn7nj0GW) | 3:57 | 2022-06-29 | 2022-07-07 |
 | [Wish I Knew](https://open.spotify.com/track/1Z11VyovU8QADpZMpUWd8w) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Wish I Knew](https://open.spotify.com/album/4NfVjmMW3v4UlOxob0moUU) | 4:04 | 2023-04-26 | 2023-05-04 |
+| [Wish it \(bite it\)](https://open.spotify.com/track/3UpyUbOyc46bSnDtxO5IPq) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Wish it \(bite it\)](https://open.spotify.com/album/2lfPvY988Rc37W18e6TtpX) | 2:25 | 2025-10-17 |  |
 | [Wish It Away](https://open.spotify.com/track/2QThB1y1q5JiDgdOyP1s8j) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [Wish It Away](https://open.spotify.com/album/4WFIrX1ADMku8G3sBxg9lm) | 3:36 | 2022-06-29 | 2022-07-07 |
 | [wish u well](https://open.spotify.com/track/5NiDo8amNbwDXvcZqXYjht) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [wish u well](https://open.spotify.com/album/6ip6Nm5pxPI2DeuLKiId4q) | 3:33 | 2024-08-07 | 2024-09-05 |
 | [Wish You Gone](https://open.spotify.com/track/69ibHkTrfUrfqagZwXVPj3) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Wish You Gone](https://open.spotify.com/album/4AntpMLvggNwX9dkKif66a) | 2:59 | 2025-07-02 | 2025-08-14 |

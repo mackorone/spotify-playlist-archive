@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,947 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,995 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 51 | [Where I Come From](https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 4:44 |
 | 52 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Heartaches & Highways: The Very Best of Emmylou Harris](https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf) | 3:33 |
 | 53 | [Drinkin' Smokin' Cheatin'](https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 2:57 |
-| 54 | [Hard to Be an Outlaw \(feat\. Willie Nelson\)](https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Long in the Tooth](https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J) | 3:06 |
-| 55 | [Tell Heaven](https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 2:40 |
+| 54 | [Tell Heaven](https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The River & The Thread \(Deluxe\)](https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF) | 2:40 |
+| 55 | [Hard to Be an Outlaw \(feat\. Willie Nelson\)](https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Long in the Tooth](https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J) | 3:06 |
 | 56 | [Angel from Montgomery \- 2008 Remaster](https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Streetlights](https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO) | 3:59 |
 | 57 | [Brothers](https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:50 |
 | 58 | [Me and You](https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Man Standing](https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU) | 2:49 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 84 | [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 |
 | 85 | [36 Cents](https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [36 ¢](https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV) | 4:24 |
 | 86 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
-| 87 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 |
-| 88 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
+| 87 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
+| 88 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 |
 | 89 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
 | 90 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
 | 91 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |

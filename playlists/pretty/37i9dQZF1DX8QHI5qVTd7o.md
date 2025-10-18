@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,847 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,852 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 28 | [C'mon](https://open.spotify.com/track/3XU0Yroic44ga05pKlGDy4) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:05 |
 | 29 | [Resurrection \- Axwell's Recut Radio Edit](https://open.spotify.com/track/4gZcorMw9xTt0mmc3a7moY) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Resurrection](https://open.spotify.com/album/7nlR4EOVCpBtWYMMm9Sh00) | 2:48 |
 | 30 | [Ocarina \(The TomorrowWorld Anthem\) \(feat\. Wolfpack\) \- Instrumental Mix](https://open.spotify.com/track/0GnSNtOfVCCQ5Wx9rzlWYV) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox) | [Find Tomorrow \(Ocarina\)](https://open.spotify.com/album/0Rn2oSTJ2DFcbiGnZyDm5N) | 4:55 |
-| 31 | [Dead Mans Hand](https://open.spotify.com/track/4FVcGYFGstfGbL4aZZkqIc) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Dead Mans Hand](https://open.spotify.com/album/6Ge0sTvsG2N3QfBCxt4eIM) | 4:15 |
-| 32 | [Cake Face](https://open.spotify.com/track/3OxCH2MCz7Bc41doeIll80) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 6:11 |
+| 31 | [Cake Face](https://open.spotify.com/track/3OxCH2MCz7Bc41doeIll80) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/1jCnqnJdjCvP3XvbQttVTK) | 6:11 |
+| 32 | [Dead Mans Hand](https://open.spotify.com/track/4FVcGYFGstfGbL4aZZkqIc) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Dead Mans Hand](https://open.spotify.com/album/6Ge0sTvsG2N3QfBCxt4eIM) | 4:15 |
 | 33 | [Blow Your Mind](https://open.spotify.com/track/3vqWmOr3fIfBqh02ezS2lV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Blow Your Mind](https://open.spotify.com/album/23gPWelTvT4xrs38Gc0IUG) | 5:54 |
 | 34 | [Reckless](https://open.spotify.com/track/45GtpfaI7fg7mSZBQTNJss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Reckless](https://open.spotify.com/album/6RtNDAbbah1pa4IFdlAiNE) | 2:28 |
 | 35 | [Don't Give Up](https://open.spotify.com/track/6KQUZNUMApkQhBVjQokILL) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1O1GkJHNuflu3agdLE1r3N) | 5:21 |

@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-07",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
@@ -4620,7 +4620,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 223098,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5J3tmPXDvzQfCMtYAmq6cy"
@@ -9110,7 +9110,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 146000,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/7LreeC9Gh242SqbUEWLlo1"
@@ -9186,6 +9186,24 @@
       "duration_ms": 181080,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/4CyPvA5XZJBFxD4x71iFgh"
+    },
+    {
+      "album": {
+        "name": "EXchange4, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4VKpmgKeSRkAWJTLNiQd5Y"
+      },
+      "artists": [
+        {
+          "name": "SOHEE",
+          "url": "https://open.spotify.com/artist/62iRJlNqfISnjjLiQ5iMyI"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Love on the canvas",
+      "url": "https://open.spotify.com/track/0ZEVwqNc0GsPY1s4MfNWUh"
     },
     {
       "album": {
@@ -9660,7 +9678,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 187266,
       "name": "Mars",
       "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
@@ -10412,6 +10430,24 @@
       "duration_ms": 161766,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
+    },
+    {
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/4Mb1kBugQHbQp0Euimevri"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166802,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3irxOdgyrh21D6Vo2ALbUF"
     },
     {
       "album": {
@@ -11996,7 +12032,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 160586,
       "name": "PATIO",
       "url": "https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP"
@@ -13100,7 +13136,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 183936,
       "name": "Sandwiches (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1KLXFanzOEeIYhfKr2jpwe"
@@ -15355,6 +15391,28 @@
     },
     {
       "album": {
+        "name": "Jbfm",
+        "url": "https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q"
+      },
+      "artists": [
+        {
+          "name": "JINBO the SuperFreak",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Times Of Our Lives",
+      "url": "https://open.spotify.com/track/1au7Q5Ae6G5Dyd3Lu4kXrY"
+    },
+    {
+      "album": {
         "name": "Sour & Sweet",
         "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
       },
@@ -15936,7 +15994,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 186000,
       "name": "UP ALL NITE (Feat. SUMIN)",
       "url": "https://open.spotify.com/track/403TlzPjfgom5QGWX11FCw"

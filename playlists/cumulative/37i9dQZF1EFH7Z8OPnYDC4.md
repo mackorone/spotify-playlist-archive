@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-369 songs - 21 hr 52 min
+370 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,8 @@
 | [What Is a Man](https://open.spotify.com/track/5mpodYF5YDVbITmyB9DwiA) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Presenting Kenny Drew](https://open.spotify.com/album/5guNS5BbQS4HKuChj9vLDB) | 5:08 | 2024-07-26 | 2024-12-12 |
 | [What Is A Man](https://open.spotify.com/track/51PdHQxpI1WMVctMkNM3wu) | [Kenny Drew Trio](https://open.spotify.com/artist/27DOq2qA4K0yfDES0FjTf8) | [Pal Joey](https://open.spotify.com/album/7n1TDAd9pEPui46oT4jaFU) | 5:05 | 2024-12-11 | 2025-06-29 |
 | [What Is A Man?](https://open.spotify.com/track/6eAqLRvZlo4dijcxo3A9h3) | [Kenny Drew Trio](https://open.spotify.com/artist/27DOq2qA4K0yfDES0FjTf8), [Wilbur Ware](https://open.spotify.com/artist/4NWHLPe11EOyvjbxXprtzK), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Pal Joey](https://open.spotify.com/album/2b5r7QCdMY0v825HHAaw21) | 5:08 | 2025-06-28 |  |
-| [What's the Use of Talking](https://open.spotify.com/track/6yTykOnTYKkXVTWpuA67IW) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Command Performance](https://open.spotify.com/album/542GUcilC0dJm7di1mdJpI) | 2:57 | 2024-07-26 |  |
+| [What's the Use of Talking](https://open.spotify.com/track/6yTykOnTYKkXVTWpuA67IW) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Command Performance](https://open.spotify.com/album/542GUcilC0dJm7di1mdJpI) | 2:57 | 2024-07-26 | 2025-10-18 |
+| [What's the Use of Talking? \(From "Garrick Gaieties"\)](https://open.spotify.com/track/46VODlLWEWJlq4WqImfhnw) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Richard Rogers: Command Performance](https://open.spotify.com/album/0AbPeDT6CJDU5pl5QS6y4E) | 2:57 | 2025-10-17 |  |
 | [What's the Use of Wondrin](https://open.spotify.com/track/3ydlBfUGdp4pyABYKJ6itY) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:49 | 2024-07-26 |  |
 | [When The Children Are Asleep](https://open.spotify.com/track/79Suj4FDZjynTAxZy7BP83) | [Alexander Gemignani](https://open.spotify.com/artist/5rXsEGRJkz8Pxz4iZnOPHl), [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 4:54 | 2024-07-26 |  |
 | [Where or When](https://open.spotify.com/track/1X6KKaO70YuZ6tux2nPovP) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standards & Ballads](https://open.spotify.com/album/3tqWiJf0QKpxX2IItsAl24) | 2:49 | 2024-07-26 |  |

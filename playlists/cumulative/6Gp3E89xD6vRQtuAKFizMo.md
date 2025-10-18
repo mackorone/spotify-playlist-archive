@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-507 songs - 1 day 0 hr 21 min
+509 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Push It](https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO) | 2:50 | 2022-07-29 | 2023-12-14 |
 | [Push Me](https://open.spotify.com/track/6IEEEHLFO50U9gs9hDj1Tk) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Push Me](https://open.spotify.com/album/2jR3DoAR0UECP35xwdxJGt) | 2:51 | 2025-02-21 |  |
 | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/track/1odOduCxOZNip4JgVPUO53) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Shotgun Knights](https://open.spotify.com/artist/1TyxDj5u85Ur5LwVN2qalm), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Reasonable \(feat\. Reo Cragun\)](https://open.spotify.com/album/3MoMFWL1rvsgijVlxzN9cA) | 2:25 | 2024-11-22 | 2025-04-27 |
+| [Rebel](https://open.spotify.com/track/2Iy9lNbtDPhHn6mmk9EGRS) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Rebel](https://open.spotify.com/album/6ShMX20b0dAz1eymNXGfz8) | 2:45 | 2025-10-17 |  |
 | [Redemption](https://open.spotify.com/track/02FfMx7RCEnHB4sCLoG2io) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5), [TIARO](https://open.spotify.com/artist/5JinMzMuLLtTC3mSeH37Uf) | [Redemption](https://open.spotify.com/album/22dzgMMw0XZX52GMzg7Xyw) | 3:08 | 2025-08-01 |  |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2022-05-06 | 2022-07-02 |
 | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/track/2SqlWDESCdIb0QKNP0sByv) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [grandpa julie](https://open.spotify.com/artist/6P38Kx1SGQCgAQHqv0LjAs) | [Ripple \(feat\. grandpa julie\)](https://open.spotify.com/album/0quSSIvZNfb6kxR8JcMRgM) | 3:03 | 2023-11-22 | 2025-04-27 |
@@ -411,6 +412,7 @@
 | [Shorty Go \(feat\. Manno\)](https://open.spotify.com/track/2yuL8S7fNLObEzQEIEBm3U) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Leondis](https://open.spotify.com/artist/0wxqz8uaPaewwCEqsYQHn8), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Shorty Go \(feat\. Manno\)](https://open.spotify.com/album/17h6nQpecOYdpy1hV7NkdU) | 3:04 | 2024-12-13 | 2025-04-27 |
 | [Show Me Love](https://open.spotify.com/track/0gOeJEeOoDh4FD7i9qOFPH) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Show Me Love](https://open.spotify.com/album/5phKEujkaPJqyzbqCpnRIs) | 2:36 | 2024-11-15 | 2025-04-27 |
 | [Shuffle](https://open.spotify.com/track/0HSoyafgVY6nPKNVwzGdZ8) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Shuffle](https://open.spotify.com/album/6Lpng8mqEyiEc7QeIUS7fR) | 2:06 | 2023-08-04 | 2025-04-27 |
+| [Sippin'](https://open.spotify.com/track/3CfnOZGonCritVZnVJZS4c) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Sippin'](https://open.spotify.com/album/6KVevBpcClwEuNdvRheN6u) | 1:55 | 2025-10-17 |  |
 | [Smash!](https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:26 | 2023-07-24 | 2025-04-27 |
 | [Smoke](https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Smoke](https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG) | 2:58 | 2022-08-26 | 2023-04-09 |
 | [SOLO](https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [SOLO](https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y) | 3:11 | 2022-06-24 | 2023-04-09 |

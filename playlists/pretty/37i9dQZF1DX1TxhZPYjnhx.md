@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: hongjoin
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,616 likes - 135 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,618 likes - 135 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 9 | [SAFE SPACE](https://open.spotify.com/track/2kxav1ncfuZFh1atFxvc4W) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [SAFE SPACE](https://open.spotify.com/album/32CyZFGgCRWcmBAbjQYt0H) | 3:23 |
 | 10 | [BURNING UP](https://open.spotify.com/track/3uqgFeHo4Jr1D3gVIHQlD7) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/5zwhhh45Fd78xSX7JWjmF5) | 2:49 |
 | 11 | [Blue Valentine](https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 3:06 |
-| 12 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [](https://open.spotify.com/album/null) | 4:58 |
+| 12 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 13 | [Moonshine](https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Moonshine](https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN) | 2:40 |
 | 14 | [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 |
-| 15 | [Not What’s Going On](https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [](https://open.spotify.com/album/null) | 2:54 |
+| 15 | [Not What’s Going On](https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb) | 2:54 |
 | 16 | [So Good](https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Can We Talk?](https://open.spotify.com/album/4XUPb1rntAZTacotCGf4lR) | 2:27 |
 | 17 | [Forevermore](https://open.spotify.com/track/3MiTqCP3PMxkSlbYGe9kmC) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Forevermore](https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc) | 3:11 |
 | 18 | [Red Flag](https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Cerita Kita](https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d) | 2:46 |
 | 19 | [PICTURE PERFECT](https://open.spotify.com/track/7uKhCdAmsIjt5NlIi7k59n) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [PICTURE PERFECT](https://open.spotify.com/album/3gW0W0KQxbb61vFGe5efQQ) | 3:07 |
 | 20 | [The Show](https://open.spotify.com/track/7FtISjqfWfKfn1egVreLIh) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [The Show](https://open.spotify.com/album/5at109EzEkz7HZxHxmBnlV) | 3:10 |
 | 21 | [So Valentina](https://open.spotify.com/track/4iSrwEafJenKr7hbunxNas) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [So Valentina](https://open.spotify.com/album/4MpNBUEIRyW0jlsBGPgEDE) | 2:38 |
-| 22 | [FEEL LOVE](https://open.spotify.com/track/4Gd8nOekd62DmCJdowwta5) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [](https://open.spotify.com/album/null) | 2:49 |
+| 22 | [FEEL LOVE](https://open.spotify.com/track/4Gd8nOekd62DmCJdowwta5) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY!](https://open.spotify.com/album/08YX6S7IDTCyXjFd5PthPn) | 2:49 |
 | 23 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 |
 | 24 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 25 | [ME+YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 |

@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-702 songs - 1 day 22 hr 20 min
+702 songs - 1 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Cast Your Burdens \(Higher\)](https://open.spotify.com/track/3hBXpzPTpjJIYIXJINWC3x) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Cast Your Burdens \(Higher\)](https://open.spotify.com/album/4XgZoP9WpAQ4K74eEwao3p) | 2:54 | 2024-10-18 | 2025-02-28 |
 | [Celebration](https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Celebration](https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB) | 2:54 | 2025-04-25 | 2025-07-11 |
 | [CHILD OF GOD](https://open.spotify.com/track/01kkDeb3etCfFzvf4AqoJq) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [CHILD OF GOD](https://open.spotify.com/album/4xR6DeIKUvnm0vtjxEq0Z7) | 2:31 | 2025-05-02 | 2025-08-29 |
-| [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [](https://open.spotify.com/album/null) | 3:20 | 2025-10-17 |  |
+| [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 |  |
 | [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 | 2025-10-03 |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-04-14 | 2025-02-28 |
 | [Come & See](https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Come & See](https://open.spotify.com/album/6I9cZjzDQxgFeo4W41HOgw) | 3:15 | 2025-02-02 | 2025-02-28 |
@@ -354,6 +354,7 @@
 | [Lord I’m Grateful](https://open.spotify.com/track/5niD5WxE3r16yYWxpBF6dT) | [Dr Becky Paul\-Enenche](https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n) | [Lord I’m Grateful](https://open.spotify.com/album/7IYiEzriD4pVzV94XwoMiW) | 4:05 | 2025-07-25 |  |
 | [Lord Of Mercy](https://open.spotify.com/track/7FV7i4qq8rAnhsjqpF4bIj) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [Lord Of Mercy](https://open.spotify.com/album/5KqDZpGzEmmrziKdEJaSTj) | 2:38 | 2024-12-20 | 2025-02-28 |
 | [Love](https://open.spotify.com/track/3ktSoy8XLQNyB5fe0fyRUk) | [Thirdmuziq](https://open.spotify.com/artist/5E1mryWdPxqk3xobb4aRbq), [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk) | [Love](https://open.spotify.com/album/7t62yvvGdfXvd0m6yuUT3Q) | 3:14 | 2025-02-21 | 2025-08-08 |
+| [Love Like You](https://open.spotify.com/track/7Fz8EM5cDYyf9Jh5Entfq2) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Altars and Crowns](https://open.spotify.com/album/1XwogwzYKWBnTN3VkZsG9b) | 4:53 | 2025-10-17 |  |
 | [Love Like You](https://open.spotify.com/track/71UaCkbKCihfAmUxI9hcNK) | [Mojisola](https://open.spotify.com/artist/7B3hxItP97N9oYzvrTKFb8), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Love Like You](https://open.spotify.com/album/7d1MX2xd84TTPT6eE08ln3) | 2:26 | 2024-10-18 | 2025-02-28 |
 | [Love You](https://open.spotify.com/track/3sSD06HCdC4o1eBsWvC3QO) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Love You](https://open.spotify.com/album/3i95WwwIswh0rz7tjH7SX3) | 3:06 | 2025-03-14 | 2025-03-28 |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-06-25 |
@@ -618,7 +619,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2025-04-04 |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 |  |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 1](https://open.spotify.com/track/7Fz8EM5cDYyf9Jh5Entfq2) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-17 |  |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |

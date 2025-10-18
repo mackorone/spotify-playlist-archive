@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Karnivool
 
-831 songs - 2 day 23 hr 23 min
+834 songs - 2 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Antagonist](https://open.spotify.com/track/4G44da3BuHq3IBEAv9fyuP) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Antagonist](https://open.spotify.com/album/6cdXaSFxU2jMO7z3nsArPh) | 6:02 | 2021-12-17 | 2022-09-03 |
 | [Antitype](https://open.spotify.com/track/21vbuLEqhFGoZUciOhDbPj) | [The Intersphere](https://open.spotify.com/artist/7GGtuvcBdHQYVbXi9B8YnY) | [Antitype](https://open.spotify.com/album/245bFEq19BqpogiQtkWY6v) | 5:28 | 2021-12-17 | 2022-05-08 |
 | [Aozora](https://open.spotify.com/track/74yIS4Qvm1DsjF2A5cWGeJ) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Aozora](https://open.spotify.com/album/7KlIqRDBwYnGWG3qTATybW) | 6:26 | 2025-09-19 |  |
+| [Apollo](https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [Apollo](https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm) | 3:30 | 2025-10-17 |  |
 | [Apology](https://open.spotify.com/track/3b9ak0CBzbQLhzDvgWme6h) | [Jason Bieler And The Baron Von Bielski Orchestra](https://open.spotify.com/artist/47biWYcWFwHFOUMWES43Kt) | [Apology](https://open.spotify.com/album/0jgKnReA4HUc18eaYwO6CY) | 4:47 | 2021-12-17 | 2022-07-28 |
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-11-22 |  |
 | [ARE YOU AFRAID?](https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [ARE YOU AFRAID?](https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og) | 3:22 | 2024-03-29 | 2025-03-11 |
@@ -61,7 +62,7 @@
 | [As the Sea Divides](https://open.spotify.com/track/2ajQYCwCyfVU6PIkPk6Sz9) | [Shattered Skies](https://open.spotify.com/artist/01x1T6wFazEkb6L3DjaIYX) | [Songs in the Key of D](https://open.spotify.com/album/5Q6P6hVIPRyX2K6ha1Npqj) | 5:52 | 2021-12-17 | 2022-01-29 |
 | [Assassins](https://open.spotify.com/track/3AG4HbsTsfWs9UxQkiZjjW) | [HYVMINE](https://open.spotify.com/artist/04SzeqqeUYtUPhwyEGCVbz) | [Assassins](https://open.spotify.com/album/6nMcudVxY5q322alkFs2wh) | 5:50 | 2021-12-17 | 2022-07-29 |
 | [Astral Liberation](https://open.spotify.com/track/4W0pJ4h0uQvQMbBU9aRbXC) | [The Paralydium Project](https://open.spotify.com/artist/2tDD4Lon3s0KIvXbCnNzFO) | [The Paralydium Project](https://open.spotify.com/album/4ts2vqasJLcacHS9sQY0MZ) | 8:40 | 2021-12-17 | 2022-01-28 |
-| [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 | 2025-02-07 |  |
+| [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 | 2025-02-07 | 2025-10-18 |
 | [At the behest of night](https://open.spotify.com/track/54549MU3UapPjbGzY3PUXq) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [At the behest of night](https://open.spotify.com/album/2rq8tI4CdZUcha8VioRobG) | 5:03 | 2021-12-17 | 2022-07-28 |
 | [At the behest of night](https://open.spotify.com/track/7fHFdpyc17WghB8DAicz6S) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 5:03 | 2022-09-02 | 2023-01-21 |
 | [At the Behest of Origins](https://open.spotify.com/track/1T3tO7bdsMwlA8W4hWbXwE) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [At the Behest of Origins](https://open.spotify.com/album/6WdZ2mbYCKFIB8NcTOJUef) | 4:32 | 2021-12-17 | 2022-01-22 |
@@ -120,7 +121,7 @@
 | [Centauri](https://open.spotify.com/track/547nn4xAof17b8n7pPLgpn) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Vitruvian](https://open.spotify.com/album/0UqADSHYcitQe4LDgJFMzO) | 8:49 | 2022-01-14 | 2022-07-09 |
 | [Chameleon](https://open.spotify.com/track/0MChNtMWR0NK9szOwxKC0u) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Chameleon](https://open.spotify.com/album/6bq18INP2zRlSt4lSpVHeE) | 4:30 | 2022-09-02 | 2024-04-19 |
 | [Charcoal Grace I: Prey](https://open.spotify.com/track/5fQ53YX1adoTkNWuFeoGVu) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Charcoal Grace](https://open.spotify.com/album/2XZiBGEBzo5PqSMjgGV6IS) | 7:47 | 2024-03-29 |  |
-| [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 | 2024-07-23 |  |
+| [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 | 2024-07-23 | 2025-10-18 |
 | [Chauvinist](https://open.spotify.com/track/2znJImPhsEV8FhHI4Xzxoc) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Chauvinist](https://open.spotify.com/album/6hRnrYQSZOKd8msauQCChA) | 3:13 | 2022-07-13 | 2025-09-27 |
 | [Clairvoyant](https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7) | 7:37 | 2022-07-13 | 2023-12-23 |
 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 | 2022-07-13 | 2022-07-28 |
@@ -402,6 +403,7 @@
 | [Lifeblood](https://open.spotify.com/track/2yoRlTrTykIjrz3Y1BB30F) | [Secret Sphere](https://open.spotify.com/artist/6RW3PIbCsvSVIB5dzx9MV8) | [Lifeblood](https://open.spotify.com/album/2FEORcMwZYb0STmv2ETW9a) | 5:30 | 2022-03-01 | 2022-06-12 |
 | [Lifelike](https://open.spotify.com/track/6U3d3PYg1hRR5vmkrtguIV) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Lifelike](https://open.spotify.com/album/6aWem45BzsHX6FMZabt6BO) | 4:00 | 2022-07-13 | 2024-06-11 |
 | [Lights](https://open.spotify.com/track/0MhMeOy3Rq1LkaB7puQRRp) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Sleepless](https://open.spotify.com/album/6lQM0ttt55S8PtXkFHVURB) | 3:39 | 2022-09-02 | 2024-04-19 |
+| [Like A Geyser Ever Erupting](https://open.spotify.com/track/11pdAO2d27VJpX84h1eZeC) | [An Abstract Illusion](https://open.spotify.com/artist/6xcZE3tpECSAi8wXiK7SdT) | [The Sleeping City](https://open.spotify.com/album/7udyKNcNdq5jZrw0lgubMs) | 7:58 | 2025-10-17 |  |
 | [Like a Sunken Ship](https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Like a Sunken Ship](https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W) | 4:04 | 2024-11-22 |  |
 | [Lines \(feat\. Petter Carlsen\)](https://open.spotify.com/track/1z6MioTKg2mfk7WVlYO7Fh) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6), [Petter Carlsen](https://open.spotify.com/artist/4MdXxmVuDhdYJmBRA8ZYQ4) | [TRIPS \(Bonus Tracks Version\)](https://open.spotify.com/album/2WzWw65DyReOSYMIBwuErQ) | 4:41 | 2021-12-17 | 2022-01-29 |
 | [Litany Of The Fallen](https://open.spotify.com/track/1gYjWTKs09WJzaZrPLRFDS) | [Therion](https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi) | [Litany Of The Fallen](https://open.spotify.com/album/11cRcdDcrV6eTJKuvrZdNu) | 4:10 | 2022-05-06 | 2023-02-02 |
@@ -486,6 +488,7 @@
 | [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 | 2024-04-19 |
 | [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
 | [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 | 2025-05-29 |
+| [Obsolete](https://open.spotify.com/track/4QMQEp5DlreObCrcQox4UZ) | [Wiltwither](https://open.spotify.com/artist/3HoW6Io7vdOF0scarlinO5) | [Obsolete](https://open.spotify.com/album/6WMiiKGfJtXAcllpzrTIi3) | 3:13 | 2025-10-17 |  |
 | [Obsolete Beings](https://open.spotify.com/track/0FiVaht935tCYXQFMJF5uX) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Obsolete Beings](https://open.spotify.com/album/3mZkwo2gwJP5smBjH04Hp9) | 5:34 | 2021-12-17 | 2022-01-29 |
 | [Ocean Floor](https://open.spotify.com/track/46BZw3T2wk1Y38U04wUUTn) | [Teramaze](https://open.spotify.com/artist/37Pf9riF70VuuPMXP4kz3J) | [I Wonder](https://open.spotify.com/album/4c3hETZkctstH28srhPFZh) | 6:17 | 2021-12-17 | 2022-07-17 |
 | [Ocean in the Sky](https://open.spotify.com/track/0FyPJSY4kuQwwd6Bras3ek) | [NUTRONIC](https://open.spotify.com/artist/3VnPsIJuT0zVGQPJk2MaRr) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/7o7ksjM61aXwu3x91xLS4V) | 6:06 | 2022-09-02 | 2023-01-21 |
@@ -621,7 +624,7 @@
 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 | 2021-12-17 | 2022-09-03 |
 | [Spherical Horizon](https://open.spotify.com/track/6qGmditKb6K7nhhEtBtCwe) | [Confusing Paradise](https://open.spotify.com/artist/0oGmw2T01mqZSJbFQcigp0) | [Qualia](https://open.spotify.com/album/7IhpuuIj0guMsU6hiFNj3R) | 4:50 | 2021-12-17 | 2022-07-26 |
 | [Spirit Corrosion](https://open.spotify.com/track/7sQsJItB0PbQ5asT8PPYrk) | [Nailed to Obscurity](https://open.spotify.com/artist/3VKWvDnlwWaBI2uzMTjuSJ) | [Spirit Corrosion](https://open.spotify.com/album/738zzIsYYGg5lcbiApHYXR) | 5:17 | 2025-06-13 | 2025-10-02 |
-| [Splitting the Soul \(feat\. Ihsahn\)](https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd) | [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [16](https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG) | 6:22 | 2023-12-06 |  |
+| [Splitting the Soul \(feat\. Ihsahn\)](https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd) | [Einar Solberg](https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [16](https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG) | 6:22 | 2023-12-06 | 2025-10-18 |
 | [Springfield](https://open.spotify.com/track/614xdvVqOIRY6KFCkQlVOB) | [Anathema](https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX) | [The Optimist](https://open.spotify.com/album/2pmuzXGYLCNysBat1Txe3W) | 5:49 | 2021-12-17 | 2022-01-29 |
 | [Stacker](https://open.spotify.com/track/12teD9GUNV7r8FFuOocsa3) | [ENOX](https://open.spotify.com/artist/29giH6njkq3yqb6lIf4dou) | [Stacker](https://open.spotify.com/album/4wwaulDezmxr2zt4btOqYN) | 3:24 | 2022-07-13 | 2025-02-08 |
 | [Starbound](https://open.spotify.com/track/15sUD2yvQFQ2mBqBfzDZ9l) | [Shattered Skies](https://open.spotify.com/artist/01x1T6wFazEkb6L3DjaIYX) | [Starbound](https://open.spotify.com/album/6YFiIUo0QVcOd7mgHgUVd6) | 4:44 | 2021-12-17 | 2022-07-28 |

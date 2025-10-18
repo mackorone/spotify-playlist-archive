@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Drake
 
-431 songs - 21 hr 56 min
+432 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Merch Madness](https://open.spotify.com/track/5BM6yfBokOMMgD6h869lRc) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Merch Madness](https://open.spotify.com/album/1iq2ZBnpKsrrM1hr85pw2r) | 2:28 | 2023-11-03 | 2024-05-06 |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2025-07-04 | 2025-07-12 |
 | [Mink](https://open.spotify.com/track/5x6ufTZrcowzAQXq97MIQu) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Mink](https://open.spotify.com/album/7wM4xWUZjUsaUEF0xAsfgZ) | 2:46 | 2024-06-14 | 2025-04-12 |
+| [Mirroronnabenz \(with BNYX®\)](https://open.spotify.com/track/5Vip1MOeAfQ5weKGYBXpI0) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Mirroronnabenz](https://open.spotify.com/album/38mqpaec0dbvLDMiX6Jjox) | 2:22 | 2025-10-17 |  |
 | [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-29 |  |
 | [Miss Me](https://open.spotify.com/track/1U4mweNwisxNj23ffuC9gO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:05 | 2025-06-20 | 2025-07-12 |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2025-07-04 | 2025-07-12 |
@@ -321,7 +322,7 @@
 | [Run](https://open.spotify.com/track/7bwflXK0lc225Ir1SlkptS) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Run](https://open.spotify.com/album/0b9jz0diSiituyThsBewRd) | 2:55 | 2023-12-01 | 2024-08-03 |
 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 | 2025-03-07 |  |
 | [Run That! \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/0EYaKFQHnWk3dukyNPhA8q) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 2:50 | 2023-11-17 | 2023-12-02 |
-| [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 | 2025-08-15 |  |
+| [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 | 2025-08-15 | 2025-10-18 |
 | [Runnit Back](https://open.spotify.com/track/3bsRYAhhM86a3egINAKALh) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [THE FORCE](https://open.spotify.com/album/27LiHmMNnXEDUOBUXPqndi) | 2:46 | 2024-09-06 | 2025-04-12 |
 | [Saturday Night Special \(feat\. Rick Ross & Fat Joe\)](https://open.spotify.com/track/6a14IKtBVWXO0FTOmZNgfI) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Saturday Night Special \(feat\. Rick Ross & Fat Joe\)](https://open.spotify.com/album/3wAJhTshe6dXXworwy3CF1) | 3:28 | 2024-06-14 | 2024-09-10 |
 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 | 2023-11-03 | 2025-07-12 |

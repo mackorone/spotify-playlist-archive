@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Antti Autio.
 
-1,027 songs - 2 day 13 hr 52 min
+1,027 songs - 2 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Säästön hinta](https://open.spotify.com/track/0CYF6DphY54e2aaO4nOZyd) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Säästön hinta](https://open.spotify.com/album/5JN7sP2MPOCXFto59Yabrk) | 3:54 | 2025-09-18 |  |
 | [TA\-DA!](https://open.spotify.com/track/7lbbS2wIvHez8knzGZEk53) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [Picturesque](https://open.spotify.com/album/1Vligv1CNDvQxCe40lVXIO) | 3:08 | 2025-01-23 | 2025-02-28 |
 | [Tabula Rasa](https://open.spotify.com/track/2FWQDAn7Z0QGkdpTkYV8Q3) | [Nallekarhut](https://open.spotify.com/artist/1m282tZYLUSHVfKwenQLL1) | [Velkaa](https://open.spotify.com/album/6TggFmxBW8YIlfDv4GJTZT) | 4:06 | 2024-07-25 | 2024-09-13 |
+| [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 | 2025-10-16 |  |
 | [Tahiti](https://open.spotify.com/track/0FnRnWgqsd3BoDm40GE0It) | [Nössö Nova](https://open.spotify.com/artist/1GYWQRP9SkDjt9a3CMRbsc) | [Tahiti](https://open.spotify.com/album/45EVLQVbECsj1VSTMoFsxl) | 3:56 | 2025-06-05 | 2025-08-30 |
 | [Tahtoisin pysähtyy](https://open.spotify.com/track/4JHgWRwBMfExAZeJ2KLGyq) | [Valkea](https://open.spotify.com/artist/6AKeEGfbKhvrAFmZd26OZw) | [Tahtoisin pysähtyy](https://open.spotify.com/album/68YEKnRIcfWbbyGuh7uLTR) | 6:25 | 2025-10-02 |  |
 | [Taikapoika](https://open.spotify.com/track/3f5LXwrlbNb3CvihQ5TPGU) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Taikapoika](https://open.spotify.com/album/5z6FCDjdXU1i030uVVNQih) | 3:05 | 2025-09-25 |  |
@@ -908,7 +909,6 @@
 | [Tottunut veteen](https://open.spotify.com/track/34TFf7E4qTHKGaru5qrmlB) | [Valkea](https://open.spotify.com/artist/6AKeEGfbKhvrAFmZd26OZw) | [Tottunut veteen](https://open.spotify.com/album/3LTSPBmn9dAs1hW5dWgAa0) | 3:26 | 2025-01-09 | 2025-02-21 |
 | [Touch Me](https://open.spotify.com/track/6QjHL2PQGYydnDvp07PnWt) | [Mute Frank](https://open.spotify.com/artist/35Qt5LBqwwMjiyOhmx18qe) | [Touch Me](https://open.spotify.com/album/3b09iTgziOlkDjKXir4jzN) | 2:49 | 2025-03-20 | 2025-04-04 |
 | [toxic](https://open.spotify.com/track/63gpae6mldjvO6JJAEoZ1i) | [hachiko](https://open.spotify.com/artist/4ol2mWmR50f4cjW5QkIbpk) | [toxic](https://open.spotify.com/album/6LIqO4wBWPgbTV3SbuPouX) | 2:01 | 2024-07-02 | 2024-08-16 |
-| [Track 2](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Trouble](https://open.spotify.com/track/5VJMrzCBdZ3yldDcXkWd22) | [Conchis](https://open.spotify.com/artist/3YfNCMy8SPjE7H8Xg3rVoB) | [Trouble](https://open.spotify.com/album/7Dn3tCDZahfS8MeSMAaMsy) | 3:55 | 2024-09-12 | 2024-10-25 |
 | [Tuhkaa](https://open.spotify.com/track/4814VWnOYwmaI9bsQOniK2) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Tuhkaa](https://open.spotify.com/album/6emBmpZS24ZFZ9JdCmROmh) | 2:53 | 2024-09-26 | 2024-10-18 |
 | [Tuhma kuva](https://open.spotify.com/track/2B55MJg3Zc9cO7gabvInUe) | [Miika Leivo](https://open.spotify.com/artist/7Ba0N8U9lJ9pAHrXhKdeRQ) | [Tuhma kuva](https://open.spotify.com/album/0pQMxapTVJ21Jy31gJiJGP) | 4:49 | 2024-08-29 | 2024-09-20 |

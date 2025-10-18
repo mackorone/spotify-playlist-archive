@@ -4,7 +4,7 @@
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 27 min
+128 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [LST](https://open.spotify.com/track/5JG6WYVJ1tAS9xBB7e0dOK) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [LST](https://open.spotify.com/album/2NiDblmiV1cVK89jmRrpYu) | 3:02 | 2022-06-05 | 2022-06-24 |
 | [Lucio Peña](https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:19 | 2022-06-01 |  |
 | [Lupe Rubalcava AKA Corrido De Lupe Rubalcava](https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Corridos De Jefes](https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV) | 3:04 | 2022-10-18 | 2024-05-28 |
-| [Me acostumbré a tu ausencia](https://open.spotify.com/track/1lxhIBrEuFIjkE1hyppAN0) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguantala](https://open.spotify.com/album/5ztL60Ente5novB4BApxOj) | 2:20 | 2025-10-13 |  |
+| [Me acostumbré a tu ausencia](https://open.spotify.com/track/1lxhIBrEuFIjkE1hyppAN0) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguantala](https://open.spotify.com/album/5ztL60Ente5novB4BApxOj) | 2:20 | 2025-10-13 | 2025-10-18 |
 | [Me la Rifo](https://open.spotify.com/track/3yjiLPEVHaYsPSdfekrm4Q) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:55 | 2022-06-17 | 2022-08-04 |
 | [Me Llega, Me Llega \(En Vivo\)](https://open.spotify.com/track/7xHx5S7Sd6ruj6syWrwljS) | [PALOMAZO NORTEÑO](https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [La Borrachera Perfecta \(En Vivo\)](https://open.spotify.com/album/3ioAkBCcr9y8ClSMNDSSaV) | 3:15 | 2024-11-29 | 2024-12-20 |
 | [Me Refiero A Ti](https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:13 | 2022-06-01 |  |
@@ -93,6 +93,7 @@
 | [Muchacha Bonita](https://open.spotify.com/track/2wJwbI9zDg7Mmm6uUFjW8s) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Éxitos Con Sax, Vol\. 2](https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht) | 3:15 | 2022-08-01 | 2022-08-03 |
 | [Muriendo Por Ella](https://open.spotify.com/track/7D63GyavsqDG7i9JzlZDr7) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Mis 20 Éxitos Con Banda](https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG) | 2:11 | 2022-10-26 | 2022-11-08 |
 | [Nadie Como Ella](https://open.spotify.com/track/5x6ZJ3RkIKCcIFdQtgKq8J) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Rey de Mil Coronas](https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy) | 2:53 | 2022-06-01 | 2022-11-02 |
+| [Nadie como yo te quiso](https://open.spotify.com/track/45pG1aljTtysivgp46rw2O) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Aguantala](https://open.spotify.com/album/5ztL60Ente5novB4BApxOj) | 2:31 | 2025-10-18 |  |
 | [Naynara II](https://open.spotify.com/track/6vxjsQZkRuLZPtQGyGiMi4) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT), [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Naynara II](https://open.spotify.com/album/6wH1P1qyh8v0gvCYCHIojN) | 2:39 | 2022-06-01 | 2022-07-18 |
 | [Necesito Odiarte](https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:01 | 2022-06-01 |  |
 | [Necesito Verte](https://open.spotify.com/track/1VRKxi5SI03hPMZiSs1QSG) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 2:17 | 2023-05-04 | 2024-07-12 |

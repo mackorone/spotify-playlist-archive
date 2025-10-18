@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Me Blue",
-  "num_followers": 38636,
+  "num_followers": 38645,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -43,8 +43,8 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
       "artists": [
         {
@@ -143,8 +143,8 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "All Systems Are Lying",
+        "url": "https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8"
       },
       "artists": [
         {
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Mutt",
-        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Mutt",
-      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -767,38 +751,18 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Hypnotised",
-        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
+        "name": "Mutt",
+        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Linden Jay",
-          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 202787,
-      "name": "Hypnotised (feat. Linden Jay)",
-      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 207587,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+      "duration_ms": 200625,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -819,6 +783,42 @@
       "duration_ms": 203869,
       "name": "Seasoning (feat. 2b.Frank)",
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 207587,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Hypnotised",
+        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "duration_ms": 202787,
+      "name": "Hypnotised (feat. Linden Jay)",
+      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -1143,6 +1143,38 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
         "name": "Time In The Sun",
         "url": "https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ"
       },
@@ -1159,22 +1191,6 @@
       "duration_ms": 168659,
       "name": "Time In The Sun",
       "url": "https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -1247,22 +1263,6 @@
       "duration_ms": 195254,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2025-10-16 23:00:12",

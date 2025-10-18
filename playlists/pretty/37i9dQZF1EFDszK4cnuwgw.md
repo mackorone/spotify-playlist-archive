@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 36 | [Karma Krys](https://open.spotify.com/track/0P7eod3BXbvrLxFiOOfR4c) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 3:21 |
 | 37 | [Dripset](https://open.spotify.com/track/4R6aZmh00S9pTl2Ql1BJPx) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 3:05 |
 | 38 | [PettyWap 2 \(Bonus\)](https://open.spotify.com/track/3C1sgPi7KaTbQB93WvXYJG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:36 |
-| 39 | [Big Steppa](https://open.spotify.com/track/7ykQl8nuiITtSkKH3eTvcG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:14 |
-| 40 | [Sober Thoughts](https://open.spotify.com/track/1AxBgbv1xJIVzoUfz3pOOW) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Max YB](https://open.spotify.com/artist/1utuqjQ62Vu5Kokk1cY7Jg) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 4:26 |
+| 39 | [Sober Thoughts](https://open.spotify.com/track/1AxBgbv1xJIVzoUfz3pOOW) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Max YB](https://open.spotify.com/artist/1utuqjQ62Vu5Kokk1cY7Jg) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 4:26 |
+| 40 | [Big Steppa](https://open.spotify.com/track/7ykQl8nuiITtSkKH3eTvcG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:14 |
 | 41 | [Whippin \(feat\. Young M.A\)](https://open.spotify.com/track/2ilWKYgEU7PWYX4xHoeEIp) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Still Wednesday](https://open.spotify.com/album/5B6W3GmGmcCktXVFLfOsfI) | 3:08 |
 | 42 | [MAD \(feat\. Young M.A\)](https://open.spotify.com/track/6nqkL8zNLRCMNB4dDjt5hl) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kommunity Service](https://open.spotify.com/album/79kXQIGEmAb2QlundO0hRi) | 2:58 |
 | 43 | [Self M.Ade](https://open.spotify.com/track/11IUlPkA0HqOXfAZ8FmuPy) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:31 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDszK4cnuwgw.md) - [plain]
 | 79 | [Trim](https://open.spotify.com/track/3jYjgpmhz8QhvREcSzeWMc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trim](https://open.spotify.com/album/4f6ckq0JBmR4SzzZIlHhAn) | 3:25 |
 | 80 | [Money Counter](https://open.spotify.com/track/6RWGBw7EvCEtRunRQSMqP2) | [DJ Megan Ryte](https://open.spotify.com/artist/74ZbNtN0o4zPxTZpaWV4Q1), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [DJ Megan Ryte](https://open.spotify.com/album/4eKwiwwSHFfsrgjxGzHdd3) | 2:48 |
 
-Snapshot ID: `Ab/C9AAAAAA971SHCcrx0N4E2Ck/ZrOr`
+Snapshot ID: `Ab/IqAAAAACyjlgB+657tJOLxSh7PvgZ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 158129,
+  "num_followers": 158549,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAATjM0I+Y/VH/ttVSuIG50+",
+  "snapshot_id": "aPA1gAAAAABfVDgNmZmoN8w2VBUI2BCx",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE (FOLK)",
-        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
       },
       "artists": [
         {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        },
-        {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
         }
       ],
-      "duration_ms": 183532,
-      "name": "LEMONADE (FOLK)",
-      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+      "duration_ms": 182946,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
     },
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE",
-        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRAISES (remix)",
         "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 170353,
       "name": "PRAISES (remix)",
       "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "NO LONGER BOUND",
+      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
     },
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "NO LONGER BOUND",
-      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOD'S GOT MY BACK",
         "url": "https://open.spotify.com/album/4rot6qlRjv0PZXp2BP5kFM"
       },
@@ -267,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 161975,
+      "name": "UPS & DOWNS",
+      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
@@ -283,22 +279,6 @@
       "duration_ms": 136960,
       "name": "UP!",
       "url": "https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 161975,
-      "name": "UPS & DOWNS",
-      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
     },
     {
       "added_at": null,
@@ -339,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD",
-        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 219983,
-      "name": "LIFT MY HANDS",
-      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOW KEY",
         "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
       },
@@ -367,6 +331,22 @@
       "duration_ms": 150485,
       "name": "LOW KEY",
       "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 219983,
+      "name": "LIFT MY HANDS",
+      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
     },
     {
       "added_at": null,
@@ -403,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD",
-        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "GOD IS GOOD",
-      "url": "https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
@@ -439,6 +399,26 @@
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc"
     },
     {
       "added_at": null,
@@ -515,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SELAH",
-        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 202602,
-      "name": "SELAH",
-      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD II (BACK TO BACK)",
         "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
       },
@@ -547,6 +511,22 @@
       "duration_ms": 230197,
       "name": "MISUNDERSTOOD",
       "url": "https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SELAH",
+        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 202602,
+      "name": "SELAH",
+      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
     },
     {
       "added_at": null,
@@ -679,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEMONADE (FOLK)",
+        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
+      },
+      "artists": [
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 183532,
+      "name": "LEMONADE (FOLK)",
+      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -691,26 +691,6 @@
       "duration_ms": 151905,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/6oknlBDl8nwMkmSXWsvViN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/51tsjSE6RzCUli9QafZsH2"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/56YasbqXFzP3ErHyhLtn26"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nostalgia Pack",
         "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
       },
@@ -767,30 +767,6 @@
       "duration_ms": 178280,
       "name": "Your Soul",
       "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOVE IT!",
-        "url": "https://open.spotify.com/album/5DppqyfNhiABXmN6lrrmnk"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "1k Pson",
-          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
-        }
-      ],
-      "duration_ms": 174673,
-      "name": "MOVE IT!",
-      "url": "https://open.spotify.com/track/6dZs0oUsbP92TrYTjgT0WQ"
     },
     {
       "added_at": null,
@@ -823,6 +799,30 @@
       "duration_ms": 181374,
       "name": "ALIVE",
       "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOVE IT!",
+        "url": "https://open.spotify.com/album/5DppqyfNhiABXmN6lrrmnk"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
+        }
+      ],
+      "duration_ms": 174673,
+      "name": "MOVE IT!",
+      "url": "https://open.spotify.com/track/6dZs0oUsbP92TrYTjgT0WQ"
     },
     {
       "added_at": null,

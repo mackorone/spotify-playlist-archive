@@ -1,13 +1,257 @@
 {
-  "description": "The best rock songs of the moment. Cover: Yellowcard",
-  "num_followers": 194728,
+  "description": "The best rock songs of the moment. Cover: Jutes",
+  "num_followers": 194725,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHFJgeUYC1YGHiqa66YN2Yavbhz",
+  "snapshot_id": "AAAAAJyGsMGXMrcTjGjeDLAVuGx3kxch",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Dilworth",
+        "url": "https://open.spotify.com/album/1Er4uNqGhZR2G2vbEsnH4I"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "duration_ms": 203928,
+      "name": "Kill or be Killed",
+      "url": "https://open.spotify.com/track/4ZAgj2AeE5hs7qgpiSdMTT"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Everyone's Talking!",
+        "url": "https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 180081,
+      "name": "Sugar (feat JoJo)",
+      "url": "https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Whoever You Are...",
+        "url": "https://open.spotify.com/album/0Uc655acjHMQyQmOa3lPFb"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "duration_ms": 216825,
+      "name": "Whoever You Are...",
+      "url": "https://open.spotify.com/track/761qRKAbGfoMYNx7O7HyXf"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Low Twang",
+        "url": "https://open.spotify.com/album/0WXv2eG9F3kJjC2CdKi6PC"
+      },
+      "artists": [
+        {
+          "name": "Black Pistol Fire",
+          "url": "https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo"
+        }
+      ],
+      "duration_ms": 191671,
+      "name": "Low Twang",
+      "url": "https://open.spotify.com/track/0M5GauTIWuUA2sbPE6mxkd"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/5BMvAjPfALFd9mnCAA02Vf"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/1FD6QgRQ6KoskRxa5auxDW"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "scum.",
+        "url": "https://open.spotify.com/album/6DQsSccbClKSu1SRxr5fdV"
+      },
+      "artists": [
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "scum.",
+      "url": "https://open.spotify.com/track/2oj9rawGhSxYw8opagkA6V"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Marigolds",
+        "url": "https://open.spotify.com/album/3FnKO2pR2waqyqJI4LMPWQ"
+      },
+      "artists": [
+        {
+          "name": "Beauts",
+          "url": "https://open.spotify.com/artist/5T0e5poGvNw2PmFOiMfwCO"
+        }
+      ],
+      "duration_ms": 268917,
+      "name": "The Boys Have Been Away",
+      "url": "https://open.spotify.com/track/4gPcUTwpuKdePsrqw3mUBK"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Highway Song",
+        "url": "https://open.spotify.com/album/5FD0a2iSHGscyItLneLXyn"
+      },
+      "artists": [
+        {
+          "name": "Stuck On Planet Earth",
+          "url": "https://open.spotify.com/artist/1SFdaY4s5BAQMk2X7YIhAS"
+        }
+      ],
+      "duration_ms": 210521,
+      "name": "Highway Song",
+      "url": "https://open.spotify.com/track/10acjftS8WrCj0TX0XiPPv"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "The Program",
+        "url": "https://open.spotify.com/album/42XlvIgpTYlQMexFQcXbHl"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "duration_ms": 227064,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/1BLqWL5GNDp3hwaMCSbddb"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2mo1Vdao0Jz6Rn1HwbLtSh"
+      },
+      "artists": [
+        {
+          "name": "Odonis Odonis",
+          "url": "https://open.spotify.com/artist/33qVw2pK7R3Io2tMPNOIf0"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5sXst1muQXGJwLuPazKk5Y"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Jennifer's Body",
+        "url": "https://open.spotify.com/album/53BEj3Ylz7LKw81CgrleSP"
+      },
+      "artists": [
+        {
+          "name": "Sara Hunter",
+          "url": "https://open.spotify.com/artist/661LOO6XGIdNGBp0mV4P5A"
+        }
+      ],
+      "duration_ms": 185479,
+      "name": "Jennifer's Body",
+      "url": "https://open.spotify.com/track/1CqYEKZogjCeGmkFkrP6LG"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "In the Clouds",
+        "url": "https://open.spotify.com/album/4mlYUp2ITIO2GlspZqpjz2"
+      },
+      "artists": [
+        {
+          "name": "Cody Lawless",
+          "url": "https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "In the Clouds",
+      "url": "https://open.spotify.com/track/7LcxF1Je43rkivs0LM1cI1"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Freaking Me Out",
+        "url": "https://open.spotify.com/album/2CKbb8JLrdClt63710DGrE"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Freaking Me Out",
+      "url": "https://open.spotify.com/track/4C2DglvFgGgEHbl7Xwnyna"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Sunk Your Teeth In",
+        "url": "https://open.spotify.com/album/5C8IQz029R81XQqBOkDFSH"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 225777,
+      "name": "Sunk Your Teeth In",
+      "url": "https://open.spotify.com/track/6zYkJoO7rbx0CD7fqje9d5"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Not in Your Mouth None of Your Business",
+        "url": "https://open.spotify.com/album/26nGeDBDGw22HuBVMrX3og"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "duration_ms": 123833,
+      "name": "Not in Your Mouth None of Your Business",
+      "url": "https://open.spotify.com/track/6q6bauwUzbKhx4KM49kfgL"
+    },
     {
       "added_at": "2025-10-10 00:01:12",
       "album": {
@@ -1291,90 +1535,6 @@
     {
       "added_at": "2025-08-29 00:01:20",
       "album": {
-        "name": "Roll With The Punches",
-        "url": "https://open.spotify.com/album/5hSKVnqKENCvocHGmMCl4W"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "How's That Workin' For Ya?",
-      "url": "https://open.spotify.com/track/4HVzU5ygBChTzF4pZVyXy7"
-    },
-    {
-      "added_at": "2025-08-29 00:01:20",
-      "album": {
-        "name": "Guess I'm Fallin In Love",
-        "url": "https://open.spotify.com/album/1UIpytdwikFGWxzCGGeiSa"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 181138,
-      "name": "Chateau Blues",
-      "url": "https://open.spotify.com/track/2msGEY3GkkvEV6ACsfD34X"
-    },
-    {
-      "added_at": "2025-08-29 00:01:20",
-      "album": {
-        "name": "DISSOLVER",
-        "url": "https://open.spotify.com/album/1mGDBjDJPYARBiHsdkKtXP"
-      },
-      "artists": [
-        {
-          "name": "ROMES",
-          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "DISSOLVER",
-      "url": "https://open.spotify.com/track/2i92nH8v7MK7nPT9ONUyFk"
-    },
-    {
-      "added_at": "2025-08-29 00:01:20",
-      "album": {
-        "name": "Easy Come, Easy Go",
-        "url": "https://open.spotify.com/album/3GZjCLfJ4o617hscOXgn43"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 145748,
-      "name": "Easy Come, Easy Go - Punch Party Remix",
-      "url": "https://open.spotify.com/track/76HdOI3texMW1BTzvatgrh"
-    },
-    {
-      "added_at": "2025-08-29 00:01:20",
-      "album": {
-        "name": "Caught Stealing (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0ox54iBEAeghJpulMDAVfD"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        },
-        {
-          "name": "Caught Stealing Movie",
-          "url": "https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/3LiNrrRozLyzYfeK1CflCA"
-    },
-    {
-      "added_at": "2025-08-29 00:01:20",
-      "album": {
         "name": "Straight Line Was A Lie",
         "url": "https://open.spotify.com/album/30Byf6kLkgZ3B2lp739Hlo"
       },
@@ -1423,170 +1583,6 @@
       "duration_ms": 261859,
       "name": "No Damn Fears",
       "url": "https://open.spotify.com/track/63wu8tCkgGNthwVSCL4JMP"
-    },
-    {
-      "added_at": "2025-08-29 00:01:20",
-      "album": {
-        "name": "RUNNING",
-        "url": "https://open.spotify.com/album/1KcDf4nBsPLfolvekryHLK"
-      },
-      "artists": [
-        {
-          "name": "Parker Jack",
-          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
-        },
-        {
-          "name": "HunnaV",
-          "url": "https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH"
-        }
-      ],
-      "duration_ms": 122877,
-      "name": "RUNNING",
-      "url": "https://open.spotify.com/track/2yx9gPM2hoEolYDhscu5sv"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Alienation",
-        "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Don't Wanna Go Home Tonight",
-      "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Drum Show",
-        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Drum Show",
-      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 212577,
-      "name": "infinite source",
-      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 165022,
-      "name": "Spit XXV",
-      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Where The Flowers Never Grow",
-        "url": "https://open.spotify.com/album/44cgztHaaoJh5taG0n0PG0"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 264216,
-      "name": "Where the Flowers Never Grow",
-      "url": "https://open.spotify.com/track/4cFI7k2rfpnxNKxUhHmANB"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/0mNhfzisYzt1RmsrlgzWsj"
-      },
-      "artists": [
-        {
-          "name": "Gavin McLeod",
-          "url": "https://open.spotify.com/artist/47Rseum4nfiLQZ5apWpxoF"
-        }
-      ],
-      "duration_ms": 212896,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/7gRZUVbOS100ltiJlq7axB"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "CITY OF GHOSTS",
-        "url": "https://open.spotify.com/album/7plkbBDYsjXcGuJF1wt7XF"
-      },
-      "artists": [
-        {
-          "name": "Headstones",
-          "url": "https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00"
-        }
-      ],
-      "duration_ms": 263790,
-      "name": "CITY OF GHOSTS",
-      "url": "https://open.spotify.com/track/3DEC7gXUckxTQluqTjMG77"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "So Far So Fake",
-        "url": "https://open.spotify.com/album/048drp9uOPCFxbzioHNDiZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 236166,
-      "name": "So Far So Fake",
-      "url": "https://open.spotify.com/track/3vVbd8T9rNTpM5uawlM1zG"
     },
     {
       "added_at": "2025-08-08 04:00:56",

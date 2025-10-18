@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10390,
+  "num_followers": 10392,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAAV1z8z7ss4QlgV3eTO0u5p",
+  "snapshot_id": "aPA1gAAAAAC9bN/CmT5yrhNFD6CuP9m1",
   "tracks": [
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Blooming",
-        "url": "https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "We'll Meet Again",
-      "url": "https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
         "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 284751,
       "name": "Anything Worth Holding On To",
       "url": "https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Blooming",
+        "url": "https://open.spotify.com/album/6kllfmayC7Mg9S3SkV67Fj"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "We'll Meet Again",
+      "url": "https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forbidden",
         "url": "https://open.spotify.com/album/6Rl2UqYTAppPRzaWddbeDR"
       },
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+        "name": "STEP (Music From and Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
+      "duration_ms": 359706,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 157966,
       "name": "Si Pudiera Leer Tus Sue\u00f1os",
       "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STEP (Music From and Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 359706,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
     },
     {
       "added_at": null,

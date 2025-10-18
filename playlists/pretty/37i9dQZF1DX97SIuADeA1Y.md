@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,408 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,404 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 56 | [Feels Like Home](https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx) | [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [RED5](https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7) | [Feels Like Home](https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF) | 2:36 |
 | 57 | [Talk Talk Talk](https://open.spotify.com/track/1ktSui7aiz9XceMdTDeCUF) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Talk Talk Talk](https://open.spotify.com/album/2P2GJ1cTTO7tWABUUMwrIE) | 2:28 |
 | 58 | [Wishing Well](https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Wishing Well](https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH) | 2:22 |
-| 59 | [Ride Ride Ride](https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz) | [Victoria Kern](https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Ride Ride Ride](https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg) | 2:42 |
-| 60 | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S) | 2:46 |
+| 59 | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Raindrops \(feat\. Jessica Chertock\)](https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S) | 2:46 |
+| 60 | [Ride Ride Ride](https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz) | [Victoria Kern](https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Ride Ride Ride](https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg) | 2:42 |
 
 Snapshot ID: `AAAAAC0jRXMwnGV4WQg7cmvgkQSmQerI`

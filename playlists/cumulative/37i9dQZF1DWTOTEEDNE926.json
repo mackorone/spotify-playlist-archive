@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "las mujeres ya no lloran \u2728 Baby Miko en portada.",
+  "description": "las mujeres ya no lloran \u2728 Nathy Peluso en portada.",
   "name": "Rica, Latina y Famosa",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 201106,
       "name": "1TRAGO",
       "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200112,
+      "name": "A CABALLO",
+      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
     },
     {
       "album": {
@@ -216,7 +234,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 181354,
       "name": "BELLAKEO SUCIO",
       "url": "https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n"
@@ -1681,6 +1699,24 @@
     },
     {
       "album": {
+        "name": "los 41",
+        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206408,
+      "name": "los 41",
+      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
+    },
+    {
+      "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
       },
@@ -3060,7 +3096,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 206538,
       "name": "Tu VIP",
       "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"

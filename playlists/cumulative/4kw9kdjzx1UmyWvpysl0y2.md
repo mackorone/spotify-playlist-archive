@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,095 songs - 2 day 13 hr 11 min
+1,096 songs - 2 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Endgame \- VIP](https://open.spotify.com/track/5XDDs8cFe5s158Hal7HrOs) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Endgame \(VIP\)](https://open.spotify.com/album/6nVG5jLgV16NN7G99OBrSd) | 4:35 | 2025-07-21 | 2025-10-15 |
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-04 | 2023-01-28 |
 | [Endless In Between](https://open.spotify.com/track/63nPbxic2qf5nA4yicN4pg) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Jonathan Mendelsohn](https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm) | [Endless In Between](https://open.spotify.com/album/7KZR8pFGa3dyCCK0bJkwK8) | 3:46 | 2024-11-07 | 2025-02-19 |
+| [Enemies](https://open.spotify.com/track/6E5k96BE2EID246cT5COTJ) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [OHKAY](https://open.spotify.com/artist/7jv5EBF4i46kYNwMPPZcQv) | [Enemies](https://open.spotify.com/album/7JPl3CszSPBzJL8OqC0HKU) | 3:45 | 2025-10-17 |  |
 | [ENEMY](https://open.spotify.com/track/57PGa6g4Ym4XeyNWWdE6Ig) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [dabl](https://open.spotify.com/artist/5fk3KGv5y9AzvEZJG4yZW9) | [ENEMY](https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV) | 3:16 | 2024-01-11 | 2024-04-03 |
 | [Equinox](https://open.spotify.com/track/3i2kegGxj12kAXephAgZ8C) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw) | [Equinox](https://open.spotify.com/album/33WUMBvwFNU514XzG7vqbz) | 3:20 | 2023-10-18 | 2024-02-02 |
 | [Erase Me](https://open.spotify.com/track/7lbKB1ULWaABpHWWJuaLu8) | [Gravas](https://open.spotify.com/artist/2ucDELeg7gohUzo8kJ9Hj3), [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz), [Tea Timerz](https://open.spotify.com/artist/6FvBSQRYwIMdxwvMyMyQbf), [CRaymak](https://open.spotify.com/artist/150jtRwN0MU5qRxkhKnzNm) | [Erase Me](https://open.spotify.com/album/69KvZgBpQLnQJTmWT6C90D) | 5:15 | 2023-08-28 | 2023-12-14 |

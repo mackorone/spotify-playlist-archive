@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-459 songs - 1 day 0 hr 33 min
+460 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Los Tamales](https://open.spotify.com/track/3SvhhsODK5VG35Cs5eAJ8M) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Los Tamales](https://open.spotify.com/album/2juRlblGnU1PJbuC5LMhdW) | 5:34 | 2021-10-08 | 2023-11-11 |
 | [Lui \(Original Mix\)](https://open.spotify.com/track/25IMPzRtaCEvpH0trpPNS4) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Nico Ramírez](https://open.spotify.com/artist/0TAAr7l3EmxcEe6RZzUHMx) | [Lui](https://open.spotify.com/album/5MFYcz6WasJsNSUKgDsTIS) | 3:45 | 2025-10-03 |  |
 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 | 2023-11-10 |  |
-| [Magalenha](https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Magalenha](https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K) | 2:35 | 2025-08-22 |  |
+| [Magalenha](https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Magalenha](https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K) | 2:35 | 2025-08-22 | 2025-10-18 |
 | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Magalenha \(feat\. Sergio Mendes\)](https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4) | 3:29 | 2021-10-08 | 2023-11-11 |
 | [Magalenha \- Yvvan Back Remix](https://open.spotify.com/track/1UP8U8TVL4kdvohzwRNrmA) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Magalenha \(Yvvan Back Remix\)](https://open.spotify.com/album/6PpaGTYrGsPJv0RyIsn8rd) | 4:48 | 2021-10-08 | 2022-07-28 |
 | [Mamacita](https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u) | [Mamacita](https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc) | 2:19 | 2021-10-08 | 2023-11-11 |
@@ -280,7 +280,7 @@
 | [Mi Canto](https://open.spotify.com/track/2gLJenD6ovBmFvCoqWyF6X) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Kanu](https://open.spotify.com/artist/7qGg5f7GRoEEDsjhetcseQ) | [Mi Canto](https://open.spotify.com/album/7oB6pdANXFr2yjOyEi4Gve) | 2:42 | 2024-07-05 | 2024-10-26 |
 | [Mi Casa](https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Mi Casa](https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt) | 2:47 | 2021-10-08 |  |
 | [Mi Ex](https://open.spotify.com/track/7mwHBQyDsNNede1HHRGLH9) | [Javi Reina](https://open.spotify.com/artist/1KVew7x2sRHBMefHGrWGRV), [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum) | [Mi Ex](https://open.spotify.com/album/0OQIZgqt3uhZ0CaG9ESi2Z) | 2:56 | 2024-07-05 | 2024-07-13 |
-| [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-12 |  |
+| [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-12 | 2025-10-18 |
 | [MIA in Miami](https://open.spotify.com/track/6FC1NTWsL1uYAVnAHvSuqL) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [MIA in Miami](https://open.spotify.com/album/17pv0JSvdJkKt1CYttl0zj) | 2:47 | 2025-03-07 |  |
 | [Miamimita \- Légo Remix Edit](https://open.spotify.com/track/21IFNYRAezhlPgiuqQVA9K) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO), [Légo](https://open.spotify.com/artist/7te4gB4IcHcor88UpNNIVP) | [Miamimita \(Légo Remix\)](https://open.spotify.com/album/3Taofi73l8tYNDlS1IivMR) | 1:54 | 2024-08-02 | 2024-08-10 |
 | [Monaco](https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Monaco EP](https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug) | 3:20 | 2024-05-17 |  |
@@ -352,6 +352,7 @@
 | [Quisiera Tenerte](https://open.spotify.com/track/2isQjbpcfEUTnc7sa8rf2G) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Quisiera Tenerte](https://open.spotify.com/album/1P3G25pEZYVIUf4jQH0pF3) | 3:34 | 2024-07-12 | 2024-09-14 |
 | [Rakata](https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR) | [Rakata](https://open.spotify.com/album/3SGrv6Aij0RUtWELtMcqTA) | 2:39 | 2024-03-15 | 2024-11-02 |
 | [Reflection](https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Reflection](https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh) | 3:07 | 2023-11-10 |  |
+| [Reina de la Pista](https://open.spotify.com/track/5ZmOi8QTdksIUcyjvwYQGx) | [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Reina de la Pista](https://open.spotify.com/album/0QjabydE5tFFlPCfrofKfC) | 2:47 | 2025-10-17 |  |
 | [Resistencia](https://open.spotify.com/track/7ek1DEzAizK2hYsOI1xQsN) | [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73), [Blow \(ITA\)](https://open.spotify.com/artist/0r7dWqdkEDihNmjuAcNAJq) | [Resistencia](https://open.spotify.com/album/3ztQRV32NjMVbxtdwkEy5E) | 2:43 | 2024-02-16 | 2024-05-03 |
 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-05-23 |  |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2021-10-08 | 2023-10-01 |

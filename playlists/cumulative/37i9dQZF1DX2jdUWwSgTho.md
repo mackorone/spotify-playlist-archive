@@ -4,7 +4,7 @@
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-120 songs - 6 hr 33 min
+122 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,8 @@
 | [Sur ma route](https://open.spotify.com/track/3Uyt0WO3wOopnUBCe9BaXl) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw) | [Les yeux plus gros que le monde](https://open.spotify.com/album/1D2Rs9qcENebbiDR5wk88T) | 4:12 | 2024-01-02 | 2025-08-29 |
 | [Ta marinière](https://open.spotify.com/track/2JFmiASjHttT8AK7WeZjAb) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 3:42 | 2024-02-06 | 2024-03-05 |
 | [Tahiti](https://open.spotify.com/track/5vcvA0w8YoGQiifOmas9uo) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Tahiti](https://open.spotify.com/album/7uHPaVhNz2ECnqC0SmpXPo) | 3:03 | 2023-07-27 |  |
+| [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-10-17 |  |
+| [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-17 |  |
 | [Tic Tac](https://open.spotify.com/track/0y9GkH3ISgqAU6XmUVok7Q) | [Enzo](https://open.spotify.com/artist/1kEXZbPvFk6qnSeyspHvf4) | [Tic Tac](https://open.spotify.com/album/6zHdQHpxqfNBQncJB3m4KW) | 2:50 | 2024-01-02 | 2024-02-07 |
 | [Tombollywood](https://open.spotify.com/track/4OqP3w4JuU43BZhKO5t1Rn) | [Moussier Tombola](https://open.spotify.com/artist/6gmbW6uXWh2WOnYxkh8X8X) | [Tombollywood](https://open.spotify.com/album/1hUrLHJ9iC9NZQYjt4QCD2) | 3:48 | 2024-01-02 | 2024-03-19 |
 | [Trompeta](https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns) | 2:48 | 2023-07-27 | 2024-04-19 |

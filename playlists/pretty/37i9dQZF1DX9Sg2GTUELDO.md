@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: JACE
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,233 likes - 145 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,235 likes - 145 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -13921,6 +13921,24 @@
     },
     {
       "album": {
+        "name": "Love For My Brothers",
+        "url": "https://open.spotify.com/album/79wnjeKYX6lZ7skUtJdTA1"
+      },
+      "artists": [
+        {
+          "name": "Rops1",
+          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Love For My Brothers",
+      "url": "https://open.spotify.com/track/7ItsTOrorRRrkssIJXcNhK"
+    },
+    {
+      "album": {
         "name": "Love For My City",
         "url": "https://open.spotify.com/album/0ZfRzGnc5emWL5nwbhmuJU"
       },
@@ -24156,24 +24174,6 @@
       "duration_ms": 148798,
       "name": "TRA TRA",
       "url": "https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Rops1",
-          "url": "https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce"
-        }
-      ],
-      "date_added": "2025-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7ItsTOrorRRrkssIJXcNhK"
     },
     {
       "album": {

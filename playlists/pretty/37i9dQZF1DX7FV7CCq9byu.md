@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,972 likes - 119 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,986 likes - 119 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [](https://open.spotify.com/album/null) | 2:31 |
+| 1 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 |
 | 2 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
 | 3 | [om vi försvann](https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [om vi försvann](https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ) | 2:43 |
 | 4 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 11 | [Spelar ingen roll](https://open.spotify.com/track/0Jh6IuuW5PtUk2nHtbMxJS) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Äldsta Barnet](https://open.spotify.com/album/6mZAkeuzLJcNI0RvQIGGCV) | 2:23 |
 | 12 | [BROTHER](https://open.spotify.com/track/61FvG3igKfH3cgtIphxa1I) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [BROTHER](https://open.spotify.com/album/0xnzvqOObsdYkJBig26qPj) | 2:56 |
 | 13 | [Mörka himlar](https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Mörka himlar](https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU) | 3:36 |
-| 14 | [Svart mask](https://open.spotify.com/track/5uGiSx84xBoP8sjGREkMtp) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [](https://open.spotify.com/album/null) | 2:54 |
+| 14 | [Svart mask](https://open.spotify.com/track/5uGiSx84xBoP8sjGREkMtp) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar II](https://open.spotify.com/album/1uUtCIhpSjsoYjTPYwRisz) | 2:54 |
 | 15 | [The Ambition](https://open.spotify.com/track/0kfVayo9KsW0VWT5Z9Twcw) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:34 |
 | 16 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 17 | [Think Of You](https://open.spotify.com/track/2KQQt62dqPuC6RI0LNKJ2i) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Think Of You](https://open.spotify.com/album/5c00OXKnPFCZv0IWghTf8l) | 2:52 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 22 | [Så sött livet kan smaka](https://open.spotify.com/track/6UWivnKJZ7fojidyVzcNMp) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svensk Rost](https://open.spotify.com/album/4WajYbYTC43tWcQx6E0OOu) | 2:49 |
 | 23 | [Crazy Young And Wild](https://open.spotify.com/track/66WdoaGA1GG3WCosRL8riO) | [Stella](https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS) | [Crazy Young And Wild](https://open.spotify.com/album/6ZBNfa0TacppWCfwT0Vwn8) | 2:17 |
 | 24 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
-| 25 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [](https://open.spotify.com/album/null) | 3:14 |
+| 25 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 |
 | 26 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 |
 | 27 | [My Religion](https://open.spotify.com/track/0du3bHuBOtpg759VgZAiqv) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [My Religion](https://open.spotify.com/album/0Say29K3XftQWtO3dGbq4N) | 3:10 |
 | 28 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |

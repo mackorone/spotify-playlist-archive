@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,117 songs - 2 day 21 hr 57 min
+1,123 songs - 2 day 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 | 2025-01-10 |  |
 | [button eyes](https://open.spotify.com/track/2DOUn2VHfSfUIyyZLE9Ig9) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [button eyes](https://open.spotify.com/album/1Ea8ce1wPV4CthoUAEkbtL) | 3:38 | 2025-03-07 |  |
 | [Cage Intimacy](https://open.spotify.com/track/36QLWRuc1cdQBQEC6hqiwn) | [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Cage Intimacy](https://open.spotify.com/album/1PhB912BQ5if1T7ynBeA7W) | 11:02 | 2022-04-15 | 2023-07-15 |
+| [Call Box](https://open.spotify.com/track/61drprSPSTjuAzy4kJoP4T) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Call Box](https://open.spotify.com/album/2wtdOlyu0lQ5VkwET089e8) | 3:32 | 2025-10-17 |  |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 | 2023-07-15 |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 | 2023-07-15 |
 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 | 2023-05-19 | 2024-02-03 |
@@ -668,6 +669,7 @@
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-10 | 2024-02-03 |
 | [ORDINARY LOSS](https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ORDINARY LOSS](https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6) | 3:53 | 2025-09-12 |  |
 | [Other World](https://open.spotify.com/track/2RJQVoChwhL2ywpnp1cD01) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Other World](https://open.spotify.com/album/6W7oUC8NUMwEPRwN3cPT1v) | 2:56 | 2025-05-09 |  |
+| [Our Parting Ways](https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Our Parting Ways](https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL) | 3:40 | 2025-10-17 |  |
 | [Our Time Is Now](https://open.spotify.com/track/0dDs144SVansAFynvKYQMW) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Our Time Is Now](https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA) | 4:31 | 2022-10-14 | 2023-07-15 |
 | [Ousted From Eden](https://open.spotify.com/track/4YNzsBxwOieEU3r7T3vK9s) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU), [Broken Vow](https://open.spotify.com/artist/7cbddjy4wOdhxzR4Wnypt3) | [Ousted From Eden](https://open.spotify.com/album/6ro24nyQUiS7uCJJQ5MAWT) | 2:55 | 2024-04-19 | 2025-04-11 |
 | [Outcry](https://open.spotify.com/track/2jacIKE190RZN23fzJtfcb) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Outcry](https://open.spotify.com/album/1IKjEX9ixB5ZmNqBlS31fW) | 2:55 | 2023-05-12 | 2024-02-03 |
@@ -697,9 +699,11 @@
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-22 | 2025-04-11 |
 | [Permanence in Sleep](https://open.spotify.com/track/1i62a1XfdSOPCsLsw72EVf) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Permanence in Sleep](https://open.spotify.com/album/2vGZ9w6vMUogvIP4JlLqQM) | 3:36 | 2024-08-30 | 2025-04-11 |
 | [Permanent Rebellion](https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Permanent Rebellion](https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH) | 3:13 | 2022-08-26 | 2023-07-15 |
+| [Pig](https://open.spotify.com/track/19D8SCE52lcKbeeQak3dfa) | [Cage Fight](https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr) | [Pig](https://open.spotify.com/album/7i89QhsEqkoDoNAYUc1GE1) | 3:18 | 2025-10-17 |  |
 | [PIG](https://open.spotify.com/track/44QReqha5ZQ83U6NcG3xCo) | [The Machinist](https://open.spotify.com/artist/50WDTKRSrvgZrQMWMw0QWQ) | [PIG](https://open.spotify.com/album/6mwcmC4zE6BDyCukqsZyTS) | 3:05 | 2022-06-03 | 2023-07-15 |
 | [Pig Pen](https://open.spotify.com/track/4VM9hWSTtGEEqtksVMf2w8) | [Squint](https://open.spotify.com/artist/3rSZhCBS6SLmBFzpPxvhr5) | [Pig Pen](https://open.spotify.com/album/5EeOGbGvN3O0wjUuoXU5lE) | 1:52 | 2022-11-04 | 2023-07-15 |
 | [Pigs, Shit & Trash](https://open.spotify.com/track/6cMLVHVMUgfzEI0Ic4uVOH) | [Weeping Icon](https://open.spotify.com/artist/7AQAl2GtBkKKtSYH9PoDX9) | [Pigs, Shit & Trash](https://open.spotify.com/album/2iCjmIHUYLIbZRQd9HenXo) | 3:37 | 2022-10-14 | 2023-07-15 |
+| [Piledriver](https://open.spotify.com/track/3xLr5NvWXlre42W8eTdiEg) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Street Fighter 6 \[C\. Viper\] Original Soundtrack](https://open.spotify.com/album/7wJY6bWScBTbzvHYvSm8j0) | 3:51 | 2025-10-17 |  |
 | [Pissed](https://open.spotify.com/track/4XXNCayzo7OFJGztzLkZm0) | [Sanguisugabogg](https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN) | [Pissed](https://open.spotify.com/album/7GrmcUajNVtMHWyiWcg9sW) | 3:18 | 2022-11-18 | 2023-07-15 |
 | [Pit of Misery](https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Pit of Misery](https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q) | 5:08 | 2025-02-28 |  |
 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 | 2024-02-03 |
@@ -742,6 +746,7 @@
 | [REAL LIFE LOVE](https://open.spotify.com/track/5IIVm7wOR0Ru5HuriESwjA) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/5tAct1GM2ZHKZHyQQkiqht) | 3:02 | 2024-05-03 | 2025-04-11 |
 | [realcocainemuzak](https://open.spotify.com/track/1dbTia2Rrl1Uym74PIvzde) | [Bodybox](https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q) | [realcocainemuzak](https://open.spotify.com/album/5wvZfH6H4Vg9ON8F66qr5G) | 1:34 | 2025-01-10 |  |
 | [Reality](https://open.spotify.com/track/4pEf65p8qX8TZ4ohXC6Ses) | [Corpse Pile](https://open.spotify.com/artist/3xUOrcghypEI9Ua6wR0tDU) | [Reality](https://open.spotify.com/album/4PwBGEiZbSyu5oRGOIjI2h) | 2:05 | 2024-01-05 | 2025-04-11 |
+| [Reaper On Speed Dial](https://open.spotify.com/track/7flUCufSN46QeBkP0g7FLE) | [Hounds Of War](https://open.spotify.com/artist/5tqf0gCkAFHH8GSQcSmd41), [PeelingFlesh](https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG) | [Reaper On Speed Dial](https://open.spotify.com/album/5FqSFLulrLm9EDmHCjJ5pT) | 3:12 | 2025-10-17 |  |
 | [Reasons](https://open.spotify.com/track/2Kbw9PN25sxZpP0vyKgKW9) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T) | [Reasons](https://open.spotify.com/album/6Un7ChzNDFIi5833ohv7I7) | 2:41 | 2025-09-19 |  |
 | [Rebirth](https://open.spotify.com/track/6H7gfGV4wZuQDdjzh5yA4j) | [Adrienne](https://open.spotify.com/artist/2yiMAdlyDI7ZoGoyo87wIw) | [Summer's Beginning](https://open.spotify.com/album/2M57YSJkwamEC8yM3r1Wmm) | 4:09 | 2023-06-30 | 2024-02-03 |
 | [Rebirth](https://open.spotify.com/track/0COwjZLTyVMSW1nxMUq2l4) | [Statement of Pride](https://open.spotify.com/artist/62gQHnyYZuu5pegFAkKEXq) | [Rebirth](https://open.spotify.com/album/4uFIQ2nxfL9tAPQBwJwLhB) | 2:08 | 2024-04-19 | 2025-04-11 |
@@ -907,6 +912,7 @@
 | [The Abysmal Eye](https://open.spotify.com/track/7Iogi1NuInEAxMBOreCB3b) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [The Abysmal Eye](https://open.spotify.com/album/0TEywpRjtQ68lwnUO0uHSa) | 4:55 | 2022-01-28 | 2023-07-15 |
 | [The Acres/The Ache](https://open.spotify.com/track/22qntLdbNRmTxaMOeQUqlJ) | [Absent in Body](https://open.spotify.com/artist/5hOxl1B20sRbDI4h27K3Aw) | [The Acres/The Ache](https://open.spotify.com/album/7r9YsbBFxRAmXwxqa92B2B) | 8:36 | 2022-02-04 | 2023-07-15 |
 | [The Agony Seeping Storm](https://open.spotify.com/track/0dcPQd2zMC9AzmW1Ga5IWm) | [Job For A Cowboy](https://open.spotify.com/artist/5L3QTPofDwMPGlNnQkyHK1) | [The Agony Seeping Storm](https://open.spotify.com/album/2378MgxGy5oTbUOfvuyq4H) | 4:11 | 2023-09-01 | 2024-02-03 |
+| [The Apparition](https://open.spotify.com/track/3UnmWntw9wWN7VKgpwHGSx) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn) | [The Apparition](https://open.spotify.com/album/6lf0yejImjlIFd2wNNkR2O) | 4:10 | 2025-10-17 |  |
 | [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 | 2025-07-11 |  |
 | [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 | 2024-03-15 | 2025-04-11 |
 | [The Black Curtain](https://open.spotify.com/track/2uSQwNx0A61vBI2XePH1a8) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [The Black Curtain](https://open.spotify.com/album/48SXD0hFVhLJfICQMVIz3x) | 3:18 | 2024-03-15 | 2025-04-11 |

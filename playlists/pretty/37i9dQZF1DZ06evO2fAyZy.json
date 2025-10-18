@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 99646,
+  "num_followers": 99656,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAD0btbfGJVdqIWO4cqQ3VCk",
+  "snapshot_id": "aPA1gAAAAAByxbIFzI0iq+SDko9IfxjV",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Of My Dreams (Deluxe)",
-        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+        "name": "PATTERNS (Stripped Session)",
+        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
       },
       "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Better Version (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+      "duration_ms": 163986,
+      "name": "We Broke Up (Stripped Version)",
+      "url": "https://open.spotify.com/track/3x4eE3NjK46g6MUrmbSg9d"
     },
     {
       "added_at": null,
@@ -671,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Of My Dreams (Deluxe)",
+        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Better Version (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 244466,
       "name": "Legends",
       "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS (Stripped Session)",
-        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "We Broke Up (Stripped Version)",
-      "url": "https://open.spotify.com/track/3x4eE3NjK46g6MUrmbSg9d"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 204106,
-      "name": "First Time Again",
-      "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+      "duration_ms": 191811,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

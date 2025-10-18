@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-653 songs - 2 day 15 hr 11 min
+654 songs - 2 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Glorify Your Name \- Live](https://open.spotify.com/track/2fkOV0ULO7rGyUPTk2w7jM) | [Legacy Nashville](https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje), [Nicole Duckworth](https://open.spotify.com/artist/26bNXlsIGNJJ0JvCJQBrtL) | [GOD IS HERE \(Live\)](https://open.spotify.com/album/156tJn0RZUHmLsfDyOm1cj) | 6:48 | 2024-09-06 | 2025-03-21 |
 | [Glorious Day \- Live](https://open.spotify.com/track/3QhL4eWBVv64IycG3i9XTb) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Worthy Of Your Name \(Live\)](https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK) | 4:58 | 2022-02-17 | 2025-03-21 |
 | [GLORY \- Live](https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [GLORY \(Live\)](https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ) | 6:23 | 2023-07-14 | 2024-04-19 |
+| [Glory Belongs](https://open.spotify.com/track/7HnFjqj3biK4MGUI5mz3RW) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Becky Lucas](https://open.spotify.com/artist/7HCn9LFCIK5RaGklYwEt8N) | [Glory Belongs](https://open.spotify.com/album/3lfOOHHHXm88Ca2x7EjfJt) | 4:41 | 2025-10-17 |  |
 | [Glory Belongs \- Live](https://open.spotify.com/track/0Hjj23mQJNGltREQsXWMV7) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [DOXA \(Live\)](https://open.spotify.com/album/285bUfwUpRzkbNy9ISXgRt) | 5:04 | 2024-06-28 | 2025-03-21 |
 | [Glory, Honor, Power \- Acoustic](https://open.spotify.com/track/1jaJuzT4iyKOxXO6Dd2EOE) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Glory, Honor, Power EP](https://open.spotify.com/album/40BpVowLYEaZ4V1OYkDFDO) | 4:48 | 2023-12-01 | 2025-03-21 |
 | [Glory, Honor, Power \- Live](https://open.spotify.com/track/4JRNwYlQyWH7askTZ6UlA3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [ages \(Deluxe / Live\)](https://open.spotify.com/album/0fqGvPL2KwVyif5k81ZjJo) | 5:07 | 2022-02-17 | 2022-06-10 |

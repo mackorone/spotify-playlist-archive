@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> livin' life with Dasha on the cover
+> Chloe Qisha is always in the hot tub at a party
 
-2,575 songs - 5 day 9 hr 25 min
+2,577 songs - 5 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 | 2023-10-13 | 2024-01-05 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-10-05 | 2023-06-03 |
 | [Cardigan](https://open.spotify.com/track/3kM85kSAUZBKUJfMxC8clk) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [Cardigan](https://open.spotify.com/album/5wQ8EAS2zydLRKG6tUUyhN) | 3:21 | 2022-09-09 | 2022-10-16 |
+| [Cards](https://open.spotify.com/track/5xSSkE1fplMv910qZ2784e) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Wednesday's Child](https://open.spotify.com/album/3cOCHvhcgPYxciEeR8fXKa) | 3:12 | 2025-10-17 |  |
 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 | 2023-08-11 | 2023-08-19 |
 | [carpool](https://open.spotify.com/track/6fAfv4dn8FbcIsXhU0Jed7) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [carpool](https://open.spotify.com/album/6Qmh14clhZEPZEHfsRjZno) | 2:44 | 2021-04-05 | 2021-11-20 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-05-31 | 2024-10-19 |
@@ -1613,7 +1614,7 @@
 | [Nonsense](https://open.spotify.com/track/3MVIHbuVWx7MLRRdHWnd8j) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/0Qkz4dXVbm9MTpGTfO7zfg) | 2:43 | 2022-07-15 | 2022-12-10 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2022-12-23 | 2024-01-05 |
 | [North](https://open.spotify.com/track/0pjBEOWMJTwzzjBrTAlbDd) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane](https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl) | 3:34 | 2021-11-19 | 2022-01-08 |
-| [NOSEBLEED](https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [NOSEBLEED](https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I) | 2:44 | 2025-10-03 |  |
+| [NOSEBLEED](https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [NOSEBLEED](https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I) | 2:44 | 2025-10-03 | 2025-10-18 |
 | [Nostalgia Cycle](https://open.spotify.com/track/5M4hNToXjVHiAIZHRd14SC) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nostalgia Cycle](https://open.spotify.com/album/1eIlsmot9soddLs46Z0Bzk) | 2:44 | 2020-06-29 | 2021-01-15 |
 | [Nostalgic](https://open.spotify.com/track/1pBO9JDqh1y3TbCKEO1OvG) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Nostalgic](https://open.spotify.com/album/1mfUDy3N3YIHDlJp42IKmY) | 3:02 | 2019-06-27 | 2021-04-17 |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-08-27 |
@@ -2043,6 +2044,7 @@
 | [so american](https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:49 | 2024-03-22 | 2024-10-12 |
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-14 | 2022-01-08 |
 | [SO GOOD](https://open.spotify.com/track/4IFKZkPlmMEcNRwic25J9C) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The Love Umbrella](https://open.spotify.com/album/1ZjpptSpeinLfTA8cmPNeK) | 2:10 | 2021-10-25 | 2022-01-29 |
+| [So Sad So Hot](https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [So Sad So Hot](https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA) | 2:51 | 2025-10-17 |  |
 | [Sober](https://open.spotify.com/track/5NhlpQ6BOIz3S5welptk1W) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/1gN7MUuz99VAKnB58U1aZy) | 4:12 | 2021-03-07 | 2021-05-27 |
 | [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 | 2022-11-11 | 2022-12-24 |
 | [Sociopath](https://open.spotify.com/track/6CpFDHNMRiPk47pQeQIb0B) | [Juliet Oliver](https://open.spotify.com/artist/1QLoDhTcjhHU3EpKDVVUv0) | [Sociopath](https://open.spotify.com/album/0COrBjpdJ0RPKnXdjkuVFF) | 3:28 | 2022-09-02 | 2022-09-26 |

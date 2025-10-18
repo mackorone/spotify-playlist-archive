@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259142,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K"
+    },
+    {
+      "album": {
         "name": "DFMU",
         "url": "https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k"
       },
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 218397,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z"

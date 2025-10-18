@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "When Bells are Ringing",
+        "url": "https://open.spotify.com/album/2CaneHQLaO1gdyckjf6j4c"
+      },
+      "artists": [
+        {
+          "name": "Hudson Lights",
+          "url": "https://open.spotify.com/artist/7cGZpogWiqg5xUSGTmYA7A"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114382,
+      "name": "It's Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/3fcumenpjR2sGxEaFJaRgG"
+    },
+    {
+      "album": {
         "name": "It's Beginning to Look a Lot Like Christmas",
         "url": "https://open.spotify.com/album/3WOEnOrK4LIAuOljVmJp0v"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 90213,
       "name": "It\u00b4s beginning to look a lot like christmas",
       "url": "https://open.spotify.com/track/4miSf70PmaeOVq6BpzRsCM"
@@ -2148,10 +2166,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 151112,
       "name": "Rudolph The Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/3L3cxm8r4VeMfdfjQBLKak"
+    },
+    {
+      "album": {
+        "name": "Rudolph the Red-Nosed Reindeer",
+        "url": "https://open.spotify.com/album/1iSttPg1XWTygQFdiOb8ls"
+      },
+      "artists": [
+        {
+          "name": "Autumn Steps",
+          "url": "https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146592,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/1HICTUWwv8pSzJJC9rZYGG"
     },
     {
       "album": {

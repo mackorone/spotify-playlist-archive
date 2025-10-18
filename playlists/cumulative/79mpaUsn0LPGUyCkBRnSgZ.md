@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-932 songs - 2 day 13 hr 48 min
+935 songs - 2 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Dark Ear](https://open.spotify.com/track/4pzkDLgql51eVBPU0T0QMQ) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq) | [Nevermen](https://open.spotify.com/album/6B2zFE8keFSYZkNlani62g) | 3:35 | 2024-03-25 |  |
 | [Dark Light](https://open.spotify.com/track/1o7oOkRLN3ORajw71WC0mx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [The Birds Outside Sang](https://open.spotify.com/album/336M91KDT5FewEOZI5SUJd) | 1:31 | 2024-01-18 | 2024-05-27 |
 | [De Selby \(Part 1\)](https://open.spotify.com/track/78x3oT0wyvcm9GRmuAP6Vq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:39 | 2023-08-18 | 2023-08-28 |
+| [DEAD](https://open.spotify.com/track/1MRQ49rkgqahm7K51ZjtRf) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [THE BPM](https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg) | 4:08 | 2025-10-17 |  |
 | [Dead Leaves and the Dirty Ground](https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 3:02 | 2022-10-21 |  |
 | [Death Parade](https://open.spotify.com/track/4IIdH7tHoikvvr0twQtCBI) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Anime, Trauma and Divorce](https://open.spotify.com/album/23SV7P5U8oF3EJfkdW08wO) | 2:24 | 2023-06-29 | 2023-07-02 |
 | [Debaser](https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:51 | 2023-11-30 | 2024-01-17 |
@@ -543,6 +544,7 @@
 | [My Friend Goo](https://open.spotify.com/track/3BbPWMc572VSVDC7okGwJx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 2:18 | 2024-01-17 |  |
 | [My Garage \(with Zac Brown\)](https://open.spotify.com/track/0L9aSYUIDijRCT1yzsKAsr) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:36 | 2024-08-05 | 2024-08-17 |
 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 | 2024-05-28 |  |
+| [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-10-17 |  |
 | [My, What A Strange Day With A Swede](https://open.spotify.com/track/11R34yTJbfLMltkkDxYzsH) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [If He Is Protecting Our Nation, Then Who Will Protect Big Oil, Our Children?](https://open.spotify.com/album/2Yi1vhHk6Fe52XLRUuw5b6) | 4:11 | 2023-06-03 |  |
 | [Myrrhman](https://open.spotify.com/track/6MuYpktGeHQXZHHko0Tmvl) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 5:32 | 2024-03-26 |  |
 | [Mystery Fish](https://open.spotify.com/track/5r13QvPVwh6OfOvUf71shX) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [The Impossible Kid](https://open.spotify.com/album/6D6v19wYlLDsYkkfebOY3g) | 3:08 | 2023-03-24 | 2023-05-03 |
@@ -558,6 +560,7 @@
 | [New Low](https://open.spotify.com/track/6Y2bJ2mjDB2zXmVBtVqdXf) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:06 | 2024-10-14 | 2025-01-05 |
 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 | 2023-05-19 |  |
 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 | 2025-07-23 |  |
+| [Night Night \(feat\. Kehlani\)](https://open.spotify.com/track/7I8uO1htDS5K05xNIBmBNb) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 1:44 | 2025-10-18 |  |
 | [NINA](https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85) | [Vel Nine](https://open.spotify.com/artist/6Dcufc8lKB2eVG5JKnT5fZ), [NugLife](https://open.spotify.com/artist/3gkvPVQi7D6qstqC5urqvP) | [NINA](https://open.spotify.com/album/1uQF2AgBoZE0Z9e0baNipU) | 1:20 | 2023-12-20 | 2025-02-08 |
 | [No More Hiding](https://open.spotify.com/track/3obGrchYRmtO5rk4O2ZtLZ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:42 | 2024-12-27 | 2024-12-29 |
 | [NO QUESTIONS ASKED](https://open.spotify.com/track/1OzmA3aBR7QK94L2tReAeD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:59 | 2025-08-12 |  |

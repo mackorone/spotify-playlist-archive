@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,945 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,853 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 38 | [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 |
 | 39 | [One Man Circus](https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [One Man Circus](https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN) | 4:40 |
 | 40 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 |
-| 41 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 |
-| 42 | [Everything Anything](https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Everything Anything](https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk) | 3:21 |
+| 41 | [Everything Anything](https://open.spotify.com/track/7xwNAdQd4CBZegpwoyCEZc) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Everything Anything](https://open.spotify.com/album/2zqeDLjSfDLw69sM9VPnsk) | 3:21 |
+| 42 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 |
 | 43 | [Cheap Hotel](https://open.spotify.com/track/41zAokFNg9C9PoQWUwNLnc) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/219sgEyBTSG8rrjI0cPZj2) | 3:30 |
 | 44 | [Fatata](https://open.spotify.com/track/7EHtqFzAw7QVk9SBwYbRah) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Fatata](https://open.spotify.com/album/3pBMLWsNfFApr2pvoCbQJS) | 3:09 |
 | 45 | [Cry For You](https://open.spotify.com/track/45d42op5b8Lec8TlxLFnVX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 48 | [Doctor's Orders](https://open.spotify.com/track/6TlkRvPjRQo5VZqIfM0MjA) | [Carol Douglas](https://open.spotify.com/artist/7xcXR8rEj6eRPVMFjUNtBe) | [The Carol Douglas Album](https://open.spotify.com/album/1mByrI0D24jYEOU6tGcPNH) | 4:30 |
 | 49 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
 | 50 | [The Flood](https://open.spotify.com/track/441D0QiPNeIe3OMeANF0Ll) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart? \(Deluxe\)](https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM) | 4:29 |
-| 51 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
-| 52 | [Only One Laughing](https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Only One Laughing](https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw) | 4:09 |
+| 51 | [Only One Laughing](https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Only One Laughing](https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw) | 4:09 |
+| 52 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
 | 53 | [Баштани](https://open.spotify.com/track/1ultuLDrrteVddIQe1GnwY) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z), [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [Баштани](https://open.spotify.com/album/4GNX4WqQs3G7P7ZDexopow) | 3:10 |
 | 54 | [Multe veri](https://open.spotify.com/track/7gbRTMVWLOUrjvCwIcnliC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Multe veri](https://open.spotify.com/album/0oYF0OXQAZLNYgmnATARR4) | 2:32 |
 | 55 | [Pano Kato](https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pano Kato](https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU) | 2:42 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [Vantule](https://open.spotify.com/track/4xDmuhNr1tkmO8HHQIdR2L) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Vantule](https://open.spotify.com/album/1mex6sLvhRckmJ5ztvZQQY) | 3:02 |
 | 58 | [黑白照](https://open.spotify.com/track/6H7VRaejhgwj3yfhW3vpe9) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [Coloring Stephy](https://open.spotify.com/album/0koAhG5VnQrCGajwz0RNkn) | 3:56 |
 | 59 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 |
-| 60 | [Pyar Ni Sarya](https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Pyar Ni Sarya](https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm) | 3:19 |
-| 61 | [rewind](https://open.spotify.com/track/33urafSYTMfCWX7K4ABDR5) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [rewind](https://open.spotify.com/album/56jrsuouND7fFZFDDlzGnY) | 2:54 |
+| 60 | [rewind](https://open.spotify.com/track/33urafSYTMfCWX7K4ABDR5) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [rewind](https://open.spotify.com/album/56jrsuouND7fFZFDDlzGnY) | 2:54 |
+| 61 | [Pyar Ni Sarya](https://open.spotify.com/track/5JaGHHCV76DAgyLfo75GNy) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Pyar Ni Sarya](https://open.spotify.com/album/4IhUHMHvSoKOKnaleWpCAm) | 3:19 |
 | 62 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 |
 | 63 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 |
 | 64 | [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 |

@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-772 songs - 1 day 12 hr 29 min
+772 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Dem Dey](https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 3:12 | 2025-07-11 |  |
 | [Denge II](https://open.spotify.com/track/4BoTvPsNH6ijLrdlIV1kbA) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Denge II](https://open.spotify.com/album/7K9VJX2ZO6rtj4jW9zqY8t) | 2:38 | 2023-10-13 | 2023-10-18 |
 | [Designer](https://open.spotify.com/track/7F7KrCYzktQutmPOJC3Ba6) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Designer](https://open.spotify.com/album/7tzvON12MgF7hKK8F5AQQx) | 3:01 | 2022-11-15 | 2022-12-03 |
+| [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 | 2025-10-17 |  |
 | [Devil Wears White](https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Devil Wears White](https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1) | 3:10 | 2024-05-17 | 2025-02-25 |
 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 | 2024-02-02 | 2024-06-01 |
 | [diallo](https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [diallo](https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE) | 2:43 | 2024-07-26 | 2024-09-28 |
@@ -718,7 +719,6 @@
 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 | 2024-08-25 | 2024-09-20 |
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-11 |  |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 | 2024-02-09 |
-| [Track 6](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-17 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-03-31 |  |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-05-31 | 2024-12-07 |
 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2022-06-09 | 2023-02-10 |

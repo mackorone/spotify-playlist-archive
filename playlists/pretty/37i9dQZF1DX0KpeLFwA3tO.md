@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,422 likes - 125 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,501 likes - 125 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [](https://open.spotify.com/album/null) | 3:49 |
+| 1 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 3:49 |
 | 2 | [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 |
 | 3 | [Leave It All Behind](https://open.spotify.com/track/4nCMPPLvobSXhrlPedYcAt) | [Gvllow](https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn) | [Leave It All Behind](https://open.spotify.com/album/4K31O9I63wLdkV3ZupIG0g) | 2:52 |
 | 4 | [Freaking Me Out](https://open.spotify.com/track/4C2DglvFgGgEHbl7Xwnyna) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Freaking Me Out](https://open.spotify.com/album/2CKbb8JLrdClt63710DGrE) | 2:46 |

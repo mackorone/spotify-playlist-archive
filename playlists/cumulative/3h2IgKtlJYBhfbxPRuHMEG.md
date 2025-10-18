@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: SIPPY
 
-188 songs - 10 hr 32 min
+189 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [West End Wobbler](https://open.spotify.com/track/7hmv0wbnoi8n7Mbe8fHwQM) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [West End Wobbler](https://open.spotify.com/album/2ysqBWfWSJj9tyYn4yJsuf) | 3:17 | 2025-01-31 |  |
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 | 2025-05-03 |
 | [Wicked & Dark](https://open.spotify.com/track/75LJrHZSecCSZoRiQWIgzA) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Wicked & Dark](https://open.spotify.com/album/0M2y4miuIWfGsUnQ9prMdW) | 3:10 | 2024-11-19 |  |
+| [Wide Awake](https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Scars In Stereo](https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw) | 2:49 | 2025-10-17 |  |
 | [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-16 |  |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2023-12-01 | 2025-05-03 |
 | [Yummy Gummy](https://open.spotify.com/track/6NlBcr0CvGpWvuxgLUjD9t) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Yummy Gummy](https://open.spotify.com/album/4WIjbGDOI6ShqYSfcV3B0y) | 2:50 | 2024-09-20 | 2024-11-09 |

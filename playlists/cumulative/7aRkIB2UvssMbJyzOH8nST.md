@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-204 songs - 11 hr 40 min
+205 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-03 |  |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-07-18 |  |
 | [My Home](https://open.spotify.com/track/2jTuy90JMdLuDtSQyjLaiQ) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:26 | 2025-07-18 |  |
+| [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-10-17 |  |
 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-10 |  |
 | [Nervous \- Acoustic](https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/0f3WTlkEMpF9fllyA7XVQW) | 4:10 | 2025-07-18 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2025-07-18 |  |
@@ -161,7 +162,7 @@
 | [Secrets \(feat\. Lindsey Buckingham & Mick Fleetwood\)](https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 3:49 | 2025-09-19 |  |
 | [Sip](https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sip](https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0) | 2:52 | 2025-07-18 |  |
 | [Skin](https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:59 | 2025-07-18 |  |
-| [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/68gyjIx4ZNSDyrCYiFmg7z) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/album/1yYvnQGlHEb0qm92A6QGLG) | 2:56 | 2025-07-18 |  |
+| [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/68gyjIx4ZNSDyrCYiFmg7z) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/album/1yYvnQGlHEb0qm92A6QGLG) | 2:56 | 2025-07-18 | 2025-10-18 |
 | [SMARTPHONE MAKE ME DUMB](https://open.spotify.com/track/6Gj9xjFXSZro0pf5Dz0Zii) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Articulate Excuses](https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio) | 2:37 | 2025-07-18 |  |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2025-07-18 |  |
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2025-07-18 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-2,277 songs - 5 day 2 hr 20 min
+2,278 songs - 5 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2251,6 +2251,7 @@
 | [yes & no](https://open.spotify.com/track/6UVZo6UKUZC1J2KPP3IIwQ) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [yes & no](https://open.spotify.com/album/7oq0WKmeG97JxVBn3ggwp4) | 2:58 | 2021-08-05 |  |
 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 | 2025-01-02 |  |
 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2024-08-15 |  |
+| [Yo soy mal](https://open.spotify.com/track/7kwhETMFW3m2FW83Cp0kbX) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [H4bits](https://open.spotify.com/album/07vYjdM26vVfAhqoGhPYpF) | 2:10 | 2025-10-17 |  |
 | [Yonkers](https://open.spotify.com/track/1nwkSqzTyXBk6XF796EOav) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:09 | 2021-11-14 |  |
 | [You Are My Music](https://open.spotify.com/track/4NXTg4Wzw1u7E0wErQxdhr) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [Sushi \(4004\)](https://open.spotify.com/album/4hpBGLRgpvJhGO3mzpKsAY) | 5:16 | 2022-11-06 |  |
 | [you arent all cool and edgy just cuz you like lain](https://open.spotify.com/track/760Y4cz8AyJjCcJpHDbHA1) | [snafu](https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp) | [songs about self hatred](https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN) | 1:16 | 2023-01-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,035 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,050 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Ésos Dos Amigos Brindaron Por Ella](https://open.spotify.com/track/3XalTDHy6XRXM1DjFIESot) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9), [Jody Farias](https://open.spotify.com/artist/0AvLxgq8bvY2bXqzeQSgIA) | [Esos Dos Amigos \(Remasterizado\)](https://open.spotify.com/album/3Yg0OfHOXsczieJwV5gq76) | 3:36 |
 | 50 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/3WTDMX2sCPaNtPIRtr4EA9) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puñalada Trapera](https://open.spotify.com/album/77u9ZXoUfBvTcloek014di) | 3:30 |
 
-Snapshot ID: `aO7kAAAAAAC/2PBFnBE8SOubQ8I+kEqn`
+Snapshot ID: `aPA1gAAAAACWGSKN//Cno6mtdpWP04ri`

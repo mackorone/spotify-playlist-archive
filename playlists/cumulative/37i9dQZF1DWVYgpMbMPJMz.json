@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Jesus Culture",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Elevation Worship",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -318,6 +318,28 @@
       "duration_ms": 595918,
       "name": "Abba - Live",
       "url": "https://open.spotify.com/track/6mWxL6kqEE27IXO9UbHksQ"
+    },
+    {
+      "album": {
+        "name": "Abide",
+        "url": "https://open.spotify.com/album/03aZ9C4STlBEmPx7VrpgjR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308918,
+      "name": "Abide",
+      "url": "https://open.spotify.com/track/7wxxj2poCnWWJq4idqZpO0"
     },
     {
       "album": {
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 255860,
       "name": "Better Than I Thought",
       "url": "https://open.spotify.com/track/6nZVhmqQPy6RqX2EjYb8gr"
@@ -3926,6 +3948,28 @@
       "duration_ms": 447670,
       "name": "Elohim - Live From Church",
       "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
+    },
+    {
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/1GIoxbb81T0OXD9pv8tXRV"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        },
+        {
+          "name": "Ryan Kennedy",
+          "url": "https://open.spotify.com/artist/79GBRmCCcohvXbXLvsv3nO"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352191,
+      "name": "Emmanuel",
+      "url": "https://open.spotify.com/track/2buHz6hpCv5tnk1TTKbY2Y"
     },
     {
       "album": {
@@ -7072,7 +7116,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 256566,
       "name": "I Believe - Studio Version",
       "url": "https://open.spotify.com/track/71cf3BRIPBlcrYhpqZ5f79"
@@ -8463,6 +8507,28 @@
     },
     {
       "album": {
+        "name": "Jesus Be The Name",
+        "url": "https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539000,
+      "name": "Jesus Be The Name (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
+    },
+    {
+      "album": {
         "name": "Live From The Ryman",
         "url": "https://open.spotify.com/album/6MIa1NpLwpjAHqaKK08XFI"
       },
@@ -8902,7 +8968,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 220376,
       "name": "Keep Me",
       "url": "https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM"

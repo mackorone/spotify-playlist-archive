@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Laura Vejlby
 
-331 songs - 16 hr 49 min
+332 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Hjertet På Gaden](https://open.spotify.com/track/62EPQ5REuZwGqWoRsPP5Bx) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Hjertet På Gaden](https://open.spotify.com/album/1C6wKGnTdXN5yzDIxllZsR) | 5:12 | 2024-11-14 | 2025-10-10 |
 | [Hope I don't need it](https://open.spotify.com/track/3Rs2tyUZmTUkjqeDoPbBng) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Hope I don't need it](https://open.spotify.com/album/5xekVatNyBScf4BBFlPAve) | 1:55 | 2025-05-29 | 2025-06-06 |
 | [HOT \(feat\. Papa E\)](https://open.spotify.com/track/6ZrzenY5yEFciqcIUmZSYS) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun), [Papa E](https://open.spotify.com/artist/5xnL1wWZMXg9asLC3A05Y7) | [HOT \(feat\. Papa E\)](https://open.spotify.com/album/57MfySDOa1Z3M0R2aaZxUa) | 2:39 | 2025-05-01 | 2025-06-27 |
-| [How Does It Make U Feel](https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [How Does It Make U Feel](https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg) | 3:09 | 2025-09-11 |  |
+| [How Does It Make U Feel](https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [How Does It Make U Feel](https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg) | 3:09 | 2025-09-11 | 2025-10-18 |
 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 | 2024-06-27 | 2025-08-01 |
 | [hun mærker aldrig smerten.](https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s) | [JONATHAN](https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ) | [hun mærker aldrig smerten.](https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0) | 2:40 | 2025-09-25 |  |
 | [Hva Nu Hvis](https://open.spotify.com/track/4taQDbXw2ioOHIy6uj6XOG) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [Hva Nu Hvis](https://open.spotify.com/album/6zBoSmv6vEwoys2yOvKChF) | 3:03 | 2025-02-27 | 2025-03-28 |
@@ -144,7 +144,8 @@
 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 | 2024-08-29 |  |
 | [Hvad Nu Hvis](https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Sytten](https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J) | 3:14 | 2024-06-27 |  |
 | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/track/4PejgbI6KITxcOV89OHRt3) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Hvad Skulle Jeg Gøre Uden Dig](https://open.spotify.com/album/6qO89wFyHbBDTiayGAmhFl) | 2:49 | 2025-04-07 | 2025-06-13 |
-| [Hvor Skabet Skal Stå](https://open.spotify.com/track/1VtcllLThCZaQpTC0912PQ) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [](https://open.spotify.com/album/null) | 2:43 | 2025-10-16 |  |
+| [hver tredje tanke](https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J) | [efterglød](https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3) | [hver tredje tanke](https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ) | 2:48 | 2025-10-16 |  |
+| [Hvor Skabet Skal Stå](https://open.spotify.com/track/1VtcllLThCZaQpTC0912PQ) | [Niko Blonde](https://open.spotify.com/artist/5SyUnGMUPI7fYGjwEB3jU5) | [Nimbus](https://open.spotify.com/album/583YsSUYDxrag3ipPEToiK) | 2:43 | 2025-10-16 |  |
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |

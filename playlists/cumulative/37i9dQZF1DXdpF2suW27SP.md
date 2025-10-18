@@ -2,7 +2,7 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Phenix Rdc, Wet Bed Gang, Nenny entram na zona.
+> Phoenix Rdc, Wet Bed Gang, Nenny entram na zona.
 
 878 songs - 1 day 22 hr 32 min
 
@@ -128,7 +128,7 @@
 | [Bimba Y Lola](https://open.spotify.com/track/5QUDsjbO0NMHW3zAHTFErP) | [MC Caixa Dóculos](https://open.spotify.com/artist/1JoxU0YiJrmtkAHeS1pkwc) | [Bimba Y Lola](https://open.spotify.com/album/4Nf1gMXFDJJPcojjRrkMrO) | 2:40 | 2022-07-16 | 2022-07-29 |
 | [Bipolar](https://open.spotify.com/track/5WHssMvZ9qRpRSs6dkoivi) | [Lord XIV](https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [Bipolar](https://open.spotify.com/album/7b6rw53PTJcF16F5xbwZ24) | 2:40 | 2022-07-16 | 2022-10-01 |
 | [Black On Black](https://open.spotify.com/track/4IxMWTKD2rB3QsU77bXAyj) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Black On Black](https://open.spotify.com/album/7qBgbKy50UBcaQCac4QzJ0) | 2:24 | 2024-05-16 | 2024-06-21 |
-| [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [](https://open.spotify.com/album/null) | 3:53 | 2025-10-16 |  |
+| [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Último Rapper](https://open.spotify.com/album/64KqejTQOkpLtFFFelIHLU) | 3:53 | 2025-10-16 |  |
 | [Boeing 777](https://open.spotify.com/track/4WtOqBES1aOHogJ264Sa4X) | [DJ Overule](https://open.spotify.com/artist/7G2Ifqc6GK5hnQOCEMF1Zo), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [Boeing 777](https://open.spotify.com/album/5ntrD9TJSG9KCjpdl3vCx1) | 3:18 | 2024-04-18 | 2024-05-17 |
 | [Boleia](https://open.spotify.com/track/0wWEB45IdTC3g5q8vyfndR) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Boleia](https://open.spotify.com/album/2ssrcx3QOJafrZfE45cTfC) | 2:43 | 2025-06-12 |  |
 | [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 | 2024-08-23 |

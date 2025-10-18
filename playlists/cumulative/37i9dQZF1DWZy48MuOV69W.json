@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas, Darling",
+        "url": "https://open.spotify.com/album/3E5JNzJzArNy4krXW8xHxd"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234486,
+      "name": "Merry Christmas, Darling",
+      "url": "https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE"
+    },
+    {
+      "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },

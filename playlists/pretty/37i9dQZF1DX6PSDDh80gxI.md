@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Fulminacci
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,437 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,599 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 7 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 |
 | 8 | [NIENTE DA DIRE](https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [NIENTE DA DIRE](https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby) | 3:23 |
 | 9 | [Casomai](https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Casomai](https://open.spotify.com/album/3pQ5QeRXj1tCHWXBmIJbXG) | 3:05 |
-| 10 | [Non è reale](https://open.spotify.com/track/16KnjF4Di0kLMwn2Nvp0Yi) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [](https://open.spotify.com/album/null) | 3:25 |
+| 10 | [Non è reale](https://open.spotify.com/track/16KnjF4Di0kLMwn2Nvp0Yi) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Una Lunghissima Ombra](https://open.spotify.com/album/52jbKu3RrMapCDLWlHY97M) | 3:25 |
 | 11 | [La notte](https://open.spotify.com/track/1ORx3yuGZUW1FjowRyVztF) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 2:45 |
 | 12 | [Sentirsi Soli \(con Calcutta\)](https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 3:05 |
 | 13 | [Occhi diamanti \(feat\. Joan Thiele\)](https://open.spotify.com/track/7r63nk6dEDZzZZ5BUoDcup) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 3:58 |

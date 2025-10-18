@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,741 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,768 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 7 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 |
 | 8 | [ใบพัด](https://open.spotify.com/track/0brFVslPMHgQT6utYAw6Im) | [COPTER](https://open.spotify.com/artist/2uadqiwrZXc9uxxuP3AXsX), [TAKHLI GANG](https://open.spotify.com/artist/7MPbxRBRGAbRHXldxxi8ON) | [ใบพัด](https://open.spotify.com/album/59VSv8U1wMRFY0NuO8SuGS) | 3:23 |
 | 9 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 |
-| 10 | [อกหักเป็นเพื่อนเธอ \(Beside you\)](https://open.spotify.com/track/0CXLaDCMekkzbPrkkcQDmx) | [DEXX](https://open.spotify.com/artist/6O1il28dFXeWugxZc2CbQV) | [อกหักเป็นเพื่อนเธอ \(Beside you\)](https://open.spotify.com/album/1h9BsGXHOucFo2tz0AdPdS) | 3:31 |
+| 10 | [อกหักเป็นเพื่อนเธอ \(Beside you\)](https://open.spotify.com/track/0CXLaDCMekkzbPrkkcQDmx) | [DEXX](https://open.spotify.com/artist/00xcYloqQIi9MrDTP7NUuA) | [อกหักเป็นเพื่อนเธอ \(Beside you\)](https://open.spotify.com/album/1h9BsGXHOucFo2tz0AdPdS) | 3:31 |
 | 11 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 |
 | 12 | [ปสด \(WTH\)](https://open.spotify.com/track/485mVs5B5ADp7WlqFB3ggt) | [ily](https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre) | [ปสด \(WTH\)](https://open.spotify.com/album/1nrw6CHbemgtLx2gfy8sNm) | 4:12 |
 | 13 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |

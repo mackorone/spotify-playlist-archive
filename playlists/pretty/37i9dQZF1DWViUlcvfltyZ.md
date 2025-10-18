@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia ⋅˚₊‧ 𐙚 ‧₊˚ ⋅ Sutura in cover ⋅˚₊‧ 𐙚 ‧₊˚ ⋅
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,637 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,637 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 2 | [\(non\) mi piace](https://open.spotify.com/track/6PPEzKxkPPb2S9hVkcGLqK) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [\(non\) mi piace](https://open.spotify.com/album/78waya964QU1EDXu7mCqPq) | 2:36 |
 | 3 | [Noiadrama](https://open.spotify.com/track/573vfSbIuBXA7rNyCRXUHr) | [Vera Slö](https://open.spotify.com/artist/2wGbYWCrMCyKnFhsetEtWq) | [Noiadrama](https://open.spotify.com/album/7zcirnUXY3AVtUcRnIWjXu) | 4:36 |
 | 4 | [Non conta niente](https://open.spotify.com/track/6XVGtCxFXoNyDdFEC2LOK6) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Almeno per ora](https://open.spotify.com/album/0sqRw2mJhWz7Vl78iUFXCm) | 4:08 |
-| 5 | [Track 3](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [The Death of the Crows](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [X\-ÆON](https://open.spotify.com/album/5ufm3YpuYfSpMyPapW5Vay) | 3:09 |
 | 6 | [RETTILE](https://open.spotify.com/track/2NJT7X3r7DzVDAKT3V05T0) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [RETTILE](https://open.spotify.com/album/3WDlcnaVtBFRqLhcYyie2x) | 2:46 |
 | 7 | [La Diavoletto](https://open.spotify.com/track/5UsjmEA6m4yRbB0Ib1hEg9) | [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL) | [La Diavoletto](https://open.spotify.com/album/3mMb3wxLlVHoxi6e3MgPdU) | 3:17 |
 | 8 | [ragazze](https://open.spotify.com/track/69IDvONe3y2jZjumffbb48) | [Leyla El Abiri](https://open.spotify.com/artist/3E7G9DQhR8ftQDt18ieMVZ) | [ragazze](https://open.spotify.com/album/3P5xyKWAq4tKZckSbp3tsL) | 3:16 |

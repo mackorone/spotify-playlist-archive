@@ -1,6 +1,6 @@
 {
   "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sofia, Cristale, Wohdee",
-  "num_followers": 1463904,
+  "num_followers": 1463918,
   "original_name": "Massive Drum & Bass",
   "owner": {
     "name": "Spotify",
@@ -211,17 +211,21 @@
     {
       "added_at": "2025-10-16 23:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/5yhP8nOHd7csJWzs7YxW8i"
       },
       "artists": [
         {
           "name": "Ruth Royall",
           "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        },
+        {
+          "name": "Ekko & Sidetrack",
+          "url": "https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 231724,
+      "name": "Chase The Dawn",
       "url": "https://open.spotify.com/track/5F94RoO1v542hRqI0vIWFM"
     },
     {
@@ -379,17 +383,25 @@
     {
       "added_at": "2025-10-16 23:00:13",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Sage - EP",
+        "url": "https://open.spotify.com/album/0OmdGJIRwiqi650UkLFiPW"
       },
       "artists": [
         {
           "name": "Tim Reaper",
           "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        },
+        {
+          "name": "Mantra",
+          "url": "https://open.spotify.com/artist/0pURdJtqEp2EZz5L1LIYhy"
+        },
+        {
+          "name": "Decibella",
+          "url": "https://open.spotify.com/artist/7dgq4diTXTqfB2DhGsO69L"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 377750,
+      "name": "Sage",
       "url": "https://open.spotify.com/track/1IXmU0CSRnnH8BLxZD7kVK"
     },
     {

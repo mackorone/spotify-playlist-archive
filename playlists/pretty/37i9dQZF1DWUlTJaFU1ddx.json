@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 31856,
+  "num_followers": 31858,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "\u0636\u0648\u064a\u062a \u0627\u0644\u0643\u0648\u0646",
-        "url": "https://open.spotify.com/album/3UkjsaDJ2zeu53ZyM6yJjj"
-      },
-      "artists": [
-        {
-          "name": "\u0633\u0639\u062f \u0627\u0644\u0632\u064a\u0646",
-          "url": "https://open.spotify.com/artist/0c1jfiG9lurrqRQXumwYZe"
-        }
-      ],
-      "duration_ms": 245428,
-      "name": "\u0636\u0648\u064a\u062a \u0627\u0644\u0643\u0648\u0646",
-      "url": "https://open.spotify.com/track/2Mp14EuBWISckdn5vYr7ot"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Black Iris",
         "url": "https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 174315,
       "name": "OCB",
       "url": "https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "\u0636\u0648\u064a\u062a \u0627\u0644\u0643\u0648\u0646",
+        "url": "https://open.spotify.com/album/3UkjsaDJ2zeu53ZyM6yJjj"
+      },
+      "artists": [
+        {
+          "name": "\u0633\u0639\u062f \u0627\u0644\u0632\u064a\u0646",
+          "url": "https://open.spotify.com/artist/0c1jfiG9lurrqRQXumwYZe"
+        }
+      ],
+      "duration_ms": 245428,
+      "name": "\u0636\u0648\u064a\u062a \u0627\u0644\u0643\u0648\u0646",
+      "url": "https://open.spotify.com/track/2Mp14EuBWISckdn5vYr7ot"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -847,8 +847,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Hala O Ghala",
-        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
+        "name": "Ma Bdi Heb",
+        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 211282,
-      "name": "Hala O Ghala",
-      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
+      "duration_ms": 254394,
+      "name": "Ma Bdi Heb",
+      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -935,8 +935,8 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Ma Bdi Heb",
-        "url": "https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z"
+        "name": "Hala O Ghala",
+        "url": "https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO"
         }
       ],
-      "duration_ms": 254394,
-      "name": "Ma Bdi Heb",
-      "url": "https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8"
+      "duration_ms": 211282,
+      "name": "Hala O Ghala",
+      "url": "https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi"
     },
     {
       "added_at": "2024-12-21 19:38:19",

@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 126161,
+  "num_followers": 126177,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Pa\u00eds Tropical",
-      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Que Gente Averigu\u00e1",
         "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 177680,
       "name": "Lluvia con Nieve",
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Pa\u00eds Tropical",
+      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
         "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
       },
@@ -727,6 +711,42 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Gal Costa",
+        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
+      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
         "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 219624,
       "name": "Ayonha",
       "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Gal Costa",
-        "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Que Pena (Ele J\u00e1 N\u00e3o Gosta Mais De Mim)",
-      "url": "https://open.spotify.com/track/1wuB9MID26ep43OlkOtBXd"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Magnetica",
         "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+        "name": "Zungguzungguguzungguzeng!",
+        "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Yellowman",
+          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
         }
       ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+      "duration_ms": 388226,
+      "name": "Zungguzungguguzungguzeng",
+      "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -931,18 +947,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Zungguzungguguzungguzeng!",
-        "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
       },
       "artists": [
         {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
         }
       ],
-      "duration_ms": 388226,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -963,38 +979,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 192965,
-      "name": "Lotus 72 D",
-      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "DEIRA",
         "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 163183,
       "name": "Allah Yihmeeki",
       "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 192965,
+      "name": "Lotus 72 D",
+      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
-        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
-      },
-      "artists": [
-        {
-          "name": "Os Tinco\u00e3s",
-          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Deixa A Gira Girar",
-      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "007 Shanty Town",
         "url": "https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 154293,
       "name": "007 (Shanty Town)",
       "url": "https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
+        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
+      },
+      "artists": [
+        {
+          "name": "Os Tinco\u00e3s",
+          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Deixa A Gira Girar",
+      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "S\u00e9rie Samba Soul",
-        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
-      },
-      "artists": [
-        {
-          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Hei! Voc\u00ea",
-      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 126500,
       "name": "Iko Iko",
       "url": "https://open.spotify.com/track/0hc44Di7G79vgVhwEwgZbJ"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "S\u00e9rie Samba Soul",
+        "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
+      },
+      "artists": [
+        {
+          "name": "Dom Salvador & Aboli\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0Aanlviesqoy29lgsP9OC6"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Hei! Voc\u00ea",
+      "url": "https://open.spotify.com/track/3Ztfe3UOfRkjTpajSYZ4qy"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+        "name": "En \u0130yileriyle G\u00fczin ile Baha",
+        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
       },
       "artists": [
         {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+          "name": "G\u00fczin \u0130le Baha",
+          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
         }
       ],
-      "duration_ms": 225293,
-      "name": "Little Sunflower",
-      "url": "https://open.spotify.com/track/3A6e928yOFJ0MhlG7xrFDW"
+      "duration_ms": 173520,
+      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
+      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "En \u0130yileriyle G\u00fczin ile Baha",
-        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
       "artists": [
         {
-          "name": "G\u00fczin \u0130le Baha",
-          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
-      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
+      "duration_ms": 225293,
+      "name": "Little Sunflower",
+      "url": "https://open.spotify.com/track/3A6e928yOFJ0MhlG7xrFDW"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Sketches From An Island 2",
-        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
-      },
-      "artists": [
-        {
-          "name": "Mark Barrott",
-          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
-        }
-      ],
-      "duration_ms": 224428,
-      "name": "Brunch With Suki",
-      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Isle Of Magic",
         "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 246799,
       "name": "Kamakumba",
       "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Sketches From An Island 2",
+        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "duration_ms": 224428,
+      "name": "Brunch With Suki",
+      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
-        "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/73TTpGtSDdXRP8J7loLifZ"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Tropical Suite",
         "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 126973,
       "name": "Tropical Suite: S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/73TTpGtSDdXRP8J7loLifZ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Al Barry & Friends (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
-      },
-      "artists": [
-        {
-          "name": "Al Barry",
-          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
-        }
-      ],
-      "duration_ms": 176091,
-      "name": "Morning Sun",
-      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Charanga Moderna",
         "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Al Barry & Friends (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd"
+      },
+      "artists": [
+        {
+          "name": "Al Barry",
+          "url": "https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU"
+        }
+      ],
+      "duration_ms": 176091,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd"
     },
     {
       "added_at": "2025-03-14 13:51:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23280,
+  "num_followers": 23286,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAChLKdVTXhvtpYG/CVfeqEe",
+  "snapshot_id": "aPA1gAAAAACEiUVZ3LgYEnSHwyrrBoQn",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 144626,
-      "name": "Beyond Desolation",
-      "url": "https://open.spotify.com/track/7FJl0uqxLDfH9bhQ1Gte0x"
+      "duration_ms": 139480,
+      "name": "It Can't Last",
+      "url": "https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 139480,
-      "name": "It Can't Last",
-      "url": "https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C"
+      "duration_ms": 144626,
+      "name": "Beyond Desolation",
+      "url": "https://open.spotify.com/track/7FJl0uqxLDfH9bhQ1Gte0x"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
+        "name": "Ronroco (2024 Remaster)",
+        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 116240,
-      "name": "Brokeback Mountain 2",
-      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
+      "duration_ms": 203560,
+      "name": "Zenda - 2024 Remaster",
+      "url": "https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ronroco (2024 Remaster)",
-        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/6NGMvqRZ7JZUnBrU4qoG3N"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 203560,
-      "name": "Zenda - 2024 Remaster",
-      "url": "https://open.spotify.com/track/2b1YIeZgof9nVmPwdDi4mP"
+      "duration_ms": 116240,
+      "name": "Brokeback Mountain 2",
+      "url": "https://open.spotify.com/track/5kgQk3nXmgrd0UeC7440ac"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ronroco (2024 Remaster)",
+        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Way Up - 2024 Remaster",
+      "url": "https://open.spotify.com/track/7LgxPNe9CberSHKwj4JowX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 240333,
       "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
       "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ronroco (2024 Remaster)",
-        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Way Up - 2024 Remaster",
-      "url": "https://open.spotify.com/track/7LgxPNe9CberSHKwj4JowX"
     },
     {
       "added_at": null,
@@ -991,22 +991,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+        "name": "Ronroco (2024 Remaster)",
+        "url": "https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB"
       },
       "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 170919,
-      "name": "Yarar\u00e1",
-      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+      "duration_ms": 182586,
+      "name": "Jardin - 2024 Remaster",
+      "url": "https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

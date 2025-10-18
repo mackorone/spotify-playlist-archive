@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Multi\-hyphenate pop 💫 ft\. samxemma
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,749 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,743 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 18 | [play me like a speaker](https://open.spotify.com/track/2Db4ymX1AivTU8lUJbT8F6) | [Lucky Iris](https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC) | [play me like a speaker](https://open.spotify.com/album/4rd6PIDkOzq2Xy1hQSf7ki) | 3:09 |
 | 19 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
 | 20 | [Drowning](https://open.spotify.com/track/1U01USQ1KoGB36wlCHw6px) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Heatwave/Drowning](https://open.spotify.com/album/65sVg5JZEC2W2CsPApyASp) | 3:14 |
-| 21 | [I Want My Boyfriends to Kiss](https://open.spotify.com/track/7kEuCrDF7p9pOLzO1q2pu1) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [](https://open.spotify.com/album/null) | 2:24 |
+| 21 | [I Want My Boyfriends to Kiss](https://open.spotify.com/track/7kEuCrDF7p9pOLzO1q2pu1) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:24 |
 | 22 | [Here All Night \- Banoffee Remix](https://open.spotify.com/track/2bBkeSYNBIBvbaYU9mFutO) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Here All Night \(Remixes\)](https://open.spotify.com/album/2FmBAje1pzPUlv2JRxMm2Y) | 3:48 |
 | 23 | [GUAPA \(stunning, gorgeous Remix\)](https://open.spotify.com/track/3CB2Bu4dQUOn2N1kOcZyRu) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD), [CROOK](https://open.spotify.com/artist/2MQIOKK2Z1vaRmtnFUyyUv) | [GUAPA \(stunning, gorgeous Remix\)](https://open.spotify.com/album/7dBZj4mBhkQ41gPhJVV29w) | 2:08 |
 | 24 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 |

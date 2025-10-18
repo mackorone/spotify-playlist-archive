@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92473,
+  "num_followers": 92478,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAD8atFGs9vWQKH3xYJMNvrJ",
+  "snapshot_id": "aPA1gAAAAAD/FwxfQC9QgBW+L7jSVL1/",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 80800,
-      "name": "It's My Job To Keep Punk Rock Elite",
-      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
+      "duration_ms": 54600,
+      "name": "Monosyllabic Girl",
+      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Lori Meyers",
-      "url": "https://open.spotify.com/track/1BqrOpxmeKJG5uzewLFpv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
         "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Lori Meyers",
+      "url": "https://open.spotify.com/track/1BqrOpxmeKJG5uzewLFpv2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 54600,
-      "name": "Monosyllabic Girl",
-      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
+      "duration_ms": 80800,
+      "name": "It's My Job To Keep Punk Rock Elite",
+      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 125000,
-      "name": "She's Nubs",
-      "url": "https://open.spotify.com/track/04ufgAK1Fo9Ns7VWHDQPXr"
+      "duration_ms": 140333,
+      "name": "Bottles To The Ground",
+      "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+        "name": "The War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
       "artists": [
         {
@@ -504,25 +504,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 140333,
-      "name": "Bottles To The Ground",
-      "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Eat The Meek",
-      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
+      "duration_ms": 125000,
+      "name": "She's Nubs",
+      "url": "https://open.spotify.com/track/04ufgAK1Fo9Ns7VWHDQPXr"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 190200,
       "name": "Philthy Phil Philanthropist",
       "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Eat The Meek",
+      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 150288,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
+      "duration_ms": 142440,
+      "name": "Liza And Louise",
+      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 142440,
-      "name": "Liza And Louise",
-      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
+      "duration_ms": 150288,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "We Threw Gasoline.......",
-      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -703,6 +687,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 115426,
+      "name": "13 Stitches",
+      "url": "https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 58000,
       "name": "And Now For Something Completely Similar",
       "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 115426,
-      "name": "13 Stitches",
-      "url": "https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 145466,
-      "name": "Take Two Placebos And Call Me Lame",
-      "url": "https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Longest EP",
         "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
       "artists": [
         {
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 152066,
-      "name": "The Irrationality of Rationality",
-      "url": "https://open.spotify.com/track/6JcL46OffqgYlKLUNWiPXd"
+      "duration_ms": 145466,
+      "name": "Take Two Placebos And Call Me Lame",
+      "url": "https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 99333,
+      "name": "Thank God It's Monday",
+      "url": "https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu"
     }
   ],
   "unique_name": "This Is NOFX",

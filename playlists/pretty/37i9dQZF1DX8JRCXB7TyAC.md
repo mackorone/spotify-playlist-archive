@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,963 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,000 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 31 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 |
 | 32 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
 | 33 | [2 Numbari](https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Anjali 99](https://open.spotify.com/artist/4QirDUwZFIIRDP3tL7gB6E) | [2 Numbari](https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa) | 3:32 |
-| 34 | [Gunde Te Pyaar](https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa), [Zameer Siddiqui](https://open.spotify.com/artist/0MOHjZdv3gfJbXu4Lt7NL0) | [Gunde Te Pyaar](https://open.spotify.com/album/2M6uGncIcmy5hpjlLqoQos) | 3:28 |
-| 35 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 |
+| 34 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 |
+| 35 | [Gunde Te Pyaar](https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Sweta Chauhan](https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa), [Zameer Siddiqui](https://open.spotify.com/artist/0MOHjZdv3gfJbXu4Lt7NL0) | [Gunde Te Pyaar](https://open.spotify.com/album/2M6uGncIcmy5hpjlLqoQos) | 3:28 |
 | 36 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 | 37 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
 | 38 | [Gurjar Gang](https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Gurjar Gang](https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Dabke Na Chale](https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Dabke Na Chale](https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3) | 2:14 |
 | 50 | [Pehlwan](https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw) | [Rahul Dhandlaniya](https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Yogesh Jakhodiya](https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA) | [Pehlwan](https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ) | 2:32 |
 
-Snapshot ID: `AAAAACqQZAAPtHlB7gTwb4g44Fu3+bQA`
+Snapshot ID: `AAAAABpfdiVBiEtjOzqPYH9Z9kW88Kw3`

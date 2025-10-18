@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "It's the Most Wonderful Time of the Year (Glockenspiel Version)",
+        "url": "https://open.spotify.com/album/6q5LfzOWamehjC0abmA5y7"
+      },
+      "artists": [
+        {
+          "name": "Javier Baptiste",
+          "url": "https://open.spotify.com/artist/2uewMqHpV6mX6G7ERlp79O"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116283,
+      "name": "It's the Most Wonderful Time of the Year (Glockenspiel Version)",
+      "url": "https://open.spotify.com/track/2scJLpLSbgiLTFnxanpSRH"
+    },
+    {
+      "album": {
         "name": "Wonderful Christmas",
         "url": "https://open.spotify.com/album/7HOl8eBaPuwQOf1tJxjyn0"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 92470,
       "name": "It's The Most Wonderful Time of the Year - Music Box",
       "url": "https://open.spotify.com/track/6WT7Imrx1a17zFicfMtz3q"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 136874,
       "name": "It\u00b4s the most wonderful time of the year",
       "url": "https://open.spotify.com/track/3R3O2YJkeaSNU7igfbPtuz"

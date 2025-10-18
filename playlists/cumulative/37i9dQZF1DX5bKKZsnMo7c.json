@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "ALICE (Red Queen Version)",
+        "url": "https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        },
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "ALICE - Red Queen Version",
+      "url": "https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc"
+    },
+    {
+      "album": {
         "name": "Gawk",
         "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
       },
@@ -700,7 +722,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 265792,
       "name": "BUTTERFLY",
       "url": "https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz"
@@ -5472,6 +5494,28 @@
       "duration_ms": 118000,
       "name": "lucy~",
       "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
+    },
+    {
+      "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/5nQalzcY5OAeEjf2AfpOu0"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        },
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115294,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/2Tf3o75XkU0IS06tYgEuvn"
     },
     {
       "album": {

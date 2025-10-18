@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,046 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,044 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 2 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
+| 1 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
+| 2 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 3 | [Italia amore mio](https://open.spotify.com/track/0Y5wPtrrDx8Z7leLqYbF6F) | [Luca Canonici](https://open.spotify.com/artist/5EPuE5AnmS2tOrgNEmd47b), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Emanuele Filiberto](https://open.spotify.com/artist/5i2qgL9Q4eV4K3uIPYBygd) | [Italia amore mio](https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4) | 3:37 |
 | 4 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
 | 5 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 42 | [Innamoratissimo](https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:49 |
 | 43 | [Sinue' \- Alternative Version](https://open.spotify.com/track/4RG8tAMD8kCDiW8W6TAb0P) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [Sinue' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R9RmrSBzjR4PzEnp7c5OO) | 3:51 |
 | 44 | [Accidenti](https://open.spotify.com/track/1UV5OkoxrRI7ynZSQykPXm) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 2:53 |
-| 45 | [Le Opere Di Bartolomeo](https://open.spotify.com/track/2Kv2f0zunEJkre9EQAJa1I) | [The Rokes](https://open.spotify.com/artist/784vfbIFL4SU0u1J0Pn0Rb) | [The Rokes](https://open.spotify.com/album/3mm9uSe1qxj3rndKZKA61E) | 3:35 |
-| 46 | [Ciao Barbarella](https://open.spotify.com/track/2u8X8HaobutZdw7jtRcJT3) | [Ciro Sebastianelli](https://open.spotify.com/artist/1woevdio0DhaV9mcYxCfuk) | [Ciro Sebastianelli](https://open.spotify.com/album/3Fwu7sLQ1Oqei8qHjmvtwq) | 3:22 |
+| 45 | [Ciao Barbarella](https://open.spotify.com/track/2u8X8HaobutZdw7jtRcJT3) | [Ciro Sebastianelli](https://open.spotify.com/artist/1woevdio0DhaV9mcYxCfuk) | [Ciro Sebastianelli](https://open.spotify.com/album/3Fwu7sLQ1Oqei8qHjmvtwq) | 3:22 |
+| 46 | [Le Opere Di Bartolomeo](https://open.spotify.com/track/2Kv2f0zunEJkre9EQAJa1I) | [The Rokes](https://open.spotify.com/artist/784vfbIFL4SU0u1J0Pn0Rb) | [The Rokes](https://open.spotify.com/album/3mm9uSe1qxj3rndKZKA61E) | 3:35 |
 | 47 | [Senza impegno](https://open.spotify.com/track/2rRUTnurxd42lIBpQco6EV) | [Le Volpi Blu](https://open.spotify.com/artist/7Hnu3ZUfIIqmFGI39PNFVK) | [Il meglio](https://open.spotify.com/album/6THRv6wgJm7Or9cRDkralo) | 2:43 |
 | 48 | [Contessa](https://open.spotify.com/track/7maFmvGprAIpXY7OL8sdTl) | [Decibel](https://open.spotify.com/artist/0wSk7M2UXea9whwjDzmK4R) | [Vivo Da Re](https://open.spotify.com/album/0wi7XZKr9NQXnzCZ5gFqyA) | 3:03 |
 | 49 | [La terra dei cachi](https://open.spotify.com/track/7B1a9ZioRPIan2ejYapGxt) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Del meglio del nostro meglio Vol\. 1 \(remastered\)](https://open.spotify.com/album/05KkxDmNE4o75OO2Xnq9pQ) | 4:41 |

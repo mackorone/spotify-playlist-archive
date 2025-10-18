@@ -1,12 +1,12 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Paris Paloma",
-  "num_followers": 557013,
+  "num_followers": 557087,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtXI0HFzL1ppYTrC+fEi8UjDN+r",
+  "snapshot_id": "AAAAAPfu4sDMjEx1mfV+ozeBy5wFY6ku",
   "tracks": [
     {
       "added_at": "2025-09-19 04:00:30",
@@ -23,6 +23,26 @@
       "duration_ms": 222106,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "added_at": "2025-10-17 04:01:03",
+      "album": {
+        "name": "ALICE (Red Queen Version)",
+        "url": "https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        },
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "ALICE - Red Queen Version",
+      "url": "https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc"
     },
     {
       "added_at": "2025-10-10 04:00:48",
@@ -87,6 +107,26 @@
       "duration_ms": 158167,
       "name": "Hot Goblin",
       "url": "https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw"
+    },
+    {
+      "added_at": "2025-10-17 04:01:03",
+      "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/5nQalzcY5OAeEjf2AfpOu0"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        },
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 115294,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/2Tf3o75XkU0IS06tYgEuvn"
     },
     {
       "added_at": "2024-08-23 04:11:51",
@@ -993,22 +1033,6 @@
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
     },
     {
-      "added_at": "2025-02-21 05:00:18",
-      "album": {
-        "name": "BUTTERFLY",
-        "url": "https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 265792,
-      "name": "BUTTERFLY",
-      "url": "https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz"
-    },
-    {
       "added_at": "2025-02-03 02:22:22",
       "album": {
         "name": "The Rise and Fall of a Midwest Princess",
@@ -1155,22 +1179,6 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
-    },
-    {
-      "added_at": "2024-08-23 04:11:51",
-      "album": {
-        "name": "Bad Feeling (Oompa Loompa)",
-        "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
-      },
-      "artists": [
-        {
-          "name": "Jagwar Twin",
-          "url": "https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria"
-        }
-      ],
-      "duration_ms": 133754,
-      "name": "Bad Feeling (Oompa Loompa)",
-      "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
     },
     {
       "added_at": "2024-08-23 04:11:51",

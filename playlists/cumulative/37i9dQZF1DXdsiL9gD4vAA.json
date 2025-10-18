@@ -1843,6 +1843,28 @@
     },
     {
       "album": {
+        "name": "Humsafar",
+        "url": "https://open.spotify.com/album/49WvNiYCSOpNv4rwVOPGIL"
+      },
+      "artists": [
+        {
+          "name": "Deepak Pandit",
+          "url": "https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B"
+        },
+        {
+          "name": "Priyanka Barve",
+          "url": "https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "Humsafar",
+      "url": "https://open.spotify.com/track/08YSCIzX8u7ct46BZe9XGg"
+    },
+    {
+      "album": {
         "name": "Hungama Hai Kyon Barpa",
         "url": "https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD"
       },
@@ -3158,7 +3180,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 226520,
       "name": "Rafta Rafta Voh Meri Hasti Ka",
       "url": "https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ"

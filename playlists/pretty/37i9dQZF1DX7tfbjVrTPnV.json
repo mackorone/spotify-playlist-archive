@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 230947,
+  "num_followers": 230995,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Tell Heaven",
+      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Long in the Tooth",
         "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 186152,
       "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Tell Heaven",
-      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 248920,
-      "name": "I'll Get Away",
-      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 255490,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 248920,
+      "name": "I'll Get Away",
+      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
     },
     {
       "added_at": "2024-08-30 04:00:00",

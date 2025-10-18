@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: T\. Rucira
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,696 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,702 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cerah Merekah](https://open.spotify.com/track/4TW70WgLLPdpkmPdvNVJGx) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [Cerah Merekah](https://open.spotify.com/album/3zXo3s6p8VaMVXG85IyiiI) | 4:24 |
 | 2 | [Di Batas Malam](https://open.spotify.com/track/57wJkQVl4krsMHaowArNgc) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Di Batas Malam \(Ost\. Shutter\)](https://open.spotify.com/album/4yhotRBCWHH4Fk13EfJ5SE) | 4:25 |
 | 3 | [Melati](https://open.spotify.com/track/62l2nQqggtXIiljDHLaeEb) | [Frasa](https://open.spotify.com/artist/7yZ9jH9hNvBrVhe7ZANmGh) | [Melati](https://open.spotify.com/album/1EIiz9IOjNshQZ3HAz2ARN) | 2:55 |
-| 4 | [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [](https://open.spotify.com/album/null) | 3:20 |
+| 4 | [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [4 Mata, 5 Cerita](https://open.spotify.com/album/1J7zcBTV2ygWGt0Isut2RQ) | 3:20 |
 | 5 | [Berdansa di Pesta](https://open.spotify.com/track/3zl5F4BCmmQ0TgNl3iqqGu) | [Aksaranata](https://open.spotify.com/artist/2oqxRLLsnj8YXdqoHUK3dt) | [Berdansa di Pesta](https://open.spotify.com/album/2CaUhA0E0rnKauBuCJRWME) | 3:00 |
 | 6 | [cheesewave](https://open.spotify.com/track/3M6dWdZf3z6QR1kA9QssPs) | [Pizza! Pizza!](https://open.spotify.com/artist/772JaMNSokK97L8jpZFDt1) | [cheesewave](https://open.spotify.com/album/4Sl7iao3CzmmntMNIQwSWf) | 3:02 |
 | 7 | [Hidup Baru](https://open.spotify.com/track/3qTeUn2za3w6m9d77WI5W0) | [yowha](https://open.spotify.com/artist/6fNC8J5n7BnYgmRXWQdb3m) | [Hidup Baru](https://open.spotify.com/album/6gaNIRX2VpAHF4lXBeNytw) | 4:00 |

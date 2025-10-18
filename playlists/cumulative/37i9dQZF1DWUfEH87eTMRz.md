@@ -4,7 +4,7 @@
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-403 songs - 1 day 0 hr 0 min
+405 songs - 1 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 | 2025-03-28 | 2025-09-03 |
 | [Cariño](https://open.spotify.com/track/7uWmMWEBGlBAm5B0oMpcs8) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [LA NOCHE](https://open.spotify.com/album/6yDXf7d9bcrE0IkookDVak) | 3:37 | 2025-03-28 | 2025-09-03 |
 | [CELESTE // YA LO SABES](https://open.spotify.com/track/34PUpL0jT5ypEofPXPbmcs) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [MIEL](https://open.spotify.com/album/1OoKdq8qfZZSfANVp3cmGP) | 3:01 | 2025-03-28 | 2025-09-03 |
+| [Champagne Coast](https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR) | 4:52 | 2025-10-17 |  |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2025-09-02 |  |
 | [Chismofilia](https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Chismofilia](https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB) | 2:58 | 2025-09-02 |  |
 | [Chulo pt.2](https://open.spotify.com/track/1NCF4UUsuT6Xzw2Zxd43PJ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Joia](https://open.spotify.com/album/14IBdTrbCCeHRZgTATdgRd) | 3:38 | 2024-02-21 | 2025-03-29 |
@@ -138,7 +139,7 @@
 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 | 2023-03-01 | 2024-02-22 |
 | [Frank Sinatra](https://open.spotify.com/track/3mK7ll5qJEKgsV3IQtpJJP) | [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL), [The Hacker](https://open.spotify.com/artist/763V8ZisRsw5kCoquzKTUp) | [First Album \(2009 Reissue\)](https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8) | 3:55 | 2024-02-21 | 2025-03-29 |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2025-03-28 | 2025-09-03 |
-| [fuga](https://open.spotify.com/track/0LKqLPLiE8ZdSy5k3IJW33) | [innexen](https://open.spotify.com/artist/4ifKGift7hUW8xG85qZjwK) | [hot steel: round 3](https://open.spotify.com/album/1K2ox3o0sOrs4SIzyKQ3XS) | 5:49 | 2025-09-02 |  |
+| [fuga](https://open.spotify.com/track/0LKqLPLiE8ZdSy5k3IJW33) | [innexen](https://open.spotify.com/artist/4ifKGift7hUW8xG85qZjwK) | [hot steel: round 3](https://open.spotify.com/album/1K2ox3o0sOrs4SIzyKQ3XS) | 5:49 | 2025-09-02 | 2025-10-18 |
 | [Fugazi](https://open.spotify.com/track/0NkV5RzA3Nb3zS04eURa9b) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Fugazi](https://open.spotify.com/album/48WEloiqTGL9HOCNatbtw0) | 3:40 | 2025-03-28 | 2025-09-03 |
 | [Gabriela](https://open.spotify.com/track/0MGGSLk5473zXpYhEdxHT1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/7zDBcYSeMAVESJXnVJnzM4) | 3:17 | 2025-09-02 |  |
 | [GATA](https://open.spotify.com/track/1j5DGwZGgQhnJYsK2TvNLd) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [GITANA](https://open.spotify.com/album/5WCbXOFylBnMIdVtN4Rvrj) | 3:43 | 2023-03-01 | 2024-02-22 |
@@ -283,6 +284,7 @@
 | [Overnight](https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Overnight](https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj) | 3:39 | 2025-03-28 | 2025-09-03 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2025-09-02 |  |
 | [Pa' Que Bailen](https://open.spotify.com/track/2WJkwdvKDAiCi8SL0Njq3M) | [Verito Asprilla](https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm), [ZooMusic](https://open.spotify.com/artist/0d6OtwqpMaXDLWo33AsNP4) | [Mundo Lila](https://open.spotify.com/album/0GJCg7JYfBjft9bskSQVc7) | 3:13 | 2024-02-21 | 2025-03-29 |
+| [Painkiller](https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:33 | 2025-10-17 |  |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2024-02-21 | 2025-03-29 |
 | [Parabola](https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:03 | 2025-03-28 | 2025-09-03 |
 | [Paradoja](https://open.spotify.com/track/4hFUz3N97ANOjJZFYJdcf7) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl), [Obregøn](https://open.spotify.com/artist/7e5DKM613ys6ekrqyor2oK) | [Mantras del Gato Negro](https://open.spotify.com/album/0LegeXPNidGLZJW6DFl68Y) | 3:40 | 2025-03-28 | 2025-09-03 |

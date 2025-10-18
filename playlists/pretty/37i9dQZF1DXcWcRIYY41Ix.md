@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Silvana Estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,892 likes - 102 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,476 likes - 102 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [](https://open.spotify.com/album/null) | 4:43 |
+| 1 | [Flores](https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna) | 4:43 |
 | 2 | [Destello de belleza](https://open.spotify.com/track/3k9U7mDJt0ZfcHzyWoPWkA) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Destello de belleza](https://open.spotify.com/album/0RCCG49nGccORKaZAEhBi2) | 3:12 |
 | 3 | [Hacesdelmundomejor](https://open.spotify.com/track/7E7FGEpgQeegry3UyRqnjA) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [nosoymeri](https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 2:50 |
 | 4 | [Ventura \- Live](https://open.spotify.com/track/3jxMqzOXht0AfgpWIZtY0O) | [Santero y Los Muchachos](https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Ventura \(Live\)](https://open.spotify.com/album/4Xpme8SyUVkaIdyme2w8PQ) | 4:55 |

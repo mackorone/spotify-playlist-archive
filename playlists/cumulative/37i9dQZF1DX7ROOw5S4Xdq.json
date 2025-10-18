@@ -10529,6 +10529,24 @@
     },
     {
       "album": {
+        "name": "Cuida De Mim (Live Acoustic)",
+        "url": "https://open.spotify.com/album/3RU0oFwx2KjOLZwOXG9KfP"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Cuida De Mim - Live Acoustic",
+      "url": "https://open.spotify.com/track/4toTR7CzmhgwbcmJy8sQfT"
+    },
+    {
+      "album": {
         "name": "Cuido de Ti",
         "url": "https://open.spotify.com/album/3Z6dI01wLR9sZdEXAN3K0P"
       },
@@ -31266,7 +31284,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 233142,
       "name": "M\u00e3e do C\u00e9u - Ao Vivo",
       "url": "https://open.spotify.com/track/3b1bRGpEjOv8SIRsbuCtRm"
@@ -38268,7 +38286,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 264464,
       "name": "Orando na Guerra - Ao Vivo",
       "url": "https://open.spotify.com/track/1tabsb7udPU2kxlzSBqE62"
@@ -47464,6 +47482,36 @@
       "duration_ms": 299746,
       "name": "Seja Forte e Corajoso",
       "url": "https://open.spotify.com/track/5Jus4AcdtDuJ5VbRQyCWe4"
+    },
+    {
+      "album": {
+        "name": "Ambi\u00e7\u00e3o | Som do C\u00e9u Vol.3",
+        "url": "https://open.spotify.com/album/0bV0mgNKXZhMe57A0aHmF7"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
+        },
+        {
+          "name": "Sarah Lanza",
+          "url": "https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J"
+        },
+        {
+          "name": "SOM DO C\u00c9U",
+          "url": "https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 644338,
+      "name": "Seja o Centro",
+      "url": "https://open.spotify.com/track/4RACV1Vm8oehePe39ztyJd"
     },
     {
       "album": {

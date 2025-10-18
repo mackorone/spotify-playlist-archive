@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,118 likes - 98 songs - 4 hr 52 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,112 likes - 98 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 3 | [Pretender](https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Pretender](https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq) | 3:12 |
 | 4 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 |
 | 5 | [Touch It](https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Touch It](https://open.spotify.com/album/3gTF2ONDns1Byk5PO0YMdL) | 3:03 |
-| 6 | [I Wanna Dance](https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [I Wanna Dance](https://open.spotify.com/album/5rDO7ImSCMfY55J92t1vCY) | 2:25 |
-| 7 | [On The Floor](https://open.spotify.com/track/6nlaSmUX2DCFjKIjwSAElu) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [On The Floor](https://open.spotify.com/album/3Re1tOsHdxuZYmWEP4I6ZM) | 2:41 |
-| 8 | [Vaki](https://open.spotify.com/track/3L66WwSdmOh3ZIAD1o4Rp8) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vaki](https://open.spotify.com/album/6LbFnBy3U4WTzn0iZEwM6B) | 3:54 |
+| 6 | [Vaki](https://open.spotify.com/track/3L66WwSdmOh3ZIAD1o4Rp8) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vaki](https://open.spotify.com/album/6LbFnBy3U4WTzn0iZEwM6B) | 3:54 |
+| 7 | [I Wanna Dance](https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [I Wanna Dance](https://open.spotify.com/album/5rDO7ImSCMfY55J92t1vCY) | 2:25 |
+| 8 | [On The Floor](https://open.spotify.com/track/6nlaSmUX2DCFjKIjwSAElu) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [On The Floor](https://open.spotify.com/album/3Re1tOsHdxuZYmWEP4I6ZM) | 2:41 |
 | 9 | [So Hï \(VIP Mix\)](https://open.spotify.com/track/2E4ducuUkzT3utPrfElnUc) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï \(VIP Mix\)](https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae) | 4:20 |
 | 10 | [Get Down](https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 3:30 |
 | 11 | [Get Down](https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Get Down / Shake That](https://open.spotify.com/album/6EniPCrOLspq3Y5lVdvNFC) | 3:30 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 97 | [La Vida \- Radio Edit](https://open.spotify.com/track/6DCNCcgxcMSTBoPdNXcei3) | [dbasser](https://open.spotify.com/artist/5psF4RFR5m6MyLC7whUI2b), [Peter Guzman](https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3), [Jose Alves](https://open.spotify.com/artist/3wgghSRJ0p9lOfHiE9D1Y9), [Kaala Shaw](https://open.spotify.com/artist/5tZsSjeLuHAMjvL8Tkrdnf) | [La Vida EP](https://open.spotify.com/album/6Jsb3lrk8UEOaYJKlCMtgg) | 4:48 |
 | 98 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 
-Snapshot ID: `AAAgOF3CIur+Mst5V0Int1wGuakOiTJv`
+Snapshot ID: `AAAgOsWUyfbby2+Dr14ERE+4XlBgs5L7`

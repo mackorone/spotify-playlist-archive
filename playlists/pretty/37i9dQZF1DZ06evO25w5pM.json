@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19251,
+  "num_followers": 19249,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAADfLg5KDflPP3mHdMITNzVJ",
+  "snapshot_id": "aPA1gAAAAADmc4cCRq/P3h5b0c/IpFP+",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 513866,
-      "name": "East of the Full Moon",
-      "url": "https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 522013,
       "name": "Huit",
       "url": "https://open.spotify.com/track/2BfQ8b6lOmOCohyKzhbiyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 513866,
+      "name": "East of the Full Moon",
+      "url": "https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sea and Silence",
-        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 807853,
-      "name": "Sea and Silence",
-      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 394306,
       "name": "Drei",
       "url": "https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sea and Silence",
+        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 807853,
+      "name": "Sea and Silence",
+      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
     },
     {
       "added_at": null,

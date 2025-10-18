@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 189486,
       "name": "How Does It Make U Feel",
       "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
@@ -2525,8 +2525,26 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "hver tredje tanke",
+        "url": "https://open.spotify.com/album/3HPzIP54YDXelJvcXaHPqJ"
+      },
+      "artists": [
+        {
+          "name": "eftergl\u00f8d",
+          "url": "https://open.spotify.com/artist/12ilOlZgqYHKwSkeBWMly3"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "hver tredje tanke",
+      "url": "https://open.spotify.com/track/2NvlPjW8lqMmTSLahIBH6J"
+    },
+    {
+      "album": {
+        "name": "Nimbus",
+        "url": "https://open.spotify.com/album/583YsSUYDxrag3ipPEToiK"
       },
       "artists": [
         {

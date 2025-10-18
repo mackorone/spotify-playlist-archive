@@ -2,7 +2,7 @@
 
 ### [Indie songs from 2024 you may have missed](https://open.spotify.com/playlist/37i9dQZF1DWZw4RckG6Eyg)
 
-> All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
+> All the indie gems from 2024 that may have flown under your radar! Cover: Pem
 
 326 songs - 18 hr 24 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La playlist oficial de <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2/\"> Belicofest </a> - Elevando a la M\u00fasica Mexicana. Cover: Peso Pluma",
+  "description": "La playlist oficial de <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2/\"> Belicofest </a> - Elevando a la M\u00fasica Mexicana. Cover: Los Dareyes De La Sierra",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 183637,
       "name": "130",
       "url": "https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K"
@@ -158,6 +158,28 @@
       "duration_ms": 191946,
       "name": "2 Veces",
       "url": "https://open.spotify.com/track/4cV6ld7uIs906zOwNscoBM"
+    },
+    {
+      "album": {
+        "name": "2+2",
+        "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "2+2",
+      "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
     },
     {
       "album": {
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 148506,
       "name": "Andamos Triunfando",
       "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 151836,
       "name": "ANSIEDAD",
       "url": "https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX"
@@ -4714,7 +4736,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 214473,
       "name": "DIOS POR DELANTE",
       "url": "https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr"
@@ -5486,7 +5508,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 118067,
       "name": "El De La Selva",
       "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
@@ -11473,6 +11495,24 @@
     },
     {
       "album": {
+        "name": "Mi Decisi\u00f3n",
+        "url": "https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183456,
+      "name": "Mi Decisi\u00f3n",
+      "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
+    },
+    {
+      "album": {
         "name": "Mi Despedida",
         "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
@@ -11888,6 +11928,24 @@
       "duration_ms": 265561,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
+    },
+    {
+      "album": {
+        "name": "Modelo V",
+        "url": "https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190512,
+      "name": "Modelo V",
+      "url": "https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2"
     },
     {
       "album": {
@@ -13142,7 +13200,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 168979,
       "name": "OJITOS MENTIROSOS",
       "url": "https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe"
@@ -17107,6 +17165,24 @@
     },
     {
       "album": {
+        "name": "SOY LA CONEXION",
+        "url": "https://open.spotify.com/album/1RT0chbsPppFxhnvuvgIzZ"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165288,
+      "name": "SOY LA CONEXION",
+      "url": "https://open.spotify.com/track/1HGwlbyrEfCsNtMH8X6F79"
+    },
+    {
+      "album": {
         "name": "Soy Para Ti",
         "url": "https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT"
       },
@@ -19037,6 +19113,24 @@
     },
     {
       "album": {
+        "name": "Vice City",
+        "url": "https://open.spotify.com/album/2Mi0UQhynmysuUvzwTLNV7"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195949,
+      "name": "Vice City",
+      "url": "https://open.spotify.com/track/4BhC4JAAAkI5VV5KEMVP6k"
+    },
+    {
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -19228,7 +19322,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 134203,
       "name": "V\u00e9ngame A Ver",
       "url": "https://open.spotify.com/track/2ssBF84DQMpVR22iy3oNrz"
@@ -19844,7 +19938,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 200707,
       "name": "YO NO TE OLVIDO",
       "url": "https://open.spotify.com/track/641M1deHD4Y0X74pt8csik"

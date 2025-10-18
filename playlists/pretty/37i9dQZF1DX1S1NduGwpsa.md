@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Flore Benguigui & The Sensible Notes
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,001 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,055 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [More Understanding Than A Man](https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy) | [Flore Benguigui & The Sensible Notes](https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6) | [More Understanding Than A Man](https://open.spotify.com/album/22j385vgy0DNPeUTGKzgkE) | 3:51 |
-| 2 | [Track 10](https://open.spotify.com/track/0Pzub2Ai5j1zAq2sF76e6K) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Everyday Superheroes](https://open.spotify.com/track/0Pzub2Ai5j1zAq2sF76e6K) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Everyday Superheroes](https://open.spotify.com/album/0t29Q1FASaChkVGRq3C8QF) | 5:00 |
 | 3 | [De doute et de joie](https://open.spotify.com/track/2VE3l5h072ctrAJHvX6PCa) | [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [MEDUSE](https://open.spotify.com/album/1jEmh4Fmq6aSq0zkbPR2cg) | 5:02 |
 | 4 | [Uno Mas](https://open.spotify.com/track/5keJdI76Sc8wf1jZwCts4G) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [Uno Mas](https://open.spotify.com/album/2RNQQzCON8BrrWffXVRMUy) | 2:39 |
-| 5 | [Track 1](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [It’s Raining](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Detour](https://open.spotify.com/album/74OROuWbzN8h9ZB3tCtLea) | 4:28 |
 | 6 | [Huckabuck Garden](https://open.spotify.com/track/4kVx0Ed7BqAgXp1r9qyOQl) | [Amaury Faye](https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte), [Julian Lee](https://open.spotify.com/artist/6IYbf14480bkXi6JnwWkTH), [Amina Scott](https://open.spotify.com/artist/2mA7agMNb4IjjXcEb5U6La), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [Huckabuck Garden](https://open.spotify.com/album/5qihYZs6hUgUKNiqeACFEG) | 6:21 |
 | 7 | [Letter to My Favorite Boy](https://open.spotify.com/track/5OGWcAYy3JROjCW9KxBO1H) | [Lila\-May](https://open.spotify.com/artist/6MoTY5UDMYyOuU1ZGl5grx) | [Out of Time](https://open.spotify.com/album/4j01Jt4AEJMFlkJuAj3Mhv) | 3:44 |
 | 8 | [Joydance](https://open.spotify.com/track/6rv22k06Q8G2z6azJJAt3K) | [André Manoukian](https://open.spotify.com/artist/5BfTfnzUSptoVhFigXMc1v) | [La Sultane](https://open.spotify.com/album/101obPeJsCnoAOhx0ZlleK) | 3:58 |

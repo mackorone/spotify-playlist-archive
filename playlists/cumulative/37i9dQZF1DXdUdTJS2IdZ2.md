@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-1,036 songs - 2 day 8 hr 28 min
+1,036 songs - 2 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Breathtaker](https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:23 | 2024-10-10 | 2024-11-15 |
 | [BRIGHTER](https://open.spotify.com/track/6df6aXHknUUvjHtdCaTlhJ) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [BRIGHTER](https://open.spotify.com/album/7khVmnxNDQwDlLgD8Jg2Fk) | 2:45 | 2025-09-25 |  |
 | [Broken GPS 羅盤](https://open.spotify.com/track/44mbqSwQd0kBZwAJHGAaVV) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [Jimmy H.](https://open.spotify.com/artist/7t1OEceEW5WhtnUNsiljhr) | [Broken GPS 羅盤](https://open.spotify.com/album/1nGwtOlcSGJacvAC44cjDX) | 2:28 | 2025-02-20 | 2025-03-28 |
+| [Broken Promise](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 3:14 | 2025-10-16 |  |
 | [Brown Eyes](https://open.spotify.com/track/6DCM1KSFoRUCPzXywMyBzB) | [Ethel Yap](https://open.spotify.com/artist/2tBm41oYtugDs5yLWVfdXn), [Bakers in Space](https://open.spotify.com/artist/01BZLSIsPBIV3u139alCVf), [Bennett Bay](https://open.spotify.com/artist/6YPmn4OXMPyUsFkpwCvKm0) | [Brown Eyes](https://open.spotify.com/album/6YamRCHuCoU4LQ43C8g5xp) | 3:12 | 2025-06-26 | 2025-08-01 |
 | [brozone](https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:42 | 2024-06-27 | 2024-08-23 |
 | [Buang Masa](https://open.spotify.com/track/0FaEZQNcOBogAoLhNreLrV) | [Bani Rae](https://open.spotify.com/artist/0nrykdtTQqFaCLYPPZOzG7) | [Buang Masa](https://open.spotify.com/album/1IteVhuVETnwpXYSKP1Xip) | 2:24 | 2025-07-03 | 2025-08-15 |
@@ -312,6 +313,7 @@
 | [Green Sheets](https://open.spotify.com/track/1WQdW1TfNMgbVVGWPEbrXv) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Green Sheets](https://open.spotify.com/album/3UIyY9WWjw8WFoQmjgMhJU) | 3:28 | 2025-08-28 | 2025-10-10 |
 | [gut feeling](https://open.spotify.com/track/0AHoTRKg4LjIRRJgJsFqpu) | [desthemess](https://open.spotify.com/artist/3kylCL6jUWlEECElJhtmqw) | [gut feeling](https://open.spotify.com/album/4Mwdnhcz0hQqwTTD7evQxQ) | 3:08 | 2025-06-19 | 2025-08-01 |
 | [HA DAMN 你没有 \(feat\. TizzyT\)](https://open.spotify.com/track/2qtOPToXBpuw5rAMSMLhCD) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa) | [HA DAMN 你没有 \(feat\. TizzyT\)](https://open.spotify.com/album/5yBJkV9ZYAVCF4SNsgW5oq) | 2:30 | 2024-09-05 | 2024-11-09 |
+| [Habits](https://open.spotify.com/track/6sYAmeNckXMvsMNsHzrd5S) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 2:23 | 2025-10-16 |  |
 | [Handstands](https://open.spotify.com/track/5iulu3ImsCRaMRXJHzFjwf) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Stewart Taylor](https://open.spotify.com/artist/5eBGNCXlI0K8yocyrViIlo) | [Handstands](https://open.spotify.com/album/1O4OCWQgSxGyTNcV3l8I9o) | 2:29 | 2024-06-27 | 2024-08-30 |
 | [Happier](https://open.spotify.com/track/7gshpIXZQy1PtJyH4h1HlJ) | [Absence!](https://open.spotify.com/artist/1BjwVi1onfbbvL3DK3MIKB) | [Happier](https://open.spotify.com/album/3GAO5rVx1lRAiZXbXuHztZ) | 2:19 | 2024-07-18 | 2024-09-06 |
 | [Happy](https://open.spotify.com/track/5cUDGn2KPFBtP71rHkP48n) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [DLKC](https://open.spotify.com/artist/0xiN6caKYAR6AQ04DPL2qc) | [Happy](https://open.spotify.com/album/4hrQoWJGwbPQu8CBKgjVQS) | 2:43 | 2025-07-24 | 2025-09-12 |
@@ -823,8 +825,6 @@
 | [too pretty \(to be worried\)](https://open.spotify.com/track/7ta7gwuiwwTGjeuXPTPRPF) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [too pretty \(to be worried\)](https://open.spotify.com/album/2rnZ19XUfUyG8UMhYzKY4V) | 3:33 | 2025-08-07 | 2025-09-05 |
 | [Touch Yourself](https://open.spotify.com/track/4FOrfiTwMXgS41g9L5GN3I) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Touch Yourself](https://open.spotify.com/album/5nZPMnu5Z6Zjj7e3or4cwZ) | 3:16 | 2024-10-10 | 2024-11-09 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-09-27 |
-| [Track 7](https://open.spotify.com/track/6sYAmeNckXMvsMNsHzrd5S) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
-| [Track 8](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [TRACK D](https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq) | [DAC](https://open.spotify.com/artist/7pE2X4frEyOmquxv8QFoZA), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [TRACK D](https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB) | 2:10 | 2024-12-12 | 2025-01-24 |
 | [Transportation Blues](https://open.spotify.com/track/5ndaof6VTnydQJaYliSHYG) | [Stopgap](https://open.spotify.com/artist/60dCRxcmRMSw9WovWPtI8g) | [Transportation Blues](https://open.spotify.com/album/53h0nva44FuOhRdSAULeYb) | 4:35 | 2024-11-08 | 2024-11-29 |
 | [Trial & Error](https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [Awake For Too Long](https://open.spotify.com/album/1cVq9N3vJcsYcrZ3t6XmWF) | 4:33 | 2024-11-21 | 2025-01-03 |

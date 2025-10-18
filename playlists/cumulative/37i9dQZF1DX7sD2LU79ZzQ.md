@@ -2,9 +2,9 @@
 
 ### [Naik Daun](https://open.spotify.com/playlist/37i9dQZF1DX7sD2LU79ZzQ)
 
-> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Harra
+> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Harra.
 
-1,179 songs - 3 day 3 hr 37 min
+1,179 songs - 3 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,7 +763,7 @@
 | [Pelabuhan Terakhir](https://open.spotify.com/track/1fUtXTn4nGzIU3cLpYqRT1) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Pelabuhan Terakhir](https://open.spotify.com/album/5WTRaVv76JjsNlLwd7Wd8Z) | 3:25 | 2024-11-28 | 2025-02-14 |
 | [Pelan Pelan Melupakan](https://open.spotify.com/track/1mdYmKqowTqMxEgONsGFNK) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Pelan Pelan Melupakan](https://open.spotify.com/album/2judBM7zQxlllXnEF601B9) | 3:49 | 2024-08-08 | 2024-08-30 |
 | [Pelan\-Pelan](https://open.spotify.com/track/70AnODh8fo2PQjcnDtRg3l) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Pelan\-Pelan](https://open.spotify.com/album/1kbnS1adOarfKyYUOkJaJZ) | 4:03 | 2025-05-15 | 2025-08-15 |
-| [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [](https://open.spotify.com/album/null) | 3:20 | 2025-10-16 |  |
+| [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [4 Mata, 5 Cerita](https://open.spotify.com/album/1J7zcBTV2ygWGt0Isut2RQ) | 3:20 | 2025-10-16 |  |
 | [Pelukis Pilu](https://open.spotify.com/track/2Mxb5A6QR6lhsx4Z2ozQo4) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:48 | 2024-01-18 | 2024-03-01 |
 | [Pelukmu Sementara, Hatiku Selamanya](https://open.spotify.com/track/0jkiL1zTpa6Uv43he81YS9) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 4:04 | 2025-06-12 | 2025-07-18 |
 | [Pemain Lama](https://open.spotify.com/track/5WUBGlM2gm5U605bYF1i0o) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Pemain Lama](https://open.spotify.com/album/7mXzpe8MN8J61H9fLb7gOQ) | 4:50 | 2024-10-03 | 2024-11-15 |
@@ -813,6 +813,7 @@
 | [Puspa Indah](https://open.spotify.com/track/0bTmQKBd9esDzIb7BvX2Q4) | [Segara](https://open.spotify.com/artist/0WjyOvIkQBnivAPEMLRMIC) | [Segara: Tentang Galih Dan Ratna](https://open.spotify.com/album/0U2EJb8o89hDRDbqV62lej) | 4:15 | 2024-01-18 | 2024-04-12 |
 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 | 2024-07-25 | 2024-08-30 |
 | [Quick! Love!](https://open.spotify.com/track/0CE0mnqq5w0UhKCmvguoxW) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Quick! Love!](https://open.spotify.com/album/6J2hFA8D9077BTfNX8SEbt) | 3:23 | 2025-05-29 | 2025-07-18 |
+| [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 | 2025-10-16 |  |
 | [Rahasia \#2](https://open.spotify.com/track/6jQa4jKWIgwUX4EW2R8UND) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Rahasia \#2](https://open.spotify.com/album/4boRdm48cMp4ojgdsULFxH) | 3:14 | 2024-09-05 | 2024-11-22 |
 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 | 2024-11-08 | 2025-02-28 |
 | [Rainbow](https://open.spotify.com/track/3V0ArrICvrvC0wgzrnJPdg) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Rainbow](https://open.spotify.com/album/6VpyQTOEJBXdZD3K9WxxoK) | 3:28 | 2024-10-17 | 2024-11-29 |
@@ -1136,7 +1137,6 @@
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-02 | 2024-08-30 |
 | [Torang Indonesia](https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Ashanty](https://open.spotify.com/artist/5MMKUZqCug8M2r4N4cNru1), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy), [BDT Susi](https://open.spotify.com/artist/6wAx0noCWoCmQ4RrmPWU9D), [BDT Hasail](https://open.spotify.com/artist/3p3m76gsxXtPMZef9VSYGL), [Carmen Glovw](https://open.spotify.com/artist/4FDWj5SOT1NiM3UHs55JjJ), [Syafril Harsani](https://open.spotify.com/artist/2bSpv8MiYXWO6moinqX9BJ), [ALAN DARMAWAN](https://open.spotify.com/artist/7Ms3FUXVnCP4YEUMOOPo72) | [Torang Indonesia](https://open.spotify.com/album/1NOaWD1UDY99Gwhaq2LK0o) | 4:16 | 2024-08-15 | 2024-09-27 |
-| [Track 2](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 |  |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-08 | 2024-11-29 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-09-06 |

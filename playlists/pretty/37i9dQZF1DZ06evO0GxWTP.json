@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20614,
+  "num_followers": 20619,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAB9F6LrHTx5T0no686e93EM",
+  "snapshot_id": "aPA1gAAAAACzTOqHFjrQMOXHahLkJTIZ",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vader & zoon (Remix)",
+        "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Berge",
+          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
+        },
+        {
+          "name": "Milo ter Reegen",
+          "url": "https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 140202,
+      "name": "Vader & zoon - Remix",
+      "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },
@@ -195,30 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vader & zoon (Remix)",
-        "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
+        "name": "Is Dat Nou Echt?",
+        "url": "https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD"
       },
       "artists": [
-        {
-          "name": "Thomas Berge",
-          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
-        },
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
-        },
-        {
-          "name": "Milo ter Reegen",
-          "url": "https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn"
-        },
         {
           "name": "Bankzitters",
           "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 140202,
-      "name": "Vader & zoon - Remix",
-      "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+      "duration_ms": 148965,
+      "name": "Is Dat Nou Echt?",
+      "url": "https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
       "duration_ms": 135023,
       "name": "Tijdmachine",
       "url": "https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is Dat Nou Echt?",
-        "url": "https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Is Dat Nou Echt?",
-      "url": "https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT"
     },
     {
       "added_at": null,

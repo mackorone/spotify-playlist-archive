@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Andrea Laszlo De Simone
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,220 likes - 132 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,244 likes - 132 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Non è reale](https://open.spotify.com/track/16KnjF4Di0kLMwn2Nvp0Yi) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [](https://open.spotify.com/album/null) | 3:25 |
+| 1 | [Non è reale](https://open.spotify.com/track/16KnjF4Di0kLMwn2Nvp0Yi) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Una Lunghissima Ombra](https://open.spotify.com/album/52jbKu3RrMapCDLWlHY97M) | 3:25 |
 | 2 | [ko cuore](https://open.spotify.com/track/6SuOMLn460vOrcIe01RMBC) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:01 |
 | 3 | [Quella via](https://open.spotify.com/track/6nbBNZTWI5dGK2uQd7SbOy) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [PANOPTICON](https://open.spotify.com/album/3B0LcXquhi058WjL3EBZ86) | 2:41 |
 | 4 | [FA;FO](https://open.spotify.com/track/5fsMNmuvmBR5kuihP3FenG) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK), [Devin Yü](https://open.spotify.com/artist/7qEJrBA7hqNGlQIejxNtFK) | [FA;FO](https://open.spotify.com/album/3aTsM1n2d4cozphscJmJq0) | 3:53 |

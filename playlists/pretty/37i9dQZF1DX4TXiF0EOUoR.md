@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡PUEEERTAAAAAAAAS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,412 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,457 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 69 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
 | 70 | [Las Güilotas](https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:42 |
 | 71 | [El Ocotito](https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡la Explosiva!!, Vol\. 2](https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w) | 2:57 |
-| 72 | [Popurrí: Bésame Morenita / La Loba del Mal / Las Guilotas](https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Y de Aquí Pal Real \- La Herencia del Rey](https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR) | 4:34 |
-| 73 | [El Coyotito \- En Vivo](https://open.spotify.com/track/4cvgt1OqvbjikfPRJFfQCN) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sones Adictivos \(En Vivo\)](https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4) | 2:24 |
+| 72 | [El Coyotito \- En Vivo](https://open.spotify.com/track/4cvgt1OqvbjikfPRJFfQCN) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sones Adictivos \(En Vivo\)](https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4) | 2:24 |
+| 73 | [Popurrí: Bésame Morenita / La Loba del Mal / Las Guilotas](https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV) | [Banda Cruz De La Candelaria](https://open.spotify.com/artist/0YzzMBA0jYCOSQojb3AtYr) | [Y de Aquí Pal Real \- La Herencia del Rey](https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR) | 4:34 |
 | 74 | [Fiesta de Enero](https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune) | [La Unica Flor De Chirimoyo](https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9) | [Fiesta de Enero](https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg) | 2:25 |
 | 75 | [Amores de Julia \(En Vivo\)](https://open.spotify.com/track/05yWQdfjN7vuJOwMUhpFq9) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras de Viento, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/28mc6PwouKVxKjoKlsmEtm) | 3:25 |
 | 76 | [Arriba Tonichi](https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:38 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 80 | [El Palomito \- Son](https://open.spotify.com/track/0z7t1dVYkRoiXTX62TFZ7D) | [Banda Laser](https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4) | [Male Chabelita \(Música Purepecha, Abajeños, Sones, Pirékuas\)](https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr) | 2:27 |
 | 81 | [Rumbo a la Cañada](https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:32 |
 | 82 | [La Amachona \- Sones para Jaripeo](https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:00 |
-| 83 | [Los Enanitos](https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:17 |
-| 84 | [La Burra Orejona](https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Las Mamirriquis](https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I) | 2:44 |
+| 83 | [La Burra Orejona](https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Las Mamirriquis](https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I) | 2:44 |
+| 84 | [Los Enanitos](https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:17 |
 | 85 | [Agua de Té](https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC) | [Banda La Movida](https://open.spotify.com/artist/4gD8odSwAK19NPcpUiFDf0) | [Agua de Té](https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ) | 2:50 |
 | 86 | [La Yaquesita](https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 3:37 |
 | 87 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |

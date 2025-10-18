@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Jirayut",
+  "description": "Dendang Dangdut teratas. Cover: Afan",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 271106,
       "name": "Bintang Tertutup Awan",
       "url": "https://open.spotify.com/track/3sarIVZdIKTZB6SD9A2c5F"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 327913,
       "name": "Blebah",
       "url": "https://open.spotify.com/track/0OqiXDYtBXixteIxjOYyW3"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 223304,
       "name": "Cinta Sejati",
       "url": "https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU"
@@ -2073,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Kepalsuanmu",
+        "url": "https://open.spotify.com/album/5SaEdei1pHj12nuhszS1Pz"
+      },
+      "artists": [
+        {
+          "name": "Afan",
+          "url": "https://open.spotify.com/artist/0861WHgbfpUBsvIbU1b1ZD"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329538,
+      "name": "Kepalsuanmu",
+      "url": "https://open.spotify.com/track/5SdNMzju4AZUSA4uUOrTcV"
+    },
+    {
+      "album": {
         "name": "Keyakinan Cinta",
         "url": "https://open.spotify.com/album/3KTGcrvO0bwQT8Z2ffN1Ty"
       },
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 268795,
       "name": "Menyerah",
       "url": "https://open.spotify.com/track/17QG2cIIyiUk3938GRLRTq"
@@ -2854,6 +2872,24 @@
       "duration_ms": 274285,
       "name": "MILIK ORANG",
       "url": "https://open.spotify.com/track/4eV2IIMNfS8SO5nvmsMZ37"
+    },
+    {
+      "album": {
+        "name": "Mirip Dia",
+        "url": "https://open.spotify.com/album/0HHWiGIEVsiNCyMkFPFuhO"
+      },
+      "artists": [
+        {
+          "name": "Mansyur S",
+          "url": "https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304105,
+      "name": "Mirip Dia",
+      "url": "https://open.spotify.com/track/2L9zYbZWgAOjkULTUhOBca"
     },
     {
       "album": {
@@ -3592,7 +3628,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 356129,
       "name": "Sakit Karena Cinta",
       "url": "https://open.spotify.com/track/6anG2cD3dp7yOxdcvlB3FI"

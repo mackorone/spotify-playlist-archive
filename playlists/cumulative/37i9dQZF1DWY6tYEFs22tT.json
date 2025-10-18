@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Yeat, Young Thug, Ice Spice and Cardi B.",
+  "description": "Today's Hip-Hop with Ty Dolla $ign, Yeat, Tkandz and A Boogie Wit da Hoodie.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -848,6 +848,24 @@
       "duration_ms": 219041,
       "name": "850 (We On Top) [feat. Rich The Kid]",
       "url": "https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l"
+    },
+    {
+      "album": {
+        "name": "8PM",
+        "url": "https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171655,
+      "name": "8PM",
+      "url": "https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet"
     },
     {
       "album": {
@@ -1970,7 +1988,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 108800,
       "name": "ART (feat. Latto)",
       "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
@@ -2178,6 +2196,28 @@
       "duration_ms": 231771,
       "name": "Back 2 Basics",
       "url": "https://open.spotify.com/track/2a8W8GMf5AuMaAYpSB8f65"
+    },
+    {
+      "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "OJ Da Juiceman",
+          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Back Cooking",
+      "url": "https://open.spotify.com/track/7CycwjLRm7wKubir9PCXXd"
     },
     {
       "album": {
@@ -5739,6 +5779,28 @@
     },
     {
       "album": {
+        "name": "Colder",
+        "url": "https://open.spotify.com/album/4sNpL67Ibx6NSpGKoEKRve"
+      },
+      "artists": [
+        {
+          "name": "Rekzz",
+          "url": "https://open.spotify.com/artist/5YHBZinJewKQ4mQCe0yCob"
+        },
+        {
+          "name": "CYZA",
+          "url": "https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144145,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/2kLPWZ65fLx43oHBAgMN8k"
+    },
+    {
+      "album": {
         "name": "Come Outside",
         "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
       },
@@ -7544,7 +7606,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
@@ -15367,6 +15429,24 @@
     },
     {
       "album": {
+        "name": "LMAO",
+        "url": "https://open.spotify.com/album/7JsNiyPwf5SpOxKrTYVHI6"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114191,
+      "name": "LMAO",
+      "url": "https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS"
+    },
+    {
+      "album": {
         "name": "LONDON (feat. J. Cole)",
         "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
       },
@@ -15656,7 +15736,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 179461,
       "name": "LOVERS OR FRIENDS",
       "url": "https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF"
@@ -16808,7 +16888,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 236626,
       "name": "Money On Money (feat. Future)",
       "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
@@ -18443,6 +18523,28 @@
     },
     {
       "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+    },
+    {
+      "album": {
         "name": "Just A Matter Of Time",
         "url": "https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv"
       },
@@ -19226,7 +19328,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 202815,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
@@ -19686,6 +19788,24 @@
       "duration_ms": 172794,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
+    },
+    {
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ"
     },
     {
       "album": {
@@ -20870,7 +20990,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 177777,
       "name": "Professional",
       "url": "https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui"
@@ -22375,6 +22495,24 @@
     },
     {
       "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145176,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/1aBlZUy4ZRDB7mguIWfTtr"
+    },
+    {
+      "album": {
         "name": "Hip Hop 50: Vol. 2",
         "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
       },
@@ -23568,7 +23706,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 142451,
       "name": "Something Wrong (with Don Toliver)",
       "url": "https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX"

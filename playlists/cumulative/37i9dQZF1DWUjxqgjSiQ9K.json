@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Frank Miami",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Marco Barrientos",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 173335,
       "name": "AL100 MX",
       "url": "https://open.spotify.com/track/5MvGOZpKTc5bnYJwpTzCNK"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 321269,
       "name": "Cantar\u00e9 de tu Amor",
       "url": "https://open.spotify.com/track/7gdABl8DcNsz8KyKrjN8gM"
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 254603,
       "name": "De Tal Manera",
       "url": "https://open.spotify.com/track/3dGcL3nzABghmtd847UwVi"
@@ -4904,6 +4904,24 @@
       "duration_ms": 210200,
       "name": "Dios No Ha Terminado Contigo",
       "url": "https://open.spotify.com/track/37qiAdXakIsMmY5SgXdmHW"
+    },
+    {
+      "album": {
+        "name": "DIOS nunca abandona",
+        "url": "https://open.spotify.com/album/7xIm4qvSWCXlgwze2oYon1"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "DIOS nunca abandona",
+      "url": "https://open.spotify.com/track/5fvOCkgau0ot4ez27Rgoa4"
     },
     {
       "album": {
@@ -5733,6 +5751,24 @@
     },
     {
       "album": {
+        "name": "LAMENTO EN BAILE",
+        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168217,
+      "name": "EL TOQUE",
+      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
+    },
+    {
+      "album": {
         "name": "LA MESA",
         "url": "https://open.spotify.com/album/6YQ7BHSUUW6g7XqvPLHBBu"
       },
@@ -5792,7 +5828,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 249710,
       "name": "En el Desierto",
       "url": "https://open.spotify.com/track/5mmMOR5YXnrJPctp4O8U2e"
@@ -5994,7 +6030,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 218144,
       "name": "Encontrarte",
       "url": "https://open.spotify.com/track/1c72j3yhaPFamJi6HW4IqF"
@@ -8415,6 +8451,28 @@
     },
     {
       "album": {
+        "name": "D\u00edas Contigo",
+        "url": "https://open.spotify.com/album/5G8ngWACWiygDCdduoARxn"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161796,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/2NQXapwUNA542kvLGX4vpi"
+    },
+    {
+      "album": {
         "name": "Jehov\u00e1 Jireh",
         "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
       },
@@ -8724,6 +8782,24 @@
       "duration_ms": 204041,
       "name": "La Comisi\u00f3n",
       "url": "https://open.spotify.com/track/7wUeqM2L8430LqHlHTBEVl"
+    },
+    {
+      "album": {
+        "name": "la espera",
+        "url": "https://open.spotify.com/album/7IlBHaoeokmqetRyf0qgWf"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207232,
+      "name": "la espera",
+      "url": "https://open.spotify.com/track/3lL7CzPSIs56R8rjd8I1EX"
     },
     {
       "album": {
@@ -12211,6 +12287,28 @@
     },
     {
       "album": {
+        "name": "Paso Lento",
+        "url": "https://open.spotify.com/album/5e1939SROvpSuTkmzGxFVH"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246732,
+      "name": "Paso Lento",
+      "url": "https://open.spotify.com/track/1LPYmt2TiKGVUPlcYHEAXG"
+    },
+    {
+      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/1Gbh8zYBWiXviLjGoLV25B"
       },
@@ -13016,7 +13114,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 683368,
       "name": "Que Ruja El Le\u00f3n",
       "url": "https://open.spotify.com/track/4M7hm9mlfnZPuXyC1HYMAr"
@@ -15263,6 +15361,24 @@
     },
     {
       "album": {
+        "name": "ALIENTO",
+        "url": "https://open.spotify.com/album/5MjxSfcQek6UfwcSVAZUyF"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430000,
+      "name": "Te Exaltar\u00e9",
+      "url": "https://open.spotify.com/track/55aat3EMyWAfEco7Tk2j0N"
+    },
+    {
+      "album": {
         "name": "TE LUCISTE",
         "url": "https://open.spotify.com/album/2CcptTmjIb4kSD2SQXhNjg"
       },
@@ -17326,6 +17442,32 @@
       "duration_ms": 248736,
       "name": "Vivir\u00e9 (Salmo 118)",
       "url": "https://open.spotify.com/track/2AfP1FmE3TZffo4bbgOJIt"
+    },
+    {
+      "album": {
+        "name": "Vivo Por Fe",
+        "url": "https://open.spotify.com/album/6DpoBVMTR3kpS48SewqDNA"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224250,
+      "name": "Vivo Por Fe",
+      "url": "https://open.spotify.com/track/6QeuxaxTIRWAzeI74vo3Mp"
     },
     {
       "album": {

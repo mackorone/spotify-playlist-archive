@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Urias
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,312,523 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,312,423 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Voz Do Brasil](https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [CARRANCA](https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK) | 3:13 |
-| 2 | [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 |
-| 3 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
-| 4 | [Sacode](https://open.spotify.com/track/2p2StS2NPYe7T5oTPbXf1Z) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Sacode](https://open.spotify.com/album/7KS5hWrJWVF1hJMBcutjHz) | 2:30 |
-| 5 | [Caos e Sal](https://open.spotify.com/track/2S3zSAStwmnXTbQkYwur7G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 2:36 |
-| 6 | [Que Pecado!](https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Que Pecado!](https://open.spotify.com/album/3WXo4tB3KteRN81GGqNlOi) | 2:43 |
-| 7 | [Lua Cheia](https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:17 |
-| 8 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
-| 9 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
-| 10 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 |
-| 11 | [Safado](https://open.spotify.com/track/2x1BjX69aGNixLSVuah05k) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [Cara Ideal](https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS) | 2:11 |
-| 12 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 |
+| 1 | [Subconsciente](https://open.spotify.com/track/5M9u4fXuHLDYSrxGzezMSL) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Literalmente Devaneios](https://open.spotify.com/album/1gWZCVHiEDQ8Ijx4rrzMuk) | 2:02 |
+| 2 | [Voz Do Brasil](https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [CARRANCA](https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK) | 3:13 |
+| 3 | [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 |
+| 4 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 5 | [Sacode](https://open.spotify.com/track/2p2StS2NPYe7T5oTPbXf1Z) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Sacode](https://open.spotify.com/album/7KS5hWrJWVF1hJMBcutjHz) | 2:30 |
+| 6 | [Caos e Sal](https://open.spotify.com/track/2S3zSAStwmnXTbQkYwur7G) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 2:36 |
+| 7 | [Que Pecado!](https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Que Pecado!](https://open.spotify.com/album/3WXo4tB3KteRN81GGqNlOi) | 2:43 |
+| 8 | [Lua Cheia](https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:17 |
+| 9 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
+| 10 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
+| 11 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 |
+| 12 | [Safado](https://open.spotify.com/track/2x1BjX69aGNixLSVuah05k) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [Cara Ideal](https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS) | 2:11 |
 | 13 | [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 |
 | 14 | [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 |
 | 15 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
 | 50 | [A Dona Aranha](https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:04 |
 
-Snapshot ID: `AAAAAHiCVPgL8WAHJvgjjx5LIsCNgjqa`
+Snapshot ID: `AAAAAKjJOwe4q6S8OtisckJy4sOAwB2D`

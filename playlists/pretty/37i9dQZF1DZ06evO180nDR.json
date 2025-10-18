@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 59346,
+  "num_followers": 59470,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAAuI+5n0e5SCIz7i6ZEJns7",
+  "snapshot_id": "aPA1gAAAAACSIzfsxX0PZf1XtpVW4uzx",
   "tracks": [
     {
       "added_at": null,
@@ -627,30 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenas Rachas",
-        "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 153655,
-      "name": "Buenas Rachas",
-      "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pobreza Buena",
         "url": "https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 209683,
       "name": "La Pobreza Buena",
       "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenas Rachas",
+        "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 153655,
+      "name": "Buenas Rachas",
+      "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Avioneta",
-        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Wiko",
-          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "La Avioneta",
-      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 161707,
       "name": "La Vida En La Sierra",
       "url": "https://open.spotify.com/track/3hWyiUE4DZLnX5cREZbjh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Avioneta",
+        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "La Avioneta",
+      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
     },
     {
       "added_at": null,

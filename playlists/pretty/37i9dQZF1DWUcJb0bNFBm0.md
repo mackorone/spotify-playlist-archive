@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Hitujibungaku 羊文学 \(Japan\) \*Top 41 tracks has selected by Hitujibungaku
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,178 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,207 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 47 | [I'm Fine, Leave Me Behind](https://open.spotify.com/track/3dmOL9nobY7mcWfMvW87n2) | [Summergaze](https://open.spotify.com/artist/76CBZETIp0gINhecCf8HdQ) | [I'm Fine, Leave Me Behind](https://open.spotify.com/album/18sfT2WDs3ReQgO5gB5Htz) | 6:11 |
 | 48 | [Backstair Breathing](https://open.spotify.com/track/4BD281lPwCFWCG1mbAl8E1) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Backstair Breathing](https://open.spotify.com/album/7GwfeQ6VRLWX1L6gz90y28) | 2:29 |
 | 49 | [⁠The Ghost of Her Smile](https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Julie Dawson](https://open.spotify.com/artist/1TzJp2tHjwJG5CZKPWGBIL) | [The Ghost of Her Smile](https://open.spotify.com/album/1eqB2GZ3j5ElZdXHUctKOB) | 3:40 |
-| 50 | [Track 5](https://open.spotify.com/track/3AUPRFrSmsIl2APUiTf0nW) | [sodistilled](https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW) | [](https://open.spotify.com/album/null) | 0:00 |
+| 50 | [23](https://open.spotify.com/track/3AUPRFrSmsIl2APUiTf0nW) | [sodistilled](https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW) | [purity: the trinity](https://open.spotify.com/album/1nHf3cMwwo9JNnRhXYkxO4) | 1:49 |
 | 51 | [Não](https://open.spotify.com/track/0zB07iR6zB8vlHC23gRbuQ) | [EVNTYD](https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh) | [Lifelines](https://open.spotify.com/album/1VJBwG7SVg431y9yqUIaux) | 2:56 |
 | 52 | [baeside k](https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [LOTTO](https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT) | 2:50 |
 | 53 | [Other Side](https://open.spotify.com/track/2QjzfQXrNjn9AK8IzlszE7) | [Anyu](https://open.spotify.com/artist/4mcVdL0lIHKyWySRAr8pG6) | [Other Side](https://open.spotify.com/album/6PPVVQnmihkvSL7TICaxW1) | 4:31 |

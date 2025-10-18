@@ -4,7 +4,7 @@
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-36 songs - 3 hr 1 min
+37 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [Heaven Must Be Like This](https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Best So Far](https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe) | 4:12 | 2025-10-15 |  |
 | [I Found My Smile Again \(Radio Edit\)](https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [I Found My Smile Again](https://open.spotify.com/album/2DuxNAsjra84Q3zYu1LG6I) | 4:00 | 2025-10-15 |  |
 | [I'll Stay](https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 7:50 | 2025-10-15 |  |
-| [Ibtihaj](https://open.spotify.com/track/3E0e6xSwnavQzRK1iLKvuw) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Eve](https://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S) | 4:40 | 2025-10-15 |  |
+| [Ibtihaj](https://open.spotify.com/track/3E0e6xSwnavQzRK1iLKvuw) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Eve](https://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S) | 4:40 | 2025-10-15 | 2025-10-18 |
 | [Imagine](https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 4:42 | 2025-10-15 |  |
+| [Jonz In My Bones \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 3:55 | 2025-10-18 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2025-10-15 |  |
 | [Me And Those Dreamin' Eyes Of Mine](https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:46 | 2025-10-15 |  |
 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 | 2025-10-15 |  |

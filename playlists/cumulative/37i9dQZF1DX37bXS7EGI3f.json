@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-11-29",
-  "description": "Symphonic and power metal at its most epic. Cover: Beyond The Black\n",
+  "description": "Symphonic and power metal at its most epic. Cover: Battle Beast\n",
   "name": "Epic & Melodic",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 272013,
       "name": "1066",
       "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 206506,
       "name": "Angel Of Midnight",
       "url": "https://open.spotify.com/track/4ElS6G17jF87cluP3rn8Aa"
@@ -884,6 +884,24 @@
       "duration_ms": 342000,
       "name": "As Colors Bleed Through",
       "url": "https://open.spotify.com/track/2p7Y4JoqKVHvVlGlNlYQqo"
+    },
+    {
+      "album": {
+        "name": "As Empires Fall",
+        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "As Empires Fall",
+      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
     },
     {
       "album": {
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 204400,
       "name": "Crossing the Rubicon (feat. NOTHING MORE)",
       "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
@@ -4815,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "Helldiver",
+        "url": "https://open.spotify.com/album/59U6vhesTkJjbJAba5ZSKv"
+      },
+      "artists": [
+        {
+          "name": "Invasion",
+          "url": "https://open.spotify.com/artist/0UVhdgxNalIFFYqUoLeREd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212539,
+      "name": "Helldiver",
+      "url": "https://open.spotify.com/track/6yxiUlPSK6oq1HFkepBh8Z"
+    },
+    {
+      "album": {
         "name": "Here We Stand",
         "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
@@ -5230,6 +5266,24 @@
       "duration_ms": 227626,
       "name": "I'm Here to Save You",
       "url": "https://open.spotify.com/track/4wn234gZXihakdPl1rmjsi"
+    },
+    {
+      "album": {
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/1jjx7U3tayhJTytJVBj0WY"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255973,
+      "name": "I, Emperor",
+      "url": "https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM"
     },
     {
       "album": {
@@ -9047,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "Winds of Time",
+        "url": "https://open.spotify.com/album/2xZIU1PggMA6Pu9bpNfICG"
+      },
+      "artists": [
+        {
+          "name": "Wings of Steel",
+          "url": "https://open.spotify.com/artist/0y43lCvntQtyFlhCABGb0T"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "Saints and Sinners",
+      "url": "https://open.spotify.com/track/2uRNqiZTbAJih8VnfyAIWb"
+    },
+    {
+      "album": {
         "name": "Reconstruction",
         "url": "https://open.spotify.com/album/1hQWWsGMrqLBHJT2jMtXH1"
       },
@@ -10086,7 +10158,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 339000,
       "name": "Tales from the North",
       "url": "https://open.spotify.com/track/2h1nhjGCI0otQYmkp0f4gw"
@@ -11635,6 +11707,24 @@
     },
     {
       "album": {
+        "name": "Steelbound",
+        "url": "https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Twilight Cabaret",
+      "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
+    },
+    {
+      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/3Dk6K6o5C7CYneaR4CWTqM"
       },
@@ -12624,7 +12714,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 312426,
       "name": "Winter Storm Vigilantes",
       "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"

@@ -1,12 +1,12 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 526385,
+  "num_followers": 526601,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIX8M4kPbadbEvV2D9OhePJuSPSy",
+  "snapshot_id": "AAAAAKmfbahi888l1/IlgTQsQQS7Otvg",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:49",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Got Your Six",
-        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 206903,
-      "name": "Jekyll and Hyde",
-      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 250253,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Got Your Six",
+        "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1235,42 +1235,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Unto the Locust (Special Edition)",
         "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
       },
@@ -1283,6 +1247,22 @@
       "duration_ms": 456320,
       "name": "Locust",
       "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1331,6 +1311,26 @@
       "duration_ms": 284840,
       "name": "512",
       "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Nu Delhi",
-        "url": "https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa"
-      },
-      "artists": [
-        {
-          "name": "Bloodywood",
-          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
-        }
-      ],
-      "duration_ms": 268141,
-      "name": "Nu Delhi",
-      "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Incarnate",
         "url": "https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 226786,
       "name": "Hate by Design",
       "url": "https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Nu Delhi",
+        "url": "https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa"
+      },
+      "artists": [
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        }
+      ],
+      "duration_ms": 268141,
+      "name": "Nu Delhi",
+      "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
+        "name": "Battles",
+        "url": "https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 238491,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Battles",
-        "url": "https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 238491,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Lux \u00c6terna",
         "url": "https://open.spotify.com/album/7qxhxLR8oZN3LizPQ7z2cb"
       },
@@ -1943,22 +1943,6 @@
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/3pwmJJRlr8nXNN9PFD18np"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
-        "name": "Blood of the Nations",
-        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 324746,
-      "name": "Beat the Bastards",
-      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1979,6 +1963,22 @@
       "duration_ms": 220866,
       "name": "Bad Dreams (feat. Of Virtue)",
       "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Blood of the Nations",
+        "url": "https://open.spotify.com/album/0sUtCw0dDv0KC8zrnxlmY4"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 324746,
+      "name": "Beat the Bastards",
+      "url": "https://open.spotify.com/track/5CtaBjZac81phlz5FNFI18"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Brain Dead",
-        "url": "https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        },
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Brain Dead",
-      "url": "https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "I, the Mask",
         "url": "https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7"
       },
@@ -2275,18 +2255,22 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Chasing Shadows",
-        "url": "https://open.spotify.com/album/2MOfDP2OU2EJHcaJVzt5kM"
+        "name": "Brain Dead",
+        "url": "https://open.spotify.com/album/3JETPcu03Ccra5Md9guFlU"
       },
       "artists": [
         {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        },
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/1o3dGdOfetdnkJ6OUDOioO"
+      "duration_ms": 168933,
+      "name": "Brain Dead",
+      "url": "https://open.spotify.com/track/4xU77b6HKv2IwES1drr3J5"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2311,18 +2295,18 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Tasty Nasty",
-        "url": "https://open.spotify.com/album/4rmzbSTWvNnPwVL21u7bdd"
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/2MOfDP2OU2EJHcaJVzt5kM"
       },
       "artists": [
         {
-          "name": "Wilson",
-          "url": "https://open.spotify.com/artist/2Uiis5cmcUvukNK7OlpW8s"
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Dumptruck",
-      "url": "https://open.spotify.com/track/7DnrADDBDIIXw2ZlU5q49W"
+      "duration_ms": 230133,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/1o3dGdOfetdnkJ6OUDOioO"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2339,6 +2323,22 @@
       "duration_ms": 257733,
       "name": "L'enfant sauvage",
       "url": "https://open.spotify.com/track/5lOUVddyItbbzMTB1PqISs"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Tasty Nasty",
+        "url": "https://open.spotify.com/album/4rmzbSTWvNnPwVL21u7bdd"
+      },
+      "artists": [
+        {
+          "name": "Wilson",
+          "url": "https://open.spotify.com/artist/2Uiis5cmcUvukNK7OlpW8s"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Dumptruck",
+      "url": "https://open.spotify.com/track/7DnrADDBDIIXw2ZlU5q49W"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Bad Days",
-        "url": "https://open.spotify.com/album/1Ek62SOQvG4GL6oNRUErk0"
-      },
-      "artists": [
-        {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
-        }
-      ],
-      "duration_ms": 200954,
-      "name": "Bad Days",
-      "url": "https://open.spotify.com/track/4qMMK5g0XoZv8uxXVmCmHf"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 232608,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Bad Days",
+        "url": "https://open.spotify.com/album/1Ek62SOQvG4GL6oNRUErk0"
+      },
+      "artists": [
+        {
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        }
+      ],
+      "duration_ms": 200954,
+      "name": "Bad Days",
+      "url": "https://open.spotify.com/track/4qMMK5g0XoZv8uxXVmCmHf"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Left Alone",
-        "url": "https://open.spotify.com/album/4PKf574spLkr6xETLg0pFq"
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
         }
       ],
-      "duration_ms": 197357,
-      "name": "Erase Me",
-      "url": "https://open.spotify.com/track/06om1aJnEjWpJev4Z70GYW"
+      "duration_ms": 257142,
+      "name": "Get That Done",
+      "url": "https://open.spotify.com/track/20RxT2FNo9eIkR4TnNoTBk"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2487,18 +2487,18 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS"
+        "name": "Left Alone",
+        "url": "https://open.spotify.com/album/4PKf574spLkr6xETLg0pFq"
       },
       "artists": [
         {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 257142,
-      "name": "Get That Done",
-      "url": "https://open.spotify.com/track/20RxT2FNo9eIkR4TnNoTBk"
+      "duration_ms": 197357,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/06om1aJnEjWpJev4Z70GYW"
     }
   ],
   "unique_name": "Energy Booster: Metal",

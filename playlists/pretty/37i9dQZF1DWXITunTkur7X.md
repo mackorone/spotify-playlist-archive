@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,822 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,831 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 9 | [Ik Neem Je Mee](https://open.spotify.com/track/4RxzgZMbYLLnLYaW00Wv4q) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Deze Wereld Is Van Jou](https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ) | 3:37 |
 | 10 | [Hoe Het Danst](https://open.spotify.com/track/5cYOVkA2cnjKid9yigaMwq) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Hoe Het Danst](https://open.spotify.com/album/0HKLOVzGYbtdamZ0FDibKg) | 4:12 |
 | 11 | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Hij Is Van Mij \(feat\. Bizzey\)](https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL) | 3:34 |
-| 12 | [Mooie Dag](https://open.spotify.com/track/14ZZR92YmYIIVhOi6h0MOg) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Mooie Dag](https://open.spotify.com/album/6XhBAJWwashrKpKMVpZt8Y) | 2:25 |
-| 13 | [Parijs](https://open.spotify.com/track/4CH8nmzGgqd4sokxN7dacs) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Kenny B](https://open.spotify.com/album/6vCBPngxisDMowQCtmmJtB) | 3:13 |
+| 12 | [Parijs](https://open.spotify.com/track/4CH8nmzGgqd4sokxN7dacs) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Kenny B](https://open.spotify.com/album/6vCBPngxisDMowQCtmmJtB) | 3:13 |
+| 13 | [Mooie Dag](https://open.spotify.com/track/14ZZR92YmYIIVhOi6h0MOg) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Mooie Dag](https://open.spotify.com/album/6XhBAJWwashrKpKMVpZt8Y) | 2:25 |
 | 14 | [Bagagedrager](https://open.spotify.com/track/3v0ouAltce6AySBTYBP3pk) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Deze Wereld Is Van Jou](https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ) | 3:41 |
 | 15 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 16 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |

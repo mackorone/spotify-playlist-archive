@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,231 likes - 200 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,401 likes - 200 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 199 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
 | 200 | [Into My Heart](https://open.spotify.com/track/1dYblj5sTrynVl2HQiuQJJ) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [Gyatso](https://open.spotify.com/artist/6qUpXEPXKjsXpaBnCVhlwY) | [Into My Heart](https://open.spotify.com/album/3UTyb96XNvciutIDeXOOcm) | 2:14 |
 
-Snapshot ID: `AAAAAINxGTObv4xX2Qp5sMsMvySQ8j1F`
+Snapshot ID: `AAAAAHiyjUVa3/7vfYqC3WuIMb7R5n9C`

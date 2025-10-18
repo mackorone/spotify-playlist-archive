@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Leah, Brendan Peyper, Lianie May, Andriette, Herman Kleinhans en meer!
 
-2,105 songs - 4 day 21 hr 9 min
+2,106 songs - 4 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Al\-Een Alleen](https://open.spotify.com/track/0XjQo86jT32VkRevNB9jD4) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Al\-Een Alleen](https://open.spotify.com/album/3K82YZvLVQMRzCb7ctZrtr) | 2:15 | 2024-09-05 | 2024-09-20 |
 | [Albasters](https://open.spotify.com/track/74h2T9wX1zP1ImlXTy8JGK) | [Jacques Not Jack](https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw), [Christi van Niekerk](https://open.spotify.com/artist/27viqr3X2WsBIyDzGPr9s4) | [Albasters](https://open.spotify.com/album/6xqJdUN6E5xa8yp5LbD8uL) | 2:52 | 2025-05-01 | 2025-05-16 |
 | [Alice](https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Genesis](https://open.spotify.com/album/6hRfwgVwKK815NQzfTzt2m) | 3:36 | 2025-09-04 |  |
+| [Alien mode](https://open.spotify.com/track/3YJilbknnXYVhj9evmasZD) | [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [Alien mode \(Original\)](https://open.spotify.com/album/3doXco0SkoGtjyVBnLIKLX) | 3:02 | 2025-10-16 |  |
 | [Alle Eer](https://open.spotify.com/track/2QTTNVu5gpfYnesPh42u7M) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Alynah Mackay](https://open.spotify.com/artist/1W5776lLdV7vOLRN8socJQ) | [Alle Eer](https://open.spotify.com/album/6xbZJ19CWwSIma0UprbnlW) | 2:46 | 2025-09-18 |  |
 | [Alledaags](https://open.spotify.com/track/6NpfpVIKxbOpkH4hEHgWmR) | [Deon Meiring](https://open.spotify.com/artist/5h2VPrb5uczuK8foqa2jby), [Janca Smit](https://open.spotify.com/artist/4kIgLqrrFsze5qNKkEzXP6) | [Alledaags](https://open.spotify.com/album/1wvkJ0pO8sLxBpROj36yIV) | 3:46 | 2022-11-04 | 2022-11-25 |
 | [Alleen](https://open.spotify.com/track/56sI0CrLA3lFLjMN8Z7aIA) | [Chessiwessi](https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT), [Op Die Plaas](https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu) | [Alleen](https://open.spotify.com/album/2sbH89JVxtDNQdZ9jma1c8) | 2:07 | 2024-12-12 | 2024-12-20 |

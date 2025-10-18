@@ -4,7 +4,7 @@
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-165 songs - 8 hr 35 min
+167 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Christmas Day](https://open.spotify.com/track/4q7IpOO72CzCOanJWdslVu) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Christmas Day](https://open.spotify.com/album/1JQzU0IrDLKpdEuy7oQ2xo) | 3:27 | 2022-11-24 | 2022-12-24 |
 | [Christmas For Cowboys](https://open.spotify.com/track/5qQSfrXlYeD7imnuwdFQHb) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Christmas For Cowboys](https://open.spotify.com/album/4kXQizjEGZy2bIqBJUatO7) | 3:06 | 2022-10-14 | 2025-09-05 |
 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 | 2022-10-24 | 2025-09-05 |
+| [Christmas Lights](https://open.spotify.com/track/6SDEX8g7tENxi7yt3wc2WB) | [Lauren Mae](https://open.spotify.com/artist/2SJ3QBBonLqrF3E5kYIqy1) | [Christmas Lights](https://open.spotify.com/album/3Ll4IXkj26FCgOUP3ch3Ns) | 3:15 | 2025-10-17 |  |
 | [Christmas Lights \- Acoustic](https://open.spotify.com/track/4fID9YxejFIfo7b7xYvFpC) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Christmas Lights \(Acoustic\)](https://open.spotify.com/album/4isjOztosKGlatAuY1BoDT) | 3:23 | 2022-09-23 | 2023-09-09 |
 | [Christmas Night in Harlem](https://open.spotify.com/track/6fIaZ5949Dd9ULjCFkg3lw) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Christmas Night in Harlem](https://open.spotify.com/album/2IC6jB9Zn6A6ZfyLSoXzS2) | 2:33 | 2023-10-06 |  |
 | [Christmas Quiet](https://open.spotify.com/track/46wRMshoe8TYgAIxHhwrnw) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas Quiet](https://open.spotify.com/album/4e5pVhI621lKlUNSr9bPPn) | 2:28 | 2023-12-19 |  |
@@ -152,6 +153,7 @@
 | [Thank God It's Christmas](https://open.spotify.com/track/3sSEbpbUVNnzU2sFZ81WAk) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Thank God It's Christmas](https://open.spotify.com/album/5eifKVwGfihPewkitHo5PS) | 4:03 | 2021-12-17 | 2025-09-05 |
 | [That's Christmas to Me](https://open.spotify.com/track/5PefLhPGTBDvHLNvCqgDVp) | [Tiffany Thomas](https://open.spotify.com/artist/3v2c2YbSY9F2DxmF88MbUw), [Theresa Chase](https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P) | [That's Christmas to Me](https://open.spotify.com/album/3JzHEhbSkMYTBUBI77C793) | 3:04 | 2023-10-13 |  |
 | [The Christmas Song](https://open.spotify.com/track/3CXCy292csbL8S8X2DOnxT) | [Catherine Feeny](https://open.spotify.com/artist/2PKUc5LXsZNjqOpAZKcFgz) | [The Hotel Café presents..\. Winter Songs](https://open.spotify.com/album/4fhTdBtyYkBi1pJpfSLRad) | 3:21 | 2021-12-17 | 2022-10-15 |
+| [The Christmas Song](https://open.spotify.com/track/1sAlac3gG6dx5qZc7rwUeJ) | [HARLOE](https://open.spotify.com/artist/6iyadmF41vqU7NnBaVabfL) | [The Christmas Song](https://open.spotify.com/album/2EwmiOHTcxXG3sKx8pDWUk) | 3:07 | 2025-10-17 |  |
 | [The Christmas Song](https://open.spotify.com/track/12CVNOsr1L3omtra5Z2Jmi) | [McKenna Williams](https://open.spotify.com/artist/03uZO3ld49qo2B5Y39Io05), [Gil Cohen](https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe) | [The Christmas Song](https://open.spotify.com/album/7M4I7btwjjSv6WIa3AxqH6) | 3:26 | 2021-12-17 | 2022-10-15 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/0QSELmravjW44FAonYCWV5) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/0nkB7pN7Zw01xnzfx4u7oj) | 2:53 | 2022-10-14 | 2025-09-05 |
 | [The Christmas Waltz](https://open.spotify.com/track/2QopSlvNVohyDbU1n185Rn) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [The Secret Of Christmas](https://open.spotify.com/album/6PkCw5bDn4bYlpmz3mKyQT) | 1:50 | 2021-12-17 | 2025-09-05 |

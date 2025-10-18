@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 318464,
       "name": "Fan\u00f8lyng",
       "url": "https://open.spotify.com/track/738PEBfX2XWfUG0ceTKQvT"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 298423,
       "name": "Ginge",
       "url": "https://open.spotify.com/track/1zNREutkA7aZBqWGqMgl29"
@@ -3891,6 +3891,24 @@
     },
     {
       "album": {
+        "name": "Tales of Mississippi",
+        "url": "https://open.spotify.com/album/5YqwcpQMAht5EnIHusDgS4"
+      },
+      "artists": [
+        {
+          "name": "Brandon Sanders",
+          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "Tales of Mississippi",
+      "url": "https://open.spotify.com/track/42hVqGscO1T9tJlFmC6O74"
+    },
+    {
+      "album": {
         "name": "Taking Another Look - Deluxe Edition",
         "url": "https://open.spotify.com/album/1HaE9olgQrHcHu0upVFsQz"
       },
@@ -3986,7 +4004,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 371120,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"

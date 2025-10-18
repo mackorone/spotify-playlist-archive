@@ -6,8 +6,28 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAc9Ea6um5iw5oAx2pct0iEqCABI9sj",
+  "snapshot_id": "AAAc9pUgQRkNXfVI69CoXki+G/Ofw/Z/",
   "tracks": [
+    {
+      "added_at": "2025-10-17 14:24:15",
+      "album": {
+        "name": "Talk To You (ft. Elton John)",
+        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 317040,
+      "name": "Talk To You (ft. Elton John)",
+      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
     {
       "added_at": "2025-09-26 12:19:49",
       "album": {

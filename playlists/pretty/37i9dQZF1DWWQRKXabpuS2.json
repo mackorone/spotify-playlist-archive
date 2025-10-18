@@ -1,13 +1,29 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 42565,
+  "num_followers": 42608,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMQzaWx1VKWIosT3M+qqcIUh284",
+  "snapshot_id": "AAAAADxkR1oTXmIKaiQEARPGtT1A9YJ4",
   "tracks": [
+    {
+      "added_at": "2025-10-17 10:46:02",
+      "album": {
+        "name": "\u062d\u0628\u064a\u0628\u064a \u0631\u062d",
+        "url": "https://open.spotify.com/album/70sfDimDV0fesYA0CUiORg"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "duration_ms": 260182,
+      "name": "\u062d\u0628\u064a\u0628\u064a \u0631\u062d",
+      "url": "https://open.spotify.com/track/28r9fcUufc6M5oBX3i0oFP"
+    },
     {
       "added_at": "2025-10-07 11:42:07",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/2TzwSS261mOvEOBORrmjed"
     },
     {
+      "added_at": "2025-10-17 10:46:02",
+      "album": {
+        "name": "\u0643\u0644 \u0645\u0627 \u062d\u0627\u0648\u0644\u062a",
+        "url": "https://open.spotify.com/album/0v25kgJ3D5upB1ryeET1VT"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "duration_ms": 216153,
+      "name": "\u0643\u0644 \u0645\u0627 \u062d\u0627\u0648\u0644\u062a",
+      "url": "https://open.spotify.com/track/5VvGnhgCaBzRcZDGRRdQSB"
+    },
+    {
       "added_at": "2025-10-12 13:08:52",
       "album": {
         "name": "Ahla Sodfa",
@@ -39,22 +71,6 @@
       "duration_ms": 218734,
       "name": "Ahla Sodfa",
       "url": "https://open.spotify.com/track/44A75paDvIWjO0vu2IlukE"
-    },
-    {
-      "added_at": "2025-10-06 08:23:27",
-      "album": {
-        "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
-        "url": "https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja"
-      },
-      "artists": [
-        {
-          "name": "Ayed",
-          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
-      "url": "https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB"
     },
     {
       "added_at": "2025-10-12 13:08:52",
@@ -87,6 +103,22 @@
       "duration_ms": 376994,
       "name": "Hafida Al Tarikh",
       "url": "https://open.spotify.com/track/3sEvdzY8BPSDXmuhI7UHHf"
+    },
+    {
+      "added_at": "2025-10-06 08:23:27",
+      "album": {
+        "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
+        "url": "https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "duration_ms": 204250,
+      "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
+      "url": "https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB"
     },
     {
       "added_at": "2025-09-09 12:24:40",
@@ -423,38 +455,6 @@
       "duration_ms": 189904,
       "name": "\u062a\u0639\u0627\u0646\u062f\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/1be4SUHehMtF6qAqRkU2yU"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Hawa Al Tayef",
-        "url": "https://open.spotify.com/album/6VuBX8RJdyLbXFvLnI4tQL"
-      },
-      "artists": [
-        {
-          "name": "Diana Haddad",
-          "url": "https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2"
-        }
-      ],
-      "duration_ms": 245532,
-      "name": "Hawa Al Tayef",
-      "url": "https://open.spotify.com/track/4Tso1qrYRD1aJVzmNh3Uq8"
-    },
-    {
-      "added_at": "2025-06-18 10:16:45",
-      "album": {
-        "name": "Basma",
-        "url": "https://open.spotify.com/album/7j02qpsUwwhTf5LaVfHKIK"
-      },
-      "artists": [
-        {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
-        }
-      ],
-      "duration_ms": 220873,
-      "name": "Basma",
-      "url": "https://open.spotify.com/track/6kOU6t2ywX9M2UTVA7Fd4c"
     },
     {
       "added_at": "2025-06-18 10:16:45",

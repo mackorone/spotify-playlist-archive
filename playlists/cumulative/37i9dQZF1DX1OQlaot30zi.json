@@ -3111,8 +3111,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "PUTAVIDA MIXTAPE",
+        "url": "https://open.spotify.com/album/6dSq06CvcxBxPFvXYpsgG1"
       },
       "artists": [
         {
@@ -54287,6 +54287,28 @@
     },
     {
       "album": {
+        "name": "IL CONTAGIO",
+        "url": "https://open.spotify.com/album/3vADBvucWU45CaCreLMIXK"
+      },
+      "artists": [
+        {
+          "name": "MA7DI",
+          "url": "https://open.spotify.com/artist/4qHOnCnQ7cKuAIstfD7ATj"
+        },
+        {
+          "name": "True Experience",
+          "url": "https://open.spotify.com/artist/1P6vSTCYvEOuTDdz6nWs60"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "IL CONTAGIO",
+      "url": "https://open.spotify.com/track/2ZAHyPv4U7GnvfspaSWySQ"
+    },
+    {
+      "album": {
         "name": "KG",
         "url": "https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS"
       },
@@ -73568,12 +73590,12 @@
           "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
         },
         {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        },
-        {
           "name": "Smookid",
           "url": "https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR"
+        },
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
         },
         {
           "name": "4TheNight",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GyB1VTMbAk.md) - [plain]
 
 > Enjoy the RIIZE CONCERT TOUR \[RIIZING LOUD\] LIVE SET including the voices of them on stage! \(라이즈의 무대 멘트와 목소리가 포함된 \[RIIZING LOUD\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,029 likes - 29 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,040 likes - 29 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,486 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,516 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 19 | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh) | 4:34 |
 | 20 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
 | 21 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 |
-| 22 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
-| 23 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
+| 22 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
+| 23 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
 | 24 | [A Esperança Que Restou](https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM) | [Rayssa e Ravel](https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT) | [A Esperança Que Restou](https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I) | 4:41 |
-| 25 | [Do Meu Jeito \(Majestade\)](https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Do Meu Jeito \(Majestade\)](https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW) | 4:13 |
-| 26 | [Melhor Herança](https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Melhor Herança](https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5) | 3:52 |
+| 25 | [Melhor Herança](https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Melhor Herança](https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5) | 3:52 |
+| 26 | [Do Meu Jeito \(Majestade\)](https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Do Meu Jeito \(Majestade\)](https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW) | 4:13 |
 | 27 | [Vai Ter Recompensa \(Ao Vivo\)](https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ) | [Vai Ter Recompensa \(Ao Vivo\)](https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE) | 5:07 |
 | 28 | [Deus Está Fazendo \- Ao Vivo](https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO) | 5:28 |
 | 29 | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/track/1ITo1wNWFMfBzaGi2kWSQs) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Sempre Te Amei / O Mandamento / Mais Que Um Diamante / Cheiro de Gratidão / Se Deus É Por Nós](https://open.spotify.com/album/30sJ7T5aWnoQHFlNfQ00FY) | 7:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 |
 | 60 | [Valeu a Pena](https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Valeu a Pena](https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD) | 3:04 |
 
-Snapshot ID: `AAAAADptay8BT3xXDdPjpyvhScZyJzbT`
+Snapshot ID: `AAAAAJIYa1LsuukoYm1TQmgsFO8oI4eD`

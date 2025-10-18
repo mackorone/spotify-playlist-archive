@@ -1,6 +1,6 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 815416,
+  "num_followers": 815484,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-09-26 04:00:16",
       "album": {
-        "name": "Back To The Barrooms",
-        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "I Think I'll Just Stay Here And Drink",
-      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
-    },
-    {
-      "added_at": "2025-09-26 04:00:16",
-      "album": {
         "name": "Outlaws Like Me",
         "url": "https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 223280,
       "name": "If Heaven Wasn't So Far Away",
       "url": "https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn"
+    },
+    {
+      "added_at": "2025-09-26 04:00:16",
+      "album": {
+        "name": "Back To The Barrooms",
+        "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "I Think I'll Just Stay Here And Drink",
+      "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
     },
     {
       "added_at": "2025-09-26 04:00:16",

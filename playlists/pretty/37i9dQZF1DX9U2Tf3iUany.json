@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 58653,
+  "num_followers": 58663,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 321642,
+      "name": "Devil's Pie",
+      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 207133,
       "name": "Just How It Is",
       "url": "https://open.spotify.com/track/5KYhIFNTp4VQUqlsbLWTTu"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 321642,
-      "name": "Devil's Pie",
-      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -2,7 +2,7 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Marie Vaunt
+> 😈 welcome to the rave 😈  Cover: I Hate Models ✌️
 
 313 songs - 21 hr 59 min
 
@@ -31,7 +31,7 @@
 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 | 2025-06-20 |  |
 | [Ang3l Attack!](https://open.spotify.com/track/2MBp3Z0SgeQL2lCsc0WORT) | [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Ang3l Attack!](https://open.spotify.com/album/1NXABba2AxQ2oMdxkB922r) | 3:36 | 2025-08-22 | 2025-10-02 |
 | [ASBAK ANTHEM](https://open.spotify.com/track/6gXag9ON69aYPQW6YHGFfV) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [ASBAK ANTHEM](https://open.spotify.com/album/4bTmkkIfnIm7MzEv5zAIGU) | 2:39 | 2025-07-22 | 2025-08-23 |
-| [Ashes \- VIP](https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Ashes \(VIP\)](https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29) | 2:34 | 2025-09-05 |  |
+| [Ashes \- VIP](https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Ashes \(VIP\)](https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29) | 2:34 | 2025-09-05 | 2025-10-18 |
 | [Atmosphere](https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd), [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Atmosphere](https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv) | 4:57 | 2024-09-06 |  |
 | [Aural Exciter \- Original Mix](https://open.spotify.com/track/5jk06siNYQ9lK5ba3qAC7B) | [Glenn Wilson](https://open.spotify.com/artist/1k0bnsqmUolxbTWG00U8Zb), [Mike Humphries](https://open.spotify.com/artist/1N1e7TFA0jcGad0NlnlMP1) | [Aural Exciter \- The Remixes](https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk) | 5:20 | 2024-08-13 | 2024-09-16 |
 | [B2B](https://open.spotify.com/track/0oKPYa7P06v56FiA6y2lUZ) | [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [B2B](https://open.spotify.com/album/5ljknZ8FjnJVINAp2Ap3Qn) | 3:15 | 2025-08-22 | 2025-09-24 |
@@ -89,7 +89,7 @@
 | [Die Welt Brennt](https://open.spotify.com/track/7oAM2GxHCTKTLU3gXvkuuj) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Obernauer](https://open.spotify.com/artist/1PDMLYsqcKoGCBaWMTwcpi) | [Die Welt Brennt](https://open.spotify.com/album/44WQTL892sCs09rNu3hSLJ) | 5:10 | 2024-08-05 | 2025-07-25 |
 | [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 | 2024-04-09 | 2024-09-23 |
 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 | 2024-07-14 | 2024-07-22 |
-| [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 | 2024-04-19 | 2025-09-14 |
+| [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 | 2024-04-19 |  |
 | [Do You Think About Me](https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Do You Think About Me](https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR) | 2:24 | 2024-09-06 | 2025-01-11 |
 | [Don’t Say A Word](https://open.spotify.com/track/0KhH0P4Gfs5h2wNB5gzPph) | [Kander](https://open.spotify.com/artist/3gSVZTpmVW2JKzngOCDXkd) | [R007](https://open.spotify.com/album/6VEgiBh9LDRQRIuznd8hcT) | 4:46 | 2024-04-09 | 2024-06-26 |
 | [Dooms Night](https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc) | 3:25 | 2025-01-18 | 2025-09-25 |

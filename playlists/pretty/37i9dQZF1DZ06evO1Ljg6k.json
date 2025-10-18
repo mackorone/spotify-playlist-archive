@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 54260,
+  "num_followers": 56736,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAD6wPknXOYI8yYSeCZO5out",
+  "snapshot_id": "aPA1gAAAAAC6tty7wL/WVws37BavKtsd",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Blue Carpet Treatment",
         "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 282186,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/0FNPiAAdWdWaGr7JOnlKmi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At The Jazz Cafe, London",
-        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "Can't Hide Love - Live At The Jazz Cafe, London/1995",
-      "url": "https://open.spotify.com/track/2gpTbzVPDMtxsDjLn2FrII"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 299533,
-      "name": "Ain't Nobody Home",
-      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -531,22 +511,6 @@
       "duration_ms": 277639,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2Xr7QVhLRYwXRR1oteyo9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best So Far",
-        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Heaven Must Be Like This",
-      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
     },
     {
       "added_at": null,
@@ -571,6 +535,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 299533,
+      "name": "Ain't Nobody Home",
+      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Heaven Must Be Like This",
+      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Jazz Cafe, London",
+        "url": "https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Jonz In My Bones - Live At The Jazz Cafe, London/1995",
+      "url": "https://open.spotify.com/track/0cUMdJl2C1WFcnSsgYjBF9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Renaissance",
         "url": "https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ"
       },
@@ -587,30 +603,6 @@
       "duration_ms": 176986,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/4W5qCJNSN3oNHB986TdO9S"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        }
-      ],
-      "duration_ms": 280386,
-      "name": "Ibtihaj",
-      "url": "https://open.spotify.com/track/3E0e6xSwnavQzRK1iLKvuw"
     }
   ],
   "unique_name": "This Is D'Angelo",

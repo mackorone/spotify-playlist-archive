@@ -1,13 +1,29 @@
 {
-  "description": "livin' life with Dasha on the cover",
-  "num_followers": 1572245,
+  "description": "Chloe Qisha is always in the hot tub at a party",
+  "num_followers": 1572114,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLO4e4hNPJFLC0rXIpbVw61PgEN",
+  "snapshot_id": "AAAAANOXUifFxKDn1VmCvXDZde7kAngB",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:01:00",
+      "album": {
+        "name": "So Sad So Hot",
+        "url": "https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 171014,
+      "name": "So Sad So Hot",
+      "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+    },
     {
       "added_at": "2025-10-10 04:00:10",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
+      "added_at": "2025-10-17 07:57:03",
+      "album": {
+        "name": "Wednesday's Child",
+        "url": "https://open.spotify.com/album/3cOCHvhcgPYxciEeR8fXKa"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5xSSkE1fplMv910qZ2784e"
+    },
+    {
       "added_at": "2025-10-03 04:00:48",
       "album": {
         "name": "Different, Worse Versions",
@@ -59,6 +91,22 @@
     {
       "added_at": "2025-10-10 04:00:10",
       "album": {
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 202795,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "added_at": "2025-10-10 04:00:10",
+      "album": {
         "name": "Your Manhattan",
         "url": "https://open.spotify.com/album/4gejdxnslRCSyswCA3fHdu"
       },
@@ -71,6 +119,22 @@
       "duration_ms": 183595,
       "name": "Your Manhattan",
       "url": "https://open.spotify.com/track/3r5Z0AegZ0AY0HfKFWs3dz"
+    },
+    {
+      "added_at": "2025-10-03 04:00:48",
+      "album": {
+        "name": "mood swings",
+        "url": "https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 125786,
+      "name": "mood swings",
+      "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
     },
     {
       "added_at": "2025-09-19 04:00:31",
@@ -89,22 +153,6 @@
       "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
     },
     {
-      "added_at": "2025-10-10 04:00:10",
-      "album": {
-        "name": "bittersweet",
-        "url": "https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 202795,
-      "name": "bittersweet",
-      "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
-    },
-    {
       "added_at": "2025-10-03 04:00:48",
       "album": {
         "name": "No Vacancy",
@@ -121,20 +169,20 @@
       "url": "https://open.spotify.com/track/1A3ic2z0rbonwSKL7A6dMF"
     },
     {
-      "added_at": "2025-10-03 04:00:48",
+      "added_at": "2025-02-14 05:00:41",
       "album": {
-        "name": "mood swings",
-        "url": "https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt"
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 125786,
-      "name": "mood swings",
-      "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2025-09-26 04:00:24",
@@ -363,22 +411,6 @@
       "duration_ms": 170400,
       "name": "blue",
       "url": "https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV"
-    },
-    {
-      "added_at": "2025-10-03 04:00:48",
-      "album": {
-        "name": "NOSEBLEED",
-        "url": "https://open.spotify.com/album/55bGyRCMcYygCWBb4lx49I"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        }
-      ],
-      "duration_ms": 164341,
-      "name": "NOSEBLEED",
-      "url": "https://open.spotify.com/track/1RfEkQh7bgBh4xVVmyb02d"
     },
     {
       "added_at": "2025-05-30 04:00:37",
@@ -915,22 +947,6 @@
       "duration_ms": 175716,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9"
-    },
-    {
-      "added_at": "2025-02-14 05:00:41",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2025-09-05 04:57:49",

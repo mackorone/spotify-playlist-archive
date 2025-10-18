@@ -4,7 +4,7 @@
 
 > Dive into the sounds of Korea’s bold and brilliant female rappers!
 
-101 songs - 5 hr 15 min
+105 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [ATE THAT](https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [ATE THAT EP](https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK) | 3:00 | 2025-10-13 |  |
 | [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2025-10-13 |  |
 | [BALENCIA \(feat\. ASH ISLAND\)](https://open.spotify.com/track/402pmJrmv11wWDbkWKWWao) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 2:52 | 2025-10-13 |  |
+| [BEAM BEAM](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:47 | 2025-10-17 |  |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2025-10-13 |  |
 | [Black Happiness](https://open.spotify.com/track/3gpwEXhh8o08MWQukS9bVz) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:04 | 2025-10-13 |  |
 | [Blue \(feat\. Captainrock\)](https://open.spotify.com/track/1L0pTY6iHUhzNw2bdwErDe) | [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC), [Captainrock](https://open.spotify.com/artist/4iAzTuQOAgDedLVgZcssvm) | [Undercover Angel](https://open.spotify.com/album/7GXiOhGiUPRLndWCnR9787) | 3:58 | 2025-10-13 |  |
@@ -24,6 +25,7 @@
 | [Coma 07\`](https://open.spotify.com/track/504TQsOcBgDkxSubRbPix7) | [CHEETAH](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) | [UNPRETTY RAPSTAR COMPILATION](https://open.spotify.com/album/4Bwf5QocWbCCGGyzRGqlpr) | 3:27 | 2025-10-13 |  |
 | [COMPASS \(Feat\. Chin\)](https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 3:51 | 2025-10-13 |  |
 | [Compromise](https://open.spotify.com/track/6OL2uUSI5eQbY76GvT5fzD) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Compromise](https://open.spotify.com/album/1bnsmAzZRe9LJ4JYF95N0f) | 3:01 | 2025-10-13 |  |
+| [Cookie](https://open.spotify.com/track/0kkpcNQ4RZmnWrthnsnPIn) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Gemini 2](https://open.spotify.com/album/7L6gqLdAo3t6DOJKiVInks) | 3:08 | 2025-10-17 |  |
 | [CRAZY DOG \(feat.San E\)](https://open.spotify.com/track/5IWFa71wgZfLr5xAY4Ezth) | [YEZI](https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [CRAZY DOG](https://open.spotify.com/album/2knRKwHY7TqcBPLa23jxl6) | 2:59 | 2025-10-13 |  |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2025-10-13 |  |
 | [Dark Room](https://open.spotify.com/track/3RPzrY0yN5bo2e6JyMdSHp) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Dark Room](https://open.spotify.com/album/5hohWnXIZ7IUcaDN41p7tt) | 2:32 | 2025-10-13 |  |
@@ -49,6 +51,7 @@
 | [Hyperreal](https://open.spotify.com/track/5CWo5ktCZUYNFK4oqd5VBB) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Hyperreal](https://open.spotify.com/album/3n4pM1XWiUXsMiTgPlOFb4) | 4:14 | 2025-10-13 |  |
 | [I Am Lee Young Ji](https://open.spotify.com/track/1B3A3XPsPuB8z0DCIzxq0r) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [GOOD GIRL Episode 1](https://open.spotify.com/album/4uikzBR5QCvx2YBZQsgIDD) | 3:02 | 2025-10-13 |  |
 | [I Do What I Want](https://open.spotify.com/track/5XjAtrWNjn742WsLv5CKWI) | [HYOYEON](https://open.spotify.com/artist/0B3I6YgdnfXehUCpsO6oB8), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [GOOD GIRL FINAL](https://open.spotify.com/album/6cqrsUYt9rpZ0lvbO1kGjx) | 3:25 | 2025-10-13 |  |
+| [Is this bad b\*\*\*\*\*\* number?](https://open.spotify.com/track/5xTy9p0IXI8lRaU6iLGikC) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:45 | 2025-10-17 |  |
 | [juh like dat](https://open.spotify.com/track/3GyAdnQeaBL8AonxqHQY3d) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [SAUCE TALK](https://open.spotify.com/album/4uu1fX8MC6EcVoYCMI6KnR) | 3:30 | 2025-10-13 |  |
 | [K\-PACK](https://open.spotify.com/track/3EsYuYLmFZbo86auAUKOSi) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Yours Truly](https://open.spotify.com/album/4tHUmg0RAKdjTuCNkakep3) | 3:02 | 2025-10-13 |  |
 | [KawiBawiBo](https://open.spotify.com/track/01vq87Iljp87jY3wg9730c) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Gemini 2](https://open.spotify.com/album/7L6gqLdAo3t6DOJKiVInks) | 3:17 | 2025-10-13 |  |
@@ -79,6 +82,7 @@
 | [Rockstar](https://open.spotify.com/track/65ZihkVQO3KqPj7ZKxmcev) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:18 | 2025-10-13 |  |
 | [Sauce \(feat\. Lil cherry\)](https://open.spotify.com/track/4n401Ntf2PBCdTJNI4PWlk) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [SILKMOTH](https://open.spotify.com/album/7KS6XUpuXB9aWKU2EMpPxw) | 3:11 | 2025-10-13 |  |
 | [SAUCE TALK](https://open.spotify.com/track/07Q3jk3SaQHia0IDXs199X) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [SAUCE TALK](https://open.spotify.com/album/4uu1fX8MC6EcVoYCMI6KnR) | 1:32 | 2025-10-13 |  |
+| [Scary \(Prod\. by KUSH\)](https://open.spotify.com/track/1yB8Qo95gnvGHv8v1fnkls) | [NADA](https://open.spotify.com/artist/4V9BV6RTYfrLRwtb4GIVru), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [UNPRETTY RAPSTAR 3 Track 3](https://open.spotify.com/album/4yCi6WHotfHIR7POwRObxK) | 2:59 | 2025-10-17 |  |
 | [She’s Coming](https://open.spotify.com/track/6K1pvbJfqMb619ZjvUb6Ez) | [UNPRETTY RAPSTAR 3](https://open.spotify.com/artist/2GFWFz0RDN1FH3scVGHGrF) | [She’s Coming \(From UNPRETTY RAPSTAR 3, Pt\. 1\)](https://open.spotify.com/album/6FPfsuOWw2RYFO03iFZwDk) | 4:08 | 2025-10-13 |  |
 | [Six Weeks](https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:17 | 2025-10-13 |  |
 | [SMASH! \(feat\. Skinny Brown\)](https://open.spotify.com/track/5krsjTkOuJQkxZXTdNtJ6f) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [SMASH! \(feat\. Skinny Brown\)](https://open.spotify.com/album/1Zq9QoDJ2zmG3aniPLUZkI) | 2:41 | 2025-10-13 |  |

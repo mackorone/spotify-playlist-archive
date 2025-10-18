@@ -4,7 +4,7 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,272 songs - 2 day 17 hr 4 min
+1,273 songs - 2 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Cool](https://open.spotify.com/track/3QmolSZqjjLksTUvZJ6pPS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Cool](https://open.spotify.com/album/4yenfBKQAR4ofEgNPk5Ocn) | 2:47 | 2019-08-02 | 2022-04-21 |
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2022-03-24 | 2022-04-15 |
 | [cotton candy](https://open.spotify.com/track/3foWaxM2tcZD91WcOLFqch) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [cotton candy](https://open.spotify.com/album/0M57xgjAnlQp1b9b8AkXbg) | 2:47 | 2020-10-09 | 2021-01-08 |
+| [cough drops](https://open.spotify.com/track/5Jpj3lCgX06bu6STIjUYKN) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [cough drops](https://open.spotify.com/album/4gM0KEbTRLuejffBFA1kph) | 2:43 | 2024-02-12 |  |
 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 | 2022-04-07 | 2022-04-21 |
 | [Coño](https://open.spotify.com/track/5DV4ZSCqbFv74ui3ZhimXo) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [Coño](https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml) | 1:51 | 2020-07-03 | 2020-10-09 |
 | [Crazy](https://open.spotify.com/track/4IEHr8JgnllbQpcuoFkv8U) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6jBeDQw812pVAmACqLuYww) | 2:33 | 2019-07-29\* | 2022-04-09 |
@@ -744,7 +745,7 @@
 | [My Bed \(feat\. RBVLN\)](https://open.spotify.com/track/75VwTAbn9byz537HEMlFvR) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [RBVLN](https://open.spotify.com/artist/224G27DUJ00ddLjId4mg68) | [My Bed \(feat\. RBVLN\)](https://open.spotify.com/album/5aUPakJYEkXMj4Mb6KX1DV) | 2:46 | 2021-04-19 | 2022-04-16 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2020-11-20 |  |
 | [My Heart](https://open.spotify.com/track/1zVfFnkHv8ubJRXT30d4T3) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/6ISIdF1gCK9X8pn4FaObHE) | 3:16 | 2019-07-29\* | 2022-04-19 |
-| [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2021-10-12 |  |
+| [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2021-10-12 | 2025-10-18 |
 | [My Heart Is So Heavy \- Album Edit](https://open.spotify.com/track/4aPl9DHXAqiYJUdjmBk4wf) | [Cry Boy Cry](https://open.spotify.com/artist/1zXMNLcTn3CMhVKOQ9DSUp) | [My Heart Is So Heavy](https://open.spotify.com/album/0AyZx59Pk3emGxYDhaVZtW) | 3:00 | 2019-07-29\* | 2020-01-02 |
 | [My Last Song](https://open.spotify.com/track/6Oejq17rVhmFC02g07B3Hz) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [My Last Song](https://open.spotify.com/album/2HeCDWb54nUiL1dvMpD2vx) | 2:35 | 2021-05-24 | 2022-04-21 |
 | [My Name Isn’t](https://open.spotify.com/track/0922QmPCA8PuDb19cXKKw3) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [My Name Isn’t](https://open.spotify.com/album/1aaKmkQEbCxjNslqdKLJ6B) | 2:54 | 2019-08-01 | 2020-01-01 |

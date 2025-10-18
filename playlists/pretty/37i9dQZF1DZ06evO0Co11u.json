@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 195294,
+  "num_followers": 195318,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACD1W6xRgR4QLNJsH4+f7Vp",
+  "snapshot_id": "aPA1gAAAAAB/jxyzuiN6w/z1dgpJ1LRk",
   "tracks": [
     {
       "added_at": null,
@@ -827,30 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis and Friends",
-        "url": "https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Sy Oliver & His Orchestra",
-          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "My Sweet Hunk O' Trash - Single Version",
-      "url": "https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essence of Armstrong",
         "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 133266,
       "name": "I Still Get Jealous",
       "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louis and Friends",
+        "url": "https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Sy Oliver & His Orchestra",
+          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "My Sweet Hunk O' Trash - Single Version",
+      "url": "https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ"
     },
     {
       "added_at": null,

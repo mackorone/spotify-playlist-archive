@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Juicy Luicy
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,333 likes - 96 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,400 likes - 96 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 9 | [Red Flag](https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Cerita Kita](https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d) | 2:46 |
 | 10 | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 |
 | 11 | [Cinta Tak Berbatas \- From Novel "Bukan Sekadar Cinta"](https://open.spotify.com/track/5RhMduTz5sQIZ1hz650z6S) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Cinta Tak Berbatas \(From Novel "Bukan Sekadar Cinta"\)](https://open.spotify.com/album/0W08j84GtpWZ5qAffRJytQ) | 4:04 |
-| 12 | [Track 2](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 |
 | 13 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |
 | 14 | [Tatap Mata](https://open.spotify.com/track/70zHRaP6g351dQktpUq6Bo) | [Shakirra Vier](https://open.spotify.com/artist/25EadvOKROXy52Cn1BF6QI) | [Tatap Mata](https://open.spotify.com/album/2Vy7gULsfkdO1EwjfwtyNS) | 3:21 |
 | 15 | [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 |

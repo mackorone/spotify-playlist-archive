@@ -7693,7 +7693,7 @@
 - [Voy pallá](/playlists/pretty/37i9dQZF1DXe3a8ZI7Co8I.md)
 - [Vroum vroum](/playlists/pretty/37i9dQZF1DWYPUCdJXtD7j.md)
 - [Về Quê](/playlists/pretty/37i9dQZF1DX1kCQJbQlZlA.md)
-- [WONDERLIVET 2024](/playlists/pretty/37i9dQZF1DWYky5xA4i61c.md)
+- [WONDERLIVET 2025](/playlists/pretty/37i9dQZF1DWYky5xA4i61c.md)
 - [WOR K  OUT](/playlists/pretty/37i9dQZF1DX3ZeFHRhhi7Y.md)
 - [WORKOUT x Antonela Roccuzzo](/playlists/pretty/37i9dQZF1DX6fd2RNRBOLp.md)
 - [WORLD OF STREET WOMAN FIGHTER](/playlists/pretty/37i9dQZF1Fj9OrNfyVGXF5.md)

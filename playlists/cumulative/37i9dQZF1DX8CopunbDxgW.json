@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "new album from Mak\u00e8z has endless soul \ud83e\udef6  it's all the best indie dance tracks of the moment",
+  "description": "Tame Impala gets dancey \u2600\ufe0f it's all the best indie dance tracks of the moment",
   "name": "metropolis",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 193901,
       "name": "All I Really Want",
       "url": "https://open.spotify.com/track/3lLh5lWerYHviy8hSVvtBw"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
@@ -6278,7 +6278,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 250899,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/1prTkcR97q22kjxWsJ4ywg"
@@ -11973,6 +11973,28 @@
     },
     {
       "album": {
+        "name": "Feel4u",
+        "url": "https://open.spotify.com/album/4N9aYSCpWhiKogd0hWv2Xq"
+      },
+      "artists": [
+        {
+          "name": "The Kaleidoscopes",
+          "url": "https://open.spotify.com/artist/2xVXoULP2FJCUTRPEnejmk"
+        },
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "Feel4u",
+      "url": "https://open.spotify.com/track/7CPXCZEIvvcIwt7OLwpcjz"
+    },
+    {
+      "album": {
         "name": "Feelin' Blue",
         "url": "https://open.spotify.com/album/42YB9hnNk9XZL5tZaJhRBD"
       },
@@ -14961,6 +14983,50 @@
     },
     {
       "album": {
+        "name": "HARD N SOFT",
+        "url": "https://open.spotify.com/album/5XyCvxjioJ9Lex2yBQ6Hd8"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Fiorious",
+          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201717,
+      "name": "HARD N SOFT",
+      "url": "https://open.spotify.com/track/0NGzHyfkHvF7anlcBt7Stn"
+    },
+    {
+      "album": {
+        "name": "Hard To Forget U",
+        "url": "https://open.spotify.com/album/3EcpbppCZUAZlisLS6Vewv"
+      },
+      "artists": [
+        {
+          "name": "Togetherness",
+          "url": "https://open.spotify.com/artist/32GNunodYuJPL8C1m3XfQW"
+        },
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256704,
+      "name": "Hard To Forget U",
+      "url": "https://open.spotify.com/track/6cxCO4HIdkf9XLqfuPd7s0"
+    },
+    {
+      "album": {
         "name": "Hard to Pretend",
         "url": "https://open.spotify.com/album/0TpOGVTB0pc5kRH6sbtpUN"
       },
@@ -15352,6 +15418,28 @@
       "duration_ms": 202320,
       "name": "Heavy (feat. Your Smith)",
       "url": "https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt"
+    },
+    {
+      "album": {
+        "name": "help me wake up (los angeles)",
+        "url": "https://open.spotify.com/album/4OErAnyTFCo6ydQ7pc0Rs2"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Waterworld",
+          "url": "https://open.spotify.com/artist/31jlPM9JhvWhmhyTkkTaBe"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173454,
+      "name": "help me wake up (los angeles)",
+      "url": "https://open.spotify.com/track/39SkMf1NJc2X6SvQpT8rLk"
     },
     {
       "album": {
@@ -16422,6 +16510,24 @@
       "duration_ms": 180624,
       "name": "Home",
       "url": "https://open.spotify.com/track/5PdA08FFRf8LaufbO0kQdv"
+    },
+    {
+      "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/4WyjY0UXvVYUKUZlYXrYpo"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190595,
+      "name": "home",
+      "url": "https://open.spotify.com/track/7IY61zBEgqyIEPfD6ZK2R4"
     },
     {
       "album": {
@@ -17579,6 +17685,24 @@
     },
     {
       "album": {
+        "name": "I told ya",
+        "url": "https://open.spotify.com/album/12RkrZxeDy1usKwyEYhna8"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "I told ya",
+      "url": "https://open.spotify.com/track/2p62Qdz5g4rW0lEmF6QEM7"
+    },
+    {
+      "album": {
         "name": "I Wanna Help Your Mind",
         "url": "https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4"
       },
@@ -18620,6 +18744,24 @@
       "duration_ms": 164053,
       "name": "Innerspace",
       "url": "https://open.spotify.com/track/4tZ5Z8toQDjOmnWQYUe8Nv"
+    },
+    {
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165388,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
     },
     {
       "album": {
@@ -23048,7 +23190,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 202913,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/3a9GL4vO0HnWHosQAvYava"
@@ -24616,6 +24758,24 @@
       "duration_ms": 278238,
       "name": "My Melody",
       "url": "https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
     },
     {
       "album": {
@@ -26492,7 +26652,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 273240,
       "name": "On a Pier, On the Hudson",
       "url": "https://open.spotify.com/track/3NPGL8TYTiahQplLct85G2"
@@ -27685,6 +27845,32 @@
     },
     {
       "album": {
+        "name": "PLANET SUNSET",
+        "url": "https://open.spotify.com/album/17yfWiS02t7EVvgV0CFuBS"
+      },
+      "artists": [
+        {
+          "name": "LOVE LANGUAGE",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
+        },
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        },
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "PARTYS OVER",
+      "url": "https://open.spotify.com/track/1zYmOo4SD2yEiL7kHw0fpy"
+    },
+    {
+      "album": {
         "name": "Passed Me By",
         "url": "https://open.spotify.com/album/3XXKD7oise1AekkRWE9aRu"
       },
@@ -27900,7 +28086,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 230797,
       "name": "Perfectly",
       "url": "https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg"
@@ -28422,7 +28608,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 161586,
       "name": "pressure",
       "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
@@ -30022,7 +30208,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 297943,
       "name": "Run",
       "url": "https://open.spotify.com/track/179sUkLRDlrfmRAITyK456"
@@ -30614,6 +30800,24 @@
       "duration_ms": 167172,
       "name": "say you'll never leave",
       "url": "https://open.spotify.com/track/4IOkjtrAntwo5TticxEIr9"
+    },
+    {
+      "album": {
+        "name": "SCARS",
+        "url": "https://open.spotify.com/album/5EPLXZBFTrRP13craUwAIt"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185373,
+      "name": "SCARS",
+      "url": "https://open.spotify.com/track/4pWItRY6QLzAHRc4vdC0Cg"
     },
     {
       "album": {
@@ -35681,6 +35885,28 @@
     },
     {
       "album": {
+        "name": "the time",
+        "url": "https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122386,
+      "name": "the time",
+      "url": "https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9"
+    },
+    {
+      "album": {
         "name": "Happiness, Guaranteed",
         "url": "https://open.spotify.com/album/2MrsSz89mk5XCcRF3gccLG"
       },
@@ -37004,7 +37230,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 252317,
       "name": "Totem",
       "url": "https://open.spotify.com/track/22rE9iKNDvHTga8w6ePYYw"
@@ -39428,7 +39654,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 132413,
       "name": "When I Call You",
       "url": "https://open.spotify.com/track/7DE1A26mXzpWU1zguzRIMB"
@@ -39850,7 +40076,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 232986,
       "name": "Why Do You Wanna Dance",
       "url": "https://open.spotify.com/track/5wu8u9mEC22escUaMEqFb8"

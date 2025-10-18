@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: thatboykwame
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,904 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,907 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 19 | [night in tokyo!](https://open.spotify.com/track/0enPdppIOTmn6gZGJbeJzS) | [TH3 KXD](https://open.spotify.com/artist/5KjxDm3rAhy7nSkSKyv0LQ) | [night in tokyo!](https://open.spotify.com/album/442902zOScm1H2tAWsNz3x) | 1:55 |
 | 20 | [Swag Out](https://open.spotify.com/track/6LprNXUpXdawkc40AQS8A3) | [Lil Wright](https://open.spotify.com/artist/7i03rpnL7xfaXDmCj72JVA), [Symph0ny](https://open.spotify.com/artist/4byLwrPhNUuNDSOHshmrgG) | [WRIGHT](https://open.spotify.com/album/4jSpTk3WpcVFoo2Q3Rhwcb) | 2:32 |
 | 21 | [Reach the Heavens](https://open.spotify.com/track/0g3zJQ06cteAwrt760vpaU) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Benny Morrell](https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9) | [The Moon \(The Dark Side\)](https://open.spotify.com/album/34eMmsMAVg1jnXNKNT0UyC) | 3:46 |
-| 22 | [Track 1](https://open.spotify.com/track/7ItsTOrorRRrkssIJXcNhK) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [](https://open.spotify.com/album/null) | 0:00 |
+| 22 | [Love For My Brothers](https://open.spotify.com/track/7ItsTOrorRRrkssIJXcNhK) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Love For My Brothers](https://open.spotify.com/album/79wnjeKYX6lZ7skUtJdTA1) | 2:52 |
 | 23 | [That's My](https://open.spotify.com/track/3yUD8TT3OD0Zi7Aj8gPRdQ) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [That's My](https://open.spotify.com/album/5ukWDRZUm16Tc00WlvCmC0) | 4:01 |
 | 24 | [BLAK](https://open.spotify.com/track/2liTiTaaNaWC2XmNU7fo7d) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Niwa](https://open.spotify.com/artist/5soKNltN8UsPRYg2rdvkad) | [BLAK](https://open.spotify.com/album/6eHjrAfJdgKNHijzOxG8db) | 3:49 |
 | 25 | [GEEKD](https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [GEEKD](https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd) | 2:11 |

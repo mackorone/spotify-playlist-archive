@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 148071,
       "name": "Disconnection",
       "url": "https://open.spotify.com/track/53NPmJBDF7X4wnYkahOEGH"
@@ -3783,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Mother it's getting cold outside",
+        "url": "https://open.spotify.com/album/2VMCGwiwI6gLrFuOFVAhrm"
+      },
+      "artists": [
+        {
+          "name": "Bluedoor",
+          "url": "https://open.spotify.com/artist/7vacmKKSFykTCS35rP0JkQ"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310153,
+      "name": "Mother it's getting cold outside",
+      "url": "https://open.spotify.com/track/28Bq4BkWuHg4QeUhH1he3p"
+    },
+    {
+      "album": {
         "name": "Wander/Wonder",
         "url": "https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV"
       },
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 144000,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 255000,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J"

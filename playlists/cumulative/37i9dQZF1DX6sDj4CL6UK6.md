@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Tejas
 
-353 songs - 20 hr 18 min
+355 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,10 +96,11 @@
 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 | 2023-08-29 | 2024-04-19 |
 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 | 2024-01-05 |  |
 | [Everybody Dances To Techno \(Bulli Bainbridge Remix\)](https://open.spotify.com/track/30EYAtDZzwHQQtTJDYXQPu) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Bulli Bainbridge](https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ) | [Everybody Dances To Techno \(Bulli Bainbridge Remix\)](https://open.spotify.com/album/7htat6llhvTRAQqauWv0bt) | 2:48 | 2024-06-21 | 2024-07-16 |
+| [Everybody's in Goa](https://open.spotify.com/track/3Iw3dyqXOXz27m3DMEts5n) | [The Vindaloos](https://open.spotify.com/artist/2OYp4yKuFAAX7Pua04C80j) | [Everybody's in Goa](https://open.spotify.com/album/7CrBGudFKTZcvxMMueWV9j) | 2:55 | 2025-10-17 |  |
 | [Everything](https://open.spotify.com/track/7H0JskFt7G1or98bxDiCYt) | [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf) | [Everything](https://open.spotify.com/album/0892HQRUyH88y7TQnbnGwU) | 3:03 | 2024-03-01 | 2024-05-11 |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2022-03-25 | 2022-05-26 |
 | [Everywhere](https://open.spotify.com/track/34OGRSpcQOAHsK4pSolDX1) | [Kura Kura Parafin](https://open.spotify.com/artist/3QMTSZ13mw6p679I6n9k9l) | [Everywhere](https://open.spotify.com/album/6wgOecsewd9a3opHmTr0er) | 4:16 | 2023-05-19 | 2023-05-24 |
-| [Excuses](https://open.spotify.com/track/296zmG27fZG8PwW7D5nFTC) | [Soha](https://open.spotify.com/artist/2957japSpMpQX5G9LPjcNN), [TRVR](https://open.spotify.com/artist/6yfMXDFlsExGxvnoIDwSd4) | [Excuses](https://open.spotify.com/album/5FnUbJZVzRkSe9T3ihqXp0) | 2:42 | 2025-10-10 |  |
+| [Excuses](https://open.spotify.com/track/296zmG27fZG8PwW7D5nFTC) | [Soha](https://open.spotify.com/artist/2957japSpMpQX5G9LPjcNN), [TRVR](https://open.spotify.com/artist/6yfMXDFlsExGxvnoIDwSd4) | [Excuses](https://open.spotify.com/album/5FnUbJZVzRkSe9T3ihqXp0) | 2:42 | 2025-10-10 | 2025-10-18 |
 | [Exotic](https://open.spotify.com/track/4SUYaVB5r2N4MzbpIbDN10) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Exotic](https://open.spotify.com/album/3Pftudxj48b9EUkaAvMLcs) | 3:45 | 2025-09-26 |  |
 | [EYE\(S\)](https://open.spotify.com/track/4Ah02v3e8R2rt8gQzdlCTH) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [EYE\(S\)](https://open.spotify.com/album/3aOtCz84mZL8Nn9xfg9W8B) | 3:59 | 2023-05-24 | 2024-06-22 |
 | [Faces of The Moon](https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Self Help Radio](https://open.spotify.com/album/7BcuPEUyxXNmRjRIlFX24v) | 4:48 | 2022-03-25 | 2022-05-25 |
@@ -112,6 +113,7 @@
 | [Figure 8](https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Outlast](https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW) | 4:31 | 2022-03-25 | 2023-02-25 |
 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 | 2022-03-25 | 2024-08-23 |
 | [Floated By](https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 4:16 | 2024-11-22 |  |
+| [Flying](https://open.spotify.com/track/25PEjBqc1LAsalXVeTrjbl) | [Nidhi Wagle](https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I) | [Flying](https://open.spotify.com/album/43RrK1GFoLwrOKQLBGuZj3) | 2:11 | 2025-10-17 |  |
 | [Fooling Myself](https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Emily Coupe](https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb) | [Fooling Myself](https://open.spotify.com/album/1vHKyM6FTrN1r74juua4kq) | 3:24 | 2022-11-09 | 2023-02-08 |
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2022-03-25 | 2024-08-23 |
 | [Fools Will Learn](https://open.spotify.com/track/5P9utVQ2Rb9XDZwoPEzvxi) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 4:28 | 2022-03-25 | 2022-05-04 |

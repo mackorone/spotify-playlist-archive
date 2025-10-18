@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Josua Peter
 
-1,157 songs - 2 day 10 hr 58 min
+1,158 songs - 2 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 | 2024-01-18 | 2024-03-19 |
 | [After The Opera](https://open.spotify.com/track/2yeTcMb9sYIYvZm7JZu770) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [After The Opera](https://open.spotify.com/album/0Fc51KziL9dQGphoiRYQaR) | 3:00 | 2025-01-23 | 2025-04-02 |
 | [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2024-01-18 | 2024-04-05 |
-| [Alibi](https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Alibi](https://open.spotify.com/album/5TBoKcvVVdO6hqiUQJyJTs) | 2:55 | 2025-08-28 |  |
+| [Alibi](https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Alibi](https://open.spotify.com/album/5TBoKcvVVdO6hqiUQJyJTs) | 2:55 | 2025-08-28 | 2025-10-18 |
 | [Alive](https://open.spotify.com/track/5CCS7S9pJxDrjYl1cmvZh7) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8) | [Alive](https://open.spotify.com/album/7ErfdKwwn9bXBfdesT1AoU) | 3:37 | 2024-12-03 | 2025-02-08 |
 | [All Is Ours](https://open.spotify.com/track/1rxLCrJvvAH1gzcgEF7Sa2) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [All Is Ours](https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT) | 3:41 | 2024-07-04 | 2024-09-20 |
 | [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 | 2025-09-25 |  |
@@ -391,6 +391,7 @@
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-08-07 | 2025-09-26 |
 | [Goldrush](https://open.spotify.com/track/1AC9rys1AG0BJ5PwnX3mXu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/5NLwkvch5mURFt3AJfvkQX) | 2:48 | 2025-01-23 | 2025-04-04 |
 | [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-02-24 | 2023-03-31 |
+| [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 | 2025-10-17 |  |
 | [Gone to Bed](https://open.spotify.com/track/4LQK4d8DCI8i16lFWk2kll) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/5Zmu0lS6RYtopzhAu9lQZW) | 2:56 | 2023-11-16 | 2023-11-21 |
 | [Gone to Bed](https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3) | 2:56 | 2023-09-29 | 2024-01-05 |
 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 | 2024-10-10 | 2024-12-13 |

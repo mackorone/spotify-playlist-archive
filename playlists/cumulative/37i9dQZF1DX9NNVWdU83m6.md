@@ -4,12 +4,12 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-173 songs - 15 hr 41 min
+174 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2020](https://open.spotify.com/track/5chtaHyGuNkcj83hzae0Qk) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [2020](https://open.spotify.com/album/7hSvY3Hq0E1ZO5zSgeuwlL) | 8:03 | 2023-04-21 |  |
-| [Actual Proof](https://open.spotify.com/track/5DmEiepcrLcjGA2z0qfQ2w) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Actual Proof](https://open.spotify.com/album/2Xyo0fX4walkyM0ITbzZCw) | 5:41 | 2023-06-30 |  |
+| [Actual Proof](https://open.spotify.com/track/5DmEiepcrLcjGA2z0qfQ2w) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw) | [Actual Proof](https://open.spotify.com/album/2Xyo0fX4walkyM0ITbzZCw) | 5:41 | 2023-06-30 | 2025-10-18 |
 | [African Shabtay](https://open.spotify.com/track/0KFqWGc2VNfpCbi6PuX218) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [African Shabtay](https://open.spotify.com/album/6Rj2gkyntZqABajRBksHMm) | 5:26 | 2021-10-08 |  |
 | [Akashic Xronicles](https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Akashic Xronicles](https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P) | 4:27 | 2021-10-01 |  |
 | [Amusement](https://open.spotify.com/track/5ddw4UiiqkdI8OoUOVhB6O) | [EIKO＋ERIKO](https://open.spotify.com/artist/6b7oAa2JOCrhHAxDCqb7sz) | [Amusement](https://open.spotify.com/album/7otfKoaJXSjnr8B2xdB2Wb) | 7:00 | 2021-08-13 | 2024-04-19 |
@@ -87,6 +87,7 @@
 | [Kid](https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t) | 7:21 | 2021-01-27 |  |
 | [Kid](https://open.spotify.com/track/2u4TriIit5b2lO5S96Tenf) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/5grWR2kxfIZorVA7y73KVR) | 7:21 | 2021-01-27 | 2024-04-19 |
 | [Kittiwakes In Gusts](https://open.spotify.com/track/1MhVC3xbue4U1YOZR7stow) | [Hedvig Mollestad](https://open.spotify.com/artist/7LO6x1uZjAWL1y1kqmadm8) | [Tempest Revisited](https://open.spotify.com/album/19G1RgWBIVSW453nq3wqRR) | 6:39 | 2021-11-19 |  |
+| [Liminality](https://open.spotify.com/track/27CHW9MJpEfscKmDpyibhG) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I) | [Liminality](https://open.spotify.com/album/5CMLwE0nCSsNFvTWlNxNvF) | 1:40 | 2025-10-17 |  |
 | [Lowell](https://open.spotify.com/track/308taPCrUlttzRJi7crHwy) | [Kneebody](https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg) | [The Line](https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU) | 4:40 | 2021-01-27 |  |
 | [Lymaks](https://open.spotify.com/track/4PDkuoOoxFGfYtzpMYIIdz) | [FORQ](https://open.spotify.com/artist/7vXBNF4wc830rnuWRBXsz1) | [Batch](https://open.spotify.com/album/5k3J9tx9DYoOi1r6fOEOJo) | 6:14 | 2021-01-27 |  |
 | [Maalouf Song](https://open.spotify.com/track/32oxZZIdV6uqKZuWaUe3wJ) | [Usein Bekirov](https://open.spotify.com/artist/5jBSBF7Zw8vcx5WeyWBB8Y), [Max Malyshev](https://open.spotify.com/artist/2RL3ExDPPOHcLBEoVxMhZw), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Maalouf Song](https://open.spotify.com/album/7B8E1CjppPodhper6gffx9) | 3:49 | 2021-08-13 |  |

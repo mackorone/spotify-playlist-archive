@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,474 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,480 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 9 | [1 Chance](https://open.spotify.com/track/76am7pyRidCWxsrD4XIRpE) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [ADOLESCENCE](https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH) | 3:22 |
 | 10 | [FORFEIT](https://open.spotify.com/track/540ikgaUcx6N1SNX5JfqId) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [FORFEIT](https://open.spotify.com/album/2BXeD1kVZRzkXn563w7vd5) | 2:50 |
 | 11 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 |
-| 12 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 |
-| 13 | [Oi](https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oi](https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup) | 3:36 |
+| 12 | [Oi](https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oi](https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup) | 3:36 |
+| 13 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 |
 | 14 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 |
 | 15 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 |
 | 16 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 20 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 |
 | 21 | [Speed Of Light](https://open.spotify.com/track/6Z1162p9kKYUAGbRWLN2eH) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:24 |
 | 22 | [Too Late Now \- Soulwax Remix](https://open.spotify.com/track/5NY8FqMU71tJbuz6qiZ69C) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Too Late Now \(Soulwax Remix\)](https://open.spotify.com/album/2kV9ScIQHMVQs1XLWQetEz) | 6:38 |
-| 23 | [Alive](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 |
-| 24 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
+| 23 | [Endit](https://open.spotify.com/track/2V7nKWQBZkrLtIXdYWY5hp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Endit](https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc) | 4:51 |
+| 24 | [Alive](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 |
 | 25 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 |
 | 26 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 |
 | 27 | [Oceans](https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/5momdt5jI4owNpsBqNhfwm) | 4:53 |

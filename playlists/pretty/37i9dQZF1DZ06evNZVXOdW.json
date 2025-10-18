@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9303,
+  "num_followers": 9305,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAAfDjfAOK8kU9NaL1Qm7kcl",
+  "snapshot_id": "aPA1gAAAAAB4CTpIF3VBwW/HVR9FOmdK",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 481220,
+      "name": "Island No. 1",
+      "url": "https://open.spotify.com/track/2m8vgajbox6jm2BbUYMqQf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 481220,
-      "name": "Island No. 1",
-      "url": "https://open.spotify.com/track/2m8vgajbox6jm2BbUYMqQf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 451383,
-      "name": "Saans Lo",
-      "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
+      "duration_ms": 467240,
+      "name": "Inayaat",
+      "url": "https://open.spotify.com/track/0SvzXilENkZzu9O1NPGs2K"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 467240,
-      "name": "Inayaat",
-      "url": "https://open.spotify.com/track/0SvzXilENkZzu9O1NPGs2K"
+      "duration_ms": 451383,
+      "name": "Saans Lo",
+      "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
     },
     {
       "added_at": null,
@@ -507,18 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+        "name": "KARPEH",
+        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
       "artists": [
         {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Kai Eckhardt",
+          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 477881,
-      "name": "Island No. 2",
-      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
+      "duration_ms": 197474,
+      "name": "Glass Face",
+      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
     },
     {
       "added_at": null,
@@ -587,46 +595,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "KARPEH",
-        "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Kai Eckhardt",
-          "url": "https://open.spotify.com/artist/3JgcK7OoWQulW1MzuoGnAI"
         }
       ],
-      "duration_ms": 197474,
-      "name": "Glass Face",
-      "url": "https://open.spotify.com/track/1jipF7y9D9tXnpK08W73ZK"
+      "duration_ms": 477881,
+      "name": "Island No. 2",
+      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SPELLJAMS",
-        "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
       },
       "artists": [
-        {
-          "name": "Deru",
-          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
-        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 469421,
-      "name": "Forgotten Land",
-      "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talvar",
-        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
       },
       "artists": [
+        {
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
+        },
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 200189,
-      "name": "Insaaf",
-      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 166285,
-      "name": "There Go the Clouds",
-      "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
+      "duration_ms": 314564,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/1eaJpZ4sPAzolKZ0ea8Kmc"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 314564,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/1eaJpZ4sPAzolKZ0ea8Kmc"
+      "duration_ms": 168565,
+      "name": "Coming Home, Pt. 2",
+      "url": "https://open.spotify.com/track/54c3SDfAFIhf5zYlFLH5iC"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31919,
+  "num_followers": 31917,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAtfUV+kUbX6p84yNvoTttY0JUM/u8/",
+  "snapshot_id": "AAAtkE5QIbX0BVFDzkP79MATdvrFn1j2",
   "tracks": [
     {
       "added_at": "2025-10-16 22:00:01",
@@ -77,26 +77,6 @@
       "url": "https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e"
     },
     {
-      "added_at": "2025-10-10 10:35:25",
-      "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1buI0ChXbJSjJIYrr8Rkpd"
-      },
-      "artists": [
-        {
-          "name": "MITCH DB",
-          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
-        },
-        {
-          "name": "Emilio",
-          "url": "https://open.spotify.com/artist/5ejQjLfm6RcKIVWYxxupYj"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/3XlNN5O7l4eF3zit6WD15t"
-    },
-    {
       "added_at": "2025-10-10 08:20:01",
       "album": {
         "name": "RVN (Raven)",
@@ -133,6 +113,22 @@
       "url": "https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD"
     },
     {
+      "added_at": "2025-10-16 22:20:02",
+      "album": {
+        "name": "Vaki",
+        "url": "https://open.spotify.com/album/6LbFnBy3U4WTzn0iZEwM6B"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Vaki",
+      "url": "https://open.spotify.com/track/3L66WwSdmOh3ZIAD1o4Rp8"
+    },
+    {
       "added_at": "2025-10-03 07:43:16",
       "album": {
         "name": "I Wanna Dance",
@@ -151,22 +147,6 @@
       "duration_ms": 145500,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH"
-    },
-    {
-      "added_at": "2025-10-16 22:20:02",
-      "album": {
-        "name": "Vaki",
-        "url": "https://open.spotify.com/album/6LbFnBy3U4WTzn0iZEwM6B"
-      },
-      "artists": [
-        {
-          "name": "Ummet Ozcan",
-          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Vaki",
-      "url": "https://open.spotify.com/track/3L66WwSdmOh3ZIAD1o4Rp8"
     },
     {
       "added_at": "2025-10-03 07:43:20",
@@ -241,6 +221,46 @@
       "url": "https://open.spotify.com/track/2Gna1s0f2aYuCZDSw44QYD"
     },
     {
+      "added_at": "2025-10-17 12:36:01",
+      "album": {
+        "name": "All My Life (In My Heart)",
+        "url": "https://open.spotify.com/album/0SPI6nCY4MwAvYGTSvllLC"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "All My Life (In My Heart)",
+      "url": "https://open.spotify.com/track/26872hLCXhdaxhyNVmvavZ"
+    },
+    {
+      "added_at": "2025-10-10 10:35:25",
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1buI0ChXbJSjJIYrr8Rkpd"
+      },
+      "artists": [
+        {
+          "name": "MITCH DB",
+          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
+        },
+        {
+          "name": "Emilio",
+          "url": "https://open.spotify.com/artist/5ejQjLfm6RcKIVWYxxupYj"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3XlNN5O7l4eF3zit6WD15t"
+    },
+    {
       "added_at": "2025-09-25 22:20:11",
       "album": {
         "name": "Royals",
@@ -263,6 +283,22 @@
       "duration_ms": 138959,
       "name": "Royals",
       "url": "https://open.spotify.com/track/1cHRkDg6mRNfWsN0w3um3J"
+    },
+    {
+      "added_at": "2025-10-17 10:04:25",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/48htV6EpVkwNAvx4blqWYw"
+      },
+      "artists": [
+        {
+          "name": "LOSTMYFAITH",
+          "url": "https://open.spotify.com/artist/3Oc4c2fspLTNhn75FLNyDd"
+        }
+      ],
+      "duration_ms": 125196,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4zWds3SOIqfWTsiw2Ibdsu"
     },
     {
       "added_at": "2025-10-10 09:56:31",
@@ -289,6 +325,26 @@
       "url": "https://open.spotify.com/track/4eIimnSW4vhd4Mljoqbaqx"
     },
     {
+      "added_at": "2025-10-17 09:48:52",
+      "album": {
+        "name": "Sweet & Sour (feat. Immy Odon)",
+        "url": "https://open.spotify.com/album/4Jw98iOTkbcxCROvntIfit"
+      },
+      "artists": [
+        {
+          "name": "Jack Kelly",
+          "url": "https://open.spotify.com/artist/1qXQAJC0HsasWQhGI8P1QC"
+        },
+        {
+          "name": "Immy Odon",
+          "url": "https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Sweet & Sour (feat. Immy Odon)",
+      "url": "https://open.spotify.com/track/06keE7rVYZ4hYkhJIvFRCW"
+    },
+    {
       "added_at": "2025-09-18 22:20:05",
       "album": {
         "name": "I Got Love (feat. Nate Dogg)",
@@ -311,6 +367,158 @@
       "duration_ms": 132272,
       "name": "I Got Love (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/573wEbtTrCoyZFm3HaZg1d"
+    },
+    {
+      "added_at": "2025-10-17 09:39:36",
+      "album": {
+        "name": "The Connection",
+        "url": "https://open.spotify.com/album/1WU8j8f9qIQwhc6IM1ZQI8"
+      },
+      "artists": [
+        {
+          "name": "Matt Stone",
+          "url": "https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR"
+        }
+      ],
+      "duration_ms": 194763,
+      "name": "The Connection",
+      "url": "https://open.spotify.com/track/5Wariiifxkc1QBGZ0xjRDB"
+    },
+    {
+      "added_at": "2025-10-17 12:42:33",
+      "album": {
+        "name": "Be Your Lover",
+        "url": "https://open.spotify.com/album/0oouW1q5VrbIYM2g13YXIi"
+      },
+      "artists": [
+        {
+          "name": "Dylan McPhee",
+          "url": "https://open.spotify.com/artist/77WfrPCOqZUiCGP0jqBywr"
+        },
+        {
+          "name": "Serena Sophia",
+          "url": "https://open.spotify.com/artist/10oHPjWHFPhA9k0gfvEJ8s"
+        }
+      ],
+      "duration_ms": 150909,
+      "name": "Be Your Lover",
+      "url": "https://open.spotify.com/track/5Kp9ZYCj6iAhSREnVxSiBF"
+    },
+    {
+      "added_at": "2025-10-17 12:19:02",
+      "album": {
+        "name": "Pleasure Is Pain",
+        "url": "https://open.spotify.com/album/0Uwzfa2L2HwcsBAZPYr7Ha"
+      },
+      "artists": [
+        {
+          "name": "Setou & Senyo",
+          "url": "https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv"
+        },
+        {
+          "name": "Phoenixx",
+          "url": "https://open.spotify.com/artist/0FfJ1J9EM0kffMPWo4Oqyc"
+        },
+        {
+          "name": "DobleU",
+          "url": "https://open.spotify.com/artist/5B9il2mnNlomfWVNlat4VK"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Pleasure Is Pain",
+      "url": "https://open.spotify.com/track/3CZsFv5ov0o551CxeoViQX"
+    },
+    {
+      "added_at": "2025-10-17 10:38:48",
+      "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/7kXtnhXE2mhq1qh0jhvmaW"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Roncone",
+          "url": "https://open.spotify.com/artist/7tGyfFJ7b1VYAeQISUoz6p"
+        },
+        {
+          "name": "Andrea Scopsi",
+          "url": "https://open.spotify.com/artist/4BCcz7zVJc2TM1rrZ2x5fW"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/0rGu4iCO5bmKlMBncxOv7c"
+    },
+    {
+      "added_at": "2025-10-17 10:20:54",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2orvCcxVpRyeCnew39BHKk"
+      },
+      "artists": [
+        {
+          "name": "iamsaari",
+          "url": "https://open.spotify.com/artist/319gIJF96XEV6ZGer32VoR"
+        },
+        {
+          "name": "CEASAR AUGUSTUS",
+          "url": "https://open.spotify.com/artist/5x5j5TOCucC46FQEiDsNHe"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1T62tNsIIbcro17cBP2YaZ"
+    },
+    {
+      "added_at": "2025-10-17 10:20:13",
+      "album": {
+        "name": "Picking Up The Pieces",
+        "url": "https://open.spotify.com/album/0FBuBKTxFHQyjE6jM2TEdd"
+      },
+      "artists": [
+        {
+          "name": "AMARE",
+          "url": "https://open.spotify.com/artist/5SC4WWl6u36FNroN3F0ixI"
+        }
+      ],
+      "duration_ms": 272920,
+      "name": "Picking Up The Pieces",
+      "url": "https://open.spotify.com/track/3v5lP8RGTBniX8WjqmCXvI"
+    },
+    {
+      "added_at": "2025-10-17 12:35:16",
+      "album": {
+        "name": "One & Done",
+        "url": "https://open.spotify.com/album/4hyodRzXa3EUCvaIUtXMT5"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        },
+        {
+          "name": "Jayelle",
+          "url": "https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV"
+        }
+      ],
+      "duration_ms": 173062,
+      "name": "One & Done",
+      "url": "https://open.spotify.com/track/0JIsLfm6Dr3xleH5IcVsjv"
+    },
+    {
+      "added_at": "2025-10-17 09:48:50",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/5Nr2gRgXQBC0KDorT4s7In"
+      },
+      "artists": [
+        {
+          "name": "ELSAN",
+          "url": "https://open.spotify.com/artist/34RMiyDVpfbchygnvmJjs7"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/6LV6eEwUv4Ol0mAt32babe"
     },
     {
       "added_at": "2025-10-13 11:52:38",
@@ -349,6 +557,30 @@
       "url": "https://open.spotify.com/track/6L45eFIDmCPPvqZmWbubuz"
     },
     {
+      "added_at": "2025-10-17 09:39:40",
+      "album": {
+        "name": "Save Me (feat. SARRIA)",
+        "url": "https://open.spotify.com/album/5o2qmQZIPzT9fyeOoQtBnA"
+      },
+      "artists": [
+        {
+          "name": "Soldera",
+          "url": "https://open.spotify.com/artist/3jkWhyxck0vHfZV83khRLc"
+        },
+        {
+          "name": "Kawz",
+          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
+        },
+        {
+          "name": "SARRIA",
+          "url": "https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY"
+        }
+      ],
+      "duration_ms": 227336,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/1UrHONtvQo7BxbTFBumYDB"
+    },
+    {
       "added_at": "2025-10-10 09:56:38",
       "album": {
         "name": "Bakari",
@@ -369,6 +601,42 @@
       "url": "https://open.spotify.com/track/0IfjVX1faMxSC6U6G5kqPD"
     },
     {
+      "added_at": "2025-10-17 12:20:36",
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/5bbrnX5ri4l3b6mtNFYCQ1"
+      },
+      "artists": [
+        {
+          "name": "Levxx",
+          "url": "https://open.spotify.com/artist/7ySViX5hcAksCe8DSzb0Ko"
+        }
+      ],
+      "duration_ms": 146164,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/6cXtF9w5e2nXH4sYVfQVl0"
+    },
+    {
+      "added_at": "2025-10-17 09:18:21",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/6gC3XxtyyX6uVlvPpXzQUl"
+      },
+      "artists": [
+        {
+          "name": "John Lynx",
+          "url": "https://open.spotify.com/artist/2Mu49j6c730i5lCYO7YU6l"
+        },
+        {
+          "name": "ARi",
+          "url": "https://open.spotify.com/artist/2SsbWf10OcsMDQY5mNa1OH"
+        }
+      ],
+      "duration_ms": 255715,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/7ul74irXu2U7APEkXaDwdI"
+    },
+    {
       "added_at": "2025-09-18 22:20:06",
       "album": {
         "name": "Koko",
@@ -383,6 +651,38 @@
       "duration_ms": 167272,
       "name": "Koko",
       "url": "https://open.spotify.com/track/39tgmvIqDuQYlpvGEIyRMf"
+    },
+    {
+      "added_at": "2025-10-17 10:03:25",
+      "album": {
+        "name": "Watching Me",
+        "url": "https://open.spotify.com/album/2v0EkFZDX4hL6ktz7dUcz9"
+      },
+      "artists": [
+        {
+          "name": "TOYMATZ",
+          "url": "https://open.spotify.com/artist/216OwmJ0HOAbSheYWxp8jw"
+        }
+      ],
+      "duration_ms": 198895,
+      "name": "Watching Me - Original Mix",
+      "url": "https://open.spotify.com/track/40BE8Fz9H22bsRepq9b0JX"
+    },
+    {
+      "added_at": "2025-10-17 09:30:10",
+      "album": {
+        "name": "In Search Of Myself",
+        "url": "https://open.spotify.com/album/1hTjAe1diLQ9DEysJGwvwZ"
+      },
+      "artists": [
+        {
+          "name": "Idle Days",
+          "url": "https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "In Search Of Myself",
+      "url": "https://open.spotify.com/track/2ehR8CNGqx4FIgMAxTU7Sp"
     },
     {
       "added_at": "2025-10-10 10:00:02",

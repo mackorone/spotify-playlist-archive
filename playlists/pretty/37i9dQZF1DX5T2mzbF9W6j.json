@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 111947,
+  "num_followers": 111938,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
+        "name": "lekko",
+        "url": "https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Z\u0141Y",
+      "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
         "name": "Oj, dziewczyno!",
         "url": "https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 158268,
       "name": "Oj, dziewczyno!",
       "url": "https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
-        "name": "lekko",
-        "url": "https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Z\u0141Y",
-      "url": "https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6"
     },
     {
       "added_at": "2025-10-10 11:26:37",
@@ -795,6 +795,30 @@
     {
       "added_at": "2025-10-10 11:26:37",
       "album": {
+        "name": "TOKSYNA",
+        "url": "https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF"
+      },
+      "artists": [
+        {
+          "name": "Aron x Krux",
+          "url": "https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Bajorson",
+          "url": "https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS"
+        }
+      ],
+      "duration_ms": 216398,
+      "name": "TOKSYNA",
+      "url": "https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ"
+    },
+    {
+      "added_at": "2025-10-10 11:26:37",
+      "album": {
         "name": "JESZCZE RAZ",
         "url": "https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb"
       },
@@ -827,30 +851,6 @@
       "duration_ms": 170947,
       "name": "Bruce",
       "url": "https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns"
-    },
-    {
-      "added_at": "2025-10-10 11:26:37",
-      "album": {
-        "name": "TOKSYNA",
-        "url": "https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF"
-      },
-      "artists": [
-        {
-          "name": "Aron x Krux",
-          "url": "https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Bajorson",
-          "url": "https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS"
-        }
-      ],
-      "duration_ms": 216398,
-      "name": "TOKSYNA",
-      "url": "https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ"
     },
     {
       "added_at": "2025-10-10 11:26:37",

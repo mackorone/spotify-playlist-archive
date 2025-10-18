@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Trip 2",
+        "url": "https://open.spotify.com/album/7DkEdrof8yEWH1ofkLHWDT"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Ac\u00e9rcate",
+      "url": "https://open.spotify.com/track/7hN9lElFaZTeulSJq9YBCN"
+    },
+    {
+      "album": {
         "name": "Adem\u00e1s de M\u00ed (Remix)",
         "url": "https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78"
       },
@@ -4242,7 +4260,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 185241,
       "name": "FLECHAZO EN EL CENTRO",
       "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 183225,
       "name": "Guerrero (feat. Pablo Chill-E)",
       "url": "https://open.spotify.com/track/329k06ANzxl3JH7e4t6kkF"
@@ -6410,7 +6428,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 201000,
       "name": "LuXxX",
       "url": "https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ"
@@ -7508,6 +7526,24 @@
       "duration_ms": 174001,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/6BOEQZNhaa8mMCz66gK3pk"
+    },
+    {
+      "album": {
+        "name": "NO ES PA MI",
+        "url": "https://open.spotify.com/album/7dy6tgYz3uz645zsCOPsMv"
+      },
+      "artists": [
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "NO ES PA MI",
+      "url": "https://open.spotify.com/track/5HDSspcJFutk8bNClvW5H3"
     },
     {
       "album": {

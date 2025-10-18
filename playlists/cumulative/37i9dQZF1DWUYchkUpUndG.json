@@ -18049,8 +18049,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "SEVEN",
+        "url": "https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62"
       },
       "artists": [
         {
@@ -68379,6 +68379,24 @@
     },
     {
       "album": {
+        "name": "Altars and Crowns",
+        "url": "https://open.spotify.com/album/1XwogwzYKWBnTN3VkZsG9b"
+      },
+      "artists": [
+        {
+          "name": "Evans Ighodalo",
+          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293834,
+      "name": "Love Like You",
+      "url": "https://open.spotify.com/track/7Fz8EM5cDYyf9Jh5Entfq2"
+    },
+    {
+      "album": {
         "name": "Love Like You",
         "url": "https://open.spotify.com/album/7d1MX2xd84TTPT6eE08ln3"
       },
@@ -88825,8 +88843,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "diary entry 1",
+        "url": "https://open.spotify.com/album/6fX5APrymapa9uIsC1yy0s"
       },
       "artists": [
         {
@@ -116311,42 +116329,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Evans Ighodalo",
-          "url": "https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av"
-        }
-      ],
-      "date_added": "2025-10-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7Fz8EM5cDYyf9Jh5Entfq2"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Dr Sarah K",
-          "url": "https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm"
-        }
-      ],
-      "date_added": "2025-10-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2Qh3jCi6LEbtdLumxtu2wI"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -130688,6 +130670,28 @@
       "duration_ms": 233750,
       "name": "You Reign",
       "url": "https://open.spotify.com/track/5D2AX87rS1kpF7XQMp41YA"
+    },
+    {
+      "album": {
+        "name": "Worship Moments",
+        "url": "https://open.spotify.com/album/1k9yWPDEaMFMgfvEN0k9UA"
+      },
+      "artists": [
+        {
+          "name": "Dr Sarah K",
+          "url": "https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm"
+        },
+        {
+          "name": "Shachah Team",
+          "url": "https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467347,
+      "name": "You Reign Kadosh",
+      "url": "https://open.spotify.com/track/2Qh3jCi6LEbtdLumxtu2wI"
     },
     {
       "album": {

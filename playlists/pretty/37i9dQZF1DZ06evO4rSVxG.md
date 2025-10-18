@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,284 likes - 39 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,292 likes - 39 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 6 | [It Never Rains \(In Southern California\)](https://open.spotify.com/track/0r4wz91MaRPgI3UtEuU7DF) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 5:04 |
 | 7 | [Me And You](https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 4:10 |
 | 8 | [Lovin' You](https://open.spotify.com/track/7M4CRFWgCuqYOuh5Kz1hm5) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:53 |
-| 9 | [If I Had No Loot](https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:01 |
+| 9 | [Slow Wine](https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:49 |
 | 10 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 |
 | 11 | [Boys And Girls](https://open.spotify.com/track/3o0pgyIsnuHztpAcBWg9eQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Hits](https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g) | 4:38 |
 | 12 | [Thinking Of You](https://open.spotify.com/track/2kp0HkwA1v8WcmCwYqm7DO) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 3:58 |
-| 13 | [Slow Wine](https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:49 |
+| 13 | [If I Had No Loot](https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:01 |
 | 14 | [The Blues](https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:13 |
 | 15 | [Little Walter](https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:53 |
 | 16 | [Still A Man](https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 7:18 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 38 | [It Feels Good](https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Swing](https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce) | 3:08 |
 | 39 | [Pain](https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:46 |
 
-Snapshot ID: `aO7kAAAAAACBrb/Sko/ZsBz9XWm5BfqQ`
+Snapshot ID: `aPA1gAAAAABcwX2anpCJXxCKcZ5327Wf`

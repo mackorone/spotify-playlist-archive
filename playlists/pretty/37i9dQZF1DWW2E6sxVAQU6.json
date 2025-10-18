@@ -1,6 +1,6 @@
 {
   "description": "Italia amore mio \ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9 \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
-  "num_followers": 13046,
+  "num_followers": 13044,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAADAvXiz+wWnnqDJPId6vtLitQt+E",
   "tracks": [
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
-        "name": "Il Ragazzo Della Via Gluck (2012 Remaster)",
-        "url": "https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Il Ragazzo Della Via Gluck",
-      "url": "https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8"
-    },
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 192654,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "Il Ragazzo Della Via Gluck (2012 Remaster)",
+        "url": "https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Il Ragazzo Della Via Gluck",
+      "url": "https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "The Rokes",
-        "url": "https://open.spotify.com/album/3mm9uSe1qxj3rndKZKA61E"
-      },
-      "artists": [
-        {
-          "name": "The Rokes",
-          "url": "https://open.spotify.com/artist/784vfbIFL4SU0u1J0Pn0Rb"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "Le Opere Di Bartolomeo",
-      "url": "https://open.spotify.com/track/2Kv2f0zunEJkre9EQAJa1I"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "Ciro Sebastianelli",
         "url": "https://open.spotify.com/album/3Fwu7sLQ1Oqei8qHjmvtwq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 202426,
       "name": "Ciao Barbarella",
       "url": "https://open.spotify.com/track/2u8X8HaobutZdw7jtRcJT3"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "The Rokes",
+        "url": "https://open.spotify.com/album/3mm9uSe1qxj3rndKZKA61E"
+      },
+      "artists": [
+        {
+          "name": "The Rokes",
+          "url": "https://open.spotify.com/artist/784vfbIFL4SU0u1J0Pn0Rb"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "Le Opere Di Bartolomeo",
+      "url": "https://open.spotify.com/track/2Kv2f0zunEJkre9EQAJa1I"
     },
     {
       "added_at": "2025-02-11 05:01:43",

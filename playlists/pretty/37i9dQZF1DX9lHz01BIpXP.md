@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,979 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,981 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 19 | [21](https://open.spotify.com/track/5fzZbTbuIHKMKs0oYZmmIQ) | [Profit CPT](https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq), [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [21](https://open.spotify.com/album/6GpUXf9o6gHt2pGekeSe7q) | 3:07 |
 | 20 | [Bel My](https://open.spotify.com/track/2n8DJ5j3uQtDKUOibCaXSZ) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Three 4 Her](https://open.spotify.com/album/77IDmb9bBucFZ0WPwSyKk5) | 2:43 |
 | 21 | [Spanga](https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [Spanga](https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk) | 3:00 |
-| 22 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 |
+| 22 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
 | 23 | [Oulik](https://open.spotify.com/track/3RjxY4Dftktvxxb5zNscH6) | [Chessiwessi](https://open.spotify.com/artist/6llfxl71GpFMJ7SLQibAcT), [Op Die Plaas](https://open.spotify.com/artist/7BRNJ64qLpEYgLnczJ0Hhu) | [Oulik](https://open.spotify.com/album/2MupJ2ovfYslIkJ13yKEdk) | 2:05 |
-| 24 | [Die Lewe is 'n Lied](https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Lewe is 'n Lied](https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL) | 3:59 |
+| 24 | [Dala](https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Dala](https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ) | 2:14 |
 | 25 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
 | 26 | [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 |
 | 27 | [Koue Flow](https://open.spotify.com/track/7LEn9gNB3vvohujENpOtL9) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Master Raw](https://open.spotify.com/artist/12dQuJzCsLugjFsAzkKqIT), [Ashey\_SA](https://open.spotify.com/artist/5T1W4BsHUhPFsJ2FSCNuXe), [Terwie](https://open.spotify.com/artist/1j46XrGhYerbT7pneGSsfr) | [Koue Flow](https://open.spotify.com/album/1xbJ3QlJU44IbXWbFPeDmB) | 3:33 |

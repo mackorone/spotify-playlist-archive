@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 259109,
+  "num_followers": 259192,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "En Concierto",
         "url": "https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 351813,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 328760,
-      "name": "Si Me Ves Llorar",
-      "url": "https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW"
       },
       "artists": [
         {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
+      "duration_ms": 328760,
+      "name": "Si Me Ves Llorar",
+      "url": "https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3"
     },
     {
       "added_at": "2024-07-11 00:51:42",

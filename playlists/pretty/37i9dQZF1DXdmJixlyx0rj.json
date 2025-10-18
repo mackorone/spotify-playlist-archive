@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: KINO)",
-  "num_followers": 31418,
+  "num_followers": 31433,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
-      },
-      "artists": [
-        {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
-        }
-      ],
-      "duration_ms": 178230,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
-    },
-    {
-      "added_at": "2025-10-14 09:41:59",
-      "album": {
         "name": "My Universe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/4LcW19D6W1nHpvcJV5s2QI"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 199135,
       "name": "My Universe - David Guetta Remix",
       "url": "https://open.spotify.com/track/5FvxRvrQ8qzKjBJ6ST9aiu"
+    },
+    {
+      "added_at": "2025-10-14 09:41:59",
+      "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 178230,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "MOOSA",
-        "url": "https://open.spotify.com/album/0tCsTjDv2UMbgFAEdMwAdU"
-      },
-      "artists": [
-        {
-          "name": "HUS",
-          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
-        },
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "MOOSA (feat. PENOMECO)",
-      "url": "https://open.spotify.com/track/0hkOgOg5OtQlGkvQts4z3Z"
-    },
-    {
-      "added_at": "2025-10-14 09:41:59",
-      "album": {
         "name": "MOLLAK",
         "url": "https://open.spotify.com/album/6BaXK4Dmqq7gXoOpKVl1zX"
       },
@@ -1091,18 +1071,22 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
+        "name": "MOOSA",
+        "url": "https://open.spotify.com/album/0tCsTjDv2UMbgFAEdMwAdU"
       },
       "artists": [
         {
-          "name": "Aseul",
-          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 239931,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
+      "duration_ms": 154000,
+      "name": "MOOSA (feat. PENOMECO)",
+      "url": "https://open.spotify.com/track/0hkOgOg5OtQlGkvQts4z3Z"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1127,6 +1111,22 @@
       "duration_ms": 142285,
       "name": "Photon",
       "url": "https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN"
+    },
+    {
+      "added_at": "2025-10-14 09:41:59",
+      "album": {
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
+      },
+      "artists": [
+        {
+          "name": "Aseul",
+          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
+        }
+      ],
+      "duration_ms": 239931,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
-      },
-      "artists": [
-        {
-          "name": "iiso",
-          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
-        }
-      ],
-      "duration_ms": 144262,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
-    },
-    {
-      "added_at": "2025-10-14 09:41:59",
-      "album": {
         "name": "Back for More (More Edition)",
         "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 139419,
       "name": "Back for More (with Anitta) (House Remix)",
       "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
+    },
+    {
+      "added_at": "2025-10-14 09:41:59",
+      "album": {
+        "name": "Ash",
+        "url": "https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu"
+      },
+      "artists": [
+        {
+          "name": "iiso",
+          "url": "https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v"
+        }
+      ],
+      "duration_ms": 144262,
+      "name": "Ash",
+      "url": "https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "iScreaM Vol.14 : Peaches Remixes",
-        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Peaches - SUMIN Remix",
-      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
-    },
-    {
-      "added_at": "2025-10-14 09:41:59",
-      "album": {
         "name": "STARDUST",
         "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
       },
@@ -1403,18 +1383,22 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "Selected Reworks",
-        "url": "https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO"
+        "name": "iScreaM Vol.14 : Peaches Remixes",
+        "url": "https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI"
       },
       "artists": [
         {
-          "name": "Glen Check",
-          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
         }
       ],
-      "duration_ms": 259049,
-      "name": "Vogue Boys And Girls",
-      "url": "https://open.spotify.com/track/6UENRUaDq4Nl7kylkftcsP"
+      "duration_ms": 199453,
+      "name": "Peaches - SUMIN Remix",
+      "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1435,6 +1419,22 @@
       "duration_ms": 208375,
       "name": "like JENNIE (Peggy Gou Remix)",
       "url": "https://open.spotify.com/track/3Tt5ueVmqidjOOQvdEJ9Fy"
+    },
+    {
+      "added_at": "2025-10-14 09:41:59",
+      "album": {
+        "name": "Selected Reworks",
+        "url": "https://open.spotify.com/album/4nHzgkr2avqn7YrZbNlkTO"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "duration_ms": 259049,
+      "name": "Vogue Boys And Girls",
+      "url": "https://open.spotify.com/track/6UENRUaDq4Nl7kylkftcsP"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
+    },
+    {
+      "added_at": "2025-10-14 09:41:59",
+      "album": {
         "name": "iScreaM Vol.11 : Queendom Remix",
         "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 194754,
       "name": "Queendom - Demicat Remix",
       "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
-    },
-    {
-      "added_at": "2025-10-14 09:41:59",
-      "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+        "name": "Pirate (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
       },
       "artists": [
         {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
         },
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+      "duration_ms": 312000,
+      "name": "Pirate (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "Pirate (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
       },
       "artists": [
         {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Pirate (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2025-10-14 09:41:59",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2025-10-14 09:41:59",
       "album": {
-        "name": "FESTIVALAND",
-        "url": "https://open.spotify.com/album/7BvJKDBODvjWbXDrdXGAoC"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        },
-        {
-          "name": "Chan Lee",
-          "url": "https://open.spotify.com/artist/2q5FnisSwxF4yCRYmPc3oP"
-        }
-      ],
-      "duration_ms": 192758,
-      "name": "BAAM (Chan Lee Remix) - EDM Version",
-      "url": "https://open.spotify.com/track/7lpGvD6texvEU0M0rjksRm"
-    },
-    {
-      "added_at": "2025-10-14 09:41:59",
-      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/5uCnzjU8tNml4kqucjJk59"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 146500,
       "name": "Rule The World",
       "url": "https://open.spotify.com/track/4jxnUzqf0ZhUtPwOEbOid5"
+    },
+    {
+      "added_at": "2025-10-14 09:41:59",
+      "album": {
+        "name": "FESTIVALAND",
+        "url": "https://open.spotify.com/album/7BvJKDBODvjWbXDrdXGAoC"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        },
+        {
+          "name": "Chan Lee",
+          "url": "https://open.spotify.com/artist/2q5FnisSwxF4yCRYmPc3oP"
+        }
+      ],
+      "duration_ms": 192758,
+      "name": "BAAM (Chan Lee Remix) - EDM Version",
+      "url": "https://open.spotify.com/track/7lpGvD6texvEU0M0rjksRm"
     },
     {
       "added_at": "2025-10-14 09:41:59",

@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🏆 with Hex Cougar
 
-807 songs - 1 day 18 hr 29 min
+808 songs - 1 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [In The Sky](https://open.spotify.com/track/3Z0aVXkpXQhpYosTStTu4t) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [In The Sky](https://open.spotify.com/album/0JHdqE1akiFDDTcWM7oJAw) | 3:53 | 2024-03-01 | 2024-08-20 |
 | [In Your Head](https://open.spotify.com/track/1NhilkWAvuOHN3c0m88N98) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 3:09 | 2021-11-19 | 2022-02-02 |
 | [In Your Head \(RL Grime Edit\)](https://open.spotify.com/track/5hww0jIcfYKPgAdlrKKNmK) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [In Your Head \(RL Grime Edit\)](https://open.spotify.com/album/6Cmrc941HaJb2s20Wuc472) | 2:58 | 2025-07-04 | 2025-07-12 |
-| [Industry Corporate Freak](https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5) | [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [Industry Corporate Freak](https://open.spotify.com/album/30Nk32LOHIeOd9TGxbaW3c) | 4:38 | 2025-03-14 |  |
+| [Industry Corporate Freak](https://open.spotify.com/track/33aigucvBFkOAa2yRHy7g5) | [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL) | [Industry Corporate Freak](https://open.spotify.com/album/30Nk32LOHIeOd9TGxbaW3c) | 4:38 | 2025-03-14 | 2025-10-18 |
 | [INSD](https://open.spotify.com/track/4BFONPyknhWomROCBDZTUp) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [Blush](https://open.spotify.com/artist/13PiNC8qn2wXQLxYSm2E3X) | [INSD](https://open.spotify.com/album/0faui9BG5fl1tgabXYGNwp) | 2:22 | 2023-11-17 | 2023-12-02 |
 | [Insomniac](https://open.spotify.com/track/74leCkl7rVK7GcycRrc9wq) | [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Atarii](https://open.spotify.com/artist/1qqf6zmMJwD0v7gKAvbZMJ) | [Insomniac](https://open.spotify.com/album/6hMnN2Q7GA0HXLnB7Lpa0l) | 2:32 | 2021-11-19 | 2022-01-27 |
 | [Interstellar](https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Say Less](https://open.spotify.com/album/0zjiaN2MHgT0OVHE1DRRFK) | 2:53 | 2023-05-05 | 2023-05-27 |
@@ -423,7 +423,7 @@
 | [Lone Wolf](https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Lone Wolf](https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY) | 4:16 | 2022-02-01 | 2024-08-10 |
 | [LONESUM](https://open.spotify.com/track/1fBXuxv3zwdJHiFPolGZYe) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [LONESUM](https://open.spotify.com/album/2WH0ugu7j4bRskcIM6vpgM) | 4:01 | 2024-05-31 | 2024-10-26 |
 | [LONGMONT](https://open.spotify.com/track/4t3DsZAMkCzAlqMFe3Njp8) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [Sable Valley Summer Vol\. 5](https://open.spotify.com/album/53zKVDbtCOB6rJ7D6uSkAb) | 2:51 | 2024-09-13 | 2024-11-09 |
-| [LOOK \(feat\. Emi Grace\)](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK \(feat\. Emi Grace\)](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 | 2025-10-03 |  |
+| [LOOK](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 | 2025-10-03 |  |
 | [Look At Me Now](https://open.spotify.com/track/4idpHCqm9i706e3TroUWuJ) | [Djemba Djemba](https://open.spotify.com/artist/4nBB1w8Yl5brdn4CGxqfMs), [London Future](https://open.spotify.com/artist/62eXubdnqpsK7IFweKENa6), [Ifa Sayo](https://open.spotify.com/artist/0CAgTTPd5GyPhiXGEfwyUy) | [Look At Me Now](https://open.spotify.com/album/6ZbFjXxxwc1z1X81MNeVy5) | 4:04 | 2025-07-04 | 2025-07-12 |
 | [Look Back](https://open.spotify.com/track/6uU3is35QYYPXgK2NylZ3E) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Look Back](https://open.spotify.com/album/1T6Rrzc39d1MpdSP0lB9pt) | 3:18 | 2021-11-19 | 2022-01-23 |
 | [Lose Control](https://open.spotify.com/track/4bX0iHZb1iXHrCXxND05ui) | [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8) | [Lose Control](https://open.spotify.com/album/0vl2m86j28kwMYs5sWZkxs) | 2:45 | 2025-09-19 |  |
@@ -679,6 +679,7 @@
 | [SUPAFREAK](https://open.spotify.com/track/39KnHWRAxhXRRU6kltA9qz) | [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [SUPAFREAK](https://open.spotify.com/album/00BFxGEm5iejCqIDUXF1zj) | 2:20 | 2024-11-18 | 2025-04-05 |
 | [SURFACE](https://open.spotify.com/track/00byVYVEufxOA9qwRwKdBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [SURFACE](https://open.spotify.com/album/4ujOWQN1rcL5cc3EPQ8wo7) | 2:12 | 2025-06-13 |  |
 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 | 2023-12-01 | 2024-08-20 |
+| [SWITCH](https://open.spotify.com/track/7Hq1MZj3h8o7lYBkIN7xeY) | [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS), [ESPER](https://open.spotify.com/artist/4qxyQRkuA00BdgRmKhzSC2) | [SWITCH](https://open.spotify.com/album/7zFxSepGo2BmCRfPFYwzsB) | 2:20 | 2025-10-17 |  |
 | [Switch](https://open.spotify.com/track/1DGmrSDuDEbpXYbsiYxrR7) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Blush](https://open.spotify.com/artist/13PiNC8qn2wXQLxYSm2E3X) | [Switch](https://open.spotify.com/album/77nvaXnZNuzwBRv7OLGmr8) | 4:16 | 2024-03-29 | 2025-06-14 |
 | [SWITCH](https://open.spotify.com/track/1AQSdJMvUBHOLntq1yKnKs) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5) | [SWITCH](https://open.spotify.com/album/0HfOSfxzWGbeszRo16T3c7) | 3:26 | 2025-03-21 | 2025-04-05 |
 | [Switch It](https://open.spotify.com/track/3DLvDnN0C8pAHpCZK0H9kK) | [BLVD.](https://open.spotify.com/artist/05BMTFbYu3UZ61SYiu7mTg) | [Switch It](https://open.spotify.com/album/5YMvrBmp3FwpsWA9t0hs1b) | 4:28 | 2021-11-19 | 2022-02-01 |

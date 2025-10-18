@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-712 songs - 1 day 18 hr 22 min
+713 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [January](https://open.spotify.com/track/4l7frKzWhjH6jPtBm99hcy) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [January](https://open.spotify.com/album/0Dxsw5DUGrP4qb1cQE0bV2) | 4:13 | 2022-02-04 | 2022-07-10 |
 | [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 | 2024-03-30 |
 | [Joe Sure Knows How to Live](https://open.spotify.com/track/42MmHPDXTOUtor5IJerT6n) | [DOS BORRACHOS](https://open.spotify.com/artist/0wsounF7ieP10sdEiLLkPy), [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n), [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [Uno Mas](https://open.spotify.com/album/4zcZXQAPAmIlA8m41pr8ZK) | 3:30 | 2025-06-18 | 2025-07-16 |
-| [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 |  |
+| [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 | 2022-04-22 | 2025-10-18 |
 | [Just Call My Number](https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Just Call My Number](https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb) | 3:14 | 2025-10-10 |  |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2021-12-17 | 2022-03-19 |
 | [Keep Lookin' Down The Road](https://open.spotify.com/track/2I6GzticU6dxwZOAN8bG9d) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [Keep Lookin' Down The Road](https://open.spotify.com/album/3UZyPuO9Kl8dVBLw4ruJDU) | 3:04 | 2024-06-21 | 2024-09-30 |
@@ -563,6 +563,7 @@
 | [Sunshade](https://open.spotify.com/track/4njstyFBob2jiDicVk3l81) | [Cole Whittlesey](https://open.spotify.com/artist/7HXqXIdYlbvbv0IFDpuTDF) | [Sunshade](https://open.spotify.com/album/0t5Q9wOfTzerTuWi8Z2v87) | 3:35 | 2022-03-25 | 2022-07-27 |
 | [Superhero](https://open.spotify.com/track/60JFHHGFvMprnCB6kh25jU) | [Cameron Sacky Band](https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0) | [Superhero](https://open.spotify.com/album/3VINTQx8hUezyee8AX0oFX) | 4:01 | 2022-10-14 | 2023-02-02 |
 | [Sweet Irene](https://open.spotify.com/track/1E8oXata1MPMC78MAPWyLS) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Sweet Irene](https://open.spotify.com/album/2WCm8RARzrO6oaq0BtIpEK) | 3:48 | 2021-12-17 | 2022-08-27 |
+| [Sweet Lady](https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Sweet Lady](https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM) | 2:59 | 2025-10-17 |  |
 | [Tails I Lose](https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tails I Lose](https://open.spotify.com/album/3goaHaBpCfkyHLcw5ReS8b) | 3:45 | 2023-04-14 | 2023-09-02 |
 | [Talkin' Company Man Blues](https://open.spotify.com/track/49X6s0pSjdjOxy2eMFA7BI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Talkin' Company Man Blues](https://open.spotify.com/album/0ij4E9nKXJQaxJ8OcOb4D2) | 4:10 | 2023-09-15 | 2024-01-20 |
 | [Tears the Size of Texas](https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Tears the Size of Texas](https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI) | 3:58 | 2022-07-29 | 2023-09-02 |

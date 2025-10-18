@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: ta Ukrainka
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,048 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,062 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 5 | [Pozytywka](https://open.spotify.com/track/35MBLJWF12ds8UfQHdc6VN) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx), [Wiraszko](https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu) | [Miało być jak w filmie](https://open.spotify.com/album/6X6EgNLNft9IBTdbbNkYAK) | 3:07 |
 | 6 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
 | 7 | [GÓRA](https://open.spotify.com/track/6laq1642uj2nVmLDJcG1ds) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [GÓRA](https://open.spotify.com/album/5Eth7qkBY7Yl8hNvcQz6Zp) | 4:10 |
-| 8 | [Nobody](https://open.spotify.com/track/212XnGWShIC0jc80bebffT) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [](https://open.spotify.com/album/null) | 3:35 |
+| 8 | [Nobody](https://open.spotify.com/track/212XnGWShIC0jc80bebffT) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [White Room](https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB) | 3:35 |
 | 9 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 |
 | 10 | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/track/4TyEvP8OV3egd7nlECbeXk) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q) | 3:40 |
 | 11 | [Prosto krętą drogą](https://open.spotify.com/track/5HnnxyZMp4Dhl4pRVz7TUn) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA) | [kiedyś mi przejdzie](https://open.spotify.com/album/76wanX1S3b4QOck6kdbStc) | 3:40 |

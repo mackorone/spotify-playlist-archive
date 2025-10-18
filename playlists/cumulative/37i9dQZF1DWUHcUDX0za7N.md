@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Blaqbonez
 
-656 songs - 1 day 6 hr 45 min
+656 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [ASAMPETE](https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf) | [Anti World Gangstars](https://open.spotify.com/artist/4em6zsRUNAPC2YTfqdCpow), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Agunna](https://open.spotify.com/artist/1CENr91YcmLqLMk3fPeqze), [Shagba](https://open.spotify.com/artist/5GxgrhXvXlieEQX1KThYzh), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [Fatboy E](https://open.spotify.com/artist/7oQ6PiDrtScurCpBvMtf5b), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [NOTHING CHANGED](https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S) | 3:00 | 2024-12-19 |  |
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-12 | 2024-11-22 |
 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 | 2024-09-06 | 2025-02-16 |
+| [Aura 4 Aura \(feat\. Pa Salieu\)](https://open.spotify.com/track/43sJP8fOjGxkg9UjNs9x3U) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 2:06 | 2025-10-17 |  |
 | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Automoto \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/2dzMKs3gXrSCd1HNoRA92n) | 1:54 | 2025-06-27 |  |
 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-29 |  |
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-08-09 | 2025-06-14 |
@@ -598,7 +599,6 @@
 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 | 2024-03-01 | 2024-11-22 |
 | [TOSPI](https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [TOSPI](https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz) | 2:35 | 2025-02-21 | 2025-03-29 |
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-07 | 2025-09-26 |
-| [Track 3](https://open.spotify.com/track/43sJP8fOjGxkg9UjNs9x3U) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-17 |  |
 | [Trapping](https://open.spotify.com/track/7dTf5PWqNfWcRTlgw8d4fu) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 3:45 | 2022-10-14 | 2022-10-29 |
 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 | 2022-06-09 | 2023-11-10 |
 | [True Life Story](https://open.spotify.com/track/1m7ffYVHFhtOUF6pYHGqCC) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 2:58 | 2022-10-14 | 2022-10-29 |

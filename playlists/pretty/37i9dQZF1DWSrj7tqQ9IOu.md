@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,029 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,016 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 4 | [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 |
 | 5 | [MES NUITS](https://open.spotify.com/track/7hshPg8fnUHLi0zdEgu4nT) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [MES NUITS](https://open.spotify.com/album/7MvY0AuZFpmj0KRv7ZzFs6) | 2:56 |
 | 6 | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Leita](https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [BISOUS SALÉS & COQUILLAGES](https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk) | 2:20 |
-| 7 | [Movin'](https://open.spotify.com/track/4KUKQ8aslaoNIAEFmI8cUs) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [](https://open.spotify.com/album/null) | 2:59 |
+| 7 | [Movin'](https://open.spotify.com/track/4KUKQ8aslaoNIAEFmI8cUs) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [BLABLABLABLA](https://open.spotify.com/album/4n1lTD4sffDviaaPeqqGWm) | 2:59 |
 | 8 | [VHS](https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [VHS](https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c) | 3:15 |
 | 9 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 |
 | 10 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 15 | [chrysalis](https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [chrysalis](https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS) | 4:00 |
 | 16 | [Coeur de verre](https://open.spotify.com/track/0M3f8bLNATelCrDaw5FLlb) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Coeur de verre](https://open.spotify.com/album/5ysp6QHgZ20slMixdYosBj) | 2:33 |
 | 17 | [My Hero](https://open.spotify.com/track/2oyBvQDVgsiiZ9i0cusjbR) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [1997](https://open.spotify.com/album/6OUJxofNyMo3qiiCOV5y9S) | 2:40 |
-| 18 | [Galaxie](https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [](https://open.spotify.com/album/null) | 2:59 |
+| 18 | [Galaxie](https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Miroirs](https://open.spotify.com/album/6IudBeRgkljRDt532xTYdN) | 2:59 |
 | 19 | [Une jolie fille](https://open.spotify.com/track/64syxbGEBZBe81dKa3sydi) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Une jolie fille](https://open.spotify.com/album/05MrCtQiVEhSwx3lLn3B5z) | 3:08 |
 | 20 | [viens on part](https://open.spotify.com/track/0Jur8kJXfTdBwhJoNMEGgb) | [lili](https://open.spotify.com/artist/3CKIyHaaQL4vE7BQxvck9e) | [viens on part](https://open.spotify.com/album/7xSHTYnwyFVUONUoKILwgp) | 2:45 |
 | 21 | [Wonderful World](https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Archwood \(the playlist\)](https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz) | 2:29 |

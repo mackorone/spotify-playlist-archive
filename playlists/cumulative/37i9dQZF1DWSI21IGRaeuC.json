@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 200625,
       "name": "ARMS",
       "url": "https://open.spotify.com/track/6Se1RGQEVquqpxqG0tmyUe"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 191954,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/4Rf0qGEGOtKTcWWIC3Fa69"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 180000,
       "name": "DA HOUSE",
       "url": "https://open.spotify.com/track/3KgvyyJIY7Yk7U8Uos7IAG"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 190371,
       "name": "Denver",
       "url": "https://open.spotify.com/track/4bVvZz2ek77iSBj6HsmUyH"
@@ -4869,6 +4869,24 @@
     },
     {
       "album": {
+        "name": "Funkay / The Gift",
+        "url": "https://open.spotify.com/album/6VsWgwpuUmmU2p3JGOVbZm"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180745,
+      "name": "Funkay",
+      "url": "https://open.spotify.com/track/0U7WnQ5tVJJVp0uvT2mYcT"
+    },
+    {
+      "album": {
         "name": "Bump Artist EP",
         "url": "https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb"
       },
@@ -5104,6 +5122,24 @@
       "duration_ms": 271886,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3ENcnIB39ek39fUNaXX7ns"
+    },
+    {
+      "album": {
+        "name": "Get Funky EP",
+        "url": "https://open.spotify.com/album/396xgvGL6BTtYzH0Qvmir8"
+      },
+      "artists": [
+        {
+          "name": "AAT",
+          "url": "https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Get Funky",
+      "url": "https://open.spotify.com/track/5au1dxozcN7pepkik4E4uE"
     },
     {
       "album": {
@@ -6220,7 +6256,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 194109,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
@@ -6888,6 +6924,28 @@
       "duration_ms": 240975,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/4CHBnWN01zAnVa8YlsPyZQ"
+    },
+    {
+      "album": {
+        "name": "It Gets Better (Chris Stussy Remix)",
+        "url": "https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "It Gets Better - Chris Stussy Remix",
+      "url": "https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O"
     },
     {
       "album": {
@@ -9328,7 +9386,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 245659,
       "name": "No Hiding",
       "url": "https://open.spotify.com/track/1L6SsMnrTAKJs3VHd0B6aO"
@@ -9596,6 +9654,24 @@
       "duration_ms": 380307,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/4yDM4vM4UKaGZyYK65vdN2"
+    },
+    {
+      "album": {
+        "name": "Numb To The Flash",
+        "url": "https://open.spotify.com/album/4kkP4VIeyYcOtHv0zuMrI9"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Numb To The Flash",
+      "url": "https://open.spotify.com/track/6hYN87RP1alb49CV2nN9fj"
     },
     {
       "album": {
@@ -10742,7 +10818,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 194807,
       "name": "Pushing Harder",
       "url": "https://open.spotify.com/track/4DDPShFLKnMrfOYupGaihw"
@@ -11286,6 +11362,24 @@
       "duration_ms": 321860,
       "name": "Rizzla - Mochakk Remix",
       "url": "https://open.spotify.com/track/3pE6Hl7fH4sbjmF9p8gzb5"
+    },
+    {
+      "album": {
+        "name": "Rock & Rule EP",
+        "url": "https://open.spotify.com/album/5OfSzguxamws9IOutvWWWy"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207187,
+      "name": "Rock & Rule",
+      "url": "https://open.spotify.com/track/4hR9xYCDyufm6JBCzcrmnq"
     },
     {
       "album": {
@@ -12031,6 +12125,28 @@
     },
     {
       "album": {
+        "name": "Shoop",
+        "url": "https://open.spotify.com/album/74sJFWGAJEGHxd5gNw6nS3"
+      },
+      "artists": [
+        {
+          "name": "Damelo",
+          "url": "https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5"
+        },
+        {
+          "name": "NSJ",
+          "url": "https://open.spotify.com/artist/20yjvf2jPCLk4A4cLxYiNo"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/2S2N71w3l1P66hJESioabj"
+    },
+    {
+      "album": {
         "name": "Shoot the Shot",
         "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
@@ -12484,7 +12600,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 227753,
       "name": "Someday",
       "url": "https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv"
@@ -12990,6 +13106,28 @@
       "duration_ms": 341904,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/0HMWBMDhQiMcuBH8PQmZqq"
+    },
+    {
+      "album": {
+        "name": "Supa Smoov",
+        "url": "https://open.spotify.com/album/36IcWBiBqgCIP3gHiqxB65"
+      },
+      "artists": [
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Supa Smoov",
+      "url": "https://open.spotify.com/track/1wF4Lds6kOWQLDkcr7fr3D"
     },
     {
       "album": {
@@ -14550,7 +14688,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 225882,
       "name": "Trip Advisor (Rhythm, Snare, Bass) - 2025 Warp Mix",
       "url": "https://open.spotify.com/track/1UR7khfRiqa8f9bPlmMCyj"
@@ -15239,6 +15377,24 @@
     },
     {
       "album": {
+        "name": "Was I Loved?",
+        "url": "https://open.spotify.com/album/0xuivpSg8Z5zmBkYZZ5IUN"
+      },
+      "artists": [
+        {
+          "name": "Joss Dean",
+          "url": "https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193636,
+      "name": "Was I Loved?",
+      "url": "https://open.spotify.com/track/1OXp5ZrI1JXY0xY5H4ql7z"
+    },
+    {
+      "album": {
         "name": "Watch The Time EP",
         "url": "https://open.spotify.com/album/3exjev590oxSNXL9TdPjyS"
       },
@@ -15722,6 +15878,28 @@
       "duration_ms": 170751,
       "name": "WOOP WOOP",
       "url": "https://open.spotify.com/track/1FFm13AYeb7253SEmjBjvP"
+    },
+    {
+      "album": {
+        "name": "Keep it Real",
+        "url": "https://open.spotify.com/album/72erDWaZTO2Fdzdcjhi62H"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207938,
+      "name": "Work feat. Nevve - Edit",
+      "url": "https://open.spotify.com/track/3eb7WYeXYav8I3q6iKQY5h"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-144 songs - 9 hr 46 min
+146 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [DEEP](https://open.spotify.com/track/0THcqMeQa1NSviF64C5NG5) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [THROWING PAINT](https://open.spotify.com/album/4LIjsirtkdowvJezJBwCOy) | 3:51 | 2025-08-29 |  |
 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 | 2024-05-24 |  |
 | [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 | 2025-07-11 |  |
-| [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-06-20 |  |
+| [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 | 2025-06-20 | 2025-10-18 |
+| [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 | 2025-10-17 |  |
 | [EMPTY THREATS](https://open.spotify.com/track/4EJYP92P930plei6Y6oJ7g) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [EMPTY THREATS](https://open.spotify.com/album/6EcqysNWlAXs2OqPrXnXvJ) | 2:51 | 2025-01-31 |  |
 | [Faithfully \- Single Version](https://open.spotify.com/track/7FKO2mSmhkR9NzjXr82zpz) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Faithfully](https://open.spotify.com/album/3a0ksuLUOLApL6mWogz7tF) | 2:48 | 2024-05-24 |  |
 | [Fake Fix](https://open.spotify.com/track/1ISjPzPrfa4GTrf6tznM0k) | [RIDERS](https://open.spotify.com/artist/5nRoa8Fv2bXoYkKW1y1Ze3) | [Fake Fix](https://open.spotify.com/album/3HgvyvvE2tOMSxeB1SRxgS) | 3:39 | 2025-01-31 |  |
@@ -63,6 +64,7 @@
 | [Heaven On Earth](https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Heaven On Earth](https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5) | 3:19 | 2024-05-24 | 2025-09-20 |
 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 | 2025-04-04 |  |
 | [Hero In The Room](https://open.spotify.com/track/0vt0GwYOmhSFxsOA7zcYGB) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Hero In The Room](https://open.spotify.com/album/1eQxNUI0ZmqrWz9WKJgSyy) | 3:02 | 2025-03-31 |  |
+| [Hold Your Horses](https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:10 | 2025-10-17 |  |
 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 | 2025-09-19 |  |
 | [Holy Forever](https://open.spotify.com/track/1Cll5XrepsCJgUFMj4sQH3) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Holy Forever](https://open.spotify.com/album/7wn4dqa2FKZePM9n4YrwxE) | 5:33 | 2024-06-21 | 2025-09-20 |
 | [Holy Water](https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:02 | 2024-05-24 |  |
@@ -118,7 +120,7 @@
 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 | 2024-05-31 |  |
 | [Sound Of Heaven](https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Sound Of Heaven](https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9) | 3:20 | 2024-07-26 |  |
 | [Stand](https://open.spotify.com/track/3bV1iS1qWgbS9hGqM45wyj) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stand](https://open.spotify.com/album/6QVcVdbZCcNmrZSgAu0BJo) | 3:29 | 2024-09-13 | 2025-09-20 |
-| [Stars](https://open.spotify.com/track/1QKtl5FOh7JgKM5HEt1EaG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/75RnYnEkzvvOmksDhEivMq) | 2:54 | 2025-09-05 |  |
+| [Stars](https://open.spotify.com/track/1QKtl5FOh7JgKM5HEt1EaG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/75RnYnEkzvvOmksDhEivMq) | 2:54 | 2025-09-05 | 2025-10-18 |
 | [Stay Strong](https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:18 | 2024-05-24 |  |
 | [STILL \(with Zach Williams\)](https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [STILL \(with Zach Williams\)](https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK) | 3:12 | 2025-09-22 |  |
 | [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 | 2025-09-26 |  |

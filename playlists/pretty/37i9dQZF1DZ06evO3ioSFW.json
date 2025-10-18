@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 511067,
+  "num_followers": 511136,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAADV28QdnsTKVn11FKtmIf3v",
+  "snapshot_id": "aPA1gAAAAABn3GdwcU1OEIV7I6QQmb1U",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/43UFrMP3JHPl7W4MqfWWcA"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Patricio Borghetti",
+          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "url": "https://open.spotify.com/track/5X5e8H5D9SikfhcXCHxqvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 185653,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pensando Positivo",
-        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 193300,
-      "name": "Pensando Positivo",
-      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habla el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/43UFrMP3JHPl7W4MqfWWcA"
+        "name": "Pensando Positivo",
+        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         },
         {
-          "name": "Patricio Borghetti",
-          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 324493,
-      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
-      "url": "https://open.spotify.com/track/5X5e8H5D9SikfhcXCHxqvY"
+      "duration_ms": 193300,
+      "name": "Pensando Positivo",
+      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
     },
     {
       "added_at": null,

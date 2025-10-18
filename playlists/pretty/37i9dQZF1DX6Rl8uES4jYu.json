@@ -1,13 +1,29 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235834,
+  "num_followers": 235819,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzyv2k4wTH8rqdhTf4dsZ4GLqs9",
+  "snapshot_id": "AAAAAEMOrlQSQHQAJthqeYTUxJZkxmZx",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Spin City",
+        "url": "https://open.spotify.com/album/65RPv6CdrdiYutf1KhW6IT"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Point n Shoot",
+      "url": "https://open.spotify.com/track/6HIWIE3nd1T2q5SyOwtMLy"
+    },
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
@@ -1779,26 +1795,6 @@
       "duration_ms": 217942,
       "name": "You Might Like It",
       "url": "https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Live at Daddy Macs",
-        "url": "https://open.spotify.com/album/0sCDxS38a9BKeBEiQ3wTfk"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Wright",
-          "url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq"
-        },
-        {
-          "name": "Mike & Keys",
-          "url": "https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4"
-        }
-      ],
-      "duration_ms": 155203,
-      "name": "You Get What You See",
-      "url": "https://open.spotify.com/track/3IYORoSPt8WZ2Yq07knCmo"
     },
     {
       "added_at": "2022-08-19 04:02:00",

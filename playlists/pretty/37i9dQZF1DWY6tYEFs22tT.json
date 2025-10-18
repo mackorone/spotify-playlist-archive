@@ -1,15 +1,31 @@
 {
-  "description": "Today's Hip-Hop with Yeat, Young Thug, Ice Spice and Cardi B.",
-  "num_followers": 810282,
+  "description": "Today's Hip-Hop with Ty Dolla $ign, Yeat, Tkandz and A Boogie Wit da Hoodie.",
+  "num_followers": 810232,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALJtG2tT2OAbqjXh3JeiuAZHLdyC",
+  "snapshot_id": "AAAAAMgIl4UTWd8rdQ3BsaaOJdQhBRPa",
   "tracks": [
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 145176,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/1aBlZUy4ZRDB7mguIWfTtr"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "Baddie Baddie",
-        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 120784,
-      "name": "Baddie Baddie",
-      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Sirens (From Ireland)",
         "url": "https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp"
@@ -61,7 +61,63 @@
       "url": "https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "OJ Da Juiceman",
+          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
+        }
+      ],
+      "duration_ms": 157808,
+      "name": "Back Cooking",
+      "url": "https://open.spotify.com/track/7CycwjLRm7wKubir9PCXXd"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "Baddie Baddie",
+        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 120784,
+      "name": "Baddie Baddie",
+      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "DOG HOUSE",
         "url": "https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6"
@@ -85,7 +141,23 @@
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "8PM",
+        "url": "https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "8PM",
+      "url": "https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
@@ -105,7 +177,7 @@
       "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
@@ -121,7 +193,7 @@
       "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Still Get Chanel (feat. Chance The Rapper)",
         "url": "https://open.spotify.com/album/0eVHBtiX6G7wMWErRoa9cW"
@@ -141,7 +213,23 @@
       "url": "https://open.spotify.com/track/6saKboIoQgXKIHfQJVwv5i"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
@@ -161,7 +249,7 @@
       "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Gyatt",
         "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
@@ -181,23 +269,7 @@
       "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "AP Freestyle",
-        "url": "https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "AP Freestyle",
-      "url": "https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Hood Politics",
         "url": "https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU"
@@ -221,7 +293,23 @@
       "url": "https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "LMAO",
+        "url": "https://open.spotify.com/album/7JsNiyPwf5SpOxKrTYVHI6"
+      },
+      "artists": [
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "duration_ms": 114191,
+      "name": "LMAO",
+      "url": "https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "DADE",
         "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
@@ -241,7 +329,7 @@
       "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
         "url": "https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE"
@@ -265,7 +353,7 @@
       "url": "https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "For Her 2",
         "url": "https://open.spotify.com/album/6nniLiblGIJoAo5FHTQ1US"
@@ -285,7 +373,7 @@
       "url": "https://open.spotify.com/track/2dwqjMo4L4UtPPZ8DzI50N"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Still Snowin'",
         "url": "https://open.spotify.com/album/3AQaGYyxlx3kHsE0thg5lV"
@@ -305,7 +393,7 @@
       "url": "https://open.spotify.com/track/5IVbbdhaxuNWxea9skrTOK"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Tiramisu",
         "url": "https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3"
@@ -321,23 +409,43 @@
       "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
-        "name": "Only Time",
-        "url": "https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d"
+        "name": "Colder",
+        "url": "https://open.spotify.com/album/4sNpL67Ibx6NSpGKoEKRve"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Rekzz",
+          "url": "https://open.spotify.com/artist/5YHBZinJewKQ4mQCe0yCob"
+        },
+        {
+          "name": "CYZA",
+          "url": "https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY"
         }
       ],
-      "duration_ms": 202815,
-      "name": "Only Time",
-      "url": "https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua"
+      "duration_ms": 144145,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/2kLPWZ65fLx43oHBAgMN8k"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
+      "album": {
+        "name": "AP Freestyle",
+        "url": "https://open.spotify.com/album/3NDWj9V9tP41LSc1JyE3c7"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "AP Freestyle",
+      "url": "https://open.spotify.com/track/6s0omAiJpLcMWdbCCJbG6s"
+    },
+    {
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Which One",
         "url": "https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0"
@@ -357,7 +465,7 @@
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "KIARI",
         "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
@@ -377,7 +485,7 @@
       "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "</3\u00b3",
         "url": "https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq"
@@ -393,7 +501,7 @@
       "url": "https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Owe Me",
         "url": "https://open.spotify.com/album/3qtwvgTjmEDPRHXYPSW3Nk"
@@ -413,7 +521,7 @@
       "url": "https://open.spotify.com/track/3SFWyVnGTGGvTH6iQmLAxL"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
@@ -429,7 +537,7 @@
       "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Name My Price",
         "url": "https://open.spotify.com/album/0ye3thyZPRwQzkulMm2phJ"
@@ -445,7 +553,7 @@
       "url": "https://open.spotify.com/track/1fT7mEKaIgqBCcCvpHzi2x"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -461,7 +569,7 @@
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Pink Money (feat. G Herbo)",
         "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
@@ -485,7 +593,7 @@
       "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
@@ -517,7 +625,7 @@
       "url": "https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "No Sharing (feat. Luh Tyler)",
         "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
@@ -537,7 +645,7 @@
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Grind 4",
         "url": "https://open.spotify.com/album/5QncAixFEsY4IeVf1WplTw"
@@ -553,27 +661,7 @@
       "url": "https://open.spotify.com/track/67OmIoO9BrHxxj4BFMJldX"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "LOVERS OR FRIENDS",
-        "url": "https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 179461,
-      "name": "LOVERS OR FRIENDS",
-      "url": "https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "See The World (feat. BossMan Dlow)",
         "url": "https://open.spotify.com/album/5hEuYRgfjxufbFnb1UuwEM"
@@ -601,7 +689,7 @@
       "url": "https://open.spotify.com/track/4OyCEPKYDnMdf3c5mMpPR7"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "FWU",
         "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
@@ -621,47 +709,7 @@
       "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "Something Wrong (with Don Toliver)",
-        "url": "https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 142451,
-      "name": "Something Wrong (with Don Toliver)",
-      "url": "https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "ART (feat. Latto)",
-        "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 108800,
-      "name": "ART (feat. Latto)",
-      "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
@@ -685,7 +733,7 @@
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -701,23 +749,7 @@
       "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "Professional",
-        "url": "https://open.spotify.com/album/3szFCrznF383ASda6GRzq2"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Professional",
-      "url": "https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Don't Box Me In",
         "url": "https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "GUILT TRIPPIN (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "For The Money",
         "url": "https://open.spotify.com/album/05VBhCeUpyBpGLDUFR4iZT"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/5G0GzyNU6VALmOenzBNtVA"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "THY KINGDOM COME",
         "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
@@ -793,7 +825,7 @@
       "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "HOLLYWOOD",
         "url": "https://open.spotify.com/album/0pg3WtuKm4GlckMugbml46"
@@ -813,23 +845,7 @@
       "url": "https://open.spotify.com/track/0uAmR0yTDNAaXA5jPGOrir"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 238249,
-      "name": "DUMBO",
-      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "OWA OWA",
         "url": "https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Timeless (Remix)",
         "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Pop It Off",
         "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Big Dawgs (Remix) [with A$AP Rocky]",
         "url": "https://open.spotify.com/album/74u7KIIp6Ufg7IsgbshrN6"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/5xvPXPOUITOU26irSi3XD5"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "WICK",
         "url": "https://open.spotify.com/album/4y5vG1udERB0K1sDyeENa2"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/2DiA1CTRZM7HJ1SOpKyieA"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "CAN'T RUSH GREATNESS",
         "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
@@ -953,27 +969,7 @@
       "url": "https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb"
     },
     {
-      "added_at": "2025-10-10 04:00:18",
-      "album": {
-        "name": "Money On Money (feat. Future)",
-        "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 236626,
-      "name": "Money On Money (feat. Future)",
-      "url": "https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m"
-    },
-    {
-      "added_at": "2025-10-10 04:00:18",
+      "added_at": "2025-10-17 04:05:05",
       "album": {
         "name": "Typa",
         "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"

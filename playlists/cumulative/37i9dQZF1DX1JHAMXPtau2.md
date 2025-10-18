@@ -4,7 +4,7 @@
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-47 songs - 2 hr 9 min
+50 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,18 +40,21 @@
 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 | 2023-11-17 |  |
 | [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 | 2023-11-17 |  |
 | [Rockin Around the Christmas Tree \- Cover](https://open.spotify.com/track/6Cx34TJ6sWuyaCMbdTtHZc) | [Markus Palm](https://open.spotify.com/artist/3HcuvEP9GIhev84pVvv6hi) | [Rockin Around the Christmas Tree \(Cover\)](https://open.spotify.com/album/047Jsj8cPsf6bwDQzG42QY) | 2:24 | 2024-12-12 | 2025-09-05 |
+| [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/0u3Eibk2FUsdcUzj617Kid) | [Brand Nor](https://open.spotify.com/artist/6K82W353kltBs93MJIf2Qq) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/0AdODezaCbUHJGwoFsONcn) | 3:24 | 2025-10-17 |  |
 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 | 2023-11-17 |  |
-| [Silent Jazz Night](https://open.spotify.com/track/13iIClj8QbmMdfeNInI5Cr) | [Ronald Alan Mendelsohn](https://open.spotify.com/artist/0jiVxUC2p4N69pPxqdZS30) | [Silent Jazz Night](https://open.spotify.com/album/0C6ktaMn7c1JugmYplfR04) | 2:50 | 2024-12-13 |  |
+| [Silent Jazz Night](https://open.spotify.com/track/13iIClj8QbmMdfeNInI5Cr) | [Ronald Alan Mendelsohn](https://open.spotify.com/artist/0jiVxUC2p4N69pPxqdZS30) | [Silent Jazz Night](https://open.spotify.com/album/0C6ktaMn7c1JugmYplfR04) | 2:50 | 2024-12-13 | 2025-10-18 |
+| [Silent Night](https://open.spotify.com/track/4fA9tPgfO0W9Wa0Y3qqyhg) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Silent Night](https://open.spotify.com/album/1PZUu1jxtcBZxAyJOku8gA) | 3:33 | 2025-10-17 |  |
 | [Snow Painting The View](https://open.spotify.com/track/5hGm6YwKC3putMHJGE4vWd) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [Snow Painting The View](https://open.spotify.com/album/02pvJNp8zcSsH3NAxlR0pI) | 2:19 | 2024-12-19 |  |
 | [The Christmas Song](https://open.spotify.com/track/0QxOpxLx8FEVOYDtnLbS3U) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [The Christmas Song](https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN) | 3:26 | 2023-11-17 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/4IYUcv0cXUMvOi3gbQrpy5) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [The Christmas Waltz](https://open.spotify.com/album/5xNbnlyxNxH0aswKNA9tlZ) | 2:38 | 2023-11-17 | 2025-09-05 |
 | [The First Noel](https://open.spotify.com/track/1qPkYfDLOTqA6bVAGtwcBR) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [The First Noel](https://open.spotify.com/album/5vH0m4Rmvn4kx15Z5GdL14) | 2:54 | 2023-11-17 |  |
-| [The Holly and the Ivy](https://open.spotify.com/track/0F8ZbcUtitZnH2b9E2azZa) | [Daisy Luckett](https://open.spotify.com/artist/2tVudUZYXpEdgAK3TDPYoH) | [The Holly and the Ivy](https://open.spotify.com/album/0RFl5bt4ejJMnGGZR21BWe) | 3:37 | 2023-11-17 |  |
+| [The Holly and the Ivy](https://open.spotify.com/track/0F8ZbcUtitZnH2b9E2azZa) | [Daisy Luckett](https://open.spotify.com/artist/2tVudUZYXpEdgAK3TDPYoH) | [The Holly and the Ivy](https://open.spotify.com/album/0RFl5bt4ejJMnGGZR21BWe) | 3:37 | 2023-11-17 | 2025-10-18 |
 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 | 2023-11-17 |  |
 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 | 2023-11-17 |  |
+| [We Three Kings](https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [We Three Kings](https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH) | 2:59 | 2025-10-17 |  |
 | [We Three Kings](https://open.spotify.com/track/7FXyGY7enbvRokLa4F3l93) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [We Three Kings](https://open.spotify.com/album/1TSXtdyo5u58eIPx7hqDNa) | 2:28 | 2023-11-17 | 2025-09-05 |
 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/5fcwexbxECTYiCUvrBig0V) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/5GMPCJizVO43fjyoj6to1V) | 2:25 | 2023-11-17 | 2025-09-05 |
-| [What Child Is This](https://open.spotify.com/track/04n38Hts6yUNPMW75kweVu) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 2:48 | 2023-11-17 |  |
+| [What Child Is This](https://open.spotify.com/track/04n38Hts6yUNPMW75kweVu) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 2:48 | 2023-11-17 | 2025-10-18 |
 | [White Christmas](https://open.spotify.com/track/7ptmRcVXsT3cQtCkKRLyho) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:18 | 2023-11-17 |  |
 | [Winter Wonderland](https://open.spotify.com/track/6B0B31rzHq9nESGo2FOA2o) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Winter Wonderland](https://open.spotify.com/album/2BFqWPVHQTRDZBNLQVtSFF) | 2:10 | 2024-12-05 |  |
 | [Wonderful Christmastime \- Cover](https://open.spotify.com/track/0G6XzAzphUDLsdmm89LgAk) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Wonderful Christmastime \(Cover\)](https://open.spotify.com/album/3BhemyGbhENo7QQwk6Mf8A) | 2:34 | 2024-12-12 |  |

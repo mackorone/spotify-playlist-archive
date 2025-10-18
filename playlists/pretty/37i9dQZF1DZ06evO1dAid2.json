@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 132925,
+  "num_followers": 132928,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACwIS7usIMU4Qe3Ao3GllH7",
+  "snapshot_id": "aPA1gAAAAADl39pbbXce2vj/4ZSVt8BV",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 102800,
-      "name": "Let It Rock",
-      "url": "https://open.spotify.com/track/2OCoH12t6olzx9bT1PEC8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 143306,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 102800,
+      "name": "Let It Rock",
+      "url": "https://open.spotify.com/track/2OCoH12t6olzx9bT1PEC8F"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Little Queenie",
-      "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
+      "duration_ms": 168600,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
+      "duration_ms": 163800,
+      "name": "Little Queenie",
+      "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "I'm A Rocker",
-      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry Twist",
         "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 142586,
       "name": "Thirty Days",
       "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 137573,
+      "name": "Shake, Rattle And Roll",
+      "url": "https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
       },
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry",
-        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 137573,
-      "name": "Shake, Rattle And Roll",
-      "url": "https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt"
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 132413,
       "name": "Ain't That Just Like A Woman",
       "url": "https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From St. Louie To Frisco",
-        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Louis To Frisco",
-      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 155933,
       "name": "Little Marie",
       "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 122480,
-      "name": "Viva Viva Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Fillmore Auditorium",
         "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 146760,
-      "name": "House Of Blue Lights",
-      "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
+      "duration_ms": 122480,
+      "name": "Viva Viva Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 129840,
       "name": "You Two",
       "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "House Of Blue Lights",
+      "url": "https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df"
     },
     {
       "added_at": null,

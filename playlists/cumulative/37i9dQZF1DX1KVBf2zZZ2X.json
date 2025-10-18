@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Moments Rest",
+        "url": "https://open.spotify.com/album/0vakLKm6vIai7276TJhWFB"
+      },
+      "artists": [
+        {
+          "name": "Knot Released",
+          "url": "https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "A Moments Rest",
+      "url": "https://open.spotify.com/track/7dl0jdG4uhw4XOM60QOr0E"
+    },
+    {
+      "album": {
         "name": "Aardvark",
         "url": "https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 159378,
       "name": "Carnelian Vibrancy",
       "url": "https://open.spotify.com/track/0v4uZTELJHnvVSzMQ1wVdU"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 122583,
       "name": "Da Lat",
       "url": "https://open.spotify.com/track/6PLuM9Bi08yCcHPYKTyEdt"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/38GHW30hLw28Noczz5ALKg"
@@ -3814,7 +3832,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 148000,
       "name": "Softly Now",
       "url": "https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh"
@@ -4776,7 +4794,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Wisdom in Waves",
       "url": "https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE"

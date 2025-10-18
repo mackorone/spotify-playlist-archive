@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 88201,
+  "num_followers": 88198,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Pain Interlude",
+        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
+      },
+      "artists": [
+        {
+          "name": "Tskinz",
+          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "Pain Interlude",
+      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
       },
@@ -407,6 +423,22 @@
       "duration_ms": 190615,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 135416,
+      "name": "DTB",
+      "url": "https://open.spotify.com/track/37y4PsK6A7HJ6ao9wsiuBh"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -431,38 +463,6 @@
       "duration_ms": 152390,
       "name": "Hooligan - BexBlu x qtheory Edit",
       "url": "https://open.spotify.com/track/0Wwb3WR2RrI6anhw8MogBv"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 135416,
-      "name": "DTB",
-      "url": "https://open.spotify.com/track/37y4PsK6A7HJ6ao9wsiuBh"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Pain Interlude",
-        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
-      },
-      "artists": [
-        {
-          "name": "Tskinz",
-          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "Pain Interlude",
-      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Next Up - S3-E47",
-        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 141740,
-      "name": "Next Up - S3-E47, Pt.1",
-      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Next Up - S3-E47",
+        "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 141740,
+      "name": "Next Up - S3-E47, Pt.1",
+      "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "THOUGHTS",
+        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
+      },
+      "artists": [
+        {
+          "name": "DEE L",
+          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "THOUGHTS",
+      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 138750,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "THOUGHTS",
-        "url": "https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH"
-      },
-      "artists": [
-        {
-          "name": "DEE L",
-          "url": "https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "THOUGHTS",
-      "url": "https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "One Cool Dude",
         "url": "https://open.spotify.com/album/5zbuTBV17VxQ1v1VT0kNqv"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 169514,
       "name": "One Cool Dude",
       "url": "https://open.spotify.com/track/21fgHMcL3zikpVOBenYwQ5"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2025-10-10 12:01:08",

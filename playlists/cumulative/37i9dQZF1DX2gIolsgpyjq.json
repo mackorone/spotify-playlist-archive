@@ -15117,6 +15117,24 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0U7Ng1lZGQLdhD9jgMIPUn"
+      },
+      "artists": [
+        {
+          "name": "The Bird",
+          "url": "https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154404,
+      "name": "Never Wanna Have Fun",
+      "url": "https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR"
+    },
+    {
+      "album": {
         "name": "Welcome to the New Age",
         "url": "https://open.spotify.com/album/6QN1xgBKeFhq6AnnmzUuU7"
       },
@@ -23054,24 +23072,6 @@
       "duration_ms": 399733,
       "name": "Tough Love",
       "url": "https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "The Bird",
-          "url": "https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn"
-        }
-      ],
-      "date_added": "2025-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR"
     },
     {
       "album": {

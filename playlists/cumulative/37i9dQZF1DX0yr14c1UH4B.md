@@ -4,7 +4,7 @@
 
 > The ultimate songbook ☕️ feat\. Brodie Barclay
 
-587 songs - 1 day 8 hr 50 min
+588 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Head Underwater](https://open.spotify.com/track/6aVuhf1DaTNoFgpDgIQku0) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Head Underwater](https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz) | 3:15 | 2024-05-31 | 2024-09-21 |
 | [headlock](https://open.spotify.com/track/6XOgjYhkbPJpgkImMdEiSj) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [headlock](https://open.spotify.com/album/0GoRYllNOt5OSkd5n7pIGQ) | 3:05 | 2025-04-18 | 2025-05-16 |
 | [Heart By Heart](https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Heart By Heart](https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU) | 3:10 | 2025-04-24 | 2025-05-16 |
-| [Heartland](https://open.spotify.com/track/32qvIoh5SMsbSihwe6diSu) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [](https://open.spotify.com/album/null) | 4:24 | 2025-10-16 |  |
+| [Heartland](https://open.spotify.com/track/32qvIoh5SMsbSihwe6diSu) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Heartland](https://open.spotify.com/album/3h9JOm2CZLIYkTMY1gVmHH) | 4:24 | 2025-10-16 |  |
 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 | 2025-02-28 | 2025-03-28 |
 | [Heaven](https://open.spotify.com/track/6rq44tBrWJwhWaTO0lMC5p) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Other Sides Of The Moon](https://open.spotify.com/album/0ODs8NvPYf8B1m7B0yBhAt) | 2:58 | 2025-06-19 |  |
 | [Heaven](https://open.spotify.com/track/5ae9VNSeOiHO0HfPHlFQCH) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Heaven](https://open.spotify.com/album/0tB1dheknY3GCYJuAPB7Mf) | 3:08 | 2025-04-10 | 2025-05-23 |
@@ -234,6 +234,7 @@
 | [I Am Enough](https://open.spotify.com/track/6eefU1OC375SvCfyyGdovo) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/4O0DW3SrSNcvmlcHLeUkRr) | 3:08 | 2025-05-22 | 2025-09-05 |
 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 | 2025-04-24 | 2025-05-30 |
 | [I Found \(with Freya Ridings\)](https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU), [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [I Found \(with Freya Ridings\)](https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c) | 4:34 | 2025-05-15 | 2025-06-27 |
+| [I hate goodbyes](https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [I hate goodbyes](https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb) | 3:49 | 2025-10-17 |  |
 | [I Hope You Notice Me](https://open.spotify.com/track/1Fjbk7QcKZxwjDi9wnt6gM) | [Hetta Falzon](https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH) | [I Hope You Notice Me](https://open.spotify.com/album/4cNLoi98cTDeut8DL4lbS4) | 5:37 | 2025-10-16 |  |
 | [I Know You'd Kill](https://open.spotify.com/track/44rqdhvXIFXY30GPejON8Y) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [I Know You'd Kill](https://open.spotify.com/album/4Q3C0YpuMPVrIO857IZqGD) | 2:54 | 2025-03-21 | 2025-04-18 |
 | [I Need Your Love](https://open.spotify.com/track/37CUEej3GEv0U8wkx8wP5h) | [GIO DARA](https://open.spotify.com/artist/1YTaNEf5juixP1n71yQcLr) | [I Need Your Love](https://open.spotify.com/album/1kQhgnNrI5IUa5uSAw4Yye) | 2:35 | 2025-04-24 | 2025-06-13 |
@@ -333,7 +334,7 @@
 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 | 2025-05-09 | 2025-07-18 |
 | [My Way](https://open.spotify.com/track/3JgCL9UVShnYUeyAq0wdYq) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [My Way](https://open.spotify.com/album/5I6CJmE3sGkByhq7qLQIF1) | 1:57 | 2025-04-24 | 2025-05-16 |
 | [naked in the grand](https://open.spotify.com/track/3OnhEbZolF2meRPpC44nTf) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [naked in the grand](https://open.spotify.com/album/03Qw8wwWenKRiW7dXLsBys) | 3:22 | 2025-09-11 | 2025-10-03 |
-| [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-06-26 |  |
+| [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-06-26 | 2025-10-18 |
 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 | 2024-11-15 | 2025-01-31 |
 | [Nevermind](https://open.spotify.com/track/4s29lVsKQafjQ43HN7dWxK) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Nevermind](https://open.spotify.com/album/3mkAncqE84DLsL0csQRuLb) | 2:41 | 2025-04-10 | 2025-05-23 |
 | [New Direction](https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [New Direction](https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8) | 4:17 | 2025-03-28 | 2025-04-25 |
@@ -394,7 +395,7 @@
 | [Really Boring](https://open.spotify.com/track/09Iem1QnKSMILt74M4q9Vw) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [Really Boring](https://open.spotify.com/album/79I52IiskGMNq2TIGnNzVf) | 3:19 | 2025-07-17 | 2025-10-03 |
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-14 | 2025-04-04 |
 | [Rest Of Me](https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Rest Of Me](https://open.spotify.com/album/6n8vxGMToOmgBWYdp0oADs) | 3:36 | 2025-07-10 | 2025-08-15 |
-| [Reverse Cowboy](https://open.spotify.com/track/2X9z16JOWqCeXMsDSm3VsJ) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [](https://open.spotify.com/album/null) | 3:32 | 2025-10-16 |  |
+| [Reverse Cowboy](https://open.spotify.com/track/2X9z16JOWqCeXMsDSm3VsJ) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [Reverse Cowboy](https://open.spotify.com/album/7wcJCn9OfEnAMHVesh9dPA) | 3:32 | 2025-10-16 |  |
 | [River](https://open.spotify.com/track/2e6RNn4yW5JB8RkPUHKVji) | [Joely June](https://open.spotify.com/artist/3Zjp1y6YgPwFDX3PlTJd1j) | [River](https://open.spotify.com/album/2k8wId2DpvL2Obm1Y6qELs) | 3:49 | 2025-09-25 |  |
 | [River Of Tears](https://open.spotify.com/track/4sC2H6ja1JalHAiPnR4gBA) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [River Of Tears](https://open.spotify.com/album/6k7bXAr8K2a0gkhjdLEohF) | 2:31 | 2025-03-14 | 2025-04-11 |
 | [Rivers](https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx) | [Sophia Grover](https://open.spotify.com/artist/1NXqzuT9GyKPFAW9PPGMzR) | [Rivers](https://open.spotify.com/album/4ftnZsIKHNl3g8toERQmoe) | 4:15 | 2025-07-31 | 2025-10-03 |

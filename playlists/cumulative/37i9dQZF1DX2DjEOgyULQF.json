@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds.",
+  "description": "Ambient with the soothing sounds of water, rain and birds. ",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -272,6 +272,24 @@
       "duration_ms": 166229,
       "name": "Astral Awakening",
       "url": "https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez"
+    },
+    {
+      "album": {
+        "name": "At Peace",
+        "url": "https://open.spotify.com/album/3248pHS5hOWWi8XBxUyaIy"
+      },
+      "artists": [
+        {
+          "name": "Eves Haven",
+          "url": "https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146797,
+      "name": "At Peace",
+      "url": "https://open.spotify.com/track/19oPBpvNjztSjlhYpXqqwy"
     },
     {
       "album": {
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 162748,
       "name": "imperia",
       "url": "https://open.spotify.com/track/0IOkAVin2sQFGnUDCccATb"
@@ -3865,6 +3883,24 @@
     },
     {
       "album": {
+        "name": "Sapphire Tide",
+        "url": "https://open.spotify.com/album/2Ecs1Bo7o3l2ilNlsGcgs9"
+      },
+      "artists": [
+        {
+          "name": "Elaifas",
+          "url": "https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143250,
+      "name": "Sapphire Tide",
+      "url": "https://open.spotify.com/track/2jh0KjuwnfuVF5VoJDcU6p"
+    },
+    {
+      "album": {
         "name": "Sauna",
         "url": "https://open.spotify.com/album/3cHPJVrhngu3Ptlm3GYHWB"
       },
@@ -4668,7 +4704,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 132000,
       "name": "The Unseen",
       "url": "https://open.spotify.com/track/3rpKRcr3DYdjj3tRkjYyxa"

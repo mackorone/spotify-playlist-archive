@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Joe L Barnes and Limoblaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,596 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,703 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 |
-| 2 | [one](https://open.spotify.com/track/4YWagXVsKhd6NklsOsU4aY) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [](https://open.spotify.com/album/null) | 3:04 |
+| 2 | [one](https://open.spotify.com/track/4YWagXVsKhd6NklsOsU4aY) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [diary entry 1](https://open.spotify.com/album/6fX5APrymapa9uIsC1yy0s) | 3:04 |
 | 3 | [UNLIMITED](https://open.spotify.com/track/5tRq6BMkzV0dJCnXJqeSdm) | [Samuel Okemiri](https://open.spotify.com/artist/6Pm09rb09YirZyBwTjPQcQ), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [UNLIMITED](https://open.spotify.com/album/2Do8T8QxG3rALXoofdSbj3) | 2:43 |
 | 4 | [Benefit](https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Benefit](https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8) | 6:59 |
 | 5 | [So Good](https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [So Good](https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Juliana y Piso 21",
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Juan Duque",
   "name": "Popet\u00f3n",
   "tracks": [
     {
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 177389,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 254705,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
@@ -3479,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "Flow Diferente",
+        "url": "https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Flow Diferente",
+      "url": "https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen"
+    },
+    {
+      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -3784,6 +3802,28 @@
       "duration_ms": 202000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/1c5Jc2aaUqe6y729qjADLN"
+    },
+    {
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/6kKjC5UkhP2AoBwhO6FDOF"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
     },
     {
       "album": {
@@ -6331,6 +6371,28 @@
     },
     {
       "album": {
+        "name": "Pa que ya no est\u00e9s triste",
+        "url": "https://open.spotify.com/album/1HzgN9B54LNZgdGqFE9wHR"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185232,
+      "name": "Pa que ya no est\u00e9s triste",
+      "url": "https://open.spotify.com/track/4Foho0RcX50Fqg9wgdiQBQ"
+    },
+    {
+      "album": {
         "name": "Pa' Despu\u00e9s",
         "url": "https://open.spotify.com/album/6JlrpC0BIdrgfAB9xLHsSk"
       },
@@ -8550,7 +8612,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"

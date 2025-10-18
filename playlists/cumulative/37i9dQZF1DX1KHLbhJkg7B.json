@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
+  "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
   "name": "Country Covers",
   "tracks": [
     {
@@ -426,6 +426,24 @@
       "duration_ms": 280219,
       "name": "Back in the High Life Again",
       "url": "https://open.spotify.com/track/1wfBLVzNoH2pQEeydZAs6N"
+    },
+    {
+      "album": {
+        "name": "Back To December",
+        "url": "https://open.spotify.com/album/0t3Y38BjjGdEcCBpmkyABi"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "Back To December",
+      "url": "https://open.spotify.com/track/58l6ct0U9XWKqo0mausn2x"
     },
     {
       "album": {
@@ -2553,6 +2571,24 @@
     },
     {
       "album": {
+        "name": "Graveyard Whistling",
+        "url": "https://open.spotify.com/album/7b3A1mZPmO9P7zHWAgr1U3"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244247,
+      "name": "Graveyard Whistling",
+      "url": "https://open.spotify.com/track/7kLC499Jj7W8kZUfvZsq5S"
+    },
+    {
+      "album": {
         "name": "The Continuum Project",
         "url": "https://open.spotify.com/album/7ljTrfut56dtqVFM3nDmyI"
       },
@@ -2780,7 +2816,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 174320,
       "name": "Heartbroken",
       "url": "https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn"
@@ -3210,7 +3246,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 301146,
       "name": "I Want to Know What Love Is",
       "url": "https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H"
@@ -4601,6 +4637,24 @@
     },
     {
       "album": {
+        "name": "Mama, I'm Coming Home",
+        "url": "https://open.spotify.com/album/34VR7v0VYnTqwT7bLHD94o"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236571,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/27hFnDcq32Q9wGx0W3bFUG"
+    },
+    {
+      "album": {
         "name": "Mammas Don\u2019t Let Your Babies Grow Up to Be Cowboys",
         "url": "https://open.spotify.com/album/0qqdReY9Phr0htx5Rn9F82"
       },
@@ -5046,7 +5100,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 494800,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw"

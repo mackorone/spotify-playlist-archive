@@ -4,7 +4,7 @@
 
 > Christmas favourites played on music box and glockenspiel.
 
-69 songs - 2 hr 14 min
+70 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,10 @@
 | [I'll Be Home for Christmas](https://open.spotify.com/track/6cJWmUIhwwEdirs6x3cKPD) | [Julius Greenwood](https://open.spotify.com/artist/5Ldm65Dqzi8HI3d7Vo5eUk) | [I'll Be Home for Christmas](https://open.spotify.com/album/5BwraBDCvBt9WK2dnyzCwE) | 1:23 | 2023-11-23 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/1jPcWVZX1y1tawLzX4d1i9) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Holiday Baby Sleepers](https://open.spotify.com/album/74S2e6dzjvQSeOCPecyCFv) | 2:33 | 2023-11-23 |  |
 | [In The Bleak Mid Winter](https://open.spotify.com/track/3woRZgDUOtApAwlro8BkwS) | [Beth McLaughlin](https://open.spotify.com/artist/4nTpgCVfCqU7ouzQeZw0rL) | [Holiday Sleepy Lullabies](https://open.spotify.com/album/7sa7XNBJBrvoXOsRVZiKmJ) | 2:20 | 2023-11-23 | 2025-09-05 |
-| [It's The Most Wonderful Time of the Year \- Music Box](https://open.spotify.com/track/6WT7Imrx1a17zFicfMtz3q) | [moon & you](https://open.spotify.com/artist/3IewOMkezNqsQbokz4DZHM) | [Wonderful Christmas](https://open.spotify.com/album/7HOl8eBaPuwQOf1tJxjyn0) | 1:32 | 2023-11-23 |  |
+| [It's the Most Wonderful Time of the Year \(Glockenspiel Version\)](https://open.spotify.com/track/2scJLpLSbgiLTFnxanpSRH) | [Javier Baptiste](https://open.spotify.com/artist/2uewMqHpV6mX6G7ERlp79O) | [It's the Most Wonderful Time of the Year \(Glockenspiel Version\)](https://open.spotify.com/album/6q5LfzOWamehjC0abmA5y7) | 1:56 | 2025-10-17 |  |
+| [It's The Most Wonderful Time of the Year \- Music Box](https://open.spotify.com/track/6WT7Imrx1a17zFicfMtz3q) | [moon & you](https://open.spotify.com/artist/3IewOMkezNqsQbokz4DZHM) | [Wonderful Christmas](https://open.spotify.com/album/7HOl8eBaPuwQOf1tJxjyn0) | 1:32 | 2023-11-23 | 2025-10-18 |
 | [It´s beginning to look a lot like Christmas](https://open.spotify.com/track/5Nitw8MMXJtjvRQkmMjA56) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [Christmas Sleepy](https://open.spotify.com/album/6Tbssj5uq9rQ5iSGXhgtdY) | 2:18 | 2023-11-23 | 2025-09-05 |
-| [It´s the most wonderful time of the year](https://open.spotify.com/track/3R3O2YJkeaSNU7igfbPtuz) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [Christmas Sleepy](https://open.spotify.com/album/6Tbssj5uq9rQ5iSGXhgtdY) | 2:16 | 2023-11-23 |  |
+| [It´s the most wonderful time of the year](https://open.spotify.com/track/3R3O2YJkeaSNU7igfbPtuz) | [Dean Stance](https://open.spotify.com/artist/05p69v44eqHGhc9ehcpoFC) | [Christmas Sleepy](https://open.spotify.com/album/6Tbssj5uq9rQ5iSGXhgtdY) | 2:16 | 2023-11-23 | 2025-10-18 |
 | [It’s the most wonderful time of the year](https://open.spotify.com/track/4zhWlna54iL8tl7GyT2zAH) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [It’s the most wonderful time of the year](https://open.spotify.com/album/3VQ8IbMJoeoyGrRbGu3Ese) | 2:12 | 2023-11-23 | 2025-09-05 |
 | [Jingle Bells](https://open.spotify.com/track/5pbGOkjvOCDt8JzWeslQzS) | [Fab Greenwich](https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg) | [Jingle Bells](https://open.spotify.com/album/0A6vd8mJpoVGcJhjqsApMG) | 2:27 | 2023-11-23 |  |
 | [Joy To The World](https://open.spotify.com/track/18NFzafFLPyjyf6iV3wf2X) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Christmas Night Lullabies](https://open.spotify.com/album/7IUk965uKYZGQiQjYHDGKe) | 1:14 | 2023-11-23 |  |

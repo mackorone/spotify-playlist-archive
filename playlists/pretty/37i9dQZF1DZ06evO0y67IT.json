@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9007,
+  "num_followers": 9006,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAA1o6Ritk9y+G9WdqsrNEAu",
+  "snapshot_id": "aPA1gAAAAABMOqFQRjc3comdfqHtYI1v",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Formats, Vol. 1",
-        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Frequencies",
         "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
@@ -642,15 +626,27 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "William Ryan Key",
-          "url": "https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE"
         }
       ],
-      "duration_ms": 156952,
-      "name": "Seafoam",
-      "url": "https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO"
+      "duration_ms": 222673,
+      "name": "Holy Coast",
+      "url": "https://open.spotify.com/track/0DEODVT0D0J1JU04ePb4KR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
     },
     {
       "added_at": null,
@@ -667,26 +663,6 @@
       "duration_ms": 163605,
       "name": "Hate",
       "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nine Reasons To Say Goodbye",
-        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
-      },
-      "artists": [
-        {
-          "name": "A Day In The Life",
-          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
-        },
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "The Girl That Destroyed Me",
-      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
     },
     {
       "added_at": null,
@@ -714,11 +690,15 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "William Ryan Key",
+          "url": "https://open.spotify.com/artist/17IbNmZJHYTZDh9iYKChKE"
         }
       ],
-      "duration_ms": 222673,
-      "name": "Holy Coast",
-      "url": "https://open.spotify.com/track/0DEODVT0D0J1JU04ePb4KR"
+      "duration_ms": 156952,
+      "name": "Seafoam",
+      "url": "https://open.spotify.com/track/6MAmisuvXgFBqKcienTZxO"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
       "duration_ms": 226826,
       "name": "The Business Of Paper Stars",
       "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nine Reasons To Say Goodbye",
+        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
+      },
+      "artists": [
+        {
+          "name": "A Day In The Life",
+          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
+        },
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "The Girl That Destroyed Me",
+      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucerne Valley",
-        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 207899,
-      "name": "Lucerne Valley",
-      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 289316,
       "name": "Bury My Bones at Crystal Cove",
       "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucerne Valley",
+        "url": "https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 207899,
+      "name": "Lucerne Valley",
+      "url": "https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF"
     },
     {
       "added_at": null,

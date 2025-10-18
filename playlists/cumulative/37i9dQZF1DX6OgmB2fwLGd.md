@@ -4,7 +4,7 @@
 
 > born on the internet\. ft\. 2hollis
 
-1,146 songs - 1 day 22 hr 24 min
+1,147 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [F.N.F \(Let's Go\) \- Remix](https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [F.N.F\. \(Let's Go\) \[Remix\]](https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh) | 4:07 | 2022-09-16 | 2022-10-22 |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-06 | 2022-09-17 |
 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 | 2022-10-21 | 2023-02-16 |
-| [Face to Face](https://open.spotify.com/track/4u3Aajaq6TYC9tElKr3p6C) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Face to Face](https://open.spotify.com/album/4TTBTNzNSNirHge7QCjhIl) | 1:36 | 2025-02-28 |  |
+| [Face to Face](https://open.spotify.com/track/4u3Aajaq6TYC9tElKr3p6C) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Face to Face](https://open.spotify.com/album/4TTBTNzNSNirHge7QCjhIl) | 1:36 | 2025-02-28 | 2025-10-18 |
 | [fafo](https://open.spotify.com/track/2R711v6UpsgYvDuzCJ1iSl) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [fafo](https://open.spotify.com/album/0Q7DWii4IDrNrz9l4F6GPl) | 2:39 | 2021-10-01 | 2022-08-27 |
 | [Fakish](https://open.spotify.com/track/0OVG5Up5tufqcbXRNyntq3) | [Jay Bezzy](https://open.spotify.com/artist/1GZUXd4w6cHTfoqHMrbMDZ), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Fakish](https://open.spotify.com/album/51LNAzyDGYQuBKNeTxM7sI) | 1:55 | 2024-03-27 | 2024-04-13 |
 | [Fall Dragon](https://open.spotify.com/track/0xoyOumQBDZC41QdURfglb) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [Fall Dragon](https://open.spotify.com/album/2xg986MAj2eacfdcKzTsRQ) | 1:53 | 2022-11-11 | 2022-11-16 |
@@ -353,6 +353,7 @@
 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 | 2021-11-27 | 2022-03-26 |
 | [FEAST \(Remix\)](https://open.spotify.com/track/2wiS5tnwJVkzwe3fo3WG7F) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [FEAST feat\. TiaCorine \(Remix\)](https://open.spotify.com/album/7keEE34WdMFUy8bcWNSYvi) | 2:14 | 2023-03-29 | 2023-06-03 |
 | [FED UP](https://open.spotify.com/track/0ZZgCLtt6QvRIKIWjeByaO) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FED UP](https://open.spotify.com/album/1wFO7GlDJCrVXWFO3tu64r) | 5:02 | 2023-04-28 | 2023-06-10 |
+| [Fidelio](https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fidelio](https://open.spotify.com/album/7pQWc2Fpk4E79bbwIk5DSN) | 2:34 | 2025-10-17 |  |
 | [FIGURE IT OUT](https://open.spotify.com/track/0RQDBCsED70Qfq1CdRvavd) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Stafford Beats](https://open.spotify.com/artist/4qqIES4SbIokB88LtwFGyr) | [FIGURE IT OUT](https://open.spotify.com/album/2BVEQwM4nRjkVEgEXu8C0L) | 2:30 | 2023-06-27 | 2023-10-07 |
 | [Figure It Out](https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Figure It Out](https://open.spotify.com/album/09heES0I3XMjwyxm1stQig) | 1:34 | 2024-04-03 | 2024-06-06 |
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-10 | 2022-01-22 |

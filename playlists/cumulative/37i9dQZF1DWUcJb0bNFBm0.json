@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "purity: the trinity",
+        "url": "https://open.spotify.com/album/1nHf3cMwwo9JNnRhXYkxO4"
+      },
+      "artists": [
+        {
+          "name": "sodistilled",
+          "url": "https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "23",
+      "url": "https://open.spotify.com/track/3AUPRFrSmsIl2APUiTf0nW"
+    },
+    {
+      "album": {
         "name": "3am",
         "url": "https://open.spotify.com/album/0CxaGou0ebafxSU63mwpIW"
       },
@@ -4690,24 +4708,6 @@
       "duration_ms": 251124,
       "name": "To You",
       "url": "https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "sodistilled",
-          "url": "https://open.spotify.com/artist/54S56FDCzOYP1EY3hb7wbW"
-        }
-      ],
-      "date_added": "2025-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3AUPRFrSmsIl2APUiTf0nW"
     },
     {
       "album": {

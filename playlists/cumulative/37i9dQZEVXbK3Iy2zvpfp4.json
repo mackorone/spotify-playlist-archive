@@ -6526,7 +6526,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 109105,
       "name": "BASS KNALLT",
       "url": "https://open.spotify.com/track/0XvLQcs4K0AsQTdodFgKIy"
@@ -11076,7 +11076,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -20004,6 +20004,24 @@
     {
       "album": {
         "name": "Fearful Thing",
+        "url": "https://open.spotify.com/album/4iNEMiPAdu3vjpKok86CgD"
+      },
+      "artists": [
+        {
+          "name": "The Soulful Gentlemen",
+          "url": "https://open.spotify.com/artist/3M6UgRvHTQPAjBZVYbDDzU"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227319,
+      "name": "Fearful Thing",
+      "url": "https://open.spotify.com/track/1kgZgssoMOPX4XJ7U140RT"
+    },
+    {
+      "album": {
+        "name": "Fearful Thing",
         "url": "https://open.spotify.com/album/5ECiz2tkGAU4xk79454v20"
       },
       "artists": [
@@ -20014,7 +20032,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 227319,
       "name": "Fearful Thing",
       "url": "https://open.spotify.com/track/7B5ZtKmunbnLz0G5e5EqKg"
@@ -38266,10 +38284,28 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 143466,
       "name": "Maui Wowie",
       "url": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Flew To The Moon (Vol. 1)",
+        "url": "https://open.spotify.com/album/4AOuaSsHC7Y0R7ovt98aEo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Maui Wowie",
+      "url": "https://open.spotify.com/track/7uJUDd92ZfawO5clVSY0dq"
     },
     {
       "album": {
@@ -46724,6 +46760,24 @@
       "duration_ms": 176013,
       "name": "OG",
       "url": "https://open.spotify.com/track/1pTVKN5nMaD0boOFSXPyR9"
+    },
+    {
+      "album": {
+        "name": "Foxy Shazam",
+        "url": "https://open.spotify.com/album/4dhCjrqhvcGuIAcP2JIVaR"
+      },
+      "artists": [
+        {
+          "name": "Foxy Shazam",
+          "url": "https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Oh Lord",
+      "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
     },
     {
       "album": {
@@ -63198,7 +63252,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 187653,
       "name": "Tempo za 2",
       "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
@@ -64312,7 +64366,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 195434,
       "name": "The Sick",
       "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
@@ -72702,7 +72756,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 133236,
       "name": "you broke my heart",
       "url": "https://open.spotify.com/track/1j1shw1drvJCIlOXEZY9BD"

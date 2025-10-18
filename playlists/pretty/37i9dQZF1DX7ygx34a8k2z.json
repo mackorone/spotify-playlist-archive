@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 295172,
+  "num_followers": 295286,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "When You Sleep",
-      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 318373,
       "name": "Autumn Sweater",
       "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Crooked Rain, Crooked Rain",
-        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Gold Soundz",
-      "url": "https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Goo",
         "url": "https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 328560,
       "name": "Dirty Boots",
       "url": "https://open.spotify.com/track/5X9c0LL84kJN8Ok2UC6B6w"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Crooked Rain, Crooked Rain",
+        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Gold Soundz",
+      "url": "https://open.spotify.com/track/3QVtDnXU5zqGWxWDFBMiDj"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "Rooney",
+        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Rooney",
+          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+      "duration_ms": 214120,
+      "name": "I'm Shakin'",
+      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1579,22 +1579,6 @@
       "duration_ms": 278653,
       "name": "Crush With Eyeliner - Remastered",
       "url": "https://open.spotify.com/track/3uQfQjvDBmGF4L4QzNlB9K"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Rooney",
-        "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
-      },
-      "artists": [
-        {
-          "name": "Rooney",
-          "url": "https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "I'm Shakin'",
-      "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1627,6 +1611,22 @@
       "duration_ms": 215293,
       "name": "You Know More Than I Know",
       "url": "https://open.spotify.com/track/5J7aILM0273RGHm7czdLxx"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     }
   ],
   "unique_name": "Thrifted",

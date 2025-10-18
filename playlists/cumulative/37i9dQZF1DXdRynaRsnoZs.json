@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Cradle In Bethlehem",
+        "url": "https://open.spotify.com/album/5F3IF90j2FZFnLebMC7vea"
+      },
+      "artists": [
+        {
+          "name": "Cassius Ember",
+          "url": "https://open.spotify.com/artist/7vvfs3GQVOOOiZE5WsNgWj"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160451,
+      "name": "A Cradle In Bethlehem",
+      "url": "https://open.spotify.com/track/2CvD2eaE1h85BBStEwNDZF"
+    },
+    {
+      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf"
       },
@@ -1502,6 +1520,24 @@
       "duration_ms": 148633,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/0qEzwA3gvpH9trp6tdkNdE"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Fox",
+          "url": "https://open.spotify.com/artist/7vOVw82Q1fc9PQEtQ1HIXh"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117448,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1CyiwCEiHfkMTSpDQKmc5n"
     },
     {
       "album": {

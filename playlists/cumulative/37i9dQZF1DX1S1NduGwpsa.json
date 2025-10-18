@@ -4675,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Everyday Superheroes",
+        "url": "https://open.spotify.com/album/0t29Q1FASaChkVGRq3C8QF"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300506,
+      "name": "Everyday Superheroes",
+      "url": "https://open.spotify.com/track/0Pzub2Ai5j1zAq2sF76e6K"
+    },
+    {
+      "album": {
         "name": "Everything\u2019s Not Lost",
         "url": "https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO"
       },
@@ -7622,6 +7640,24 @@
       "duration_ms": 365288,
       "name": "It's Okay",
       "url": "https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd"
+    },
+    {
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/74OROuWbzN8h9ZB3tCtLea"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268842,
+      "name": "It\u2019s Raining",
+      "url": "https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq"
     },
     {
       "album": {
@@ -15990,42 +16026,6 @@
       "duration_ms": 166124,
       "name": "Top Hat, White Tie and Tails - Live",
       "url": "https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "date_added": "2025-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "date_added": "2025-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/0Pzub2Ai5j1zAq2sF76e6K"
     },
     {
       "album": {

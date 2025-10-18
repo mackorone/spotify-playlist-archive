@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-482 songs - 1 day 2 hr 53 min
+483 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Pixelated \- Nicolaas Remix](https://open.spotify.com/track/0WVYZueJD5wlU8Rm8oUYY5) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5), [Nicolaas](https://open.spotify.com/artist/5IqWaBUBZviyaMlZ78ZmtI) | [Pixelated \(Nicolaas Remix\)](https://open.spotify.com/album/3iBlqw622KVRLiex8HPTEW) | 4:12 | 2021-08-27 | 2022-07-24 |
 | [PLEASE](https://open.spotify.com/track/11qXjbyIOWRFHaK4lOeZx2) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [PLEASE](https://open.spotify.com/album/0cXCXOxrVSz4u8AevBsGYz) | 4:25 | 2024-09-27 |  |
 | [Pocono Bay](https://open.spotify.com/track/6fRadAe1s2Znk4iPBKgQxv) | [Surfliner](https://open.spotify.com/artist/6cUFVnJuI30MsRmv0EVC4y) | [Toadstool Tropics](https://open.spotify.com/album/1IwN0TC7oYtmGybcTzwjyd) | 3:56 | 2021-04-23 | 2022-07-29 |
+| [Point n Shoot](https://open.spotify.com/track/6HIWIE3nd1T2q5SyOwtMLy) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Spin City](https://open.spotify.com/album/65RPv6CdrdiYutf1KhW6IT) | 3:17 | 2025-10-17 |  |
 | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Potion \(with Dua Lipa & Young Thug\)](https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc) | 3:34 | 2022-05-27 | 2023-04-01 |
 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 | 2022-04-08 | 2022-07-28 |
 | [Preach](https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Preach](https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW) | 3:28 | 2022-04-29 | 2022-11-20 |
@@ -481,7 +482,7 @@
 | [You](https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:05 | 2021-02-19 | 2022-10-01 |
 | [You](https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [You](https://open.spotify.com/album/7qBrrDS8inczS103oA3pln) | 3:05 | 2021-02-19 | 2022-07-29 |
 | [You and You \- Single Edit](https://open.spotify.com/track/1jEe3EaNbkGecUBHKMcReK) | [Michael Mayo](https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4) | [You and You \(Single Edit\)](https://open.spotify.com/album/7u9lcPoYgy2i6qfAH9ccEZ) | 4:34 | 2020-11-13 | 2022-03-22 |
-| [You Get What You See](https://open.spotify.com/track/3IYORoSPt8WZ2Yq07knCmo) | [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [Live at Daddy Macs](https://open.spotify.com/album/0sCDxS38a9BKeBEiQ3wTfk) | 2:35 | 2023-03-31 |  |
+| [You Get What You See](https://open.spotify.com/track/3IYORoSPt8WZ2Yq07knCmo) | [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [Live at Daddy Macs](https://open.spotify.com/album/0sCDxS38a9BKeBEiQ3wTfk) | 2:35 | 2023-03-31 | 2025-10-18 |
 | [You Got My Best](https://open.spotify.com/track/5nvcKHSJgMHXIfz6dKg418) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [You Got My Best](https://open.spotify.com/album/2esdWQ8nAK82DvziUNsssV) | 2:37 | 2024-01-26 |  |
 | [You Gotta Respect Yourself!](https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb) | [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [You Gotta Respect Yourself!](https://open.spotify.com/album/1iHoBVCieyC3vOQA6RZkvd) | 3:11 | 2022-04-22 | 2023-01-14 |
 | [You Might Like It](https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/7wC1PfvmudTT9ZzEih6bZ7) | 3:37 | 2023-03-31 |  |

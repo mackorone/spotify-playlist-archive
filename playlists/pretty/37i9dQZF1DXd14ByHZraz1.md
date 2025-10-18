@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Gui Boratto, House of EL
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,478 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,502 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Mahaba](https://open.spotify.com/track/76QYDYnFoaUBkkk4gei84D) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Mahaba](https://open.spotify.com/album/3XlArIGlspDya8mQlmYTAL) | 3:43 |
 | 50 | [Addicted \- Argy & Omnya Remix](https://open.spotify.com/track/4Y67RGQnwP30Puzh7aKMlD) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted \(Argy & Omnya Remix\)](https://open.spotify.com/album/4ybzfLamUp8HWp3F8YYnoJ) | 2:22 |
 
-Snapshot ID: `AAAAAO/JFZJMXPsTqiejs4iVYbLnlk0m`
+Snapshot ID: `AAAAAAazSyPLmw4rzz66jBMkd7y2+oTS`

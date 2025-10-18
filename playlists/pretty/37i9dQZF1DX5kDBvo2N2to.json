@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60397,
+  "num_followers": 60420,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
+        "name": "You You You",
+        "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 162113,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
         "name": "Waiting For A Star To Fall",
         "url": "https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 166003,
       "name": "Waiting For A Star To Fall",
       "url": "https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "You You You",
-        "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 162113,
-      "name": "You You You",
-      "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 261854,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
         "name": "500 kr",
         "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 163320,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "Cutting Ties",
-        "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 261854,
-      "name": "Cutting Ties",
-      "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
         "name": "Som i en dr\u00f6m",
         "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
       },
@@ -759,86 +759,6 @@
       "duration_ms": 140597,
       "name": "Nostalgi",
       "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "Han vill ha dig",
-        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
-      },
-      "artists": [
-        {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
-        }
-      ],
-      "duration_ms": 208845,
-      "name": "Han vill ha dig",
-      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 182051,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "MSN & Lunar",
-        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "MSN & Lunar",
-      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "Where It Hurts",
-        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
-      },
-      "artists": [
-        {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
-        }
-      ],
-      "duration_ms": 180632,
-      "name": "Where It Hurts",
-      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -859,6 +779,70 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
+        "name": "Han vill ha dig",
+        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
+      },
+      "artists": [
+        {
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+        }
+      ],
+      "duration_ms": 208845,
+      "name": "Han vill ha dig",
+      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "MSN & Lunar",
+        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "MSN & Lunar",
+      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 182051,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "Where It Hurts",
+        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
+      },
+      "artists": [
+        {
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+        }
+      ],
+      "duration_ms": 180632,
+      "name": "Where It Hurts",
+      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
         "name": "Ain\u2019t The Feeling",
         "url": "https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "Solros",
-        "url": "https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT"
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
       },
       "artists": [
         {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 161597,
-      "name": "Solros",
-      "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -903,6 +887,22 @@
       "duration_ms": 154340,
       "name": "Damned",
       "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "Solros",
+        "url": "https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 161597,
+      "name": "Solros",
+      "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "Dina fula skor",
-        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
-      },
-      "artists": [
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Dina fula skor",
-      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
         "name": "N\u00e5gon annan \u00e4n dig",
         "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 164869,
       "name": "N\u00e5gon annan \u00e4n dig",
       "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "Dina fula skor",
+        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Dina fula skor",
+      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -1119,38 +1119,6 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "Same Old Dirt",
-        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Same Old Dirt",
-      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/2KRSxzDsKG1TkJjAjzlHJm"
       },
@@ -1171,18 +1139,18 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
+        "name": "Same Old Dirt",
+        "url": "https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM"
       },
       "artists": [
         {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
         }
       ],
-      "duration_ms": 182133,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
+      "duration_ms": 186893,
+      "name": "Same Old Dirt",
+      "url": "https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -1203,18 +1171,34 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "Tappar det",
-        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
+        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
       },
       "artists": [
         {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
         }
       ],
-      "duration_ms": 155975,
-      "name": "Tappar det",
-      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
+      "duration_ms": 219642,
+      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 182133,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -1231,6 +1215,22 @@
       "duration_ms": 164089,
       "name": "Gatorna i Bor\u00e5s",
       "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "Tappar det",
+        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
+      },
+      "artists": [
+        {
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+        }
+      ],
+      "duration_ms": 155975,
+      "name": "Tappar det",
+      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
+        "name": "Tiderna i Solna",
+        "url": "https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu"
+      },
+      "artists": [
+        {
+          "name": "Joel Nordenberg",
+          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
+        }
+      ],
+      "duration_ms": 138913,
+      "name": "Tiderna i Solna",
+      "url": "https://open.spotify.com/track/0mJahyRnWWalqO1e0HERBj"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
         "name": "Lova & Skriv",
         "url": "https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 179145,
       "name": "Lova & Skriv",
       "url": "https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
-        "name": "Tiderna i Solna",
-        "url": "https://open.spotify.com/album/6rRfCs1pgXT33V8azO2jmu"
-      },
-      "artists": [
-        {
-          "name": "Joel Nordenberg",
-          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
-        }
-      ],
-      "duration_ms": 138913,
-      "name": "Tiderna i Solna",
-      "url": "https://open.spotify.com/track/0mJahyRnWWalqO1e0HERBj"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "Orbit",
-        "url": "https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm"
-      },
-      "artists": [
-        {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
-        }
-      ],
-      "duration_ms": 269924,
-      "name": "Orbit of You",
-      "url": "https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2"
-    },
-    {
-      "added_at": "2025-10-16 22:00:41",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2025-10-16 22:00:41",
       "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+        "name": "Orbit",
+        "url": "https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm"
       },
       "artists": [
         {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
         }
       ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+      "duration_ms": 269924,
+      "name": "Orbit of You",
+      "url": "https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2"
     },
     {
       "added_at": "2025-10-16 22:00:41",
@@ -1491,6 +1475,22 @@
       "duration_ms": 223201,
       "name": "Kransen",
       "url": "https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe"
+    },
+    {
+      "added_at": "2025-10-16 22:00:41",
+      "album": {
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
     }
   ],
   "unique_name": "p\u00e5 repeat",

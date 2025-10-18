@@ -4,23 +4,27 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,892 likes - 14 songs - 48 min 28 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,896 likes - 18 songs - 56 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Make You Love Me](https://open.spotify.com/track/571fXOOmqZ5gyQa2Ao8uJK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Make You Love Me](https://open.spotify.com/album/3mHrWuh4b64kOYxhjZ3l6v) | 4:24 |
-| 2 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 |
-| 3 | [promised future](https://open.spotify.com/track/7sKo8v1YR8gMNJGwtKqz4K) | [homepage](https://open.spotify.com/artist/0isAwSX2wSBTCoK3aS1iD0) | [promised future](https://open.spotify.com/album/4YLN8bhCScw7I5p0sNOLKn) | 3:05 |
-| 4 | [Norwegian Girl](https://open.spotify.com/track/0HS3by7bZmpF1xaRSKoVoX) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Norwegian Girl](https://open.spotify.com/album/2NpxKPrvpZjHfgcRjiIhpz) | 2:51 |
-| 5 | [Lotus](https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lotus](https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca) | 3:34 |
-| 6 | [Reunite](https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Reunite](https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB) | 3:56 |
-| 7 | [Stateside + Kylie Minogue](https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:48 |
-| 8 | [Tarmac](https://open.spotify.com/track/32huCokKPXpkhz38ZTibVs) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Tarmac](https://open.spotify.com/album/0e7c94lt6lbMDffB2LtfdU) | 3:10 |
-| 9 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
-| 10 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
-| 11 | [Medicine](https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Medicine](https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e) | 3:49 |
-| 12 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
-| 13 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 |
-| 14 | [Only One Laughing](https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Only One Laughing](https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw) | 4:09 |
+| 1 | [So Sad So Hot](https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [So Sad So Hot](https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA) | 2:51 |
+| 2 | [Artificial Angels](https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Artificial Angels](https://open.spotify.com/album/0a8hPV58tZZa45q26OUb8C) | 2:49 |
+| 3 | [Real Friends](https://open.spotify.com/track/6E2QO15Tw8t929l14uuxvB) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Real Friends](https://open.spotify.com/album/34qMKZvKORas4QxOCmjBRW) | 2:28 |
+| 4 | [Burn Burn](https://open.spotify.com/track/4GIiIHBckthRZQDwg4wNKO) | [Willa Ford](https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u) | [Burn Burn](https://open.spotify.com/album/5JTnqykKF9Z9WY0ChBUzTi) | 3:19 |
+| 5 | [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 |
+| 6 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
+| 7 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
+| 8 | [Boyband](https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Boyband](https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl) | 2:57 |
+| 9 | [X](https://open.spotify.com/track/6BBlYYRR4W2iaDqKJxOB1h) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [TEENAGE RAMBLE](https://open.spotify.com/album/3SZWTqmG06bLCSdGTSvPCw) | 3:19 |
+| 10 | [Short King](https://open.spotify.com/track/29Fam5ByZMf0lKBdEnNfnR) | [Alex Cameron](https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG) | [Short King](https://open.spotify.com/album/38AmHJBoynmntxzeoskVMg) | 3:47 |
+| 11 | [Sweat](https://open.spotify.com/track/4Qa8mbZYA24jNGI5vkjob5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/6ohsQsuvSYqgM6Enqx6dzv) | 3:02 |
+| 12 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
+| 13 | [ROLLERCOASTER](https://open.spotify.com/track/36EZOcL6YvDwunM69s2INu) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [ROLLERCOASTER](https://open.spotify.com/album/0gKrn81Pk24nRbPO1sQ6OZ) | 2:59 |
+| 14 | [Dead and Gone](https://open.spotify.com/track/0Y4EoSgrwZdCsnvnIVoy05) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Dead and Gone](https://open.spotify.com/album/0PsvW6rEIiXe2NUuXwEeSl) | 2:40 |
+| 15 | [Solen](https://open.spotify.com/track/6jltprtDfqnzQdUvP50bCp) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Solen](https://open.spotify.com/album/0b3KWCbwMwYDKc9RTkqGL0) | 3:35 |
+| 16 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:45 |
+| 17 | [Hot Like Sahara](https://open.spotify.com/track/5PprR3iwYeoXszUh8CLToL) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying](https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8) | 3:10 |
+| 18 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 |
 
-Snapshot ID: `AAALjRcIJRS9NWxv3slGHicUlfjM1rkg`
+Snapshot ID: `AAALkUHtELMswAxYEm5snXLyOvMCmvNq`

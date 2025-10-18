@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,028 songs - 1 day 16 hr 56 min
+2,029 songs - 1 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Dawn](https://open.spotify.com/track/0LShF4AH2Zesro1MDHWmy3) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Dawn](https://open.spotify.com/album/4Ql2uzbyE8fUadqpoPKgdO) | 1:00 | 2024-08-19 |  |
 | [Dawn](https://open.spotify.com/track/2HrjMZtzxnVMYjW6MUJnyJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:09 | 2022-01-12 | 2024-01-30 |
 | [Dawn Glow](https://open.spotify.com/track/4rlat72mFEQ2XMLWLyM6X8) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Unending](https://open.spotify.com/album/0kM59KRjGYra61RlIexAjK) | 1:00 | 2024-02-02 |  |
+| [Dawning](https://open.spotify.com/track/34HkXI9jhlv4z8iGufexqe) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Dawning](https://open.spotify.com/album/35ouYVLgMbsEMqqGxoY18H) | 1:00 | 2025-10-17 |  |
 | [Day Of Rest](https://open.spotify.com/track/0EsXTX1W8TtaDAirwZzI2D) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Day Of Rest](https://open.spotify.com/album/0Bq52Hff03UGr3xgVXWis5) | 1:00 | 2025-08-13 |  |
 | [Day Of Rest Arr\. For Cello](https://open.spotify.com/track/1twSqWIZbQtpjo63k0X4kB) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 |  |
 | [Day Of Rest Arr\. For Strings](https://open.spotify.com/track/0ZBMm1Wt1r4Ke0OK3yKW4L) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 | 2024-02-13 |

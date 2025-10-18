@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Millonario en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -2916,6 +2916,24 @@
       "duration_ms": 163031,
       "name": "AY MAM\u00c1",
       "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
+    },
+    {
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf"
+      },
+      "artists": [
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233545,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0"
     },
     {
       "album": {
@@ -10354,7 +10372,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 114124,
       "name": "Enhierbado",
       "url": "https://open.spotify.com/track/1WYJ7vr7z2QNjV2dPprnce"
@@ -11177,6 +11195,32 @@
     },
     {
       "album": {
+        "name": "Flashing Lights",
+        "url": "https://open.spotify.com/album/3zh3pDdopN6xrftjHi6SzB"
+      },
+      "artists": [
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        },
+        {
+          "name": "Jay Oc",
+          "url": "https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/7vTkeUEwAW5BiOOvwTwu8W"
+    },
+    {
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
       },
@@ -11210,6 +11254,24 @@
       "duration_ms": 136505,
       "name": "Flores",
       "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
+    },
+    {
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283370,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva"
     },
     {
       "album": {
@@ -13524,7 +13586,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 201506,
       "name": "La Blindada",
       "url": "https://open.spotify.com/track/20R5Q4VGBfDpsX51M6U0Jk"
@@ -14714,6 +14776,28 @@
       "duration_ms": 177813,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/6iNS7Co2kw6yhsioGKLMEP"
+    },
+    {
+      "album": {
+        "name": "la vuelta",
+        "url": "https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199846,
+      "name": "la vuelta",
+      "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
     },
     {
       "album": {
@@ -22940,7 +23024,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 145321,
       "name": "pRiiNcEza 100% OriiGiinaL",
       "url": "https://open.spotify.com/track/2zGUVoPpRrXwRzyhnjXgq0"
@@ -23738,7 +23822,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 212706,
       "name": "Qui\u00e9n Pensar\u00eda",
       "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
@@ -24036,7 +24120,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 155562,
       "name": "Ramo Buch\u00f3n",
       "url": "https://open.spotify.com/track/2ZnLqrPjiN6Y9MAdPgauLX"
@@ -29758,6 +29842,24 @@
       "duration_ms": 166246,
       "name": "VETE A LA FREGADA",
       "url": "https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN"
+    },
+    {
+      "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "album": {

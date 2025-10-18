@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Antti Autio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,233 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,241 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 4 | [Pilalla](https://open.spotify.com/track/3y09KCMOMnMs9boZV4vzBq) | [ellaella](https://open.spotify.com/artist/6sWhRPdyQDP5E9DluIxvCD) | [Pilalla](https://open.spotify.com/album/1KW0NMWVX3oimp0kQyt1yp) | 3:03 |
 | 5 | [Suoraa toimintaa](https://open.spotify.com/track/6xG9tt2UtDBnJhZvDzDdHQ) | [Viitasen Piia](https://open.spotify.com/artist/2WpScmc4G7o82KSp8grFer) | [Suoraa toimintaa](https://open.spotify.com/album/5p92bYWCduZK9HVuTeuB2W) | 4:14 |
 | 6 | [Linna](https://open.spotify.com/track/6QHjwgQ9c6qSU7UWScm3bW) | [Calico Kit](https://open.spotify.com/artist/3DH3EOp9AmzgOt9QWRpxIC) | [Linna](https://open.spotify.com/album/2M6M4XBPlLqTpvgOEvVyyV) | 3:10 |
-| 7 | [Track 2](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [](https://open.spotify.com/album/null) | 0:00 |
+| 7 | [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 |
 | 8 | [Banaani](https://open.spotify.com/track/5O0SsVNcG9reYbjV7zFUct) | [Julia Rautamaa](https://open.spotify.com/artist/1kAErRhMWVl7zBde4SSfZO) | [Banaani](https://open.spotify.com/album/6kNEj3km6tDwCI7XZZgVvs) | 3:13 |
 | 9 | [Sä tunsit mut](https://open.spotify.com/track/5QmRWEFgpmiZPUlzF2dcPb) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny) | [Sä tunsit mut](https://open.spotify.com/album/2Hk93WcCuT2LbZz6jijurB) | 6:51 |
 | 10 | [Juuri tässä hetkessä](https://open.spotify.com/track/3DzD8cQ5cK7nBtjZurb9dv) | [Pavlovin Kissa](https://open.spotify.com/artist/5PAllz0VJd0A7F5Fw5HIZz) | [Juuri tässä hetkessä](https://open.spotify.com/album/2QdQbJ0xF2G8qcAw1zPYCR) | 3:37 |

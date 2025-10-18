@@ -4,7 +4,7 @@
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-472 songs - 1 day 4 hr 54 min
+473 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bass.int](https://open.spotify.com/track/0Ko1ghxZLP7NuVWqgqgB4R) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/285CZ1A51XV5i3UDNV4W7l) | 1:37 | 2021-10-16 | 2022-07-29 |
 | [Bass.int](https://open.spotify.com/track/1BrPqq3B6WxfpB3c9HU15k) | [Daniel Aged](https://open.spotify.com/artist/4n48lhgTy7X3jjsPKc9ErH) | [Daniel Aged](https://open.spotify.com/album/2225T7QnBygl0yoM7dbNGD) | 1:37 | 2021-10-16 | 2024-04-07 |
 | [Bayybe 13](https://open.spotify.com/track/4kSpibv0JM0Xg157N1mDLj) | [Bilo 503](https://open.spotify.com/artist/5P43pTMUrFraN88EDGi6WA) | [Bayybe](https://open.spotify.com/album/1ZOEsnSfxHHni6DWJa2tuJ) | 1:30 | 2021-10-16 | 2022-07-25 |
+| [Bb\-Arp](https://open.spotify.com/track/4AmOG6OhTjokkGtOZqV5YS) | [Marius Nitzbon](https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210) | [Bb\-Arp](https://open.spotify.com/album/75YrXMcSLew1J2cmKhntlt) | 4:03 | 2025-10-09 |  |
 | [Beach Dreams](https://open.spotify.com/track/1ATjxfN3std5jroa3p7KYi) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [Beach Dreams](https://open.spotify.com/album/15E73VRNvQ3oKbD7KBdKe4) | 2:18 | 2022-11-18 | 2022-12-22 |
 | [Besides You](https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Oliver](https://open.spotify.com/album/1Zy4HydcCJHo5KstRHgiRG) | 1:20 | 2021-10-16 | 2022-07-27 |
 | [Best Friend](https://open.spotify.com/track/4w8VsxvzOYAPnjp2XyiAOW) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Best Friend / Right](https://open.spotify.com/album/7cRu4qxuNI2Iv8X7DID5wb) | 1:47 | 2022-04-23 | 2024-09-05 |
@@ -296,7 +297,7 @@
 | [Openness](https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Openness](https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc) | 3:19 | 2025-06-20 | 2025-08-18 |
 | [Oracle](https://open.spotify.com/track/4CSAKHKH4rT0C3AGg5SMfF) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Oracle](https://open.spotify.com/album/23zFZD3Zh8m2PGQCRi1WxA) | 2:49 | 2025-07-03 | 2025-07-25 |
 | [Oracle Night](https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Chillhop Essentials Summer 2018](https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM) | 2:30 | 2021-10-16 | 2024-04-19 |
-| [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 |  |
+| [Orbital](https://open.spotify.com/track/5IOaAcDTeliDDEa3QPGnAK) | [wood.](https://open.spotify.com/artist/2mPJCIWr1F4EPuHC4qSGJi) | [Orbital](https://open.spotify.com/album/0sIh9S4Thpd3H2BCbpaxq4) | 2:15 | 2022-01-07 | 2025-10-18 |
 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 | 2025-05-30 |  |
 | [Over Ocean Waves](https://open.spotify.com/track/6W7VUWThQ9N0UQKH0ooqwx) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Over Ocean Waves](https://open.spotify.com/album/6T2ubYn6HkoPJ3mVy3rLyR) | 4:10 | 2025-07-03 |  |
 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 | 2022-03-30 | 2025-04-20 |

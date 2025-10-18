@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116425,
+  "num_followers": 116441,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
+        "name": "Pickup truck",
+        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "Pickup truck",
+      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
         "name": "Jentekveld",
         "url": "https://open.spotify.com/album/6sQugPUwv6kMn83YM4Ooaz"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 138568,
       "name": "Jentekveld",
       "url": "https://open.spotify.com/track/3ULg1vFh05UW6TPSnsgGpy"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
-        "name": "Pickup truck",
-        "url": "https://open.spotify.com/album/2rz9Gjby7rlkDJk3ERaFqx"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "Pickup truck",
-      "url": "https://open.spotify.com/track/2fEdh5vSdab16mxuTHsnsg"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -283,30 +283,22 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Flesk og duppe",
-        "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
+        "name": "En d\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
         },
         {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        },
-        {
-          "name": "Rune Rudberg",
-          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
         }
       ],
-      "duration_ms": 206974,
-      "name": "Flesk og Duppe",
-      "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
+      "duration_ms": 157833,
+      "name": "En d\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -343,42 +335,30 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "En d\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
+        "name": "Flesk og duppe",
+        "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
       "artists": [
         {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        },
-        {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
-        }
-      ],
-      "duration_ms": 157833,
-      "name": "En d\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
-        "name": "Nachspiel",
-        "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
-      },
-      "artists": [
-        {
-          "name": "Swingklubben",
-          "url": "https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         },
         {
           "name": "Staysman",
           "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        },
+        {
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Nachspiel",
-      "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
+      "duration_ms": 206974,
+      "name": "Flesk og Duppe",
+      "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -403,6 +383,26 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
+        "name": "Nachspiel",
+        "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
+      },
+      "artists": [
+        {
+          "name": "Swingklubben",
+          "url": "https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Nachspiel",
+      "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "duration_ms": 193374,
+      "name": "Tr\u00f8bbel",
+      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
         "name": "Dum i haue",
         "url": "https://open.spotify.com/album/3OLp95GgOiPnnmiU0C5SFU"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 144808,
       "name": "Dum i haue",
       "url": "https://open.spotify.com/track/02V2PBxnk14EbrOaDmI0gU"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 193374,
-      "name": "Tr\u00f8bbel",
-      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -575,18 +575,18 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Silje Bakke",
+          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+      "duration_ms": 145645,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -607,26 +607,18 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -651,18 +643,26 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/79Psas2Jq5BRug1JdJjXBj"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
-          "name": "Silje Bakke",
-          "url": "https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 145645,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/1df1uSXhMSzNE29Ung8GEn"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
       "added_at": "2025-10-16 22:00:43",

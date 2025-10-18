@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZinRlf1AaJl.md) - [plain]
 
 > enjoy the SEVENTEEN WORLD TOUR  \[NEW\_\] LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 \[NEW\_\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,033 likes - 34 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,177 likes - 34 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZinRlf1AaJl.md) - [plain]
 | 33 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 | 34 | [NEW\_ Stage Ment 4](https://open.spotify.com/track/51pO7b0GJ47P1dafph87HD) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN WORLD TOUR \[NEW\_\]](https://open.spotify.com/album/3slhnTlvC5S8hFY3WOaWod) | 0:35 |
 
-Snapshot ID: `AAAAAChJDWIqICBtGqXN93XaCaXwnmBd`
+Snapshot ID: `AAAAADj8nZ7gt6AobiGCrL5ktTnxI1Hm`

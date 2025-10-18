@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With winterburn, After Cooking, Leblanc and more",
+  "description": "With winterburn, After Cooking, BIRRD and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 252399,
       "name": "20 Meters",
       "url": "https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -338,10 +338,28 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 287213,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
+    },
+    {
+      "album": {
+        "name": "Backwaters",
+        "url": "https://open.spotify.com/album/1Bwb4dmHuicTTS7vRIFRI9"
+      },
+      "artists": [
+        {
+          "name": "p\u00f8laroit",
+          "url": "https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284567,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6u8ZbdXJouSwRGhpFcSkHq"
     },
     {
       "album": {
@@ -414,7 +432,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 310942,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/5PrEsKS9zrbaP9Ok1vwTpX"
@@ -512,6 +530,24 @@
       "duration_ms": 183853,
       "name": "Brainstorm",
       "url": "https://open.spotify.com/track/5raWNsK4qXHNBAeTyyAzdF"
+    },
+    {
+      "album": {
+        "name": "Orchestra",
+        "url": "https://open.spotify.com/album/4js9rdHmcTlhM0BaAeQMKY"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413658,
+      "name": "By the Brook",
+      "url": "https://open.spotify.com/track/1CxkJzZB7IDqE5HtevW6JT"
     },
     {
       "album": {
@@ -802,7 +838,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 190525,
       "name": "Die Eisbraut - Leblanc Remix",
       "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 195585,
       "name": "i think i'm everything",
       "url": "https://open.spotify.com/track/1lXgcIT8pPEYpyWuPo6Hsr"
@@ -1417,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Heian",
+        "url": "https://open.spotify.com/album/4SqKEZuNlWXKh0muLXS1Al"
+      },
+      "artists": [
+        {
+          "name": "Makoto San",
+          "url": "https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325791,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4KDXL0KG6GZviMFMhosthB"
+    },
+    {
+      "album": {
         "name": "La Dibona",
         "url": "https://open.spotify.com/album/3r5LEiMFCNcGaZbDT2a5vl"
       },
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -1446,7 +1500,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 362449,
       "name": "Laminar",
       "url": "https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz"
@@ -1468,7 +1522,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -1504,7 +1558,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 131612,
       "name": "Lost in the Moment",
       "url": "https://open.spotify.com/track/4lelrqBlpDCeHAYBpr12LH"
@@ -1610,13 +1664,13 @@
       },
       "artists": [
         {
-          "name": "Birrd",
+          "name": "BIRRD",
           "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
         }
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 283453,
       "name": "Metropolis",
       "url": "https://open.spotify.com/track/5U1jtvuBkX5PdCWK5JdYt1"
@@ -1634,7 +1688,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 203779,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4UAxmiriWgNyu40rePrrsn"
@@ -1690,13 +1744,13 @@
       },
       "artists": [
         {
-          "name": "Birrd",
+          "name": "BIRRD",
           "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
         }
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 196632,
       "name": "Morgat",
       "url": "https://open.spotify.com/track/1wdycgsKqsYaBdqbOTRVTm"
@@ -1768,7 +1822,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 160350,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
@@ -1844,7 +1898,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -1902,6 +1956,28 @@
       "duration_ms": 142496,
       "name": "Ouverture",
       "url": "https://open.spotify.com/track/4IMSWBePRqcnYJSoDicxs1"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "DIM KELLY",
+          "url": "https://open.spotify.com/artist/60UEBuWoDQnIzdHid5xTkd"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297212,
+      "name": "Oze",
+      "url": "https://open.spotify.com/track/1C8JLFbJ59YxIqK6A5W6gI"
     },
     {
       "album": {
@@ -2042,7 +2118,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 281920,
       "name": "Prince Caster",
       "url": "https://open.spotify.com/track/6XxJfXxQAeyUOVl8Pg0gMY"
@@ -2280,7 +2356,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 140485,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn"
@@ -2370,7 +2446,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 282464,
       "name": "Space Race",
       "url": "https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY"
@@ -2572,7 +2648,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 412631,
       "name": "The White Duke",
       "url": "https://open.spotify.com/track/4LxPAOJOpHmBXxoUBjGkBT"
@@ -2648,7 +2724,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 198458,
       "name": "To the Other Side",
       "url": "https://open.spotify.com/track/0WQvuT8ShwwdwCAy86vjvA"
@@ -2684,7 +2760,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
@@ -2756,7 +2832,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
@@ -2934,13 +3010,13 @@
       },
       "artists": [
         {
-          "name": "Birrd",
+          "name": "BIRRD",
           "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
         }
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 245542,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"
@@ -3048,7 +3124,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 223125,
       "name": "you are not like the others",
       "url": "https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g"

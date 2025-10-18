@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-577 songs - 1 day 11 hr 27 min
+578 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Acid Base Reaction](https://open.spotify.com/track/1pA4Zl7rTjekmEdaMTjErv) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Acid Base Reaction](https://open.spotify.com/album/3JTtFu9a2sN1GkCIBWts64) | 3:27 | 2025-07-03 | 2025-07-25 |
 | [Act Bad](https://open.spotify.com/track/0ZZNZF3dZOtomDZiZLaMA7) | [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw) | [Maktub](https://open.spotify.com/album/0UOf5Q11t1MGQ0TA0yIbfh) | 4:47 | 2023-09-12 | 2023-09-30 |
 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 | 2023-04-18 | 2023-08-11 |
-| [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 | 2025-08-21 |  |
+| [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 | 2025-08-21 | 2025-10-18 |
 | [Alchemy](https://open.spotify.com/track/35x4IqiQaec3QfxnU7wKlX) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Alchemy](https://open.spotify.com/album/6jzc1zZLAC0viqCOMQmvm8) | 2:43 | 2023-06-30 | 2023-07-22 |
 | [All about you](https://open.spotify.com/track/1jRkIIqpKw9WGlxOExgL67) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [EntzugszKlinique](https://open.spotify.com/artist/2KfUKuzYq61DbEqQzGgHZN), [ScubaPro](https://open.spotify.com/artist/60pNbc1sAEJ8iNuArbgIFM) | [All about you](https://open.spotify.com/album/6b86qlj0FMqPaNZiwwc7Hu) | 2:34 | 2023-06-05 | 2023-06-29 |
 | [All Chaos Is Digital](https://open.spotify.com/track/0rYb3kKO4KHnrfGVXviVWa) | [Afem Syko](https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU) | [Another Place](https://open.spotify.com/album/0EiRypLZoQoR7FHEbq0dBU) | 4:06 | 2025-05-19 | 2025-05-23 |
@@ -459,6 +459,7 @@
 | [Side To Side](https://open.spotify.com/track/0bRzCl937W9PlTCknGfcW8) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Side To Side](https://open.spotify.com/album/6JVkZUMQ00zjGfZmSvZbsX) | 2:28 | 2025-06-05 | 2025-08-06 |
 | [Siente \(el Ritmo\)](https://open.spotify.com/track/34rWIUp98ZARnIgAba42fa) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/5gdkl33Qd9RL6ZMPQWUFEH) | 4:54 | 2025-05-13 | 2025-05-16 |
 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 | 2024-12-28 | 2025-04-12 |
+| [Silence](https://open.spotify.com/track/73fb8ruS8vEYXKVLvrEeWm) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Silence](https://open.spotify.com/album/3bYiL28JV1UpdyEt6s6f7z) | 2:33 | 2025-10-16 |  |
 | [Silence](https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Silence](https://open.spotify.com/album/0NWM2Hrpligv2VaMnVUX2Y) | 2:58 | 2023-11-10 | 2024-06-28 |
 | [SISTEM ERROR](https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV) | [GIØ](https://open.spotify.com/artist/1DTuf3cqItmyesR4lICN1M) | [SISTEM ERROR](https://open.spotify.com/album/7h0LRiVOmVQGLOTc9xntF1) | 4:02 | 2025-06-05 |  |
 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 | 2024-11-14 | 2025-06-16 |

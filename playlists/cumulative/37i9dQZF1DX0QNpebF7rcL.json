@@ -1485,6 +1485,28 @@
     },
     {
       "album": {
+        "name": "Chains And Things",
+        "url": "https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303773,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/2uK43c3VurRJmePMQKle84"
+    },
+    {
+      "album": {
         "name": "Have You Lost Your Mind yet?",
         "url": "https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy"
       },
@@ -2272,7 +2294,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 259000,
       "name": "Drive By The Exit Sign",
       "url": "https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH"
@@ -7321,6 +7343,36 @@
     },
     {
       "album": {
+        "name": "Dead Blues Volume 1",
+        "url": "https://open.spotify.com/album/1cI4baqsgmJxt3PrvuBy8n"
+      },
+      "artists": [
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        },
+        {
+          "name": "Datrian Johnson",
+          "url": "https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A"
+        },
+        {
+          "name": "Grahame Lesh",
+          "url": "https://open.spotify.com/artist/3rLtuKhmHrekck6q1sc9BB"
+        },
+        {
+          "name": "New Memphis Colorways",
+          "url": "https://open.spotify.com/artist/20VWFuTbgbJt9iUtn6AZ9A"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "Sitting on Top of the World",
+      "url": "https://open.spotify.com/track/4P491m2oV5kFjmuumdPgkU"
+    },
+    {
+      "album": {
         "name": "Sleeping Dogs Best Left Alone",
         "url": "https://open.spotify.com/album/3U9s5zYOPVSFuKpPo55iSN"
       },
@@ -9556,7 +9608,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 268426,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/4KbkajONKr97VZBv5Zi3Ux"

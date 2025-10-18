@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Panter B\u00e9lico",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Virl\u00e1n Garc\u00eda",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -2911,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "El Barbas",
+        "url": "https://open.spotify.com/album/2diDLsKLwwSllJreZ5teLk"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217834,
+      "name": "El Barbas",
+      "url": "https://open.spotify.com/track/4WjwH2By59jF7ND6XA9YZh"
+    },
+    {
+      "album": {
         "name": "El Belicon",
         "url": "https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94"
       },
@@ -2952,6 +2970,24 @@
       "duration_ms": 214397,
       "name": "El Belicon",
       "url": "https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N"
+    },
+    {
+      "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184512,
+      "name": "El Bitachero",
+      "url": "https://open.spotify.com/track/1TfgqRqRiuGWl1AjmefQvc"
     },
     {
       "album": {
@@ -4768,7 +4804,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 156053,
       "name": "El Trompas",
       "url": "https://open.spotify.com/track/2d0MPbOAVFsnln2FTMIFwc"
@@ -5342,7 +5378,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 190646,
       "name": "G.G.Z.N",
       "url": "https://open.spotify.com/track/42tN3cqcDvLeKs1eaD5Tay"
@@ -5922,7 +5958,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 144781,
       "name": "Internacional",
       "url": "https://open.spotify.com/track/6R4YoZP0G6Zxz5nnhzmZvj"
@@ -7986,6 +8022,24 @@
       "duration_ms": 202640,
       "name": "Mi Ap\u00e1 Es El De La M",
       "url": "https://open.spotify.com/track/7hzdMGOFclxcwewHmykdTm"
+    },
+    {
+      "album": {
+        "name": "Mi Entorno",
+        "url": "https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Mi Entorno",
+      "url": "https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y"
     },
     {
       "album": {

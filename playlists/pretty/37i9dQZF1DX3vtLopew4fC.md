@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Cœur de pirate
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,325 likes - 35 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,335 likes - 35 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 34 | [Nashville Now](https://open.spotify.com/track/3QTEG2yYoNpmTnCWtFGrcn) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Nashville Now](https://open.spotify.com/album/2t9zjuvUc6VjgJyjpCnWzu) | 4:35 |
 | 35 | [NEXT BIG THING](https://open.spotify.com/track/7iuAZJUinXf4Yhx1sxdEfr) | [Asia Holiday](https://open.spotify.com/artist/5xBAbOMf9YtcYm1VBZfrEI) | [Divine Timing, Vol\. 1](https://open.spotify.com/album/5PJhKPeTU9souTwogLAbJX) | 2:45 |
 
-Snapshot ID: `AAAAAFe7QCZZ6Nqd/zEIODxp81fLapQR`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

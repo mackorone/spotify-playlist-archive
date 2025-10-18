@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-627 songs - 1 day 19 hr 24 min
+628 songs - 1 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 | 2024-09-13 |  |
 | [Antigone \- Yotto Remix](https://open.spotify.com/track/3bRqVtAGCNBRSGupmykCjY) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Antigone \(Yotto Remix\)](https://open.spotify.com/album/3v6ghYAfBsyboRfxXXOFp8) | 4:02 | 2021-05-07 | 2022-07-29 |
 | [Apricus](https://open.spotify.com/track/6AWDF8tp10KFkTZE33VVC4) | [STANDERWICK](https://open.spotify.com/artist/6mLXfZ1OfXde8Iy9BfKoHE) | [Apricus](https://open.spotify.com/album/4DUrEKUrYClLVtMfDqiOiC) | 4:39 | 2021-05-07 | 2022-07-29 |
+| [Are You With Me](https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Are You With Me](https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400) | 3:03 | 2025-10-17 |  |
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 | 2023-05-30 |
 | [Ashes](https://open.spotify.com/track/2rqgrjE3T96UvvQ0MheJ8T) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Ashes](https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ) | 3:42 | 2021-05-07 | 2022-10-21 |
 | [Atlas \- Shall Ocin & Artbat Remix](https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M) | [Atlas \(Shall Ocin & Artbat Remix\)](https://open.spotify.com/album/2wonCAxmz7xKzCa5I5TlnA) | 6:20 | 2022-09-30 | 2023-02-12 |
@@ -145,7 +146,7 @@
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2024-04-19 | 2024-04-26 |
 | [Empyrean](https://open.spotify.com/track/5f768GZ884iQphBUZWmjum) | [Moa](https://open.spotify.com/artist/1lAfFBE10XKWun4CkIS9Jb), [Jackarta](https://open.spotify.com/artist/5kknK5Imix5mqqafSAxg7d) | [Empyrean](https://open.spotify.com/album/7G6kaqouj5KSHRRIGaPt0L) | 3:56 | 2021-05-07 | 2022-07-27 |
 | [Equinox \- Original Club Mix](https://open.spotify.com/track/5DmKG2iNXtwQqbwSzWMP80) | [Austin Leeds](https://open.spotify.com/artist/24Mc3zc0ogZux3BVi4m3ue), [2 Tall Keith](https://open.spotify.com/artist/5sLCjU2aNDT0BO0V1WXRq3) | [Equinox](https://open.spotify.com/album/2UsFDnZai26v8YvHg1TfI8) | 5:29 | 2021-05-07 | 2022-04-19 |
-| [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 | 2025-06-13 |  |
+| [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 | 2025-06-13 | 2025-10-18 |
 | [Escalus](https://open.spotify.com/track/2ySk8ecOEBzNckGLKA6TEZ) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Flicker/Escalus](https://open.spotify.com/album/5PLsKjBuudqrPDCaRKwkZP) | 4:15 | 2021-05-07 | 2022-07-18 |
 | [Essence](https://open.spotify.com/track/49z88QGI0xt7ikGTATMLut) | [Allende](https://open.spotify.com/artist/3EnKgv4XNOAoLkZaeV12H3) | [Essence](https://open.spotify.com/album/3OtAa2cO2MsgNbb928W0QK) | 7:28 | 2021-05-07 | 2022-04-20 |
 | [Ethera](https://open.spotify.com/track/0Ynou2LoIOmqRiyu4elKYX) | [Lost Prince](https://open.spotify.com/artist/23kzag3jmFxPLJbXO4g3VG) | [Ethera](https://open.spotify.com/album/3wyjgZ0wOfi6LebCJFvbZ9) | 3:33 | 2021-05-07 | 2022-07-08 |

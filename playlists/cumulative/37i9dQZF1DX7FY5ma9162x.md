@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: PARTYNEXTDOOR
 
-668 songs - 1 day 13 hr 12 min
+669 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,7 +474,7 @@
 | [Rain \(feat\. Swae Lee\)](https://open.spotify.com/track/1pZwFpiLKrSfNtXs6WQLlf) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:43 | 2022-03-11 | 2022-05-07 |
 | [Rambo \(Last Blood\) \(feat\. The Weeknd\)](https://open.spotify.com/track/62itulOgU4flQFuI7f7JF8) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [T R A P S O U L \(Deluxe\)](https://open.spotify.com/album/54B6i7KlSGD9fAzKQB7n89) | 3:48 | 2022-04-01 | 2022-04-19 |
 | [Ransom \(feat\. 6LACK & Kehlani\)](https://open.spotify.com/track/5dUCm0vB6nrNDDQzhvLjfU) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [While The World Was Burning](https://open.spotify.com/album/4XfpDWgCUoNF7LaOZxDgAz) | 3:23 | 2022-03-11 | 2022-04-02 |
-| [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-07-10 |  |
+| [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-07-10 | 2025-10-18 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2022-04-01 | 2022-07-28 |
 | [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 | 2022-12-29 | 2023-03-04 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-08-05 | 2022-11-16 |
@@ -615,6 +615,7 @@
 | [Undo](https://open.spotify.com/track/4imb1WyAH4mnE5o7kwW2R4) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Undo](https://open.spotify.com/album/6oDCienE2AdvV9izzrXs0A) | 3:28 | 2022-04-01 | 2022-04-19 |
 | [Undo \(Back To My Heart\)](https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 3:17 | 2022-04-01 | 2022-06-23 |
 | [Universe \(feat\. Kehlani\)](https://open.spotify.com/track/5waFNguEkggHt2R05RxNBp) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 3:40 | 2022-03-11 | 2022-07-29 |
+| [Untitled \(How Does It Feel\)](https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 7:10 | 2025-10-18 |  |
 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 | 2022-03-11 | 2023-01-06 |
 | [Use Somebody](https://open.spotify.com/track/1PRK8nwjcVenWC89YE70JN) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Amusing Her Feelings](https://open.spotify.com/album/1M0lODGuJBWpiSqlw43qWt) | 4:30 | 2022-03-11 | 2022-07-29 |
 | [Vacant](https://open.spotify.com/track/2dbSq5HLjmyyNoZ0jZmuQp) | [RAJAN](https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3) | [Vacant](https://open.spotify.com/album/6wZzRpvtkM9cOdz1cVw8jv) | 2:55 | 2022-04-01 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 60700,
+  "num_followers": 60708,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAADZ0eLDJmU26rPD9u7rHEmS",
+  "snapshot_id": "aPA1gAAAAABfLrKJ0sVoZhD1ShULPDuq",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viejas Recetas Remixes y Otras Rarezas",
         "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 183400,
       "name": "Los Genios de la Botella - Remix Gambeta",
       "url": "https://open.spotify.com/track/7kBckkrfCOkhmgiWkxxKiB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/23krijKfse53ocaki0SfA0"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15"
     },
     {
       "added_at": null,

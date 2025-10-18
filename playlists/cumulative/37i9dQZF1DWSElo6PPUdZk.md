@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-226 songs - 11 hr 31 min
+227 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Laagdaat](https://open.spotify.com/track/1EukMacxrj0ParRdjL387n) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Laagdaat](https://open.spotify.com/album/6rmfWuXRaENIdwC2gfY4mu) | 2:50 | 2025-10-08 |  |
 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 | 2023-03-18 | 2023-04-20 |
 | [LAAVAN](https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [LAAVAN](https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah) | 3:05 | 2024-12-11 | 2025-07-30 |
-| [Lak Hile Majajan Jandi Da](https://open.spotify.com/track/6yFnJlZ9gNk7TFJGxgFUnd) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Juss Musik](https://open.spotify.com/artist/0ORf1J39MnmYnM3Q8d6tCs), [Kay v Singh](https://open.spotify.com/artist/2KnNv9FWraSIxs0Sce2tdl) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4XTQCI5OwHvxgHdMelQ6kP) | 2:55 | 2025-09-25 |  |
+| [Lak Hile Majajan Jandi Da](https://open.spotify.com/track/6yFnJlZ9gNk7TFJGxgFUnd) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Juss Musik](https://open.spotify.com/artist/0ORf1J39MnmYnM3Q8d6tCs), [Kay v Singh](https://open.spotify.com/artist/2KnNv9FWraSIxs0Sce2tdl) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4XTQCI5OwHvxgHdMelQ6kP) | 2:55 | 2025-09-25 | 2025-10-18 |
 | [Lala Lala](https://open.spotify.com/track/02FQ4MmF9Q7us88QgTSQnJ) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Lala Lala](https://open.spotify.com/album/2i03NF2qSpfLiH5zeUEIW4) | 3:12 | 2023-12-11 | 2024-04-24 |
 | [Lala Lala](https://open.spotify.com/track/5a5xZ3iA2cB8vWEmHbC2kd) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Lala Lala](https://open.spotify.com/album/2TWuq3arHNQS8QeNVKWIaz) | 2:42 | 2025-09-01 |  |
 | [Lala Lala](https://open.spotify.com/track/0bpCU4vY6sf3WNNq88w7nT) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Lala Lala](https://open.spotify.com/album/1HNjofemPzIaYikUdusDJt) | 2:24 | 2025-09-30 |  |
@@ -226,6 +226,7 @@
 | [Vibe](https://open.spotify.com/track/1EzXThhZcdM0zuSS1aSvxx) | [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV) | [Vibe](https://open.spotify.com/album/55n0t6V6McXChgEA9nPlVn) | 2:05 | 2025-09-25 |  |
 | [What's The Matter](https://open.spotify.com/track/7dsKW3auwVIogDnKGfOJk6) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Mr Preet](https://open.spotify.com/artist/0SddWPvFd2czXSRu57Z4L8), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [What's The Matter](https://open.spotify.com/album/493YcDQvHlCHpzLjSYN8DK) | 2:17 | 2025-01-10 | 2025-04-30 |
 | [Who Was With You](https://open.spotify.com/track/58mJuJRqVeoDBBIk9HWCiz) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Who Was With You](https://open.spotify.com/album/2OtWaIyzG95Ljev1hyzwlz) | 2:45 | 2024-09-05 | 2025-02-15 |
+| [Winning](https://open.spotify.com/track/18ixfNtdcpUWWUQJfPf0jg) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Legal Robbery](https://open.spotify.com/album/1eyna4oK9epImEisREJYu9) | 2:47 | 2025-10-17 |  |
 | [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/track/3f63N35Q90RbKvbWOuK0UY) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/album/2BmYgLaefBdRQLoJy7oPFH) | 3:27 | 2025-09-17 | 2025-10-10 |
 | [Wrangler](https://open.spotify.com/track/22J4nmeDNKv8OlaFaqgfpr) | [Naaz Aulakh](https://open.spotify.com/artist/4IM8q4PhjHwrBOdITz0eRi) | [Wrangler](https://open.spotify.com/album/2HRm4krnpq1ZuZc9tInKya) | 2:33 | 2023-03-18 | 2023-10-10 |
 | [XL](https://open.spotify.com/track/7ALzEnfVJrEXMGS14vvqPj) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [XL](https://open.spotify.com/album/1oXRArIgbvBeZNtDuPkQ9A) | 4:18 | 2024-01-30 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-29 songs - 1 hr 34 min
+30 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Shivers](https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:27 | 2024-06-13 |  |
 | [Shivers \(feat\. FEDUK & SLAVA MARLOW\)](https://open.spotify.com/track/64MeGCH5YppnMj0iNyaXvY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [Shivers \(feat\. FEDUK & SLAVA MARLOW\)](https://open.spotify.com/album/6LRQlyFOrfJoUxJH1oE0kn) | 2:46 | 2024-06-13 |  |
 | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/track/1A3T3npKsrElQTjTEcr3LR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/album/7HRCvQbIY5cRkgCkSM0vO3) | 3:27 | 2024-06-13 |  |
-| [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-06-13 |  |
+| [Sweetest Revenge](https://open.spotify.com/track/5fA2TyUWaeeQwCYwUq6k1j) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/4cCzA3r6as0x6M3BK4daAv) | 2:29 | 2025-10-17 |  |
+| [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 | 2024-06-13 | 2025-10-18 |
 | [The Ocean](https://open.spotify.com/track/0El6tOnSI2n9KmMHOVpZYx) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [The Ocean](https://open.spotify.com/album/6sNiaWL3xqfSHk678l6v4w) | 2:42 | 2024-06-13 |  |
 | [Time Is Now](https://open.spotify.com/track/3Qvo8jqssKxu0f5EyP3IJF) | [Zdot](https://open.spotify.com/artist/3Vg8iAEbLFGTO3ZqPtlIsN), [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR), [Fem Fel](https://open.spotify.com/artist/61NJMGxlvjOHmWCuJn13sc) | [Project Z](https://open.spotify.com/album/477j0umdJe3x4fgst9dp17) | 3:28 | 2024-12-21 |  |
 | [Toxic](https://open.spotify.com/track/11VqkjKPzAFMoo4V4uk9Ys) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Toxic](https://open.spotify.com/album/6frJVs66js2iZrJB7DKz1V) | 2:45 | 2024-06-13 |  |

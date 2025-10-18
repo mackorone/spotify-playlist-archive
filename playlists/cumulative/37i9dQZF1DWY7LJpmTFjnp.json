@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Natalia Lafourcade en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Meme del Real en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -278,6 +278,32 @@
       "duration_ms": 241626,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "album": {
+        "name": "Amnesia (Sonando desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/0nfqLCU16qRABtkIPWZoOY"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "Amnesia - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/78X18gL8xZrvgIXOt9A2eh"
     },
     {
       "album": {
@@ -710,7 +736,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 201333,
       "name": "Chale",
       "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
@@ -750,7 +776,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 238830,
       "name": "Chubaca Tiene Un Secreto",
       "url": "https://open.spotify.com/track/3JuDbZIk7XPCo9hgXQCYbs"
@@ -1446,7 +1472,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 269149,
       "name": "El Negro",
       "url": "https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN"
@@ -2585,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/3Qljw6pn2N8Fhn7erW5Ppk"
+      },
+      "artists": [
+        {
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245128,
+      "name": "Invencibles",
+      "url": "https://open.spotify.com/track/40xJUJrqsFacqj2OGBtW2g"
+    },
+    {
+      "album": {
         "name": "Jam\u00e1s",
         "url": "https://open.spotify.com/album/2fhb5Jrtb7XRSqEvc1kzyH"
       },
@@ -3154,7 +3198,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 185164,
       "name": "Libertad (feat. Agarrate Catalina)",
       "url": "https://open.spotify.com/track/5A9fzn8rulEVx1M9vls39c"
@@ -3626,6 +3670,24 @@
       "duration_ms": 202328,
       "name": "Mi vida sin tu vida",
       "url": "https://open.spotify.com/track/3juCArYNEUHsMNRDlRZL2s"
+    },
+    {
+      "album": {
+        "name": "La Monta\u00f1a Encendida",
+        "url": "https://open.spotify.com/album/2Oxeck4t2zZEyO6CswtxKS"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211567,
+      "name": "Mira",
+      "url": "https://open.spotify.com/track/5kJTUOD787zyo9RRbqfugD"
     },
     {
       "album": {
@@ -4143,6 +4205,28 @@
     },
     {
       "album": {
+        "name": "Nunca Quise Irme",
+        "url": "https://open.spotify.com/album/0Xut58PnY49fWYwiuA5XU0"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "Nunca Quise Irme",
+      "url": "https://open.spotify.com/track/3Y0yXYmL1WJvswbvXmE1vv"
+    },
+    {
+      "album": {
         "name": "Nunca Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/0EMk9mGZdgAUenybhP0bc3"
       },
@@ -4216,7 +4300,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
@@ -6228,6 +6312,24 @@
       "duration_ms": 289000,
       "name": "Un Amor Violento",
       "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
+    },
+    {
+      "album": {
+        "name": "Unidad y Movimiento",
+        "url": "https://open.spotify.com/album/00HVYMnMR4wOeW2q7qcoxB"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Unidad y Movimiento",
+      "url": "https://open.spotify.com/track/7j86mErJ38bHz57shaf6Yr"
     },
     {
       "album": {

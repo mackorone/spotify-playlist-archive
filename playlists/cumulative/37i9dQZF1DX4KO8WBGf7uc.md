@@ -4,7 +4,7 @@
 
 > Lo que suena en la noche.
 
-197 songs - 12 hr 21 min
+198 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Hecha Pa' Mi](https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 3:06 | 2021-11-12 |  |
 | [Hola](https://open.spotify.com/track/65wLNgku2IZUjKjc2MNGjX) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Climaxxx](https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp) | 3:45 | 2021-11-12 | 2022-07-29 |
 | [Hola \- Remix](https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Hola \(Remix\)](https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ) | 4:09 | 2021-11-12 |  |
+| [hott](https://open.spotify.com/track/2bveQ1Uw2uBX5oQdbAkrXP) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Trip 2](https://open.spotify.com/album/7DkEdrof8yEWH1ofkLHWDT) | 2:11 | 2025-10-17 |  |
 | [Hoy Se Bebe](https://open.spotify.com/track/2C7EbMAq4nzEIzlPxS0EkU) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Hoy Se Bebe](https://open.spotify.com/album/7cV25QqnOwnT0BFwGHk8ib) | 3:19 | 2021-11-12 | 2022-07-14 |
 | [Ignorantes](https://open.spotify.com/track/38RIEav39FGi86jppxO0du) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:30 | 2021-11-12 | 2022-07-28 |
 | [Imagínate](https://open.spotify.com/track/0a41S6Hf3njfUbQTZyxWDq) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Imagínate](https://open.spotify.com/album/6SvaUC7HWHLhNndUbiwUv3) | 5:17 | 2022-03-03 | 2022-07-16 |
@@ -104,7 +105,7 @@
 | [La Santa](https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:26 | 2021-11-12 |  |
 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 | 2021-11-12 |  |
 | [LOGI](https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LOGI](https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA) | 3:54 | 2021-11-12 | 2022-07-22 |
-| [Los Valles](https://open.spotify.com/track/5gLgT6vXHNEO5PwPKesnGu) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D) | [Los Valles](https://open.spotify.com/album/1NONMqgGZkqv1LLJ65RzCE) | 2:14 | 2025-07-11 |  |
+| [Los Valles](https://open.spotify.com/track/5gLgT6vXHNEO5PwPKesnGu) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D) | [Los Valles](https://open.spotify.com/album/1NONMqgGZkqv1LLJ65RzCE) | 2:14 | 2025-07-11 | 2025-10-18 |
 | [Lucete](https://open.spotify.com/track/5yx43rnqectCMLHDdNgyyB) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Nueva Ola](https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt) | 3:10 | 2021-11-12 | 2022-07-27 |
 | [Luz Apaga](https://open.spotify.com/track/5Q3e16qE1RE5oilN3ukasm) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Luz Apaga](https://open.spotify.com/album/4Xk6SrGHC6vSevAkyTZiLh) | 4:05 | 2021-11-12 | 2025-07-11 |
 | [Madura](https://open.spotify.com/track/5n2XTRsYFlZwNBp06KAjDX) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Madura](https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t) | 3:10 | 2022-06-30 | 2024-04-19 |

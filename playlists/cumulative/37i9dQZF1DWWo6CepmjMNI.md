@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: JOYE
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: pOd
 
-270 songs - 19 hr 24 min
+273 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,12 +122,14 @@
 | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/track/1LJiWvhU9PikSG5vUo5Vow) | [WWJ](https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H) | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/album/3yBXxrmy6lqK9IuBpIYoGg) | 4:14 | 2025-01-16 |  |
 | [ทุกครั้งที่สบตา](https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey) | [BitterSweet](https://open.spotify.com/artist/01rltm3r7dWeRlV79wmaWG) | [ทุกครั้งที่สบตา](https://open.spotify.com/album/2yhWcMFw7i2KlVNVQu25ua) | 4:04 | 2024-06-21 | 2024-09-14 |
 | [ทุกช่วงเวลาสำคัญ \(We Both Left a Hint\)](https://open.spotify.com/track/0KKHjskHNeqDCJ1uB8eNsw) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [ทุกช่วงเวลาสำคัญ \(We Both Left a Hint\)](https://open.spotify.com/album/2vuD7aZA4clhtt39bCoOtb) | 3:50 | 2025-04-04 | 2025-05-03 |
+| [นั่งโง่ๆ](https://open.spotify.com/track/6KRDKL2T6rZWzKbwMrzr5o) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [นั่งโง่ๆ](https://open.spotify.com/album/51UvmkfQ4Y8XZqS9nOJ3aV) | 4:04 | 2025-10-17 |  |
 | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/track/1IF3bh0aBRWlDnmRl5j0QQ) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/album/0HVjrqXzvmAziz7OCo5HlZ) | 3:35 | 2024-06-21 | 2025-04-12 |
 | [นายโอเคมั๊ย?](https://open.spotify.com/track/3axsUzgguRlowEKveAOskq) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [นายโอเคมั๊ย?](https://open.spotify.com/album/2AsXWp3dfEK7DnSHJRcaGr) | 3:53 | 2024-11-22 | 2025-03-01 |
 | [นาฬิกา \(You\)](https://open.spotify.com/track/6iapHtrPAWltKD3OodCTJD) | [OFFICESYNDROME](https://open.spotify.com/artist/1tqOY4TeYRU7LY8cdIg4IH) | [นาฬิกา \(You\)](https://open.spotify.com/album/7sQwDrsfYW2I15KdCDSIhC) | 4:13 | 2025-04-25 | 2025-05-03 |
 | [นิทรา](https://open.spotify.com/track/20NQZ3GkiwP5XFPT0GTU10) | [Chameen](https://open.spotify.com/artist/3ADNeGjopyldLHgA7D2zRv) | [นิทรา](https://open.spotify.com/album/4Red8Au1DIlsnLt3Y40dee) | 3:47 | 2024-11-28 | 2024-12-27 |
 | [นิรันดร์กาล](https://open.spotify.com/track/4LBfWEp5d7JNMnGzYCGEm0) | [Bluedream](https://open.spotify.com/artist/0KFHTUubhWrWJ3IBGyQ6vS) | [นิรันดร์กาล](https://open.spotify.com/album/7mmFwpTwcpkhtal3LBkrIH) | 6:26 | 2025-05-09 | 2025-05-31 |
 | [น้อยใจ](https://open.spotify.com/track/7nfMUT7vKPE6DeQZAU91Pk) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [น้อยใจ](https://open.spotify.com/album/1boJRDPJYl5rBJLN4UbEvC) | 4:31 | 2024-11-28 | 2024-12-14 |
+| [บทสุดท้ายของความสัมพันธ์](https://open.spotify.com/track/19EFnFl7wJcgnKsqozQiwC) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [บทสุดท้ายของความสัมพันธ์](https://open.spotify.com/album/5r8nmV7MdCUPwOsnNstGnQ) | 5:27 | 2025-10-17 |  |
 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 | 2025-03-28 |  |
 | [บอกรักกี่ครั้งสุดท้ายก็ต้องบอกลา \(Say goodbye\)](https://open.spotify.com/track/0VanMdIM2kM9ihw1EscYXp) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [UN HAPPY](https://open.spotify.com/album/19Xfe7q8Ax6JE8EfWIBx1A) | 5:18 | 2024-12-26 | 2025-02-15 |
 | [บอกลา \(So Long\)](https://open.spotify.com/track/7lD3wBoLA1tyMUNIlBfR8G) | [The River&Bridge](https://open.spotify.com/artist/5URHv3dJzBJdnGjkodcaR3) | [บอกลา \(So Long\)](https://open.spotify.com/album/4AH4Rrsv3XofQrdjzoD7Lk) | 3:49 | 2024-10-11 | 2024-11-02 |
@@ -204,14 +206,14 @@
 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 | 2024-06-21 | 2025-03-29 |
 | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 | 2024-08-16 | 2025-02-22 |
 | [หาย \(Disconnect\)](https://open.spotify.com/track/0Gd5NAjYf85OU9FfSfFbhK) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [หาย \(Disconnect\)](https://open.spotify.com/album/0Cf6AY1Bjz8DlfdHNs90Uk) | 3:05 | 2024-10-25 | 2024-11-09 |
-| [ห่าง \(Aloof\)](https://open.spotify.com/track/3acoUHcihLubnQzclzNXlb) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ห่าง \(Aloof\)](https://open.spotify.com/album/1SWDtRDueKEWt0o1eEd3ZE) | 4:51 | 2025-09-19 |  |
+| [ห่าง \(Aloof\)](https://open.spotify.com/track/3acoUHcihLubnQzclzNXlb) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [ห่าง \(Aloof\)](https://open.spotify.com/album/1SWDtRDueKEWt0o1eEd3ZE) | 4:51 | 2025-09-19 | 2025-10-18 |
 | [ห้วง \(Depart\)](https://open.spotify.com/track/0uCuCHHmgj5nuD1nib1ziy) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [ห้วง \(Depart\)](https://open.spotify.com/album/3XHVea4GovA5X7vWQZ1nKZ) | 5:08 | 2025-02-28 | 2025-03-29 |
 | [อนันตกาล](https://open.spotify.com/track/1Q8mMXizYlIL3uE3klZPkT) | [Plastic Cavern](https://open.spotify.com/artist/6tpZMDoMCapU7JEefVtyAR) | [อนันตกาล](https://open.spotify.com/album/1BaTNj2bow0sTC8Tpajz0u) | 4:54 | 2024-06-21 | 2025-08-16 |
 | [อยากมองฟ้าให้นานกว่านี้](https://open.spotify.com/track/79u4V2ozJKklrg62LxTJsJ) | [Seventh of July](https://open.spotify.com/artist/39s4v4cZONDOY857utzRT3) | [อยากมองฟ้าให้นานกว่านี้](https://open.spotify.com/album/5mxA0aqAKRAeK6gi3oSlbH) | 4:28 | 2024-08-30 | 2024-09-14 |
 | [อยากเป็นเพลงแรกที่เธอเปิดฟังตอนขับรถ](https://open.spotify.com/track/6NPVN6xKA0bYesrxJ7phxr) | [fluffypak](https://open.spotify.com/artist/3plsvhYJrLQJrpwwwPWMkT) | [อยากเป็นเพลงแรกที่เธอเปิดฟังตอนขับรถ](https://open.spotify.com/album/1ehNORoH145WST0EmE1VgU) | 3:05 | 2025-05-30 | 2025-06-14 |
 | [อยู่เป็นเพื่อนเธอ](https://open.spotify.com/track/42XqliIA3xVAcXEt3tVI3t) | [SOBBOY](https://open.spotify.com/artist/2GUEPge6Xp2rqQgsfKhbkj) | [5050](https://open.spotify.com/album/67r5Gqjsvn5kcRr9eZdsWm) | 4:13 | 2024-11-28 | 2024-12-14 |
 | [อย่าร้องเลย](https://open.spotify.com/track/0fgpLbhZS4laKy1G4SKE62) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [อย่าร้องเลย](https://open.spotify.com/album/5meRjI3k71vfWs5RlGnGBi) | 4:08 | 2025-01-24 | 2025-02-22 |
-| [ออกไปข้างนอก \( Outside \)](https://open.spotify.com/track/3guOZcrv1AVJhFMGrSSSgH) | [Silent room.](https://open.spotify.com/artist/42T2N42gPwTw0PtrIxkf2I) | [ออกไปข้างนอก \( Outside \)](https://open.spotify.com/album/7lfKbes0vA8Ms8nn5ZVLaA) | 4:14 | 2025-10-10 |  |
+| [ออกไปข้างนอก \( Outside \)](https://open.spotify.com/track/3guOZcrv1AVJhFMGrSSSgH) | [Silent room.](https://open.spotify.com/artist/42T2N42gPwTw0PtrIxkf2I) | [ออกไปข้างนอก \( Outside \)](https://open.spotify.com/album/7lfKbes0vA8Ms8nn5ZVLaA) | 4:14 | 2025-10-10 | 2025-10-18 |
 | [อัลไซเมอร์](https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [อัลไซเมอร์](https://open.spotify.com/album/2V06K7AqhOftvipGFg0KHF) | 4:39 | 2024-06-21 | 2024-08-03 |
 | [อ๊ะเปล่า](https://open.spotify.com/track/4dqOTB1UpK2813eNy7sxLy) | [UNREAL](https://open.spotify.com/artist/2p5tOA5WDDzl5gZRpsW1zr) | [อ๊ะเปล่า](https://open.spotify.com/album/3pm0bQF7IoZ30O6HdHd9BJ) | 5:05 | 2025-04-25 | 2025-05-03 |
 | [ฮึบฮึบ!](https://open.spotify.com/track/6RFtfODeGPDVPEHeHj8LcH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [ฮึบฮึบ!](https://open.spotify.com/album/6MDNm7lva8f1htdVSd4znC) | 3:00 | 2025-05-30 | 2025-06-14 |
@@ -221,7 +223,7 @@
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 |  |
 | [เจ็บเจียนตาย](https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l) | [เจ็บเจียนตาย](https://open.spotify.com/album/5bMYyPH1NNjjIndYf1xL7r) | 4:10 | 2024-10-18 | 2025-09-13 |
 | [เตียงสีขาว \(ROM\)](https://open.spotify.com/track/4W3wTU3qXwR9BdTqMZacXB) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เตียงสีขาว \(ROM\)](https://open.spotify.com/album/6yBvzGc1gAp5ytTORtcjua) | 5:33 | 2025-06-20 |  |
-| [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 | 2025-06-06 |  |
+| [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 | 2025-06-06 | 2025-10-18 |
 | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO) | 5:45 | 2024-06-28 | 2024-08-03 |
 | [เธอมองนาฬิกา](https://open.spotify.com/track/2giiZU3ufvysvV6Pltqkv8) | [macaw and the flowers](https://open.spotify.com/artist/3u8LeIuojQOVvjSAVBKmci) | [เธอมองนาฬิกา](https://open.spotify.com/album/1YqHbNnhb02QHuv6T0Nr8W) | 3:43 | 2024-09-27 | 2024-10-19 |
 | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/track/6w3W8uAQX2zCjJjUpMDSmn) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เธอรักฉัน? \(Fond\)](https://open.spotify.com/album/3cMxfyCj5VBpfpKA2utPzO) | 4:44 | 2025-07-18 | 2025-08-01 |
@@ -234,6 +236,7 @@
 | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/track/3qzJc8mkixrse59KqX4t8X) | [MANASSAVEE](https://open.spotify.com/artist/7oXUJG49XQHHix0Awcq293) | [เพียงนึกถึงช่วงเวลา \(TLINLA\)](https://open.spotify.com/album/2RLygclvx8ooOm6w0hJVlC) | 4:44 | 2024-06-21 | 2024-08-24 |
 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 | 2024-10-18 |  |
 | [เพียงอยากขอ](https://open.spotify.com/track/6VnYs6uSFxyHF5Pt8FIwSe) | [Laika](https://open.spotify.com/artist/3vHLiSEszIgPRLxivAPHO9) | [เพียงอยากขอ](https://open.spotify.com/album/7udF2bEMlmbpi9ufEiDneK) | 4:47 | 2024-06-21 | 2024-07-20 |
+| [เพียงอีกวัน \(Breath\)](https://open.spotify.com/track/18GaK3YkcibAY6cHPJQNKF) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/album/62a3Nlpi50Ri3ZqN3nOiOt) | 3:55 | 2025-10-17 |  |
 | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/track/1OjZuGbeXKh7fvJ4uPlNCg) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [เพียงแค่อยากรู้ \(Why\)](https://open.spotify.com/album/6IKE7q1kWDWgWSK3hSolqb) | 3:53 | 2025-04-11 | 2025-05-10 |
 | [เมืองจำลอง](https://open.spotify.com/track/7o7rEL7DbXYcYNOqn28agS) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [เมืองจำลอง](https://open.spotify.com/album/4TuRZs92az7w4wmdkIV2kJ) | 3:38 | 2025-03-21 | 2025-03-29 |
 | [เมื่อมันสายไป](https://open.spotify.com/track/3SAoSkEcPRmtgCtTxyTHPe) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [เมื่อมันสายไป](https://open.spotify.com/album/0JQW5yBGPcS8PGcv7viPmd) | 4:56 | 2024-06-21 | 2024-07-27 |

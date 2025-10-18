@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Aimi Kobayashi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,300 likes - 200 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,387 likes - 200 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 199 | [Rossini: Guillaume Tell: Overture \(Finale\)](https://open.spotify.com/track/3j01GIGm0LYSzbO7X0NfYM) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Philip Ellis](https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S) | [Last Night of the Proms](https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE) | 3:31 |
 | 200 | [Carnival of the Animals, R\. 125: Aquarium](https://open.spotify.com/track/0Ey7pzfnHQG3frp7dSOnLO) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Philippe Entremont](https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO), [Gaby Casadesus](https://open.spotify.com/artist/5NfGdfTxSNHjKdwjNKwh5c), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Michel Cerruti](https://open.spotify.com/artist/7puiOCeFYpMdIO5cUTqel4), [Michel Cals](https://open.spotify.com/artist/6E5G7eJCYCsQN36sDSjdll), [Régis Pasquier](https://open.spotify.com/artist/7ybPyq9h00gaw6h1SiM68J), [Yan Pascal Tortelier](https://open.spotify.com/artist/64Ne9xbQUL91scDAPm7I7k), [Gabin Lauridon](https://open.spotify.com/artist/5JUDhZD8ZDtTy9WJf1lIP4), [Gerard Causse](https://open.spotify.com/artist/4SAvNPi9ZCmNx27gp4HSS5), [Alain Marion](https://open.spotify.com/artist/1C1yQHT65lgkvYmp06jMhI), [Michel Arrignon](https://open.spotify.com/artist/6HGGduRrxEK7MdCfKgPdyT) | [Saint\-Saëns: Organ Symphony; Bacchanale; Danse Macabre; Carnaval des Animaux](https://open.spotify.com/album/1oPhXu7xxOHkR6GahZs2To) | 2:01 |
 
-Snapshot ID: `AAAAAJtR0KVGgp1M8yYYfjkix/XifSe9`
+Snapshot ID: `AAAAACKQVriCzNqj59H4/rZSGWc49wp6`

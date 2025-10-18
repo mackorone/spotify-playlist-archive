@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Denny Caknan, NDX A.K.A.
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Esa Risty
 
-536 songs - 1 day 20 hr 52 min
+538 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Mulyomu Mulyoku](https://open.spotify.com/track/2YuyuyKmfgtnK5GqZSJntw) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy) | [Mulyomu Mulyoku](https://open.spotify.com/album/48Lw2KHfTibGKGFoCdRhdA) | 2:50 | 2023-05-05 | 2023-08-11 |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2022-05-26 | 2023-08-11 |
 | [Nawi Tah Oleh](https://open.spotify.com/track/21dyjYIPyYIliaDMj8vOP3) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Nawi Tah Oleh](https://open.spotify.com/album/48T3cvn7gvn4CoIk88hngW) | 5:05 | 2025-01-10 | 2025-03-21 |
+| [Nduweni](https://open.spotify.com/track/0pEqcaVfMePZOEFwr9tzkh) | [Sweety Days](https://open.spotify.com/artist/0DWw4lIlzU2TQTedyDU5M4), [Arry Harmoko](https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf), [Estetika Karina](https://open.spotify.com/artist/1pKYbKRTckwqDrmYmrBKpt) | [Nduweni](https://open.spotify.com/album/3c7enycYJI2BOdarQIJvGl) | 3:30 | 2025-10-17 |  |
 | [Nduwur Gunung](https://open.spotify.com/track/1pMfi6d2dIjtDTJ8bDw30u) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Nduwur Gunung](https://open.spotify.com/album/4dTAA2KbTFgW58qQWcCAdL) | 3:57 | 2024-07-25 | 2024-10-25 |
 | [NEMEN](https://open.spotify.com/track/5f3oGRsnZpMoNs74zLXxzm) | [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [NEMEN](https://open.spotify.com/album/28gXXI7APazAT8ELyiS1FG) | 5:04 | 2024-08-02 | 2025-09-20 |
 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 | 2023-07-13 |  |
@@ -298,6 +299,7 @@
 | [Nemu](https://open.spotify.com/track/5ECbbMpv6wWLyR7bOirKML) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nemu](https://open.spotify.com/album/3tR9cN50IM6rKmKSFEAWQy) | 4:30 | 2023-08-11 | 2024-04-26 |
 | [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 | 2023-03-03 |
 | [Ngamen 10](https://open.spotify.com/track/4W05ZNdRW3ciTHZWmsB1q1) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Ngamen 10](https://open.spotify.com/album/5DFJURYLfR3QhzPzrmZ3wD) | 6:36 | 2024-10-18 | 2025-04-18 |
+| [Ngamen 4](https://open.spotify.com/track/00n38igoTWDhcLF2jSDIKN) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Ngamen 4](https://open.spotify.com/album/55q4uCV11NAmVbxhk7XY0R) | 5:36 | 2025-10-17 |  |
 | [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 | 2024-05-16 |  |
 | [NGANGGUR](https://open.spotify.com/track/6iMMuySltINE30e82840cg) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [NGANGGUR](https://open.spotify.com/album/0EcAko6sPzM102RUZPHJDj) | 4:12 | 2024-07-11 | 2024-10-11 |
 | [NGANGGUR 2](https://open.spotify.com/track/5h5R8ad8Sopl96XEXUITSW) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR 2](https://open.spotify.com/album/2dcXxxMzjZjtoEC0j29sv9) | 4:20 | 2025-01-02 | 2025-08-22 |

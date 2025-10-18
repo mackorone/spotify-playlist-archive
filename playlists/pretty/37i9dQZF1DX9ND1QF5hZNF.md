@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,097 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,099 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 5 | [Verano En NY](https://open.spotify.com/track/7DxrTNmUprBMQ0RV45xreb) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Verano En NY](https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu) | 4:05 |
 | 6 | [Dans la ville endormie \- Remix](https://open.spotify.com/track/3H2rcMJZqrlSUEdgitfCj1) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [MIQA](https://open.spotify.com/artist/7qx5u7qfrFrlPNReiyFcJq), [SKIO](https://open.spotify.com/artist/0AWOsB7u3ZGM1SklkJlL3o) | [Dans la ville endormie \(Remix\)](https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn) | 3:34 |
 | 7 | [Hutia](https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu) | [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Hutia](https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9) | 2:51 |
-| 8 | [Only You](https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo) | [Tasty Or Not](https://open.spotify.com/artist/3pwCLlNDTmjL7PqOj3WMOu), [Cees](https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Only You](https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m) | 2:58 |
+| 8 | [Only You](https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo) | [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad), [Cees](https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg), [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Only You](https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m) | 2:58 |
 | 9 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 |
 | 10 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 |
 | 11 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 |
-| 12 | [High & Low](https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [](https://open.spotify.com/album/null) | 4:09 |
+| 12 | [High & Low](https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Everlight](https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j) | 4:09 |
 | 13 | [Messy](https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM) | [REWIND BE KIND](https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo) | [Messy](https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6) | 4:22 |
 | 14 | [Veridis Quo \- Edit](https://open.spotify.com/track/39piMAGrzEeTV0yAxHRyoA) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Veridis Quo \(Edit\)](https://open.spotify.com/album/1CeIjHjsxOIo1jQkPduUfx) | 2:44 |
 | 15 | [Because You Move Me](https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS) | 3:16 |

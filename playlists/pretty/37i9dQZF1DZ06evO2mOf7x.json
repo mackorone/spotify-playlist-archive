@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46577,
+  "num_followers": 46588,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAABSXo+PM5WF9FNVCVwJxtiZ",
+  "snapshot_id": "aPA1gAAAAABI9htP7E+M1X6lf7aXmhhC",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es Brujeria",
-        "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "No Es Brujeria",
-      "url": "https://open.spotify.com/track/0nZUAnwrg9l0QUqW8O8sbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Trampa",
         "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 192400,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/3wqHXGjQEE5WEqCKcg8kPp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Es Brujeria",
+        "url": "https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "No Es Brujeria",
+      "url": "https://open.spotify.com/track/0nZUAnwrg9l0QUqW8O8sbb"
     },
     {
       "added_at": null,
@@ -503,22 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+        "name": "Mentiras Bonitas",
+        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
       },
       "artists": [
         {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
+      "duration_ms": 188644,
+      "name": "Mentiras Bonitas",
+      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
       "duration_ms": 239031,
       "name": "El Consejo",
       "url": "https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,
@@ -579,26 +599,6 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras Bonitas",
-        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "Mentiras Bonitas",
-      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK"
-      },
-      "artists": [
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 213812,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbias Para Bailar",
         "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 281440,
       "name": "Capullo Y Sorullo",
       "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK"
+      },
+      "artists": [
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 213812,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 271466,
       "name": "Mala",
       "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vozes",
-        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Vez En Cuando",
         "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 213329,
       "name": "De Vez En Cuando",
       "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vozes",
+        "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 213173,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
     },
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bienvenida La Vida",
-        "url": "https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 234208,
-      "name": "Amor Perfecto",
-      "url": "https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Volver\u00e9",
         "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 192680,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bienvenida La Vida",
+        "url": "https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 234208,
+      "name": "Amor Perfecto",
+      "url": "https://open.spotify.com/track/3X4rVC4WXcUYU1u2NyMWKo"
     },
     {
       "added_at": null,

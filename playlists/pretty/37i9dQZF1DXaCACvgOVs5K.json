@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2025. See you on the dancefloor.",
-  "num_followers": 814148,
+  "num_followers": 814427,
   "original_name": "Ibiza 2025",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+        }
+      ],
+      "duration_ms": 225247,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
-        "name": "Dancing",
-        "url": "https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n"
-      },
-      "artists": [
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        },
-        {
-          "name": "Serve Cold",
-          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
-        }
-      ],
-      "duration_ms": 225247,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1331,30 +1331,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Ethnica (Pasilda)",
-        "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Vanetty",
-          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
-        },
-        {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
-        }
-      ],
-      "duration_ms": 170157,
-      "name": "Ethnica (Pasilda)",
-      "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "On My Mind (Enzo is Burning Remix)",
         "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 162748,
       "name": "On My Mind - Enzo is Burning Remix",
       "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "Ethnica (Pasilda)",
+        "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Vanetty",
+          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
+        },
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        }
+      ],
+      "duration_ms": 170157,
+      "name": "Ethnica (Pasilda)",
+      "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Sierra",
-        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Baset",
-          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Sierra",
-      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "Sierra",
+        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Sierra",
+      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1715,6 +1715,30 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
+        "name": "Alma de Ibiza (WEPA)",
+        "url": "https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "LonelyBrothers",
+          "url": "https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f"
+        },
+        {
+          "name": "Kush Rust",
+          "url": "https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1"
+        }
+      ],
+      "duration_ms": 172741,
+      "name": "Alma de Ibiza (WEPA)",
+      "url": "https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
         "name": "TAKE YOU HOME",
         "url": "https://open.spotify.com/album/4AhV8Gy8ltM8UBO7nFJCmQ"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 246455,
       "name": "TAKE YOU HOME",
       "url": "https://open.spotify.com/track/5OgVrx9nCaokXlgyHPIyIl"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
-        "name": "Alma de Ibiza (WEPA)",
-        "url": "https://open.spotify.com/album/6XmaDWlsn0BRoMbysvhktj"
-      },
-      "artists": [
-        {
-          "name": "Kayote",
-          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
-        },
-        {
-          "name": "LonelyBrothers",
-          "url": "https://open.spotify.com/artist/4aXojyC6guVNQ11bP4ez1f"
-        },
-        {
-          "name": "Kush Rust",
-          "url": "https://open.spotify.com/artist/2KpM8KjdeGHGjhMH2JpFX1"
-        }
-      ],
-      "duration_ms": 172741,
-      "name": "Alma de Ibiza (WEPA)",
-      "url": "https://open.spotify.com/track/0iVVaf9CSC02XjHgFDLYRf"
     },
     {
       "added_at": "2025-09-18 23:00:15",

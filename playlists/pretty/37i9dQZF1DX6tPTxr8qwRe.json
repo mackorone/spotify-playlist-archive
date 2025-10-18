@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: SKAAR",
-  "num_followers": 426391,
+  "num_followers": 426405,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAId8nl0l0XimBRDpNoiazb4iFst3",
+  "snapshot_id": "AAAAALvvatkZKcOY9b8S+zbORXsmkDHk",
   "tracks": [
     {
       "added_at": "2025-10-10 04:00:49",
@@ -23,6 +23,26 @@
       "duration_ms": 229151,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
+        "name": "ALICE (Red Queen Version)",
+        "url": "https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        },
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "ALICE - Red Queen Version",
+      "url": "https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc"
     },
     {
       "added_at": "2025-10-03 04:00:56",
@@ -55,6 +75,22 @@
       "duration_ms": 207629,
       "name": "Drama At The Disco",
       "url": "https://open.spotify.com/track/45ozmsRUaG5TFVDRu5OFlY"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6SELPx1TMG3G328lQ9euY7"
+      },
+      "artists": [
+        {
+          "name": "Haven Madison",
+          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
+        }
+      ],
+      "duration_ms": 161808,
+      "name": "If You\u2019re Into That",
+      "url": "https://open.spotify.com/track/4BkQq2ZQ5ziixtXfMS8Oab"
     },
     {
       "added_at": "2025-09-19 04:00:31",
@@ -1195,118 +1231,6 @@
       "duration_ms": 142622,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC"
-    },
-    {
-      "added_at": "2025-06-20 20:17:50",
-      "album": {
-        "name": "ME PROBLEM",
-        "url": "https://open.spotify.com/album/6RFpS6ilotaQU0WbIWYIXf"
-      },
-      "artists": [
-        {
-          "name": "EHLE",
-          "url": "https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q"
-        }
-      ],
-      "duration_ms": 166639,
-      "name": "ME PROBLEM",
-      "url": "https://open.spotify.com/track/4EhGpvcGNl3h9pj92AB0rr"
-    },
-    {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "You're the only one I trust",
-        "url": "https://open.spotify.com/album/1og1NwWveeYLy9dZq5HdcL"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 186728,
-      "name": "You're the only one I trust",
-      "url": "https://open.spotify.com/track/3BN2hEZ2TxqjzYVpAVLTzV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "KILL4ME",
-        "url": "https://open.spotify.com/album/7vjtCYVgXACX4bZ3nAvepU"
-      },
-      "artists": [
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 140341,
-      "name": "KILL4ME",
-      "url": "https://open.spotify.com/track/0KxoMqgYkchnTZ0sRrlyqw"
-    },
-    {
-      "added_at": "2025-05-23 04:00:41",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 141738,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
-    },
-    {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "pretty little thing",
-        "url": "https://open.spotify.com/album/2KR8YSHpIenuVjxiP8BlUL"
-      },
-      "artists": [
-        {
-          "name": "KINGS",
-          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
-        }
-      ],
-      "duration_ms": 128319,
-      "name": "pretty little thing",
-      "url": "https://open.spotify.com/track/3X4JzWg9iUK5hYMysb53cu"
-    },
-    {
-      "added_at": "2025-05-16 04:00:11",
-      "album": {
-        "name": "The Death Of Daisies (Deluxe)",
-        "url": "https://open.spotify.com/album/4laGu6PuFAP2GXzRChUoPD"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 166312,
-      "name": "House Of Nightmares",
-      "url": "https://open.spotify.com/track/1oTN3bznxhDVCkD6uqPflK"
-    },
-    {
-      "added_at": "2025-05-23 04:00:41",
-      "album": {
-        "name": "Life's a Bitch",
-        "url": "https://open.spotify.com/album/2kQewJ6EaxftUOnBGLK38d"
-      },
-      "artists": [
-        {
-          "name": "DEZI",
-          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "Life's a Bitch",
-      "url": "https://open.spotify.com/track/6yvxyNehUgb4qCJKxr6ZkZ"
     }
   ],
   "unique_name": "SALT",

@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 39145,
       "name": "... an Interlude",
       "url": "https://open.spotify.com/track/0ZisrQEomfaJiUnHnjjVjU"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 165302,
       "name": "AYN",
       "url": "https://open.spotify.com/track/2tQkTPj8kXXXZ9cAAAh3aP"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 214177,
       "name": "Big Shit",
       "url": "https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 166854,
       "name": "Boom Bap Is Back",
       "url": "https://open.spotify.com/track/4Z9DaZGXWx0LHKz1vyaYKz"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 229537,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7Bbg2pR6QsOe5TRmZaJeD5"
@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "cali sober",
+        "url": "https://open.spotify.com/album/1xyjRfxmAnksV6Y8wwagDS"
+      },
+      "artists": [
+        {
+          "name": "isolation",
+          "url": "https://open.spotify.com/artist/1FZfREjQJAvTSfdTJAKsjE"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133801,
+      "name": "cali sober",
+      "url": "https://open.spotify.com/track/58Zp0URcADjXsLHHuaCG20"
+    },
+    {
+      "album": {
         "name": "Call My Phone",
         "url": "https://open.spotify.com/album/7yJiXOXZ4KGZ3JjR85UHM4"
       },
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 190628,
       "name": "Canavar",
       "url": "https://open.spotify.com/track/1ai5icOxdxusYXhPJWfFVu"
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 173427,
       "name": "Come la luna",
       "url": "https://open.spotify.com/track/3ZxYaE5MYLgyWK6VkqZ2c6"
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 228340,
       "name": "Creed",
       "url": "https://open.spotify.com/track/7hPenGR0AKp8RgsuM01udu"
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -5110,7 +5128,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 186575,
       "name": "Grit",
       "url": "https://open.spotify.com/track/3rfrZVg4zzeG6rGGaSQRFL"
@@ -5310,6 +5328,32 @@
       "duration_ms": 248372,
       "name": "Head High",
       "url": "https://open.spotify.com/track/5tgFbBQfQ7NJcYBsNJ3neq"
+    },
+    {
+      "album": {
+        "name": "HEADLOCK",
+        "url": "https://open.spotify.com/album/3kzeMQts0nQANzJTqkjeIG"
+      },
+      "artists": [
+        {
+          "name": "xenokura",
+          "url": "https://open.spotify.com/artist/1Y9mqkwUa6Af1PuFYaMa27"
+        },
+        {
+          "name": "J4yvien",
+          "url": "https://open.spotify.com/artist/3hgodjzU2IVUnPQO0124o5"
+        },
+        {
+          "name": "LeaksyMC",
+          "url": "https://open.spotify.com/artist/2qIWxz22Borkus0seJPCQt"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147841,
+      "name": "HEADLOCK",
+      "url": "https://open.spotify.com/track/7hmmTSJREOu5PrYCoEP6jj"
     },
     {
       "album": {
@@ -6726,7 +6770,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 245200,
       "name": "King Life",
       "url": "https://open.spotify.com/track/2OrUMzP1iHrkrUJ0Y7Sf6h"
@@ -6805,6 +6849,28 @@
     },
     {
       "album": {
+        "name": "Winnen Van Mijzelf",
+        "url": "https://open.spotify.com/album/4LvwotghIYDNP9eKdSO30s"
+      },
+      "artists": [
+        {
+          "name": "TAY",
+          "url": "https://open.spotify.com/artist/4zb6Av1FCHy1uhfUokwi1H"
+        },
+        {
+          "name": "Udi Mars",
+          "url": "https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "Koud",
+      "url": "https://open.spotify.com/track/7L5PexrJIR4NXkPr2wH66J"
+    },
+    {
+      "album": {
         "name": "L'argent",
         "url": "https://open.spotify.com/album/1unkl9s6jtsm7F6d4Qr94u"
       },
@@ -6860,7 +6926,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 147799,
       "name": "L7OUMA",
       "url": "https://open.spotify.com/track/57pumBhowt4X23aaTsgmuF"
@@ -7146,6 +7212,24 @@
       "duration_ms": 204511,
       "name": "Like a Puppet",
       "url": "https://open.spotify.com/track/44e6hdQFur8thQM73knD6X"
+    },
+    {
+      "album": {
+        "name": "LIKE MELVO",
+        "url": "https://open.spotify.com/album/0kEQP6NsG2sQpSAhBo7bEi"
+      },
+      "artists": [
+        {
+          "name": "Mollypop",
+          "url": "https://open.spotify.com/artist/7tqDBbq2NxS6bTyA5KC3hi"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147447,
+      "name": "LIKE MELVO",
+      "url": "https://open.spotify.com/track/4yGSbW5LSQgDHuWtj61gLJ"
     },
     {
       "album": {
@@ -8593,6 +8677,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1bDn2QW6dZnCzkfH8kJNUv"
+      },
+      "artists": [
+        {
+          "name": "YHM Hansell",
+          "url": "https://open.spotify.com/artist/7k3Wfyw2gBzCuBWphWv7dg"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3s6gBbStfw4nm2LzPk0VK7"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0cTfrtQD1yvFJaFmNCzBDw"
       },
@@ -8756,7 +8858,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 139724,
       "name": "Nice Eyez",
       "url": "https://open.spotify.com/track/0wyYRtcVeCuiT47Q6j3NML"
@@ -13583,6 +13685,24 @@
     },
     {
       "album": {
+        "name": "WE DRILLIN",
+        "url": "https://open.spotify.com/album/0iwYJDDsVVa23VgVzGoEYg"
+      },
+      "artists": [
+        {
+          "name": "BensonBeats",
+          "url": "https://open.spotify.com/artist/1BVem7FWWE2VW3FqTMM9ek"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "WE DRILLIN",
+      "url": "https://open.spotify.com/track/6ngfjIy9d0tPLgre38wG9H"
+    },
+    {
+      "album": {
         "name": "We Those Kids",
         "url": "https://open.spotify.com/album/3n22Ls3lF5Gqq5wlMy1S0p"
       },
@@ -14080,7 +14200,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 177662,
       "name": "YES, \u00a5\u20ac$",
       "url": "https://open.spotify.com/track/6X637ukNNpYetZv2sksCQa"

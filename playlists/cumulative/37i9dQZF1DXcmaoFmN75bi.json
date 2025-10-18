@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "From The First Sting",
+        "url": "https://open.spotify.com/album/49C8yGAU4o4k9wC0MnHECA"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406843,
+      "name": "Top of the Bill - Live",
+      "url": "https://open.spotify.com/track/0UhDxRVJrZhs54xyhs7fQZ"
+    },
+    {
+      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -2534,24 +2552,6 @@
       "duration_ms": 218933,
       "name": "Toxicity",
       "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "date_added": "2025-10-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/0UhDxRVJrZhs54xyhs7fQZ"
     },
     {
       "album": {

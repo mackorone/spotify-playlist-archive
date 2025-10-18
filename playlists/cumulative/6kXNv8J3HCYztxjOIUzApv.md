@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-311 songs - 19 hr 23 min
+313 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Anti\-Everything](https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:14 | 2022-01-24 |  |
 | [Armageddon](https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Armageddon](https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV) | 3:33 | 2023-05-19 |  |
 | [Around The Sun \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/5N9yzJL4LpVgnFoUwuagrf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Chemical Warfare: B\-Sides](https://open.spotify.com/album/1PxVdOGI6SoPDuHmKNLELy) | 2:34 | 2021-09-11 | 2023-01-04 |
+| [Awakening](https://open.spotify.com/track/1FD6QgRQ6KoskRxa5auxDW) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Awakening](https://open.spotify.com/album/5BMvAjPfALFd9mnCAA02Vf) | 3:32 | 2025-10-17 |  |
 | [Bad Blood](https://open.spotify.com/track/4vxKgrJWqqIJm7XNwjYxZT) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:30 | 2023-06-16 |  |
 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 | 2023-07-21 |  |
 | [Barely Breathing](https://open.spotify.com/track/2EIgrHayJ6eJrJVT5ZcwcC) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:08 | 2024-01-30 | 2024-02-03 |
@@ -297,6 +298,7 @@
 | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/track/4II6MQP9Cv9PwwCoXBJevq) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [We Believe \(feat\. David Draiman\)](https://open.spotify.com/album/3fbzfcUd9ejrFDChKFGSBP) | 3:18 | 2021-08-20 |  |
 | [We Will Not Go Quietly](https://open.spotify.com/track/5XE0S3m7Qgh40sjaT4g2VU) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [We Will Not Go Quietly](https://open.spotify.com/album/2chkVD6tHlcZKBrMBlHcs3) | 4:20 | 2021-08-20 | 2024-04-10 |
 | [We Will Rock You](https://open.spotify.com/track/0dXqdq1aF0SgZamXvUAp57) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [We Will Rock You](https://open.spotify.com/album/5jPBB8d3UAb8TFwqgVgeGW) | 2:36 | 2023-01-27 |  |
+| [We're In This Together](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [We're In This Together](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 | 2025-10-17 |  |
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-10 |  |
 | [WE’RE ALL GONNA DIE](https://open.spotify.com/track/4O3NC8soE6ELWtgIWjSD2B) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE ALL GONNA DIE](https://open.spotify.com/album/0zJhmlEFYi2tFdhrlD5Rjq) | 3:04 | 2025-02-07 |  |
 | [What Do You Gotta Lose?](https://open.spotify.com/track/3t3rnRd26jLl1SajTgPkSY) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [What Do You Gotta Lose?](https://open.spotify.com/album/0hryjAJGUKTJib7l3CICra) | 3:41 | 2021-08-20 | 2023-01-04 |

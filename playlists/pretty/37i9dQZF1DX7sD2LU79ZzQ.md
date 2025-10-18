@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 ### [Naik Daun](https://open.spotify.com/playlist/37i9dQZF1DX7sD2LU79ZzQ)
 
-> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Harra
+> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Harra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,274 likes - 116 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,480 likes - 116 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
-| 2 | [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [](https://open.spotify.com/album/null) | 3:20 |
+| 2 | [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [4 Mata, 5 Cerita](https://open.spotify.com/album/1J7zcBTV2ygWGt0Isut2RQ) | 3:20 |
 | 3 | [Cinta Seperti Aku](https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Edelweiss](https://open.spotify.com/album/1Uv9PoMo7VYvyLKVmmFG4u) | 4:08 |
 | 4 | [Sedia Aku Sebelum Hujan](https://open.spotify.com/track/43Ed54bKecnKeq5MWhb2BC) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Sedia Aku Sebelum Hujan](https://open.spotify.com/album/3GikdpvnrtkUtfPbwzm9sy) | 3:50 |
 | 5 | [Ada Untukmu](https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Ada Untukmu](https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9) | 4:17 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 16 | [Berselimut Di Batin](https://open.spotify.com/track/4vGdIIsEc8TgMO6gOg8seQ) | [Marsha Lavinia](https://open.spotify.com/artist/5EloJ3GTjmVqRKmdDJUrtk) | [Berselimut Di Batin](https://open.spotify.com/album/475TaCVDcFIrIVQq0wBLPK) | 3:04 |
 | 17 | [Cerita Kesukaan](https://open.spotify.com/track/4IIDpuAwz4Z09um3WO8w72) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Cerita Kesukaan](https://open.spotify.com/album/7J2a6GtijKo90K8sq2YaJJ) | 3:30 |
 | 18 | [Hidup Baru](https://open.spotify.com/track/3qTeUn2za3w6m9d77WI5W0) | [yowha](https://open.spotify.com/artist/6fNC8J5n7BnYgmRXWQdb3m) | [Hidup Baru](https://open.spotify.com/album/6gaNIRX2VpAHF4lXBeNytw) | 4:00 |
-| 19 | [Track 2](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 19 | [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 |
 | 20 | [10 Menit Untuk Selamanya](https://open.spotify.com/track/5SLVY1sGV2keqf7lnphHZU) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [10 Menit Untuk Selamanya](https://open.spotify.com/album/5cV4r5GpL0DAYk31qbzKk5) | 4:04 |
 | 21 | [Forevermore](https://open.spotify.com/track/3MiTqCP3PMxkSlbYGe9kmC) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Forevermore](https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc) | 3:11 |
 | 22 | [Lebih Lama Lagi](https://open.spotify.com/track/0tcZ3G3lxkR0zT1ikP4R0b) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [Lebih Lama Lagi](https://open.spotify.com/album/2DxIv3OBW7NXqUPCkNVlYQ) | 3:49 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 115 | [Kembali](https://open.spotify.com/track/212IXh4olT2VzhkTkR941u) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 4:42 |
 | 116 | [EGP](https://open.spotify.com/track/6uOGcTA9RS4lV0B6kjTSBJ) | [Sundanis](https://open.spotify.com/artist/7aL9PiYEeYQWnBL8iDPHDs) | [EGP](https://open.spotify.com/album/78RZnl53aFY6nw9vAvpWih) | 3:29 |
 
-Snapshot ID: `AAAAABtxeVhRKxFJDYbDAYN4Kj6QmZid`
+Snapshot ID: `AAAAAFlokE1SgVCokivrEFi6yRimgcJX`

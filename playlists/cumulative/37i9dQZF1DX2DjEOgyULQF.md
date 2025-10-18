@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-293 songs - 14 hr 7 min
+295 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-13 |  |
 | [Astrae In The Park](https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Astrae In The Park](https://open.spotify.com/album/3w9t9fAwgFr66ABS6a1CNy) | 3:05 | 2023-11-10 |  |
 | [Astral Awakening](https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Astral Awakening](https://open.spotify.com/album/3qTdu32OsL4QwnfhJ6mP1I) | 2:46 | 2025-06-17 |  |
+| [At Peace](https://open.spotify.com/track/19oPBpvNjztSjlhYpXqqwy) | [Eves Haven](https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT) | [At Peace](https://open.spotify.com/album/3248pHS5hOWWi8XBxUyaIy) | 2:26 | 2025-10-15 |  |
 | [Aurorá](https://open.spotify.com/track/25u93aSOn21m8zWmSgL3cV) | [Porthos Riqueti](https://open.spotify.com/artist/0zqr06oM4FSFSVPmOnv3jN) | [Aurorá](https://open.spotify.com/album/70iDnNvqXx8XN4cYbjclqx) | 3:01 | 2024-11-04 |  |
 | [Azure Rain](https://open.spotify.com/track/6Hl3JSfAoIGYxbV0ZdUuKW) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Azure Rain](https://open.spotify.com/album/2tvMCwJyuwD3YNlPhlZXPG) | 3:36 | 2024-11-04 |  |
 | [Back In My Memory](https://open.spotify.com/track/5fO9TtuINIOhhVmxNB4GiC) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Back In My Memory](https://open.spotify.com/album/7pFIhGolnIrM2I6U3DfUyC) | 2:55 | 2024-06-03 | 2025-09-11 |
@@ -132,7 +133,7 @@
 | [Hydration](https://open.spotify.com/track/6euwKpkQB92wk3DluAidnQ) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Hydration](https://open.spotify.com/album/2Zonfdg72FB9zs6GJvA77C) | 3:12 | 2025-05-06 |  |
 | [I Can See You At The Bottom Of Every River](https://open.spotify.com/track/7mNB5wjFqN2ERnNeDe1YPg) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Into The Wild](https://open.spotify.com/album/2hxfoyhB0m567fTylRTAw3) | 4:02 | 2023-04-28 | 2023-06-17 |
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 | 2025-05-22 |
-| [imperia](https://open.spotify.com/track/0IOkAVin2sQFGnUDCccATb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [imperia](https://open.spotify.com/album/3ruq6fx1M4ruMrGmKtEfvb) | 2:42 | 2025-10-15 |  |
+| [imperia](https://open.spotify.com/track/0IOkAVin2sQFGnUDCccATb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [imperia](https://open.spotify.com/album/3ruq6fx1M4ruMrGmKtEfvb) | 2:42 | 2025-10-15 | 2025-10-18 |
 | [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 |  |
 | [Inclusive](https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Inclusive](https://open.spotify.com/album/6bPTArHqDlHoxzO5ELIE0g) | 2:35 | 2025-10-02 |  |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 |  |
@@ -222,6 +223,7 @@
 | [Sacred Reservoir](https://open.spotify.com/track/11gvVIKblQIJ3YFf7A8q0o) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Sacred Reservoir](https://open.spotify.com/album/6OxqSw1esboGXc8wl5etdy) | 3:03 | 2024-11-04 | 2025-05-22 |
 | [Sanctuary](https://open.spotify.com/track/5iBqs5HtVBQZCR7qJHQAwC) | [Himalayan Meditation](https://open.spotify.com/artist/2XMxTDifaHaXbbKHC1AmvH) | [Sanctuary](https://open.spotify.com/album/6k4tNv9oH6xPVcKwt3foN2) | 3:03 | 2023-04-28 | 2024-04-02 |
 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 | 2023-04-28 | 2024-06-04 |
+| [Sapphire Tide](https://open.spotify.com/track/2jh0KjuwnfuVF5VoJDcU6p) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Sapphire Tide](https://open.spotify.com/album/2Ecs1Bo7o3l2ilNlsGcgs9) | 2:23 | 2025-10-15 |  |
 | [Sauna](https://open.spotify.com/track/7Gk9LBXbdcM5jlUy4X3EEg) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Sauna](https://open.spotify.com/album/3cHPJVrhngu3Ptlm3GYHWB) | 3:31 | 2025-10-15 |  |
 | [Seeker](https://open.spotify.com/track/5j6bLwlE7uTCbjtQedZrle) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Seeker](https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp) | 2:32 | 2025-07-09 |  |
 | [Sense](https://open.spotify.com/track/6NCysERXVV7R2ot0MXsEOV) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Sense](https://open.spotify.com/album/42kJPHsjCUyjlDvkGKvR8B) | 3:08 | 2024-06-03 | 2025-09-11 |
@@ -266,7 +268,7 @@
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-28 | 2025-05-22 |
 | [The Universe Whitin \(Nature Sounds\)](https://open.spotify.com/track/3LK95mRAhmD7mSDKj1qDQq) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [The Universe Within](https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA) | 2:13 | 2023-04-28 |  |
 | [The Unknown](https://open.spotify.com/track/2Ty0lPGjFDvIKKwRuZqGg4) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [The Unknown](https://open.spotify.com/album/4x3f30IIvpiiTN5sXEPWV1) | 2:48 | 2023-04-28 | 2025-05-22 |
-| [The Unseen](https://open.spotify.com/track/3rpKRcr3DYdjj3tRkjYyxa) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [The Unseen](https://open.spotify.com/album/46JybsDQOCeOMyFq1UwNt9) | 2:12 | 2025-10-15 |  |
+| [The Unseen](https://open.spotify.com/track/3rpKRcr3DYdjj3tRkjYyxa) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [The Unseen](https://open.spotify.com/album/46JybsDQOCeOMyFq1UwNt9) | 2:12 | 2025-10-15 | 2025-10-18 |
 | [Tibetan Bowl Peace](https://open.spotify.com/track/1ZAcQ8bAiiRMITWLqZ3gFW) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Tibetan Bowl Healing](https://open.spotify.com/album/6pO8SRJZiGERpaUl1GUnf6) | 4:06 | 2023-04-28 | 2025-05-22 |
 | [Tranquility](https://open.spotify.com/track/5jjwni9fUP9YT9AJsXFv3g) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Tranquility](https://open.spotify.com/album/0XN0oD4b0FwAy5URSvWFXk) | 2:43 | 2023-04-28 | 2024-04-02 |
 | [Transmission](https://open.spotify.com/track/06O8wPfnfKwzme7B2l6mEP) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Transmission](https://open.spotify.com/album/6P9UOCViUkPpWijj7wV6fQ) | 2:51 | 2024-11-28 |  |

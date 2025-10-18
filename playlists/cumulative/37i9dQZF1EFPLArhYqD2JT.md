@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-466 songs - 23 hr 34 min
+467 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,8 @@
 | [Through A Keyhole](https://open.spotify.com/track/4ESmJ5q2FWLaBCWS0gtQBA) | [Howard McGillin](https://open.spotify.com/artist/5ULluSxmW77lt0IpatHeoP), ['As Thousands Cheer: The Hit Musical Comedy Revue!' 1998 New York Revival Cast](https://open.spotify.com/artist/5Lt9AkGuzKxaqVItWFWZGa) | [As Thousands Cheer \(1998 Off\-Broadway Cast Recording\)](https://open.spotify.com/album/2g4UW6AF3FhbUH6SIU53b7) | 4:08 | 2024-07-26 |  |
 | [Together](https://open.spotify.com/track/4bR91QE1bsLSIkZjbSPVO0) | [Luiz Mello](https://open.spotify.com/artist/5WS12Gfr9YC0tSU5epsr8B) | [O Melhor do Piano Ao Cair da Tarde: Internacional](https://open.spotify.com/album/1LPLofIXeODbqtD7TJ4vjP) | 3:51 | 2024-07-26 |  |
 | [Together We Two](https://open.spotify.com/track/4eRk7UrZnZDv8NPObszqOB) | [Isham Jones And His Orchestra](https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1) | [Song of the Blues](https://open.spotify.com/album/7yIHLKz0J7zlzg9KQfKtAX) | 3:02 | 2024-07-26 |  |
-| [Top Hat, White Tie and Tails \(2012 \- Remaster\)](https://open.spotify.com/track/2iHOKNoE6ac5zIMkT1uRKs) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:10 | 2024-07-26 |  |
+| [Top Hat, White Tie And Tails](https://open.spotify.com/track/0hGhCFg8NNe5x3hgSyrcmF) | [Mael Tormé, The Marty Paich Dek\-tette](https://open.spotify.com/artist/44OPtoJ0QaDRvQH8SiUQ2K) | [Mael Tormé](https://open.spotify.com/album/13hkqtaBlSOMnxD93pljGi) | 3:09 | 2025-10-17 |  |
+| [Top Hat, White Tie and Tails \(2012 \- Remaster\)](https://open.spotify.com/track/2iHOKNoE6ac5zIMkT1uRKs) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:10 | 2024-07-26 | 2025-10-18 |
 | [Torch Song](https://open.spotify.com/track/6f2gUmFKEtUpxKjHSQOxld) | [Adèle Anderson](https://open.spotify.com/artist/0UhoqhbYoPuORgj24VBUcp) | [Everything Happens to Me](https://open.spotify.com/album/1OszdjZgCmDxPU9b91KLD6) | 2:37 | 2024-07-26 |  |
 | [Tribute to Irving Berlin \(Medley\)](https://open.spotify.com/track/50wZRz8W1icB3EOaul4tZu) | [London Theatre Orchestra](https://open.spotify.com/artist/5QmD51yutY26X6YdiGOLex) | [Kern & Berlin: The Great Melodies](https://open.spotify.com/album/455fuJmdMku9H8S0IR9gIx) | 7:04 | 2024-07-26 |  |
 | [Two Cheers Instead Of Three](https://open.spotify.com/track/1VPpQ3JPswpx9lyYypCpNk) | [Walter Willison](https://open.spotify.com/artist/21Ahii1HXBx19BHjkZ3fRp) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:22 | 2024-07-26 |  |

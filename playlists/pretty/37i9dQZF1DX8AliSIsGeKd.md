@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,200 likes - 90 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,502 likes - 90 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Save Me](https://open.spotify.com/track/1xKFt8fnO8cYEpsB8a9vEs) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Save Me](https://open.spotify.com/album/0ZAnXaNG5z2B8cD3n6MohU) | 3:05 |
 | 10 | [Close My Eyes](https://open.spotify.com/track/2JadRayTC1IC2p9NoTZz1b) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d) | [Close My Eyes](https://open.spotify.com/album/30aktKEySS4VLm0HJIPEOU) | 3:38 |
 | 11 | [Insane](https://open.spotify.com/track/5orM4XHlulBxEv76kWFowp) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 19](https://open.spotify.com/album/5ikMAI0B6EFpTouBnakpk0) | 5:14 |
-| 12 | [High & Low](https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [](https://open.spotify.com/album/null) | 4:09 |
-| 13 | [Nightlight](https://open.spotify.com/track/5QtPuYCjj22bKXfEkrjkUC) | [Brando](https://open.spotify.com/artist/2qs80DQMNZvq68uG35xU2n) | [Nightlight](https://open.spotify.com/album/7msnEn18aVUSzst2YjAq7g) | 3:11 |
+| 12 | [High & Low](https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Everlight](https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j) | 4:09 |
+| 13 | [Nightlight](https://open.spotify.com/track/5QtPuYCjj22bKXfEkrjkUC) | [Brandomusik](https://open.spotify.com/artist/2UppD2T7doeKjdDYUKAw35) | [Nightlight](https://open.spotify.com/album/7msnEn18aVUSzst2YjAq7g) | 3:11 |
 | 14 | [Can You Feel It](https://open.spotify.com/track/1k9lpoh3oqRYeZcRx5WQVn) | [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [Can You Feel It](https://open.spotify.com/album/3nBYelL8ljkveiOcPtPd6z) | 3:46 |
 | 15 | [Drip](https://open.spotify.com/track/4jWkPEFd4WyGNS2PdBjg5D) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Yannick Mueller](https://open.spotify.com/artist/6iSC2YnYuFfCbrBhyRVkPm) | [Drip](https://open.spotify.com/album/47TyIoljWxovwHhlXCzcZE) | 2:59 |
 | 16 | [The Walk](https://open.spotify.com/track/02yZbGC1ACA3Mc9Dgniowq) | [Leo Gira](https://open.spotify.com/artist/18FnUahuqpZRX5xQj4ZwnP) | [The Walk](https://open.spotify.com/album/0j12ikdIeC61eojRLC2dvg) | 3:06 |

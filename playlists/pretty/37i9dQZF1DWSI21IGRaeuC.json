@@ -1,13 +1,33 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 66931,
+  "num_followers": 66986,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxnfz06BLhMsp+VYR2JC+84QqB7",
+  "snapshot_id": "AAAAAE9/fclXCY6dFlzMTW7QH5zKvYhQ",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:49",
+      "album": {
+        "name": "It Gets Better (Chris Stussy Remix)",
+        "url": "https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "It Gets Better - Chris Stussy Remix",
+      "url": "https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O"
+    },
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
@@ -53,6 +73,42 @@
       "url": "https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6"
     },
     {
+      "added_at": "2025-10-17 04:00:49",
+      "album": {
+        "name": "Supa Smoov",
+        "url": "https://open.spotify.com/album/36IcWBiBqgCIP3gHiqxB65"
+      },
+      "artists": [
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Supa Smoov",
+      "url": "https://open.spotify.com/track/1wF4Lds6kOWQLDkcr7fr3D"
+    },
+    {
+      "added_at": "2025-10-10 04:00:36",
+      "album": {
+        "name": "Straight From The Underground",
+        "url": "https://open.spotify.com/album/02hx3u9EST9kPmJQW3W9e5"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 148181,
+      "name": "Straight From The Underground",
+      "url": "https://open.spotify.com/track/7KLb3Ztja5ytGqMEKXUYnz"
+    },
+    {
       "added_at": "2025-10-03 15:50:43",
       "album": {
         "name": "Paradise EP",
@@ -67,6 +123,38 @@
       "duration_ms": 238423,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0d0Do6Co9OFnr5WRubXvKN"
+    },
+    {
+      "added_at": "2025-10-10 04:00:36",
+      "album": {
+        "name": "For My People",
+        "url": "https://open.spotify.com/album/6zKsrSQATcRO6ZHd3ZdoZD"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 205059,
+      "name": "For My People",
+      "url": "https://open.spotify.com/track/25b2Ftcple4DAIyQ3V0mPF"
+    },
+    {
+      "added_at": "2025-10-17 15:56:09",
+      "album": {
+        "name": "Get Funky EP",
+        "url": "https://open.spotify.com/album/396xgvGL6BTtYzH0Qvmir8"
+      },
+      "artists": [
+        {
+          "name": "AAT",
+          "url": "https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Get Funky",
+      "url": "https://open.spotify.com/track/5au1dxozcN7pepkik4E4uE"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -89,20 +177,20 @@
       "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
     },
     {
-      "added_at": "2025-10-10 04:00:36",
+      "added_at": "2025-10-17 04:00:49",
       "album": {
-        "name": "For My People",
-        "url": "https://open.spotify.com/album/6zKsrSQATcRO6ZHd3ZdoZD"
+        "name": "Rock & Rule EP",
+        "url": "https://open.spotify.com/album/5OfSzguxamws9IOutvWWWy"
       },
       "artists": [
         {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 205059,
-      "name": "For My People",
-      "url": "https://open.spotify.com/track/25b2Ftcple4DAIyQ3V0mPF"
+      "duration_ms": 207187,
+      "name": "Rock & Rule",
+      "url": "https://open.spotify.com/track/4hR9xYCDyufm6JBCzcrmnq"
     },
     {
       "added_at": "2025-09-19 14:22:02",
@@ -137,6 +225,42 @@
       "url": "https://open.spotify.com/track/4pmMxH0KwnIXLosX3r3LPd"
     },
     {
+      "added_at": "2025-10-17 04:00:49",
+      "album": {
+        "name": "Was I Loved?",
+        "url": "https://open.spotify.com/album/0xuivpSg8Z5zmBkYZZ5IUN"
+      },
+      "artists": [
+        {
+          "name": "Joss Dean",
+          "url": "https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Was I Loved?",
+      "url": "https://open.spotify.com/track/1OXp5ZrI1JXY0xY5H4ql7z"
+    },
+    {
+      "added_at": "2025-10-03 15:50:43",
+      "album": {
+        "name": "GEWAH Selects",
+        "url": "https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Moth To A Flame",
+      "url": "https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK"
+    },
+    {
       "added_at": "2025-09-12 16:39:39",
       "album": {
         "name": "EVERY TIME",
@@ -151,6 +275,62 @@
       "duration_ms": 253235,
       "name": "Like This Like That",
       "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "The Finest EP",
+        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Gets Like That",
+      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
+    },
+    {
+      "added_at": "2025-10-17 04:00:49",
+      "album": {
+        "name": "Keep it Real",
+        "url": "https://open.spotify.com/album/72erDWaZTO2Fdzdcjhi62H"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 207938,
+      "name": "Work feat. Nevve - Edit",
+      "url": "https://open.spotify.com/track/3eb7WYeXYav8I3q6iKQY5h"
+    },
+    {
+      "added_at": "2025-10-10 04:00:36",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2s6VXblISYuwL0VejJkz1j"
+      },
+      "artists": [
+        {
+          "name": "Marijn Jansen",
+          "url": "https://open.spotify.com/artist/09XO6EYxV6zgO6VVDF0epr"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/0IDKe97N4d80iZmRSShgee"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -177,40 +357,24 @@
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
     },
     {
-      "added_at": "2025-09-19 04:00:36",
+      "added_at": "2025-10-17 04:00:49",
       "album": {
-        "name": "The Finest EP",
-        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+        "name": "Shoop",
+        "url": "https://open.spotify.com/album/74sJFWGAJEGHxd5gNw6nS3"
       },
       "artists": [
         {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+          "name": "Damelo",
+          "url": "https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5"
         },
         {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+          "name": "NSJ",
+          "url": "https://open.spotify.com/artist/20yjvf2jPCLk4A4cLxYiNo"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Gets Like That",
-      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
-    },
-    {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
-        "name": "Straight From The Underground",
-        "url": "https://open.spotify.com/album/02hx3u9EST9kPmJQW3W9e5"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 148181,
-      "name": "Straight From The Underground",
-      "url": "https://open.spotify.com/track/7KLb3Ztja5ytGqMEKXUYnz"
+      "duration_ms": 197973,
+      "name": "Shoop",
+      "url": "https://open.spotify.com/track/2S2N71w3l1P66hJESioabj"
     },
     {
       "added_at": "2025-10-03 15:50:43",
@@ -229,22 +393,6 @@
       "url": "https://open.spotify.com/track/7IHeHb9qVqK3xbCggBmfIF"
     },
     {
-      "added_at": "2025-10-10 14:42:24",
-      "album": {
-        "name": "shock ep",
-        "url": "https://open.spotify.com/album/7bxENLl4AI8mhwuoDzbJI6"
-      },
-      "artists": [
-        {
-          "name": "Matrefakt",
-          "url": "https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI"
-        }
-      ],
-      "duration_ms": 177969,
-      "name": "shock",
-      "url": "https://open.spotify.com/track/5UbdWP5ehVyJsAxLFrKOSi"
-    },
-    {
       "added_at": "2025-10-03 15:50:43",
       "album": {
         "name": "F U 2",
@@ -259,6 +407,22 @@
       "duration_ms": 195245,
       "name": "F U 2",
       "url": "https://open.spotify.com/track/13NK0agepLbROYX0f7wcjn"
+    },
+    {
+      "added_at": "2025-10-17 04:00:49",
+      "album": {
+        "name": "Numb To The Flash",
+        "url": "https://open.spotify.com/album/4kkP4VIeyYcOtHv0zuMrI9"
+      },
+      "artists": [
+        {
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Numb To The Flash",
+      "url": "https://open.spotify.com/track/6hYN87RP1alb49CV2nN9fj"
     },
     {
       "added_at": "2025-10-10 14:42:24",
@@ -299,6 +463,22 @@
       "duration_ms": 146953,
       "name": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
       "url": "https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP"
+    },
+    {
+      "added_at": "2025-10-17 04:00:49",
+      "album": {
+        "name": "Funkay / The Gift",
+        "url": "https://open.spotify.com/album/6VsWgwpuUmmU2p3JGOVbZm"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        }
+      ],
+      "duration_ms": 180745,
+      "name": "Funkay",
+      "url": "https://open.spotify.com/track/0U7WnQ5tVJJVp0uvT2mYcT"
     },
     {
       "added_at": "2025-10-10 14:42:24",
@@ -383,22 +563,6 @@
       "duration_ms": 243692,
       "name": "Reset",
       "url": "https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl"
-    },
-    {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2s6VXblISYuwL0VejJkz1j"
-      },
-      "artists": [
-        {
-          "name": "Marijn Jansen",
-          "url": "https://open.spotify.com/artist/09XO6EYxV6zgO6VVDF0epr"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "It's Time",
-      "url": "https://open.spotify.com/track/0IDKe97N4d80iZmRSShgee"
     },
     {
       "added_at": "2025-09-26 05:04:40",
@@ -487,6 +651,22 @@
       "duration_ms": 220799,
       "name": "Solace",
       "url": "https://open.spotify.com/track/33b60gYbLb1HSaPXLJs5rm"
+    },
+    {
+      "added_at": "2025-10-10 14:42:24",
+      "album": {
+        "name": "shock ep",
+        "url": "https://open.spotify.com/album/7bxENLl4AI8mhwuoDzbJI6"
+      },
+      "artists": [
+        {
+          "name": "Matrefakt",
+          "url": "https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI"
+        }
+      ],
+      "duration_ms": 177969,
+      "name": "shock",
+      "url": "https://open.spotify.com/track/5UbdWP5ehVyJsAxLFrKOSi"
     },
     {
       "added_at": "2025-10-10 14:42:24",
@@ -659,26 +839,6 @@
       "duration_ms": 156562,
       "name": "Miami Express",
       "url": "https://open.spotify.com/track/5mcPtwytr83V4wh6MtRq0R"
-    },
-    {
-      "added_at": "2025-10-03 15:50:43",
-      "album": {
-        "name": "GEWAH Selects",
-        "url": "https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Moth To A Flame",
-      "url": "https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1149,26 +1309,6 @@
       "url": "https://open.spotify.com/track/3vdAiq7mUr2vMFO3YVQqOL"
     },
     {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Trip Advisor (Rhythm, Snare, Bass)",
-        "url": "https://open.spotify.com/album/36HerTCmVzCt8vBELkV1p8"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        },
-        {
-          "name": "BUGS",
-          "url": "https://open.spotify.com/artist/7rOB5aKka5XSi6iQsbKPpy"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Trip Advisor (Rhythm, Snare, Bass) - 2025 Warp Mix",
-      "url": "https://open.spotify.com/track/1UR7khfRiqa8f9bPlmMCyj"
-    },
-    {
       "added_at": "2025-09-19 04:00:36",
       "album": {
         "name": "Fight Club",
@@ -1245,22 +1385,6 @@
       "url": "https://open.spotify.com/track/6KaOJegxT92jNSBTrVajKF"
     },
     {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Denver",
-        "url": "https://open.spotify.com/album/5iqNR4NKZRMSzfJd3bj0fJ"
-      },
-      "artists": [
-        {
-          "name": "LIGHTLEAK",
-          "url": "https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC"
-        }
-      ],
-      "duration_ms": 190371,
-      "name": "Denver",
-      "url": "https://open.spotify.com/track/4bVvZz2ek77iSBj6HsmUyH"
-    },
-    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Up & Down EP",
@@ -1309,22 +1433,6 @@
       "url": "https://open.spotify.com/track/6xSAmQZOq9XKps4wXYL12n"
     },
     {
-      "added_at": "2025-07-09 18:30:05",
-      "album": {
-        "name": "No Hiding",
-        "url": "https://open.spotify.com/album/5o1gFqtHAZSleGn90gqj4A"
-      },
-      "artists": [
-        {
-          "name": "DAETOR",
-          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
-        }
-      ],
-      "duration_ms": 245659,
-      "name": "No Hiding",
-      "url": "https://open.spotify.com/track/1L6SsMnrTAKJs3VHd0B6aO"
-    },
-    {
       "added_at": "2025-09-05 04:00:16",
       "album": {
         "name": "Just Right",
@@ -1339,22 +1447,6 @@
       "duration_ms": 381843,
       "name": "Just Right",
       "url": "https://open.spotify.com/track/6uzCmuZHOgBlo4zxBZ8Xqy"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "Bounce / Round & Round",
-        "url": "https://open.spotify.com/album/5PEDhOH88uzMzXJXtA09hk"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 191954,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/4Rf0qGEGOtKTcWWIC3Fa69"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1629,22 +1721,6 @@
       "url": "https://open.spotify.com/track/0LbwAu16siBMH6jnRPM3Jc"
     },
     {
-      "added_at": "2025-07-02 15:10:18",
-      "album": {
-        "name": "ARMS",
-        "url": "https://open.spotify.com/album/1trwwDURtIwr5Tebht4aR5"
-      },
-      "artists": [
-        {
-          "name": "Almanac",
-          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "ARMS",
-      "url": "https://open.spotify.com/track/6Se1RGQEVquqpxqG0tmyUe"
-    },
-    {
       "added_at": "2025-04-18 20:13:27",
       "album": {
         "name": "Rock Ya Soul EP",
@@ -1751,22 +1827,6 @@
       "duration_ms": 234102,
       "name": "Rock The House",
       "url": "https://open.spotify.com/track/6OyHx4GJwzOGaktpjOuDJ5"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "The Liberation EP",
-        "url": "https://open.spotify.com/album/7FVF8neh5FxoA2TztUWb9w"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 194807,
-      "name": "Pushing Harder",
-      "url": "https://open.spotify.com/track/4DDPShFLKnMrfOYupGaihw"
     },
     {
       "added_at": "2025-05-30 04:00:35",
@@ -1941,22 +2001,6 @@
       "url": "https://open.spotify.com/track/6yXR8x2kz9CwJig3vCXVZl"
     },
     {
-      "added_at": "2025-05-16 04:00:35",
-      "album": {
-        "name": "DA HOUSE",
-        "url": "https://open.spotify.com/album/1pvqZT0FTTeheZ7aP7N1wI"
-      },
-      "artists": [
-        {
-          "name": "Luke Andy",
-          "url": "https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "DA HOUSE",
-      "url": "https://open.spotify.com/track/3KgvyyJIY7Yk7U8Uos7IAG"
-    },
-    {
       "added_at": "2025-03-19 18:08:52",
       "album": {
         "name": "I Remember (Tommy Phillips Remix)",
@@ -1999,38 +2043,6 @@
       "duration_ms": 162461,
       "name": "K.E.T. - Amine Mix",
       "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
-    },
-    {
-      "added_at": "2025-04-18 04:00:53",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/27N3fOm7u8Sj4JEGraTc1d"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 227753,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/5SZ0DESHbdeXHFATCtcORR"
-      },
-      "artists": [
-        {
-          "name": "Sloujin",
-          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
-        }
-      ],
-      "duration_ms": 194109,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
     }
   ],
   "unique_name": "Deep & Minimal",

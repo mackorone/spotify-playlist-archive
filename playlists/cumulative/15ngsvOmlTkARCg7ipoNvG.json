@@ -7937,6 +7937,24 @@
     },
     {
       "album": {
+        "name": "Dawning",
+        "url": "https://open.spotify.com/album/35ouYVLgMbsEMqqGxoY18H"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60431,
+      "name": "Dawning",
+      "url": "https://open.spotify.com/track/34HkXI9jhlv4z8iGufexqe"
+    },
+    {
+      "album": {
         "name": "Day Of Rest",
         "url": "https://open.spotify.com/album/0Bq52Hff03UGr3xgVXWis5"
       },

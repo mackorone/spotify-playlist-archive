@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-245 songs - 15 hr 40 min
+247 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 | 2023-03-09 |  |
 | [Foolish Heart](https://open.spotify.com/track/1C1KvQ8BUB0rjEiX39P29C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(20th Anniversary Edition\)](https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3) | 4:39 | 2023-03-09 | 2023-06-05 |
 | [Foolish Heart](https://open.spotify.com/track/3WfpkkRQPyg7m2rtqTELw3) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 4:39 | 2023-06-04 |  |
+| [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 | 2025-10-17 |  |
 | [Ghetto Story Chapter 2 \(feat\. Alicia Keys\)](https://open.spotify.com/track/4lhwhaW9bTJ3GdSyEP8mah) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:45 | 2023-03-09 |  |
 | [Girl on Fire](https://open.spotify.com/track/77xMtm3bTqLVN6FiJurLFv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys Tokyo Solo Show in 2025](https://open.spotify.com/album/0fzco3Tc9pfzx0FDpLlEJV) | 3:44 | 2025-10-10 |  |
 | [Girl on Fire](https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl on Fire \(Remixes\) \- EP](https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN) | 3:44 | 2023-03-09 | 2025-10-11 |
@@ -232,6 +233,7 @@
 | [Unbreakable \- Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY \- July 2005](https://open.spotify.com/track/7phNJkRpWv4SDp0Knpy1e4) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Unplugged \(20th Anniversary\)](https://open.spotify.com/album/7LfyN741oYHRG51SXIVKov) | 4:34 | 2025-10-05 | 2025-10-07 |
 | [Underdog](https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:24 | 2023-03-09 |  |
 | [Underdog](https://open.spotify.com/track/1umefo2cFpOUXfRhcqqhZM) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Official Video\)](https://open.spotify.com/album/6Q47XPZkkDpBJo4KoQvj1G) | 3:28 | 2023-12-13 | 2024-02-02 |
+| [Underdog \(feat\. Chronixx & Protoje\)](https://open.spotify.com/track/6NdQMHONIyLgjF8m95ybuk) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Underdog \(feat\. Chronixx & Protoje\)](https://open.spotify.com/album/7JJpUwH8EQpphzYM3CpV7E) | 2:59 | 2025-10-17 |  |
 | [Underdog \(Nicky Jam & Rauw Alejandro Remix\)](https://open.spotify.com/track/7xaZEMkGsrqrME6vWQzHGq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Nicky Jam & Rauw Alejandro Remix\)](https://open.spotify.com/album/6aof4WPnlXmqfL1MVt2cI2) | 3:25 | 2023-03-09 |  |
 | [Wait Til You See My Smile](https://open.spotify.com/track/6JAzU3Vy6uxrnh2zAd0byh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:00 | 2023-03-09 |  |
 | [Wake Up](https://open.spotify.com/track/5uOLfAXKYvGB57XRNCejRu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:27 | 2023-03-09 |  |

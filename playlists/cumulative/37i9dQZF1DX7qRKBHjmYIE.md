@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline & Amaia.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Rawayana.
 
-934 songs - 2 day 2 hr 19 min
+935 songs - 2 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-01-24 | 2022-05-26 |
 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-24 | 2024-06-08 |
 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 | 2024-03-22 | 2024-10-26 |
+| [La Noche Que No Había Uber](https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [La Noche Que No Había Uber](https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi) | 2:43 | 2025-10-17 |  |
 | [La Piscina](https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Piscina](https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD) | 3:23 | 2024-08-09 | 2025-01-26 |
 | [La Selva Se Lo Llevo](https://open.spotify.com/track/7HbliIqpMum8pNhGTB9hz0) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT), [Shary Rose](https://open.spotify.com/artist/0Fy1mYuGtX0RBAraYKsJId) | [Lost Tribes](https://open.spotify.com/album/4x6FWqKuw1ruzP8IcdiuFm) | 5:54 | 2023-02-17 | 2023-03-29 |
 | [La Tierra](https://open.spotify.com/track/0faPSJoLV0n8rGzHGlS6G3) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [La Tierra](https://open.spotify.com/album/1zDGrMi2tyMqeVh7IVpY0p) | 4:46 | 2021-12-02 | 2022-01-25 |
@@ -468,7 +469,7 @@
 | [Lluvia de Sangria](https://open.spotify.com/track/6YY6Envq9Of2S00sPpQjlS) | [nuwmat](https://open.spotify.com/artist/1USnbter1zibb4qvU5jppd), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx) | [Lluvia de Sangria](https://open.spotify.com/album/0eSWXJ0xBMySijzk8jJ7li) | 2:14 | 2024-09-20 | 2024-11-02 |
 | [LNDF](https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [LA NIÑA DE FUEGO](https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO) | 3:02 | 2021-12-02 | 2022-01-25 |
 | [lo q necesitabas](https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [lo q necesitabas](https://open.spotify.com/album/0lGBsRZiB4F8WaUadCirqT) | 1:43 | 2024-02-23 | 2024-04-19 |
-| [LO QUE ME CAUSA](https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [LO QUE ME CAUSA](https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2) | 3:00 | 2025-01-24 |  |
+| [LO QUE ME CAUSA](https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [LO QUE ME CAUSA](https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2) | 3:00 | 2025-01-24 | 2025-10-18 |
 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 | 2022-01-24 | 2022-04-09 |
 | [Loose](https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:05 | 2023-01-10 | 2023-02-03 |
 | [los alpes](https://open.spotify.com/track/4957L0Loaz27sUPgBlEeOb) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:20 | 2024-08-16 | 2025-09-27 |

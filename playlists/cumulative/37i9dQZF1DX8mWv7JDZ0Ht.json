@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Pe Lu, Magi",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: OUTROEU",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -1466,6 +1466,28 @@
       "duration_ms": 206864,
       "name": "Ar da Sua Gra\u00e7a",
       "url": "https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb"
+    },
+    {
+      "album": {
+        "name": "Arm\u00e1rio De Coisas Pequenas",
+        "url": "https://open.spotify.com/album/67Cgt4ecrhlHxJEC0U5D1U"
+      },
+      "artists": [
+        {
+          "name": "Deco Martins",
+          "url": "https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197954,
+      "name": "Arm\u00e1rio De Coisas Pequenas",
+      "url": "https://open.spotify.com/track/6hpalUVZYFpptw2xH0KPNH"
     },
     {
       "album": {
@@ -3530,7 +3552,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 212729,
       "name": "Como Nunca Antes",
       "url": "https://open.spotify.com/track/3sULbVqK8S16Rikxaqbjzs"
@@ -10294,7 +10316,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 315072,
       "name": "N\u00e3o Tenha D\u00f3",
       "url": "https://open.spotify.com/track/58Q63qvLRyp6Ftj5GcSHjM"
@@ -15580,6 +15602,24 @@
       "duration_ms": 138143,
       "name": "T\u00e3o Leve",
       "url": "https://open.spotify.com/track/2i2SzU9jZd6nNew4CJEKqw"
+    },
+    {
+      "album": {
+        "name": "Quarto",
+        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165676,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "album": {

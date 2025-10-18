@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-107 songs - 4 hr 41 min
+108 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,10 +78,11 @@
 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 | 2025-07-17 |  |
 | [Mijn Huis](https://open.spotify.com/track/7J0JfUBqeHiCb7tQoG6QaQ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Mijn Huis](https://open.spotify.com/album/6brRtgCcL0QpNhgOomYCFa) | 2:33 | 2025-07-17 |  |
 | [Mijntje](https://open.spotify.com/track/7G8Sd2g1wVXnmPUxpRitEX) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Mijntje](https://open.spotify.com/album/1NhlRAt4HUgo79YdrhZG0v) | 2:31 | 2025-07-17 |  |
-| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2025-07-17 |  |
+| [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2025-07-17 | 2025-10-18 |
 | [Never Alone](https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Never Alone](https://open.spotify.com/album/6YYoGKAxBFAva4Qu2EtHES) | 3:15 | 2025-07-17 |  |
 | [Niks Voor Mij](https://open.spotify.com/track/4K3ruvSedoAvOHijvvptqm) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Niks Voor Mij](https://open.spotify.com/album/7EYhYwOMCmnGWNeLNTkguI) | 2:07 | 2025-07-17 | 2025-08-30 |
 | [No Go Zone \(Remix\)](https://open.spotify.com/track/4XetXvo7S3IXMRPn8Do4LO) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [No Go Zone \(Remix\)](https://open.spotify.com/album/7C3DlpFK7aOVzOjM81nHWJ) | 4:40 | 2025-07-17 |  |
+| [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 | 2025-10-17 |  |
 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 | 2025-07-17 |  |
 | [Proost](https://open.spotify.com/track/0KfKG23F2eWsq3iJazXYvS) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:27 | 2025-07-17 | 2025-10-14 |
 | [Rock That Body \- Kris McTwain Remix Edit](https://open.spotify.com/track/7jaUp76e4cZTYhEhO2uYoC) | [Orangez](https://open.spotify.com/artist/21nZXorOWuzEXVa5LwK1ET), [Kristijan Popovic](https://open.spotify.com/artist/3eCx2tLdYCh7yhdF2hPlNB) | [Rock That Body](https://open.spotify.com/album/46VxdVl4H12VerlexfpiuG) | 3:01 | 2025-07-17 |  |

@@ -278,7 +278,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 119378,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/5vZYjoWGmvPCtSaXwXERUk"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -2430,7 +2430,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -14735,6 +14735,28 @@
     },
     {
       "album": {
+        "name": "No Me Ense\u00f1aste / Porque A\u00fan Te Amo",
+        "url": "https://open.spotify.com/album/4nL2ZZKbQv5Cbs9MSULoaz"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Morgade",
+          "url": "https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE"
+        },
+        {
+          "name": "ONE PLAY",
+          "url": "https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136624,
+      "name": "No Me Ense\u00f1aste / Porque A\u00fan Te Amo",
+      "url": "https://open.spotify.com/track/7bj6AcHuT064XOzinEbXbG"
+    },
+    {
+      "album": {
         "name": "No Quiero Verte",
         "url": "https://open.spotify.com/album/0rdRii7ibKqtqouzPva4qP"
       },
@@ -22060,7 +22082,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 147750,
       "name": "Tu Silueta",
       "url": "https://open.spotify.com/track/5Z3yxelFt8SBkk7Fijf1bg"
@@ -23134,7 +23156,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 159062,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 43068,
+  "num_followers": 43081,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAApQ1umUeMSxsAAJrakpJvb",
+  "snapshot_id": "aPA1gAAAAAA+lBZ5bGVWhhMuUAl5+mbt",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
       "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 248813,
-      "name": "Yuck (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
+      "duration_ms": 138319,
+      "name": "Freestyle 2",
+      "url": "https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV"
     },
     {
       "added_at": null,
@@ -143,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 138319,
-      "name": "Freestyle 2",
-      "url": "https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 230923,
       "name": "Blakk Rokkstar",
       "url": "https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Yuck (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 186756,
-      "name": "loading",
-      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
+      "duration_ms": 152368,
+      "name": "Swag Overload",
+      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 152368,
-      "name": "Swag Overload",
-      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
+      "duration_ms": 186756,
+      "name": "loading",
+      "url": "https://open.spotify.com/track/71NkBajKZWS6eu6PomUm6u"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 157694,
+      "name": "leather jacket",
+      "url": "https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "</3\u00b3",
         "url": "https://open.spotify.com/album/3wUVDdRTNWxMeYxbfYFPBi"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 262539,
       "name": "open it up (with Ken Carson)",
       "url": "https://open.spotify.com/track/0F8K7mgOVEZ7cpOLBPQx38"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 157694,
-      "name": "leather jacket",
-      "url": "https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 165353,
+      "name": "toxic",
+      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 228326,
       "name": "MDMA (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/6hJjp4IbXc5bddl6RKutJr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 165353,
-      "name": "toxic",
-      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 169889,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "President (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 187496,
       "name": "President (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 169889,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teen X : Relapsed",
+        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 77583,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 77583,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XTENDED",
         "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 201681,
       "name": "Fashion Habits",
       "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teen X : Relapsed",
+        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 116871,
+      "name": "Teen X Babe",
+      "url": "https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 161309,
       "name": "Hella",
       "url": "https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 116871,
-      "name": "Teen X Babe",
-      "url": "https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz"
     }
   ],
   "unique_name": "This Is Ken Carson",

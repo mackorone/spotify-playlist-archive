@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152584,
+  "num_followers": 152590,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAA6LJL1d/ud+0t8VaLgA90I",
+  "snapshot_id": "aPA1gAAAAAA2MLxBsKVG9+EdFpXLREpq",
   "tracks": [
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nueva Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 213030,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenaje a Los Grandes Compositores",
         "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 261133,
       "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, \u00c1ngela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nueva Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "La Chancla",
-      "url": "https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

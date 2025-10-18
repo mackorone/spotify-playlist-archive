@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3243,
+  "num_followers": 3246,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAAXwiLOJJitqANFKwKZ4/0q",
+  "snapshot_id": "aPA1gAAAAABKBb3wNOzo2+qhYfzOJzPA",
   "tracks": [
     {
       "added_at": null,
@@ -655,30 +655,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
+        "name": "The Word Of Your Body (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
       },
       "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "Graham Phillips",
-          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
-        },
-        {
-          "name": "Steven Sater",
-          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 207000,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
+      "duration_ms": 174226,
+      "name": "The Word Of Your Body - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
     },
     {
       "added_at": null,
@@ -703,26 +699,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Word Of Your Body (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
+        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
       },
       "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
         }
       ],
-      "duration_ms": 174226,
-      "name": "The Word Of Your Body - Rise Cast Version",
-      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+      "duration_ms": 207000,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
     },
     {
       "added_at": null,

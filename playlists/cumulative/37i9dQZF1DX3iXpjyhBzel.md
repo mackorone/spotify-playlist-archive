@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Isadora Pompeo
 
-363 songs - 1 day 12 hr 13 min
+364 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,11 +126,12 @@
 | [Está Tudo Bem](https://open.spotify.com/track/27aah6LyyKTSI4Kpq51Jhf) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Está Tudo Bem](https://open.spotify.com/album/1vP6Rril4XZA72ehbnFWZs) | 5:52 | 2023-01-20 | 2024-09-14 |
 | [Eu Amo a Tua Glória \- Ao Vivo](https://open.spotify.com/track/6bA5Bt4d2drlsBOYAghABi) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Eu Amo a Tua Glória \(Ao Vivo\)](https://open.spotify.com/album/2vdMe0H5bGJDKJVqbuheca) | 8:58 | 2022-09-09 | 2023-10-07 |
 | [Eu Confio em Ti](https://open.spotify.com/track/2h57Y9zXYOZPrZQFflBSkN) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG) | [Eu Confio em Ti](https://open.spotify.com/album/4fODYhgMDmRFyAs17YQwlZ) | 5:03 | 2024-07-23 |  |
-| [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 |  |
+| [Eu Creio \(Believe For It\)](https://open.spotify.com/track/0KYF47E8xIrKfUnlZOAXJF) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eu Creio \(Believe For It\)](https://open.spotify.com/album/7arXmK6JfnriihjvrxW5vG) | 6:23 | 2022-09-09 | 2025-10-18 |
 | [Eu Cuido De Você](https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Eu Cuido De Você](https://open.spotify.com/album/0DzMV4l5ScaaUgTw0PY4PL) | 5:01 | 2022-09-09 | 2023-03-25 |
 | [Eu e Minha Casa](https://open.spotify.com/track/0GD31r9na0U0TLJ3xO2Att) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Eu e Minha Casa](https://open.spotify.com/album/7lwYpvn2JNcPte6D5J2XhL) | 6:00 | 2025-06-13 |  |
 | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d) | 4:41 | 2023-07-14 | 2023-08-05 |
 | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5smxm1Rp8wsWaei8VBtKm5) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/6QZ6abxy3XaFJyytXZZNft) | 6:18 | 2023-01-13 | 2025-04-04 |
+| [Eu Quem Merecia](https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Eu Quem Merecia](https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib) | 5:50 | 2025-10-17 |  |
 | [Eu Quero Ser Grato](https://open.spotify.com/track/7v8Ui8MWtxBIBNtTgHWWwZ) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm), [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh) | [Eu Quero Ser Grato](https://open.spotify.com/album/6FTw5OQuXaNQzMKPkxM2D0) | 3:12 | 2024-11-30 | 2025-05-17 |
 | [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 | 2023-09-01 | 2025-06-03 |
 | [Eu Só Quero Adorar](https://open.spotify.com/track/0NUF4588gE3fH3GJdNtQFr) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR), [Nícolas Henrique](https://open.spotify.com/artist/5xvISfiKpFFkYr6MUfEbnU) | [Eu Só Quero Adorar](https://open.spotify.com/album/0J0CZ6pQkckFYkOfWxBfBs) | 4:15 | 2025-05-16 | 2025-10-04 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: CHEEV
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,377 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,418 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [](https://open.spotify.com/album/null) | 3:13 |
+| 1 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Romcom](https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d) | 3:13 |
 | 2 | [Місто дощів](https://open.spotify.com/track/1ooD9MR661uyCOryH4fRWI) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Місто дощів](https://open.spotify.com/album/5fN2YHkJ5TqcmN7ZS5w1Xw) | 3:40 |
-| 3 | [GAZ](https://open.spotify.com/track/7vAqHxf3p7SC1h3ljtAYWz) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [](https://open.spotify.com/album/null) | 2:19 |
+| 3 | [GAZ](https://open.spotify.com/track/7vAqHxf3p7SC1h3ljtAYWz) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Розкішна і зла](https://open.spotify.com/album/7joElWTXRqYZYH4rkFjepN) | 2:19 |
 | 4 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 5 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
-| 6 | [Warrior](https://open.spotify.com/track/7l18AWN3ri1RlZAijyZaAu) | [Olya Polyakova](https://open.spotify.com/artist/5hpfP3fMcBFgQyTEpo19tl), [The Fourth Choir](https://open.spotify.com/artist/5taVVXabvK7X90KZqGA5X5) | [Warrior](https://open.spotify.com/album/6pC6OtjTUkKArTbXve5uls) | 3:28 |
+| 6 | [Warrior](https://open.spotify.com/track/7l18AWN3ri1RlZAijyZaAu) | [Olya Polyakova](https://open.spotify.com/artist/5hpfP3fMcBFgQyTEpo19tl), [The Fourth Choir](https://open.spotify.com/artist/5taVVXabvK7X90KZqGA5X5) | [Warrior](https://open.spotify.com/album/6pC6OtjTUkKArTbXve5uls) | 3:15 |
 | 7 | [Не ходи](https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV), [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Не ходи](https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv) | 2:40 |
 | 8 | [АЛЛО, ПІДТРИМКА!](https://open.spotify.com/track/0jxCLaLYe3DhFnunYmI000) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [АЛЛО, ПІДТРИМКА!](https://open.spotify.com/album/4v1c1k6Bwbi90X7E4Zqlzr) | 2:14 |
 | 9 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |

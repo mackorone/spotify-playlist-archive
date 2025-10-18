@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAADkUXYZoDdr7L9HFErFw2r9",
+  "snapshot_id": "aPA1gAAAAABCD/xMEHvtMEJIK2bnSTb2",
   "tracks": [
     {
       "added_at": null,
@@ -315,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
+        "name": "The Six String Sorrow Sessions",
+        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
       },
       "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 210576,
-      "name": "I'm Done",
-      "url": "https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE"
+      "duration_ms": 288128,
+      "name": "Gunshy - Rerecorded",
+      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
     },
     {
       "added_at": null,
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Six String Sorrow Sessions",
-        "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
       "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 288128,
-      "name": "Gunshy - Rerecorded",
-      "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
+      "duration_ms": 210576,
+      "name": "I'm Done",
+      "url": "https://open.spotify.com/track/3GR0V5mwjNInFEGG7tYtxE"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 225363,
-      "name": "Change My Ways",
-      "url": "https://open.spotify.com/track/77jNaWJRQSsj1Ro9D1P8vA"
+      "duration_ms": 240068,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 240068,
-      "name": "Gravedigger",
-      "url": "https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW"
+      "duration_ms": 225363,
+      "name": "Change My Ways",
+      "url": "https://open.spotify.com/track/77jNaWJRQSsj1Ro9D1P8vA"
     }
   ],
   "unique_name": "This Is Koe Wetzel",

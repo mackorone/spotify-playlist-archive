@@ -4,7 +4,7 @@
 
 > In loving memory, D’Angelo, his legacy and other R&B tracks\. Cover: D’Angelo
 
-1,417 songs - 3 day 3 hr 39 min
+1,418 songs - 3 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Breathtaker](https://open.spotify.com/track/5EpHXpnrzfcIwdT9iPL5wO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:23 | 2024-10-10 | 2024-12-05 |
 | [Breeze in the beach \(feat\. CHAI\)](https://open.spotify.com/track/3FEAE1Iz4xGIBlSpzGPhIN) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Breeze in the beach \(feat\. CHAI\)](https://open.spotify.com/album/04CfgUmMEO3IJ1KHQlCIS8) | 3:02 | 2022-07-14 | 2022-07-22 |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-02-22 | 2024-04-19 |
+| [Broken Promise](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 3:14 | 2025-10-16 |  |
 | [Bubblegum](https://open.spotify.com/track/6JkEgDxW2YsGq5OCb5Ueom) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Bubblegum](https://open.spotify.com/album/7nwR8cZXFACiyyfy3vxEYo) | 3:32 | 2025-08-14 | 2025-08-23 |
 | [bum 2 me](https://open.spotify.com/track/6lKn8JoOM1Rgob6ebmAaGD) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bum 2 me](https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM) | 2:18 | 2023-04-27 | 2023-05-12 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2024-09-13 |
@@ -476,7 +477,7 @@
 | [Gotta Get Up](https://open.spotify.com/track/4Rq3FvaJRB56VpISyphP2A) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [magora](https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2) | [Gotta Get Up](https://open.spotify.com/album/1EoGcU6zR8hk7axkwRG29N) | 3:14 | 2025-01-30 | 2025-02-28 |
 | [Gratitudes](https://open.spotify.com/track/7t5fVlHWLM2fGM9eIICVon) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Gratitudes](https://open.spotify.com/album/5yAzxuffvIYzatSiyrvodj) | 3:16 | 2024-07-25 | 2024-09-20 |
 | [Great Things](https://open.spotify.com/track/5ROfDn4KzIvbXdRj8BTGB8) | [Van Siian](https://open.spotify.com/artist/0SwcwKadddF2A0gHCeyJMQ) | [Great Things](https://open.spotify.com/album/5h4H2dJGRfGLy0CZc3ZDag) | 3:20 | 2022-08-25 | 2022-10-21 |
-| [Greed](https://open.spotify.com/track/6SeKBq8l79WLvnDWQDd3GZ) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [](https://open.spotify.com/album/null) | 3:32 | 2025-10-16 |  |
+| [Greed](https://open.spotify.com/track/6SeKBq8l79WLvnDWQDd3GZ) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [SOLACE](https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ) | 3:32 | 2025-10-16 |  |
 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 | 2024-07-18 | 2024-11-15 |
 | [Guess I Should've Known](https://open.spotify.com/track/0vg9rIjo2WXxCOAqQhIfvO) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Guess I Should've Known](https://open.spotify.com/album/6p4L9Cwn8ZrMJM4G2aCUNU) | 3:15 | 2024-05-16 | 2024-06-01 |
 | [Guess So](https://open.spotify.com/track/19WpUSR2e3FXVOnO6kDSzf) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Guess So](https://open.spotify.com/album/28InhKTxfiyNUKP3dDIlDE) | 2:36 | 2025-02-13 | 2025-05-02 |
@@ -818,6 +819,7 @@
 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/638o7Aaf8sENHW1febUFZE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/4UEbK9a5Q9Robib0y0kzBF) | 3:14 | 2024-10-24 | 2024-11-01 |
 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-09 |  |
 | [NANIMONO](https://open.spotify.com/track/71piqHMTaaVbYWEWuaCk32) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [NANIMONO](https://open.spotify.com/album/3p1A4cDKrymxq8rThTl6Vz) | 3:38 | 2023-08-10 | 2023-08-18 |
+| [Natural](https://open.spotify.com/track/3irxOdgyrh21D6Vo2ALbUF) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Natural](https://open.spotify.com/album/4Mb1kBugQHbQp0Euimevri) | 2:46 | 2025-10-16 |  |
 | [Naughty](https://open.spotify.com/track/64UxpSQSCPXgNjkmVXA8oD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Naughty](https://open.spotify.com/album/1U5o6AzFRMRrFQG6AtLwx2) | 2:45 | 2023-05-18 | 2023-06-09 |
 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 | 2025-03-06 | 2025-04-25 |
 | [NEEDY](https://open.spotify.com/track/70TT8nFGh2hPh0W1vMulfP) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [NEEDY](https://open.spotify.com/album/5ykpO45Yi24t7ILKq9q2It) | 3:13 | 2025-05-29 | 2025-10-17 |
@@ -1269,7 +1271,6 @@
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 | 2023-10-06 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
-| [Track 8](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [TRACKSTAR](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [BLONDE & BLUE](https://open.spotify.com/album/28o56S8zvYByZDg6MjGN9c) | 3:12 | 2025-10-09 |  |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |

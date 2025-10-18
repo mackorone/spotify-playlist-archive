@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
 
-690 songs - 1 day 19 hr 15 min
+693 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 | 2025-08-01 |  |
 | [Corazón / Death by Disco Pt 2](https://open.spotify.com/track/5ePlrWLaehge6VpooLOiwt) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Corazón / Death by Disco Pt 2](https://open.spotify.com/album/4217Ui5bxrqSH3vuGrT20q) | 3:01 | 2024-07-26 | 2025-04-12 |
 | [Cosmology](https://open.spotify.com/track/1M2R7cAdnwWO08JinxumOU) | [Roza Terenzi](https://open.spotify.com/artist/403OOa2mD7jcUgpC8F7Qgs) | [Stylish Tantrum](https://open.spotify.com/album/5zHzMujcNpkEWGmO2IYcrA) | 6:21 | 2021-03-01 | 2024-03-02 |
-| [Crank It Up](https://open.spotify.com/track/3BN1vfnIwNeHOrSRNJXW8N) | [Helang](https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3) | [Crank It Up](https://open.spotify.com/album/63s5KfuMP27RquFGT1zfYd) | 3:04 | 2025-04-11 |  |
+| [Crank It Up](https://open.spotify.com/track/3BN1vfnIwNeHOrSRNJXW8N) | [Helang](https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3) | [Crank It Up](https://open.spotify.com/album/63s5KfuMP27RquFGT1zfYd) | 3:04 | 2025-04-11 | 2025-10-18 |
 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 | 2024-03-01 |  |
 | [crush](https://open.spotify.com/track/6KGsHohZ5ohVgr5N9l7kAY) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [what is a heart?](https://open.spotify.com/album/2CUFj3Cn9v4MSvQdvFnysG) | 2:36 | 2024-09-13 | 2024-11-16 |
 | [Crystallize](https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W) | 4:05 | 2024-06-24 | 2024-09-21 |
@@ -224,7 +224,7 @@
 | [Forbidden Fruit](https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Forbidden Fruit](https://open.spotify.com/album/7GnTlRiJC8e2NG6oNkm8FL) | 2:59 | 2025-07-11 |  |
 | [Foreign Love](https://open.spotify.com/track/0tV8BcMH8Y2SxRVeNAqNMx) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Foreign Love](https://open.spotify.com/album/3X2cNyUuEKzUh742B7YhZy) | 3:09 | 2024-03-01 | 2024-06-18 |
 | [Foreigner](https://open.spotify.com/track/3SDuW3SeTOynDuL4MRp6vJ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 4:32 | 2024-03-01 | 2024-03-30 |
-| [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-10 |  |
+| [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-10 | 2025-10-18 |
 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 | 2025-04-11 | 2025-09-13 |
 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 | 2024-11-15 | 2025-03-01 |
 | [Forever Fighting](https://open.spotify.com/track/7uZLDchZFDheikSUATFXcz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Forever Fighting](https://open.spotify.com/album/5sSRBwdeZrG8xsaCBnOqYo) | 2:50 | 2025-08-08 | 2025-09-13 |
@@ -355,6 +355,7 @@
 | [Joy](https://open.spotify.com/track/2oKFozpMCSlgRUgzI63TlZ) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Joy](https://open.spotify.com/album/5yWgQgQfvVzrbd9P7rS00J) | 3:32 | 2024-06-18 | 2025-04-26 |
 | [Junge Sein](https://open.spotify.com/track/2xkSrW9JHEqkIqWsEOXSOA) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [La Música Es Dios](https://open.spotify.com/album/1wfK31izFVK0tgw9SIiVLP) | 7:33 | 2021-03-01 | 2024-03-02 |
 | [Just Not Cute](https://open.spotify.com/track/6Lr9s4byjOdhwLYDPxshHD) | [LOVEFOXY](https://open.spotify.com/artist/11pW7chJfzATeandApxMBo) | [Just Not Cute](https://open.spotify.com/album/2QoBgE08gFPMieaebjr8D8) | 6:34 | 2025-07-18 | 2025-09-27 |
+| [K](https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Euphoria](https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag) | 4:15 | 2025-10-17 |  |
 | [KarateCat](https://open.spotify.com/track/4ZudaK7D1PiHoBndGMXkmS) | [Manda Moor](https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP) | [KarateCat](https://open.spotify.com/album/5lpFoLKyzSM8gsLjlZy00y) | 3:22 | 2024-05-10 | 2024-08-03 |
 | [Keep On Moving Up](https://open.spotify.com/track/0eO5J4bjVgjSLDB579BlkE) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Keep On Moving Up](https://open.spotify.com/album/5Wbi8QUhBMmpwUbEjnN7KX) | 3:05 | 2024-11-08 | 2025-05-03 |
 | [KILLA](https://open.spotify.com/track/3MBPOwvBIhpVRTH8BdTogi) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [KILLA](https://open.spotify.com/album/39kj5b04Kr5vRmSM6Z20FP) | 3:09 | 2024-03-01 | 2024-05-03 |
@@ -579,7 +580,7 @@
 | [Striptease](https://open.spotify.com/track/5kILHrfMHQ4eFHZqnu4yY3) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:43 | 2025-01-24 | 2025-04-19 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2023-03-07 | 2024-03-02 |
 | [SUCK](https://open.spotify.com/track/6xr2ZYvmTlL9LzaaqqmOX1) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCK](https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF) | 2:20 | 2024-03-08 | 2024-05-18 |
-| [SUCKING DIEZEL](https://open.spotify.com/track/5s7mnYmAVGs8jGwdzp3fZL) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [SUCKING DIEZEL](https://open.spotify.com/album/47vs5ZCwH7orh6fiqGNh3U) | 1:52 | 2025-04-04 |  |
+| [SUCKING DIEZEL](https://open.spotify.com/track/5s7mnYmAVGs8jGwdzp3fZL) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [SUCKING DIEZEL](https://open.spotify.com/album/47vs5ZCwH7orh6fiqGNh3U) | 1:52 | 2025-04-04 | 2025-10-18 |
 | [Sun](https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5) | 3:06 | 2023-03-07 | 2024-03-02 |
 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 | 2025-02-07 |  |
 | [Sunshine](https://open.spotify.com/track/0Dp3a7t94hj7S1h2mVIZN9) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Sunshine](https://open.spotify.com/album/2Qwwl2g2XcVtRT4xHdDEPL) | 3:43 | 2024-08-09 | 2024-12-07 |
@@ -605,6 +606,7 @@
 | [The Danger](https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/432bdHnwL1efoKDkSdROUz) | 2:27 | 2024-04-19 | 2024-04-27 |
 | [The Danger](https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/7FK9DwGJvYlLuT78hXgcer) | 2:27 | 2024-03-01 | 2024-04-19 |
 | [The Edge](https://open.spotify.com/track/0uT9cCSq5TPBm2yDAeME2y) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [The Edge](https://open.spotify.com/album/13zNTeakfEaJIcUEkNwvlM) | 3:10 | 2025-04-04 | 2025-09-20 |
+| [The Fault Is Mine](https://open.spotify.com/track/52guz6B9Tmho2QTpwVO6gC) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [The Fault Is Mine](https://open.spotify.com/album/7860RQWSgFaI72aF81Qqgu) | 3:33 | 2025-10-17 |  |
 | [The Game](https://open.spotify.com/track/0Rm3QhTh5GZoXdg5wI6MB4) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [The Game](https://open.spotify.com/album/4iVnaLmLr65RfBmzommKb1) | 3:09 | 2024-03-22 | 2024-06-08 |
 | [The Life](https://open.spotify.com/track/4u9Dvrt4VSSrOPvFTu6FPb) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [The Life](https://open.spotify.com/album/0OXDzuQer6RMIBeksBYEYk) | 2:48 | 2024-07-05 | 2024-11-23 |
 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2025-10-03 |  |
@@ -696,6 +698,7 @@
 | [You Don't Want This](https://open.spotify.com/track/3edzwG1cecnBkGXbGXdCYT) | [OKAYVAL](https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ) | [You Don't Want This](https://open.spotify.com/album/0Hyhfj8DbJ4nE8jK89fEe6) | 3:39 | 2024-06-24 | 2024-10-12 |
 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 | 2025-10-10 |  |
 | [You Know How](https://open.spotify.com/track/6g6KOjQq93bl3Ujeog9OeJ) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [You Know How](https://open.spotify.com/album/4OaqBumCibL27CLCFu3VxP) | 5:32 | 2024-07-26 | 2024-10-05 |
+| [You You You You Me Me Me Again](https://open.spotify.com/track/5DPzUocpYWubJ74I4HjWyM) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [You You You You Me Me Me Again](https://open.spotify.com/album/4jfCtHA2EaSAgcdLXydygi) | 3:16 | 2025-10-17 |  |
 | [Your Skin](https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Your Skin](https://open.spotify.com/album/7se5zvHVTlsELjqh4MZmRR) | 4:06 | 2024-04-19 | 2024-06-08 |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2023-03-07 | 2024-03-02 |
 

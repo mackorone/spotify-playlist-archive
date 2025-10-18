@@ -1,12 +1,12 @@
 {
   "description": "This is Yo-Yo Ma. The essential tracks, all in one playlist.",
-  "num_followers": 98218,
+  "num_followers": 98231,
   "original_name": "This Is Yo-Yo Ma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACYirUs4LLj4NB9XL1/gvQI",
+  "snapshot_id": "aPA1gAAAAAAo4tj9iV7WMvBxMynv7xi0",
   "tracks": [
     {
       "added_at": null,
@@ -1239,26 +1239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Six Evolutions - Bach: Cello Suites",
-        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/2vO5wNNXjXU28OWp5gyHEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach Trios",
         "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 258360,
       "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
       "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/2vO5wNNXjXU28OWp5gyHEO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,716 likes - 100 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,713 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 4 | [HERE WE GO AGAIN](https://open.spotify.com/track/4mGTpDMsOvm8HEmCQYmhKB) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [HERE WE GO AGAIN](https://open.spotify.com/album/6SK56sERumrjdNTsQSmBxF) | 2:30 |
 | 5 | [COUNT YOUR BLESSINGS](https://open.spotify.com/track/0YmcHurKqkzDQeHB8zuzk0) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 4:08 |
 | 6 | [HAND OF GOD](https://open.spotify.com/track/5uU3WcUlNxcbP2nGiTihW8) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [GODHANDUSA](https://open.spotify.com/artist/52XZBIfTRn9iyM7QLf6DmX) | [HAND OF GOD](https://open.spotify.com/album/3iiaoDbegf42GdVGpl7HXc) | 3:50 |
-| 7 | [Save Me \(feat\. WesGhost\)](https://open.spotify.com/track/6GR0nvTDkY7vHOiIstmxV7) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [Save Me \(feat\. WesGhost\)](https://open.spotify.com/album/2E4BO0Z87KruO9hvJU8QMH) | 2:04 |
+| 7 | [PSYCHWARD \(with WesGhost\)](https://open.spotify.com/track/4Youy15ONr6X3Y1ss8NICp) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [PSYCHWARD](https://open.spotify.com/album/5oq9z5XNldcl7wTiEamVvo) | 2:53 |
 | 8 | [the ghost and the spider](https://open.spotify.com/track/5OMPhfn3sfkowTaluYOPxs) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [the ghost and the spider](https://open.spotify.com/album/18k2UoIPpnKIf4sr5PWeG5) | 3:01 |
 | 9 | [SHOOT SHIT](https://open.spotify.com/track/2DjSXkfco4fnVHHWtvNWHF) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHOOT SHIT](https://open.spotify.com/album/3wLkjozc2LEfw90vQ5kAki) | 2:14 |
 | 10 | [NIGHTCRAWLER BABY HOW I’M CREEPIN THRU THE NIGHT](https://open.spotify.com/track/4qQltCVnVGSgHVNrtZg3CO) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [NIGHTCRAWLER](https://open.spotify.com/album/2jadkgPCzUbB6446dfAclT) | 2:20 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 57 | [A Perfect & Immortal Machine](https://open.spotify.com/track/51gdQs4BEup4BpCW4pV5yS) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn) | [A Perfect & Immortal Machine](https://open.spotify.com/album/1ciEMexkTfMisF87MJIRrY) | 2:10 |
 | 58 | [Live From Da Deep End \(feat\. Black Kray\)](https://open.spotify.com/track/0emzIVyxMRBwJOH1N8qwZn) | [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh), [Black Kray](https://open.spotify.com/artist/7EmyqxxYZltYLKFk9sAHzM) | [Live From Da Deep End](https://open.spotify.com/album/2wd8bZfdg08HNSkCH1IVyO) | 2:58 |
 | 59 | [MARMADUKE](https://open.spotify.com/track/5d9imY4am4ijdLDFnh82xK) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [MARMADUKE](https://open.spotify.com/album/0dhNOPuRXG34XjGKpJrlce) | 3:06 |
-| 60 | [TOMORROW WILL NOT COME](https://open.spotify.com/track/5t9SAPZmW0zTmkYGLc4sTk) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [TOMORROW WILL NOT COME](https://open.spotify.com/album/2urKBNTHSezfBsuJf4lLWi) | 2:37 |
-| 61 | [TAMAGO KAKE GOHAN](https://open.spotify.com/track/1u8cWdbrtFbfETFvyhU5gu) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [TAMAGO KAKE GOHAN](https://open.spotify.com/album/5fdA6CBCmJaGgI78Ch2kEC) | 3:47 |
+| 60 | [Save Me \(feat\. WesGhost\)](https://open.spotify.com/track/6GR0nvTDkY7vHOiIstmxV7) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH), [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [Save Me \(feat\. WesGhost\)](https://open.spotify.com/album/2E4BO0Z87KruO9hvJU8QMH) | 2:04 |
+| 61 | [TOMORROW WILL NOT COME](https://open.spotify.com/track/5t9SAPZmW0zTmkYGLc4sTk) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [TOMORROW WILL NOT COME](https://open.spotify.com/album/2urKBNTHSezfBsuJf4lLWi) | 2:37 |
 | 62 | [Walking Doom](https://open.spotify.com/track/1VEWJggd5tmEBeenxVGE58) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Walking Doom](https://open.spotify.com/album/0A6id7JRdKflvTW5tkysaY) | 2:02 |
 | 63 | [IN DA TRUNK](https://open.spotify.com/track/4RpNI3r35XYuuerXm0pDXu) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [FROM THA GUTTAH TO THA GRAVE](https://open.spotify.com/album/1DftE2GelmDGxffWRhRGaC) | 1:48 |
 | 64 | [Black Dahlia](https://open.spotify.com/track/1Khv5TP0lDVHlWh1uOFIhg) | [Eraze](https://open.spotify.com/artist/7Ey6760malJE2lPWsZKC9Q) | [DEATH](https://open.spotify.com/album/1EV5CgywmFFeE9ZWbcbuwS) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [THIEF IN THE NIGHT](https://open.spotify.com/track/12kIpARSic31mwXTdUuMLU) | [Kelvin Krash](https://open.spotify.com/artist/4rjJpumNzqRUf75vCzSlQb), [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [THIEF IN THE NIGHT](https://open.spotify.com/album/3ydrHaAw7BOX1gNcqd8Pc4) | 1:59 |
 | 100 | [Out Bound](https://open.spotify.com/track/743lAvxFeQ4urSb4Cy9eWV) | [Lord Distortion](https://open.spotify.com/artist/43tKe2VlroCkY1eSfcwp7f) | [Out Bound](https://open.spotify.com/album/4Ni3S6HTbaAnsuEwoEti3h) | 2:36 |
 
-Snapshot ID: `AAAAAEkinR2DinXFW487WGHNkaIY5/AD`
+Snapshot ID: `AAAAANQvRNj0fMzznYD5yeoWc20rL9I0`

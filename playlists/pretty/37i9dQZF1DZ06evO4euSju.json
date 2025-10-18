@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAADxXaGUa1wv3KWzaNbAovKA",
+  "snapshot_id": "aPA1gAAAAAAqzFwv8chg3POfvXVmb/b6",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 213863,
       "name": "Wax Poetic",
       "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 284104,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2BIbQW7IHxJhE6J8i5PM9V"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dazed",
         "url": "https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 247170,
       "name": "Mirror Talk",
       "url": "https://open.spotify.com/track/5FXNdpyVlUObWx7jLDor5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 339212,
       "name": "Sparkle / Fade",
       "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 224214,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
     },
     {
       "added_at": null,
@@ -384,25 +384,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 232785,
-      "name": "Supermachine",
-      "url": "https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+      "duration_ms": 227820,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
       "duration_ms": 246325,
       "name": "Outside of Love",
       "url": "https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

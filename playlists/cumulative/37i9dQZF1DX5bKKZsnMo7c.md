@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Paris Paloma
 
-518 songs - 1 day 4 hr 8 min
+520 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 | 2022-12-10 |
 | [Alabama Stone](https://open.spotify.com/track/4wYtMm8dCeqbcOMVE2Z5hs) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Alabama Stone](https://open.spotify.com/album/21EwKvVlMvjG5tsgJrzdvu) | 3:45 | 2024-12-06 | 2025-03-01 |
 | [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-10-27 | 2024-08-10 |
+| [ALICE \- Red Queen Version](https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [ALICE \(Red Queen Version\)](https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2) | 2:28 | 2025-10-17 |  |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 | 2024-06-29 |
 | [Alive](https://open.spotify.com/track/1DtQMNuEieMUYm2g4SoD8M) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Alive](https://open.spotify.com/album/1LUxUwfGmcVMmT2K5Tn4ed) | 2:48 | 2024-05-03 | 2024-05-15 |
 | [All Eyes On Me](https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 5:02 | 2022-06-07 | 2022-08-06 |
@@ -44,7 +45,7 @@
 | [At Least I'd Be A Cowboy!](https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [At Least I'd Be A Cowboy!](https://open.spotify.com/album/3LaOLtlVtwETFzfSnae2zb) | 3:23 | 2025-06-20 |  |
 | [Austrian Dream](https://open.spotify.com/track/7tMmo6tUPxYpbNKTK2X0HF) | [Jeansboy](https://open.spotify.com/artist/2nYe3KXA5KldRLU6Zak0hw), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Austrian Dream](https://open.spotify.com/album/67EKn6DBGd5dbwnkZOGBIT) | 5:08 | 2025-02-14 | 2025-03-08 |
 | [Backseat Girl](https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Backseat Girl](https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9) | 2:23 | 2024-03-01 | 2024-04-24 |
-| [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2023-12-27 |  |
+| [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2023-12-27 | 2025-10-18 |
 | [BAD LUCK!](https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 3:33 | 2022-05-17 | 2022-12-10 |
 | [Beautiful Little Life](https://open.spotify.com/track/4CLWxgdo4e2z27PGQ9uxme) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Beautiful Little Life](https://open.spotify.com/album/5L4UWzUa7sGi70mbu1wcxF) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Better People to Leave on Read](https://open.spotify.com/track/2udku1cSrUneAFrBqJlsX4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People to Leave on Read](https://open.spotify.com/album/5etWv6LmZ9I27HawXUMRnY) | 2:11 | 2023-05-14 | 2023-06-03 |
@@ -87,7 +88,7 @@
 | [Butch 4 Butch](https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/66kse7y7d7ycufUwpUr184) | 2:58 | 2022-06-07 | 2023-06-03 |
 | [Butch 4 Butch](https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/71s8Wq2B3M7aIB5loki5XC) | 2:58 | 2022-05-17 | 2022-07-29 |
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2022-05-17 | 2023-06-21 |
-| [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-21 |  |
+| [BUTTERFLY](https://open.spotify.com/track/6a8KhlDiDzF6Jr5Vkru8Gz) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [BUTTERFLY](https://open.spotify.com/album/2H5ewofU3ee5FjeUBJ6FQy) | 4:25 | 2025-02-21 | 2025-10-18 |
 | [BUZZZN](https://open.spotify.com/track/4aDvMSlTIH4RP66ignhUFv) | [Helluva Boss](https://open.spotify.com/artist/30cRkaPheq12mYs5jo0qg7), [Rochelle Diamante](https://open.spotify.com/artist/1LBGR7XDjLl6koGwUthUEs), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/6UJha694htAqAP6Ad1M4Oy) | [Helluva Boss: Season One \(Original Soundtrack\)](https://open.spotify.com/album/7AjoUb9SiaGNfl2n99YYiz) | 2:56 | 2025-09-12 |  |
 | [C.R.I.N.G.E.](https://open.spotify.com/track/25MPQTNLhtMFbMPzNxghFj) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [C.R.I.N.G.E.](https://open.spotify.com/album/53VfafhPaGOkRigoncylVc) | 3:04 | 2025-01-17 | 2025-05-23 |
 | [Cabinet Man](https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 4:22 | 2022-05-17 | 2024-12-28 |
@@ -301,6 +302,7 @@
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx) | 2:01 | 2023-03-07 | 2024-01-27 |
 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 | 2024-01-26 | 2024-08-10 |
 | [lucy\~](https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [lucy\~](https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq) | 1:58 | 2024-04-24 | 2025-09-24 |
+| [Lust](https://open.spotify.com/track/2Tf3o75XkU0IS06tYgEuvn) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Lust](https://open.spotify.com/album/5nQalzcY5OAeEjf2AfpOu0) | 1:55 | 2025-10-17 |  |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-09-28 |
 | [mad's world](https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [mad's world](https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5) | 3:14 | 2023-10-13 | 2024-04-24 |
 | [Marble Arch](https://open.spotify.com/track/21zKWP33iPQYuCWIWipRhk) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [Marble Arch](https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG) | 3:11 | 2025-03-21 |  |

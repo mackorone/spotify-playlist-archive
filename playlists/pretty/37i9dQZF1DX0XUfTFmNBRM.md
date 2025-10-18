@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,905,751 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,906,796 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 | 5 | [Ghafoor](https://open.spotify.com/track/4Ywwc43oYbL2zRWWcbSo1c) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [The Ba\*\*\*ds Of Bollywood](https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k) | 2:46 |
 | 6 | [Mafia](https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:22 |
 | 7 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 |
-| 8 | [Dilbar Ki Aankhon Ka \(From "Thamma"\)](https://open.spotify.com/track/5jE2mbf6tsHwYIk0tiEix2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dilbar Ki Aankhon Ka \(From "Thamma"\)](https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq) | 2:49 |
+| 8 | [Dilbar Ki Aankhon Ka \(From "Thamma"\) \[Feat\. Nora Fatehi\]](https://open.spotify.com/track/5jE2mbf6tsHwYIk0tiEix2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dilbar Ki Aankhon Ka \(From "Thamma"\) \[Feat\. Nora Fatehi\]](https://open.spotify.com/album/6iJ7sOLA4jqh2uPYAvKzuq) | 2:49 |
 | 9 | [Ishq](https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Rauhan Malik](https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js), [Amir Ameer](https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj) | [Lost;Found](https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH) | 3:44 |
 | 10 | [Kashish](https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH) | [Ashish Bhatia](https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk), [Omkar Singh](https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr), [Kashish Ratnani](https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk) | [Kashish](https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL) | 3:13 |
 | 11 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |

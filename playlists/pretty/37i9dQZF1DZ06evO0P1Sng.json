@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8223,
+  "num_followers": 8224,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAADzD7ZnD9A4GXU20MebJTaS",
+  "snapshot_id": "aPA1gAAAAACeXXV/LyYasUAWJ7EAQU/X",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outro Lugar",
+        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 153623,
+      "name": "Outro Lugar",
+      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 4",
         "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 414703,
       "name": "Poetisas no Topo 4",
       "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outro Lugar",
-        "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 153623,
-      "name": "Outro Lugar",
-      "url": "https://open.spotify.com/track/5wPLXHoC5WaIe1grjPvgvJ"
     },
     {
       "added_at": null,
@@ -1051,38 +1051,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Minutos",
-        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "2 Minutos",
-      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azzy On The Radar Freestyle",
         "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
       },
@@ -1139,6 +1107,38 @@
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Minutos",
+        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "2 Minutos",
+      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
     },
     {
       "added_at": null,
@@ -1319,30 +1319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arquivos",
         "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
       },
@@ -1391,22 +1367,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azzy (Ao Vivo no REP Festival)",
-        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "REP Festival",
-          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
         }
       ],
-      "duration_ms": 196837,
-      "name": "Priv\u00ea - Ao Vivo no REP Festival",
-      "url": "https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS"
+      "duration_ms": 136750,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
     },
     {
       "added_at": null,
@@ -1435,30 +1415,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "RIVA",
-        "url": "https://open.spotify.com/album/1CvMpqtrSIAyLNTxLZywW6"
+        "name": "Azzy (Ao Vivo no REP Festival)",
+        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "REP Festival",
+          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 196837,
+      "name": "Priv\u00ea - Ao Vivo no REP Festival",
+      "url": "https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eles N\u00e3o Ligam Pra Gente",
+        "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Diomedes Chinaski",
+          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
         },
         {
-          "name": "Drow Beats",
-          "url": "https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt"
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 207419,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/2soJBLi9FHA7AUZYylXXad"
+      "duration_ms": 360000,
+      "name": "Eles N\u00e3o Ligam Pra Gente",
+      "url": "https://open.spotify.com/track/0QTcx4DhVrU7jcYRBVDVvW"
     }
   ],
   "unique_name": "This Is Azzy",

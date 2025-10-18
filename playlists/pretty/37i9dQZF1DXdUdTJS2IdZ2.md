@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,100 likes - 115 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,100 likes - 115 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blessing In Disguise](https://open.spotify.com/track/4nxVjVTJ5bXYRrYprebfpu) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Blessing In Disguise](https://open.spotify.com/album/6gCCMU08HProILDq9vUAwU) | 2:33 |
-| 2 | [Track 8](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Broken Promise](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 3:14 |
 | 3 | [你難道就沒有想起我](https://open.spotify.com/track/0ALeZsRHeUzejvS3pAc8JT) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [你難道就沒有想起我](https://open.spotify.com/album/6OzCokXMl47MXVle6Qnven) | 4:00 |
-| 4 | [Track 7](https://open.spotify.com/track/6sYAmeNckXMvsMNsHzrd5S) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Habits](https://open.spotify.com/track/6sYAmeNckXMvsMNsHzrd5S) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 2:23 |
 | 5 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 |
 | 6 | [PICTURE PERFECT](https://open.spotify.com/track/7uKhCdAmsIjt5NlIi7k59n) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [PICTURE PERFECT](https://open.spotify.com/album/3gW0W0KQxbb61vFGe5efQQ) | 3:07 |
 | 7 | [The Show](https://open.spotify.com/track/7FtISjqfWfKfn1egVreLIh) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [The Show](https://open.spotify.com/album/5at109EzEkz7HZxHxmBnlV) | 3:10 |

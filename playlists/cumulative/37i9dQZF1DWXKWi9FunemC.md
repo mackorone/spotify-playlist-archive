@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-321 songs - 21 hr 29 min
+322 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Fortress \(Acoustic\)](https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3) | [Refuge Worship](https://open.spotify.com/artist/0Ub20KqDlmWDkqntwrKnVz) | [Fortress \(Acoustic\)](https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X) | 4:09 | 2020-08-31 | 2025-10-11 |
 | [Found](https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [SURVEY: Part 1](https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0) | 5:50 | 2023-07-28 |  |
 | [Found in You](https://open.spotify.com/track/4laQ1iAAsNgyyKetbee9O0) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Found in You](https://open.spotify.com/album/4jmDf4lrzi1fHKIbWIplxe) | 2:42 | 2025-08-06 |  |
-| [Friend](https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Forever Communion](https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc) | 3:26 | 2025-08-06 |  |
+| [Friend](https://open.spotify.com/track/713ziGPpbalDlt2XXkqCPt) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Forever Communion](https://open.spotify.com/album/6lIDqfVKFvfH2DlutLroMc) | 3:26 | 2025-08-06 | 2025-10-18 |
 | [Garden](https://open.spotify.com/track/18RAcbwi6NAeHbeFaufyAE) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Garden](https://open.spotify.com/album/4JjEdlwyFfpEhD7U4qupC1) | 3:16 | 2020-08-31 | 2023-07-29 |
 | [Get Your Hopes Up](https://open.spotify.com/track/1axUIOWOLCGMJkGwTKgzda) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw) | 4:37 | 2020-08-31 | 2025-10-11 |
 | [Get Your Hopes Up](https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [The War Is Over](https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY) | 4:37 | 2020-08-31 | 2024-04-19 |
@@ -308,6 +308,7 @@
 | [Who Loves](https://open.spotify.com/track/1ZJTrzjV4iAm2XejMTJvZN) | [Issac Mansfield](https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w) | [Who Loves](https://open.spotify.com/album/4fxw34zALhhysZxboTJBFF) | 2:24 | 2025-10-10 | 2025-10-17 |
 | [Who May Ascend](https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo) | [Cross Church Worship](https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO) | [Who May Ascend](https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG) | 4:56 | 2020-08-31 | 2025-10-11 |
 | [Who You Say I Am \- Live/Acoustic](https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 3:11 | 2020-08-31 | 2024-06-24 |
+| [Who's My Neighbor? \- Acoustic](https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Who's My Neighbor? \(Acoustic\)](https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr) | 3:03 | 2025-10-10 |  |
 | [Wide Place](https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [Wide Place](https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp) | 4:22 | 2020-08-31 | 2025-10-11 |
 | [Wildflowers](https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Wildflowers](https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ) | 3:14 | 2025-08-06 |  |
 | [Wildflowers \(Seek Ye First\)](https://open.spotify.com/track/51027qMz6tsxVKiNfObYae) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Songs About Jesus](https://open.spotify.com/album/2L0thC4nvrQ4yVRLxFzgCG) | 3:39 | 2025-08-06 | 2025-10-11 |

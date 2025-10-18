@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Kelvin Sings
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,851 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,867 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oluwatosin II](https://open.spotify.com/track/6WjfbwsyCYAO4ukmityPSY) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Oluwatosin II](https://open.spotify.com/album/2Syvc9YD0TePtXKUvPSlfc) | 10:56 |
 | 2 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
-| 3 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [](https://open.spotify.com/album/null) | 3:20 |
+| 3 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 |
 | 4 | [devotion](https://open.spotify.com/track/0hzwqsORr0LMEmeASvvRrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [devotion](https://open.spotify.com/album/2CoJ8PPfjEjBGXTqan0COe) | 2:16 |
 | 5 | [Reckless Love](https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg) | 5:33 |
 | 6 | [Infinity](https://open.spotify.com/track/4m6skbhTVYDH4VAix5VhD8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Infinity](https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48) | 3:41 |

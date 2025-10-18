@@ -4,7 +4,7 @@
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-61 songs - 3 hr 56 min
+62 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 | 2022-10-11 |  |
 | [Diep In Mijn Hart](https://open.spotify.com/track/4naWA5coCt4fpzD8K6dSuw) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:49 | 2022-10-11 |  |
 | [Een Beetje Geld Voor Een Beetje Liefde](https://open.spotify.com/track/5Qp9zzVMWSLfrPokMUa8Px) | [Angelique](https://open.spotify.com/artist/5Wc9qBtVXUCDU44qtXDymm) | [Smartlappen Top 100 \- Deel 2](https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv) | 3:03 | 2022-10-11 |  |
-| [Een Beetje Van Dit](https://open.spotify.com/track/2DDXb3mlFfM0JOnMdWK4Bd) | [Vulcano](https://open.spotify.com/artist/2tsjX3EgFU0t7Ure3FVvZF) | [Heerlijk Hollands \- Het Allerbeste van Frizzle Sizzle & Vulcano](https://open.spotify.com/album/7dTj2T14Jynv3ycUZgjdlr) | 2:38 | 2022-10-11 |  |
+| [Een Beetje Van Dit](https://open.spotify.com/track/2DDXb3mlFfM0JOnMdWK4Bd) | [Vulcano](https://open.spotify.com/artist/2tsjX3EgFU0t7Ure3FVvZF) | [Heerlijk Hollands \- Het Allerbeste van Frizzle Sizzle & Vulcano](https://open.spotify.com/album/7dTj2T14Jynv3ycUZgjdlr) | 2:38 | 2022-10-11 | 2025-10-18 |
 | [Een Beetje Verliefd](https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 4:14 | 2022-10-11 |  |
 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 | 2022-10-11 |  |
 | [Een Tip Van De Sluier](https://open.spotify.com/track/2akTFtrsRuzFtdpDt4ItJz) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Collected \(1964 \- 2016\)](https://open.spotify.com/album/5bPH5FC8gRqCsVSgoUm5lD) | 4:55 | 2022-10-11 |  |
@@ -55,6 +55,7 @@
 | [Net\-as gisteren \- Live](https://open.spotify.com/track/4IwUhu03sPNuuPD2MZa2KA) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Springlèavend](https://open.spotify.com/album/4XP7ugRszl1yG6QbTFiTTw) | 3:51 | 2022-10-11 |  |
 | [Niemand Laat Zijn Eigen Kind Alleen](https://open.spotify.com/track/4cj2rF9TMmxYAVTNSAQ9P0) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 3:08 | 2022-10-11 |  |
 | [O O Den Haag](https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N) | [Harry Klorkestein](https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B) | [Alles](https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq) | 4:01 | 2022-10-11 |  |
+| [Ontmoeting](https://open.spotify.com/track/2EK4CN6zYeHuZh8HqHwB4E) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Alle 40 Goed](https://open.spotify.com/album/4EuC8OYvXJPgjFBPM1yZG3) | 4:31 | 2022-10-11 |  |
 | [Open Einde](https://open.spotify.com/track/54CctrS6IHUuIxi5vLgW5i) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:51 | 2022-10-11 |  |
 | [Oude Maasweg](https://open.spotify.com/track/02utYejOAb0Pw7r4tkbfOu) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Hard Voor Weinig \(20 singles\)](https://open.spotify.com/album/7wvQAqYh8vDvXRscEuxjVt) | 3:28 | 2022-10-11 |  |
 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 | 2022-10-11 |  |

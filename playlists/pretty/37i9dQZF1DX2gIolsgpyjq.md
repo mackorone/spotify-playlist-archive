@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Girl Scout
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,988 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,006 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 7 | [wurl](https://open.spotify.com/track/2lEv1yBUG8BcT4s1xKD237) | [Anni II](https://open.spotify.com/artist/6c9h8a6rq1IF6XZuurv6xX) | [Are You Running Annie?](https://open.spotify.com/album/6jgPP5IRbtvTPWVIwdIWMv) | 3:18 |
 | 8 | [Lotus](https://open.spotify.com/track/1CKjiDpIV5bfe17m1ePp2x) | [shy FLW](https://open.spotify.com/artist/3Bw6jaOFcRjs4SaFusJCMB) | [Lotus](https://open.spotify.com/album/5L70WQSMHbW9UqtOEzZpwh) | 2:11 |
 | 9 | [To Myself](https://open.spotify.com/track/4vMiSFEGmwOCeemWn30jkS) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [To Myself](https://open.spotify.com/album/5x8bo8h41i5CapY9t1v87i) | 2:34 |
-| 10 | [Track 3](https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [](https://open.spotify.com/album/null) | 0:00 |
+| 10 | [Never Wanna Have Fun](https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [Enemies](https://open.spotify.com/album/0U7Ng1lZGQLdhD9jgMIPUn) | 2:34 |
 | 11 | [In My Head](https://open.spotify.com/track/1KlX4Kggmed5MktcQmw426) | [Miriam Majcherek](https://open.spotify.com/artist/4MajfJSVJ2DqyO6ekWyY6f) | [In My Head](https://open.spotify.com/album/4B5L1bJeGthmTuS5JvsbMH) | 3:05 |
 | 12 | [Play n Repeat](https://open.spotify.com/track/3SfZm17PVsua5tI5LQNimt) | [EILA](https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf) | [Play n Repeat](https://open.spotify.com/album/7nl2YsxwatTwI8KeT1utKn) | 2:46 |
 | 13 | [SM7, SOLID STATE](https://open.spotify.com/track/40bMBMIVAf7NASVqHngjfk) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [SM7, SOLID STATE](https://open.spotify.com/album/3zDN4rvEIc2udyo8li1Wox) | 2:31 |

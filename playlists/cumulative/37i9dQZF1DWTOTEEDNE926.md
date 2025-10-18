@@ -2,14 +2,15 @@
 
 ### [Rica, Latina y Famosa](https://open.spotify.com/playlist/37i9dQZF1DWTOTEEDNE926)
 
-> las mujeres ya no lloran ✨ Baby Miko en portada.
+> las mujeres ya no lloran ✨ Nathy Peluso en portada.
 
-157 songs - 7 hr 31 min
+159 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$$$ mis lágrimas](https://open.spotify.com/track/5qj3yJlsxm8ChVxg3ws3AJ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [me estoy volviendo loca \(deluxe\)](https://open.spotify.com/album/5KLB5YwjF66uqMIY35lsHV) | 3:00 | 2025-07-04 | 2025-08-23 |
 | [1TRAGO](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1TRAGO](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-11-29 | 2025-03-08 |
+| [A CABALLO](https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MALPORTADA](https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG) | 3:20 | 2025-10-17 |  |
 | [A la de Lu](https://open.spotify.com/track/0s9vW98Z7g7fIrlFhzRHyu) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Sagitario](https://open.spotify.com/album/3NyaxrncxQzgN4IZiELlag) | 2:44 | 2025-03-28 | 2025-04-26 |
 | [A MI LAO](https://open.spotify.com/track/63xwzzlwHT7MFYiYdhptfa) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [A MI LAO](https://open.spotify.com/album/2vSjidmKHAZn7YbqMWKwSz) | 3:20 | 2025-03-28 | 2025-04-12 |
 | [Aceita](https://open.spotify.com/track/133ojSiEnlVwecCpvVc1BC) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:07 | 2024-04-26 | 2024-06-22 |
@@ -18,7 +19,7 @@
 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 | 2024-04-12 | 2025-02-22 |
 | [Autopoiética](https://open.spotify.com/track/7vNHNUWpNNW9G5hokRWVpH) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:32 | 2024-12-06 | 2025-04-12 |
 | [Bebe Ricota](https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP) | [CHOCA](https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [Bebe Ricota](https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l) | 2:31 | 2024-05-03 | 2024-12-07 |
-| [BELLAKEO SUCIO](https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [BELLAKEO SUCIO](https://open.spotify.com/album/5rHqjm7ik12qcInXa7uVRN) | 3:01 | 2025-08-29 |  |
+| [BELLAKEO SUCIO](https://open.spotify.com/track/5HdaluCMEcjgULPetLjJ3n) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [BELLAKEO SUCIO](https://open.spotify.com/album/5rHqjm7ik12qcInXa7uVRN) | 3:01 | 2025-08-29 | 2025-10-18 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-11-29 | 2025-03-29 |
 | [blackout 🧊](https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [blackout 🧊](https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E) | 3:02 | 2025-03-28 |  |
 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 | 2024-02-15 |  |
@@ -88,6 +89,7 @@
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-11-29 | 2025-07-05 |
 | [Lo Que Me Harías En Otra Parte](https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [A Contraluz](https://open.spotify.com/album/0fHMjHobSboBcY2NQ4JfAN) | 2:40 | 2023-11-29 | 2024-02-16 |
 | [Loquito](https://open.spotify.com/track/710wTvC2Ret2NaGLyF88Kt) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [SEXOLANDIA 2](https://open.spotify.com/album/0dJgw5GP0SBxi2T92jgakd) | 2:46 | 2025-08-22 | 2025-09-06 |
+| [los 41](https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los 41](https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ) | 3:26 | 2025-10-17 |  |
 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-11-29 | 2024-04-13 |
 | [Mala Suerte](https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:10 | 2025-04-25 |  |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-11-29 | 2024-05-04 |
@@ -156,7 +158,7 @@
 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-11-29 | 2024-10-19 |
 | [Tsunami](https://open.spotify.com/track/03xiVJYbab7t7CXOpoqvGq) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Tsunami](https://open.spotify.com/album/4GjjGPNztWRpc1QxHclJvh) | 1:34 | 2025-04-11 | 2025-05-24 |
 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 | 2023-11-29 | 2024-05-18 |
-| [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 | 2025-09-19 |  |
+| [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 | 2025-09-19 | 2025-10-18 |
 | [U R SUCH A LAME!](https://open.spotify.com/track/1Ybt52Gx6UdrI9z0qUbJP3) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [U R SUCH A LAME!](https://open.spotify.com/album/38XZ32UdU2fnN2sk2XO6uP) | 2:16 | 2024-05-03 | 2025-10-04 |
 | [Uñas Afiladas](https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:27 | 2025-08-22 | 2025-09-20 |
 | [vete conmigo d la disco](https://open.spotify.com/track/14grcOL24xAh8vRjwmK7Rt) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [canciones tristes pa no llorar](https://open.spotify.com/album/0FaRNdli65vIkMkKCk01cq) | 2:39 | 2025-07-18 | 2025-08-23 |

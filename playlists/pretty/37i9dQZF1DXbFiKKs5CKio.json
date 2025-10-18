@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70346,
+  "num_followers": 70368,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,18 @@
     {
       "added_at": "2025-10-10 03:01:28",
       "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
       },
       "artists": [
         {
           "name": "Melly",
           "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
         }
       ],
-      "duration_ms": 221183,
-      "name": "Tenha Calma",
-      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
     },
     {
       "added_at": "2025-10-10 03:01:28",
@@ -343,38 +339,6 @@
     {
       "added_at": "2025-10-10 03:01:28",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Sexto Sentido",
-      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
-    },
-    {
-      "added_at": "2025-10-10 03:01:28",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
-    },
-    {
-      "added_at": "2025-10-10 03:01:28",
-      "album": {
         "name": "When You Smile",
         "url": "https://open.spotify.com/album/7fpbLbzIxYTHAGLSxFGMka"
       },
@@ -387,6 +351,42 @@
       "duration_ms": 140591,
       "name": "When You Smile",
       "url": "https://open.spotify.com/track/6zbLnvuLbHSyf46wTyl7DP"
+    },
+    {
+      "added_at": "2025-10-10 03:01:28",
+      "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Tenha Calma",
+      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
+    },
+    {
+      "added_at": "2025-10-10 03:01:28",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
     },
     {
       "added_at": "2025-10-10 03:01:28",

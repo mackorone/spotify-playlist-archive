@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1fdoOFDGMefVqwAm1QFj8D">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-37 songs - 1 hr 54 min
+38 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 | 2022-05-29 |  |
 | [Dance For Me](https://open.spotify.com/track/73l6SThNBdr2f48TD9lzeN) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Dance For Me](https://open.spotify.com/album/0FNbpjAfQWgejuAlKTapB1) | 3:14 | 2022-05-29 |  |
 | [Feel So Good](https://open.spotify.com/track/5uyJh3z8NrvRNry7YSNqQp) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Feel So Good](https://open.spotify.com/album/4KTk2TRMNMp9JN2JeUWC2i) | 3:05 | 2022-05-29 |  |
-| [Follow My Lead](https://open.spotify.com/track/5OslK7ffEGzBSoYmqKizp4) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Follow My Lead](https://open.spotify.com/album/7DMfbl78axtdRQBc9grc0L) | 3:15 | 2022-05-29 |  |
+| [Follow My Lead](https://open.spotify.com/track/4u1UWfumGH74AVyb0AJfuO) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Follow My Lead](https://open.spotify.com/album/6DWhmcqHb7YPfxlpkv0ujw) | 3:15 | 2025-10-17 |  |
+| [Follow My Lead](https://open.spotify.com/track/5OslK7ffEGzBSoYmqKizp4) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Follow My Lead](https://open.spotify.com/album/7DMfbl78axtdRQBc9grc0L) | 3:15 | 2022-05-29 | 2025-10-18 |
 | [Golden](https://open.spotify.com/track/4uIvIbeGjaLRVjGtxbIUUL) | [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Golden](https://open.spotify.com/album/6uNPQgkGoW0XMZ55YFU0FO) | 2:16 | 2022-05-29 |  |
 | [Hatar att vara kär](https://open.spotify.com/track/18MpuOSImIe1L4h9jZqXN0) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Hatar att vara kär](https://open.spotify.com/album/65EmbYRfiaajO4kftbC1N4) | 3:12 | 2022-05-29 |  |
 | [Her Bed \(feat\. Nikki Ambers\)](https://open.spotify.com/track/7kU2p11hk4kHFH2aL95qHB) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7) | [Her Bed \(feat\. Nikki Ambers\)](https://open.spotify.com/album/1YGRXIRAbMEHCnLyzy9n4P) | 2:15 | 2022-05-29 |  |

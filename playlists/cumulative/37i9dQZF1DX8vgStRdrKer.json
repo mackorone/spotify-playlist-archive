@@ -1513,6 +1513,28 @@
     },
     {
       "album": {
+        "name": "Blessed Assurance",
+        "url": "https://open.spotify.com/album/0wUF4IL8w0covkEUfJiVMG"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Tianney",
+          "url": "https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158687,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/37OLhQWWM8dWaYDs0GItih"
+    },
+    {
+      "album": {
         "name": "Blessed Be Your Name",
         "url": "https://open.spotify.com/album/2bPxiD3QggQ6JLOr8O890p"
       },
@@ -12416,7 +12438,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 315431,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/0rCqiszNjjmwidpPGp8bW6"

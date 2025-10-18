@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-336 songs - 18 hr 37 min
+337 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Aquarium](https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [AQUARIUM](https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I) | 3:07 | 2022-03-25 | 2025-09-28 |
 | [Are You](https://open.spotify.com/track/5SfQmmOQp5Id17CnInfHp8) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Are You](https://open.spotify.com/album/0bxVHE0OnDNiTnw7O2VdKQ) | 3:34 | 2022-02-26 | 2023-05-27 |
 | [As Long As You Love Me](https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [As Long As You Love Me](https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m) | 2:38 | 2023-01-13 |  |
+| [Atogo](https://open.spotify.com/track/6LzUulc4VJhyu9IRfSIA8B) | [Pedro Amblar](https://open.spotify.com/artist/4X2KYm3AxSmnslRkjs0A22) | [Atogo](https://open.spotify.com/album/0WTOz1D16ucAlVwYrzMFGu) | 2:49 | 2025-10-10 |  |
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-12-09 | 2025-03-05 |
 | [Back in Love](https://open.spotify.com/track/0xURkLqwfxkalc37EGgkVU) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Back in Love](https://open.spotify.com/album/1dBmcN0lkbhAq3zFoPEe3E) | 2:09 | 2022-03-25 | 2022-04-21 |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2021-12-09 |  |
@@ -89,7 +90,7 @@
 | [Don't Tell Me I Can't Have It](https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Don't Tell Me I Can't Have It](https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx) | 3:07 | 2022-05-20 |  |
 | [Don't Worry](https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Don't Worry](https://open.spotify.com/album/3GJxRhegDoOkFd727RlTS1) | 2:24 | 2022-05-20 |  |
 | [Don't Worry](https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc) | [XIXI](https://open.spotify.com/artist/6hkvnjLeIb4gSHy3GImvqw), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Don't Worry](https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL) | 3:15 | 2023-06-30 |  |
-| [Dont Let Go](https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Dont Let Go](https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV) | 3:24 | 2025-02-07 |  |
+| [Dont Let Go](https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Dont Let Go](https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV) | 3:24 | 2025-02-07 | 2025-10-18 |
 | [Don’t Worry](https://open.spotify.com/track/3velQ2xk4VMEb5No5W3bkQ) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Don’t Worry](https://open.spotify.com/album/2UZuAyYd1pTF1puvlQ2W4c) | 4:36 | 2021-12-09 | 2023-02-18 |
 | [Doubts](https://open.spotify.com/track/10Iafk2IS4TyUsfP4C4kPE) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Down Here with You](https://open.spotify.com/album/6WqF77ilKp8ui2RlGIYmAp) | 3:15 | 2021-12-09 | 2022-02-27 |
 | [Dreams](https://open.spotify.com/track/2HcHfWexQZ2UcjIvpZbxVI) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Dreams](https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b) | 3:27 | 2023-08-25 |  |

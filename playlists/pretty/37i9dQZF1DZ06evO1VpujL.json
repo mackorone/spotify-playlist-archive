@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 28185,
+  "num_followers": 28192,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAAX6lOX34IwkfcdVwvX2g7z",
+  "snapshot_id": "aPA1gAAAAAA/eqrf3ffjSmofeKyK+f+G",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill the Power",
-        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
+        "name": "Roots Rock Riot (Japanese Version)",
+        "url": "https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 275356,
-      "name": "Kill the Power",
-      "url": "https://open.spotify.com/track/5CsKMhIB59Br4Dc0JZfSuL"
+      "duration_ms": 201893,
+      "name": "Ratrace",
+      "url": "https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot (Japanese Version)",
-        "url": "https://open.spotify.com/album/75VQg84KLxihs6di0BaCQi"
+        "name": "Kill the Power",
+        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 201893,
-      "name": "Ratrace",
-      "url": "https://open.spotify.com/track/6l3XfwxpZJ1ZTKPXoW58RU"
+      "duration_ms": 275356,
+      "name": "Kill the Power",
+      "url": "https://open.spotify.com/track/5CsKMhIB59Br4Dc0JZfSuL"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 181560,
-      "name": "Roots Rock Riot",
-      "url": "https://open.spotify.com/track/5WantVU2anFpTbWHZSyPD6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volume",
         "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 244769,
       "name": "Under Attack",
       "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "Roots Rock Riot",
+      "url": "https://open.spotify.com/track/5WantVU2anFpTbWHZSyPD6"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 229306,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/2BIy81E5iBRqNYkGD61ImF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volume",
         "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 229306,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/2BIy81E5iBRqNYkGD61ImF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Tings",
         "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 239072,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kill the Power",
-        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 198947,
-      "name": "Proceed with Caution",
-      "url": "https://open.spotify.com/track/0tEAjGoTGgLtpJJxPaFtJ5"
     },
     {
       "added_at": null,
@@ -559,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Rock Riot",
-        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 243120,
-      "name": "State of Emergency",
-      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kill the Power",
         "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
       },
@@ -584,41 +552,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 232378,
-      "name": "Ruling Force",
-      "url": "https://open.spotify.com/track/0sasXDgZKE2bfltieFtX9T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Bad Man Ah Bad Man",
-      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 223767,
-      "name": "Shut Ya Mouth",
-      "url": "https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc"
+      "duration_ms": 198947,
+      "name": "Proceed with Caution",
+      "url": "https://open.spotify.com/track/0tEAjGoTGgLtpJJxPaFtJ5"
     },
     {
       "added_at": null,
@@ -632,25 +568,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Cause Ah Riot",
-      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kill the Power",
-        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 282608,
-      "name": "Open Eyed",
-      "url": "https://open.spotify.com/track/4Wog4OV3TwnE1XtIUMovJO"
+      "duration_ms": 243120,
+      "name": "State of Emergency",
+      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
     },
     {
       "added_at": null,
@@ -680,9 +600,89 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
+      "duration_ms": 223767,
+      "name": "Shut Ya Mouth",
+      "url": "https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill the Power",
+        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 232378,
+      "name": "Ruling Force",
+      "url": "https://open.spotify.com/track/0sasXDgZKE2bfltieFtX9T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roots Rock Riot",
+        "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Cause Ah Riot",
+      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Bad Man Ah Bad Man",
+      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
       "duration_ms": 164615,
       "name": "No Justice",
       "url": "https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill the Power",
+        "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 282608,
+      "name": "Open Eyed",
+      "url": "https://open.spotify.com/track/4Wog4OV3TwnE1XtIUMovJO"
     },
     {
       "added_at": null,

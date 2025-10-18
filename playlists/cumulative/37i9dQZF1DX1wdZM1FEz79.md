@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김필선\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 정새벽\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-627 songs - 1 day 12 hr 55 min
+628 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A Heart Wandering All Night](https://open.spotify.com/track/7F8KqqBxoTOIB6YUmMnF1E) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [A Heart Wandering All Night](https://open.spotify.com/album/4xKdwXeZSNVBHtozxMokX2) | 4:15 | 2025-09-22 | 2025-10-10 |
 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 | 2021-12-10 | 2024-09-03 |
 | [A Love Song](https://open.spotify.com/track/66is2tFkaji7lYMWt7KS1z) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:25 | 2022-03-21 | 2022-04-20 |
-| [A Moment](https://open.spotify.com/track/26meVuaD3L1KfN3LIxmG35) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [A Moment](https://open.spotify.com/album/4mtWqybpYoXvH4JiFNCZSw) | 2:48 | 2025-10-13 |  |
+| [A Moment](https://open.spotify.com/track/26meVuaD3L1KfN3LIxmG35) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [maji](https://open.spotify.com/artist/6bZjyjfBX0isuVgsb2eFBj) | [A Moment](https://open.spotify.com/album/4mtWqybpYoXvH4JiFNCZSw) | 2:48 | 2025-10-13 | 2025-10-18 |
 | [A Nuptial Song 친구가 축가를 부탁했다](https://open.spotify.com/track/7MX5ZWyu1Ecx6dqMAS3Mhw) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Inside Wants](https://open.spotify.com/album/0cDik2Nwe51IZJQ632gDmP) | 4:38 | 2022-04-12 | 2022-04-19 |
 | [A Perfect Ending](https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [A Perfect Ending](https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm) | 3:34 | 2022-06-09 | 2022-06-25 |
 | [a song i like to sing](https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [a song i like to sing](https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT) | 2:40 | 2022-01-13 | 2022-05-03 |
@@ -368,7 +368,7 @@
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-10 |  |
 | [only you](https://open.spotify.com/track/3kq53cvkH6hjNnmMgf5Gqa) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [only you](https://open.spotify.com/album/4kaFDSEth7PBYSKrIa4rOZ) | 3:10 | 2022-03-31 | 2022-07-09 |
 | [Only You \(My love X CHEEZE\)](https://open.spotify.com/track/5PR7KeW3YOmGYVQcfMGyln) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Only You \(My love X CHEEZE\)](https://open.spotify.com/album/0tcoDdwZLT3fZssyMMn45r) | 3:13 | 2023-07-01 | 2023-07-20 |
-| [Only you can](https://open.spotify.com/track/30YqTJfYT1K5ZtsjCui2co) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [Only you can](https://open.spotify.com/album/1ti2YfJzmugX8JEl5r1f6x) | 3:32 | 2025-10-13 |  |
+| [Only you can](https://open.spotify.com/track/30YqTJfYT1K5ZtsjCui2co) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [Only you can](https://open.spotify.com/album/1ti2YfJzmugX8JEl5r1f6x) | 3:32 | 2025-10-13 | 2025-10-18 |
 | [Ordinary Confession](https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ordinary Confession](https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68) | 3:48 | 2023-05-09 | 2024-09-03 |
 | [Ordinary life](https://open.spotify.com/track/5Ivx0LkXUVGSybJgPXwQNE) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Ordinary life](https://open.spotify.com/album/6oTKzZ9cRz3xgAcbPRV3fT) | 4:06 | 2022-03-31 | 2022-04-16 |
 | [Our Days](https://open.spotify.com/track/1ts0mW7JtSKIyBZhEE6ekC) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Our Days \(Better Days X BaekA\)](https://open.spotify.com/album/5bKPyn2T27FE1sssGKUZWW) | 4:14 | 2024-09-18 | 2024-10-16 |
@@ -465,7 +465,7 @@
 | [Storage \(with Galaxy Fan\)](https://open.spotify.com/track/6gPSrbvhVziaeeVizhbB6X) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [4.3](https://open.spotify.com/album/64MZHHTKO362VOMfyI2oqE) | 3:26 | 2022-03-31 | 2022-04-15 |
 | [Story](https://open.spotify.com/track/10xIDPlfoOPojv15gs4v5U) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [RADIO ROMANCE OST Part.5](https://open.spotify.com/album/39E5NxDaelO34UD2PuGcZh) | 3:45 | 2022-03-31 | 2022-04-17 |
 | [Strange Stroll](https://open.spotify.com/track/31T7mn1xbeV4G9JxP44koG) | [Yuna Bae](https://open.spotify.com/artist/69WlUWV5wRqG9YfRHe4pso) | [Strange Stroll](https://open.spotify.com/album/6CF7msQNpDwc6ZZN285Xl4) | 4:16 | 2024-02-07 | 2024-03-07 |
-| [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-12-10 | 2025-10-10 |
+| [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-12-10 |  |
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
 | [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |
@@ -500,6 +500,7 @@
 | [The song I loved](https://open.spotify.com/track/6xws4sUjz31jER0OusRzQh) | [Sojeong](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [The song I loved](https://open.spotify.com/album/2UslwgipRYxtXWqZOtdfuD) | 3:56 | 2022-08-12 | 2022-08-26 |
 | [The Sound Of Rain \- Acoustic](https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [The Acoustic Forest](https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK) | 4:26 | 2021-12-10 | 2022-04-18 |
 | [The Trace 흔적](https://open.spotify.com/track/1I0RITCAFgFS5EJXU7WPEU) | [KIM DONG EUN 김동은](https://open.spotify.com/artist/0XP7AmvKXYVFsTx7CtCK0b) | [The Trace 흔적](https://open.spotify.com/album/1o9Es6i5BIIpQgiFQCuE8X) | 4:34 | 2022-03-31 | 2022-04-19 |
+| [These memories are like a movie \(2025\)](https://open.spotify.com/track/18igOz3pxDmwz9TPRkTNeG) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [These memories are like a movie \(2025\)](https://open.spotify.com/album/3doGgB8CupneS8US4D3EVH) | 5:06 | 2025-10-17 |  |
 | [These Walls](https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [These Walls](https://open.spotify.com/album/2m4ekwYIbphT3mENFLouhK) | 3:40 | 2021-12-10 | 2022-07-29 |
 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 | 2024-07-16 | 2024-08-06 |
 | [They're Gonna Say We're Right \(@leekangseung111\)](https://open.spotify.com/track/4o79zBj46P7i3cqWudJ4v0) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Remake 1.0](https://open.spotify.com/album/6VKe4jcpcrCpBWGVTwiK2J) | 3:29 | 2023-02-07 | 2025-03-10 |

@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Moon Palace",
+        "url": "https://open.spotify.com/album/6IPDihWidnBQGLNqytTRCC"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176399,
+      "name": "Moon Palace",
+      "url": "https://open.spotify.com/track/15XJwvQe5KHO27dSiRLLgF"
+    },
+    {
+      "album": {
         "name": "Natural Mystic",
         "url": "https://open.spotify.com/album/5xwwqaY5S4blxRznTfrHwe"
       },

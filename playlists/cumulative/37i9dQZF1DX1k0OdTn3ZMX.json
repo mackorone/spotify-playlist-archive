@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Mudvayne.",
+  "description": "n\u00fc-metal revival is happening here and now with Silly Goose.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -678,6 +678,28 @@
       "duration_ms": 150968,
       "name": "bleach",
       "url": "https://open.spotify.com/track/10p7btclpQF5LIyWSIgeCo"
+    },
+    {
+      "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/5dVrl003sgWlk2sgSxb8vY"
+      },
+      "artists": [
+        {
+          "name": "Rivilin",
+          "url": "https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL"
+        },
+        {
+          "name": "Broadus",
+          "url": "https://open.spotify.com/artist/7CIMNFNrpE8Ta9hMVhE162"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/43zFnv7sZoIPPuCqrRnlFh"
     },
     {
       "album": {
@@ -1538,7 +1560,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 214852,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/1QBT6LsR5O2P5cKEqtN64n"
@@ -1658,7 +1680,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 139750,
       "name": "Easier To Die",
       "url": "https://open.spotify.com/track/2Bo0CcIbDjQBnltFtxmUT9"
@@ -2208,6 +2230,24 @@
       "duration_ms": 186511,
       "name": "Golden Gloves",
       "url": "https://open.spotify.com/track/16hBAjGngSlOCzTZEn5Atw"
+    },
+    {
+      "album": {
+        "name": "Grasp",
+        "url": "https://open.spotify.com/album/5P8Iz56JaTOQP986f3a7Ju"
+      },
+      "artists": [
+        {
+          "name": "Empty Shell Casing",
+          "url": "https://open.spotify.com/artist/2k180xyVia1kQlgNbmQuwK"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174576,
+      "name": "Grasp",
+      "url": "https://open.spotify.com/track/3l1Bi0S9B7aBv2ECaJ3ahD"
     },
     {
       "album": {
@@ -3291,6 +3331,24 @@
     },
     {
       "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/2UzUnyNMR8FQ7H2Xu1GWsf"
+      },
+      "artists": [
+        {
+          "name": "LEXX",
+          "url": "https://open.spotify.com/artist/4ofinupphwqEBqASKEAKWd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225777,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/1qKsMKW5L3KN3Q5zav32bW"
+    },
+    {
+      "album": {
         "name": "LV Vest",
         "url": "https://open.spotify.com/album/29MaeaoIkGIcPuN8SdVtNJ"
       },
@@ -4022,7 +4080,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 190758,
       "name": "Our Demise",
       "url": "https://open.spotify.com/track/0zgRriKSxerBMB4IjyHQ6n"
@@ -4930,7 +4988,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 242592,
       "name": "Sloth",
       "url": "https://open.spotify.com/track/1BarxzQGZySsAadBOlwRUq"
@@ -5067,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "solace",
+        "url": "https://open.spotify.com/album/3xuRmqkMXB5ytGQ5OxpWv9"
+      },
+      "artists": [
+        {
+          "name": "Reece Young",
+          "url": "https://open.spotify.com/artist/1bdqTbBpPy0SGAmxYun3Hh"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150762,
+      "name": "solace",
+      "url": "https://open.spotify.com/track/4DH3Ny3Q0i4uGtluVJnVuo"
+    },
+    {
+      "album": {
         "name": "Something I'm Not",
         "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
       },
@@ -5150,7 +5226,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 194601,
       "name": "Split",
       "url": "https://open.spotify.com/track/1Z2zZy2r4tZFAVnJTVXDEq"
@@ -5222,7 +5298,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 166192,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3g6VoOQjAOwRsnSd4N7iC9"
@@ -5777,6 +5853,24 @@
     },
     {
       "album": {
+        "name": "All You Are",
+        "url": "https://open.spotify.com/album/3lCvNfZ9mgeAyYQes1yl2r"
+      },
+      "artists": [
+        {
+          "name": "Druidess",
+          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230522,
+      "name": "To Love & To Lose",
+      "url": "https://open.spotify.com/track/0Y01xLCDm2DH2Jv1zpWKMj"
+    },
+    {
+      "album": {
         "name": "Today's My Day",
         "url": "https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV"
       },
@@ -5828,6 +5922,24 @@
       "duration_ms": 249728,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS"
+    },
+    {
+      "album": {
+        "name": "Keys To The City",
+        "url": "https://open.spotify.com/album/6R9JatwRXocbajKarpTqPy"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200456,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/3gpWJdEl2siwZTran2nhRH"
     },
     {
       "album": {
@@ -6082,7 +6194,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 222857,
       "name": "University Telephone Hotline",
       "url": "https://open.spotify.com/track/4fUdJJKEs8yFYlfCWUBvcl"
@@ -6274,6 +6386,28 @@
       "duration_ms": 176916,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/7i8xoHA8DioajUvwL4tysa"
+    },
+    {
+      "album": {
+        "name": "Violence (feat. As December Falls)",
+        "url": "https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        },
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152345,
+      "name": "Violence (feat. As December Falls)",
+      "url": "https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13"
     },
     {
       "album": {

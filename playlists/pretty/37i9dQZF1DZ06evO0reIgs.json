@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81980,
+  "num_followers": 81979,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAAqhaaaP+YWHIT/udZxleG2",
+  "snapshot_id": "aPA1gAAAAADpc0v7DBiv4Qe5gbPh/ENd",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ela T\u00e1 Que T\u00e1",
+        "url": "https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Felipe Flip",
+          "url": "https://open.spotify.com/artist/233YXmma3OPL1trG1x3WpS"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Ela T\u00e1 Que T\u00e1",
+      "url": "https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Milh\u00e3o",
         "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
       },
@@ -687,38 +719,6 @@
       "duration_ms": 216888,
       "name": "A Milh\u00e3o",
       "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ela T\u00e1 Que T\u00e1",
-        "url": "https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Felipe Flip",
-          "url": "https://open.spotify.com/artist/233YXmma3OPL1trG1x3WpS"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Ela T\u00e1 Que T\u00e1",
-      "url": "https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Voc\u00ea Faz",
-        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "O Que Voc\u00ea Faz",
-      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 157006,
       "name": "Por Aqui",
       "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Voc\u00ea Faz",
+        "url": "https://open.spotify.com/album/3nVHkr0UYH2LIGvNzkazNd"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "O Que Voc\u00ea Faz",
+      "url": "https://open.spotify.com/track/3HTyLPUwl9e2gUp6Ewgd7e"
     },
     {
       "added_at": null,
@@ -1259,22 +1259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beira Mar, Pt. 2",
-        "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
+        "name": "Desmoronar",
+        "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 139124,
-      "name": "Beira Mar, Pt. 2",
-      "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
+      "duration_ms": 211935,
+      "name": "Desmoronar",
+      "url": "https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
 
-443 songs - 1 day 3 hr 43 min
+444 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amen](https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Amen](https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI) | 4:07 | 2021-12-17 | 2023-02-25 |
 | [American Cars](https://open.spotify.com/track/5iAIpBBCsNhxXFismnBeQV) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Thunder Above You](https://open.spotify.com/album/4n2t9fCAhB6VcZ4dIZmgxa) | 3:45 | 2023-10-06 | 2024-06-08 |
 | [Angel](https://open.spotify.com/track/5OCOEBBK7N9l6qh7LYgcmf) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:22 | 2023-03-10 | 2023-03-25 |
+| [Another Man's Tears](https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Another Man's Tears](https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6) | 3:09 | 2025-10-17 |  |
 | [Another Weary Soul](https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 4:07 | 2022-05-27 | 2022-06-11 |
 | [Baby What You Do](https://open.spotify.com/track/4TXGCfMrLa40VigIgJOywg) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Heavy Hymnal](https://open.spotify.com/album/4R6uI1hHGcUTKrOWdXrg4t) | 3:52 | 2023-06-23 |  |
 | [Baby Wild](https://open.spotify.com/track/0jVHzZhnTRduhq5y0fyu2U) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Baby Wild](https://open.spotify.com/album/5mb2wuyjdavQOzU72Yd2S1) | 4:10 | 2025-01-24 |  |
@@ -122,7 +123,7 @@
 | [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 | 2021-12-17 | 2023-02-25 |
 | [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:38 | 2024-09-06 | 2025-03-22 |
 | [Freedom Is A Constant Struggle](https://open.spotify.com/track/7pazEod5kIZKCpppre6kvx) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Joy Clark](https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ), [Lilli Lewis](https://open.spotify.com/artist/2dh2iaRf6yHgqVmEJok53L), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR), [Sula Spirit](https://open.spotify.com/artist/7qXJE0O3NsmQssEePihY2L), [Cassie Watson Francillon](https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX) | [Freedom Is A Constant Struggle](https://open.spotify.com/album/2mGTeZBnyXP7CTapaW1p9S) | 3:24 | 2023-05-12 |  |
-| [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 |  |
+| [Freedom Road](https://open.spotify.com/track/5zRlD6bPTJI0zBvqMJ2H95) | [Indra Rios\-Moore](https://open.spotify.com/artist/43WX6yWKK6qAqKCr2d3yw9) | [Freedom Road](https://open.spotify.com/album/3fN5DXHpo9ut4TmVAouTRG) | 3:43 | 2022-03-18 | 2025-10-18 |
 | [Fresh Bones](https://open.spotify.com/track/5TDEy1qTEFWwdWTZ9K9v3p) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3) | [Fresh Bones](https://open.spotify.com/album/5YVPNyHgApTTHosueEDxEZ) | 3:14 | 2024-05-31 | 2024-07-06 |
 | [Full Throttle](https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3) | [Clayton Sturgeon](https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN) | [Full Throttle](https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu) | 3:11 | 2022-08-05 | 2023-03-11 |
 | [Get Real High](https://open.spotify.com/track/1AsuZS5OuqOcftkRNXm5Hk) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Get Real High](https://open.spotify.com/album/6zQE9aX3u2NsNJcxxq37Qz) | 4:07 | 2022-04-22 | 2025-03-29 |

@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 171722,
       "name": "AM4",
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
@@ -3562,7 +3562,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 170361,
       "name": "bADBADBAD",
       "url": "https://open.spotify.com/track/1FN6kE42qSzmn0sZ6AcCLL"
@@ -5856,7 +5856,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 153090,
       "name": "Bozk",
       "url": "https://open.spotify.com/track/4PjnIGvwJ31yRjlmg4aId4"
@@ -14496,7 +14496,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 134693,
       "name": "G WAGON",
       "url": "https://open.spotify.com/track/4Y77GxNpAS16bGOVDwzagb"
@@ -19482,7 +19482,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 204600,
       "name": "Inverzia",
       "url": "https://open.spotify.com/track/0fP30PpvCS3AB4hBN91GPY"
@@ -25788,7 +25788,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 184615,
       "name": "medelin",
       "url": "https://open.spotify.com/track/4KmnwhIOSh9zZRzTUJGsY4"
@@ -31656,7 +31656,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -33228,7 +33228,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Pinokio",
       "url": "https://open.spotify.com/track/0kN7F9Hc6sjJ5WPuuyJJNi"
@@ -33400,7 +33400,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "Plug",
       "url": "https://open.spotify.com/track/45SCTVY34sBolvuqG7u0AP"
@@ -41462,7 +41462,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 158010,
       "name": "St\u00e1le som",
       "url": "https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA"
@@ -41996,7 +41996,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -42916,6 +42916,24 @@
       "duration_ms": 165958,
       "name": "taxikar",
       "url": "https://open.spotify.com/track/7FHqIFqDjeOv6CVgSD7YS5"
+    },
+    {
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/6WmWbEII1CXlkHlodoHXyw"
+      },
+      "artists": [
+        {
+          "name": "Miki Goldy",
+          "url": "https://open.spotify.com/artist/5Rlr2uNakCyP6CPOdw474I"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0woKdzamzKvMXps6AemWIV"
     },
     {
       "album": {

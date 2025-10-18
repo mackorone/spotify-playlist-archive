@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,196 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,194 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Lie Lie Lie](https://open.spotify.com/track/3ms0lr71cb4PVbqoUHdYXy) | [Alexis Cao](https://open.spotify.com/artist/3UE1YNzwGIdXvL8AnJXWRx), [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [Lie Lie Lie](https://open.spotify.com/album/0LjwczV1Py7HVc7sJCMGXD) | 2:47 |
 | 50 | [An Ủi Em Được Không](https://open.spotify.com/track/1mN4HvOcu3JU5BmPfsvaIJ) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [Ngắn](https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P) | [An Ủi Em Được Không](https://open.spotify.com/album/0Wze7XS2oLsY5IDgFjrZZR) | 4:28 |
 
-Snapshot ID: `AAAAAJFxSiXHZLSAteKtHhsZH5I2Akgi`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

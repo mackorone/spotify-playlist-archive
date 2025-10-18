@@ -4,7 +4,7 @@
 
 > Grandes hits do BR e do 🌎 / Foto: Taylor Swift
 
-406 songs - 19 hr 57 min
+407 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Evoque Prata](https://open.spotify.com/track/0bBwi6ddYeTv5fXgHAdfiH) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC MENOR SG](https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Evoque Prata](https://open.spotify.com/album/5lvH0uC0dJxie3qMtGuawa) | 1:47 | 2023-02-16 | 2023-09-01 |
 | [Evoque Prata](https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6) | [MC MENOR HR](https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8), [MC MENOR SG](https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Evoque Prata](https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE) | 1:47 | 2022-11-07 | 2023-02-17 |
 | [Evoque Prata](https://open.spotify.com/track/6TYZ8bvIGM0HuSVlsHDhoS) | [MC Menor HR](https://open.spotify.com/artist/6snA6Etiw0tiYZaTAoIf5k), [MC Menor SG](https://open.spotify.com/artist/26cXdFW2i1PE5HuCzxYvC1), [DJ Escobar](https://open.spotify.com/artist/1YYDS54YoZeR7WTokK7eEf) | [Evoque Prata](https://open.spotify.com/album/3qA6U2HnNfpkBhJlDw03V1) | 1:47 | 2023-07-06 | 2023-08-09 |
+| [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 | 2025-10-17 |  |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 | 2022-05-20 | 2022-06-30 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-06-17 | 2022-06-28 |
 | [FAMA](https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:05 | 2024-09-05 | 2024-09-12 |
@@ -195,7 +196,7 @@
 | [Idiota](https://open.spotify.com/track/3TcOev4DIiI9dSxuNteYPO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:46 | 2024-04-19 | 2024-06-01 |
 | [Idiota](https://open.spotify.com/track/7lqxgpVTIeUq2XLrYToRk7) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei) | 2:46 | 2024-04-10 | 2024-04-19 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 | 2024-04-20 |
-| [Imaginary Playerz](https://open.spotify.com/track/37tH9V9YK8P9Q2oGfZjJXy) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 | 2025-09-26 |  |
+| [Imaginary Playerz](https://open.spotify.com/track/37tH9V9YK8P9Q2oGfZjJXy) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 | 2025-09-26 | 2025-10-18 |
 | [Imã de Problema](https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Toca Que Eu Quero Ouvir](https://open.spotify.com/album/1FN14esKWwt7bRRrdWDOHW) | 2:17 | 2024-12-11 | 2025-06-19 |
 | [Incendeia](https://open.spotify.com/track/4m1mqQuy34Nzh0480VR364) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Incendeia](https://open.spotify.com/album/6ljtMl412BhgFRHmfxrXYm) | 3:59 | 2022-08-05 | 2022-12-22 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-05-20 | 2023-02-14 |

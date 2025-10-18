@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,466 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,495 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [](https://open.spotify.com/album/null) | 2:45 |
+| 1 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:45 |
 | 2 | [Artificial Angels](https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Artificial Angels](https://open.spotify.com/album/0a8hPV58tZZa45q26OUb8C) | 2:49 |
 | 3 | [REDRUM](https://open.spotify.com/track/0hgxnhFG9BytdwXO1cbHb4) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [REDRUM](https://open.spotify.com/album/2Zdj6NjWbjENv349tw028S) | 3:28 |
 | 4 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 14 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 |
 | 15 | [BROKE THE LIGHT](https://open.spotify.com/track/5Wj7k4nW3fNiO8KU1Q1XdY) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [GREED BETWEEN THE LINES](https://open.spotify.com/album/62xHSwQplVIsGotSCoVUkV) | 3:01 |
 | 16 | [Small World Syndrome](https://open.spotify.com/track/0J8A3Ccs5ghyo8Fa1iKOTv) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Small World Syndrome](https://open.spotify.com/album/5CZ3urtWdgLk6av5TUFwn5) | 2:45 |
-| 17 | [Baby Teeth](https://open.spotify.com/track/78EsMn9Rlb9si1NkvPPLrQ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [](https://open.spotify.com/album/null) | 2:33 |
+| 17 | [Baby Teeth](https://open.spotify.com/track/78EsMn9Rlb9si1NkvPPLrQ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:33 |
 | 18 | [Muse](https://open.spotify.com/track/1AUsxFlpISJH7EJ8uNksye) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I'm camera .](https://open.spotify.com/album/4dZSsJjwlpKl8PY77rSS16) | 4:46 |
 | 19 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 |
 | 20 | [Lawmaker](https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [Lawmaker](https://open.spotify.com/album/1qAcXwnEag4BOCl4zhCHNY) | 3:41 |

@@ -479,6 +479,22 @@
     {
       "added_at": "2025-10-04 00:28:56",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
+    },
+    {
+      "added_at": "2025-10-04 00:28:56",
+      "album": {
         "name": "33 000 FT.",
         "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
-    },
-    {
-      "added_at": "2025-10-04 00:28:56",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
     },
     {
       "added_at": "2025-10-04 00:28:56",

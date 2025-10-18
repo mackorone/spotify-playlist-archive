@@ -7982,7 +7982,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 250573,
       "name": "If I have you only (My love X Nerd Connection)",
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
@@ -8767,7 +8767,7 @@
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 180000,
+      "duration_ms": 181000,
       "name": "Koi",
       "url": "https://open.spotify.com/track/43nyP68GKT0fDa6ftbmvr1"
     },
@@ -12923,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "RAINBOW",
+        "url": "https://open.spotify.com/album/1qHCVMUHqjJVwooPBJBbjG"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "RAINBOW",
+      "url": "https://open.spotify.com/track/4UwbCuskjhRitFPT7EQAtV"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp"
       },
@@ -13136,7 +13154,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 176466,
       "name": "RED",
       "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
@@ -14888,6 +14906,24 @@
       "duration_ms": 220536,
       "name": "snow8",
       "url": "https://open.spotify.com/track/2pfU9lw8L3BdOd1yV4V5xt"
+    },
+    {
+      "album": {
+        "name": "So Nice (GMF2025 ver.)",
+        "url": "https://open.spotify.com/album/1YyapFRjI81bZUy1K99uRE"
+      },
+      "artists": [
+        {
+          "name": "Dragon Pony",
+          "url": "https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "So Nice - GMF2025 ver.",
+      "url": "https://open.spotify.com/track/4VNzaSSuErC65Lo9ktpcoG"
     },
     {
       "album": {

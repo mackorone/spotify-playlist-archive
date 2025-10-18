@@ -4,7 +4,7 @@
 
 > Playlist
 
-613 songs - 1 day 12 hr 17 min
+614 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Listen Up](https://open.spotify.com/track/1DDSXcyCFRSOYuNR8IJTEn) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Listen Up](https://open.spotify.com/album/4Y19SrthZaohjmdUzzRxmw) | 3:42 | 2023-10-25 |  |
 | [Little League](https://open.spotify.com/track/76P8vfizrFhFUSGkaqEKkW) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Little League](https://open.spotify.com/album/2ilpCVhdRhvMOBVho71Svu) | 2:54 | 2023-10-25 |  |
 | [Lo and Behold](https://open.spotify.com/track/3uUVSE3eycp19CyhHsqVFf) | [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Changes Happen To Everyone, Everywhere](https://open.spotify.com/album/3hEIAYDhmQF9StQzvLmPRX) | 2:23 | 2024-11-27 | 2025-03-11 |
+| [Loaded Dice](https://open.spotify.com/track/1HDnqFwesyb3P5qIhmfnbU) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Loaded Dice](https://open.spotify.com/album/5EUAVnlJjRArGN5ThFgd3b) | 3:14 | 2025-10-17 |  |
 | [Lonesome](https://open.spotify.com/track/12hFkmzvs2j7n6PeFYFzKc) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 3:32 | 2024-09-27 |  |
 | [Lonesome](https://open.spotify.com/track/2HxDUSyGDG4gLooxMEBPGw) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Lonesome](https://open.spotify.com/album/1mGnEdskS0HQKxAGK64Xcy) | 3:32 | 2024-08-02 |  |
 | [Long About Sundown](https://open.spotify.com/track/7KpZio2QTyEIWudcNjwGOF) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Stay Around](https://open.spotify.com/album/4ucx366gQtYYZLU2XRGDXz) | 2:48 | 2023-10-25 |  |

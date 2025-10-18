@@ -4,7 +4,7 @@
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Serge Beynaud
 
-256 songs - 14 hr 5 min
+257 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [C'est gâté](https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [C'est gâté](https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX) | 3:18 | 2022-12-08 | 2023-11-17 |
 | [C'est le moment](https://open.spotify.com/track/2MOlw94ecEZ2ZfaXstl3KG) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [C'est le moment](https://open.spotify.com/album/7KfEmS33up7GwkaeGi5wLx) | 4:34 | 2025-05-01 | 2025-09-05 |
 | [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 | 2024-04-11 | 2024-05-03 |
+| [C'est qui qui à koeuré?](https://open.spotify.com/track/3sMa9CW10jJOINelbPeV03) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [C'est qui qui à koeuré?](https://open.spotify.com/album/4AQrYtHFNuagblJEqLA8nM) | 2:45 | 2025-10-16 |  |
 | [C'EST SON TEMPS](https://open.spotify.com/track/24Q4IrzjWhZnAB9e5oDGrb) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [C'EST SON TEMPS](https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS) | 3:58 | 2025-02-13 |  |
 | [C'est Tromper](https://open.spotify.com/track/3GEOxNvcfId9KbNmVfeEZW) | [Nifa Fanafoule](https://open.spotify.com/artist/7FRoAqspfkJYYYYJ8DTD5O) | [C'est Tromper](https://open.spotify.com/album/6DblPMX2zJRcsrOPwm2y8g) | 3:16 | 2022-09-01 | 2022-10-28 |
 | [C'Gater](https://open.spotify.com/track/1ghBexe1duWQLNmdqXAhKe) | [DJ LEWIS](https://open.spotify.com/artist/2Rw4zdWjWKGTh7giGhOyFb) | [C'Gater](https://open.spotify.com/album/2Gmdt7fQvIyKt2MOTq4UP6) | 3:47 | 2021-12-20 | 2022-05-06 |

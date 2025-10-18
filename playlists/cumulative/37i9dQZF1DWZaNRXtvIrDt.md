@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music.
 
-1,077 songs - 3 day 4 hr 53 min
+1,078 songs - 3 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Escape](https://open.spotify.com/track/6WRKpDo9ayuRidi2Rv291e) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Escape](https://open.spotify.com/album/2NCtVmzU6FWVpzODrgVVDo) | 3:32 | 2025-01-23 | 2025-05-02 |
 | [Essence Of Time](https://open.spotify.com/track/0j9o5Q8u7w7CM5m3qkH3nB) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Essence Of Time](https://open.spotify.com/album/2rpbIhZzXjuR7oq9YqzdU2) | 6:00 | 2024-04-30 | 2024-06-28 |
 | [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 | 2023-11-09 | 2024-04-17 |
+| [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 | 2025-10-16 |  |
 | [Every Lil'](https://open.spotify.com/track/39bZPBoasEOCJXMR4TPqP5) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Every Lil'](https://open.spotify.com/album/2TogfhcATG56txTlEoExoE) | 3:01 | 2024-02-09 | 2024-02-17 |
 | [Everything](https://open.spotify.com/track/5qK203gDYDkCqRf80DE3f6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Everything](https://open.spotify.com/album/0L1fZgjQTboP65QTburanO) | 5:32 | 2023-08-24 | 2023-09-29 |
 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 | 2023-08-10 | 2023-12-01 |
@@ -956,7 +957,7 @@
 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 | 2022-12-08 | 2023-02-02 |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-07-27 | 2023-09-22 |
 | [The Seed](https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C) | 3:28 | 2024-10-24 | 2025-01-24 |
-| [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2025-10-13 |  |
+| [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 | 2025-10-13 | 2025-10-18 |
 | [The Smoke](https://open.spotify.com/track/38XW0c5WhRj5a7dXMW6Pwk) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [The Smoke](https://open.spotify.com/album/6QgmHsxolsHkbX0VQTwq5V) | 3:48 | 2023-10-05 | 2024-03-01 |
 | [The Take Away \- Jennifer Loveless Remix](https://open.spotify.com/track/3cLRlKjVCBr61lDdIoHPOS) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [The Take Away \(Jennifer Loveless Remix\)](https://open.spotify.com/album/5xViWLZvsAprRFT0ugo7WF) | 3:49 | 2022-12-08 | 2023-01-27 |
 | [The Vibe](https://open.spotify.com/track/0jqDQQ1fDmeB26Rr4I7vVf) | [DON'T THINK](https://open.spotify.com/artist/0JkeEwbkFQLU4C5voqbjFG) | [The Vibe](https://open.spotify.com/album/60nasWQVRbxlPcKQf1HZg1) | 3:02 | 2025-07-03 | 2025-10-13 |

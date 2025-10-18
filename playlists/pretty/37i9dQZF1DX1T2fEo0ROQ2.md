@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,132 likes - 260 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,177 likes - 260 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 259 | [softly speaking](https://open.spotify.com/track/1xpCscadFuFfsPXFaTvyoH) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [softly speaking](https://open.spotify.com/album/0WVhhPQ7wMYVuNXQPI0HWs) | 2:04 |
 | 260 | [Outer Landscape](https://open.spotify.com/track/3Ok08TYWMM3Fl655SAZ3jS) | [Adventurine](https://open.spotify.com/artist/2Zx9zEFTBFwvULdr9oRKVW) | [Outer Landscape](https://open.spotify.com/album/19gKIWbf29Kb71g9xoKVjt) | 2:34 |
 
-Snapshot ID: `AAAAAGuwQdKL7ukf5m4PLjYz2c1U2GZg`
+Snapshot ID: `AAAAAMV3iUCQ8gMOjLI3OvOFZ0w4LbF5`

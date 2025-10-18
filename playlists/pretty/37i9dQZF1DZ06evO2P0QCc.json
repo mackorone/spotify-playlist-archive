@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 120695,
+  "num_followers": 120712,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAB6YKjUXn62EyvmVETM/KMK",
+  "snapshot_id": "aPA1gAAAAAADecRcmau3AcwgjMabDt8M",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 236346,
       "name": "Inspiracional",
       "url": "https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 223146,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Ska Voovee Boobie Baby",
-      "url": "https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 194893,
       "name": "Cara De Chango",
       "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Ska Voovee Boobie Baby",
+      "url": "https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe"
     },
     {
       "added_at": null,
@@ -706,31 +706,31 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 198520,
-      "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
-      "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
+      "duration_ms": 172771,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Natalia Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
         }
       ],
-      "duration_ms": 186693,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
+      "duration_ms": 214000,
+      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
+      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
     },
     {
       "added_at": null,
@@ -774,31 +774,31 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 172771,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
+      "duration_ms": 198520,
+      "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
+      "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Natalia Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Hoy Ser\u00e1 (feat. Natalia Ram\u00edrez)",
-      "url": "https://open.spotify.com/track/4x868qxqVPPXQiPEc27zDG"
+      "duration_ms": 186693,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
     },
     {
       "added_at": null,

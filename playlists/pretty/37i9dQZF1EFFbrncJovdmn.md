@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49 likes - 29 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 29 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 4 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 |
 | 5 | [come so far](https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX) | 2:45 |
 | 6 | [D2F](https://open.spotify.com/track/6tCvZKWqRtKYgXiKUWhSSk) | [Lost Girl](https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS) | [D2F](https://open.spotify.com/album/5ohf9THvmzADgCFKwTn1PY) | 3:12 |
-| 7 | [Sweetest Revenge](https://open.spotify.com/track/7ItOeQCyzT0Ud8IWXnOIfU) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/1v2Ca1S73FwtFCD0dXLZAo) | 2:29 |
+| 7 | [Sweetest Revenge](https://open.spotify.com/track/5fA2TyUWaeeQwCYwUq6k1j) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sweetest Revenge](https://open.spotify.com/album/4cCzA3r6as0x6M3BK4daAv) | 2:29 |
 | 8 | [Woah Man!](https://open.spotify.com/track/6JAW6U9tvLicav3YTgkhDZ) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Woah Man!](https://open.spotify.com/album/6vVz2NNu2eqBZ7TKE1eCBZ) | 3:03 |
 | 9 | [La La](https://open.spotify.com/track/6P8GfdAgHd3zKQMckbE4ke) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [La La](https://open.spotify.com/album/4rghUgwSsXAi9OVW7ye2Pn) | 2:48 |
 | 10 | [Toxic](https://open.spotify.com/track/11VqkjKPzAFMoo4V4uk9Ys) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Toxic](https://open.spotify.com/album/6frJVs66js2iZrJB7DKz1V) | 2:45 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 28 | [Forgive Me](https://open.spotify.com/track/0UP8IaUpsVlQwT2gDY4jaw) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 4:09 |
 | 29 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 |
 
-Snapshot ID: `Ab/DHAAAAAAsBPNm70yM8aqT4WH8gnBK`
+Snapshot ID: `Ab/IngAAAAAKTb8qJT3/rJACI9pKX30l`

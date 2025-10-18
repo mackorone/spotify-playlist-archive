@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 115985,
+  "num_followers": 116030,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Es La Hora",
-        "url": "https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 226516,
-      "name": "Es La Hora",
-      "url": "https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "La Capital Del Pecado",
         "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 163266,
       "name": "La Capital Del Pecado",
       "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Es La Hora",
+        "url": "https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 226516,
+      "name": "Es La Hora",
+      "url": "https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -883,46 +883,6 @@
       "duration_ms": 234428,
       "name": "Intraterreno",
       "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Callejones",
-        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Callejones",
-      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "La teor\u00eda de la evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 173062,
-      "name": "La teor\u00eda de la evoluci\u00f3n",
-      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -987,6 +947,46 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "La teor\u00eda de la evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 173062,
+      "name": "La teor\u00eda de la evoluci\u00f3n",
+      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Callejones",
+        "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Callejones",
+      "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
       },
       "artists": [
         {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1123,6 +1107,22 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1"
+      },
+      "artists": [
+        {
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
+        }
+      ],
+      "duration_ms": 186044,
+      "name": "Fe de Errata",
+      "url": "https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "En el Aire",
         "url": "https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea"
       },
@@ -1991,6 +2007,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 259578,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Algo Bien",
         "url": "https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW"
       },
@@ -2015,38 +2047,6 @@
       "duration_ms": 271058,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Can + Zoo \u00cdndigo",
-        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 259578,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        }
-      ],
-      "duration_ms": 186044,
-      "name": "Fe de Errata",
-      "url": "https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R"
     }
   ],
   "unique_name": "Rap Conciencia",

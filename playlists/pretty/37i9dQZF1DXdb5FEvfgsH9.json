@@ -1,13 +1,45 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 32839,
+  "num_followers": 32854,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA6H77l/SeUW+JluMuhoaXTlk5b8",
+  "snapshot_id": "AAAAACs7+VOCiVhEQzKdYCTXxjPHoqpb",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Mondo Freaks",
+        "url": "https://open.spotify.com/album/4ra5cRUYxQF9wbLv7d4wh2"
+      },
+      "artists": [
+        {
+          "name": "Mondo Freaks",
+          "url": "https://open.spotify.com/artist/5Bb3BN9iluGrIHhDcpuKiL"
+        }
+      ],
+      "duration_ms": 356306,
+      "name": "Pumped!",
+      "url": "https://open.spotify.com/track/5lZzHRFOzqiUnygnv8p7KR"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/29XIqSh7XOqlqT8Ky38FzW"
+      },
+      "artists": [
+        {
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
+        }
+      ],
+      "duration_ms": 319889,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/0iGFCPeCBTAhGaWxpIn58L"
+    },
     {
       "added_at": "2025-10-10 04:00:28",
       "album": {
@@ -171,22 +203,6 @@
       "duration_ms": 238552,
       "name": "Right Fit",
       "url": "https://open.spotify.com/track/6oCgKEBqal7hO4yaWRdvzn"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "Forbidden Love",
-        "url": "https://open.spotify.com/album/2Iu5GcX8YQfbVmFcDnfxiJ"
-      },
-      "artists": [
-        {
-          "name": "Donny Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
-        }
-      ],
-      "duration_ms": 291834,
-      "name": "Forbidden Love",
-      "url": "https://open.spotify.com/track/43iixoO1pWlhd2Qu4WtD6z"
     },
     {
       "added_at": "2024-03-15 04:01:00",
@@ -911,30 +927,6 @@
       "duration_ms": 270804,
       "name": "1988",
       "url": "https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/0QiYLU8SrwXQAleQaOgTP2"
-      },
-      "artists": [
-        {
-          "name": "Umii",
-          "url": "https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc"
-        },
-        {
-          "name": "B. Bravo",
-          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
-        },
-        {
-          "name": "Reva DeVito",
-          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
-        }
-      ],
-      "duration_ms": 231652,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg"
     },
     {
       "added_at": "2021-07-26 17:42:45",

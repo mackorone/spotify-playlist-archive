@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-864 songs - 1 day 17 hr 46 min
+864 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 | 2024-11-22 | 2025-06-28 |
 | [Deep](https://open.spotify.com/track/0qhfALctZENRjIITNtqWti) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2024-10-04 | 2025-08-26 |
 | [Desire](https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Recess](https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6) | 2:36 | 2024-12-06 | 2025-04-06 |
+| [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 | 2025-10-17 |  |
 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 | 2025-03-07 | 2025-06-17 |
 | [Diamond](https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:04 | 2025-10-17 |  |
 | [DIANA](https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg), [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [DIANA](https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9) | 2:20 | 2025-09-19 | 2025-10-04 |
@@ -794,7 +795,6 @@
 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 | 2024-08-25 | 2024-12-22 |
 | [Toxic](https://open.spotify.com/track/4QetvMTZ4ZM85KbEdrCeGS) | [Anni3](https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2) | [Toxic](https://open.spotify.com/album/5JZtxFGjXve0P1avtTx9IT) | 2:28 | 2024-05-03 | 2024-05-13 |
 | [TOYL \(Time Of Your Life\)](https://open.spotify.com/track/2MC76yZJfif1GRBpG1USWg) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s) | [TOYL \(Time Of Your Life\)](https://open.spotify.com/album/1ad4lbzO6ZSQsTHMxNbvTN) | 3:45 | 2024-09-27 | 2024-10-26 |
-| [Track 6](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-17 |  |
 | [Tropicana Baby](https://open.spotify.com/track/0qF5AylL3g9ZVXbO3vgV8q) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.1](https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE) | 2:52 | 2023-02-25 | 2023-03-18 |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-10-21 | 2023-03-25 |
 | [True Love](https://open.spotify.com/track/4oWY2bclWe9qMkQpNSbqiY) | [2Face Idibia](https://open.spotify.com/artist/1UbvV2jeLyNZtJnYSPL1pV) | [The Edge of Africa, Vol\. 11](https://open.spotify.com/album/0xH8lHD32ikBZvz2ZOvmnW) | 4:22 | 2024-02-13 | 2024-02-16 |

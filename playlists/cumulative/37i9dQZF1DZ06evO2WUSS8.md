@@ -4,7 +4,7 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-151 songs - 9 hr 59 min
+152 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Flying High](https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:53 | 2021-12-28 | 2025-02-27 |
 | [Free & Equal](https://open.spotify.com/track/5fbj7p7obnBArZzPLdFiGM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:09 | 2022-10-27 | 2024-11-07 |
 | [Gimme Shelter](https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:08 | 2022-03-30 | 2022-07-24 |
-| [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/5quLv2zOCNLPL0jQrC7fZv) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/album/3qTqXoz0Z1IGsPT6GIJpbR) | 4:37 | 2025-09-21 |  |
+| [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/5quLv2zOCNLPL0jQrC7fZv) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/album/3qTqXoz0Z1IGsPT6GIJpbR) | 4:37 | 2025-09-21 | 2025-10-18 |
+| [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/7K4u5bxc2SVotPItpmVAe4) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Eternamente Omara](https://open.spotify.com/album/7KuOwzB6ZJ7fJmYvfxxeVm) | 4:37 | 2025-10-18 |  |
 | [Houses in Motion](https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 4:33 | 2021-12-30 | 2022-10-11 |
 | [Idje Idje](https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 5:48 | 2022-01-02 | 2022-10-13 |
 | [Iemanja](https://open.spotify.com/track/0kAZfnq7vls5Kr94N5EeBg) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB) | 4:25 | 2024-07-22 | 2024-08-18 |

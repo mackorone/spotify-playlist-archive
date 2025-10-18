@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAA+DUnqYGUeiPF8Yd1jRvWD",
+  "snapshot_id": "aPA1gAAAAAAccs+QuXgWiHasE4GgePiC",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
+      "duration_ms": 195173,
+      "name": "Heavy Handed",
+      "url": "https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU"
     },
     {
       "added_at": null,
@@ -372,15 +372,15 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Heavy Handed",
-      "url": "https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU"
+      "duration_ms": 198306,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Coma Happy",
-        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+        "name": "Bullet Head",
+        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 187945,
-      "name": "Inside Joke",
-      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
+      "duration_ms": 163699,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coma Happy",
+        "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 187945,
+      "name": "Inside Joke",
+      "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bullet Head",
         "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 163699,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
+      "duration_ms": 178232,
+      "name": "Psycho - Demo",
+      "url": "https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 203786,
       "name": "High",
       "url": "https://open.spotify.com/track/12RaagYNB2IjIDzE7fRFKe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullet Head",
-        "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 178232,
-      "name": "Psycho - Demo",
-      "url": "https://open.spotify.com/track/7wzUVLEfDMTHZZaxae04fs"
     },
     {
       "added_at": null,

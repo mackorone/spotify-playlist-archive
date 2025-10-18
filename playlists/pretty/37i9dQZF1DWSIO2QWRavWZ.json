@@ -1,13 +1,29 @@
 {
-  "description": "New music from your favorite women.  Cover: Olivia Dean",
-  "num_followers": 226516,
+  "description": "New music from your favorite women.  Cover: Muni Long",
+  "num_followers": 226538,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDi4OCAVkrvEzskpboZbSXj62wu",
+  "snapshot_id": "AAAAAOOj2tfbBfOYRst+Bp/JNNNOmXcW",
   "tracks": [
+    {
+      "added_at": "2025-10-17 05:15:13",
+      "album": {
+        "name": "Delulu",
+        "url": "https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 259142,
+      "name": "Delulu",
+      "url": "https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K"
+    },
     {
       "added_at": "2025-10-10 07:33:06",
       "album": {
@@ -23,26 +39,6 @@
       "duration_ms": 209000,
       "name": "Lady Lady",
       "url": "https://open.spotify.com/track/2dmBAIjIfisvCG7G9YEh0g"
-    },
-    {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "Don't Remind Me (with Anderson .Paak)",
-        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 218472,
-      "name": "Don't Remind Me (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -81,6 +77,26 @@
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
+      "added_at": "2025-10-10 07:33:06",
+      "album": {
+        "name": "Don't Remind Me (with Anderson .Paak)",
+        "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 218472,
+      "name": "Don't Remind Me (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
+    },
+    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "Hot Body",
@@ -95,42 +111,6 @@
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-09-26 04:27:04",
-      "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 224788,
-      "name": "Play This Song (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -181,40 +161,40 @@
       "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
     },
     {
-      "added_at": "2025-09-19 16:39:00",
+      "added_at": "2025-09-26 04:27:04",
       "album": {
-        "name": "act right",
-        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 188899,
-      "name": "can't stop",
-      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 177886,
-      "name": "Safe (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+    },
+    {
+      "added_at": "2025-10-10 07:33:06",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -259,6 +239,62 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "Safe (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+    },
+    {
+      "added_at": "2025-09-19 16:39:00",
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 188899,
+      "name": "can't stop",
+      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
+    },
+    {
+      "added_at": "2025-10-17 05:15:13",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/42sV9yX0hOAGickkrH77WS"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 144250,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6"
+    },
+    {
+      "added_at": "2025-09-19 16:39:00",
+      "album": {
         "name": "CAM GIRL",
         "url": "https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks"
       },
@@ -275,6 +311,22 @@
       "duration_ms": 180333,
       "name": "CAM GIRL",
       "url": "https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y"
+    },
+    {
+      "added_at": "2025-09-19 16:39:00",
+      "album": {
+        "name": "Main Character",
+        "url": "https://open.spotify.com/album/5x0xJxWW4Meb2M79eEHm6M"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "duration_ms": 188382,
+      "name": "Main Character",
+      "url": "https://open.spotify.com/track/6UT5bzdmspm2noDOOxWthd"
     },
     {
       "added_at": "2025-10-10 07:33:06",
@@ -441,6 +493,22 @@
       "url": "https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP"
     },
     {
+      "added_at": "2025-10-17 05:15:13",
+      "album": {
+        "name": "Separate Ways",
+        "url": "https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 178538,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li"
+    },
+    {
       "added_at": "2025-10-10 07:33:06",
       "album": {
         "name": "How I Feel",
@@ -509,20 +577,20 @@
       "url": "https://open.spotify.com/track/5Mlitki4j9rXjKEapw0lUJ"
     },
     {
-      "added_at": "2025-10-03 04:03:31",
+      "added_at": "2025-10-17 05:15:13",
       "album": {
-        "name": "Disarray",
-        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+        "name": "Feels Like Love",
+        "url": "https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
         }
       ],
-      "duration_ms": 310853,
-      "name": "Disarray",
-      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+      "duration_ms": 275333,
+      "name": "Feels Like Love",
+      "url": "https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO"
     },
     {
       "added_at": "2025-09-26 04:27:04",
@@ -757,6 +825,22 @@
       "url": "https://open.spotify.com/track/5Cm2KMs2vNukKNVJ1H1Epo"
     },
     {
+      "added_at": "2025-10-17 05:15:13",
+      "album": {
+        "name": "me rn",
+        "url": "https://open.spotify.com/album/5Wm1uXEZqZ91GLtxUzVJ0S"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Letting Me Down",
+      "url": "https://open.spotify.com/track/503nRl3eKx1mBZTrsvQlG4"
+    },
+    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "people stories",
@@ -827,6 +911,26 @@
       "duration_ms": 192852,
       "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
       "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
+    },
+    {
+      "added_at": "2025-10-17 05:15:13",
+      "album": {
+        "name": "Saddest Song - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4cSCfIvrzFqOrotCUlTX3h"
+      },
+      "artists": [
+        {
+          "name": "indys blu",
+          "url": "https://open.spotify.com/artist/1hw2tymhSoZcDK9hWE2Jib"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 215090,
+      "name": "Saddest Song - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5vKw4XkWMAlFXmsXiIZC8d"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -929,6 +1033,22 @@
       "url": "https://open.spotify.com/track/0VmI6CdAptZsED2B2HLJVB"
     },
     {
+      "added_at": "2025-10-17 05:15:13",
+      "album": {
+        "name": "Sold Myself For Love",
+        "url": "https://open.spotify.com/album/06O9egxd0mX7XEtuqmuX0D"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 206282,
+      "name": "Sold Myself For Love",
+      "url": "https://open.spotify.com/track/1NFTCC13S7o7n2Yy6ctEdZ"
+    },
+    {
       "added_at": "2025-10-10 07:33:06",
       "album": {
         "name": "Long Story Short",
@@ -959,22 +1079,6 @@
       "duration_ms": 245972,
       "name": "My World (beyond)",
       "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 200536,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1531,42 +1635,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "Just Keke",
-        "url": "https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV"
-      },
-      "artists": [
-        {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
-        }
-      ],
-      "duration_ms": 138208,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/0jr7FK6kP2W9JFGsG4bYF4"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Catching Feelings",
-        "url": "https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 205028,
-      "name": "Catching Feelings",
-      "url": "https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp"
       },
@@ -1635,22 +1703,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/7EFyTSLVeJJxf765Z2fkfX"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 171068,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/1vZjhrIgcBUD0HlSxaUbRb"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "SMH",
         "url": "https://open.spotify.com/album/4y8qnEMm9K0TWwOKSM5B12"
       },
@@ -1663,22 +1715,6 @@
       "duration_ms": 167753,
       "name": "SMH",
       "url": "https://open.spotify.com/track/0r4mIUyLLb3LmBfoyQfgYJ"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Main Character",
-        "url": "https://open.spotify.com/album/5x0xJxWW4Meb2M79eEHm6M"
-      },
-      "artists": [
-        {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        }
-      ],
-      "duration_ms": 188382,
-      "name": "Main Character",
-      "url": "https://open.spotify.com/track/6UT5bzdmspm2noDOOxWthd"
     },
     {
       "added_at": "2025-09-19 16:39:00",

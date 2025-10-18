@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: ralph
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,385 likes - 94 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,417 likes - 94 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

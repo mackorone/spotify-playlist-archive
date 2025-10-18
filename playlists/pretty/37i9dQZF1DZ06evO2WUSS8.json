@@ -1,33 +1,13 @@
 {
   "description": "This is Angelique Kidjo. The essential tracks, all in one playlist.",
-  "num_followers": 14881,
+  "num_followers": 14880,
   "original_name": "This Is Angelique Kidjo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAD1DJMnku4AJGevavvY1r5n",
+  "snapshot_id": "aPA1gAAAAADJAcFa4PLQNJ42S4sygYiE",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guantanamera (feat. Angelique Kidjo)",
-        "url": "https://open.spotify.com/album/3qTqXoz0Z1IGsPT6GIJpbR"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 277527,
-      "name": "Guantanamera (feat. Angelique Kidjo)",
-      "url": "https://open.spotify.com/track/5quLv2zOCNLPL0jQrC7fZv"
-    },
     {
       "added_at": null,
       "album": {
@@ -143,6 +123,26 @@
       "duration_ms": 325773,
       "name": "Safiatou (feat. Santana & Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/35ban4QFfitxOYRO7yVMFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternamente Omara",
+        "url": "https://open.spotify.com/album/7KuOwzB6ZJ7fJmYvfxxeVm"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 277527,
+      "name": "Guantanamera (feat. Angelique Kidjo)",
+      "url": "https://open.spotify.com/track/7K4u5bxc2SVotPItpmVAe4"
     },
     {
       "added_at": null,
@@ -307,6 +307,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/2lsPTHNG4ot3c33R3qN06E"
+      },
+      "artists": [
+        {
+          "name": "Hoax (BE)",
+          "url": "https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/59Zh2cPqIZSPjadFpUr5iF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu"
       },
@@ -343,34 +371,6 @@
       "duration_ms": 161866,
       "name": "C'est dr\u00f4le la vie",
       "url": "https://open.spotify.com/track/2uMfVlGi30aHKy4ntQUzso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/2lsPTHNG4ot3c33R3qN06E"
-      },
-      "artists": [
-        {
-          "name": "Hoax (BE)",
-          "url": "https://open.spotify.com/artist/7fpk8jTMiMnCWKnEAu62C9"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "Ghetto Boy",
-          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/59Zh2cPqIZSPjadFpUr5iF"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 394640,
-      "name": "Sparrow",
-      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5"
       },
@@ -655,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/4BQM4MfxSGAD5UKnTKRGiR"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 394640,
+      "name": "Sparrow",
+      "url": "https://open.spotify.com/track/04UXkVSkHOs0mVYLjscGwM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fifa",
         "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
       },
@@ -667,6 +667,22 @@
       "duration_ms": 255333,
       "name": "Wombo Lombo",
       "url": "https://open.spotify.com/track/1Sv9rQgh9qrbeJVHKGTfCM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Olofoofo",
+      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 196594,
       "name": "Nadi Balance (feat. Sheila Maurice-Grey)",
       "url": "https://open.spotify.com/track/0T50W2ymtPwtJgtZMOXrGO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Olofoofo",
-      "url": "https://open.spotify.com/track/394xrmhtbDhnh682wbPJgk"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JERUSALEMA",
+        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 329189,
+      "name": "JERUSALEMA",
+      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quanto Mais Curtido Melhor",
         "url": "https://open.spotify.com/album/0t1qknrBjG99Kilu1ToPpX"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 255600,
       "name": "Ponto De Muta\u00e7\u00e3o (feat. Ang\u00e9lique Kidjo)",
       "url": "https://open.spotify.com/track/7sa4rCcv09YGHO0zxirayB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JERUSALEMA",
-        "url": "https://open.spotify.com/album/1MdpGLfmkG6VQwopb8K0au"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 329189,
-      "name": "JERUSALEMA",
-      "url": "https://open.spotify.com/track/0HcxM7O49XgSNbWVn5C8vi"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Ivory Soul",
+        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 254866,
+      "name": "Afirika",
+      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs For Humanity",
         "url": "https://open.spotify.com/album/0VHLyRLc8JCXBPc1xKvsbR"
       },
@@ -1067,42 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OYO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "Samba Pa Ti",
-      "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Ivory Soul",
-        "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 254866,
-      "name": "Afirika",
-      "url": "https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Evil Genius",
         "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 221573,
       "name": "Africa Nangadef",
       "url": "https://open.spotify.com/track/2G93qLPeCF3fMiTD6lB4Ug"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OYO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6UcZyvaymagvEIKf1xSwU3"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "Samba Pa Ti",
+      "url": "https://open.spotify.com/track/0mxw8CSbJW5jBQonH7Y4Cv"
     },
     {
       "added_at": null,

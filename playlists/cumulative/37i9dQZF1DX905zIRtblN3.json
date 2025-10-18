@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Edgardo Nu\u00f1ez.",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Juli\u00f3n Alvarez.",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
+    },
+    {
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/2AXbpqGa1iELh2NhmewQKn"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7xdVoNuJ67iuEhMFi6pDzo"
     },
     {
       "album": {
@@ -716,7 +734,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 208000,
       "name": "Al\u00e9gale Al Umpire",
       "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
@@ -7438,7 +7456,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 193770,
       "name": "La Noche en Que Nos Conocimos",
       "url": "https://open.spotify.com/track/302jNlIGeAvA7C47fZsSta"
@@ -8796,7 +8814,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 184173,
       "name": "Marlboro Rojo",
       "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
@@ -9044,6 +9062,24 @@
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
     },
     {
       "album": {
@@ -9360,6 +9396,24 @@
       "duration_ms": 196064,
       "name": "Mi Despedida",
       "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+    },
+    {
+      "album": {
+        "name": "Mi Entorno",
+        "url": "https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Mi Entorno",
+      "url": "https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y"
     },
     {
       "album": {
@@ -12351,6 +12405,24 @@
     },
     {
       "album": {
+        "name": "Que Se Enteren De Una Vez",
+        "url": "https://open.spotify.com/album/6UtU9WJ2LPXF8fVsUE8Yi0"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Que Se Enteren De Una Vez",
+      "url": "https://open.spotify.com/track/1sWoGvu9L1XMYyYRcpheIs"
+    },
+    {
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/5TPUAeZb0S1JxxUZeGWbUW"
       },
@@ -15098,7 +15170,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 280250,
       "name": "Tus Mentiras (En Vivo)",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
@@ -15314,6 +15386,24 @@
       "duration_ms": 235434,
       "name": "Un Cumbi\u00f3n Dolido",
       "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
+    },
+    {
+      "album": {
+        "name": "Un Idiota Como Yo",
+        "url": "https://open.spotify.com/album/427CTYN7SvioSO5QwCyi3n"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210887,
+      "name": "Un Idiota Como Yo",
+      "url": "https://open.spotify.com/track/1WlldKXGHxu1wPckH767Uv"
     },
     {
       "album": {
@@ -15594,7 +15684,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 167741,
       "name": "Ven",
       "url": "https://open.spotify.com/track/3Ni9WDhfpsZtE8doGPBl9Y"

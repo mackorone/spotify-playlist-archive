@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Juicy Luicy
 
-514 songs - 1 day 9 hr 28 min
+514 songs - 1 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Puisi Kota](https://open.spotify.com/track/0KK7i1BGcY85UKgEjf6reS) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Puisi Kota](https://open.spotify.com/album/7f4BxEMlnYYoNLTNcB6VIo) | 4:50 | 2024-11-29 | 2025-05-16 |
 | [Puspa](https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Berbunga](https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg) | 3:20 | 2025-04-24 | 2025-05-30 |
 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 | 2024-07-25 | 2024-09-06 |
+| [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 | 2025-10-16 |  |
 | [Rahasia \#2](https://open.spotify.com/track/6jQa4jKWIgwUX4EW2R8UND) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Rahasia \#2](https://open.spotify.com/album/4boRdm48cMp4ojgdsULFxH) | 3:14 | 2024-09-06 | 2024-10-11 |
 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 | 2024-11-07 | 2025-07-25 |
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-05-03 | 2024-10-25 |
@@ -504,7 +505,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-04 | 2025-10-17 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2024-06-07 |
-| [Track 2](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-10-11 |
 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 |  |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |

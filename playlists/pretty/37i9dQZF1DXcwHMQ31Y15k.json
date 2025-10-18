@@ -1,13 +1,29 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Denny Caknan, NDX A.K.A.",
-  "num_followers": 226707,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Esa Risty",
+  "num_followers": 226814,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHTEdJ+m7cBAmVMDO5/ji3r5lR/F",
+  "snapshot_id": "AAAAAON16nvWBMUwIcX5GHOn18HwWAjO",
   "tracks": [
+    {
+      "added_at": "2025-10-17 14:29:44",
+      "album": {
+        "name": "Ngamen 4",
+        "url": "https://open.spotify.com/album/55q4uCV11NAmVbxhk7XY0R"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Ngamen 4",
+      "url": "https://open.spotify.com/track/00n38igoTWDhcLF2jSDIKN"
+    },
     {
       "added_at": "2025-10-02 22:28:29",
       "album": {
@@ -59,6 +75,30 @@
       "duration_ms": 299520,
       "name": "Patgulipat",
       "url": "https://open.spotify.com/track/5WEDt9oj53o10BovgXzA3S"
+    },
+    {
+      "added_at": "2025-10-17 14:29:44",
+      "album": {
+        "name": "Nduweni",
+        "url": "https://open.spotify.com/album/3c7enycYJI2BOdarQIJvGl"
+      },
+      "artists": [
+        {
+          "name": "Sweety Days",
+          "url": "https://open.spotify.com/artist/0DWw4lIlzU2TQTedyDU5M4"
+        },
+        {
+          "name": "Arry Harmoko",
+          "url": "https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf"
+        },
+        {
+          "name": "Estetika Karina",
+          "url": "https://open.spotify.com/artist/1pKYbKRTckwqDrmYmrBKpt"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Nduweni",
+      "url": "https://open.spotify.com/track/0pEqcaVfMePZOEFwr9tzkh"
     },
     {
       "added_at": "2025-10-10 05:00:07",

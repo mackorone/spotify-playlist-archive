@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 169136,
+  "num_followers": 169125,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "Say You'll Stay",
+        "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
+      },
+      "artists": [
+        {
+          "name": "Koa Rae",
+          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+        },
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        }
+      ],
+      "duration_ms": 167603,
+      "name": "Say You'll Stay",
+      "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0jdfbyi8o26wYeT5ZMHN0X"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 137566,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5AjkecsmTEd5H8vvLFgz7F"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
-      },
-      "artists": [
-        {
-          "name": "july",
-          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
-        },
-        {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -675,22 +675,22 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Say You'll Stay",
-        "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
       },
       "artists": [
         {
-          "name": "Koa Rae",
-          "url": "https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw"
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
         },
         {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
         }
       ],
-      "duration_ms": 167603,
-      "name": "Say You'll Stay",
-      "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
+      "duration_ms": 145573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/6zhLFfiMx8ulxcVnSlq54T"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 147839,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/4UggOindubYKHsDlCG8NEj"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/6zhLFfiMx8ulxcVnSlq54T"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "You Have To Have A Goal",
+        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "duration_ms": 133924,
+      "name": "You Have To Have A Goal",
+      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 162782,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "You Have To Have A Goal",
-        "url": "https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 133924,
-      "name": "You Have To Have A Goal",
-      "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1043,22 +1043,26 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Sandcastles",
-        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
+        "name": "This Life We Built",
+        "url": "https://open.spotify.com/album/5u1ZeTv5yjpxaHwEMHHH8D"
       },
       "artists": [
         {
-          "name": "Nate VanDeusen",
-          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+          "name": "Kalkovich",
+          "url": "https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh"
         },
         {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "Fini",
+          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
+        },
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Sandcastles",
-      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+      "duration_ms": 125901,
+      "name": "This Life We Built",
+      "url": "https://open.spotify.com/track/2Rohfdfxdxxc385eqFxFy9"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1083,26 +1087,42 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "This Life We Built",
-        "url": "https://open.spotify.com/album/5u1ZeTv5yjpxaHwEMHHH8D"
+        "name": "Sandcastles",
+        "url": "https://open.spotify.com/album/6F0zU7azVF6bzG0rVznJKk"
       },
       "artists": [
         {
-          "name": "Kalkovich",
-          "url": "https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh"
-        },
-        {
-          "name": "Fini",
-          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
-        },
-        {
           "name": "Nate VanDeusen",
           "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
         }
       ],
-      "duration_ms": 125901,
-      "name": "This Life We Built",
-      "url": "https://open.spotify.com/track/2Rohfdfxdxxc385eqFxFy9"
+      "duration_ms": 138000,
+      "name": "Sandcastles",
+      "url": "https://open.spotify.com/track/6NmYcN4cJaFC43i3po2O1r"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Dance Of Love",
+        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
+      },
+      "artists": [
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "Wave94",
+          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Dance Of Love",
+      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -1131,26 +1151,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Dance Of Love",
-        "url": "https://open.spotify.com/album/0kyhxzepypEjLQhIepG07h"
-      },
-      "artists": [
-        {
-          "name": "LU2VYK",
-          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
-        },
-        {
-          "name": "Wave94",
-          "url": "https://open.spotify.com/artist/2bppX7eLqQw6bWhFD1eaQO"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "Dance Of Love",
-      "url": "https://open.spotify.com/track/2CqmLoGaMIwHHgf3A1AjF6"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/6Hy2fLVSlcBl1rYjCfKG3Q"
       },
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Far Beyond",
-        "url": "https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5"
-      },
-      "artists": [
-        {
-          "name": "Munch",
-          "url": "https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        }
-      ],
-      "duration_ms": 137993,
-      "name": "Far Beyond",
-      "url": "https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Wicked Games",
         "url": "https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 159047,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Far Beyond",
+        "url": "https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5"
+      },
+      "artists": [
+        {
+          "name": "Munch",
+          "url": "https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        }
+      ],
+      "duration_ms": 137993,
+      "name": "Far Beyond",
+      "url": "https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA"
     },
     {
       "added_at": "2025-10-09 22:00:27",

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,568 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,554 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wish Upon a Scar](https://open.spotify.com/track/6J686u6DfCyG7dTQsENUHi) | [Babyteeth](https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax) | [Wish Upon a Scar](https://open.spotify.com/album/2iOZEQi1TQO3cMnAttjeYo) | 3:40 |
-| 2 | [Maelstrom](https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [](https://open.spotify.com/album/null) | 3:33 |
+| 2 | [Maelstrom](https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [And Your Song is Like a Circle](https://open.spotify.com/album/62MKnX9dinEbi3Zz9w6rx8) | 3:33 |
 | 3 | [Dancing With Her](https://open.spotify.com/track/4aCxMYOlcYMxdK8ICB29DN) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Stay Here Where It's Warm](https://open.spotify.com/album/2025iFS7ufF84zxWA5Dqd6) | 4:04 |
 | 4 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 |
 | 5 | [CAT SONG](https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [CAT SONG](https://open.spotify.com/album/0Ow0gAfure6Dx90DAnahyw) | 2:34 |
-| 6 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [](https://open.spotify.com/album/null) | 3:06 |
+| 6 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:06 |
 | 7 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
 | 8 | [Buttons](https://open.spotify.com/track/5bDnCLzLMaJ7mUBVPBmVIG) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [Buttons](https://open.spotify.com/album/7ijx3S8K0hnfLcoN9oAUtc) | 3:18 |
 | 9 | [Rage](https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Rage](https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt) | 3:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,959 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,992 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 66 | [Tis Oke Mop](https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Juppige Geintjes](https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE) | 2:57 |
 | 67 | [Hele Meneer](https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Hele Meneer \#Dingems \- EP](https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia) | 2:43 |
 | 68 | [Lekker He](https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Lekker He](https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh) | 2:25 |
-| 69 | [J'ai Déconné](https://open.spotify.com/track/51PcB5453BMTM18V0hru79) | [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [Clandistino](https://open.spotify.com/artist/6jS6JOoUxuUrEKDDrciQzm) | [J'ai Déconné](https://open.spotify.com/album/6cYHZJpSSeMCBRd7xzikIK) | 2:48 |
-| 70 | [Naar Beneden](https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VBALERT](https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u) | 3:20 |
+| 69 | [Naar Beneden](https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VBALERT](https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u) | 3:20 |
+| 70 | [J'ai Déconné](https://open.spotify.com/track/51PcB5453BMTM18V0hru79) | [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB), [Clandistino](https://open.spotify.com/artist/6jS6JOoUxuUrEKDDrciQzm) | [J'ai Déconné](https://open.spotify.com/album/6cYHZJpSSeMCBRd7xzikIK) | 2:48 |
 | 71 | [My Love](https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [My Love](https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE) | 4:03 |
 | 72 | [Zulke Dingen Doe Je](https://open.spotify.com/track/5YQOSocjiojsG8inUrXQj1) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Geisha EP](https://open.spotify.com/album/5TxKh9tiVmbmM5fnqvpbBE) | 2:58 |
 | 73 | [Op De Weg \(feat\. Adje & CHO\)](https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [Reloaded](https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu) | 3:04 |

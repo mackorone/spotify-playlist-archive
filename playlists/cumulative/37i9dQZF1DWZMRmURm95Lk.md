@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Turi in cover.
 
-588 songs - 1 day 9 hr 19 min
+589 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@
 | [Non Guarirò](https://open.spotify.com/track/3gjBzltW7I6xhtjCROo7os) | [Creep Giuliano](https://open.spotify.com/artist/61hK1jzlZ1AnEQhq7dLmAv) | [Divina Miseria](https://open.spotify.com/album/25nvwiYUWK6Q4AubBUlChP) | 3:02 | 2024-03-28 | 2024-04-12 |
 | [Non lo so](https://open.spotify.com/track/0VxcCZHIqqtJNTiHra0Y5X) | [DJ Gengis](https://open.spotify.com/artist/4f4ERDE3xkOakb8zOnlaRp), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Danno](https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN) | [Beat Coin](https://open.spotify.com/album/7GK5xFWfFQBUisVtld1PiX) | 3:32 | 2022-05-05 | 2022-07-29 |
 | [Non mi avrete mai](https://open.spotify.com/track/2LM2JJj3hQLCZRQFu1xu02) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Fabiano detto Inoki](https://open.spotify.com/album/19dM4Pt4jFNdXiwjQG3ZK8) | 3:52 | 2022-07-28 | 2024-02-16 |
-| [Non Mi Avrete Mai](https://open.spotify.com/track/3NKspAjWQGaWSecwtS3lS1) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Fabiano Detto Inoki](https://open.spotify.com/album/78a5pjxDZLeFZQnGyjRiDQ) | 3:52 | 2022-05-05 |  |
+| [Non Mi Avrete Mai](https://open.spotify.com/track/3NKspAjWQGaWSecwtS3lS1) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [Fabiano Detto Inoki](https://open.spotify.com/album/78a5pjxDZLeFZQnGyjRiDQ) | 3:52 | 2022-05-05 | 2025-10-18 |
 | [Non Mi Avrete Mai](https://open.spotify.com/track/0qeuNdwRQYx4w4eFWkqZN1) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [The Newkingztape Vol\. 1](https://open.spotify.com/album/0Nfy0NIQMl7h08O4lwxa75) | 3:58 | 2024-02-15 | 2024-02-22 |
 | [Non Mi Avrete Mai](https://open.spotify.com/track/1Uz7oq3Fe54LozBaydosIQ) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [The Newkingztape, Vol\. 1](https://open.spotify.com/album/7JWProXxk4k412vG7fJj3J) | 3:58 | 2024-02-22 | 2024-04-19 |
 | [Non mi scordo](https://open.spotify.com/track/0baPcSrQYRF1F6FjEAijW8) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4) | [Nicolás](https://open.spotify.com/album/1244XJiYbBebIUObMvxBZa) | 3:23 | 2022-05-05 | 2022-07-28 |
@@ -463,6 +463,7 @@
 | [Reddito passivo](https://open.spotify.com/track/4UrVWE8BON0sYtDEHocZRT) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Reddito passivo](https://open.spotify.com/album/1idVm5wE0yEv98Zv2cUSkq) | 3:44 | 2023-09-15 | 2023-12-30 |
 | [Riflessioni di un'anima inquieta](https://open.spotify.com/track/2mVgLG2qHFV5x83Z0NUJ99) | [Pathos](https://open.spotify.com/artist/0PTw5oqmTPecU3Rlkte197) | [Verso Libertalia](https://open.spotify.com/album/03YGd4BHEmYiAsTaPVWdIx) | 4:45 | 2022-05-05 | 2023-12-06 |
 | [Rigurgito antifascista](https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2) | [99 Posse](https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW) | [Curre curre guagliò](https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC) | 5:54 | 2022-05-12 | 2025-02-28 |
+| [Rinascimento della tecnica](https://open.spotify.com/track/4W8hfuGS0pwoufdceb6swZ) | [Delta](https://open.spotify.com/artist/3gE0qFCbk9uPA5q6HJy0y4), [CROMA555](https://open.spotify.com/artist/0EAuqFtKKT3d9THSUnMnYD) | [Rinascimento della tecnica](https://open.spotify.com/album/6RCg5NY1bRcQITtuDv74oq) | 2:23 | 2025-10-17 |  |
 | [Ripartire Da Zero 2025](https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF) | [The Jazzness](https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ) | 4:08 | 2025-05-16 | 2025-06-20 |
 | [RISCHIO IL CULO \- O.V.](https://open.spotify.com/track/6wUSmUoxrIlrHlQcHocvUN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [RISCHIO IL CULO \(O.V.\)](https://open.spotify.com/album/0KOTWP0aOolTPPLoDZFavL) | 1:48 | 2025-06-26 |  |
 | [Rock the House \(feat\. Danno, Sean Martin, Inoki & Mistaman\)](https://open.spotify.com/track/6QgrejcLH4bGg8Cuu2KRYg) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Sean Martin](https://open.spotify.com/artist/4HA7fOjTMJ1HOwgG41CXnw), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 3:22 | 2022-11-08 | 2023-03-10 |

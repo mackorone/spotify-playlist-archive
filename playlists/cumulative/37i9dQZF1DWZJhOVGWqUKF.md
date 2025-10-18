@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Story Untold
 
-703 songs - 1 day 16 hr 2 min
+703 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,7 +584,7 @@
 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 | 2025-06-12 |  |
 | [Suffocate](https://open.spotify.com/track/2XyMqXoCief3SnnNxEMJ9s) | [About Monsters](https://open.spotify.com/artist/3MgpEbOPTYbUAOt9uyn5pb) | [Suffocate](https://open.spotify.com/album/79H6WwnwmCS9KQdBrakLW6) | 3:17 | 2025-03-27 | 2025-04-04 |
 | [Suffocate City \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/6KGn5dPsENHWHcgvZLIo0o) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Greetings From Suffocate City](https://open.spotify.com/album/6Ub4uRu4MftC1TCauizseQ) | 3:33 | 2024-09-19 | 2025-08-09 |
-| [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [](https://open.spotify.com/album/null) | 3:00 | 2025-10-16 |  |
+| [Sugar \(feat JoJo\)](https://open.spotify.com/track/3lErXBoKmIXTmqVw4CoUmI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Everyone's Talking!](https://open.spotify.com/album/02l2P4R1Q2FJX0zAaWr1bl) | 3:00 | 2025-10-16 |  |
 | [SUNBURN IN THE SUMMER](https://open.spotify.com/track/07gwI3Ecg3hsa4oV9X2DQC) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF) | [SUNBURN IN THE SUMMER](https://open.spotify.com/album/0qNj9zsXoh8yZgTpEGbohi) | 2:27 | 2025-07-31 | 2025-08-09 |
 | [Supercharged](https://open.spotify.com/track/4EWc7ZhXOeiWrzj9acY9XE) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN) | [Supercharged](https://open.spotify.com/album/0qN9APV6EV8uiX4FaW6QMn) | 3:05 | 2025-07-10 | 2025-07-18 |
 | [SUPERHUMAN](https://open.spotify.com/track/2eYD2TVisbUOH8EsE5FPom) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [THE WAY](https://open.spotify.com/album/358tJVvVgfUhwcjpLDnZPk) | 3:40 | 2025-03-20 | 2025-04-25 |
@@ -611,6 +611,7 @@
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-12 | 2025-08-23 |
 | [THE DAY I DIE](https://open.spotify.com/track/6i7bF28lxl9lIY5YlxEkOL) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE DAY I DIE](https://open.spotify.com/album/2TcaqGYejUhMR5Aazztveu) | 4:00 | 2025-04-24 | 2025-06-21 |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-08 | 2024-09-27 |
+| [The Death of the Crows](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [X\-ÆON](https://open.spotify.com/album/5ufm3YpuYfSpMyPapW5Vay) | 3:09 | 2025-10-16 |  |
 | [THE DEVIL I KNOW](https://open.spotify.com/track/6HUoEDzOcsT6d8mbY8CsJw) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [THE DEVIL I KNOW](https://open.spotify.com/album/5jfgjEwyuDHKPP7M3QANcB) | 3:45 | 2024-10-31 | 2024-11-08 |
 | [The Devil of Decisions](https://open.spotify.com/track/6LhKuG1JisJADzSJM8EYjN) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [The Devil of Decisions](https://open.spotify.com/album/58wFGCNPlLWTFBIEqKr4Df) | 3:31 | 2024-09-05 | 2024-09-13 |
 | [The Downfall](https://open.spotify.com/track/5JeKlM4tr6EsdNOtCPjEA5) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [The Downfall](https://open.spotify.com/album/3HiKtj609zB1IYtQsu4xUG) | 4:44 | 2024-11-28 | 2025-01-25 |
@@ -643,7 +644,6 @@
 | [Tommy](https://open.spotify.com/track/0M5yOiTKWbHlZOGS9q1Lqy) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Tommy](https://open.spotify.com/album/7f79w4qMEqGgFaVgMfBAwb) | 2:02 | 2025-04-10 | 2025-04-18 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 |  |
 | [Total Annihilation](https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Total Annihilation](https://open.spotify.com/album/5yM0f4ArMFsiRXZC11hHGX) | 6:50 | 2025-09-25 | 2025-10-03 |
-| [Track 3](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Trance](https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Trance](https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8) | 3:07 | 2024-12-19 | 2025-02-07 |
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-01 | 2024-08-09 |
 | [Treehouse](https://open.spotify.com/track/3vFGACGgLBnbpLoExxUP2Q) | [Wait of the World](https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si) | [Treehouse](https://open.spotify.com/album/1jgnH8FeGJHmxHgMVJgcA7) | 2:51 | 2025-01-16 | 2025-01-24 |

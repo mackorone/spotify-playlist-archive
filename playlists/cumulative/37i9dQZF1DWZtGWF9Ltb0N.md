@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-851 songs - 2 day 7 hr 35 min
+853 songs - 2 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Balaclava](https://open.spotify.com/track/7w6TttBaxpBtN5xVBee0cs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground](https://open.spotify.com/album/72H8cpW6whqogljyw6ZFJA) | 3:17 | 2023-06-30 | 2024-04-19 |
 | [Ballad of the Ravenous](https://open.spotify.com/track/6hbcSe4pcw8I2vhDG4XnWt) | [Midnight Tyrannosaurus](https://open.spotify.com/artist/6Z8O8PugLuKyLFVkZLQDRZ), [Stepps](https://open.spotify.com/artist/4oi1tAN4e3J3PnohTxiG96) | [Ballad of the Ravenous](https://open.spotify.com/album/47cURSR5K78UxX1zgzN9AO) | 4:11 | 2023-06-09 | 2024-10-01 |
 | [Banada](https://open.spotify.com/track/0ieeUcJFXbm3XqWKVeZxRQ) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Banada](https://open.spotify.com/album/0GX8LRuYKACQErKXtVfoyc) | 3:52 | 2022-11-04 | 2022-12-19 |
-| [BARRACUDA](https://open.spotify.com/track/0wLkTnJxJxSNs6pyf7jUw3) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [BARRACUDA](https://open.spotify.com/album/1nOUV3MeyAiszAuMMjlEAY) | 2:58 | 2024-03-22 |  |
+| [BARRACUDA](https://open.spotify.com/track/0wLkTnJxJxSNs6pyf7jUw3) | [Hgods](https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA) | [BARRACUDA](https://open.spotify.com/album/1nOUV3MeyAiszAuMMjlEAY) | 2:58 | 2024-03-22 | 2025-10-18 |
 | [Bass B$tch](https://open.spotify.com/track/3OBUIW6j8f0u0WfXX48u1v) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Bass B$tch](https://open.spotify.com/album/6nrddbRAkUUqtwsiXteix7) | 2:48 | 2024-10-25 |  |
 | [Bass Drama](https://open.spotify.com/track/02xFanXMNa1oVWdDZicssi) | [Hubwar](https://open.spotify.com/artist/5nR6SzYpEXdbRHRAJIO4aZ) | [Creatures](https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n) | 4:20 | 2022-02-17 | 2024-03-02 |
 | [Bassline](https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Bassline](https://open.spotify.com/album/4NQardSGvLWdwHLJwSHZm3) | 4:14 | 2023-08-18 | 2024-08-24 |
@@ -76,7 +76,7 @@
 | [Beastmode](https://open.spotify.com/track/5vYQpxkQkWhOj7tx44byhk) | [Epoch](https://open.spotify.com/artist/2cABKsImI0m4eAk8kyBMhQ) | [Beastmode](https://open.spotify.com/album/1Enbv9SOT28q5gNoLjLBaV) | 4:39 | 2022-04-29 | 2023-05-17 |
 | [Bhuta](https://open.spotify.com/track/3n5KOTr85y3NOdDPmMIFD9) | [Sabasonik](https://open.spotify.com/artist/1bJVUQC8Ag7LR15xEJS45G) | [Taala / Bhuta](https://open.spotify.com/album/4hDqxbvHFRRTGPQFFmI6Wi) | 3:52 | 2022-02-17 | 2022-07-30 |
 | [Big Boi](https://open.spotify.com/track/4nJ7HHtJat66JqV8Oa6Tlv) | [Ramsez](https://open.spotify.com/artist/6u8RwyERnGpgixqrLjyVGL) | [Big Boi](https://open.spotify.com/album/21cs74Puy6O94G398bJ6jb) | 4:53 | 2022-02-17 | 2022-06-30 |
-| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-15 |  |
+| [Big Man](https://open.spotify.com/track/3faHmENz3iMyffQvzVqRK8) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Big Man](https://open.spotify.com/album/49jhqkeGEVAT14rA3sVelp) | 2:48 | 2024-03-15 | 2025-10-18 |
 | [Big Sound](https://open.spotify.com/track/6AwqqoSLwFSHHEsh4wB3id) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/0enzWFgcbJ1nT5qtrwsWxj) | 4:39 | 2022-02-17 | 2022-07-29 |
 | [Big Sound](https://open.spotify.com/track/6dlCxzq1BmPXFLArScNz2i) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Big Sound](https://open.spotify.com/album/2fsd0lJ3k6Fig0x8eulNnB) | 4:39 | 2022-07-08 | 2023-01-14 |
 | [birds on \[tatooine\]](https://open.spotify.com/track/6alu8VrEPElH37Br4AViEg) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [The Great Migration of Memory](https://open.spotify.com/album/0P0egdkQPXPxkbv57Hu94R) | 1:16 | 2024-05-10 | 2024-09-14 |
@@ -548,6 +548,7 @@
 | [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 | 2024-12-13 |  |
 | [Peaking](https://open.spotify.com/track/6p7B5uSORzBJG46GIGU8nl) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Danger Console](https://open.spotify.com/album/0NGN04sKoB1sRijI88GibI) | 2:46 | 2025-07-11 |  |
 | [Pelican](https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Pelican](https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8) | 2:34 | 2025-07-11 |  |
+| [Peppermint](https://open.spotify.com/track/3oO26OMKFDDko6ouX4rQVC) | [Cool Customer](https://open.spotify.com/artist/2zP6x0auCdwbZrzWFVq1fO) | [Peppermint](https://open.spotify.com/album/0k3k2F2i1BKdZhpX2hfIn5) | 4:37 | 2025-10-17 |  |
 | [Perceiver](https://open.spotify.com/track/2HMXYPAtj8liB6ywImkELU) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [CODE RED EP](https://open.spotify.com/album/3m7ox4dJaPu8SjUtbuJDFj) | 3:27 | 2023-06-23 | 2023-08-18 |
 | [Phantom Signal](https://open.spotify.com/track/2nDCB0ClNpJ4PaKwNQT7W8) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A) | [Phantom Signal](https://open.spotify.com/album/052FqupozwX5hDNQdaEtEx) | 2:47 | 2025-09-12 |  |
 | [Pinky](https://open.spotify.com/track/6Do1b2IicfJwzxXR3lGVFz) | [Pigeon Hole](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP) | [Pinky](https://open.spotify.com/album/0bB6HUYWFx1B40l27ABu4C) | 3:16 | 2024-03-22 | 2024-07-09 |
@@ -644,6 +645,7 @@
 | [Shake It Off](https://open.spotify.com/track/2uXp1P1jPrjiVkKafgqYPW) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Shake It Off](https://open.spotify.com/album/0GzWA2pdhCEj2xvymykNOZ) | 2:17 | 2025-04-04 | 2025-08-30 |
 | [Shakras](https://open.spotify.com/track/1McY4SJFibhsDSybyS9q3m) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO) | [My Sound 2021 Re\-Master](https://open.spotify.com/album/732pkh9hGbFybUBZAxcZVr) | 5:40 | 2022-02-17 | 2024-02-14 |
 | [Shallow Affect](https://open.spotify.com/track/5RO7GtG2ce6um3qPnAKiBb) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Ebb](https://open.spotify.com/artist/4IawKApxht48ov22AEpzqH) | [Shallow Affect](https://open.spotify.com/album/2QZwnkS9fOtZ2mqNh5Yw5S) | 4:58 | 2022-10-07 | 2022-10-15 |
+| [Shantique](https://open.spotify.com/track/3EzDk1bmMrFFTaH1qt1KkL) | [CØNTRA](https://open.spotify.com/artist/2HhHusDoCRr9pgb30XX7q2) | [Shantique / Double](https://open.spotify.com/album/3mtyB6K7bwKFiY3PBY6s9R) | 4:14 | 2025-10-17 |  |
 | [Shaolin](https://open.spotify.com/track/2lFtQc1PhJw5w8az7tvWA7) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Shaolin](https://open.spotify.com/album/4LVR6xfH1HRQAn1jOZflxi) | 4:36 | 2022-04-08 | 2025-07-12 |
 | [Shaolin \- VIP](https://open.spotify.com/track/00U8YSKQB2kUbQ8UXRUj1E) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Shaolin \(Remixes\)](https://open.spotify.com/album/7eDNR8heCN9CukJY7AtrgY) | 4:37 | 2025-02-28 | 2025-03-22 |
 | [Shattered](https://open.spotify.com/track/457llDZbSny0PwadVVYp9g) | [G\-Space](https://open.spotify.com/artist/1yxgjoiYczfFDnh4YYp4t1), [Vide](https://open.spotify.com/artist/2zuL2fhF4xRzyCikWcmlea) | [Shattered](https://open.spotify.com/album/5fEoFp8c3DLhNAI4DykXf1) | 4:58 | 2024-08-09 | 2024-10-19 |

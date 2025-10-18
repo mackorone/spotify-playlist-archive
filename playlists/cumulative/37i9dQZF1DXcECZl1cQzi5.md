@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-185 songs - 8 hr 51 min
+186 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [By the Ocean](https://open.spotify.com/track/3wiPradzeWPto8383InaTd) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [By the Ocean](https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4) | 3:05 | 2025-01-15 |  |
 | [Calming Seas](https://open.spotify.com/track/4fMwSkpBaG61fufc3eaRSq) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 3:23 | 2023-10-23 |  |
 | [Calming Signals](https://open.spotify.com/track/7uE5mRDNA8QwChZPlvx6b2) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Calming Signals](https://open.spotify.com/album/0fNGHECPs58cLKljkQBRoK) | 2:49 | 2024-10-09 | 2025-02-19 |
-| [Calming Waves](https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 2:37 | 2023-10-23 | 2025-08-13 |
+| [Calming Waves](https://open.spotify.com/track/5hMLPlPQSdTYHBzgi4mmnf) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 2:37 | 2023-10-23 |  |
 | [Chao Phraya](https://open.spotify.com/track/3x2joKTEP8I0uSfl9MFjJC) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Chao Phraya](https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO) | 2:52 | 2023-10-23 | 2025-04-02 |
 | [Circles Above](https://open.spotify.com/track/1ViSc6YYY1AzoHGmsfQ9cl) | [Hænisson](https://open.spotify.com/artist/0Hdparp7CUNaqgqRWfx6bk) | [Circles Above](https://open.spotify.com/album/2vLnnXCZkC5bHJog6mFqRO) | 3:26 | 2024-03-20 | 2025-05-21 |
 | [Close Reach](https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Close Reach](https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo) | 2:45 | 2024-03-20 |  |
@@ -76,7 +76,8 @@
 | [Feel\(ing\)](https://open.spotify.com/track/47bHgaH5iRUjU0HQhtb6tQ) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Feel\(ing\)](https://open.spotify.com/album/7jUD1Sxsl7k7ysBKKR1i1N) | 3:23 | 2024-02-06 | 2025-08-15 |
 | [Fishermans Village](https://open.spotify.com/track/1Xg8CzWQX1tYZ5zfx54oFM) | [Harada Mi](https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3) | [Fishermans Village](https://open.spotify.com/album/1lmFb29PYY0c5rRa3w12ni) | 2:37 | 2023-10-23 |  |
 | [Foreign Land](https://open.spotify.com/track/2dYvErG4zo7PfQ86YyruEr) | [Bonum Somno](https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt) | [Foreign Land](https://open.spotify.com/album/4AxKVGRba3nKOqr16uORwl) | 2:48 | 2024-02-06 | 2025-02-23 |
-| [Frihet Natur](https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Frihet Natur](https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV) | 2:58 | 2023-10-23 |  |
+| [Frihet Natur](https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Frihet Natur](https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV) | 2:58 | 2023-10-23 | 2025-10-18 |
+| [From The Past](https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [From The Past](https://open.spotify.com/album/1hfRrhdadKh2F7tZt2vQlt) | 3:09 | 2025-10-02 |  |
 | [From Within](https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr) | [Infinity Equals](https://open.spotify.com/artist/3gqTdyMEE37wzRZA9HEWTQ) | [From Within](https://open.spotify.com/album/0UZaQABB0qZ1wDFF7keDfK) | 2:40 | 2024-01-19 |  |
 | [frosty mornings](https://open.spotify.com/track/1tGNzmsGGY2kFaEyHjZp9y) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [frosty mornings](https://open.spotify.com/album/2y5N4Xkpa8gvQtUmRIdUOs) | 2:23 | 2024-08-22 |  |
 | [Fundament Waves](https://open.spotify.com/track/2mdzn5dsUDIKNQ1TK67Bpf) | [Rhuma](https://open.spotify.com/artist/2sKBIgEdMkCfd6Fl682Gcf) | [Fundament Waves](https://open.spotify.com/album/2fYjCgYotNkBvn6ypvTDlr) | 2:32 | 2024-02-06 | 2024-06-22 |
@@ -101,7 +102,7 @@
 | [Majestic \(Ocean\)](https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Majestic \(Ocean\)](https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH) | 3:06 | 2023-10-23 |  |
 | [Marina Paradise](https://open.spotify.com/track/6GyiSgsuqXFJMLBECpXlcY) | [Claddagh Glas](https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi) | [Marina Paradise](https://open.spotify.com/album/1O1LO9tmn2EWzBms6PbnuC) | 2:24 | 2024-06-03 | 2025-03-06 |
 | [Melanoceano](https://open.spotify.com/track/09CycQ3vGymZiuEUyzE0QR) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Melanoceano](https://open.spotify.com/album/4plKRbG0DyPDI6OrxnJub2) | 2:37 | 2025-01-15 |  |
-| [Melu](https://open.spotify.com/track/36Bye5FdbcXLd6AiHIhfbY) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Melu](https://open.spotify.com/album/2lmQPms03gfoixIfZJ6h7r) | 3:02 | 2024-04-01 |  |
+| [Melu](https://open.spotify.com/track/36Bye5FdbcXLd6AiHIhfbY) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Melu](https://open.spotify.com/album/2lmQPms03gfoixIfZJ6h7r) | 3:02 | 2024-04-01 | 2025-10-18 |
 | [Midnight Shoreline](https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Midnight Shoreline](https://open.spotify.com/album/1E0JXRIEt2SeGocrN2ZIpL) | 2:40 | 2023-10-23 | 2025-04-02 |
 | [Mindful Swell](https://open.spotify.com/track/4IdY42vTEo4xF4cWMErT9W) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Mindful Swell](https://open.spotify.com/album/6zmEZNa4jxDxm0ZKLbEEAP) | 2:16 | 2024-06-03 | 2024-08-13 |
 | [Moonlight Dolphin](https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [Moonlight Dolphin](https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx) | 3:44 | 2025-04-01 |  |

@@ -4,7 +4,7 @@
 
 > New Music from Blaqbonez, Ayra Starr, MOLIY and more
 
-4,131 songs - 8 day 15 hr 49 min
+4,132 songs - 8 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Amin](https://open.spotify.com/track/13jjtnxXbKt8bGUxlygnWW) | [Shaamar](https://open.spotify.com/artist/318V5GuOCum8HUSIhcBmbu) | [Amin](https://open.spotify.com/album/6ruxAIvL8dAETBou9k1jX6) | 2:42 | 2025-01-31 | 2025-02-07 |
 | [Amin \(feat\. Superwozzy\)](https://open.spotify.com/track/5SHTqIsqOOtq4Cwaa7edOw) | [Mykels](https://open.spotify.com/artist/0Ljf8f8RHC4HLWhS0QrpCj), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Amin \(feat\. Superwozzy\)](https://open.spotify.com/album/5SfK2NmlsSIio7VwoOAW2Z) | 2:48 | 2025-08-22 | 2025-08-29 |
 | [Amina](https://open.spotify.com/track/2DT9aMfHYPoqzBULXirlAb) | [O.L.A](https://open.spotify.com/artist/1WMwHU1qpuzOd4IgAnKJpN) | [Amina](https://open.spotify.com/album/0BQmznr44DcYtG3fKhB5XL) | 2:22 | 2025-05-09 | 2025-05-16 |
-| [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:40 | 2025-10-17 |  |
+| [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:42 | 2025-10-17 |  |
 | [Analogue](https://open.spotify.com/track/6Jdx1D3wtYGA3BnyxRZxrT) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Analogue \(Ad\)](https://open.spotify.com/album/29ifpgQ9Agbo16RfQfMnCr) | 3:33 | 2025-08-22 | 2025-08-29 |
 | [Anam Achi Kwanu \(Refix\)](https://open.spotify.com/track/3joo6y0R9kahvWgj1CcwXY) | [Illbliss](https://open.spotify.com/artist/0aunKsCBtJ67KiUJ2gIwsq), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Anam Achi Kwanu \(Refix\)](https://open.spotify.com/album/5pQ6xW8rlByLipibCEPhxV) | 3:34 | 2024-12-13 | 2024-12-20 |
 | [Ancient City](https://open.spotify.com/track/6qSvzyBJrhjTIGsSH81qhm) | [Hammerboi](https://open.spotify.com/artist/1qJHmDatuuXhZAkgagUEig) | [Ancient City](https://open.spotify.com/album/6adR3J4qWwFFsTcheWlaje) | 2:17 | 2025-01-10 | 2025-01-18 |
@@ -855,6 +855,7 @@
 | [Derico](https://open.spotify.com/track/5DKRGfUKN2MMqiPNZLjlaV) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Derico](https://open.spotify.com/album/5E7i6bi5E3Xngx4tVczzdx) | 2:52 | 2025-01-17 | 2025-01-25 |
 | [Desire](https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Recess](https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6) | 2:36 | 2024-12-06 | 2024-12-13 |
 | [DESK JOB](https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [INFINITE HIGHS, END OF TIMES](https://open.spotify.com/album/1rPssyCdLdC9UwGVLB5f6j) | 2:23 | 2025-08-22 | 2025-08-29 |
+| [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 | 2025-10-17 |  |
 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 | 2025-03-07 | 2025-03-14 |
 | [Destiny](https://open.spotify.com/track/5dxrS25fHXIawHbuWpXne5) | [Vizco](https://open.spotify.com/artist/04B0hiXKP8Jm9Xx1s0LKeG) | [Destiny](https://open.spotify.com/album/0J0zW2BnuxilIZ7C7P9tgX) | 2:25 | 2025-05-09 | 2025-05-16 |
 | [Detty December](https://open.spotify.com/track/3Tfar5nbsQitZCIEssaDk1) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc) | [Detty December](https://open.spotify.com/album/2xBkHZmNJvcd20rpZrvJyj) | 2:05 | 2025-10-10 | 2025-10-17 |
@@ -1022,6 +1023,7 @@
 | [Elevated](https://open.spotify.com/track/2A7lA9DyFW8jwPnKtZlaXy) | [Keleya](https://open.spotify.com/artist/0NvD4hGdrRynGL2j8zjlOQ) | [Bloom](https://open.spotify.com/album/46vKd2eUawyvfV63MJ9pr4) | 2:58 | 2025-07-04 | 2025-07-12 |
 | [Eli Eli](https://open.spotify.com/track/3UDE2CU7G6Cjk0l00z4MY1) | [Zamorra](https://open.spotify.com/artist/7JTO3ONqILqKAMEIQ7db5s) | [Zamorra The Outcast](https://open.spotify.com/album/4HOlPe4C2nrmxHxF7vVwRg) | 2:38 | 2025-10-03 | 2025-10-10 |
 | [Elle Kiff](https://open.spotify.com/track/6dDZzcTOiKQyFugebf8rYD) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Elle Kiff](https://open.spotify.com/album/6nFqQc54SZbB9AA3Y5ey4m) | 2:15 | 2025-03-28 | 2025-04-04 |
+| [Embody](https://open.spotify.com/track/25Hpfo0rsaClCFsZNdiGrN) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ) | [Embody](https://open.spotify.com/album/5hxgKbNDHmb6jxu0P6jQgz) | 2:47 | 2025-10-17 |  |
 | [Emeka Dance](https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | ["Of Many Colors": Orange](https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x) | 2:39 | 2024-10-18 | 2024-10-25 |
 | [Emem](https://open.spotify.com/track/0dpHY6IOhk82FM1BBRby6m) | [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [Emem / Lagos Sundown](https://open.spotify.com/album/0eoHel2kgJA6BjDCH0okZL) | 2:57 | 2025-05-09 | 2025-05-16 |
 | [Emergency](https://open.spotify.com/track/5ab2hiVCC2fHQzc8nOa4JV) | [Toiner](https://open.spotify.com/artist/0qKplH0yrvOyQq0Vfs0iPT), [Bima](https://open.spotify.com/artist/3ezYivBdhfcqN44xLps8Kf) | [Emergency](https://open.spotify.com/album/3M2oZFtUNB8xEFVAUF0Lj9) | 3:03 | 2024-11-22 | 2024-11-29 |
@@ -1321,6 +1323,7 @@
 | [Gbegesi Not](https://open.spotify.com/track/4fWhJ16TgW15oi0tBxtJ5r) | [Damo K](https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO) | [Gbegesi Not](https://open.spotify.com/album/7dKXgMzntyunQEV3Mter3B) | 2:20 | 2024-11-08 | 2024-11-15 |
 | [Gbemi](https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH) | [King Rapsodi](https://open.spotify.com/artist/4Q9IxEYvljHW4JdiAx0mcU) | [The Rhapsodies](https://open.spotify.com/album/4Q4Ddw9rw7V1uopq0S7Yqq) | 2:14 | 2024-10-18 | 2024-10-25 |
 | [Gbemidebe](https://open.spotify.com/track/0gZAd26FQ91virfPygwrW7) | [Magikid](https://open.spotify.com/artist/74yeyQ4LbCUqQDxFDdXGsJ), [Lagbaja](https://open.spotify.com/artist/1h4BH9g94IalkSwzrMfDnu), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [Gbemidebe](https://open.spotify.com/album/2zmdKkrOyj2W3O6kHJneIW) | 2:15 | 2024-12-20 | 2025-01-10 |
+| [Gbenkule](https://open.spotify.com/track/4HWPPlmRIsquYwpD61fQ96) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [ADISA](https://open.spotify.com/album/7xzQAUxUFDCFfLK0B97SJ5) | 2:30 | 2025-10-17 |  |
 | [Gbo Kan Kan](https://open.spotify.com/track/1xSU2Z3QqVHS37W0LtnW8j) | [Yonda](https://open.spotify.com/artist/1sCxnr0nRf5TADGH5CX3lr), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Gbo Kan Kan](https://open.spotify.com/album/1ulTJUcATWpyWdnF2ADCJM) | 3:39 | 2024-07-19 | 2024-07-27 |
 | [Gbohe](https://open.spotify.com/track/5wOJraFk29ylfEwWl93A6b) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gbohe](https://open.spotify.com/album/4APlUxZtmyt8Gc3M0Zl4pe) | 2:59 | 2024-08-02 | 2024-08-09 |
 | [Gbomowa](https://open.spotify.com/track/5A8d4GqGlJU1KvbHy88PAS) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Blessed, I’m Not Lucky](https://open.spotify.com/album/21otz4qVuRpGS5mSAhh0al) | 2:18 | 2025-07-25 | 2025-08-02 |
@@ -3756,8 +3759,6 @@
 | [Trabaye](https://open.spotify.com/track/04QjfF1A0Wll9peiAfOqwW) | [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Trabaye](https://open.spotify.com/album/154gzMOk2bpEU5Xfsp5pU2) | 2:58 | 2024-06-14 | 2024-06-21 |
 | [Trabaye](https://open.spotify.com/track/2Eaon6wY7ANSHHHKDKb1XS) | [Oluwa Delight](https://open.spotify.com/artist/3ntMpONppQe1Hrk4f6bKqe), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Trabaye](https://open.spotify.com/album/0SpurC2QQk2clHuxMAjkg0) | 3:27 | 2025-07-04 | 2025-07-12 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-14 | 2024-06-21 |
-| [Track 5](https://open.spotify.com/track/4HWPPlmRIsquYwpD61fQ96) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-17 |  |
-| [Track 6](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-17 |  |
 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 | 2025-01-10 | 2025-01-11 |
 | [Treasure](https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Treasure](https://open.spotify.com/album/5hnOuxYNLaVGQaXma3X6i2) | 3:37 | 2025-10-17 |  |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-11 | 2025-04-18 |

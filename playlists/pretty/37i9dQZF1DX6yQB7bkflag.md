@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Naykilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,963 likes - 154 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,001 likes - 154 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Raga](https://open.spotify.com/track/0P3YLLto0LmRo7z6o0Cyz9) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [centyl](https://open.spotify.com/album/0Pr2kArP3CrD7P32rZ9JMF) | 2:36 |
 | 2 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
 | 3 | [Elu\-elukan](https://open.spotify.com/track/7LQ9yw8sSdjmckKCK4CHSo) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Elu\-elukan](https://open.spotify.com/album/4TOeWC89ZQcQDLfUvqKaVm) | 4:03 |
 | 4 | [Red Flag](https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Cerita Kita](https://open.spotify.com/album/1t5QgJytF9KWu4VVFgw23d) | 2:46 |
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 10 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 | 11 | [Boyband](https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Boyband](https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl) | 2:57 |
 | 12 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
-| 13 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [](https://open.spotify.com/album/null) | 4:58 |
+| 13 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 14 | [Bayangan Cinta Yang Lalu](https://open.spotify.com/track/7k5KS786ibuDQIU4YKRnQ7) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Bayangan Cinta Yang Lalu](https://open.spotify.com/album/3LAMMg0LKfDuIePDLgnTBH) | 3:44 |
 | 15 | [Cinta Seperti Aku](https://open.spotify.com/track/2OXQiECV3f0i6lM8uxWowG) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Edelweiss](https://open.spotify.com/album/1Uv9PoMo7VYvyLKVmmFG4u) | 4:08 |
 | 16 | [Don't Stop](https://open.spotify.com/track/6WkBMtZ1RAYr8yht4Y8uic) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Forever In The Air](https://open.spotify.com/album/07rCINMa9qmft2nk9beVSZ) | 3:03 |
 | 17 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 |
-| 18 | [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [](https://open.spotify.com/album/null) | 3:20 |
+| 18 | [Pelangi Selusin Warna](https://open.spotify.com/track/7t9qtf0eKizHPrI8HpyRuZ) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [4 Mata, 5 Cerita](https://open.spotify.com/album/1J7zcBTV2ygWGt0Isut2RQ) | 3:20 |
 | 19 | [Sinaran](https://open.spotify.com/track/746zt4dF5QLp8kxI1yK6G5) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [MK K\-Clique](https://open.spotify.com/artist/71RG91mSEdCtLwPATIlPvQ) | [Asmara Dansa](https://open.spotify.com/album/78Jt2I1kfZ5FHRAm0cRqIg) | 4:22 |
 | 20 | [Ada Untukmu](https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Ada Untukmu](https://open.spotify.com/album/58BtkWNrfBXX8ishPFE3d9) | 4:17 |
 | 21 | [Sacrifice](https://open.spotify.com/track/3UEwPrMwvnqXs2nv4yDwTm) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Sacrifice](https://open.spotify.com/album/3U6YzAtW7RSciUyfUw9xxo) | 4:09 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 28 | [SAFE SPACE](https://open.spotify.com/track/2kxav1ncfuZFh1atFxvc4W) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [SAFE SPACE](https://open.spotify.com/album/32CyZFGgCRWcmBAbjQYt0H) | 3:23 |
 | 29 | [Di Batas Malam](https://open.spotify.com/track/57wJkQVl4krsMHaowArNgc) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Di Batas Malam \(Ost\. Shutter\)](https://open.spotify.com/album/4yhotRBCWHH4Fk13EfJ5SE) | 4:25 |
 | 30 | [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 |
-| 31 | [Not What’s Going On](https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [](https://open.spotify.com/album/null) | 2:54 |
+| 31 | [Not What’s Going On](https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb) | 2:54 |
 | 32 | [So Good](https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Can We Talk?](https://open.spotify.com/album/4XUPb1rntAZTacotCGf4lR) | 2:27 |
 | 33 | [Awal Terbaik](https://open.spotify.com/track/0ACCzlEHrhDadURKUxy5Di) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [Awal Terbaik](https://open.spotify.com/album/21eLF9yp18ozAeVtIVANWF) | 4:26 |
 | 34 | [Hidup Baru](https://open.spotify.com/track/3qTeUn2za3w6m9d77WI5W0) | [yowha](https://open.spotify.com/artist/6fNC8J5n7BnYgmRXWQdb3m) | [Hidup Baru](https://open.spotify.com/album/6gaNIRX2VpAHF4lXBeNytw) | 4:00 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 38 | [Best](https://open.spotify.com/track/2M7OFg3jM19RdwxklwGTJX) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [Best](https://open.spotify.com/album/2c3ThUXQqr0g60q53w7Vod) | 3:43 |
 | 39 | [So Valentina](https://open.spotify.com/track/4iSrwEafJenKr7hbunxNas) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [So Valentina](https://open.spotify.com/album/4MpNBUEIRyW0jlsBGPgEDE) | 2:38 |
 | 40 | [Blessing In Disguise](https://open.spotify.com/track/4nxVjVTJ5bXYRrYprebfpu) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Blessing In Disguise](https://open.spotify.com/album/6gCCMU08HProILDq9vUAwU) | 2:33 |
-| 41 | [Track 8](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [](https://open.spotify.com/album/null) | 0:00 |
+| 41 | [Broken Promise](https://open.spotify.com/track/1ebHt77Ds3tNhKXHmE0RBn) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [The Art of Surrender](https://open.spotify.com/album/545qq83mkV2GTkPc0yZ1XL) | 3:14 |
 | 42 | [Lepas Kendali](https://open.spotify.com/track/4Mv3Eoz39mbrZCNrI2Ayl6) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Lepas Kendali](https://open.spotify.com/album/7rsgrqg8cLkBsAMjLpL39j) | 2:52 |
 | 43 | [Lebih Lama Lagi](https://open.spotify.com/track/0tcZ3G3lxkR0zT1ikP4R0b) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [Lebih Lama Lagi](https://open.spotify.com/album/2DxIv3OBW7NXqUPCkNVlYQ) | 3:49 |
 | 44 | [Forevermore](https://open.spotify.com/track/3MiTqCP3PMxkSlbYGe9kmC) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Forevermore](https://open.spotify.com/album/7MptRwuxpHHuUJtYFKzHuc) | 3:11 |

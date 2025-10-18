@@ -2,9 +2,9 @@
 
 ### [Louvores Pentecostais](https://open.spotify.com/playlist/37i9dQZF1DWTvrPFPIwgwG)
 
-> Ouça as novidades e grandes louvores Pentecostais\. Foto: Léa Mendonça, Nathália Braga
+> Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
 
-267 songs - 23 hr 9 min
+268 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [João Viu / Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [João Viu / Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/0WWDnfbwnzNrct6Vy5aBog) | 4:39 | 2025-06-06 |  |
 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-03-03 | 2025-03-08 |
 | [Logo Eu](https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Logo Eu](https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj) | 4:49 | 2023-01-13 | 2023-03-04 |
+| [Lágrimas de Vitória \- Ao Vivo em Salvador](https://open.spotify.com/track/2pE1QPviMa6n9HAXx8tdDD) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Lágrimas de Vitória \(Ao Vivo em Salvador\)](https://open.spotify.com/album/7ctzCk9m7a8DacJLtSmykY) | 4:35 | 2025-10-17 |  |
 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 | 2022-09-09 | 2023-03-18 |
 | [Majestoso \(Ao Vivo\)](https://open.spotify.com/track/5ZCpz2wtswpyKMoFblb91y) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Majestoso \(Ao Vivo\)](https://open.spotify.com/album/48XqZGHMs2p9iBYiNevkWL) | 5:35 | 2025-04-05 |  |
 | [Marcados pela Glória](https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Marcados pela Glória](https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh) | 5:01 | 2023-02-25 | 2023-07-22 |
@@ -239,7 +240,7 @@
 | [Só Faz Ajudar](https://open.spotify.com/track/3c3DAV2Q8jWj24cLUqUMYI) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Só Faz Ajudar](https://open.spotify.com/album/6sYO4VBVtTS40LaEvZ5sAv) | 4:27 | 2022-09-09 | 2023-05-06 |
 | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/track/5FrDgqU4hBwuP16NBXZMp8) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Te Adorar é Só o Começo \(Ao Vivo\)](https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG) | 5:42 | 2024-04-26 |  |
 | [Tempo de Espera](https://open.spotify.com/track/4b1yw2UOQbhntnMecTEvE7) | [Ketelyn Amanda](https://open.spotify.com/artist/7wkgdj3BHmQcXcBSxbt4cl), [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Tempo de Espera](https://open.spotify.com/album/6SNWfXt4SufIHMsaiiLbw6) | 4:23 | 2022-09-09 |  |
-| [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 | 2022-09-09 |  |
+| [Tenha Paciência](https://open.spotify.com/track/0KeALyJoGCqwFR78aguHix) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Tenha Paciência](https://open.spotify.com/album/7cRSXJv5T9rvK5VoMXjmsa) | 4:46 | 2022-09-09 | 2025-10-18 |
 | [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 | 2023-03-17 | 2024-09-21 |
 | [Tranquiliza \- Ao Vivo](https://open.spotify.com/track/4lgJJ5sgzGdDzX9ZkKSwVl) | [Neide Martins](https://open.spotify.com/artist/18qBREWpIZMKWohtvnOMKq) | [Tranquiliza \(Ao Vivo\)](https://open.spotify.com/album/7acKfdg1t94LPz4wYwxJzJ) | 7:09 | 2023-08-18 | 2025-04-15 |
 | [Treinar Você](https://open.spotify.com/track/2rJMAfn7eB3GQTr276zBiO) | [Kemily Maciel](https://open.spotify.com/artist/12sY570nlrZo3u5dnd2cuP), [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Treinar Você](https://open.spotify.com/album/6nvoq8EFg817BBinpcg8Wc) | 5:01 | 2022-09-30 | 2022-10-15 |

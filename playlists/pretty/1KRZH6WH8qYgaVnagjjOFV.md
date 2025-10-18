@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 357,908 likes - 122 songs - 8 hr 0 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 358,138 likes - 122 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 |
+| 1 | [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 |
 | 2 | [Left It In The River](https://open.spotify.com/track/12UlWZFRx4feuHwmy5CN2a) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Left It In The River](https://open.spotify.com/album/4sFdV25QCnfJSAHvfd4SYC) | 2:58 |
 | 3 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 |
 | 4 | [God Story](https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Story](https://open.spotify.com/album/58oNXHgb7gR5PEO3CYvUVd) | 3:07 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 9 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 |
 | 10 | [All This In A Name](https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe) | 4:26 |
 | 11 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 |
-| 12 | [Carry Me](https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Carry Me](https://open.spotify.com/album/0JKuT0K56zJYmCnXrI13sy) | 3:13 |
+| 12 | [Hold Your Horses](https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:10 |
 | 13 | [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 |
 | 14 | [Church Clothes](https://open.spotify.com/track/2GyzxYTYOcOn2gABrdIUmU) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Church Clothes](https://open.spotify.com/album/15lWZw31EqIp9YKOqu24Fp) | 3:04 |
 | 15 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [The Lord Will Provide \(Live From Passion 2024\)](https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ) | 5:36 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 30 | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/track/6zVrfIqS5aymzVww9f8DR0) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Arie Camp](https://open.spotify.com/artist/38LL4aTJrwk1PwZNx5Ipcx), [Bella Camp](https://open.spotify.com/artist/2ehPZFpqtj6ObUkkbJ5wtD) | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/album/6biPeOhkhcgDYVOf1jhyM4) | 3:39 |
 | 31 | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW) | 3:44 |
 | 32 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 |
-| 33 | [Lift Me Up](https://open.spotify.com/track/6QBESGYjXGRl8Kml65tWNQ) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 3:21 |
-| 34 | [Stars](https://open.spotify.com/track/1QKtl5FOh7JgKM5HEt1EaG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/75RnYnEkzvvOmksDhEivMq) | 2:54 |
+| 33 | [Carry Me](https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Carry Me](https://open.spotify.com/album/0JKuT0K56zJYmCnXrI13sy) | 3:13 |
+| 34 | [Lift Me Up](https://open.spotify.com/track/6QBESGYjXGRl8Kml65tWNQ) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 3:21 |
 | 35 | [DEEP](https://open.spotify.com/track/0THcqMeQa1NSviF64C5NG5) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [THROWING PAINT](https://open.spotify.com/album/4LIjsirtkdowvJezJBwCOy) | 3:51 |
 | 36 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
 | 37 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 121 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
 | 122 | [I Surrender All](https://open.spotify.com/track/278oT0aaxxijjC6N37EOYH) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [I Surrender All](https://open.spotify.com/album/1qeZcSNuLbBjW3shvZ5scs) | 2:18 |
 
-Snapshot ID: `AAAlmJQtE+vsO8l3amldDE3Gc1Knmdk9`
+Snapshot ID: `AAAlnU1XDiY7UgSDQgjEvi3K8rbOfo2z`

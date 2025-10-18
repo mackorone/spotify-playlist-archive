@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R.I.P\. cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,993 likes - 89 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,003 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 30 | [Close my eyes \(feat\. さらさ\)](https://open.spotify.com/track/1J1OxxnwWDznjVujXx92VR) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 3:39 |
 | 31 | [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 |
 | 32 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 33 | [FEEL LOVE](https://open.spotify.com/track/4Gd8nOekd62DmCJdowwta5) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [](https://open.spotify.com/album/null) | 2:49 |
+| 33 | [FEEL LOVE](https://open.spotify.com/track/4Gd8nOekd62DmCJdowwta5) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY!](https://open.spotify.com/album/08YX6S7IDTCyXjFd5PthPn) | 2:49 |
 | 34 | [Made 4 Two \(feat\. Charli Taft, SIRUP\)](https://open.spotify.com/track/5RlWyohsph62rIAPBbgLGV) | [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [Made 4 Two \(feat\. Charli Taft, SIRUP\)](https://open.spotify.com/album/6Xdk6YsOTrb8iTWDCexKYh) | 2:30 |
 | 35 | [1, 2, Play](https://open.spotify.com/track/3eo7iY4K5jsKjPZkHhgiwd) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [1, 2, Play / Left & Right](https://open.spotify.com/album/1VhfknXFuQCoAqZZu6Mvtq) | 2:55 |
 | 36 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 |

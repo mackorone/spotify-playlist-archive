@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: SHERRY
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Moving and Cut
 
-141 songs - 9 hr 49 min
+142 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [do you?](https://open.spotify.com/track/21bRopAfENk7IQKRGvz8Ce) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [do you?](https://open.spotify.com/album/5gybSiiYBGY1eJgcadloaR) | 3:54 | 2024-06-27 | 2024-09-28 |
 | [Gaslighting](https://open.spotify.com/track/5a1XP82wLiIUleq52ODrex) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Gaslighting](https://open.spotify.com/album/6Zhy9NBqu2PHIDFH1iBnzA) | 4:47 | 2025-02-28 | 2025-07-05 |
 | [Grow Up](https://open.spotify.com/track/0SrCn0wCmOxHQ77bxPFCMK) | [T\_047](https://open.spotify.com/artist/5qO3EBbmjdcKnUbqd8JBIJ) | [Grow Up](https://open.spotify.com/album/6V6sQHdGbUYNjLcl1BVvz2) | 5:35 | 2025-03-28 | 2025-07-19 |
-| [HIPPO](https://open.spotify.com/track/4N0iol0u4GdX1SIRG4xqTx) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Ichika Nito](https://open.spotify.com/artist/1XUPVN7adYSZ0PLy51mPBQ) | [HIPPO](https://open.spotify.com/album/2B7L476RCUX8lY9P31Ju7J) | 2:56 | 2025-10-10 |  |
+| [HIPPO](https://open.spotify.com/track/4N0iol0u4GdX1SIRG4xqTx) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [Ichika Nito](https://open.spotify.com/artist/1XUPVN7adYSZ0PLy51mPBQ) | [HIPPO](https://open.spotify.com/album/2B7L476RCUX8lY9P31Ju7J) | 2:56 | 2025-10-10 | 2025-10-18 |
 | [just](https://open.spotify.com/track/1hvAXb7PBcpxNVyDcN0cxw) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [just](https://open.spotify.com/album/66FVtttMYzTO6OSc5AVqI6) | 4:31 | 2024-06-27 | 2025-10-11 |
 | [La La La](https://open.spotify.com/track/0pJmvjvcdE8jD21juh5rjm) | [Funky Wah Wah](https://open.spotify.com/artist/4tfffNgXDx3XSZkcn4APIj), [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [La La La](https://open.spotify.com/album/6CWlXDZuXueZpDdg4CQYrM) | 3:45 | 2024-10-25 | 2025-03-01 |
 | [Manila](https://open.spotify.com/track/7IOQobXnONFEYsvbngKiho) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [T R E E](https://open.spotify.com/album/17DQWeQS7HlLcufeV1vAMY) | 4:09 | 2024-06-27 | 2025-03-22 |
@@ -27,6 +27,7 @@
 | [please](https://open.spotify.com/track/5uh8m6ftdzlDdkUgqjTq6E) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [please](https://open.spotify.com/album/7zwYehnbEk2vJQclnXOr4p) | 5:46 | 2025-10-03 |  |
 | [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2024-06-27 | 2024-08-31 |
 | [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 | 2025-03-14 |  |
+| [Trip](https://open.spotify.com/track/7k0zv87tT5Q9pEfDErNcm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Trip](https://open.spotify.com/album/1JLTRV3W2SedWzmtUMjDn6) | 3:39 | 2025-10-17 |  |
 | [Turning Back](https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Turning Back](https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH) | 4:38 | 2025-08-08 | 2025-09-20 |
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-11 |  |
 | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/track/6uYSkSc8dQInSNCLTZibeC) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/album/1ggZWaDDCyOt3pkPJ9vhUY) | 5:09 | 2025-03-21 | 2025-05-02 |

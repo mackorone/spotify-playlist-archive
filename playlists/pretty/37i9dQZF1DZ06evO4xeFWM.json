@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 219323,
+  "num_followers": 219352,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAABZ4WIrLtX1biUI7CiXypHa",
+  "snapshot_id": "aPA1gAAAAAAXjtpf5+WnyqF07v7bB34A",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
+        "name": "Pompeii (Audien Remix)",
+        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
       },
       "artists": [
         {
-          "name": "FRENSHIP",
-          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
-        },
-        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         }
       ],
-      "duration_ms": 234410,
-      "name": "Won't Let You Go",
-      "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
+      "duration_ms": 352968,
+      "name": "Pompeii - Audien Remix",
+      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
     },
     {
       "added_at": null,
@@ -771,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pompeii (Audien Remix)",
-        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
         },
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 352968,
-      "name": "Pompeii - Audien Remix",
-      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
+      "duration_ms": 234410,
+      "name": "Won't Let You Go",
+      "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
     },
     {
       "added_at": null,

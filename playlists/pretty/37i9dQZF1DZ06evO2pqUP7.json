@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69522,
+  "num_followers": 69520,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACFkYAusB8eBaWbKjyvE6Od",
+  "snapshot_id": "aPA1gAAAAAA5HHKT2cPRj/OErGqwv0qo",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "OMW (REMIX)",
+        "url": "https://open.spotify.com/album/1SKNhaSlDjP48DV9n7zmnW"
+      },
+      "artists": [
+        {
+          "name": "BASSYY",
+          "url": "https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b"
+        },
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "OMW - Remix",
+      "url": "https://open.spotify.com/track/1idR5YBsDGrAGrv4AXqgpz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Favor (with Nicky Jam & Sech, feat. Farruko, Zion & Lunay)",
         "url": "https://open.spotify.com/album/28561uZztshyZSVG6ElL62"
       },
@@ -415,42 +451,6 @@
       "duration_ms": 139350,
       "name": "Nuevo",
       "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OMW (REMIX)",
-        "url": "https://open.spotify.com/album/1SKNhaSlDjP48DV9n7zmnW"
-      },
-      "artists": [
-        {
-          "name": "BASSYY",
-          "url": "https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b"
-        },
-        {
-          "name": "TORRRES",
-          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "OMW - Remix",
-      "url": "https://open.spotify.com/track/1idR5YBsDGrAGrv4AXqgpz"
     },
     {
       "added_at": null,
@@ -1067,22 +1067,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ropa",
-        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 155390,
-      "name": "Sin Ropa",
-      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gym",
         "url": "https://open.spotify.com/album/5ctwyXD42GpDu6D2gktAz5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 138260,
       "name": "Gym",
       "url": "https://open.spotify.com/track/7kVBOWAEm4YG9I0GRxbxxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Ropa",
+        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 155390,
+      "name": "Sin Ropa",
+      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
     },
     {
       "added_at": null,

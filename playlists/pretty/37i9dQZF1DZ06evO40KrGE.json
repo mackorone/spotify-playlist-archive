@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37311,
+  "num_followers": 37313,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACHjRKbEq/KoTcZ8+71zpg7",
+  "snapshot_id": "aPA1gAAAAAAlqT1rjlcDTeIYsxJp3yCE",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289459,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 275853,
       "name": "Identidade",
       "url": "https://open.spotify.com/track/5o1ZQzLi22laZKrJ2ExlPH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289459,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
+      "duration_ms": 305992,
+      "name": "Muita Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 305992,
-      "name": "Muita Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 325218,
-      "name": "Tremendo e Santo",
-      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
+      "duration_ms": 266518,
+      "name": "N\u00e3o Reclame",
+      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 266518,
-      "name": "N\u00e3o Reclame",
-      "url": "https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd"
+      "duration_ms": 325218,
+      "name": "Tremendo e Santo",
+      "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Ele Tem Poder",
-      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harpa Vol.1",
         "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 247942,
       "name": "A Alma Abatida",
       "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Ele Tem Poder",
+      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
     },
     {
       "added_at": null,

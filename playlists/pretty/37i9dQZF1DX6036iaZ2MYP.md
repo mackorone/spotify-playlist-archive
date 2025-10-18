@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,782 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,112 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 6 | [barry wonder](https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [10.93](https://open.spotify.com/artist/53BnYElQOxKgzc1VkSdDWc) | [barry wonder](https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt) | 2:42 |
 | 7 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
 | 8 | [Ta femme t'a pas dit](https://open.spotify.com/track/3qgqAmhXR6ETPmsIQ3cmSh) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Ta femme t'a pas dit](https://open.spotify.com/album/1u50hBEowKYUZRkSa4BiDE) | 2:44 |
-| 9 | [Track 6](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 |
 | 10 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 |
 | 11 | [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 |
 | 12 | [Pardon](https://open.spotify.com/track/4GHlt0rLK8dOC13iVAk1kO) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:53 |

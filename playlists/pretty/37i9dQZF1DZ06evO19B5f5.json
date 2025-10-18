@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACjN/ZbC/73ROmLeD9+JWj+",
+  "snapshot_id": "aPA1gAAAAADvuaBEQeehErlm26VPcVzY",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Latest Ghost",
-      "url": "https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liars",
         "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 226000,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/2LkJSSCynjnin2q21IC844"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Latest Ghost",
+      "url": "https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 217131,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empathy (MUNA Remix)",
         "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 188369,
       "name": "Empathy - MUNA Remix",
       "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 217131,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Remixes)",
-        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 242552,
-      "name": "Echoes - Edeema Remix",
-      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
+      "duration_ms": 234173,
+      "name": "Lovers Or Liars",
+      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+        "name": "Echoes (Remixes)",
+        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 234173,
-      "name": "Lovers Or Liars",
-      "url": "https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4"
+      "duration_ms": 242552,
+      "name": "Echoes - Edeema Remix",
+      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hanging By Your Halo",
-        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
+        "name": "Liars",
+        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 195697,
-      "name": "Hanging By Your Halo",
-      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
+      "duration_ms": 221000,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liars",
-        "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
+        "name": "Hanging By Your Halo",
+        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
+      "duration_ms": 195697,
+      "name": "Hanging By Your Halo",
+      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
     },
     {
       "added_at": null,

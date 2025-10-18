@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-178 songs - 9 hr 2 min
+179 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 | 2024-01-29 |  |
 | [Diamanten](https://open.spotify.com/track/1xujyYqyEUc8VyCFXgqkHH) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:27 | 2024-01-29 |  |
 | [Do Not Disturb](https://open.spotify.com/track/4UCTlHt2pZxZ2l500bOQKn) | [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Do Not Disturb](https://open.spotify.com/album/6pP96QZ9sIST5vC8OoijqV) | 2:47 | 2024-01-29 |  |
+| [Dolce Amore \(feat\. Anica Russo\)](https://open.spotify.com/track/068ZOneuzJlDB3mpD9Rlfc) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Dolce Amore](https://open.spotify.com/album/1A6j5r4IOo0HsqG1yvhsgO) | 2:45 | 2025-10-17 |  |
 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 | 2024-01-29 |  |
 | [Dragonflies](https://open.spotify.com/track/3avJVZ3PVXX54rfCiZnLdX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:18 | 2024-01-29 |  |
 | [Drei Uhr Nachts](https://open.spotify.com/track/4lWV6MBFNz9B9ZgNuC4bPC) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Drei Uhr Nachts \(Official Video\)](https://open.spotify.com/album/1mPqRAFIZ5fj7NlZxaPADh) | 2:40 | 2024-01-30 | 2024-02-01 |

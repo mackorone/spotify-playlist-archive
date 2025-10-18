@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring MICO and Haiden Henderson
+> a little indie, a little pop, soda featuring Carter Vail
 
-1,472 songs - 3 day 1 hr 23 min
+1,475 songs - 3 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [3D Feelings](https://open.spotify.com/track/1OkW0tv1k3kNB0IXDN2oPL) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [3D Feelings](https://open.spotify.com/album/0ZY2Lg0utycFyUQSDlK3MZ) | 3:17 | 2021-11-05 | 2022-02-26 |
 | [4321](https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [4321](https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo) | 3:52 | 2023-11-17 | 2024-01-05 |
 | [45 Degrees](https://open.spotify.com/track/1UGDTESOgdxI0mMC58c0Lk) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [45 Degrees](https://open.spotify.com/album/6taRejX26UcIVgkBjxKzry) | 3:12 | 2024-05-03 | 2024-06-29 |
+| [6 Feet Under](https://open.spotify.com/track/41n5NNDfMFv9nhSutXMXPX) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Coydog](https://open.spotify.com/album/07XhF0Jlpkb0jCey7j9Tsn) | 3:30 | 2025-10-17 |  |
 | [6AM](https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [6AM](https://open.spotify.com/album/0rRFHYaPCKGwQ7pWB3H2JG) | 3:10 | 2021-10-29 | 2022-02-05 |
 | [6am in amsterdam.](https://open.spotify.com/track/4SRmLLMhqGvYc4QuvVhFsO) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [as the world is passing by.](https://open.spotify.com/album/4D98wniyXPAR0xBjmJvpge) | 3:27 | 2022-12-02 | 2023-01-21 |
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2023-11-10 | 2024-02-17 |
@@ -1138,6 +1139,7 @@
 | [So Far So Good](https://open.spotify.com/track/2I4u1DU7rCijbtR2F3dgx6) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Great Good Five Ok](https://open.spotify.com/album/7wSrwRAZqvDKESkUFwqdFG) | 2:51 | 2023-07-28 | 2023-09-16 |
 | [SO FREE](https://open.spotify.com/track/3jGPttVUyxGY82OZyQ8h8E) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FRIEND OR FOUX](https://open.spotify.com/album/68nTbsASUsYWvgmVlmskPD) | 2:44 | 2022-05-27 | 2022-06-04 |
 | [So Glad](https://open.spotify.com/track/5lYA5q2q2ZV2DClDrgWRWO) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [So Glad](https://open.spotify.com/album/2Hnmm7ixt4fHP1sG6EH96l) | 2:23 | 2023-07-28 | 2023-09-16 |
+| [So Good](https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Can We Talk?](https://open.spotify.com/album/4XUPb1rntAZTacotCGf4lR) | 2:27 | 2025-10-17 |  |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-07-29 | 2022-09-17 |
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2022-11-11 | 2023-02-25 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-14 | 2022-04-09 |
@@ -1241,6 +1243,7 @@
 | [Swinging at the Stars](https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Just Because](https://open.spotify.com/album/2ArWkmluhZLOmbwCfyKurF) | 3:43 | 2023-10-06 | 2024-01-05 |
 | [Symphony Of Lights](https://open.spotify.com/track/65uoNTX681VJpRyuVSWSdd) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 4:19 | 2022-01-28 | 2022-02-26 |
 | [SYNCOPATE](https://open.spotify.com/track/6s3UHVDqqqNHa1HyynG4VI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SYNCOPATE](https://open.spotify.com/album/4jbLhacGYxjKk9wS37eJTL) | 1:58 | 2021-10-29 | 2022-01-08 |
+| [Take It Easy](https://open.spotify.com/track/1Y9ewybegCoWaDE1wDcsxX) | [Adrian Lyles](https://open.spotify.com/artist/3R5yFx0z6UkzAiNHCeBqUY) | [Horizons: Night](https://open.spotify.com/album/1yHRhrhRL63coaqR3zGYRi) | 2:44 | 2025-10-17 |  |
 | [TAKE MY LOVE](https://open.spotify.com/track/2ZptJWfM4DUOy8GJSsRvcs) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [TAKE MY LOVE](https://open.spotify.com/album/5w18Z092pcRXUgw0BOlLSN) | 3:00 | 2025-07-25 |  |
 | [Take My Phone Away](https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Take My Phone Away](https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1) | 2:26 | 2024-09-20 | 2025-01-25 |
 | [take the hit](https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything and nothing](https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO) | 2:20 | 2024-05-10 | 2024-07-19 |

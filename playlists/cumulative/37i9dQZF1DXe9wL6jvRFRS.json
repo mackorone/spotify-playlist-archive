@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/2G8zUO3024L3bHV9HsGmZh"
+      },
+      "artists": [
+        {
+          "name": "SUEP",
+          "url": "https://open.spotify.com/artist/3LzcSs2NRqSLncY5QHnKMY"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134667,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/799t9KYKhwmUAhJwQdsCYC"
+    },
+    {
+      "album": {
         "name": "this is my california",
         "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
       },

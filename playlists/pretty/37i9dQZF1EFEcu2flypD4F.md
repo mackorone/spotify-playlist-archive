@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,354 likes - 339 songs - 21 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,355 likes - 339 songs - 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,8 +268,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 258 | [Like Water \(Originals\)](https://open.spotify.com/track/5lVwpU4qZ6XpGee6Zc4Ohd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:57 |
 | 259 | [Broken Biscuit](https://open.spotify.com/track/3IWBbQlGtsZgCO16AffdKE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 4:55 |
 | 260 | [The Going Price For Home](https://open.spotify.com/track/55whs00ggfEZHTF7ni3Aak) | [The Prize Fighter Inferno](https://open.spotify.com/artist/7gxpZdWXJWyfAaRU6igwKU) | [My Brother's Blood Machine](https://open.spotify.com/album/2GE64GHiFoz42adL9fPWlP) | 4:04 |
-| 261 | [Throw Down the Roses](https://open.spotify.com/track/6cBBqi10U9Nxrab5aFtGxJ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:28 |
-| 262 | [Mister Sister](https://open.spotify.com/track/2j1j7ErJJDpUPiLcL4xv9c) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Sexual Harassment](https://open.spotify.com/album/4fsdLpd40uZXSlOkcAvQqQ) | 3:49 |
+| 261 | [Mister Sister](https://open.spotify.com/track/2j1j7ErJJDpUPiLcL4xv9c) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Sexual Harassment](https://open.spotify.com/album/4fsdLpd40uZXSlOkcAvQqQ) | 3:49 |
+| 262 | [Throw Down the Roses](https://open.spotify.com/track/6cBBqi10U9Nxrab5aFtGxJ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:28 |
 | 263 | [Sober and Unkissed](https://open.spotify.com/track/6ll48HRbmGzB5zFK6LwBnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:01 |
 | 264 | [These Hands I Hold \- Sean Tyas Remix](https://open.spotify.com/track/0Q4ba5y1sGtGsCHwoFTmEk) | [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK), [Sean Tyas](https://open.spotify.com/artist/4zqERoiO42cNiA3pPDWnvN) | [These Hands I Hold](https://open.spotify.com/album/2f0h1hYZM448Klq2JkbYrn) | 4:02 |
 | 265 | [I Am Sound](https://open.spotify.com/track/3EVkoL8q7HJTSTXrBuXeGe) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:59 |
@@ -328,8 +328,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 318 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
 | 319 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
 | 320 | [Sweet One \(feat\. Sia\)](https://open.spotify.com/track/4fYW8D26oT3GjmaBYK3Pm9) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr), [The Captains](https://open.spotify.com/artist/37JtJzCZlbzsJqpkRSoXiG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Emperor's Box](https://open.spotify.com/album/6MuRAdOhzqvhItkS8lUPST) | 4:07 |
-| 321 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
-| 322 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 321 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 322 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
 | 323 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
 | 324 | [Pulls You Under](https://open.spotify.com/track/6HSfAaihnNvfIzqHsSfd2I) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:24 |
 | 325 | [Jungle](https://open.spotify.com/track/6c7I2E1KYkOqeHOi5SMJ77) | [Twonot](https://open.spotify.com/artist/1iNEd69hq7KnjEEgW8bz26) | [4 DJ: UnDiscovered Weekly \#66](https://open.spotify.com/album/4SF2wQiemO3IBBefwyxaEX) | 5:52 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 338 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 339 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab/DCAAAAAC68trJcsejiCc3VTlsMG2L`
+Snapshot ID: `Ab/IlAAAAAC6IIPDDBNgNXyslfoO0WX4`

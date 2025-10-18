@@ -2439,6 +2439,28 @@
     },
     {
       "album": {
+        "name": "CU\u00c1L NOSOTROS",
+        "url": "https://open.spotify.com/album/2BwYpORlB5jVQguE6VMomC"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164280,
+      "name": "CU\u00c1L NOSOTROS",
+      "url": "https://open.spotify.com/track/74jGIxaHC0z3AAvItuHmU2"
+    },
+    {
+      "album": {
         "name": "Cu\u00e9ntame (Versi\u00f3n Reggaet\u00f3n)",
         "url": "https://open.spotify.com/album/36hDcCLfngt8Fcxfnytv6n"
       },
@@ -2614,7 +2636,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 245303,
       "name": "DANCEHALL PARTY",
       "url": "https://open.spotify.com/track/1iL9Q3iGtQYIwi0krYOqmV"
@@ -8332,7 +8354,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-26",
+      "date_removed": null,
       "duration_ms": 240964,
       "name": "ori\u00f3N",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -8906,6 +8928,24 @@
       "duration_ms": 142173,
       "name": "PERROS",
       "url": "https://open.spotify.com/track/4gYOh6eOY5wyBBtKjrUUWr"
+    },
+    {
+      "album": {
+        "name": "PERVERSA",
+        "url": "https://open.spotify.com/album/0NdHzoH8jj7AOvCV2WLKYf"
+      },
+      "artists": [
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208144,
+      "name": "PERVERSA",
+      "url": "https://open.spotify.com/track/2xELX5IHUJjq4SCtudtWmQ"
     },
     {
       "album": {
@@ -10116,7 +10156,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 158661,
       "name": "RUMORES DE GUERRA",
       "url": "https://open.spotify.com/track/1ckJ9dHXwkARIrqungbqBZ"
@@ -13252,7 +13292,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 195658,
       "name": "Yo vs Yo",
       "url": "https://open.spotify.com/track/0KjdB6POFj6X3t2Qb4pWZT"

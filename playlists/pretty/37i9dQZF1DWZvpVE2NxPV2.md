@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,094 likes - 167 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,119 likes - 167 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 166 | [Norrsken](https://open.spotify.com/track/7CKEwdroqVwANCOaxNxMJJ) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Norrsken](https://open.spotify.com/album/17heXTSEn53tdHjV9zucu1) | 2:26 |
 | 167 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 |
 
-Snapshot ID: `AAAAABrdi/NsImUYX82K3TY5R1aLHJ1M`
+Snapshot ID: `AAAAADWEF0R5Emzu/qtWVH0qqjowACZJ`

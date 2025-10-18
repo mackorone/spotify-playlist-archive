@@ -4,12 +4,12 @@
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-19 songs - 7 hr 19 min
+19 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Best Of: Ariana Grande](https://open.spotify.com/episode/56X4Ilxun39RQ5EwfLKGZS) | [Zach Sang Show](https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL) | [Zach Sang Show](https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL) | 25:23 | 2020-12-03 |  |
-| [Can't Help Falling in Lauv \(the interview\)](https://open.spotify.com/episode/7knx5NKZHw29x0DumCviNI) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 33:56 | 2020-12-03 |  |
+| [Can't Help Falling in Lauv \(the interview\)](https://open.spotify.com/episode/7knx5NKZHw29x0DumCviNI) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 33:24 | 2020-12-03 |  |
 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 | 2020-12-03 |  |
 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 | 2020-12-03 |  |
 | [Episode 65 \- 1981/1982:  A Year In The Life Of Metallica](https://open.spotify.com/episode/2xDgUj7cIVAwpb1htnXkZS) | [METAL UP YOUR PODCAST \- All Things Metallica](https://open.spotify.com/show/7D8wv41RwnqtwRRSvul85a) | [METAL UP YOUR PODCAST \- All Things Metallica](https://open.spotify.com/album/7D8wv41RwnqtwRRSvul85a) | 1:23:14 | 2020-12-03 |  |

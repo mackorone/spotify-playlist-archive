@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover:  ODUMODUBLVCK",
-  "num_followers": 38283,
+  "num_followers": 38313,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-10-10 01:01:58",
       "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2025-10-10 01:01:58",
-      "album": {
         "name": "No Sign of Weakness",
         "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 138069,
       "name": "Do I - Remix",
       "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+    },
+    {
+      "added_at": "2025-10-10 01:01:58",
+      "album": {
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2025-10-10 01:01:58",
@@ -1147,22 +1147,26 @@
     {
       "added_at": "2025-10-10 01:01:58",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk"
+        "name": "Refund (Part 2)",
+        "url": "https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Reeplay",
+          "url": "https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 110047,
-      "name": "Uuu",
-      "url": "https://open.spotify.com/track/7w1Sm0fn2YWRFcphqTpWbH"
+      "duration_ms": 163034,
+      "name": "Refund (Part 2)",
+      "url": "https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB"
     }
   ],
   "unique_name": "Hype List",

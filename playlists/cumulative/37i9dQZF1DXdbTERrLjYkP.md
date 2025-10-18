@@ -4,12 +4,12 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Hohnen Ford
 
-953 songs - 2 day 3 hr 11 min
+955 songs - 2 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/track/2xNA8H73R4vlxqpRnM8Kyg) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much! \(Sad Girl Version\)](https://open.spotify.com/album/2WjkgxbJKQtAudi52NGEqw) | 2:39 | 2023-12-08 | 2023-12-30 |
-| [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 | 2025-07-25 |  |
+| [1\-800\-LOVECLUB](https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [1\-800\-LOVECLUB](https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83) | 3:28 | 2025-07-25 | 2025-10-18 |
 | [100 sq ft](https://open.spotify.com/track/6joM1SZtTJjWFGw0iE9gvz) | [Isabella Kensington](https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb) | [not in a dollhouse anymore](https://open.spotify.com/album/099A2jIEqmy2Mv5H7ZVxOl) | 3:12 | 2024-09-27 | 2025-03-08 |
 | [15%](https://open.spotify.com/track/0Ocv0K4bzPBnG5CxvXAA8m) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [15%](https://open.spotify.com/album/6UQlMFX1JWcBNBJvEZxYnL) | 3:28 | 2024-10-11 | 2024-12-07 |
 | [17](https://open.spotify.com/track/0r4AwFCo5DTicUK7WpCo4f) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [17](https://open.spotify.com/album/5rs7aEqIPHIfOCTznBzmFM) | 4:45 | 2023-01-13 | 2023-04-01 |
@@ -383,7 +383,7 @@
 | [Horses Run](https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Horses Run](https://open.spotify.com/album/0e5JHJao5JWVlOzkK3M1NR) | 3:28 | 2025-08-06 |  |
 | [Hospitals](https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [How did I let this get so serious?](https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU) | 2:54 | 2025-04-04 | 2025-07-19 |
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-04-15 | 2022-09-03 |
-| [hot summer](https://open.spotify.com/track/3gR8omUbqmDU0l38K3CpHX) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [hot summer](https://open.spotify.com/album/6Gu94XbWCmDBCbbsHJ3SdF) | 3:32 | 2025-07-21 |  |
+| [hot summer](https://open.spotify.com/track/3gR8omUbqmDU0l38K3CpHX) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [hot summer](https://open.spotify.com/album/6Gu94XbWCmDBCbbsHJ3SdF) | 3:32 | 2025-07-21 | 2025-10-18 |
 | [House of Cards](https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [House of Cards](https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4) | 3:07 | 2022-04-11 | 2022-08-13 |
 | [House Of Lies](https://open.spotify.com/track/2fDmoxD2vvCHj9XgR9wRJD) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [House Of Lies](https://open.spotify.com/album/4DwBDOqbVG4pgm7ON3X7E7) | 3:14 | 2024-01-26 | 2024-08-17 |
 | [House We Share](https://open.spotify.com/track/7jrmivOL6T6uIv4Fd0eU8o) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [House We Share](https://open.spotify.com/album/2C6xoMJdKtxYJWY4RhHxHa) | 2:47 | 2022-10-07 | 2022-12-24 |
@@ -596,6 +596,7 @@
 | [Muscle Memory](https://open.spotify.com/track/66MkUGsPCH3k12PHghVQaQ) | [Tatiana Manaois](https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI) | [Muscle Memory](https://open.spotify.com/album/1pWzezVNG1OBtP62iJs6c3) | 3:28 | 2022-01-14 | 2022-05-20 |
 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 | 2022-03-18 | 2022-04-12 |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2022-06-22 | 2022-12-17 |
+| [Mystery Woman](https://open.spotify.com/track/3THln96cTn4UblX2X6oS0v) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Mystery Woman](https://open.spotify.com/album/06Zx22LDG16fi9ZE22k4SK) | 3:04 | 2025-10-17 |  |
 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 | 2024-05-24 | 2024-08-03 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-06-23 |
 | [Never Knew](https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Never Knew](https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP) | 2:42 | 2024-11-01 | 2025-04-05 |
@@ -896,6 +897,7 @@
 | [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-01-20 | 2023-03-11 |
 | [walls](https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [character development](https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj) | 0:55 | 2023-06-16 | 2023-11-11 |
 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 | 2025-03-14 | 2025-05-10 |
+| [wasted potential](https://open.spotify.com/track/2vqaeVYJ8zwjLbOMEV7He2) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [wasted potential](https://open.spotify.com/album/3wNynNrLA99yCegtnhnC3u) | 3:31 | 2025-10-17 |  |
 | [Watching the Moon](https://open.spotify.com/track/2wdxWnALQ3ub0mnPNGBBVr) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Watching the Moon](https://open.spotify.com/album/1DGfDkUJyyyo90vRAHnySI) | 3:53 | 2022-11-04 | 2022-12-24 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-12-24 |
 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2023-09-22 | 2023-12-14 |

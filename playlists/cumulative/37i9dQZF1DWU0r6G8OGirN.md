@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-160 songs - 8 hr 13 min
+161 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,11 +77,12 @@
 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 | 2021-12-21 |  |
 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/7kgBkrinjUUCan2juXayQZ) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [It Came Upon The Midnight Clear / God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5MkXBVo1xAvfjfTg6Sn6yP) | 3:00 | 2021-12-21 | 2023-10-27 |
 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/7tmMuhg6bvWSyLdEBWlWTb) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [It Came Upon The Midnight Clear](https://open.spotify.com/album/0od5E7hLRGWB1Qd2KIFYN1) | 2:26 | 2023-10-27 |  |
-| [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 | 2021-12-21 |  |
+| [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 | 2021-12-21 | 2025-10-18 |
 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 | 2023-11-17 | 2025-09-05 |
 | [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/track/2ekoeJhto1KoKUzlaFokde) | [Christmas Jazz Duo](https://open.spotify.com/artist/13XRIoHlZNZChhsOwvkovD) | [All I Want for Christmas](https://open.spotify.com/album/4fUlyX2S164VoHO2y4IYP4) | 1:59 | 2021-12-21 | 2023-09-01 |
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/0a3Cu9BlAgC5rHaF0sWUuF) | [The Tonalité Trio](https://open.spotify.com/artist/5HHVzE5pA5DsCk6UsmyhJg) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/036XtMxpp80VAjQkEyRNqo) | 2:30 | 2024-11-11 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/0DlIQlggPodHeRU0lH0m7g) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7irR16UVAWw5RnGnOkhViA) | 2:20 | 2024-10-25 |  |
+| [Jingle Bell Rock](https://open.spotify.com/track/6Ii4dVFX3MyZiroqSHQjJf) | [The 52nd Street Club](https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU) | [Jingle Bell Rock](https://open.spotify.com/album/7tgNFofwM5Vc81t3fF6m8r) | 2:34 | 2025-10-17 |  |
 | [Joy To The World](https://open.spotify.com/track/1HPF2x2SgdWwrGVgPh16ki) | [The Christmas Brothers](https://open.spotify.com/artist/4hq9JfKZqh3qDuAvRZK81e) | [Joy to the World](https://open.spotify.com/album/1kezJtycElHPKwIsI6x1ur) | 1:44 | 2021-12-21 | 2023-09-01 |
 | [Little Saint Nick](https://open.spotify.com/track/3ZujkFo6UN8jihSZirvbWz) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Little Saint Nick](https://open.spotify.com/album/4N7C1nhf0lCBLoMVJEo80H) | 2:41 | 2024-12-05 |  |
 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 | 2023-10-06 |  |

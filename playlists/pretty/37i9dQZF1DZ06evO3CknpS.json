@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAABFXcxnEnejikkIgB4lObd0",
+  "snapshot_id": "aPA1gAAAAAAxR980OEygq4AGbAAo7YLV",
   "tracks": [
     {
       "added_at": null,
@@ -252,8 +252,8 @@
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+          "name": "Fritz Kreisler",
+          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
         },
         {
           "name": "Clara Rockmore",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Nocturne in C-Sharp Minor, B. 49 (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/7JIzBEgSo8RQkiM7292cPP"
+      "duration_ms": 153026,
+      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/2FIZ786pcMnR0kziFjZdpV"
     },
     {
       "added_at": null,
@@ -344,8 +344,8 @@
       },
       "artists": [
         {
-          "name": "Fritz Kreisler",
-          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Clara Rockmore",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 153026,
-      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2FIZ786pcMnR0kziFjZdpV"
+      "duration_ms": 236413,
+      "name": "Nocturne in C-Sharp Minor, B. 49 (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/7JIzBEgSo8RQkiM7292cPP"
     },
     {
       "added_at": null,
@@ -660,30 +660,6 @@
       },
       "artists": [
         {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 392533,
-      "name": "Symphonie Espagnole: Andante",
-      "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
           "name": "Mikhail Glinka",
           "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
         },
@@ -699,6 +675,30 @@
       "duration_ms": 204066,
       "name": "Elegy: Do not tempt me needlessly.",
       "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 392533,
+      "name": "Symphonie Espagnole: Andante",
+      "url": "https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

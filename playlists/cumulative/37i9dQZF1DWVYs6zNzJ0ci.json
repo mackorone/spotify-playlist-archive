@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "As\u00ed Se Vive Feliz",
+        "url": "https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Unity Sound",
+          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "As\u00ed Se Vive Feliz",
+      "url": "https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z"
+    },
+    {
+      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG"
       },
@@ -2426,7 +2448,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 204440,
       "name": "Emocionado",
       "url": "https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz"

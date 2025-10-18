@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Blanco
 
-1,642 songs - 3 day 10 hr 36 min
+1,643 songs - 3 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Die For You](https://open.spotify.com/track/7HJHpT0KwIa64Al68yKAYw) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/2R0zTn8zndJKVmftfP4uT5) | 2:21 | 2024-03-28 | 2024-05-25 |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-13 | 2022-07-15 |
 | [Die Hard](https://open.spotify.com/track/5VzpAMUOFLlDnhBnx28y9X) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [ALPHA PLACE](https://open.spotify.com/album/103O26J3AHRwYYZyRfKuwQ) | 3:17 | 2022-05-06 | 2022-06-25 |
-| [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 | 2025-03-28 |  |
+| [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 | 2025-03-28 | 2025-10-18 |
 | [Dilemma \(feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/1IQ7SE3i5bA3Ia4f1eZz9h) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 3:23 | 2024-06-28 | 2024-11-15 |
 | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/track/7oa8E2BlpOwlkaSrc8dMya) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Dilemma \(Feat\. Sidhu Moose Wala\)](https://open.spotify.com/album/0aPxUHdBgu0XIgsEz5EfSg) | 3:23 | 2024-06-27 | 2024-06-29 |
 | [Dimzy Flow](https://open.spotify.com/track/0MXZX9wCn2hQ1sg0pDMQAF) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [Carns Hill](https://open.spotify.com/artist/0BKkDZjC4e9k36ZvLM3DAm) | [Dimzy Flow](https://open.spotify.com/album/2DTn9R9zKpcTZc9mHhGfVu) | 2:26 | 2025-01-03 | 2025-03-28 |
@@ -1604,6 +1604,7 @@
 | [Who We Are \(feat\. Yung Bleu\)](https://open.spotify.com/track/2h0DSm6aLpjO5T8iBExkZD) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Who We Are](https://open.spotify.com/album/6DE3o3k2KbubhYaBsmf5as) | 2:45 | 2022-05-06 | 2022-05-20 |
 | [Who's Realer?](https://open.spotify.com/track/0LnRayhy7VQylz04hhQV0P) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Who's Realer?](https://open.spotify.com/album/7Kk79wIIf9G7stQwubiWuF) | 2:13 | 2024-02-09 | 2024-03-22 |
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2022-03-08 | 2022-03-09 |
+| [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-17 |  |
 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 | 2024-11-29 | 2025-03-21 |
 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 | 2024-10-10 | 2025-02-07 |
 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 | 2022-02-25 | 2022-08-31 |

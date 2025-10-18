@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Carla Hero in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,717 likes - 76 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,785 likes - 76 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 11 | [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 |
 | 12 | [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/track/7egBWl4HwkQ80GYjX63DI5) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/album/2Fz4X6urACFPLMHX5NeNaY) | 1:58 |
 | 13 | [La Cura](https://open.spotify.com/track/24lMpSDWvI4iZ5h1ZDB7Lx) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [La Cura](https://open.spotify.com/album/00McN06J1SBCnck2lW9ftZ) | 1:40 |
-| 14 | [MEZZALUNA \(feat\. Marte\)](https://open.spotify.com/track/73o0Hy1lndBQj3aCzvVr0j) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [LOVE SONGS NEVER DIE](https://open.spotify.com/album/3FZwdBfJNJ2lj8q2IS6j1b) | 2:26 |
+| 14 | [MEZZALUNA \(feat\. Marte\)](https://open.spotify.com/track/73o0Hy1lndBQj3aCzvVr0j) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [LOVE SONGS NEVER DIE](https://open.spotify.com/album/3FZwdBfJNJ2lj8q2IS6j1b) | 2:26 |
 | 15 | [Usman](https://open.spotify.com/track/1mupWfJ4xR0qxe7eSmQ6PS) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Diventare 3](https://open.spotify.com/album/5VJD0m7hxTYm3W7eI88DtV) | 1:49 |
 | 16 | [DERBY](https://open.spotify.com/track/3F8a6CiKAfUubV6kiBQJUd) | [Chosen 1](https://open.spotify.com/artist/14bGwSN7BvF4nASd1MQ5ur) | [DERBY](https://open.spotify.com/album/1L1VG2v1PBBMKrg0LcTQ4d) | 2:38 |
 | 17 | [MARTEDÌ GRASSO \(feat\. Diss Gacha\)](https://open.spotify.com/track/3qwFXbmI64WdXWxlb7afkd) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 2:17 |
 | 18 | [TOUR](https://open.spotify.com/track/7rXxRfe0ozlR5MeFr5yzEd) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [TOUR](https://open.spotify.com/album/6zlXDaiNxjOnzBkFyJRBLc) | 2:30 |
 | 19 | [NOTTI FREDDE](https://open.spotify.com/track/0FW9UnyHsySQEU2lei3K1q) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [NOTTI FREDDE](https://open.spotify.com/album/6tI528644uJc7vshtOzN9E) | 2:50 |
-| 20 | [31 AGOSTO](https://open.spotify.com/track/7mz9dTsgNNYZkxywIvqTLB) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [eyoriky](https://open.spotify.com/artist/2OAPYmxFLkuQgxowR0iz0v), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [](https://open.spotify.com/album/null) | 2:34 |
+| 20 | [31 AGOSTO](https://open.spotify.com/track/7mz9dTsgNNYZkxywIvqTLB) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [eyoriky](https://open.spotify.com/artist/2OAPYmxFLkuQgxowR0iz0v), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [PUTAVIDA MIXTAPE](https://open.spotify.com/album/6dSq06CvcxBxPFvXYpsgG1) | 2:34 |
 | 21 | [Tom & Jerry](https://open.spotify.com/track/7qiNGr9l5DpzsBV8NUUevv) | [Ski & Wok](https://open.spotify.com/artist/0r1S7BCoaU5uGAgAWptbl9) | [Tom & Jerry](https://open.spotify.com/album/6hKjlqpZUi9VFvRcQ3fqjB) | 2:50 |
 | 22 | [Bluetooth](https://open.spotify.com/track/3Bk32AIG9SnuGqVnEjsyHg) | [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF) | [Bluetooth](https://open.spotify.com/album/47agd3Y3KljEtse9OgXfKM) | 2:22 |
 | 23 | [WAR](https://open.spotify.com/track/279hPhaSOngtl9oE9Xf8Id) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [WAR](https://open.spotify.com/album/7HicyHopUP92kyfx7sPnRg) | 1:56 |

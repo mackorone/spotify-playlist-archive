@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Hi\-STANDARD
 
-857 songs - 1 day 21 hr 24 min
+858 songs - 1 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [turning point](https://open.spotify.com/track/3zSBhkgMc4H4wFvEKRb2AW) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [clockwork](https://open.spotify.com/album/7Avr8T0Wu5GFpTVgb0AgHd) | 3:36 | 2022-05-17 | 2022-07-14 |
 | [UMA WITH A MISSION](https://open.spotify.com/track/76Kpt955dzeNTVpyIveNBO) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [UMA WITH A MISSION](https://open.spotify.com/album/3uWTEqofNs8cZ04WqdyQUF) | 3:34 | 2023-02-24 | 2023-03-01 |
 | [UMA WITH A MISSION](https://open.spotify.com/track/1IMy3xrUnqsz9pfCKj5Px6) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [UMA WITH A MISSION](https://open.spotify.com/album/6HWEdPypaMBYFSPF5fBs94) | 3:34 | 2024-10-15 | 2024-11-02 |
+| [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 | 2025-10-14 |  |
 | [UNITY](https://open.spotify.com/track/1FpsMVvNfyQyaJSbTIQ8ax) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [UNITY](https://open.spotify.com/album/4EWEV9iA8vxu53go2vt2kl) | 1:33 | 2022-06-28 | 2022-07-28 |
 | [Untitled](https://open.spotify.com/track/7HOFDidN6ny6236kuHJfaI) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 2:41 | 2022-05-19 | 2022-07-11 |
 | [Urakan.rana](https://open.spotify.com/track/0JlCdu2HaoYgHT7UyUnMFI) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Urakan.rana](https://open.spotify.com/album/5hJ0MgDtFocwjJjinGlvxT) | 1:05 | 2022-11-01 | 2022-11-14 |
@@ -783,7 +784,7 @@
 | [少年時代](https://open.spotify.com/track/2uVnjd2uVKPg299891KcFs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [少年時代](https://open.spotify.com/album/5y3xFfjLRFB5ACA5EBgjtq) | 3:20 | 2024-07-09 | 2024-10-09 |
 | [左様なら](https://open.spotify.com/track/35EO65pIPwMR9jNfBsHNBv) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [左様なら](https://open.spotify.com/album/4otXvksOzgyZSuyz0RzWgp) | 2:29 | 2025-03-11 | 2025-04-02 |
 | [希望の唄](https://open.spotify.com/track/5XjaDinCsvHok9nLCUHWTZ) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [希望の唄](https://open.spotify.com/album/7ushBCmEZvPU1TJxjmVh0q) | 3:10 | 2025-05-13 | 2025-09-03 |
-| [幸せになろうよ](https://open.spotify.com/track/0wok9BE7hFu5yOJeKReNgt) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 2:04 | 2025-10-14 |  |
+| [幸せになろうよ](https://open.spotify.com/track/0wok9BE7hFu5yOJeKReNgt) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 2:04 | 2025-10-14 | 2025-10-18 |
 | [彗星](https://open.spotify.com/track/7IP4KLRpBHMlt8ItnmcIwq) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [シエラのように](https://open.spotify.com/album/0luH7u81HrQytGR9HHRDKs) | 1:51 | 2022-05-17 | 2022-12-14 |
 | [心の旅](https://open.spotify.com/track/5ZCJoQGMeMyPSeq9Q0bbkl) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 3:27 | 2022-05-12 | 2022-12-16 |
 | [心の銃](https://open.spotify.com/track/0Fk248BqI822A40zhw5iGy) | [ANARCHY](https://open.spotify.com/artist/65PLMuXMHef9HcEW5AamYy) | [亜無亜危異 都市](https://open.spotify.com/album/4fbwOtm9zF6VM9lA9yDPVm) | 2:31 | 2022-05-19 | 2022-07-08 |

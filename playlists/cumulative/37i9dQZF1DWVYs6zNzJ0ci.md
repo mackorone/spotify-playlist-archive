@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari con Los Cafres.
 
-417 songs - 1 day 3 hr 21 min
+418 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Aquí en el Corazón](https://open.spotify.com/track/6KhPLVQxcLLB0plqEUBHHP) | [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1) | [Aquí en el Corazón](https://open.spotify.com/album/7E9fyMb6NQYG62MjqYgxhw) | 3:21 | 2023-09-08 | 2023-09-23 |
 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 | 2021-12-10 | 2022-07-24 |
 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 | 2025-05-29 | 2025-07-31 |
+| [Así Se Vive Feliz](https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [Así Se Vive Feliz](https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ) | 3:19 | 2025-10-17 |  |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 | 2023-02-03 |  |
 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 | 2024-07-02 |  |
 | [AY MI FÉ!](https://open.spotify.com/track/1VW20Xk91ZpAffsBVeew5n) | [Sr\. Wilson](https://open.spotify.com/artist/7GIl95Mqt4DmPOiVghXffy), [Griffi](https://open.spotify.com/artist/3qqRmPv82dU1KrGy21ZSQD) | [Rutas Interestelares](https://open.spotify.com/album/5gRMXbnASEPtEC1IWiflyy) | 2:50 | 2023-10-27 | 2023-11-11 |
@@ -127,7 +128,7 @@
 | [El Rey De Las Redes](https://open.spotify.com/track/4UPbrv1xDF885H0QPwENIa) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [El Rey De Las Redes](https://open.spotify.com/album/5mbc12SB3E1bLwcOYZQ3Hu) | 3:21 | 2023-07-21 | 2023-08-26 |
 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 | 2021-12-10 |  |
 | [Ella](https://open.spotify.com/track/3rWcQsUH5Jo25JyaYr9Kmj) | [Tubará](https://open.spotify.com/artist/0Er4BwZ8o4ec3I3rdLaFL3) | [Ella](https://open.spotify.com/album/0LfdXgdI3ksuzkpQomvIH8) | 3:21 | 2023-09-08 | 2023-09-23 |
-| [Emocionado](https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Emocionado](https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b) | 3:24 | 2024-01-26 |  |
+| [Emocionado](https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Emocionado](https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b) | 3:24 | 2024-01-26 | 2025-10-18 |
 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 | 2022-09-30 | 2023-03-04 |
 | [En el Aire](https://open.spotify.com/track/6tT7NZT9kUGcntWb7yFX0C) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/3VdCyzaFr6nOz358VpRGaH) | 4:17 | 2022-07-08 | 2024-04-19 |
 | [En el Aire](https://open.spotify.com/track/7hvMIzFFtuHNJc1HiN4UmC) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Activistas](https://open.spotify.com/album/7HdBqIvlR6yFwN1a5q1QVI) | 4:18 | 2021-12-10 | 2022-07-29 |

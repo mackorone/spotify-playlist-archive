@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Beyond genre, beyond language, beyond borders. Cover: Sofia Gobbi",
+  "description": "Beyond genre, beyond language, beyond borders. Cover: MARO",
   "name": "borderless",
   "tracks": [
     {
@@ -382,7 +382,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Antarctica / Neon Lights",
+        "url": "https://open.spotify.com/album/0GddO8DceNsETJgJxGsGKx"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179063,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/0ueEbwie4WN3fPh2O0ZaPh"
+    },
+    {
+      "album": {
         "name": "ANTIFREEZE",
         "url": "https://open.spotify.com/album/3Ax7G8PfcjdAS3w9EKqxyY"
       },
@@ -1860,6 +1878,24 @@
       "duration_ms": 273662,
       "name": "Birdy",
       "url": "https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY"
+    },
+    {
+      "album": {
+        "name": "Fooling the Stars",
+        "url": "https://open.spotify.com/album/6NYdW6baCkg2AGTRfDFsb3"
+      },
+      "artists": [
+        {
+          "name": "Malurid\u00e9",
+          "url": "https://open.spotify.com/artist/0ElrXGkEGD92iBme0YAoW6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126399,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/1YlJaT4FCBUt2DSf4VIpeG"
     },
     {
       "album": {
@@ -3186,7 +3222,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 170250,
       "name": "Cold Rain",
       "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
@@ -4131,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "Beginner Again",
+        "url": "https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI"
+      },
+      "artists": [
+        {
+          "name": "Saint Stacy",
+          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156394,
+      "name": "Didn't Mean To",
+      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
+    },
+    {
+      "album": {
         "name": "die b4 u",
         "url": "https://open.spotify.com/album/1lUThx8quUxLaZS0Yg7V37"
       },
@@ -4146,6 +4200,24 @@
       "duration_ms": 180333,
       "name": "die b4 u",
       "url": "https://open.spotify.com/track/6VYPtD8eHf7FDvovfhSJxa"
+    },
+    {
+      "album": {
+        "name": "Die of Loneliness",
+        "url": "https://open.spotify.com/album/7s8i0BEqcpl0Kts8LdgGw4"
+      },
+      "artists": [
+        {
+          "name": "Carl Karlsson",
+          "url": "https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196310,
+      "name": "Die of Loneliness",
+      "url": "https://open.spotify.com/track/5kHPk7KqZjj9pdByqH4JDK"
     },
     {
       "album": {
@@ -5424,7 +5496,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 218993,
       "name": "Evil Gemini",
       "url": "https://open.spotify.com/track/3GUU2gxicdZ0oztGyyXYJB"
@@ -6590,7 +6662,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 238726,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2"
@@ -6662,7 +6734,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 175714,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/7sH5xxbSQgRESY44Eypt6Z"
@@ -7220,7 +7292,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 138518,
       "name": "Hazy",
       "url": "https://open.spotify.com/track/7DpRyhc5dbAYAiWalOu237"
@@ -7296,7 +7368,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
@@ -7456,7 +7528,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J"
@@ -7822,6 +7894,24 @@
       "duration_ms": 214899,
       "name": "I MA",
       "url": "https://open.spotify.com/track/2mJxEj7p6hzkPYiCg3LUUf"
+    },
+    {
+      "album": {
+        "name": "I OWE IT TO YOU",
+        "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190955,
+      "name": "I OWE IT TO YOU",
+      "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
     },
     {
       "album": {
@@ -10886,7 +10976,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 157116,
       "name": "Monde Nouveau",
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
@@ -11034,6 +11124,28 @@
       "duration_ms": 318575,
       "name": "Movie Light",
       "url": "https://open.spotify.com/track/6rstFUEqEGPkfLCdsiZrm7"
+    },
+    {
+      "album": {
+        "name": "BLABLABLABLA",
+        "url": "https://open.spotify.com/album/4n1lTD4sffDviaaPeqqGWm"
+      },
+      "artists": [
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        },
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179826,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/4KUKQ8aslaoNIAEFmI8cUs"
     },
     {
       "album": {
@@ -11752,6 +11864,24 @@
       "duration_ms": 195255,
       "name": "No Vuelvas",
       "url": "https://open.spotify.com/track/1Yk68zD4BTiBiWXjJOaCgQ"
+    },
+    {
+      "album": {
+        "name": "White Room",
+        "url": "https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB"
+      },
+      "artists": [
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215297,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/212XnGWShIC0jc80bebffT"
     },
     {
       "album": {
@@ -13004,7 +13134,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 116000,
       "name": "Perder La Cabeza",
       "url": "https://open.spotify.com/track/5N5Lu4XVa9xsSPeatQMVDK"
@@ -16240,7 +16370,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 220152,
       "name": "Sup",
       "url": "https://open.spotify.com/track/4FSJFUkcuOeL7PxcZ7m08C"
@@ -16566,7 +16696,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 252017,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z"
@@ -16678,7 +16808,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 134682,
       "name": "te quise tanto",
       "url": "https://open.spotify.com/track/1lumTcx1dzFNIiKXmIsRSw"
@@ -16980,6 +17110,24 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "album": {
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "album": {
@@ -17350,7 +17498,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
@@ -19342,6 +19490,24 @@
       "duration_ms": 159200,
       "name": "Young Hearts",
       "url": "https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/7ClAeUk0p7UTl2bmGgqKuz"
+      },
+      "artists": [
+        {
+          "name": "Sara Baroni",
+          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227785,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/535FXIUGFnKvSXi7WrFl7R"
     },
     {
       "album": {

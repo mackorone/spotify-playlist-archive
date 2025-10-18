@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Denny Caknan, NDX A.K.A.",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Esa Risty",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -5305,6 +5305,32 @@
     },
     {
       "album": {
+        "name": "Nduweni",
+        "url": "https://open.spotify.com/album/3c7enycYJI2BOdarQIJvGl"
+      },
+      "artists": [
+        {
+          "name": "Sweety Days",
+          "url": "https://open.spotify.com/artist/0DWw4lIlzU2TQTedyDU5M4"
+        },
+        {
+          "name": "Arry Harmoko",
+          "url": "https://open.spotify.com/artist/3EdYNfDh7k5d0sl4R7OXCf"
+        },
+        {
+          "name": "Estetika Karina",
+          "url": "https://open.spotify.com/artist/1pKYbKRTckwqDrmYmrBKpt"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Nduweni",
+      "url": "https://open.spotify.com/track/0pEqcaVfMePZOEFwr9tzkh"
+    },
+    {
+      "album": {
         "name": "Nduwur Gunung",
         "url": "https://open.spotify.com/album/4dTAA2KbTFgW58qQWcCAdL"
       },
@@ -5578,6 +5604,24 @@
       "duration_ms": 396850,
       "name": "Ngamen 10",
       "url": "https://open.spotify.com/track/4W05ZNdRW3ciTHZWmsB1q1"
+    },
+    {
+      "album": {
+        "name": "Ngamen 4",
+        "url": "https://open.spotify.com/album/55q4uCV11NAmVbxhk7XY0R"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Ngamen 4",
+      "url": "https://open.spotify.com/track/00n38igoTWDhcLF2jSDIKN"
     },
     {
       "album": {

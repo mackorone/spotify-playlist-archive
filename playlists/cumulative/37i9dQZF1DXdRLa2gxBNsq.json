@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Penadas por la Ley.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non servium",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Con las Fuerzas Que No Tienes",
+        "url": "https://open.spotify.com/album/03PCCS4AG9BAvuIX9rMOqI"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        },
+        {
+          "name": "Josele Santiago",
+          "url": "https://open.spotify.com/artist/74lCVodenQEIwr8yKf7CAB"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180045,
+      "name": "Con las Fuerzas Que No Tienes",
+      "url": "https://open.spotify.com/track/4Q09LHOwHxVNO4Z0nohLpQ"
+    },
+    {
+      "album": {
         "name": "Con Rabia, Con Ira",
         "url": "https://open.spotify.com/album/1hwEngSxBB59Rd3NohKLjS"
       },
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 101286,
       "name": "Cuerpo Terror",
       "url": "https://open.spotify.com/track/3nhQUt4pxH0eHbDSqXT779"
@@ -2520,7 +2542,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 226269,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/2sbtfc1GISmqYzEBBA2Qa9"
@@ -2600,6 +2622,24 @@
       "duration_ms": 221189,
       "name": "Fuera de Lugar",
       "url": "https://open.spotify.com/track/1F6Twsu2NXTj63796f98k9"
+    },
+    {
+      "album": {
+        "name": "Futur Medieval",
+        "url": "https://open.spotify.com/album/3SrJBezJIctz4q0CVYyWUQ"
+      },
+      "artists": [
+        {
+          "name": "Crim",
+          "url": "https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186080,
+      "name": "Futur Medieval",
+      "url": "https://open.spotify.com/track/1VYf8hXQLVTXKdKHWNzggl"
     },
     {
       "album": {
@@ -5202,7 +5242,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 118170,
       "name": "Pesadilla Adulta",
       "url": "https://open.spotify.com/track/4g3INzuTAV6sZxnaxg1RJs"
@@ -6580,6 +6620,24 @@
       "duration_ms": 165883,
       "name": "Un Mill\u00f3n de Amigos",
       "url": "https://open.spotify.com/track/7mEjdIsqcqXA0JivD81ASp"
+    },
+    {
+      "album": {
+        "name": "Una llamada de Satan\u00e1s",
+        "url": "https://open.spotify.com/album/1U0QuUzdyj9pxK5fIaweaC"
+      },
+      "artists": [
+        {
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259676,
+      "name": "Una llamada de Satan\u00e1s",
+      "url": "https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH"
     },
     {
       "album": {

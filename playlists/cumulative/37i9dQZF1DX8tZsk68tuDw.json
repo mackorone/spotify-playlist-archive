@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 222857,
       "name": "Air",
       "url": "https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR"
@@ -4710,7 +4710,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 183066,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
@@ -8765,6 +8765,28 @@
     },
     {
       "album": {
+        "name": "Blow My Whistle",
+        "url": "https://open.spotify.com/album/5teBisQ7BFhfDpn33neh2w"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Blow My Whistle",
+      "url": "https://open.spotify.com/track/6NBGFq4IKPFrNdyTuRdMe0"
+    },
+    {
+      "album": {
         "name": "Blow Out",
         "url": "https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1"
       },
@@ -10906,7 +10928,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 267062,
       "name": "By the Light of the Moon",
       "url": "https://open.spotify.com/track/20TYKg7pZLNFmLwwfER9G5"
@@ -11234,6 +11256,32 @@
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
+    },
+    {
+      "album": {
+        "name": "Call You Back",
+        "url": "https://open.spotify.com/album/2Gx4h6WtT3bnIRGcbiSUYO"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Call You Back",
+      "url": "https://open.spotify.com/track/38Cn5WXAveelCjMczHaK2P"
     },
     {
       "album": {
@@ -17575,6 +17623,24 @@
     },
     {
       "album": {
+        "name": "DNCR / Imprint",
+        "url": "https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187434,
+      "name": "DNCR",
+      "url": "https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA"
+    },
+    {
+      "album": {
         "name": "DNGRS",
         "url": "https://open.spotify.com/album/3jm4uItGayke83t558Micq"
       },
@@ -19016,6 +19082,28 @@
       "duration_ms": 136000,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot"
+    },
+    {
+      "album": {
+        "name": "Dreaming (Feelings)",
+        "url": "https://open.spotify.com/album/0VhInKrXGDFPWZFSy2VOY4"
+      },
+      "artists": [
+        {
+          "name": "Fish56Octagon",
+          "url": "https://open.spotify.com/artist/46Ro78dkP2X0XUKmiovwL3"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151904,
+      "name": "Dreaming (Feelings)",
+      "url": "https://open.spotify.com/track/03fBbF1Y6uNdC4v7RhBCrH"
     },
     {
       "album": {
@@ -26270,7 +26358,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 201461,
       "name": "Get Stupid",
       "url": "https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw"
@@ -30054,7 +30142,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 153126,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r"
@@ -30394,7 +30482,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 152571,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ"
@@ -36707,6 +36795,28 @@
     },
     {
       "album": {
+        "name": "BLINK",
+        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237938,
+      "name": "Keep Love Waiting",
+      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+    },
+    {
+      "album": {
         "name": "Keep Moving",
         "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
       },
@@ -40639,6 +40749,28 @@
     },
     {
       "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251575,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1PFrNTi1e8CLXZMZtKP8EB"
       },
@@ -43368,7 +43500,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 117988,
       "name": "Match My Speed",
       "url": "https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX"
@@ -48125,6 +48257,24 @@
     },
     {
       "album": {
+        "name": "No Hesitating",
+        "url": "https://open.spotify.com/album/0rGKGBOA9WXmZ7QbNcRohX"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163890,
+      "name": "No Hesitating",
+      "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
+    },
+    {
+      "album": {
         "name": "NO INTENTION",
         "url": "https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri"
       },
@@ -51010,7 +51160,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 213706,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
@@ -55623,6 +55773,24 @@
     },
     {
       "album": {
+        "name": "Reina de la Pista",
+        "url": "https://open.spotify.com/album/0QjabydE5tFFlPCfrofKfC"
+      },
+      "artists": [
+        {
+          "name": "Miluhska",
+          "url": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Reina de la Pista",
+      "url": "https://open.spotify.com/track/5ZmOi8QTdksIUcyjvwYQGx"
+    },
+    {
+      "album": {
         "name": "Relax Your Mind",
         "url": "https://open.spotify.com/album/3hAja1WNUGb1gVZ6PrjBbI"
       },
@@ -57636,7 +57804,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 209523,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8"
@@ -61403,6 +61571,28 @@
     },
     {
       "album": {
+        "name": "So Far Away",
+        "url": "https://open.spotify.com/album/5WmaGa5SFfVgCx6f9GJRim"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248620,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/3Z1HQgIy5WJf4nl6GR5lTE"
+    },
+    {
+      "album": {
         "name": "So Fine",
         "url": "https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5"
       },
@@ -63317,6 +63507,24 @@
     },
     {
       "album": {
+        "name": "Noise To Dance To",
+        "url": "https://open.spotify.com/album/4luONx78qbcCgfud2Y3Ojz"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Step 2 It",
+      "url": "https://open.spotify.com/track/6uRe0wVj0a53HoWs3KGnb7"
+    },
+    {
+      "album": {
         "name": "Step By Step",
         "url": "https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO"
       },
@@ -64686,6 +64894,28 @@
       "duration_ms": 131250,
       "name": "Sunshine (My Girl)",
       "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
+    },
+    {
+      "album": {
+        "name": "Supa Smoov",
+        "url": "https://open.spotify.com/album/36IcWBiBqgCIP3gHiqxB65"
+      },
+      "artists": [
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176363,
+      "name": "Supa Smoov",
+      "url": "https://open.spotify.com/track/1wF4Lds6kOWQLDkcr7fr3D"
     },
     {
       "album": {
@@ -74958,7 +75188,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 200930,
       "name": "When It Kicks",
       "url": "https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym"
@@ -76836,7 +77066,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 162266,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"

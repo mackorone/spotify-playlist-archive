@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116196,
+  "num_followers": 116200,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACiXLtRgNULlB06lGEhasxP",
+  "snapshot_id": "aPA1gAAAAABfT7noBF/voACgf807Aj54",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ovelhinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 298948,
-      "name": "Cruz em Ti (Ao Vivo)",
-      "url": "https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 237333,
       "name": "Preciso Entender - Ao Vivo",
       "url": "https://open.spotify.com/track/1EUm3fTMaakB3KdffkvCZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ovelhinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 298948,
+      "name": "Cruz em Ti (Ao Vivo)",
+      "url": "https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00c9s Santo",
-        "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Tu \u00c9s Santo",
-      "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confio em Ti",
         "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+        "name": "Tu \u00c9s Santo",
+        "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
       "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+      "duration_ms": 220066,
+      "name": "Tu \u00c9s Santo",
+      "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
     },
     {
       "added_at": null,
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 240697,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 332333,
       "name": "Bra\u00e7os de Amor",
       "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6a6l1rcXkDIgEeXynqIrxy"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 240697,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/6RknNslwpjiHMgO4nKBgsQ"
     },
     {
       "added_at": null,

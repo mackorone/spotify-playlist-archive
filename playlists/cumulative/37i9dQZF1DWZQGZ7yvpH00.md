@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Estevie en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Julio Caesar y Armenta en portada.
 
-525 songs - 1 day 5 hr 3 min
+528 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Cuando Me Ocupes](https://open.spotify.com/track/6QvHiOp35ylHrYGy2ohuBg) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:38 | 2025-02-14 | 2025-06-07 |
 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 | 2022-02-03 | 2024-01-20 |
 | [CUANTAS VECES](https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:29 | 2025-08-15 | 2025-10-04 |
+| [CUL8R](https://open.spotify.com/track/4xAYAJzhXvn9RCI27EpPjM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [CUL8R](https://open.spotify.com/album/76NAIsy3cTG6wNXkKValAq) | 2:18 | 2025-10-17 |  |
 | [Culpa De Los Dos](https://open.spotify.com/track/0RBuJZebXW2yqGUyKfUaSd) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capitulo 2: El Año Del Dragon](https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ) | 3:16 | 2024-12-20 | 2025-01-25 |
 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 | 2023-04-14 |  |
 | [Cómo Poder Olvidar \- Spotify Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-16 | 2023-01-06 |
@@ -145,7 +146,7 @@
 | [Endless Summer](https://open.spotify.com/track/3IMACfPG8wHaC6KccsyuUn) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Endless Summer](https://open.spotify.com/album/5MfVyzPs79cE0RKF1aboZ6) | 3:57 | 2022-07-22 | 2023-01-14 |
 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 | 2024-05-03 | 2024-12-21 |
 | [Era El Único](https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Era El Único](https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I) | 2:10 | 2022-07-08 | 2023-05-13 |
-| [Eres](https://open.spotify.com/track/6ysO7v8pmH6MzNwDTjeR65) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Eres](https://open.spotify.com/album/32ZKCZmJhdMhdkWugnVqyE) | 3:54 | 2025-09-05 |  |
+| [Eres](https://open.spotify.com/track/6ysO7v8pmH6MzNwDTjeR65) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Eres](https://open.spotify.com/album/32ZKCZmJhdMhdkWugnVqyE) | 3:54 | 2025-09-05 | 2025-10-18 |
 | [Eres](https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:52 | 2023-06-30 | 2023-10-07 |
 | [Eres](https://open.spotify.com/track/6GM5l4aJ9aOhGStxODvNBm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 2:52 | 2023-06-30 | 2023-08-25 |
 | [Eres Tu / </3](https://open.spotify.com/track/1gmsRzmvvfstrm9etnz1HL) | [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Eres Tu / </3](https://open.spotify.com/album/5cvzSX2TePn1YKX4UGDUFx) | 3:25 | 2022-01-28 | 2023-01-14 |
@@ -306,7 +307,7 @@
 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2023-10-13 |  |
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-23 | 2023-02-25 |
 | [ODIO](https://open.spotify.com/track/72kif0OiODisUKY02Es8Mr) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | [ODIO](https://open.spotify.com/album/4TdgiBVUZyTjjylKtC3shq) | 3:48 | 2024-11-15 | 2025-01-18 |
-| [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 | 2025-08-15 |  |
+| [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 | 2025-08-15 | 2025-10-18 |
 | [Ojitos Rojos](https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Ojitos Rojos](https://open.spotify.com/album/6TYbBpHK1Tq0L7xcJl4YWU) | 3:01 | 2024-05-17 | 2025-01-25 |
 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 | 2023-02-24 | 2023-04-22 |
 | [OLVIDARME DE TI](https://open.spotify.com/track/7ajARmOc5ljCK0cRtep8fn) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [NAZTEÑO](https://open.spotify.com/album/05Se92qmfLxWoVYAg4vKcQ) | 3:49 | 2025-09-12 |  |
@@ -322,6 +323,7 @@
 | [Para Ser Sincero](https://open.spotify.com/track/3vRunC5olGPKJ0eCaOjfub) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Para Ser Sincero](https://open.spotify.com/album/3wXAgJyolPbsFues6JCA04) | 2:56 | 2025-03-21 | 2025-04-12 |
 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 | 2023-09-29 | 2023-10-14 |
 | [Peda Con Cupido](https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Peda Con Cupido](https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc) | 2:30 | 2024-03-08 | 2024-05-04 |
+| [Pedir Perdón](https://open.spotify.com/track/1yyKIpqVn7n3RS7XMteTnx) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Pedir Perdón](https://open.spotify.com/album/0W1BsSepLSfvwXv4xpD4fs) | 3:02 | 2025-10-17 |  |
 | [PENSANDO Y PENSANDO](https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [PENSANDO Y PENSANDO](https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO) | 3:26 | 2025-05-30 | 2025-09-06 |
 | [Peonia](https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif) | [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [Peonia](https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5) | 2:25 | 2024-01-26 | 2024-05-04 |
 | [PERDIDO](https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [PERDIDO](https://open.spotify.com/album/1bySzNQNPElENKhS564NkO) | 2:36 | 2025-03-10 | 2025-05-24 |
@@ -502,7 +504,7 @@
 | [Vas A Llorar](https://open.spotify.com/track/6lF45hzdxt6Z2hQf1zzyOl) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:05 | 2025-01-10 | 2025-03-11 |
 | [Vas A Olvidarte](https://open.spotify.com/track/3owQ1hV6hn0sQmjRDFmyRe) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [772 </3](https://open.spotify.com/album/2P6TMN431iln4GxB1SlSo0) | 3:47 | 2023-06-02 | 2023-07-08 |
 | [Verbo](https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Verbo](https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp) | 2:48 | 2025-01-17 | 2025-05-10 |
-| [vete de una vez](https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [vete de una vez](https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2) | 3:40 | 2025-09-19 |  |
+| [vete de una vez](https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [vete de una vez](https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2) | 3:40 | 2025-09-19 | 2025-10-18 |
 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 | 2024-05-31 |  |
 | [Volveremos](https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 5:28 | 2022-04-29 | 2025-06-07 |
 | [When I was your Man \- En Vivo](https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [En Vivo Con DC](https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu) | 2:31 | 2024-10-25 | 2024-11-30 |
@@ -525,6 +527,7 @@
 | [Ya Te Perdí \- Deluxe](https://open.spotify.com/track/4Nvm7kFymlxLeF5Qd69nuB) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 4:24 | 2022-12-09 | 2023-07-15 |
 | [Ya Te Superé](https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya Te Superé](https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq) | 3:46 | 2024-05-17 | 2024-06-22 |
 | [Ya Vente](https://open.spotify.com/track/1v95Tm2SydxQPUqhU7GQ97) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Ya Vente](https://open.spotify.com/album/2TOroe1yjxET8gXl7gLH6k) | 4:30 | 2023-10-20 | 2023-12-23 |
+| [ya yo sé](https://open.spotify.com/track/2gTeBjlkr4wn92JGLLNeAc) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [desconectado](https://open.spotify.com/album/6B0nRYl9whuLJH9BByQ7B2) | 3:00 | 2025-10-17 |  |
 | [YO NO TE OLVIDO](https://open.spotify.com/track/641M1deHD4Y0X74pt8csik) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [YO NO TE OLVIDO](https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP) | 3:20 | 2025-08-29 |  |
 | [YO QUISIERA](https://open.spotify.com/track/6oUfleqHtxkXLIGBEZKA9n) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [YO QUISIERA](https://open.spotify.com/album/0goX73Y7Or1v88yHSd247q) | 3:33 | 2024-01-19 | 2024-03-09 |
 | [Yo Te Amaré](https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Yo Te Amaré](https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm) | 2:50 | 2022-04-22 | 2022-06-04 |

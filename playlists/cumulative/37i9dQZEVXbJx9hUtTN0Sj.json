@@ -2470,7 +2470,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 174991,
       "name": "Amor bendito",
       "url": "https://open.spotify.com/track/3soXhfkDN4bh95YZFX02oh"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -6160,7 +6160,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 192974,
       "name": "Briller - Golden - version fran\u00e7aise",
       "url": "https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R"
@@ -13002,6 +13002,24 @@
     {
       "album": {
         "name": "Fearful Thing",
+        "url": "https://open.spotify.com/album/4iNEMiPAdu3vjpKok86CgD"
+      },
+      "artists": [
+        {
+          "name": "The Soulful Gentlemen",
+          "url": "https://open.spotify.com/artist/3M6UgRvHTQPAjBZVYbDDzU"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227319,
+      "name": "Fearful Thing",
+      "url": "https://open.spotify.com/track/1kgZgssoMOPX4XJ7U140RT"
+    },
+    {
+      "album": {
+        "name": "Fearful Thing",
         "url": "https://open.spotify.com/album/5ECiz2tkGAU4xk79454v20"
       },
       "artists": [
@@ -13012,7 +13030,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 227319,
       "name": "Fearful Thing",
       "url": "https://open.spotify.com/track/7B5ZtKmunbnLz0G5e5EqKg"
@@ -20406,7 +20424,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 132525,
       "name": "L'enfant des cendres",
       "url": "https://open.spotify.com/track/4R4jnYjCg7llcwsB4xOQ1Q"
@@ -35405,6 +35423,24 @@
     },
     {
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344493,
+      "name": "Spanish Joint",
+      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE"
+    },
+    {
+      "album": {
         "name": "Specter",
         "url": "https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4"
       },
@@ -40196,6 +40232,24 @@
       "duration_ms": 452317,
       "name": "Universal Nation - Charlotte de Witte Rework",
       "url": "https://open.spotify.com/track/4OrY514bfwTTtykP7s049a"
+    },
+    {
+      "album": {
+        "name": "Unshaken",
+        "url": "https://open.spotify.com/album/5esDxI1Ii86YJV3O3P1p9R"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232701,
+      "name": "Unshaken",
+      "url": "https://open.spotify.com/track/5aozioXEMgxyttOvxCsckp"
     },
     {
       "album": {

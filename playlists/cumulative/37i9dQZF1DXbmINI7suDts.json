@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 142284,
       "name": "ALRIGHT",
       "url": "https://open.spotify.com/track/69JEE0GJT0Pnc5YrADBAmo"
@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Casa's Journal",
+        "url": "https://open.spotify.com/album/1GCH6CJ00ZBX5C7NCySAyB"
+      },
+      "artists": [
+        {
+          "name": "Suubi",
+          "url": "https://open.spotify.com/artist/7ts7O6y7ymwcgCrYbha3Si"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213765,
+      "name": "Incognizant",
+      "url": "https://open.spotify.com/track/2CFqo7zt3qvKlDL1Lvr09I"
+    },
+    {
+      "album": {
         "name": "Its Crazy",
         "url": "https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh"
       },
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 163243,
       "name": "Omutima",
       "url": "https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW"
@@ -3018,6 +3036,28 @@
       "duration_ms": 163764,
       "name": "Tingatsiga",
       "url": "https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP"
+    },
+    {
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/5hnOuxYNLaVGQaXma3X6i2"
+      },
+      "artists": [
+        {
+          "name": "Mike Mungu",
+          "url": "https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4"
+        },
+        {
+          "name": "Darkua",
+          "url": "https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9"
     },
     {
       "album": {

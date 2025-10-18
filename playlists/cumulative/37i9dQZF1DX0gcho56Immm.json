@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: NEW YORK",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Elias R\u00f8nnenfelt",
   "name": "Cph+",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 142000,
       "name": "14 Rue d'Abbeville",
       "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 179400,
       "name": "4th of July",
       "url": "https://open.spotify.com/track/68ZkOZydnQY3ROFXM5PRZC"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 331000,
       "name": "Amephrey and Ontario",
       "url": "https://open.spotify.com/track/34pLkzjOYuPTC7Seq0bona"
@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "Speak Daggers",
+        "url": "https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209501,
+      "name": "Blunt Force Trauma",
+      "url": "https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg"
+    },
+    {
+      "album": {
         "name": "Sky Record",
         "url": "https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y"
       },
@@ -444,7 +466,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 249795,
       "name": "Channeling codes",
       "url": "https://open.spotify.com/track/3AVfmyHn1XwkupZXPZ0Odg"
@@ -524,7 +546,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 167231,
       "name": "Cold Paris Vogue",
       "url": "https://open.spotify.com/track/0ZquXqzUdelOil2nV3APqN"
@@ -618,7 +640,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 192000,
       "name": "Cute Little Spore",
       "url": "https://open.spotify.com/track/6qRLpNRWAAiaF1SBNmutHs"
@@ -906,7 +928,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 125013,
       "name": "Dust Yourself Off",
       "url": "https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3"
@@ -1170,7 +1192,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 136500,
       "name": "follow your nature",
       "url": "https://open.spotify.com/track/5lyvMhPSs4Lz9XVT9Vyhi4"
@@ -1652,7 +1674,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 446677,
       "name": "Human Siren",
       "url": "https://open.spotify.com/track/0m4w9f4a7JTTMNg16wu3fl"
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 218437,
       "name": "I'm Ready for Love",
       "url": "https://open.spotify.com/track/6bAHE9IuISQLImsUMO6Jgw"
@@ -1876,6 +1898,24 @@
       "duration_ms": 173101,
       "name": "King Jester",
       "url": "https://open.spotify.com/track/2vJm5QcDnbQCUnvoT8472L"
+    },
+    {
+      "album": {
+        "name": "Star Witness",
+        "url": "https://open.spotify.com/album/7MK7820WaDHXhYpEwDWGmr"
+      },
+      "artists": [
+        {
+          "name": "True Blue",
+          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Knives Out",
+      "url": "https://open.spotify.com/track/4w6O6rFcLEKNEOMBRt8b80"
     },
     {
       "album": {
@@ -3138,7 +3178,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 198500,
       "name": "tears on his rings and chains",
       "url": "https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT"
@@ -3272,6 +3312,24 @@
       "duration_ms": 265920,
       "name": "The Turning Ground",
       "url": "https://open.spotify.com/track/6F7j171ZkccR3gA57cLqRR"
+    },
+    {
+      "album": {
+        "name": "Time Time Time (I'm in the Palm of Your Hand)",
+        "url": "https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG"
+      },
+      "artists": [
+        {
+          "name": "Yndling",
+          "url": "https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Time Time Time (I'm in the Palm of Your Hand)",
+      "url": "https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD"
     },
     {
       "album": {
@@ -3510,7 +3568,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 204436,
       "name": "Welcome To The World",
       "url": "https://open.spotify.com/track/3lKFKh93SVsJIDQytBIJ9Q"
@@ -3666,7 +3724,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 154482,
       "name": "YSL",
       "url": "https://open.spotify.com/track/4X5FMCwEdKC9gecjHaNHKh"

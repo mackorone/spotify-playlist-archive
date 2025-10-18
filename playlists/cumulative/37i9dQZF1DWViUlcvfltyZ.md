@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia ⋅˚₊‧ 𐙚 ‧₊˚ ⋅ Sutura in cover ⋅˚₊‧ 𐙚 ‧₊˚ ⋅
 
-1,686 songs - 3 day 21 hr 30 min
+1,686 songs - 3 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1477,6 +1477,7 @@
 | [The Botanist](https://open.spotify.com/track/7nZVVWPrKXaqxBXEJSf77L) | [C'mon Tigre](https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [The Botanist](https://open.spotify.com/album/2LcWpuh7nN5yb3csgRCTFk) | 4:30 | 2023-11-09 | 2023-12-15 |
 | [The Cage](https://open.spotify.com/track/09INTlPvAZek1ujj5ZJfd1) | [Kick](https://open.spotify.com/artist/7hpwmq4RFv77J5dv4MUbtC) | [The Cage](https://open.spotify.com/album/4krs7r5xBJdeI92vedf3rG) | 3:31 | 2024-07-04 | 2024-09-20 |
 | [The Confident Laughter](https://open.spotify.com/track/2GLba1XsDfQp0hdg20ODrI) | [a/lpaca](https://open.spotify.com/artist/3Z4tthOYwn07YlzHDKyv7g) | [Laughter](https://open.spotify.com/album/77A70igQiHLICPlCypqzyj) | 2:23 | 2025-05-15 | 2025-07-18 |
+| [The Death of the Crows](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [X\-ÆON](https://open.spotify.com/album/5ufm3YpuYfSpMyPapW5Vay) | 3:09 | 2025-10-16 |  |
 | [The Decider](https://open.spotify.com/track/3xGWXWaINpE8G6QyL5EY9v) | [Long White Clouds](https://open.spotify.com/artist/5PAF6jT9RrlvY3qZVT1YxE) | [Aeroplanes](https://open.spotify.com/album/5U3ougzaitfsBnR1exYJFj) | 2:55 | 2024-10-24 | 2024-11-29 |
 | [The Depth Of An Answer](https://open.spotify.com/track/4Ctd50Er8N3MIOirhnJl6W) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [The Depth Of An Answer](https://open.spotify.com/album/0IlHcsXe4APAegzwVcKbpe) | 4:10 | 2024-07-18 | 2024-10-25 |
 | [The Dress](https://open.spotify.com/track/2FJJm9ui6HgSRYon2zFrrm) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [The Dress](https://open.spotify.com/album/6zWUyr9x86wmwP1Ve5hfUT) | 8:14 | 2025-03-06 | 2025-04-25 |
@@ -1529,7 +1530,6 @@
 | [Tra chi fugge e chi resta](https://open.spotify.com/track/5YmJTaXU588pytZNYxVWew) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Tra chi fugge e chi resta](https://open.spotify.com/album/6hm4YB2ZEfO02LFQX1rx31) | 2:56 | 2022-05-09 | 2022-06-10 |
 | [TRACCIA](https://open.spotify.com/track/7kYc1qVVzaQU9biiYaMzMY) | [Kalpa](https://open.spotify.com/artist/3lAxLzUBGWRBxuek5rd0F9) | [TRACCIA](https://open.spotify.com/album/65vl4mvwYTCSV8QiTpQZrK) | 3:38 | 2023-10-12 | 2023-11-03 |
 | [TRACCIA 0](https://open.spotify.com/track/70zx9awg1jUxyIRFaCbkXA) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [TRACCIA 0](https://open.spotify.com/album/58p4TduSmi2fRb3YUyaaea) | 2:08 | 2022-11-24 | 2022-12-24 |
-| [Track 3](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [TRAGEDIA MODERNA](https://open.spotify.com/track/3GpDoprJLVqvoEo7mnBGYu) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [TRAGEDIA MODERNA](https://open.spotify.com/album/2syk13vkvcOaq37g60JGGS) | 2:39 | 2023-01-26 | 2023-05-12 |
 | [Trails of Me](https://open.spotify.com/track/0YYOvEXpjVsMPEJaUvFWG5) | [Laeds](https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g) | [Trails of Me](https://open.spotify.com/album/6wjDGE6rWctp7CZm69z9C7) | 4:19 | 2022-08-11 | 2022-09-02 |
 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 | 2023-01-19 | 2023-05-10 |

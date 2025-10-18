@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e2e\u0e34\u0e15 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BamBam",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e2e\u0e34\u0e15 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Taylor Swift",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 243000,
       "name": "a dream",
       "url": "https://open.spotify.com/track/5De5CsOuF6l2tEZtw9eB8w"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 240392,
       "name": "back to you (you're the reason)",
       "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
@@ -1612,6 +1612,24 @@
       "duration_ms": 205400,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/2enUDT2dlL5o3NXB7f7L8E"
+    },
+    {
+      "album": {
+        "name": "Boyband",
+        "url": "https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Boyband",
+      "url": "https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA"
     },
     {
       "album": {
@@ -1982,6 +2000,24 @@
       "duration_ms": 250098,
       "name": "Cha La La Love",
       "url": "https://open.spotify.com/track/2KhRSNn3300KOsh9scrFj2"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
     },
     {
       "album": {
@@ -2720,7 +2756,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 138332,
       "name": "DEPRESSED",
       "url": "https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW"
@@ -3712,6 +3748,28 @@
       "duration_ms": 180486,
       "name": "First Heartbreak",
       "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
+    },
+    {
+      "album": {
+        "name": "FIVE OUT OF FIVE (feat. KwDaGoat)",
+        "url": "https://open.spotify.com/album/3E8Xcmxna2Rikvr3zgJljP"
+      },
+      "artists": [
+        {
+          "name": "Olin MattiBlue",
+          "url": "https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH"
+        },
+        {
+          "name": "KwDaGoat",
+          "url": "https://open.spotify.com/artist/202VS2xf5jB69EoOf6eMEx"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "FIVE OUT OF FIVE (feat. KwDaGoat)",
+      "url": "https://open.spotify.com/track/6z6PrRYPTfGqndzMRtVsPy"
     },
     {
       "album": {
@@ -5262,7 +5320,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 159527,
       "name": "HOME",
       "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
@@ -5702,7 +5760,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 164503,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/52nbGhRpgtW1TnHmlTflJB"
@@ -6762,7 +6820,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 208421,
       "name": "Leave",
       "url": "https://open.spotify.com/track/7GCyLh9De79wwOs9bSaExP"
@@ -7942,10 +8000,28 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 183506,
       "name": "MATADOR (Man I Adore)",
       "url": "https://open.spotify.com/track/4gMF9e4CCYRN8FrtNJShTT"
+    },
+    {
+      "album": {
+        "name": "McDreamy",
+        "url": "https://open.spotify.com/album/5YzPEIQeEkKG48sI0LRCkD"
+      },
+      "artists": [
+        {
+          "name": "Ploy\u00e9",
+          "url": "https://open.spotify.com/artist/0zPfjHRfLOlqXABqNNJyZh"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "McDreamy",
+      "url": "https://open.spotify.com/track/2B4F5wlsQkuIclBSykgyG2"
     },
     {
       "album": {
@@ -8278,7 +8354,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 125786,
       "name": "mood swings",
       "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
@@ -8372,7 +8448,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -8649,6 +8725,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV"
       },
@@ -8696,7 +8790,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
@@ -9166,6 +9260,24 @@
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
+        "name": "Kicking My Feet",
+        "url": "https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174751,
+      "name": "Not What\u2019s Going On",
+      "url": "https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc"
     },
     {
       "album": {
@@ -9843,6 +9955,24 @@
     },
     {
       "album": {
+        "name": "PIXELATED KISSES",
+        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110430,
+      "name": "PIXELATED KISSES",
+      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
+    },
+    {
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -10060,7 +10190,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
@@ -10144,6 +10274,24 @@
       "duration_ms": 198969,
       "name": "PROMISES",
       "url": "https://open.spotify.com/track/1kIYiZ53qHWtOyT9XdIR1Z"
+    },
+    {
+      "album": {
+        "name": "pure white tee",
+        "url": "https://open.spotify.com/album/1Z8N4iaGwczLfmn2yiaJOi"
+      },
+      "artists": [
+        {
+          "name": "kurson",
+          "url": "https://open.spotify.com/artist/2V9D3TWn6MCDI1XbwvxZYz"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "pure white tee",
+      "url": "https://open.spotify.com/track/4D1s6Kz45CXIzoPI2hbnZD"
     },
     {
       "album": {
@@ -10314,7 +10462,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 209224,
       "name": "Retro-39",
       "url": "https://open.spotify.com/track/0dlObt3L90XxFk93xFFAEZ"
@@ -11114,7 +11262,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 214300,
       "name": "shoot",
       "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
@@ -11583,6 +11731,24 @@
     },
     {
       "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/4XUPb1rntAZTacotCGf4lR"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147877,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS"
+    },
+    {
+      "album": {
         "name": "SO RIGHT",
         "url": "https://open.spotify.com/album/1WChRm1I6Y5JlEpwL51ao5"
       },
@@ -11616,6 +11782,24 @@
       "duration_ms": 182970,
       "name": "So Sticky",
       "url": "https://open.spotify.com/track/4amIo7OjJJfViAdcwhGXqt"
+    },
+    {
+      "album": {
+        "name": "So Valentina",
+        "url": "https://open.spotify.com/album/4MpNBUEIRyW0jlsBGPgEDE"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158286,
+      "name": "So Valentina",
+      "url": "https://open.spotify.com/track/4iSrwEafJenKr7hbunxNas"
     },
     {
       "album": {
@@ -12737,6 +12921,28 @@
     },
     {
       "album": {
+        "name": "Talk To You (ft. Elton John)",
+        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317040,
+      "name": "Talk To You (ft. Elton John)",
+      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
+    {
+      "album": {
         "name": "Tallinn",
         "url": "https://open.spotify.com/album/58BG7qaTJWEaNvnoCDCwgp"
       },
@@ -13726,7 +13932,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -14270,7 +14476,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 206360,
       "name": "Until The Sunrise",
       "url": "https://open.spotify.com/track/0zI17xGlm9qDcwQ65NHotE"
@@ -15052,6 +15258,24 @@
       "duration_ms": 220698,
       "name": "WHERE DO WE GO?",
       "url": "https://open.spotify.com/track/188rOZlQ5NZfqTwHj0GHdU"
+    },
+    {
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "album": {

@@ -2169,6 +2169,28 @@
     },
     {
       "album": {
+        "name": "Fourth Strike",
+        "url": "https://open.spotify.com/album/7kZxBOcj87g3gHDAw1ceTq"
+      },
+      "artists": [
+        {
+          "name": "Terror Jr",
+          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
+        },
+        {
+          "name": "King Kylie",
+          "url": "https://open.spotify.com/artist/16PVIKGOsSoCCAIBANjgil"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170677,
+      "name": "Fourth Strike",
+      "url": "https://open.spotify.com/track/4ZYc3kAdPWlhYMnEsjvVr6"
+    },
+    {
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
       },
@@ -3333,6 +3355,24 @@
     },
     {
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139390,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk"
+    },
+    {
+      "album": {
         "name": "Turn Off All The Lights",
         "url": "https://open.spotify.com/album/4HE5bl6sodd4gAXj3COIeJ"
       },
@@ -3348,6 +3388,24 @@
       "duration_ms": 155400,
       "name": "Kiss The Ground",
       "url": "https://open.spotify.com/track/4hXc50b59ywx8cdg9KlHCQ"
+    },
+    {
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/5zovGhIhyYaG1DVYxb6jVs"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/4UewdamYCjn4PfaljS4RAn"
     },
     {
       "album": {
@@ -3522,7 +3580,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -5494,7 +5552,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 183888,
       "name": "Super Graphic Ultra Modern Girl",
       "url": "https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU"
@@ -5654,7 +5712,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 211013,
       "name": "Tia Tamera (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"

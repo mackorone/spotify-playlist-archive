@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-188 songs - 10 hr 4 min
+189 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Be the One](https://open.spotify.com/track/0g1u0CXybYSVLho9gvtLMC) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 2:41 | 2023-12-30 |  |
 | [Beautiful Lies](https://open.spotify.com/track/0DAZbOyfbDxz1HPjMxoE7P) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 2:22 | 2023-12-30 |  |
 | [Best Friend](https://open.spotify.com/track/5TS5vMVVmf1mX1LYHNZdit) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [HAPPY 2 BE HERE](https://open.spotify.com/album/1CGxJ2HpqjEqmU56coDJyW) | 3:14 | 2023-12-30 |  |
+| [Better Sober](https://open.spotify.com/track/6KGZr7QHHthQmUCYmuQtvA) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:20 | 2025-10-17 |  |
 | [Big Girl$ Don't Cry](https://open.spotify.com/track/3WeuZV4NojioFZzpQgTS8V) | [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Big Girl$ Don't Cry](https://open.spotify.com/album/45C6hBhqcivLphFmdVhkf6) | 3:27 | 2023-12-30 |  |
 | [Big Slimes \(feat\. Gunna & Lil Duke\)](https://open.spotify.com/track/4dhZy7EbsbhwIS7C6Ct8mI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 5:27 | 2023-12-30 |  |
 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 | 2023-12-30 |  |
@@ -187,7 +188,7 @@
 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 | 2024-12-11 |  |
 | [Uptown Vibes \(feat\. Fabolous & Anuel AA\)](https://open.spotify.com/track/2tnlNVAhuQGgoFJxALVeXx) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:10 | 2023-12-30 |  |
 | [Ur Best Friend](https://open.spotify.com/track/0LW7qWXhhyQSI88uoRNMwp) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5xv5lAFaTM5HWmzQhk7pEB) | 3:21 | 2023-12-30 | 2024-02-01 |
-| [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 | 2023-12-31 | 2025-10-15 |
+| [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 | 2023-12-31 |  |
 | [Vibez](https://open.spotify.com/track/2RaxPAWpOHyececTv2g8Ib) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez \(Official Video\)](https://open.spotify.com/album/64QMJpyj7fcPaHi3Ba2R5d) | 2:42 | 2023-12-30 | 2024-01-31 |
 | [Vibez](https://open.spotify.com/track/6T6D9CIrHkALcHPafDFA6L) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 2:43 | 2024-01-01 |  |
 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 | 2023-12-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 439,849 likes - 119 songs - 7 hr 6 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 439,795 likes - 120 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,6 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 117 | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/track/7hVUWnMNUl7KIRyvhlVOju) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/album/74Ce2wpn1Lpr4qUMhQZnjA) | 2:22 |
 | 118 | [Next Life](https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Icarus](https://open.spotify.com/album/6dOw1Yt8emqoiDLOulwIHq) | 2:35 |
 | 119 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 |
+| 120 | [Det får världen aldrig veta](https://open.spotify.com/track/5gvf3tnmRlEacNJ5XmaKJV) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 2:31 |
 
-Snapshot ID: `AAAH64FEXskAs1yxfq9C46dNglYkEP9T`
+Snapshot ID: `AAAH7KXYc+dwT+G7upuKyf/osUIg85QZ`

@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 223386,
       "name": "Boys Like You",
       "url": "https://open.spotify.com/track/3VZYMT2OSYxCKPjXCRNgUb"
@@ -532,7 +532,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 148474,
       "name": "Dear Ex",
       "url": "https://open.spotify.com/track/5ND1chgcEd8LzbgRZR1XdX"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 203518,
       "name": "Eat Sleep Live Repeat",
       "url": "https://open.spotify.com/track/5ZnlLC9fhvw7MAlfa82XLH"
@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "SOME TIME",
+        "url": "https://open.spotify.com/album/0JO49cvYSe38tAzixAkAEv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182633,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/2n4IPb5su5yyVarewuw3zF"
+    },
+    {
+      "album": {
         "name": "Metamorphic",
         "url": "https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk"
       },
@@ -844,6 +862,42 @@
       "duration_ms": 184615,
       "name": "Flexing On My Ex",
       "url": "https://open.spotify.com/track/44iPFLk5ZdXu8wivdlTcJB"
+    },
+    {
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174216,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
+    },
+    {
+      "album": {
+        "name": "Four Seasons",
+        "url": "https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188237,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/4ytyLpIwUXbdFsNOvgNnmP"
     },
     {
       "album": {

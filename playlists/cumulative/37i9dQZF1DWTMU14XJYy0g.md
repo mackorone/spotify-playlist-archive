@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Charly Garcia & Sting
 
-421 songs - 1 day 2 hr 7 min
+422 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Diamante Roto](https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:01 | 2024-09-20 |  |
 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 | 2023-07-10 |
 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 | 2024-04-19 | 2024-05-25 |
+| [Dirty Donna](https://open.spotify.com/track/41PlwW2LwnJQCHa3c2L1Qf) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Dirty Donna](https://open.spotify.com/album/6Y8jks0IRkAjXlHvcgDyX3) | 4:24 | 2025-10-17 |  |
 | [Donde vamos](https://open.spotify.com/track/3Wb0obeYtdZxtCcaQ9WEd7) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Donde Vamos](https://open.spotify.com/album/0FurFGkEwgWs6fz96jox1J) | 4:42 | 2024-11-15 |  |
 | [Dos Días en la Vida \- EADDA9223 \(feat\. Lali & Nicki Nicole\)](https://open.spotify.com/track/4oDx5VoqSQJCduO5J5A8MB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 | 2023-05-31 |  |
 | [DOS PARTES](https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [CEREMONIA](https://open.spotify.com/album/0pTQYY91AEEoibVuUH1aQp) | 3:03 | 2025-09-05 | 2025-09-13 |

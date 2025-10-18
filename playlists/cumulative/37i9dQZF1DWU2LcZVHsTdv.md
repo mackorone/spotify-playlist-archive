@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-284 songs - 17 hr 14 min
+285 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Does Heaven Have A Creek](https://open.spotify.com/track/0Bk1zyBpaGrcxyZiSU88Zg) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs From The Album Damascus](https://open.spotify.com/album/6MfkhCFBG2CRw3FZ45wSHi) | 4:20 | 2024-03-01 |  |
 | [Don't Lose Heart](https://open.spotify.com/track/2RIjhcqCoUbl4D5y436PDy) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Don't Lose Heart](https://open.spotify.com/album/2cHZv5Cwg4lWvi6NVs0g0f) | 3:31 | 2023-02-17 | 2025-06-30 |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-05-13 |  |
+| [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 | 2025-10-17 |  |
 | [Everybody Talks To God](https://open.spotify.com/track/4nQ4Ea34XihpPFnJeyoOZ9) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:17 | 2022-07-15 | 2024-04-19 |
 | [Everybody Talks To God](https://open.spotify.com/track/51COR05851Q7xwQVasSPav) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Acoustic Country Hits](https://open.spotify.com/album/6mS7vdbL4zdu9jUXbDnNGi) | 4:17 | 2022-11-04 | 2022-11-13 |
 | [Everybody Talks To God](https://open.spotify.com/track/78NoI7XWKDtir8JvnonJ2y) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Everybody Talks To God](https://open.spotify.com/album/3InfLUe6iHsB6bx05pg9dL) | 4:17 | 2022-01-14 |  |

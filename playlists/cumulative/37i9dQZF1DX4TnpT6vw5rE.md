@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-377 songs - 21 hr 4 min
+378 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Delicate Dreams](https://open.spotify.com/track/07YnCIEOFsTfnjgWRm1rIU) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Delicate Dreams](https://open.spotify.com/album/4iMk0QHtG45zX77fh5uAtg) | 2:36 | 2025-07-15 |  |
 | [Depth of Mind](https://open.spotify.com/track/50AtDtIeRZV9MTXahpjGoD) | [Pásztor Bernadett](https://open.spotify.com/artist/6TrFNdRCffYoRu4FE7CEqX) | [Pásztor Bernadett](https://open.spotify.com/album/5uUY70msqiTGQNOm6hQEVk) | 3:38 | 2020-12-08\* | 2021-03-18 |
 | [Depths of Eternity](https://open.spotify.com/track/1Ujn2n8YOeyXbUM4fAlN0A) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Depths of Eternity](https://open.spotify.com/album/0Xau7RoFSvHQSlqSQoqCDQ) | 2:58 | 2020-12-08\* | 2025-02-27 |
-| [Disconnection](https://open.spotify.com/track/53NPmJBDF7X4wnYkahOEGH) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Disconnection](https://open.spotify.com/album/4vR3ye8Wx2RdA6apR9FgmP) | 2:28 | 2024-05-10 |  |
+| [Disconnection](https://open.spotify.com/track/53NPmJBDF7X4wnYkahOEGH) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Disconnection](https://open.spotify.com/album/4vR3ye8Wx2RdA6apR9FgmP) | 2:28 | 2024-05-10 | 2025-10-18 |
 | [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 | 2025-01-14 |  |
 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-15 |  |
@@ -217,6 +217,7 @@
 | [Mission at Beccles](https://open.spotify.com/track/0873bg61Q7WoVoKJXzNQCD) | [underwaters](https://open.spotify.com/artist/1ISTqu0xKeFelPqY4lYVOM) | [Mission at Beccles](https://open.spotify.com/album/233G9MsUHRJCERpaVpTaFS) | 3:16 | 2021-05-27 | 2024-02-09 |
 | [Mist](https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Mist](https://open.spotify.com/album/2ffssy6IF2Pw4741ITKhqY) | 3:30 | 2021-10-21 | 2023-09-27 |
 | [Morning Song](https://open.spotify.com/track/5xwjyZHMhpl0L1Obp0fV2j) | [Cijon](https://open.spotify.com/artist/1q8BMvpVO3pN4Ade7BWFaj) | [Morning Song](https://open.spotify.com/album/1kewlFuBDRl9Je0mKP0ttc) | 2:37 | 2025-01-14 |  |
+| [Mother it's getting cold outside](https://open.spotify.com/track/28Bq4BkWuHg4QeUhH1he3p) | [Bluedoor](https://open.spotify.com/artist/7vacmKKSFykTCS35rP0JkQ) | [Mother it's getting cold outside](https://open.spotify.com/album/2VMCGwiwI6gLrFuOFVAhrm) | 5:10 | 2025-10-01 |  |
 | [Motion](https://open.spotify.com/track/0JExELrTTlXBvwYXJGIMtT) | [Balam Acab](https://open.spotify.com/artist/49jnSQa0nLfgkSREjJ03Az) | [Wander/Wonder](https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV) | 4:03 | 2020-12-08\* | 2021-09-22 |
 | [Moving](https://open.spotify.com/track/2nmmHSgj6mWaw2FasOy87z) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Third Album](https://open.spotify.com/album/5FJBPsg4NlggVYENdgw8OW) | 2:19 | 2020-12-08\* | 2020-12-25 |
 | [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* | 2025-05-09 |
@@ -243,7 +244,7 @@
 | [Ocelot](https://open.spotify.com/track/7EMDetZnX07SnEvcXR8yEQ) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 4:36 | 2021-01-15 | 2022-07-29 |
 | [Ode to Blue](https://open.spotify.com/track/5slC4oYhwfrRaQfohUUNro) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Ode to Blue](https://open.spotify.com/album/3qI04UX6VcWk6X2Hejl3qk) | 3:57 | 2023-12-01 | 2025-10-02 |
 | [On the Horizon](https://open.spotify.com/track/6LhMfiUFiANHVS6CCsdv9j) | [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [On the Horizon](https://open.spotify.com/album/0pysKRX6glumaLQ8glH5L2) | 1:48 | 2023-02-24 | 2023-07-29 |
-| [Opulence](https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Opulence](https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9) | 2:24 | 2023-04-21 |  |
+| [Opulence](https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ) | [Spherical Harmonics](https://open.spotify.com/artist/6zmgXBf7eD1SpC4O5NJo0H) | [Opulence](https://open.spotify.com/album/1T8mFwmRgnGXLCS6IZBst9) | 2:24 | 2023-04-21 | 2025-10-18 |
 | [Orchid](https://open.spotify.com/track/4sOwnjnmJVbvODmibHP6NA) | [Silentro](https://open.spotify.com/artist/1nYzeNQ4ub0ut3Zq4V88Yl) | [Orchid](https://open.spotify.com/album/5gSmCor6UGPw8cKWg8utL7) | 4:12 | 2025-01-14 |  |
 | [Outlaw](https://open.spotify.com/track/7d8UsuThQiOn5WZ5pdv0Ti) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 3:38 | 2021-01-16 | 2024-09-20 |
 | [Overland Kitted](https://open.spotify.com/track/3ulyr4lWLR9rlSqy64dmil) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Terra Firma](https://open.spotify.com/album/1p33sMa7scJrXZSetrhEb0) | 2:29 | 2023-03-24 | 2024-05-05 |
@@ -262,7 +263,7 @@
 | [Porcelain](https://open.spotify.com/track/4pzv4KCrHJJneaIbmZTJ9Y) | [Aeuria](https://open.spotify.com/artist/1U8stB5JKpJA7atRjrlVtF), [Bijou](https://open.spotify.com/artist/569eb22oPAh6r0CaVsuGto) | [Collection](https://open.spotify.com/album/4724X87VNQtZQSovmdwXJR) | 4:35 | 2021-01-15 | 2021-03-18 |
 | [Prieks](https://open.spotify.com/track/7pDVh7xNFhIBhF6tVSVDBB) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Prieks](https://open.spotify.com/album/0ci5ILaulRbEQGxFMCHBrs) | 2:25 | 2023-02-24 | 2025-10-15 |
 | [Prism](https://open.spotify.com/track/7gGrm4d0lofhpPuZeLrXjN) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Prism](https://open.spotify.com/album/26HLAmiLrUEgmltira0L3V) | 2:58 | 2024-05-10 | 2025-01-15 |
-| [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 | 2020-12-08\* | 2025-05-15 |
+| [Proceed](https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 4:15 | 2020-12-08\* |  |
 | [Quietud](https://open.spotify.com/track/5V5TF6nM3jYyvJENU2P8RK) | [Holographic Seawaves](https://open.spotify.com/artist/0DHRqGYLG6AaLUfbi8mUY1) | [Dusk Thoughts](https://open.spotify.com/album/2UY6uIUDMOrnqGrrSjbg7j) | 2:59 | 2020-12-08\* | 2025-10-09 |
 | [R.E.M](https://open.spotify.com/track/35gC9vbIkLWvbEb6pCvDyp) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [R.E.M](https://open.spotify.com/album/3xJHqeyo6IriZWz5IfNtuX) | 3:13 | 2020-12-08\* | 2021-03-06 |
 | [Radiant](https://open.spotify.com/track/7KMOtD1iXghmWWR2Wn7PEq) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Radiant](https://open.spotify.com/album/1sdwKv0Y7mM3gImhvduqe6) | 2:39 | 2021-08-27 | 2022-05-20 |

@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: BOYNEXTDOOR\)
 
-672 songs - 1 day 11 hr 37 min
+674 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-05-10 | 2024-08-02 |
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-26 | 2025-01-21 |
 | [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-24 | 2024-06-18 |
-| [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 |  |
+| [Gnarly](https://open.spotify.com/track/1j15Ar0qGDzIR0v3CQv3JL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly](https://open.spotify.com/album/25oD4E4cwmG7SCQIoF3ez5) | 2:17 | 2025-05-08 | 2025-10-18 |
 | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/track/4IvttuPCmhLXFoYg2DhWH2) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Gone \(feat\. Loco\)\(prod\. 성국\)](https://open.spotify.com/album/1HyRMR8M7NLcq6Y9MuQtSb) | 3:02 | 2022-04-20 | 2022-06-18 |
 | [Good Girl](https://open.spotify.com/track/60g4aWGlvFq9riY0jrTdtZ) | [Candy Shop](https://open.spotify.com/artist/47bUCJh3LXBeQtrTnWEwXn) | [Hashtag\#](https://open.spotify.com/album/6QQIkAdIkRtvu8G2kzcyaB) | 2:38 | 2024-03-28 | 2024-06-05 |
 | [GOOD SO BAD](https://open.spotify.com/track/28HVi8XtrlKauIVUxSlc6q) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [CINEMA PARADISE](https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF) | 2:57 | 2024-09-11 | 2024-10-24 |
@@ -380,7 +380,7 @@
 | [Miss You](https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Miss You](https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD) | 3:06 | 2023-11-15 | 2024-03-29 |
 | [Missing You \(feat\. Dvwn\)](https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [a tempo](https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno) | 3:13 | 2023-02-15 | 2024-01-03 |
 | [Monster \(feat.노윤하\)](https://open.spotify.com/track/0MsOPluJ1VgCND8FgQEFBx) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [BLACK STREET](https://open.spotify.com/album/14Rb4SqwyoqIIDagxB8Iqm) | 2:36 | 2023-01-31 | 2023-05-02 |
-| [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-20 |  |
+| [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-20 | 2025-10-18 |
 | [More](https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [More](https://open.spotify.com/album/5fdVNrQ2PoMTyhFXPPWu7L) | 2:41 | 2023-01-31 | 2023-08-24 |
 | [MOTTO](https://open.spotify.com/track/4pP9r6Bjx5XxPP4TI3JKIl) | [KIM JONGHYEON](https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM) | [Brilliant Seasons](https://open.spotify.com/album/3tjxCmGQTFo3Dg3hytdLMg) | 2:48 | 2024-01-05 | 2024-04-24 |
 | [MOVE](https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [WAY UP](https://open.spotify.com/album/1TgcRUSvCC0QyuMsaiF3M4) | 3:32 | 2022-05-26 | 2023-02-01 |
@@ -429,6 +429,7 @@
 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-19 | 2024-01-03 |
 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 | 2023-08-23 | 2023-10-30 |
 | [Out of Breath \(Prod\. Ryo, hyeminsong\)](https://open.spotify.com/track/1eFgtBIxUe0t8kHQJxfezQ) | [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2), [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [Monthly AP \- May, 2024](https://open.spotify.com/album/6UohaSRYdEPaSvS8SIUvMX) | 3:25 | 2024-05-30 | 2024-08-02 |
+| [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 | 2025-10-17 |  |
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-01-31 | 2024-01-03 |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-10-05 | 2024-03-29 |
 | [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 | 2024-04-24 | 2025-01-21 |
@@ -658,6 +659,7 @@
 | [With U](https://open.spotify.com/track/1rZsc6Aob7PySzwhdBYnD5) | [JoOhA](https://open.spotify.com/artist/3hkgIaHRJ0slOoCa8zUFVX) | [INSIDE US](https://open.spotify.com/album/1qnoKqr14E0DWdcYcZSW4m) | 3:24 | 2021-12-30 | 2022-01-22 |
 | [With You Back Then](https://open.spotify.com/track/1yp7CNSVBSjrXrRdS7EWUX) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [With You Back Then](https://open.spotify.com/album/7ErveJVCxFgPDk0PVqk5VR) | 2:41 | 2024-03-21 | 2024-06-01 |
 | [Without U](https://open.spotify.com/track/4I8UOVsfrrR1rwD5NSRLlD) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [INSIDE OUT](https://open.spotify.com/album/791UCNthor64Y8rgUk8UaL) | 3:12 | 2024-01-26 | 2025-01-21 |
+| [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 | 2025-10-17 |  |
 | [Wonderland](https://open.spotify.com/track/2TUmKunDoPPtbBT8XKG0Ws) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Wonderland](https://open.spotify.com/album/2VcYAVXPKgKeTThst7wH4N) | 2:55 | 2025-05-08 | 2025-10-04 |
 | [WOULD YOU RUN](https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [VENI VIDI VICI](https://open.spotify.com/album/3mQBrnm5x439zf6Fa5Zhic) | 3:24 | 2021-12-30 | 2023-01-12 |
 | [WYTD \(Feat\. JOONIE\)](https://open.spotify.com/track/7dVBCTWjY7a95cIuAn2p77) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [JOONIE](https://open.spotify.com/artist/3eXkt1nVfgCsKiMIupInVZ) | [WYTD \(Feat\. JOONIE\)](https://open.spotify.com/album/5vhgWZQw7RDKxAVKYww1t7) | 2:38 | 2025-03-27 | 2025-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Charlie Puth in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,889 likes - 110 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,899 likes - 110 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 14 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 15 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
 | 16 | [pacco fragile](https://open.spotify.com/track/3m5iviWbkYPeBXuXL6mPPQ) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 2:45 |
-| 17 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [](https://open.spotify.com/album/null) | 2:45 |
+| 17 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:45 |
 | 18 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
 | 19 | [I Don't Know](https://open.spotify.com/track/3VpsX3FQtzuT5disfvvA5x) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Erika](https://open.spotify.com/artist/5N9lpSK39RSCDkLxPNH4KC) | [I Don't Know](https://open.spotify.com/album/0zxrmP9YHEiryYUVlgseI8) | 2:36 |
 | 20 | [Arizona \(feat\. Achille Lauro\)](https://open.spotify.com/track/4wvSmUCIARYTpmdY2kioTO) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Antologia Della Vita e Della Morte](https://open.spotify.com/album/7uHhBNrQ4PR4121dBMddIm) | 2:49 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 23 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
 | 24 | [igloo](https://open.spotify.com/track/0YJVwpBTr8SZXyf3e4Xpso) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 2:49 |
 | 25 | [Pretending](https://open.spotify.com/track/3DpXBc7bzSDWA7G1lrhi7P) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pretending](https://open.spotify.com/album/5GNrY0z2yqaOOcvbmq1t5m) | 2:35 |
-| 26 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [](https://open.spotify.com/album/null) | 3:06 |
+| 26 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:06 |
 | 27 | [Nuvole](https://open.spotify.com/track/53lZXLaN35nF2DyOqZhPUJ) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Nuvole](https://open.spotify.com/album/0ZATJzw34JipN4Wac9FTIs) | 3:44 |
 | 28 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 |
 | 29 | [barry wonder](https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [10.93](https://open.spotify.com/artist/53BnYElQOxKgzc1VkSdDWc) | [barry wonder](https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt) | 2:42 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 35 | [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 |
 | 36 | [Goodbye Utopia](https://open.spotify.com/track/4ShHg8ydhhK2d3xcsnvDLf) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Goodbye Utopia](https://open.spotify.com/album/1AfYjUHRD8AcIQYBLajrXa) | 3:42 |
 | 37 | [Thinking Bout Your Ex](https://open.spotify.com/track/5PoYHehSDtGWTnhW0dZPvF) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Thinking Bout Your Ex](https://open.spotify.com/album/6IrdDANwLhsSwbRPR5Q2pj) | 2:32 |
-| 38 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [](https://open.spotify.com/album/null) | 3:14 |
+| 38 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 |
 | 39 | [Raccontarti](https://open.spotify.com/track/7tN4INc7O0cBAlol5Ka0IV) | [Anelz](https://open.spotify.com/artist/22i4WsIEb5SrklS4YHknCl) | [Raccontarti](https://open.spotify.com/album/2OJfGhXB9WuGAz5fNnBLIw) | 2:51 |
 | 40 | [Per non farti del male](https://open.spotify.com/track/0zCTUDeQ9PD6qU6tRtG5r1) | [Renato D'Amico](https://open.spotify.com/artist/2u9esjWV33bedmIU35gTsz) | [Per non farti del male](https://open.spotify.com/album/3sioYz6cPt26MmRBburV1r) | 3:39 |
 | 41 | [Caro Bimbo](https://open.spotify.com/track/0Tc4krXU0Ik7QMhmQ8lTF9) | [RAIA](https://open.spotify.com/artist/4gGaoJbsd36z8nAKgOhYtX) | [Caro Bimbo](https://open.spotify.com/album/2ak6FEhPF3LVlCUg7WucmD) | 3:22 |

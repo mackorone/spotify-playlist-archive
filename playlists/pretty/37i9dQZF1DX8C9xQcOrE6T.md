@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,615,352 likes - 136 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,615,899 likes - 135 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 132 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 |
 | 133 | [We Own the Night](https://open.spotify.com/track/3n1lJB7m8iNDToXJVzIHD2) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:30 |
 | 134 | [Chim Chim Cher\-ee \- From "Mary Poppins"/Soundtrack Version](https://open.spotify.com/track/2Bl4ZuWiMoffCXzj11s0oR) | [Dick Van Dyke](https://open.spotify.com/artist/6XIT5sGHOtxVgqtSnMCYZ6), [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Karen Dotrice](https://open.spotify.com/artist/2vHx2wi7daCLxHL0jKOZiz), [Matthew Garber](https://open.spotify.com/artist/3YDM76Dml4Pyo8H7JSfafZ) | [Saving Mr\. Banks \(Original Motion Picture Soundtrack \[Deluxe Edition\]\)](https://open.spotify.com/album/1cuE3waPR1CDFUpYd6fX12) | 2:46 |
-| 135 | [The Aristocats](https://open.spotify.com/track/1yTZjNU4R0pYNpXwyl37bE) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Songs From The Aristocats](https://open.spotify.com/album/2FeAtX8kDxc62NtpWNW93Z) | 2:20 |
-| 136 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
+| 135 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
 
-Snapshot ID: `AAAAAOkrEddsiL8tWLPCbmh2GX9scmwY`
+Snapshot ID: `AAAAANRIxYL4iBApxLRgvt6KUtAjS1HX`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-05",
-  "description": "For frolicking joyously, freely and theatrically in this world. Everybody scream.",
+  "description": "For frolicking joyously, freely and theatrically in this world. ",
   "name": "Frolic",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 266840,
       "name": "Blindness",
       "url": "https://open.spotify.com/track/7Apb2lh3o9cYUUHziHNuNN"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 201414,
       "name": "Burn Alive",
       "url": "https://open.spotify.com/track/54wX7jxwKL2TQS9itIIMyJ"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 257961,
       "name": "Cassandra",
       "url": "https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 341533,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
@@ -726,6 +726,24 @@
       "duration_ms": 202520,
       "name": "God Help The Girl",
       "url": "https://open.spotify.com/track/5H3tZqdgoP10JunTpcUFvL"
+    },
+    {
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
     },
     {
       "album": {
@@ -830,7 +848,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 249733,
       "name": "Heart Of Glass - Remix",
       "url": "https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB"
@@ -902,7 +920,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 179626,
       "name": "How Cool Are You?",
       "url": "https://open.spotify.com/track/2THybN4wsfcQytjNCgqUqN"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 212760,
       "name": "Hunt You Down",
       "url": "https://open.spotify.com/track/18BXVZ04Xm9eiSyFpD5PJE"
@@ -1000,6 +1018,24 @@
       "duration_ms": 207320,
       "name": "I Belong In Your Arms",
       "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
+    },
+    {
+      "album": {
+        "name": "I hate goodbyes",
+        "url": "https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb"
+      },
+      "artists": [
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229484,
+      "name": "I hate goodbyes",
+      "url": "https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV"
     },
     {
       "album": {
@@ -1086,10 +1122,28 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 246531,
       "name": "It's You I'm Thinking Of",
       "url": "https://open.spotify.com/track/5NhgbKPPAfqysrgNtap1sU"
+    },
+    {
+      "album": {
+        "name": "Itsumo",
+        "url": "https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251477,
+      "name": "Itsumo",
+      "url": "https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw"
     },
     {
       "album": {
@@ -1108,6 +1162,24 @@
       "duration_ms": 226004,
       "name": "i\u2019m not where you are",
       "url": "https://open.spotify.com/track/78SGZtfbQvRgksFdwmhvVV"
+    },
+    {
+      "album": {
+        "name": "The Life You Save",
+        "url": "https://open.spotify.com/album/7fuPhH0QTTl13WgshkTAP6"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266546,
+      "name": "Keep Me in the Dark",
+      "url": "https://open.spotify.com/track/1UXrY8dRPFVkkB8MiwpT3T"
     },
     {
       "album": {
@@ -1378,7 +1450,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 194866,
       "name": "Nameless, Faceless",
       "url": "https://open.spotify.com/track/0fFnW0kBnQWtIkXjWj8nay"
@@ -1414,7 +1486,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 214448,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/0hqwO626QOUFYQjuKSkgOJ"
@@ -1450,7 +1522,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 203876,
       "name": "Oh No Darling!",
       "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
@@ -1468,7 +1540,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 223297,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/0fS7ky2DbFmF0q1Sn6UfYM"
@@ -1547,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "And Your Song is Like a Circle",
+        "url": "https://open.spotify.com/album/62MKnX9dinEbi3Zz9w6rx8"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139880,
+      "name": "Periphery",
+      "url": "https://open.spotify.com/track/0xOdoUtljxXLrkpPxaS7tr"
+    },
+    {
+      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/4hW2wvP51Myt7UIVTgSp4f"
       },
@@ -1558,7 +1648,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 182306,
       "name": "Pressure to Party",
       "url": "https://open.spotify.com/track/13LsKYpr3ZNMTRu0Lo8Z7R"
@@ -1576,7 +1666,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 200080,
       "name": "Queen of Queens",
       "url": "https://open.spotify.com/track/6EWubgUbG1zMf9Qv0PhTBZ"
@@ -1594,7 +1684,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 214586,
       "name": "Radio",
       "url": "https://open.spotify.com/track/5AsqDGKlZ7fGC6oeRIiPWx"
@@ -1612,7 +1702,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 180693,
       "name": "Raining All The Time",
       "url": "https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI"
@@ -1666,7 +1756,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 244866,
       "name": "Right Round The Clock",
       "url": "https://open.spotify.com/track/3P5FUlYdeVrm4YJfcW4Gc1"
@@ -1774,7 +1864,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 248603,
       "name": "Shameika",
       "url": "https://open.spotify.com/track/2pDKE8Q40TDGPl1O11DKKn"
@@ -1846,7 +1936,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 152250,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/07y6bV4WGg4t6zyGdMgVPl"
@@ -1961,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Teenage Messiah",
+        "url": "https://open.spotify.com/album/0NQeE4xYtYeTOrbilll4Ao"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296724,
+      "name": "Teenage Messiah",
+      "url": "https://open.spotify.com/track/5BqaUUlhK73bzyN3edyvVA"
+    },
+    {
+      "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
       },
@@ -1972,10 +2080,28 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 206571,
       "name": "The Feminine Urge",
       "url": "https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb"
+    },
+    {
+      "album": {
+        "name": "After EP 2",
+        "url": "https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "The Field",
+      "url": "https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL"
     },
     {
       "album": {
@@ -1994,6 +2120,24 @@
       "duration_ms": 323822,
       "name": "The Grand Finale",
       "url": "https://open.spotify.com/track/74n5RtmaGN34x9wRRa8iCI"
+    },
+    {
+      "album": {
+        "name": "From The Pyre",
+        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285240,
+      "name": "The Scythe",
+      "url": "https://open.spotify.com/track/17MtSCJEauhLFqseQxQl7N"
     },
     {
       "album": {
@@ -2206,10 +2350,28 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 227911,
       "name": "Waves (Hope Lies Ahead)",
       "url": "https://open.spotify.com/track/2Nfig65JFcyxN0FEBEswTg"
+    },
+    {
+      "album": {
+        "name": "Red Brick / Whale Station",
+        "url": "https://open.spotify.com/album/7EVzAURmuTIhI7oCyG4ODO"
+      },
+      "artists": [
+        {
+          "name": "The New Eves",
+          "url": "https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339892,
+      "name": "Whale Station",
+      "url": "https://open.spotify.com/track/5HFCMhMGVVgUGDN8vk925h"
     },
     {
       "album": {

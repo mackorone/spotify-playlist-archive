@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Courtney Barnett
 
-731 songs - 1 day 17 hr 4 min
+731 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Floor Bed](https://open.spotify.com/track/71WFVHWTNNapuYFUVTJeiF) | [Hevenshe](https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft) | [Floor Bed](https://open.spotify.com/album/6LgTv7ySjL9Nb4OEY92zrY) | 2:57 | 2025-06-05 | 2025-08-29 |
 | [Flowers](https://open.spotify.com/track/6g3cCeJFUpQccZwo2ELfen) | [Chasing Ghosts](https://open.spotify.com/artist/5MoQy2vfGU7mfbrwLeE7FZ) | [Flowers](https://open.spotify.com/album/1Oes0lFU9ZPC2mxmRtWna5) | 3:28 | 2025-05-15 | 2025-08-08 |
 | [For Your Health](https://open.spotify.com/track/6z7wAQaMhDtrLDZpOV6wyW) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [For Your Health](https://open.spotify.com/album/52rvyNcqZvJgTGhlgHXpro) | 2:53 | 2025-04-10 | 2025-05-02 |
-| [Forget It](https://open.spotify.com/track/3ZmRkqgqnFXM5SGtQYPsrd) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [](https://open.spotify.com/album/null) | 3:42 | 2025-10-16 |  |
+| [Forget It](https://open.spotify.com/track/3ZmRkqgqnFXM5SGtQYPsrd) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/6M5huKqv40q9EVmEUcl0jk) | 3:42 | 2025-10-16 |  |
 | [Forget It](https://open.spotify.com/track/3Ua35RDWo0WH4e9OB3oYH2) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Forget It](https://open.spotify.com/album/3erXMb951jpnk0myQyvoKW) | 2:45 | 2024-09-09 | 2024-11-15 |
 | [Forgiving Spree](https://open.spotify.com/track/1tdUG5ixeBncyeZdB79qEH) | [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Forgiving Spree](https://open.spotify.com/album/0AawNGk3Ytg62Q97Yjxt8a) | 3:28 | 2024-09-12 | 2025-01-24 |
 | [Free As Hell](https://open.spotify.com/track/06uJf6Re1meuruxWc4UT6p) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [Free As Hell](https://open.spotify.com/album/660q3cUSBXyj3Ib3jxfRqx) | 2:28 | 2025-02-20 | 2025-04-04 |
@@ -264,7 +264,7 @@
 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 | 2025-10-02 |  |
 | [Good Faith](https://open.spotify.com/track/3QtBcoUHLb4t2nbpbGVrTN) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Good Faith](https://open.spotify.com/album/0yHblQTIkCC6o6RTIbPVcK) | 2:52 | 2025-08-07 | 2025-10-03 |
 | [Greatest Hit](https://open.spotify.com/track/04AwWTQpmjc8Pln67jxou6) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Greatest Hit](https://open.spotify.com/album/0L2O3JD8zvDNChgDCp6qpJ) | 3:41 | 2024-09-19 | 2025-01-17 |
-| [Greener](https://open.spotify.com/track/3xjG4x6u2xTLWADWgrDiPU) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [](https://open.spotify.com/album/null) | 2:25 | 2025-10-16 |  |
+| [Greener](https://open.spotify.com/track/3xjG4x6u2xTLWADWgrDiPU) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Coast Arcade](https://open.spotify.com/album/5PvbYVaQmAVrbzdZEohvdA) | 2:25 | 2025-10-16 |  |
 | [GROW UP / NIC SICK](https://open.spotify.com/track/0vxH5NujQ15KPwgmGgiKLV) | [CHEAP\-SKATE](https://open.spotify.com/artist/3c3StjVdJb72LvLknQfbEC) | [GROW UP / NIC SICK](https://open.spotify.com/album/0RS2SeovHE8h3EyCNAPwat) | 4:15 | 2024-10-24 | 2024-11-29 |
 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-05-15 | 2025-06-06 |
 | [Guillotine](https://open.spotify.com/track/6FrJGY0a8kl6kx3k3P03Y2) | [OH! Daisy](https://open.spotify.com/artist/4vHTaAnr8RGRXrjpIBatOQ) | [Guillotine](https://open.spotify.com/album/70TDhd6mFORgQZSRVdo5Ro) | 2:30 | 2025-05-15 | 2025-08-29 |
@@ -457,6 +457,7 @@
 | [Once Is Never Enough](https://open.spotify.com/track/2aaSEkicYPxHnqNLp8Vtqs) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Once Is Never Enough](https://open.spotify.com/album/3EpWegEfj7PSf8JNTwW8Qk) | 3:20 | 2025-03-20 | 2025-06-06 |
 | [One Day](https://open.spotify.com/track/26OECDLRQBGRf4c7QDUdso) | [The Velvet Club](https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5) | [Space Between](https://open.spotify.com/album/2qAuT4NBNUKsxC6rwVMIPp) | 3:17 | 2024-08-22 | 2024-09-27 |
 | [One Metaphor](https://open.spotify.com/track/7vPHuU32t236AX3w2jW4SN) | [Arbes](https://open.spotify.com/artist/4EJsm8GVADYCXpKNNrFjtu) | [One Metaphor](https://open.spotify.com/album/2LPd8kbzqnhQy3Hm3lEpD5) | 5:06 | 2024-10-17 | 2024-11-15 |
+| [One Of These Nights \(I'll Be Gone\)](https://open.spotify.com/track/2cIvJuXeCHzUMM9XwRDVUf) | [The Southern River Band](https://open.spotify.com/artist/77giZvm3lPMYiI79FmmS31) | [Easier Said Than Done](https://open.spotify.com/album/57vDmUO6CgH1itagBGsNLM) | 4:09 | 2025-10-16 |  |
 | [One on One](https://open.spotify.com/track/06gPKlZOd0kvQmxLB4yXnW) | [Program](https://open.spotify.com/artist/5feuD3OclZgbRrUdau2wL3) | [One on One](https://open.spotify.com/album/0GQQvjMDFqSINU7pG2X4oV) | 3:40 | 2024-06-06 | 2024-08-02 |
 | [One Way Ticket](https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M) | [One Way Ticket](https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY) | 3:27 | 2025-01-30 | 2025-06-27 |
 | [Only A Fool](https://open.spotify.com/track/4CCb9VExF2Fpwt0TWqJOO8) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Only A Fool](https://open.spotify.com/album/1zzRplgwH1g2FX4QDfuRLU) | 4:18 | 2024-11-07 | 2024-12-13 |
@@ -687,7 +688,6 @@
 | [Tonight, I](https://open.spotify.com/track/699mnYsUGvnx3hP5WfcRRA) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [The Novel](https://open.spotify.com/album/0wrWV4wYGC2QXcp3wIDpus) | 3:47 | 2024-05-24 | 2024-07-12 |
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 12](https://open.spotify.com/track/2cIvJuXeCHzUMM9XwRDVUf) | [The Southern River Band](https://open.spotify.com/artist/77giZvm3lPMYiI79FmmS31) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 |  |
 | [Trip Hazard](https://open.spotify.com/track/5vmbouG8UIOoKQYKrnTc55) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Trip Hazard](https://open.spotify.com/album/0fgoHh6b6b8SDeaYBK068h) | 2:49 | 2024-05-24 | 2024-07-27 |

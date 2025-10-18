@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with Tobias Forge of <a href="https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D?si=c6cdd622f63042d2">Ghost</a>, who shares the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,099 likes - 36 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,107 likes - 36 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

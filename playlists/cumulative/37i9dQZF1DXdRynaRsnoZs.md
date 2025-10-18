@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-106 songs - 4 hr 9 min
+108 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [](https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4aBHuJfciuVyOcgAXX2NvJ) | 0:00 | 2021-12-22 | 2022-09-20 |
 | [](https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7CrpddnQnNkNBQEAJ0ci6a) | 0:00 | 2021-12-22 | 2022-09-20 |
 | [A Child Is Born](https://open.spotify.com/track/08Ro6cXojRdwIpXWgSLcHg) | [Adam Hart](https://open.spotify.com/artist/0K2mOIo1scrrzg1IWBOnre) | [A Child Is Born](https://open.spotify.com/album/6dM8j77Mp1zqgv7IqwTWkH) | 1:39 | 2023-10-27 |  |
+| [A Cradle In Bethlehem](https://open.spotify.com/track/2CvD2eaE1h85BBStEwNDZF) | [Cassius Ember](https://open.spotify.com/artist/7vvfs3GQVOOOiZE5WsNgWj) | [A Cradle In Bethlehem](https://open.spotify.com/album/5F3IF90j2FZFnLebMC7vea) | 2:40 | 2025-10-17 |  |
 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/12m082qt1zlO0KybXIVgnu) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Christmas Time Is Here](https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf) | 1:19 | 2022-09-22 | 2025-09-05 |
 | [Amazing Grace](https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e) | [John Newton](https://open.spotify.com/artist/0s64WzYrpQpkuTa0V3hOPe), [Edwin Othello Excell](https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz), [Bae Bee](https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV) | [Little Star](https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm) | 2:47 | 2022-12-16 |  |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 | 2021-12-22 |  |
@@ -90,6 +91,7 @@
 | [Silent Night](https://open.spotify.com/track/1DR9eaJOZgazwu5PZWBr7H) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Silent Night](https://open.spotify.com/album/6GXdvyxnjzBYejYmdFMO4T) | 2:26 | 2023-11-16 | 2025-09-05 |
 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 | 2021-12-22 | 2023-11-18 |
 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 | 2021-12-22 | 2022-10-15 |
+| [Silent Night](https://open.spotify.com/track/1CyiwCEiHfkMTSpDQKmc5n) | [Snuggle Fox](https://open.spotify.com/artist/7vOVw82Q1fc9PQEtQ1HIXh) | [Silent Night](https://open.spotify.com/album/0qEzwA3gvpH9trp6tdkNdE) | 1:57 | 2025-10-17 |  |
 | [Silent Night](https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C) | [Tetra String Quartet](https://open.spotify.com/artist/2BbGMsh39jP6OWlY9JQDv7) | [Tetra String Quartet Christmas](https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK) | 3:20 | 2021-12-22 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/58nFp57WdGVDm5hXNtnfLW) | [US Two](https://open.spotify.com/artist/6diA719p2OaW6zQnXCbRO9) | [Silent Night](https://open.spotify.com/album/7knQWBv9dQ3HUgZ3zHB6rH) | 3:03 | 2021-12-22 | 2022-10-15 |
 | [Silver Bells](https://open.spotify.com/track/2aGgTEJFKaodysFjnViaXg) | [Gabriel Atkinson](https://open.spotify.com/artist/3STDUdNiJtmSG8yzbE76bq) | [Silver Bells](https://open.spotify.com/album/3fXsUAjOcpW0OBXd0NBgT3) | 1:42 | 2022-10-24 | 2025-09-05 |

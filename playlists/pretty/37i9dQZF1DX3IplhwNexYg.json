@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 114970,
+  "num_followers": 114975,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH/Ra0/WO3NhIhxVrA9FO3iUvnpR",
+  "snapshot_id": "AAAAAHp36ahmluqVdcDmLkumh5Vli/cn",
   "tracks": [
     {
       "added_at": "2025-09-12 12:57:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "car",
-        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 197396,
-      "name": "car",
-      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "lucre",
         "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "car",
+        "url": "https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 197396,
+      "name": "car",
+      "url": "https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Shelly 2",
-        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 172839,
-      "name": "Hartwell",
-      "url": "https://open.spotify.com/track/4TLXwgCmciX8sYIVj1b7Xg"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Manning Fireworks",
         "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
       },
@@ -383,22 +367,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "say something",
         "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
       },
@@ -411,6 +379,38 @@
       "duration_ms": 144544,
       "name": "say something",
       "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Shelly 2",
+        "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 172839,
+      "name": "Hartwell",
+      "url": "https://open.spotify.com/track/4TLXwgCmciX8sYIVj1b7Xg"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/115eVVoPwI1MnXrEA0IEYv"
     },
     {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Nack Nostalgia",
+        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Nack Nostalgia",
+      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
+    },
+    {
       "added_at": "2025-10-03 13:34:33",
       "album": {
         "name": "One Simple Trick",
@@ -543,22 +559,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Nack Nostalgia",
-        "url": "https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 187433,
-      "name": "Nack Nostalgia",
-      "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -671,22 +687,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "QUIT QUIETLY",
         "url": "https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 169850,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 203007,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Racing Mount Pleasant",
         "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 301744,
       "name": "Outlast",
       "url": "https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 203007,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG"
     },
     {
-      "added_at": "2025-09-01 14:27:56",
+      "added_at": "2025-10-03 13:34:33",
       "album": {
-        "name": "Soak",
-        "url": "https://open.spotify.com/album/1PGXOxv1Gb6NiWHmei4lWe"
+        "name": "ENDLESS DEATHLESS",
+        "url": "https://open.spotify.com/album/6tY1OSYObW3x7KAjOXYSeW"
       },
       "artists": [
         {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
         }
       ],
-      "duration_ms": 214490,
-      "name": "Soak",
-      "url": "https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt"
+      "duration_ms": 251040,
+      "name": "ENDLESS DEATHLESS",
+      "url": "https://open.spotify.com/track/6TmdbHXUuwNbO7gOeuRmVG"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
     },
     {
-      "added_at": "2025-10-03 13:34:33",
+      "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "ENDLESS DEATHLESS",
-        "url": "https://open.spotify.com/album/6tY1OSYObW3x7KAjOXYSeW"
+        "name": "Soak",
+        "url": "https://open.spotify.com/album/1PGXOxv1Gb6NiWHmei4lWe"
       },
       "artists": [
         {
-          "name": "Just Mustard",
-          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
         }
       ],
-      "duration_ms": 251040,
-      "name": "ENDLESS DEATHLESS",
-      "url": "https://open.spotify.com/track/6TmdbHXUuwNbO7gOeuRmVG"
+      "duration_ms": 214490,
+      "name": "Soak",
+      "url": "https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
     },
     {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Year of the Snake",
+        "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310266,
+      "name": "Year of the Snake",
+      "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
+    },
+    {
       "added_at": "2025-09-12 12:57:00",
       "album": {
         "name": "What You Need",
@@ -1023,22 +1039,6 @@
       "duration_ms": 230513,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Year of the Snake",
-        "url": "https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "Year of the Snake",
-      "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "A Question of You",
-        "url": "https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 222667,
-      "name": "A Question of You",
-      "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Love Me Please",
         "url": "https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv"
       },
@@ -1151,22 +1135,6 @@
       "duration_ms": 158667,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Crying Over Nothing",
-        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 195394,
-      "name": "Crying Over Nothing",
-      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1187,18 +1155,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Wound Up Here (By Holdin On)",
-        "url": "https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP"
+        "name": "A Question of You",
+        "url": "https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
         }
       ],
-      "duration_ms": 208653,
-      "name": "Wound Up Here (By Holdin On)",
-      "url": "https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso"
+      "duration_ms": 222667,
+      "name": "A Question of You",
+      "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1235,6 +1203,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Crying Over Nothing",
+        "url": "https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 195394,
+      "name": "Crying Over Nothing",
+      "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Nights in Armor",
-        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
+        "name": "Wound Up Here (By Holdin On)",
+        "url": "https://open.spotify.com/album/4wnZf8zsBvVItY3kAqzXLP"
       },
       "artists": [
         {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 189650,
-      "name": "Nights in Armor",
-      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
+      "duration_ms": 208653,
+      "name": "Wound Up Here (By Holdin On)",
+      "url": "https://open.spotify.com/track/4R7VfFjWXa62I3nDmiwAso"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Besties",
-        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+        "name": "Nights in Armor",
+        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
       },
       "artists": [
         {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
         }
       ],
-      "duration_ms": 216757,
-      "name": "Besties",
-      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
+      "duration_ms": 189650,
+      "name": "Nights in Armor",
+      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1327,6 +1311,22 @@
       "duration_ms": 263537,
       "name": "Cowbella",
       "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Besties",
+        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1457,38 +1457,6 @@
       "url": "https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq"
     },
     {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Salesman",
-        "url": "https://open.spotify.com/album/1VNPxU0B6SpzxhWxC5p8Oa"
-      },
-      "artists": [
-        {
-          "name": "Greg Freeman",
-          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
-        }
-      ],
-      "duration_ms": 222224,
-      "name": "Salesman",
-      "url": "https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "The Recogniser",
-        "url": "https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs"
-      },
-      "artists": [
-        {
-          "name": "Terra Twin",
-          "url": "https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT"
-        }
-      ],
-      "duration_ms": 206822,
-      "name": "The Recogniser",
-      "url": "https://open.spotify.com/track/417nPuKG03pek6PIuZGtae"
-    },
-    {
       "added_at": "2025-10-03 13:34:33",
       "album": {
         "name": "I Don't Have The Heart",
@@ -1503,6 +1471,22 @@
       "duration_ms": 151141,
       "name": "I Don't Have The Heart",
       "url": "https://open.spotify.com/track/5UmizVFS7HYrVBr6CCPjtN"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "duration_ms": 237410,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1523,18 +1507,34 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/4NxS4NguqqcM44Yh9Wn9lp"
+        "name": "The Recogniser",
+        "url": "https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs"
       },
       "artists": [
         {
-          "name": "Cliffords",
-          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+          "name": "Terra Twin",
+          "url": "https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT"
         }
       ],
-      "duration_ms": 237410,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/71NmSLUZGoU5UP9JFyhIiz"
+      "duration_ms": 206822,
+      "name": "The Recogniser",
+      "url": "https://open.spotify.com/track/417nPuKG03pek6PIuZGtae"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Salesman",
+        "url": "https://open.spotify.com/album/1VNPxU0B6SpzxhWxC5p8Oa"
+      },
+      "artists": [
+        {
+          "name": "Greg Freeman",
+          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+        }
+      ],
+      "duration_ms": 222224,
+      "name": "Salesman",
+      "url": "https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
       },
       "artists": [
         {
-          "name": "sleepazoid",
-          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 250268,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     }
   ],
   "unique_name": "pulp",

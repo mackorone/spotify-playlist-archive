@@ -1,15 +1,107 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 58444,
+  "num_followers": 58465,
   "original_name": "Todd Terry's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxeDbz2GGFl6qZ+I7KmCWrXQpSl",
+  "snapshot_id": "AAAAADWehYV94qcP1GVKxnMqmHFBV8Qb",
   "tracks": [
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Too Big For B-Side",
+        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 224414,
+      "name": "Like I Like It",
+      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "People In The House",
+        "url": "https://open.spotify.com/album/6Vo28J0GeP2HvbGhO6MwQE"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "People In The House",
+      "url": "https://open.spotify.com/track/3hIiOP5i5VD9ULECwcCDbt"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/5zwJaPZbR9URaWHqCx5Qin"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        },
+        {
+          "name": "Earth n Days",
+          "url": "https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/7nj9KmrlNU0RnVl8kogfyd"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "I Can't Stop",
+        "url": "https://open.spotify.com/album/7DkxBv4PwnB5iohygLErQk"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lyn Jada",
+          "url": "https://open.spotify.com/artist/5QD9BTJb8QvdHog0dec7QD"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "I Can't Stop - Edit",
+      "url": "https://open.spotify.com/track/47KnY44K4mfTcbjuqGrpIh"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Get Deep",
         "url": "https://open.spotify.com/album/1GO0TeT5aL6qgCCSygwwYU"
@@ -33,39 +125,39 @@
       "url": "https://open.spotify.com/track/2KZRg2Bh3U1PtDsQgNc0wu"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "TESLA",
-        "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
         }
       ],
-      "duration_ms": 186818,
-      "name": "TESLA",
-      "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
+      "duration_ms": 181500,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/6Ohvh7RHzKlIPAdP4mCnk4"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2sGhLWYHH6NydU3qzFtpx2"
       },
       "artists": [
         {
-          "name": "Hatiras",
-          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+          "name": "Deep Fiktion",
+          "url": "https://open.spotify.com/artist/03KjoCxp7LWEqTAV0EN1Le"
         }
       ],
-      "duration_ms": 173167,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/3p3pXvnwSuVE1srNdK1PrN"
+      "duration_ms": 216000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0px8BplofiGcWy8GgfmVpL"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Deep Inside",
         "url": "https://open.spotify.com/album/1RCUm0QaiUMJxkdFLawDU0"
@@ -85,83 +177,27 @@
       "url": "https://open.spotify.com/track/7mrauQo5bJ8hPPqJ0HfDyZ"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "Mind, Body & Soul",
-        "url": "https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI"
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7rr4lB0UPVLlzOqw3dg2Pq"
       },
       "artists": [
         {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
         },
-        {
-          "name": "Tristan Henry",
-          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Mind, Body & Soul",
-      "url": "https://open.spotify.com/track/3R4SI5aMIiUhNDGOAOQk38"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "This Co",
-        "url": "https://open.spotify.com/album/2jrEMtM8IgUlJ0u4glu0AR"
-      },
-      "artists": [
         {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 165120,
-      "name": "This Co - TNT Edit",
-      "url": "https://open.spotify.com/track/15HPQ6BWrEWHCrcAtclfIf"
+      "duration_ms": 177637,
+      "name": "Deeper - Radio Edit",
+      "url": "https://open.spotify.com/track/6wubSB2M3vzsU49zcvCVHv"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "It's A Party (PRX002)",
-        "url": "https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "It's a Party (PRX002)",
-      "url": "https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Fancy Inc",
-          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
-        },
-        {
-          "name": "Meca",
-          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
-        }
-      ],
-      "duration_ms": 170390,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Got The Funk",
         "url": "https://open.spotify.com/album/7suz7uIzl0sWYEaGjU5g8R"
@@ -181,27 +217,115 @@
       "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo"
+        "name": "MAW Lost Tapes 26",
+        "url": "https://open.spotify.com/album/5tC5NzXfIZIafjTtDDbQIR"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
         },
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE"
+      "duration_ms": 303433,
+      "name": "Circus Jazz",
+      "url": "https://open.spotify.com/track/6zzRNnbXkGSY8T1f2X4Klq"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/6Ohvh7RHzKlIPAdP4mCnk4"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "duration_ms": 173167,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/3p3pXvnwSuVE1srNdK1PrN"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Mind, Body & Soul",
+        "url": "https://open.spotify.com/album/6nBOwBr4EULU9wXzzImmNI"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Mind, Body & Soul",
+      "url": "https://open.spotify.com/track/3R4SI5aMIiUhNDGOAOQk38"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "It's A Party (PRX002)",
+        "url": "https://open.spotify.com/album/0jfleoc8WwfuA5pP4la7rG"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "It's a Party (PRX002)",
+      "url": "https://open.spotify.com/track/0ECJVVznvRVdzFlmD0HnL9"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "TESLA",
+        "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "TESLA",
+      "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/0bjb4qFABSfXw7dm78TlEI"
+      },
+      "artists": [
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/4aM1WJtc4bFcK3oyLRr4tX"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/5WV5qFR16D2wmRCyqQuHui"
@@ -225,131 +349,7 @@
       "url": "https://open.spotify.com/track/1tglvWBOGeRtyFcjOzRj66"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Dior (feat. Chrystal)",
-        "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        }
-      ],
-      "duration_ms": 169159,
-      "name": "Dior (feat. Chrystal)",
-      "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Feelin Right, It's Alright",
-        "url": "https://open.spotify.com/album/7fpJSlDyW8NtLNu3kTLvgK"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Feelin Right, It's Alright - Edit",
-      "url": "https://open.spotify.com/track/6gZGSCTLkMo2mEp3JkHdtM"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "In The Night",
-        "url": "https://open.spotify.com/album/6Op0jahyEFI2WUrb0VRkTR"
-      },
-      "artists": [
-        {
-          "name": "Smokin Jo",
-          "url": "https://open.spotify.com/artist/2j0rweTjMkl2QBiRdRpnkp"
-        },
-        {
-          "name": "D. Ramirez",
-          "url": "https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz"
-        }
-      ],
-      "duration_ms": 185904,
-      "name": "In The Night",
-      "url": "https://open.spotify.com/track/2Tv6wuhj1VHVL9IV3YyjQT"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Gargantuas",
-        "url": "https://open.spotify.com/album/4ZDNKCkWHiM5NxG6uQEwG4"
-      },
-      "artists": [
-        {
-          "name": "Junior Sanchez",
-          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
-        }
-      ],
-      "duration_ms": 415384,
-      "name": "Gargantuas",
-      "url": "https://open.spotify.com/track/2OYWYIUYQ3ipz8xwVgyDc2"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "You Got It All",
-        "url": "https://open.spotify.com/album/5jEdAMxNCs4VBzfi1K7MmK"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        },
-        {
-          "name": "D'Vision",
-          "url": "https://open.spotify.com/artist/38hr97MYjug66uUdOxcCs1"
-        }
-      ],
-      "duration_ms": 187424,
-      "name": "You Got It All",
-      "url": "https://open.spotify.com/track/7Fi3VpI73AB2rRxrhowcen"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Gimme",
-        "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 179887,
-      "name": "Gimme",
-      "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Jumpin' (Wh0 Remix)",
         "url": "https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P"
@@ -377,7 +377,123 @@
       "url": "https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "In The Night",
+        "url": "https://open.spotify.com/album/6Op0jahyEFI2WUrb0VRkTR"
+      },
+      "artists": [
+        {
+          "name": "Smokin Jo",
+          "url": "https://open.spotify.com/artist/2j0rweTjMkl2QBiRdRpnkp"
+        },
+        {
+          "name": "D. Ramirez",
+          "url": "https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz"
+        }
+      ],
+      "duration_ms": 185904,
+      "name": "In The Night",
+      "url": "https://open.spotify.com/track/2Tv6wuhj1VHVL9IV3YyjQT"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/6rDypUhYCZ0BVacAfSewuZ"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "duration_ms": 170390,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/2xPg0pFQD7W4Ds3queL5D9"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Come On Get Down (2025 VIP)",
+        "url": "https://open.spotify.com/album/0Rr4OpzL8Zx9o2qN4favrs"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Come On Get Down - 2025 Edit",
+      "url": "https://open.spotify.com/track/7FZ2XusShc92JNL4pomLeW"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "You Got It All",
+        "url": "https://open.spotify.com/album/5jEdAMxNCs4VBzfi1K7MmK"
+      },
+      "artists": [
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        },
+        {
+          "name": "D'Vision",
+          "url": "https://open.spotify.com/artist/38hr97MYjug66uUdOxcCs1"
+        }
+      ],
+      "duration_ms": 187424,
+      "name": "You Got It All",
+      "url": "https://open.spotify.com/track/7Fi3VpI73AB2rRxrhowcen"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 179887,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Hurts On You (The Deepshakerz Remix)",
         "url": "https://open.spotify.com/album/2ulzFl8blVU28s0d52gbm6"
@@ -397,7 +513,7 @@
       "url": "https://open.spotify.com/track/1rum5OlAeG3BkfbMX7mYZd"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Make Me Weak",
         "url": "https://open.spotify.com/album/1CajjAr2dPGB3bltAf5Hit"
@@ -417,7 +533,7 @@
       "url": "https://open.spotify.com/track/6VYF37WI99dESZ8em1VuJL"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Energy Inside",
         "url": "https://open.spotify.com/album/5UibPsFsEXXz0JZmxIBpUi"
@@ -441,27 +557,7 @@
       "url": "https://open.spotify.com/track/15adbLGWrw68SHq4chirCl"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Jazzin' The Way You Know (Roog Reconstruction Remix)",
-        "url": "https://open.spotify.com/album/6WA1qIUe5MsP4SBsqAlITC"
-      },
-      "artists": [
-        {
-          "name": "Jazzy M",
-          "url": "https://open.spotify.com/artist/3nws7N81JxYlwBNK95VZUA"
-        },
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 159004,
-      "name": "Jazzin' The Way You Know - Roog Reconstruction Remix",
-      "url": "https://open.spotify.com/track/1DDsRiCYx6IBtlppwMx4bX"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Terrifyingly Funky",
         "url": "https://open.spotify.com/album/1qArWZlkMXcfk5ugCHNL0K"
@@ -477,7 +573,23 @@
       "url": "https://open.spotify.com/track/5X7Q2tFChDhkdKBcLvOsxg"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Feelin Right, It's Alright",
+        "url": "https://open.spotify.com/album/7fpJSlDyW8NtLNu3kTLvgK"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Feelin Right, It's Alright - Edit",
+      "url": "https://open.spotify.com/track/6gZGSCTLkMo2mEp3JkHdtM"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Don't Let Me Go (Radio Mix)",
         "url": "https://open.spotify.com/album/6xTiUPA4FuJ1qoVYtI8xWk"
@@ -497,7 +609,7 @@
       "url": "https://open.spotify.com/track/5dv2jjdxdwsnbRtJnQXaFT"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "In The Streets",
         "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
@@ -513,7 +625,7 @@
       "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Fire In The House",
         "url": "https://open.spotify.com/album/3RqX1QnwvocqRJrSN0mLnp"
@@ -533,7 +645,7 @@
       "url": "https://open.spotify.com/track/1DAMUidM25TRnSY8oYAx6D"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Chasing Thrills (RUZE / Samer Soltan Remixes)",
         "url": "https://open.spotify.com/album/2jBKpHIVf2pu10b0vRqpAP"
@@ -557,75 +669,7 @@
       "url": "https://open.spotify.com/track/6zQw5c4qG14toLgChrLb8O"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Sunday Service",
-        "url": "https://open.spotify.com/album/4kWfICLbBZerqEdHWq2Mz5"
-      },
-      "artists": [
-        {
-          "name": "Pinto (NYC)",
-          "url": "https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO"
-        }
-      ],
-      "duration_ms": 173543,
-      "name": "One More Chance",
-      "url": "https://open.spotify.com/track/2FYoKvQU1i9DPBCiRPHOru"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Hi Life",
-        "url": "https://open.spotify.com/album/4LW3veJas26r01Y7dDLQfB"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 129407,
-      "name": "Hi Life",
-      "url": "https://open.spotify.com/track/2MGlHVQuVb7L3wAxcvBhWF"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 160314,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3KCYjWy3k62TkT7kSJKyn9"
-      },
-      "artists": [
-        {
-          "name": "Janika Tenn",
-          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
-        }
-      ],
-      "duration_ms": 170957,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1weWf5tPY5j9a5WfUW8J00"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Feel Real Good",
         "url": "https://open.spotify.com/album/5slCoZ4927sCporlUw7NCy"
@@ -645,71 +689,59 @@
       "url": "https://open.spotify.com/track/2TCRA9ufgB5ThqH61P59X2"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "The Night Train",
-        "url": "https://open.spotify.com/album/6ZJvxl2omjO1bZsRLPh5If"
+        "name": "Sunday Service",
+        "url": "https://open.spotify.com/album/4kWfICLbBZerqEdHWq2Mz5"
       },
       "artists": [
         {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        },
-        {
-          "name": "Kadoc",
-          "url": "https://open.spotify.com/artist/6irsncmHuDIN0daWPyEZ6Y"
+          "name": "Pinto (NYC)",
+          "url": "https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO"
         }
       ],
-      "duration_ms": 175000,
-      "name": "The Night Train",
-      "url": "https://open.spotify.com/track/3DyYmX2eWjne3ZyTdqs88h"
+      "duration_ms": 173543,
+      "name": "One More Chance",
+      "url": "https://open.spotify.com/track/2FYoKvQU1i9DPBCiRPHOru"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "Be Together",
-        "url": "https://open.spotify.com/album/5I2jtUtvKbzAvDcnpFMXP3"
+        "name": "Hi Life",
+        "url": "https://open.spotify.com/album/4LW3veJas26r01Y7dDLQfB"
       },
       "artists": [
         {
-          "name": "Selena Faider",
-          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
         }
       ],
-      "duration_ms": 156159,
-      "name": "Be Together",
-      "url": "https://open.spotify.com/track/7AT2oRWEvDWDsfjrSFA26n"
+      "duration_ms": 129407,
+      "name": "Hi Life",
+      "url": "https://open.spotify.com/track/2MGlHVQuVb7L3wAxcvBhWF"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "My Game",
-        "url": "https://open.spotify.com/album/43gFazq7uUuaCChWDpoIFf"
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
       },
       "artists": [
         {
-          "name": "Alexander Technique",
-          "url": "https://open.spotify.com/artist/5nCphaO35HX9Hxq7LSfkIw"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
         }
       ],
-      "duration_ms": 180000,
-      "name": "My Game - Edit",
-      "url": "https://open.spotify.com/track/3Y7TTq1cNzZpXHkSzGV512"
+      "duration_ms": 160314,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Just Stay The Night",
         "url": "https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC"
@@ -733,87 +765,7 @@
       "url": "https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Give Me Your Energy",
-        "url": "https://open.spotify.com/album/6Oe3fT6TrgPs3VwhXIkrBu"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Gettoblaster",
-          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
-        },
-        {
-          "name": "Will Cain",
-          "url": "https://open.spotify.com/artist/6geQBRSOoOQgjy0wRpNZfZ"
-        }
-      ],
-      "duration_ms": 125624,
-      "name": "Give Me Your Energy",
-      "url": "https://open.spotify.com/track/2nDk0yjTb7DBr6HoE96Y0z"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "The Ross (Felix Da Housecat Chicago Rework)",
-        "url": "https://open.spotify.com/album/0OHqDxSzJWG0yfAvAEVxbA"
-      },
-      "artists": [
-        {
-          "name": "Alexander Technique",
-          "url": "https://open.spotify.com/artist/5nCphaO35HX9Hxq7LSfkIw"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Felix Da Housecat",
-          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
-        }
-      ],
-      "duration_ms": 264761,
-      "name": "The Ross - Felix Da Housecat Chicago Rework",
-      "url": "https://open.spotify.com/track/0JaLm5A5uHvbjTyTwNmRoR"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "The Less I Know The Better",
-        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 176114,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Ready 2 Go",
-        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Ready 2 Go",
-      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Bounce To The Beat (2024 Remixes)",
         "url": "https://open.spotify.com/album/5HNjbuvkzxGAUKuBj1XtFx"
@@ -837,7 +789,63 @@
       "url": "https://open.spotify.com/track/2TaePDvV47Eaju3cSi5TFz"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Give Me Your Energy",
+        "url": "https://open.spotify.com/album/6Oe3fT6TrgPs3VwhXIkrBu"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "Will Cain",
+          "url": "https://open.spotify.com/artist/6geQBRSOoOQgjy0wRpNZfZ"
+        }
+      ],
+      "duration_ms": 125624,
+      "name": "Give Me Your Energy",
+      "url": "https://open.spotify.com/track/2nDk0yjTb7DBr6HoE96Y0z"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
+      "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "My House EP",
         "url": "https://open.spotify.com/album/1Xn3Nd5PpJyeileUX8tg2X"
@@ -857,7 +865,7 @@
       "url": "https://open.spotify.com/track/0IWGZtSWOLPt1NNDHfLWyS"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Nothing Better Than Music",
         "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
@@ -873,7 +881,7 @@
       "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/2qW5OsFApVV4uFsXSHu1YF"
@@ -889,7 +897,7 @@
       "url": "https://open.spotify.com/track/1Q09LzROZCdwuPtvtKGd0f"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60"
@@ -909,35 +917,7 @@
       "url": "https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
-      "album": {
-        "name": "Fallin In Love (Butch Remix)",
-        "url": "https://open.spotify.com/album/1MGUCWOLpxMsRoCCICVe2O"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        }
-      ],
-      "duration_ms": 160779,
-      "name": "Fallin In Love - Butch Remix",
-      "url": "https://open.spotify.com/track/66DYTXeYxDpK2z3YVwDRoP"
-    },
-    {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/14ghaAapVtnVCDldY9Fvuq"
@@ -953,7 +933,7 @@
       "url": "https://open.spotify.com/track/2PpQ4n7hQ5AwMwK8bXj3Jg"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
         "name": "Kiss From A Rose",
         "url": "https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi"
@@ -977,24 +957,28 @@
       "url": "https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4"
     },
     {
-      "added_at": "2025-08-28 21:29:56",
+      "added_at": "2025-10-17 15:16:14",
       "album": {
-        "name": "H.O.U.S.E.",
-        "url": "https://open.spotify.com/album/017CLSoIiuc2jKEKF3OmcC"
+        "name": "The Ross (Felix Da Housecat Chicago Rework)",
+        "url": "https://open.spotify.com/album/0OHqDxSzJWG0yfAvAEVxbA"
       },
       "artists": [
+        {
+          "name": "Alexander Technique",
+          "url": "https://open.spotify.com/artist/5nCphaO35HX9Hxq7LSfkIw"
+        },
         {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         },
         {
-          "name": "Fuzzy Cufflinxxx",
-          "url": "https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19"
+          "name": "Felix Da Housecat",
+          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
         }
       ],
-      "duration_ms": 160000,
-      "name": "H.O.U.S.E.",
-      "url": "https://open.spotify.com/track/5SbB70CvX0V8TrACuUbMsz"
+      "duration_ms": 264761,
+      "name": "The Ross - Felix Da Housecat Chicago Rework",
+      "url": "https://open.spotify.com/track/0JaLm5A5uHvbjTyTwNmRoR"
     }
   ],
   "unique_name": "Todd Terry's track IDs",

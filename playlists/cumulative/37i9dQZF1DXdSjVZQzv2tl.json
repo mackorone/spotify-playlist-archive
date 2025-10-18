@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Clayton & Rom\u00e1rio, Z\u00e9 Felipe",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Luan Santana",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "Eu Te Seguro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148561,
+      "name": "Eu Te Seguro - Ao Vivo",
+      "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
+    },
+    {
+      "album": {
         "name": "Manifesto Musical (Ao Vivo)",
         "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
       },
@@ -3900,7 +3922,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 163455,
       "name": "Mudou O Texto",
       "url": "https://open.spotify.com/track/2yo0j2FctlAjVUP3PLl0i1"
@@ -4568,7 +4590,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 181693,
       "name": "Olha Onde Eu T\u00f4",
       "url": "https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm"
@@ -4710,7 +4732,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 171797,
       "name": "Pelo Bem da Minha Saudade",
       "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"
@@ -5100,6 +5122,28 @@
       "duration_ms": 144298,
       "name": "Quando Apaga A Luz - Ao Vivo",
       "url": "https://open.spotify.com/track/1nf1HJdTWXwf9XHQebGlOd"
+    },
+    {
+      "album": {
+        "name": "Quarto 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178526,
+      "name": "Quarto 67 - Ao Vivo",
+      "url": "https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo"
     },
     {
       "album": {
@@ -5760,6 +5804,28 @@
       "duration_ms": 155873,
       "name": "Sorte Da Porra - Ao Vivo",
       "url": "https://open.spotify.com/track/0mAYsM1VLBsYjiHLH3wm8Y"
+    },
+    {
+      "album": {
+        "name": "Sua Boca Mente (You're Still The One)",
+        "url": "https://open.spotify.com/album/7sp6hQtRhxs3NvCP859GkC"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194303,
+      "name": "Sua Boca Mente (You're Still The One)",
+      "url": "https://open.spotify.com/track/5x1ZLsLnKdT6sJ7oIJTEBV"
     },
     {
       "album": {

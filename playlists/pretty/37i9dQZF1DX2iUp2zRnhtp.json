@@ -1,6 +1,6 @@
 {
   "description": "vi leker ikke hits!",
-  "num_followers": 194970,
+  "num_followers": 194989,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 193393,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
         "name": "Priceless (feat. LISA)",
         "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
       },
@@ -627,18 +643,38 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "A Wonderful Life (Epilogue)",
-        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 193393,
-      "name": "When I Close My Eyes",
-      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -679,38 +715,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "after the sun goes down",
-        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "nah",
-      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "Old Phone",
-        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Old Phone",
-      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s"
       },
@@ -727,22 +731,18 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+        "name": "Old Phone",
+        "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+      "duration_ms": 221831,
+      "name": "Old Phone",
+      "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Love Is Like",
         "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
       },
@@ -815,6 +799,38 @@
       "duration_ms": 174911,
       "name": "Love Is Like (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "in plain sight",
+        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 145128,
+      "name": "in plain sight",
+      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -839,22 +855,6 @@
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "in plain sight",
-        "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 145128,
-      "name": "in plain sight",
-      "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Maskulin",
         "url": "https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 183529,
       "name": "Maskulin",
       "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Black Widow",
-        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 160326,
-      "name": "Black Widow",
-      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "F1 The Album (Cinematic Edition)",
         "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
       },
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 160326,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
         "name": "Starry Eyed",
         "url": "https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Blueprint",
+        "url": "https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 172390,
+      "name": "Lys Levende",
+      "url": "https://open.spotify.com/track/1mTnJlYhJn44ZjcfMYHdQb"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1227,22 +1243,6 @@
       "duration_ms": 138129,
       "name": "Where's Billy?",
       "url": "https://open.spotify.com/track/4mj8CluVE96YxWvEsOXuDF"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "Blueprint",
-        "url": "https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 172390,
-      "name": "Lys Levende",
-      "url": "https://open.spotify.com/track/1mTnJlYhJn44ZjcfMYHdQb"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg"
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
       },
       "artists": [
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 223080,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Lovin Myself",
         "url": "https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp"
       },
@@ -1371,6 +1355,38 @@
       "duration_ms": 176214,
       "name": "Lovin Myself",
       "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "I Like Ur Look",
+        "url": "https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 171216,
+      "name": "I Like Ur Look",
+      "url": "https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "St. Tropez",
-        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 142660,
-      "name": "St. Tropez",
-      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Blueprint",
         "url": "https://open.spotify.com/album/4UaZUfKJmUsKLzX1Jiy4Kv"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 142428,
       "name": "That\u00b4s Who",
       "url": "https://open.spotify.com/track/6AvSGWqhIoS4rvlRw2NU0U"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "St. Tropez",
+        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 142660,
+      "name": "St. Tropez",
+      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "I Like Ur Look",
-        "url": "https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 171216,
-      "name": "I Like Ur Look",
-      "url": "https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/5OtGth79HOuvCHHXvbIyT5"
       },
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
+        "name": "\u00c4ldsta Barnet",
+        "url": "https://open.spotify.com/album/6mZAkeuzLJcNI0RvQIGGCV"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 143973,
+      "name": "Spelar ingen roll",
+      "url": "https://open.spotify.com/track/0Jh6IuuW5PtUk2nHtbMxJS"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
         "name": "You You You",
         "url": "https://open.spotify.com/album/7bB4eDlR3ZPp68ETIRPVXV"
       },
@@ -1623,6 +1639,22 @@
       "duration_ms": 162113,
       "name": "You You You",
       "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "M\u00f6rka himlar",
+        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "M\u00f6rka himlar",
+      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1647,22 +1679,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "\u00c4ldsta Barnet",
-        "url": "https://open.spotify.com/album/6mZAkeuzLJcNI0RvQIGGCV"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 143973,
-      "name": "Spelar ingen roll",
-      "url": "https://open.spotify.com/track/0Jh6IuuW5PtUk2nHtbMxJS"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Prettyboy",
         "url": "https://open.spotify.com/album/0dXpThwRvtnZKJKRqyvVpP"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 181641,
       "name": "Prettyboy",
       "url": "https://open.spotify.com/track/4VfUAnZvww92eqIOHCSuPT"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "M\u00f6rka himlar",
-        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "M\u00f6rka himlar",
-      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Samma det",
-        "url": "https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp"
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e"
       },
       "artists": [
         {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
         }
       ],
-      "duration_ms": 154042,
-      "name": "Samma det",
-      "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"
+      "duration_ms": 229151,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e"
+        "name": "Samma det",
+        "url": "https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
         }
       ],
-      "duration_ms": 229151,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN"
+      "duration_ms": 154042,
+      "name": "Samma det",
+      "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1871,6 +1871,54 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
+        "name": "Leave It Beautiful",
+        "url": "https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Leave It Beautiful",
+      "url": "https://open.spotify.com/track/1xFo6wFZNqV6oX8f8OiOw7"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Norwegian Girl",
+        "url": "https://open.spotify.com/album/2NpxKPrvpZjHfgcRjiIhpz"
+      },
+      "artists": [
+        {
+          "name": "Donkeyboy",
+          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "Norwegian Girl",
+      "url": "https://open.spotify.com/track/0HS3by7bZmpF1xaRSKoVoX"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
         "name": "Steep Hills",
         "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
       },
@@ -1907,34 +1955,26 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Leave It Beautiful",
-        "url": "https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK"
+        "name": "Slipp Meg Ut",
+        "url": "https://open.spotify.com/album/31yxZN5WCV3tEbgqUVQ7Ul"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Leave It Beautiful",
-      "url": "https://open.spotify.com/track/1xFo6wFZNqV6oX8f8OiOw7"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "Norwegian Girl",
-        "url": "https://open.spotify.com/album/2NpxKPrvpZjHfgcRjiIhpz"
-      },
-      "artists": [
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
         {
-          "name": "Donkeyboy",
-          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
         }
       ],
-      "duration_ms": 171084,
-      "name": "Norwegian Girl",
-      "url": "https://open.spotify.com/track/0HS3by7bZmpF1xaRSKoVoX"
+      "duration_ms": 164106,
+      "name": "Leppestift & L\u00e6gs (feat. Arif Murakami & Mwuana)",
+      "url": "https://open.spotify.com/track/754CvGq3G8zEao08BJJoJ5"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -1975,22 +2015,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Ps. Kanskje det g\u00e5r",
         "url": "https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq"
       },
@@ -2007,26 +2031,18 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Slipp Meg Ut",
-        "url": "https://open.spotify.com/album/31yxZN5WCV3tEbgqUVQ7Ul"
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
       },
       "artists": [
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Leppestift & L\u00e6gs (feat. Arif Murakami & Mwuana)",
-      "url": "https://open.spotify.com/track/754CvGq3G8zEao08BJJoJ5"
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -2083,22 +2099,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Inte bra i grupp",
-        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 169785,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Leve",
         "url": "https://open.spotify.com/album/2bI2phAdwdvfV1diBsGUFG"
       },
@@ -2111,6 +2111,22 @@
       "duration_ms": 129082,
       "name": "Leve",
       "url": "https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Inte bra i grupp",
+        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 169785,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -2551,22 +2567,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Make Myself Happy",
-        "url": "https://open.spotify.com/album/6MDbZIJ3JgWoUQZCJXgiTG"
-      },
-      "artists": [
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "Make Myself Happy",
-      "url": "https://open.spotify.com/track/1hbL5MKqkDPk6haTEkcJXS"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Vant til det",
         "url": "https://open.spotify.com/album/7ptjOgIv2FidOtmcAu7TNI"
       },
@@ -2579,6 +2579,22 @@
       "duration_ms": 128571,
       "name": "Vant til det",
       "url": "https://open.spotify.com/track/6HQXqcM17N4d2KcP9kyjMH"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Make Myself Happy",
+        "url": "https://open.spotify.com/album/6MDbZIJ3JgWoUQZCJXgiTG"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "Make Myself Happy",
+      "url": "https://open.spotify.com/track/1hbL5MKqkDPk6haTEkcJXS"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -2715,22 +2731,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Sound Of",
-        "url": "https://open.spotify.com/album/44BAgwaS5C6pmjE6Vh2bIK"
-      },
-      "artists": [
-        {
-          "name": "Nelly Moar",
-          "url": "https://open.spotify.com/artist/5oNyGm52m8QxqV8EjA23Gk"
-        }
-      ],
-      "duration_ms": 186568,
-      "name": "Sound Of",
-      "url": "https://open.spotify.com/track/4WnMPIYubeDj9bLr0iisl1"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Popstjerne",
         "url": "https://open.spotify.com/album/2DsFIiNObJt0sDhKe71762"
       },
@@ -2743,6 +2743,22 @@
       "duration_ms": 119000,
       "name": "Popstjerne",
       "url": "https://open.spotify.com/track/0ynlVbHeZZ0OcwdhtjEaUW"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Sound Of",
+        "url": "https://open.spotify.com/album/44BAgwaS5C6pmjE6Vh2bIK"
+      },
+      "artists": [
+        {
+          "name": "Nelly Moar",
+          "url": "https://open.spotify.com/artist/5oNyGm52m8QxqV8EjA23Gk"
+        }
+      ],
+      "duration_ms": 186568,
+      "name": "Sound Of",
+      "url": "https://open.spotify.com/track/4WnMPIYubeDj9bLr0iisl1"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -2811,6 +2827,38 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
+        "name": "Pust i bakken",
+        "url": "https://open.spotify.com/album/7ueGnow0PO4JXVzw6Qz5yr"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 163624,
+      "name": "Pust i bakken",
+      "url": "https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "LYDEN AV BYEN",
+        "url": "https://open.spotify.com/album/3Vf1LvrYnFhn9RnvJWIXzA"
+      },
+      "artists": [
+        {
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+        }
+      ],
+      "duration_ms": 146037,
+      "name": "LYDEN AV BYEN",
+      "url": "https://open.spotify.com/track/7LdJjrjfic5eH0lrOqZMoP"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/2c6FoTPcETcG5BW4nsNltR"
       },
@@ -2839,54 +2887,6 @@
       "duration_ms": 144424,
       "name": "What Are You Waiting For",
       "url": "https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "LYDEN AV BYEN",
-        "url": "https://open.spotify.com/album/3Vf1LvrYnFhn9RnvJWIXzA"
-      },
-      "artists": [
-        {
-          "name": "Rakkere",
-          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
-        }
-      ],
-      "duration_ms": 146037,
-      "name": "LYDEN AV BYEN",
-      "url": "https://open.spotify.com/track/7LdJjrjfic5eH0lrOqZMoP"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "Pust i bakken",
-        "url": "https://open.spotify.com/album/7ueGnow0PO4JXVzw6Qz5yr"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 163624,
-      "name": "Pust i bakken",
-      "url": "https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
     }
   ],
   "unique_name": "Hits Don't Lie",

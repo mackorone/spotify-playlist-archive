@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-458 songs - 1 day 8 hr 24 min
+459 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 | 2024-03-08 |  |
 | [Caught In A Mosh](https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Among The Living \(Deluxe Edition\)](https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm) | 5:00 | 2022-07-13 | 2024-04-19 |
 | [Caught In A Mosh](https://open.spotify.com/track/6AlUhxZG6lcSBJlFEG2Mgp) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Among The Living](https://open.spotify.com/album/0UEuf5G8IVev5K5v6a1sbO) | 5:00 | 2022-07-13 | 2022-07-29 |
-| [Caught In A Mosh](https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG) | [The L.I.F.E\. Project](https://open.spotify.com/artist/4CASo5ALuNEWrsKDpCKm5h) | [Caught In A Mosh](https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb) | 4:59 | 2022-04-01 |  |
+| [Caught In A Mosh](https://open.spotify.com/track/03uCCpxPBtSqr18kXm9gfG) | [The L.I.F.E\. Project](https://open.spotify.com/artist/4CASo5ALuNEWrsKDpCKm5h) | [Caught In A Mosh](https://open.spotify.com/album/7kDsRPwoPQueml7zupFAMb) | 4:59 | 2022-04-01 | 2025-10-18 |
 | [Caustic Vomit Reveries](https://open.spotify.com/track/0MwicbXtEI0tV0NZONv6D5) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Caustic Vomit Reveries](https://open.spotify.com/album/4iH7RLCaup3C6f5w7WPJmr) | 3:41 | 2022-07-01 | 2022-07-12 |
 | [Certain Death](https://open.spotify.com/track/6K6bdBIpKj3pL0IrA4b1Kt) | [Sadus](https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu) | [Chemical Exposure](https://open.spotify.com/album/7pWX1741ZblBq93ZAEPLQT) | 4:14 | 2022-07-13 |  |
 | [Chalice of Blood](https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Forbidden Evil](https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce) | 4:32 | 2022-07-13 |  |
@@ -96,6 +96,7 @@
 | [Collapse in the Key of Fireworks](https://open.spotify.com/track/5IHuTwMWWGFof1sOk7dR7x) | [Johnny Booth](https://open.spotify.com/artist/2rEKSdoBVBEOjGYf4BfYgc) | [Moments Elsewhere](https://open.spotify.com/album/54jLv7qhitycZp9GiQ3t1C) | 2:54 | 2023-07-31 |  |
 | [Combat Mosh](https://open.spotify.com/track/04FfBJZBfU0UR5uqR4CJAD) | [Lich King](https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz) | [Born Of The Bomb](https://open.spotify.com/album/0zV6u0B6tozejS9ol4rfca) | 4:39 | 2021-12-17 |  |
 | [Conquer Evil](https://open.spotify.com/track/0YrUPBsQWhGCMHprN0ZmBP) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [Conquer Evil](https://open.spotify.com/album/4jAmivpe2J42yYujDkeGzV) | 4:38 | 2021-12-17 | 2022-07-28 |
+| [Consequence](https://open.spotify.com/track/7fzdMkoObrrcgvrdXuEAUp) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Dissonance Theory](https://open.spotify.com/album/4ZJDnfve8rHn1kH8J2jNpS) | 6:15 | 2025-10-17 |  |
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2022-12-15 |  |
 | [Crank The Heat](https://open.spotify.com/track/6NSpw2IAGK35FgyqlicfOI) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:42 | 2022-07-01 |  |
 | [Critical Mass](https://open.spotify.com/track/4uOq76srFzt94o98QrCVRO) | [Nuclear Assault](https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU) | [Handle With Care](https://open.spotify.com/album/79vmBrXaUaPS7LleUgP7HY) | 3:18 | 2022-07-13 |  |
@@ -328,7 +329,7 @@
 | [Reapers Fool](https://open.spotify.com/track/6Oe10mOeOteWjSTzs1uRsh) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Reapers Fool](https://open.spotify.com/album/5ssrLiNJPe8YmtB7fQ5fQa) | 3:22 | 2021-12-17 |  |
 | [Reborn Through Hate](https://open.spotify.com/track/4607Hs3imvA9ycS9R5uYOX) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [R.I.P.](https://open.spotify.com/album/6F98XoLiU6WsRNuyeiXg7d) | 4:52 | 2022-07-13 |  |
 | [Reckoning Force](https://open.spotify.com/track/3VHqYO3jX9QoTFHUzSi2op) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [At the Walls](https://open.spotify.com/album/7ciGk9GGeY3EWVocMHj9ee) | 3:17 | 2021-12-17 | 2022-07-19 |
-| [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 | 2022-04-01 | 2025-05-10 |
+| [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 | 2022-04-01 |  |
 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 | 2022-12-15 |  |
 | [Remain Violent](https://open.spotify.com/track/2CXrH4eUWhusFmDk3PWpKX) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Woe to the Vanquished](https://open.spotify.com/album/5cs1TbegYyGYlQyeN12ErL) | 3:24 | 2022-07-13 | 2024-04-19 |
 | [Remain Violent](https://open.spotify.com/track/6vqfI9RPcpzwt3VhasBHdV) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Woe To The Vanquished](https://open.spotify.com/album/7yXARozNFzIwEeoX9kbS0i) | 3:24 | 2021-12-17 | 2022-07-29 |
@@ -380,7 +381,7 @@
 | [Superstition](https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 3:14 | 2022-07-13 | 2024-04-19 |
 | [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 | 2022-08-15 |
 | [Surf Nicaragua](https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN) | [Sacred Reich](https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH) | [Ignorance & Surf Nicaragua](https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0) | 4:40 | 2022-07-13 |  |
-| [Symmetry](https://open.spotify.com/track/6xTCj1JryDzosvA6ITcNuz) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Symmetry](https://open.spotify.com/album/3TRQ64AFgX1mH9Ml7CGTi0) | 3:58 | 2025-09-19 |  |
+| [Symmetry](https://open.spotify.com/track/6xTCj1JryDzosvA6ITcNuz) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Symmetry](https://open.spotify.com/album/3TRQ64AFgX1mH9Ml7CGTi0) | 3:58 | 2025-09-19 | 2025-10-18 |
 | [Synchro Anarchy](https://open.spotify.com/track/7jQ8PxjIR2o4y4nndfEvh1) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/1k9JH2nPsI1Lb9ny0rFVpj) | 4:25 | 2022-01-28 | 2022-02-11 |
 | [Taphephobia](https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Taphephobia](https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH) | 3:42 | 2025-06-06 |  |
 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 | 2022-12-15 |  |

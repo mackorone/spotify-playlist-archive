@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-902 songs - 2 day 0 hr 0 min
+906 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [Ocean](https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Ocean](https://open.spotify.com/album/3gA71Ho6aisuhGi7AzwucT) | 3:20 | 2024-08-29 | 2025-08-13 |
 | [OFTEN](https://open.spotify.com/track/6lx8boMh0kWEeXubQawkWS) | [ORZC](https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE) | [OFTEN](https://open.spotify.com/album/0lYNraGyhY09SzMS8LNOc0) | 3:04 | 2024-06-13 | 2025-08-13 |
 | [Often](https://open.spotify.com/track/44QZweE0DwqYkjyAySHY61) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Often](https://open.spotify.com/album/5SFDE5073LzAsA0UmkpeKO) | 2:55 | 2024-11-07 | 2025-08-13 |
+| [Oh My](https://open.spotify.com/track/0uqew5SZsE86I2iJxJZ2qN) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Nattica](https://open.spotify.com/artist/4xW2QOiEHzED1DK4YWtzp3) | [Oh My](https://open.spotify.com/album/6jO4RTMmT0xkaH9azhuEAA) | 5:28 | 2025-10-17 |  |
 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-24 | 2025-08-13 |
 | [ok :\)](https://open.spotify.com/track/5wHKVziOHMhHE9tcvRBXtr) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/4AiVt0AXcFnlFxMPLfDz6a) | 3:29 | 2024-06-20 | 2024-06-25 |
 | [ok :/](https://open.spotify.com/track/7ELz2ls9JCvT5DyVL8aWRh) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/6GHR4Qrtr4GXc7RfGVh8Qv) | 2:52 | 2024-03-21 | 2025-08-13 |
@@ -662,6 +663,7 @@
 | [Say You Want Me \- Pocket Remix](https://open.spotify.com/track/1tTgKFv9pYOAIJ4n7hY5Bb) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Say You Want Me \(Pocket Remix\)](https://open.spotify.com/album/67sGQE5Ga6F2IjvDNciRJH) | 3:10 | 2023-11-16 | 2024-01-06 |
 | [say you'll never leave](https://open.spotify.com/track/4IOkjtrAntwo5TticxEIr9) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [say you'll never leave](https://open.spotify.com/album/4xJwTmqkzGXCfS0RhFhq19) | 2:47 | 2025-05-08 | 2025-08-13 |
 | [Scared To Lose You](https://open.spotify.com/track/3HfTXw9hR8dHkhdc7aKrfP) | [Alvix](https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY), [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd) | [Scared To Lose You](https://open.spotify.com/album/4tFfoVxGgISgXfGodGaQSj) | 2:31 | 2023-10-19 | 2024-01-06 |
+| [SCARS](https://open.spotify.com/track/4pWItRY6QLzAHRc4vdC0Cg) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [SCARS](https://open.spotify.com/album/5EPLXZBFTrRP13craUwAIt) | 3:05 | 2025-10-17 |  |
 | [scs \- edit](https://open.spotify.com/track/5xZTWcerOkechTLwXzh8uI) | [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [scs](https://open.spotify.com/album/7xr6VZrLvdYoqaigAxUAYx) | 3:10 | 2025-03-06 | 2025-08-13 |
 | [searching](https://open.spotify.com/track/1H0gKahkWSNnNnBEYQyAoX) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [searching](https://open.spotify.com/album/4JFKDlnzhn44lISfGzwSQG) | 3:02 | 2024-05-08 | 2024-06-01 |
 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 | 2023-05-26 | 2025-08-13 |
@@ -786,6 +788,7 @@
 | [This Moment](https://open.spotify.com/track/0uIJFfYqzgyu5ayMTbP1Y8) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4) | [This Moment](https://open.spotify.com/album/0uQwnjpBl807th2SwP8P8F) | 2:06 | 2023-08-10 | 2024-01-06 |
 | [Through My System](https://open.spotify.com/track/30uUMdzRVdYd9KuP9rJXxo) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Through My System](https://open.spotify.com/album/0746KrKS5YSnUBVvLnJomH) | 3:20 | 2025-04-10 | 2025-08-13 |
 | [tidal wave](https://open.spotify.com/track/0GEHapw4SVFDM65BXvcSDX) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [tidal wave](https://open.spotify.com/album/6zPPaj58GfZsIOGxeP3qUn) | 3:22 | 2023-06-08 | 2023-07-15 |
+| [Time For My Soul](https://open.spotify.com/track/1x3Ulc3uBNEfqcDSLFOy9z) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [Thank You](https://open.spotify.com/album/3rZYOpSRkLfxlyX7Gx1Wn2) | 3:25 | 2025-10-17 |  |
 | [To Be Loved](https://open.spotify.com/track/4LAhq9Q52LlwdpKxjaRzms) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [To Be Loved](https://open.spotify.com/album/33ggnxVpDG4VspkNbJsxiu) | 2:51 | 2024-02-01 | 2025-08-13 |
 | [To The Moon \- ellis Remix](https://open.spotify.com/track/5j0Typdbn5xgIEcsNgTev0) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [To The Moon \(Remixes\)](https://open.spotify.com/album/3vtO3Z23jyvXVJjf3Bgvz3) | 2:11 | 2024-06-13 | 2025-08-13 |
 | [Together](https://open.spotify.com/track/5BehfMdJifpFKpqJ48bGcr) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Together](https://open.spotify.com/album/3ibbIoS6s2outanhvWyC9P) | 3:53 | 2024-04-04 | 2024-04-26 |
@@ -840,6 +843,7 @@
 | [Wait For Me](https://open.spotify.com/track/1QblUM5ANcUVnOoIXg7nbD) | [WHOKNOWS](https://open.spotify.com/artist/49CP1Oj52jww6pbuG9cl5y) | [Wait For Me](https://open.spotify.com/album/6FJvWBlOmVjtLLCdrgkwpn) | 1:55 | 2024-02-29 | 2024-04-05 |
 | [Waiting](https://open.spotify.com/track/1PyeM0ERIuOKITW3bnzuw3) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Waiting](https://open.spotify.com/album/1GgmFQTGmstXgQd4WEfQxV) | 2:42 | 2025-02-13 |  |
 | [Waiting 4](https://open.spotify.com/track/1ZsCvT8pvt0Ldrk1Qdrq7L) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [Waiting 4](https://open.spotify.com/album/2ehsRb3TSGZnEJSwgWyr97) | 4:13 | 2024-08-01 | 2025-08-13 |
+| [Waiting On Your Move](https://open.spotify.com/track/39gV6hC6twPpRHBQmduo14) | [Jellis](https://open.spotify.com/artist/1WQB3MUY8am8dxKhfQWM1p) | [Waiting On Your Move](https://open.spotify.com/album/3BOqkU9OrEQa5SENw9pMNo) | 2:29 | 2025-10-17 |  |
 | [Wanna Believe](https://open.spotify.com/track/0MbpWJ5YBwyNJaUc757hu9) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Wanna Believe](https://open.spotify.com/album/1M8XoqN9RxaTVvCjZuwq7r) | 3:22 | 2023-11-16 | 2024-01-06 |
 | [Want \(Need\)](https://open.spotify.com/track/2FEYpEwMGzKhdt6eHJyJ5A) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs) | [Want \(Need\)](https://open.spotify.com/album/7Mu3VGQ9a86jYMj13xoZQP) | 2:49 | 2025-06-19 |  |
 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 | 2023-06-22 | 2025-08-13 |

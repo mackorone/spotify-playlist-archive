@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover:  Sloan
 
-299 songs - 17 hr 52 min
+300 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2023-11-10 | 2024-03-23 |
 | [Summerlong](https://open.spotify.com/track/7IUte1tdLC9W6ptSIx9lQA) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Pages](https://open.spotify.com/album/5PVK4onrU7Kx4afooqOdtN) | 4:53 | 2023-11-24 | 2024-07-20 |
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-11-03 | 2024-06-08 |
+| [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 | 2025-10-17 |  |
 | [Tall People Don't Live Long](https://open.spotify.com/track/3hhVZKJSMnCG1LjZkYSohk) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [Tall People Don't Live Long](https://open.spotify.com/album/4Zv3JlE5l87PPVCOkmnoVe) | 3:06 | 2025-04-25 | 2025-05-17 |
 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 | 2024-09-06 |  |
 | [The American Dream Is Killing Me](https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The American Dream Is Killing Me](https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC) | 3:06 | 2023-11-10 | 2024-02-03 |

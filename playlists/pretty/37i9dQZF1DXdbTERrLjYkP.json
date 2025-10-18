@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Hohnen Ford",
-  "num_followers": 219224,
+  "num_followers": 219225,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAE0hjROrpMfbYRzpHbpBvBdkF0",
+  "snapshot_id": "AAAAAH+lnQUJrEn5TJLkPF6i0RhtQ5Ck",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:31",
@@ -23,6 +23,38 @@
       "duration_ms": 200964,
       "name": "Tomorrow's Tomorrow",
       "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Mystery Woman",
+        "url": "https://open.spotify.com/album/06Zx22LDG16fi9ZE22k4SK"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "duration_ms": 184083,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/3THln96cTn4UblX2X6oS0v"
+    },
+    {
+      "added_at": "2025-10-17 07:56:44",
+      "album": {
+        "name": "wasted potential",
+        "url": "https://open.spotify.com/album/3wNynNrLA99yCegtnhnC3u"
+      },
+      "artists": [
+        {
+          "name": "Aubory Bugg",
+          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
+        }
+      ],
+      "duration_ms": 211176,
+      "name": "wasted potential",
+      "url": "https://open.spotify.com/track/2vqaeVYJ8zwjLbOMEV7He2"
     },
     {
       "added_at": "2025-10-10 04:00:38",
@@ -617,22 +649,6 @@
       "url": "https://open.spotify.com/track/75WCo9dLWJ88R0rXnXuqeu"
     },
     {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "1-800-LOVECLUB",
-        "url": "https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83"
-      },
-      "artists": [
-        {
-          "name": "Willa Owen",
-          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "1-800-LOVECLUB",
-      "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
-    },
-    {
       "added_at": "2025-08-01 04:00:28",
       "album": {
         "name": "Never Notice",
@@ -791,22 +807,6 @@
       "duration_ms": 192591,
       "name": "Overboard",
       "url": "https://open.spotify.com/track/3RyHooc6Lg3OYgjP9zygkj"
-    },
-    {
-      "added_at": "2025-07-21 01:57:39",
-      "album": {
-        "name": "hot summer",
-        "url": "https://open.spotify.com/album/6Gu94XbWCmDBCbbsHJ3SdF"
-      },
-      "artists": [
-        {
-          "name": "Molly Frances",
-          "url": "https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh"
-        }
-      ],
-      "duration_ms": 212542,
-      "name": "hot summer",
-      "url": "https://open.spotify.com/track/3gR8omUbqmDU0l38K3CpHX"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

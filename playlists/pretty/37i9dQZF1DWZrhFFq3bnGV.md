@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jordan Susanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,066 likes - 92 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,081 likes - 92 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

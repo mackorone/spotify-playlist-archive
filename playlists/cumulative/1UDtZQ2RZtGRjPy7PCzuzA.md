@@ -4,7 +4,7 @@
 
 > 
 
-1,040 songs - 2 day 11 hr 23 min
+1,041 songs - 2 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -774,6 +774,7 @@
 | [So I featuring a\. g\. cook](https://open.spotify.com/track/03kw5kVvTjfZ4BAUU4Txx3) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:39 | 2025-01-26 |  |
 | [So It Goes...](https://open.spotify.com/track/5PxFv9yJEg9dxvbZggykro) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:47 | 2023-12-23 |  |
 | [So Long, London](https://open.spotify.com/track/7wAkQFShJ27V8362MqevQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:22 | 2024-04-26 |  |
+| [So What Now](https://open.spotify.com/track/2VttL8MR8YY2Ktw3PED7w2) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:50 | 2025-10-17 |  |
 | [Soda Pop](https://open.spotify.com/track/6039GmVngyHmWfOuWOhjCK) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:20 | 2025-07-31 |  |
 | [Something Bad \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/1H2ZgFkgOHssJE8y24r5V2) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [John Powell](https://open.spotify.com/artist/5o7lbGxFCLde3JqX2EKzjZ), [William Youmans](https://open.spotify.com/artist/5jd4uKyxRmjPtjo4dUExXe), [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked \(Original Broadway Cast Recording / Deluxe Edition\)](https://open.spotify.com/album/1woCvthHJakakroP6dXNxs) | 1:39 | 2025-07-04 |  |
 | [Sometimes](https://open.spotify.com/track/1UI0l2L66HJ9AtoEOlHzv4) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:05 | 2025-07-31 |  |

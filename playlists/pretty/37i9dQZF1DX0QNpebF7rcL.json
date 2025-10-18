@@ -1,13 +1,61 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 141247,
+  "num_followers": 141270,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+UgywXzDPz5APcuij55CDLgeC7",
+  "snapshot_id": "AAAAAFGmuH37cmn0gZlX/UKsKTbAlLW5",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Dead Blues Volume 1",
+        "url": "https://open.spotify.com/album/1cI4baqsgmJxt3PrvuBy8n"
+      },
+      "artists": [
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        },
+        {
+          "name": "Datrian Johnson",
+          "url": "https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A"
+        },
+        {
+          "name": "Grahame Lesh",
+          "url": "https://open.spotify.com/artist/3rLtuKhmHrekck6q1sc9BB"
+        },
+        {
+          "name": "New Memphis Colorways",
+          "url": "https://open.spotify.com/artist/20VWFuTbgbJt9iUtn6AZ9A"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Sitting on Top of the World",
+      "url": "https://open.spotify.com/track/4P491m2oV5kFjmuumdPgkU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Chains And Things",
+        "url": "https://open.spotify.com/album/1JGZNt476A3wZ0YUwtI3Js"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 303773,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/2uK43c3VurRJmePMQKle84"
+    },
     {
       "added_at": "2025-10-10 04:00:21",
       "album": {
@@ -223,30 +271,6 @@
       "duration_ms": 290053,
       "name": "You Shouldn't Have Left Me",
       "url": "https://open.spotify.com/track/3U35O0EdGo2tZQ1Gk5BoM2"
-    },
-    {
-      "added_at": "2025-08-29 04:00:27",
-      "album": {
-        "name": "Who Do You Love",
-        "url": "https://open.spotify.com/album/6lTNovqqr00syqgcNwQUwS"
-      },
-      "artists": [
-        {
-          "name": "Luther Dickinson",
-          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
-        },
-        {
-          "name": "Datrian Johnson",
-          "url": "https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A"
-        },
-        {
-          "name": "MEM_MODS",
-          "url": "https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv"
-        }
-      ],
-      "duration_ms": 268426,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/4KbkajONKr97VZBv5Zi3Ux"
     },
     {
       "added_at": "2025-08-22 04:00:12",
@@ -623,22 +647,6 @@
       "duration_ms": 319127,
       "name": "Ain't It Hell",
       "url": "https://open.spotify.com/track/7wK2n5iRdQL53EboRMgp2y"
-    },
-    {
-      "added_at": "2025-05-23 04:00:36",
-      "album": {
-        "name": "Drive By The Exit Sign",
-        "url": "https://open.spotify.com/album/5OIdB1EF1zWV52qAbOCt3v"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Drive By The Exit Sign",
-      "url": "https://open.spotify.com/track/3bDiDVYhu3pa2B6vO7uNuH"
     },
     {
       "added_at": "2025-06-06 04:00:06",

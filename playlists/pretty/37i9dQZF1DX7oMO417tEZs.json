@@ -1,13 +1,141 @@
 {
-  "description": "A curated space for the avant-garde. Cover: Purity Ring",
-  "num_followers": 174000,
+  "description": "A curated space for the avant-garde. Cover: Austra",
+  "num_followers": 174012,
   "original_name": "Proto-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKlY/aidU2MpOcJcLTAgAsCBYV6Y",
+  "snapshot_id": "AAAAABJQnm8WfsQuk1x8Kcw+1K7JDzKU",
   "tracks": [
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "A BUG'S LIFE",
+        "url": "https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "A BUG'S LIFE",
+      "url": "https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY"
+    },
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/7zj8wuGEobGBuUebOtky6F"
+    },
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/4imrVUWH3hFEY9qzX5MCuH"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        }
+      ],
+      "duration_ms": 217645,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/0GRUpGySzN9XxBzGZuEahK"
+    },
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "PIXELATED KISSES",
+        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 110430,
+      "name": "PIXELATED KISSES",
+      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
+    },
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 203818,
+      "name": "what's good",
+      "url": "https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P"
+    },
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "Feels (20th Anniversary)",
+        "url": "https://open.spotify.com/album/60EHyVXM7pTKcNWdY4X47I"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 292106,
+      "name": "Tikwid - demo",
+      "url": "https://open.spotify.com/track/3hvrIpfLZpQ3mUHMqGLgHX"
+    },
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "White Lighter",
+        "url": "https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "White Lighter",
+      "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"
+    },
+    {
+      "added_at": "2025-10-17 18:09:13",
+      "album": {
+        "name": "Not in Your Mouth None of Your Business",
+        "url": "https://open.spotify.com/album/26nGeDBDGw22HuBVMrX3og"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "duration_ms": 123833,
+      "name": "Not in Your Mouth None of Your Business",
+      "url": "https://open.spotify.com/track/6q6bauwUzbKhx4KM49kfgL"
+    },
     {
       "added_at": "2025-09-26 13:00:09",
       "album": {
@@ -55,22 +183,6 @@
       "duration_ms": 203728,
       "name": "Somewhere in Between",
       "url": "https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz"
-    },
-    {
-      "added_at": "2025-08-15 14:30:13",
-      "album": {
-        "name": "MS. PAC MAN",
-        "url": "https://open.spotify.com/album/27PoIYUgfm5iGDimPMwSEK"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "MS. PAC MAN",
-      "url": "https://open.spotify.com/track/77znSEH8JaxMlgBN48NKBC"
     },
     {
       "added_at": "2025-08-15 00:01:33",
@@ -271,6 +383,22 @@
       "duration_ms": 230797,
       "name": "Perfectly",
       "url": "https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg"
+    },
+    {
+      "added_at": "2025-08-15 14:30:13",
+      "album": {
+        "name": "MS. PAC MAN",
+        "url": "https://open.spotify.com/album/27PoIYUgfm5iGDimPMwSEK"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "MS. PAC MAN",
+      "url": "https://open.spotify.com/track/77znSEH8JaxMlgBN48NKBC"
     },
     {
       "added_at": "2025-08-01 04:00:34",
@@ -1583,150 +1711,6 @@
       "duration_ms": 186232,
       "name": "Sola",
       "url": "https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Pirouette",
-        "url": "https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Vespers",
-      "url": "https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Woman Lake",
-        "url": "https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 164583,
-      "name": "Woman Lake",
-      "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "The Love I Showed You Was Yours To Keep",
-        "url": "https://open.spotify.com/album/6mk2yI6dHBQSFlkFiuZXAn"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 194171,
-      "name": "Bones And All",
-      "url": "https://open.spotify.com/track/32NRHTXx7dWCBHaKtinsZ6"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/67Su044sk5CBq6c6z03VEA"
-      },
-      "artists": [
-        {
-          "name": "Verses GT",
-          "url": "https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC"
-        },
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 240532,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/1v2DncllklUbNrrXlTVd4h"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "100%WET",
-        "url": "https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc"
-      },
-      "artists": [
-        {
-          "name": "100%WET",
-          "url": "https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2"
-        }
-      ],
-      "duration_ms": 213487,
-      "name": "Looking In from the Outside",
-      "url": "https://open.spotify.com/track/5FH1xaoPF809A0kctXp3dj"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "No Tengo Valor",
-        "url": "https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "No Tengo Valor",
-      "url": "https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Laptronica",
-        "url": "https://open.spotify.com/album/1bBOO5ie8hV4skZ8tB984k"
-      },
-      "artists": [
-        {
-          "name": "Jayemkayem",
-          "url": "https://open.spotify.com/artist/6bshT0bIVHCNDfhP2P1OjL"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Drum Memory",
-      "url": "https://open.spotify.com/track/5mxiqi7m8ylNW2UEGPIqrN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Rush (Missing Out On Me)",
-        "url": "https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "cherry chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        },
-        {
-          "name": "Purient",
-          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
-        }
-      ],
-      "duration_ms": 144802,
-      "name": "Rush (Missing Out On Me)",
-      "url": "https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9"
     }
   ],
   "unique_name": "Proto-",

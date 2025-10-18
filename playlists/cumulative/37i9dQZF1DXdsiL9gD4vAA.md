@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-214 songs - 19 hr 6 min
+215 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/3e2saSOAkc7ex0jhCwws4Y) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Top 10 Ghulam Ali](https://open.spotify.com/album/0eE9TMiCZp5VBEnBf3dQHg) | 7:18 | 2022-11-09 | 2022-11-13 |
 | [Humko Kisike Gham Ne Maara](https://open.spotify.com/track/5hZmZaExf8sG6wvoWpqs8m) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Enriching Ghazals](https://open.spotify.com/album/0reghrVnpLYtzSN8h9NstO) | 7:18 | 2022-07-26 | 2024-04-19 |
 | [Humne Duniya](https://open.spotify.com/track/6Z2yW8WWkwnetkQTZecj2A) | [Maahirii Bose](https://open.spotify.com/artist/4MNIF4TvN3PcvanPUrmnCa) | [Humne Duniya](https://open.spotify.com/album/7gLaSEKiizil6HQJRGJjv7) | 4:59 | 2024-02-28 | 2024-07-23 |
+| [Humsafar](https://open.spotify.com/track/08YSCIzX8u7ct46BZe9XGg) | [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P) | [Humsafar](https://open.spotify.com/album/49WvNiYCSOpNv4rwVOPGIL) | 4:05 | 2025-09-15 |  |
 | [Hungama Hai Kyon Barpa](https://open.spotify.com/track/7fDOT7WW72bsyS2cY4tON0) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Hungama Hai Kyon Barpa](https://open.spotify.com/album/7uWXgcrOW9ZU4bkY3irIWD) | 8:28 | 2021-12-01 |  |
 | [Ikhtiyar](https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 4:36 | 2024-08-23 |  |
 | [Intezaar](https://open.spotify.com/track/565ILtHtx2CG2RTM2m5kvF) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Intezaar](https://open.spotify.com/album/5dz42ayxujCHStVTj10rzW) | 3:48 | 2025-07-16 |  |
@@ -167,7 +168,7 @@
 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/75hsymuPkvUvQKsz54LigZ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Face To Face](https://open.spotify.com/album/2e9piwGTBgOYH7jEmzl7N3) | 5:45 | 2024-12-31 |  |
 | [Pyar Se Pyar Karna](https://open.spotify.com/track/1RnADvAIf4ALR1z0Hej0cX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/7xmy9BWCQ17YuI4YnKyfgo) | 4:17 | 2024-02-09 | 2024-04-19 |
 | [Pyar Se Pyar Karna](https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2) | 4:17 | 2023-02-27 | 2025-01-01 |
-| [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 | 2021-12-01 |  |
+| [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 | 2021-12-01 | 2025-10-18 |
 | [Rafta Rafta Woh Meri Hasti Ka Saman Ho Gaye](https://open.spotify.com/track/6GdajL7Wy76jkC7QziZ1At) | [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Khiraj](https://open.spotify.com/album/3V2kOV6FanUWqzj7JZkY8z) | 4:47 | 2023-10-11 |  |
 | [Rang Rasiya \- Film Version](https://open.spotify.com/track/3JwTaFbO6HlMFyD0UvEtOM) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mahima Bhardwaj](https://open.spotify.com/artist/256cbupySWagIEHWcArnNf), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94) | [Safed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AfF3Yos8Gx1YYyws9zzq6) | 8:54 | 2023-12-12 |  |
 | [Rangrasiya](https://open.spotify.com/track/4yEkt1sfM6qziBykSESn7W) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Hopun Saikia](https://open.spotify.com/artist/427lOJJUkRWgIZYpcUKKwN) | [Rangrasiya](https://open.spotify.com/album/4EM5UkaNoCKB0seUaorGgq) | 4:21 | 2024-04-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 679801,
+  "num_followers": 679868,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
     },
     {
-      "added_at": "2024-08-19 20:51:16",
-      "album": {
-        "name": "Ozean",
-        "url": "https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM"
-      },
-      "artists": [
-        {
-          "name": "Ozean",
-          "url": "https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8"
-    },
-    {
       "added_at": "2021-06-03 02:39:04",
       "album": {
         "name": "Logos",
@@ -575,6 +559,38 @@
       "duration_ms": 238893,
       "name": "Walkabout (W/ Noah Lennox)",
       "url": "https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob"
+    },
+    {
+      "added_at": "2024-08-19 20:51:16",
+      "album": {
+        "name": "Ozean",
+        "url": "https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM"
+      },
+      "artists": [
+        {
+          "name": "Ozean",
+          "url": "https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Nowhere (Expanded)",
+        "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
+      },
+      "artists": [
+        {
+          "name": "Ride",
+          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
+        }
+      ],
+      "duration_ms": 368760,
+      "name": "Seagull - 2001 Remaster",
+      "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -623,22 +639,6 @@
       "duration_ms": 249013,
       "name": "Wax and Wane - 2005 Remaster",
       "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Nowhere (Expanded)",
-        "url": "https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ"
-      },
-      "artists": [
-        {
-          "name": "Ride",
-          "url": "https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX"
-        }
-      ],
-      "duration_ms": 368760,
-      "name": "Seagull - 2001 Remaster",
-      "url": "https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx"
     },
     {
       "added_at": "2024-08-19 20:51:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Dandys Rule OK",
-        "url": "https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 249962,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/2BNxi7JnGRfDtDdhN75SXs"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 285773,
       "name": "Drive Blind - 2001 Remaster",
       "url": "https://open.spotify.com/track/5Sg1W0xLdgaLP0OLJIApHJ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Dandys Rule OK",
+        "url": "https://open.spotify.com/album/5IYhB6cNGiCogm6tcMRhBW"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 249962,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0oxoJu918tKRk4lVweP4WS"
     },
     {
       "added_at": "2024-10-15 03:39:28",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Superbike",
+        "url": "https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 233583,
+      "name": "Superbike",
+      "url": "https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Heaven Or Las Vegas (Remastered)",
         "url": "https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 288575,
       "name": "Love Comes In Waves",
       "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Superbike",
-        "url": "https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 233583,
-      "name": "Superbike",
-      "url": "https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Turn Into",
+        "url": "https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 203536,
+      "name": "Turn Into",
+      "url": "https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 318800,
       "name": "23",
       "url": "https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Turn Into",
-        "url": "https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 203536,
-      "name": "Turn Into",
-      "url": "https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ"
     },
     {
       "added_at": "2021-06-03 02:39:04",

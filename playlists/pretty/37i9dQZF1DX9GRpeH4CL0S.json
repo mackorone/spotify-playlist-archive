@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 807398,
+  "num_followers": 807592,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 292580,
-      "name": "Even Flow",
-      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -723,18 +723,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+      "duration_ms": 292580,
+      "name": "Even Flow",
+      "url": "https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "In Utero",
         "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 233173,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "Jeremy",
-      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "Jeremy",
+      "url": "https://open.spotify.com/track/62nQ8UZVqR2RMvkJHkcO2o"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Daughter - Remastered",
-      "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 215306,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "Daughter - Remastered",
+      "url": "https://open.spotify.com/track/53eJFr4Mfbw5PXJ01K6cFw"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2599,6 +2599,22 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
+        "name": "Cage The Elephant",
+        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
@@ -2679,22 +2695,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Cage The Elephant",
-        "url": "https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Ain't No Rest for the Wicked",
-      "url": "https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Return To Cookie Mountain",
         "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
       },
@@ -2707,38 +2707,6 @@
       "duration_ms": 279293,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "You're Gonna Go Far, Kid",
-      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Miike Snow",
-        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 263426,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2771,6 +2739,38 @@
       "duration_ms": 266493,
       "name": "Glycerine - 2014 Remastered",
       "url": "https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/3LhnJMmYkizRwyHdw8y0Qr"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "You're Gonna Go Far, Kid",
+      "url": "https://open.spotify.com/track/1FMm3wG5WOhi7js35KR7Ea"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Miike Snow",
+        "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3047,18 +3047,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
       },
       "artists": [
         {
-          "name": "The Breeders",
-          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 213693,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
+      "duration_ms": 254533,
+      "name": "Icky Thump",
+      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3079,34 +3079,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Icky Thump",
-        "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
+        "name": "Last Splash",
+        "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
       },
       "artists": [
         {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+          "name": "The Breeders",
+          "url": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp"
         }
       ],
-      "duration_ms": 254533,
-      "name": "Icky Thump",
-      "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Don't Look Back into the Sun",
-        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Don't Look Back into the Sun",
-      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
+      "duration_ms": 213693,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3139,6 +3123,22 @@
       "duration_ms": 289559,
       "name": "Don't Look Back In Anger (Remastered)",
       "url": "https://open.spotify.com/track/7CVYxHq1L0Z4G84jTDS6Jl"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Don't Look Back into the Sun",
+        "url": "https://open.spotify.com/album/4C6qKYoroXakpgQOyA8no8"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Don't Look Back into the Sun",
+      "url": "https://open.spotify.com/track/38peLHRTxGZAd5TpEO3gB9"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3207,18 +3207,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Phantom Planet",
-        "url": "https://open.spotify.com/album/2SCGBVAtn1Dy0Sgj2ZPm4K"
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/4wXjHwpYza7sCw1vKKSfOm"
       },
       "artists": [
         {
-          "name": "Phantom Planet",
-          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 193693,
-      "name": "California - Tchad Blake Mix",
-      "url": "https://open.spotify.com/track/1PPwghTeQBBKkEGJrf6noY"
+      "duration_ms": 276866,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/6etTGUYDxGHcqHYI4xBr1w"
     }
   ],
   "unique_name": "Essential Alternative",

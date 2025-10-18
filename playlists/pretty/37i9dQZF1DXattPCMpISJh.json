@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Say She She",
-  "num_followers": 146441,
+  "num_followers": 146497,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPxh1VfI8Eo0UYZrEvXcXS70mzMS",
+  "snapshot_id": "AAAAAFVzoeIs2BgThiDAlYS4a22SM3dc",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:47",
@@ -23,6 +23,26 @@
       "duration_ms": 259945,
       "name": "Shop Boy",
       "url": "https://open.spotify.com/track/3KZfBcqpUeeG5pLj39WI69"
+    },
+    {
+      "added_at": "2025-10-17 04:01:03",
+      "album": {
+        "name": "My Name Is Love",
+        "url": "https://open.spotify.com/album/6I5Pvb8ITznvDxiHjC0gkn"
+      },
+      "artists": [
+        {
+          "name": "Golden Gate",
+          "url": "https://open.spotify.com/artist/5Z30acijfl3QUb0BG8z48d"
+        },
+        {
+          "name": "Inaya Day",
+          "url": "https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h"
+        }
+      ],
+      "duration_ms": 198966,
+      "name": "My Name Is Love",
+      "url": "https://open.spotify.com/track/3GJIJPi4tYm2dJF7rt9BEb"
     },
     {
       "added_at": "2025-10-03 04:00:47",
@@ -1683,22 +1703,6 @@
       "duration_ms": 199550,
       "name": "Let\u2019s Keep On Dancing",
       "url": "https://open.spotify.com/track/2MTES4OZUVqTCmE99Rk7HR"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "That! Feels Good!",
-        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Freak Me Now",
-      "url": "https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz"
     },
     {
       "added_at": "2023-04-14 04:01:00",

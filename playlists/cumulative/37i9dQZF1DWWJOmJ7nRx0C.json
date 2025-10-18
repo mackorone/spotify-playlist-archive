@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Poppy, Amy Lee and Courtney LaPlante",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Ice Nine Kills",
   "name": "VOLUME",
   "tracks": [
     {
@@ -900,6 +900,28 @@
       "duration_ms": 198961,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/5SMChKYENR0iYKLUjKRqcm"
+    },
+    {
+      "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/29EcAXVqyiawfFLxNAr7dG"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Wild",
+          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216083,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/4OAP0t2AbljWcYfHdAPBmb"
     },
     {
       "album": {
@@ -3578,7 +3600,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 245660,
       "name": "Bored",
       "url": "https://open.spotify.com/track/3UHE8bxJihjE8WJHklarFG"
@@ -4150,7 +4172,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 316634,
       "name": "Bury Me With My Screams",
       "url": "https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y"
@@ -4375,7 +4397,7 @@
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 229478,
+      "duration_ms": 229295,
       "name": "Can't Stop Running",
       "url": "https://open.spotify.com/track/5UVrjxspGovfZAKAnvV4ci"
     },
@@ -5317,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "Common Decency",
+        "url": "https://open.spotify.com/album/16NeEIneghdC5FKPkDDbtw"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243960,
+      "name": "Common Decency",
+      "url": "https://open.spotify.com/track/4sNoaoIWCpBWj3y8UpAaej"
+    },
+    {
+      "album": {
         "name": "Complete Collapse",
         "url": "https://open.spotify.com/album/1gWJtOk76VzVKiIKp1cCtd"
       },
@@ -5720,7 +5760,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 180750,
       "name": "Crucify",
       "url": "https://open.spotify.com/track/6bUNY7lUlTazcpb9xKv0Se"
@@ -10386,7 +10426,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 215444,
       "name": "God Is A Weapon",
       "url": "https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH"
@@ -21654,7 +21694,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 209765,
       "name": "Scars",
       "url": "https://open.spotify.com/track/5t36qVZtuRyySgHeiX3mem"
@@ -26777,6 +26817,24 @@
     },
     {
       "album": {
+        "name": "Trial Run",
+        "url": "https://open.spotify.com/album/1KSpfgeSTE1SAulxC27pe5"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173408,
+      "name": "Trial Run",
+      "url": "https://open.spotify.com/track/4q3WDb59Obrau2t4N5vXCI"
+    },
+    {
+      "album": {
         "name": "Troubled Water",
         "url": "https://open.spotify.com/album/5ppygjU5YVH6knvthwcpbf"
       },
@@ -28224,6 +28282,24 @@
       "duration_ms": 375026,
       "name": "We Love You",
       "url": "https://open.spotify.com/track/4Cb1wCZV9jCeBMcVYH9ihH"
+    },
+    {
+      "album": {
+        "name": "We're In This Together",
+        "url": "https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252128,
+      "name": "We're In This Together",
+      "url": "https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75"
     },
     {
       "album": {

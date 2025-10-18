@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de \u00d1ejo y Feid.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Daddy Yankee.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -6701,6 +6701,28 @@
     },
     {
       "album": {
+        "name": "CU\u00c1L NOSOTROS",
+        "url": "https://open.spotify.com/album/2BwYpORlB5jVQguE6VMomC"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164280,
+      "name": "CU\u00c1L NOSOTROS",
+      "url": "https://open.spotify.com/track/74jGIxaHC0z3AAvItuHmU2"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1ntas veces",
         "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
       },
@@ -8997,6 +9019,24 @@
     },
     {
       "album": {
+        "name": "LAMENTO EN BAILE",
+        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168217,
+      "name": "EL TOQUE",
+      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
+    },
+    {
+      "album": {
         "name": "EL VIBE",
         "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
       },
@@ -10596,6 +10636,24 @@
       "duration_ms": 185241,
       "name": "FLECHAZO EN EL CENTRO",
       "url": "https://open.spotify.com/track/4jn3R3KF5hx2fCiXlj89yE"
+    },
+    {
+      "album": {
+        "name": "Flow Diferente",
+        "url": "https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138352,
+      "name": "Flow Diferente",
+      "url": "https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen"
     },
     {
       "album": {
@@ -12964,7 +13022,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 218761,
       "name": "La Depre",
       "url": "https://open.spotify.com/track/7d11mvlrfVZAe9HKlbNNBY"
@@ -13310,6 +13368,24 @@
       "duration_ms": 192096,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/2l2BkSac9dFKsg2gYALbRg"
+    },
+    {
+      "album": {
+        "name": "La Noche Que No Hab\u00eda Uber",
+        "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "La Noche Que No Hab\u00eda Uber",
+      "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
     },
     {
       "album": {
@@ -15472,7 +15548,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 200672,
       "name": "MARGARITA MALIBU",
       "url": "https://open.spotify.com/track/6C2N0fcXtRDcvv2FWeHgcF"
@@ -15902,7 +15978,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 161105,
       "name": "Me Tienen Envidia",
       "url": "https://open.spotify.com/track/3OuL36CWtNoiAcV9Sb1m1N"
@@ -18680,7 +18756,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 158400,
       "name": "Nostalgia .0002 L\u00e1grimas",
       "url": "https://open.spotify.com/track/1oBM5FQ5bTReIFQFdDNhgz"
@@ -18750,7 +18826,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 147599,
       "name": "Nota",
       "url": "https://open.spotify.com/track/2J6T2gUM3rrNnCoWtbLw6Z"
@@ -19738,6 +19814,28 @@
       "duration_ms": 194526,
       "name": "Pa Que Te Duela",
       "url": "https://open.spotify.com/track/2BDCNX7uoYwdkVeWGX3F1A"
+    },
+    {
+      "album": {
+        "name": "Pa que ya no est\u00e9s triste",
+        "url": "https://open.spotify.com/album/1HzgN9B54LNZgdGqFE9wHR"
+      },
+      "artists": [
+        {
+          "name": "BROKIX",
+          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185232,
+      "name": "Pa que ya no est\u00e9s triste",
+      "url": "https://open.spotify.com/track/4Foho0RcX50Fqg9wgdiQBQ"
     },
     {
       "album": {
@@ -21026,7 +21124,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 196585,
       "name": "PLEGARIA",
       "url": "https://open.spotify.com/track/6NpsXyi3cnqgsY47NrHIPZ"
@@ -25541,6 +25639,32 @@
     },
     {
       "album": {
+        "name": "Tocando Madera",
+        "url": "https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Tocando Madera",
+      "url": "https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7"
+    },
+    {
+      "album": {
         "name": "Toda (The Remixes)",
         "url": "https://open.spotify.com/album/79qcevVykL8VPGVQyTbtkC"
       },
@@ -25932,7 +26056,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 146311,
       "name": "TOTTORI",
       "url": "https://open.spotify.com/track/1Jc3WeDMOAS5BRXIpmONL9"
@@ -26843,6 +26967,28 @@
     },
     {
       "album": {
+        "name": "Un Polvito +",
+        "url": "https://open.spotify.com/album/51j9nVeyDUYp2FlwhlSyzL"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214742,
+      "name": "Un Polvito +",
+      "url": "https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP"
+    },
+    {
+      "album": {
         "name": "Un Rodeoooo",
         "url": "https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi"
       },
@@ -27052,7 +27198,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 147482,
       "name": "U\u00f1as Afiladas",
       "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
@@ -27268,6 +27414,28 @@
       "duration_ms": 186000,
       "name": "VENTE CONMIGO",
       "url": "https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz"
+    },
+    {
+      "album": {
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171344,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
     },
     {
       "album": {

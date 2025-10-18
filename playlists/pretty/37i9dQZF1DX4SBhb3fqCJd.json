@@ -1,13 +1,37 @@
 {
-  "description": "Where R&B lives. Cover: Kehlani",
-  "num_followers": 6122702,
+  "description": "Where R&B lives. Cover: Chris Brown, Bryson Tiller & Usher",
+  "num_followers": 6122628,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENQKHDeKpUslfMMNA3cw1sS5p0Y",
+  "snapshot_id": "AAAAAKbgfnq8N3Cz7NAzvv8SlmmFQWDO",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:25:12",
+      "album": {
+        "name": "It Depends (The Remix) (feat. Bryson Tiller & Usher)",
+        "url": "https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "It Depends (The Remix) (feat. Bryson Tiller & Usher)",
+      "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
+    },
     {
       "added_at": "2025-10-03 04:00:54",
       "album": {
@@ -79,26 +103,6 @@
       "duration_ms": 242402,
       "name": "YES IT IS (feat. Muni Long & Marsha Ambrosius) [REMIX]",
       "url": "https://open.spotify.com/track/348qRxgLJ8qWtyYtZlHSNR"
-    },
-    {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "It Depends (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 271874,
-      "name": "It Depends (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -375,6 +379,26 @@
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "added_at": "2025-10-17 04:25:12",
+      "album": {
+        "name": "SMOKIN POTNA",
+        "url": "https://open.spotify.com/album/5qpj22OHmpSXlT6eG9OfYP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 153145,
+      "name": "SMOKIN POTNA",
+      "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
       "added_at": "2025-10-03 04:00:54",
@@ -687,22 +711,6 @@
       "duration_ms": 150048,
       "name": "Damage Control",
       "url": "https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1"
-    },
-    {
-      "added_at": "2025-10-03 04:00:54",
-      "album": {
-        "name": "New Martyrs (Ride 4 U)",
-        "url": "https://open.spotify.com/album/2JsUcLi6QE4l46IR4U4lMU"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 210052,
-      "name": "New Martyrs (Ride 4 U)",
-      "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
     },
     {
       "added_at": "2025-10-03 04:00:54",

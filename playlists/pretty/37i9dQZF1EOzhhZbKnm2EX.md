@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOzhhZbKnm2EX.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 18 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 18 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOzhhZbKnm2EX.md) - [plain]
 | 11 | [Lowkey \(feat\. Erykah Badu\)](https://open.spotify.com/track/125kmhAUbQqM4zKOS3L7No) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 4:17 |
 | 12 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 |
 | 13 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
-| 14 | [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 43:20 |
+| 14 | [Drake vs Drake](https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 41:49 |
 | 15 | [imagine](https://open.spotify.com/track/39LmTF9RgyakzSYX8txrow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:32 |
 | 16 | [Why Ariana Grande Is a New Kind of Pop Star for Coachella](https://open.spotify.com/episode/5bNUFQJkdJ8vgtdhuNXbW5) | [Pop Shop Podcast](https://open.spotify.com/show/6Up21LReNRTrMTa6O3mkKJ) | [Pop Shop Podcast](https://open.spotify.com/album/6Up21LReNRTrMTa6O3mkKJ) | 31:48 |
 | 17 | [WHO DO U LOVE?](https://open.spotify.com/track/6YKCEtfZXXyionWJPtT5jb) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [WHO DO U LOVE?](https://open.spotify.com/album/68nS7mAzImPMJt94b0ZQza) | 3:09 |

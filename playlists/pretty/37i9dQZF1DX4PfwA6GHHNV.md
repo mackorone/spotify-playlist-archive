@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,121 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,123 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 51 | [Soul da Noite.](https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [LilBoy Bruce](https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn) | [Guetto Wave’s](https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C) | 3:13 |
 | 52 | [MELHOR FASE](https://open.spotify.com/track/6CdWZLtCtAw45jkTd9P3Gl) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4) | [MELHOR FASE](https://open.spotify.com/album/63suSL6QHh6iSDjg3VUFnJ) | 3:30 |
 | 53 | [12 de Junho](https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [12 de Junho](https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4) | 3:10 |
-| 54 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
-| 55 | [RELACIONAMENTO SOLO](https://open.spotify.com/track/3LwmbuHvt9rsiGsppCcW80) | [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP), [6ta](https://open.spotify.com/artist/1gUxxusVwo7SHvLBVytGWj), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf) | [RELACIONAMENTO SOLO](https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o) | 2:35 |
+| 54 | [RELACIONAMENTO SOLO](https://open.spotify.com/track/3LwmbuHvt9rsiGsppCcW80) | [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP), [6ta](https://open.spotify.com/artist/1gUxxusVwo7SHvLBVytGWj), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf) | [RELACIONAMENTO SOLO](https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o) | 2:35 |
+| 55 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
 | 56 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 |
 | 57 | [Me Conta](https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Me Conta](https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs) | 3:16 |
 | 58 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159256,
+  "num_followers": 159259,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -987,30 +987,6 @@
     {
       "added_at": "2025-10-03 03:01:37",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
-      },
-      "artists": [
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
-    },
-    {
-      "added_at": "2025-10-03 03:01:37",
-      "album": {
         "name": "MIXTRAPISEIRO",
         "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 189687,
       "name": "BEM VINDO A 4TAL",
       "url": "https://open.spotify.com/track/5RkgebjAEJ8hHboAzE3Zl1"
+    },
+    {
+      "added_at": "2025-10-03 03:01:37",
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
+      },
+      "artists": [
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
     },
     {
       "added_at": "2025-10-03 03:01:37",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-10-03 03:01:37",
       "album": {
-        "name": "Mais uma Chance",
-        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
-      },
-      "artists": [
-        {
-          "name": "Buia Kalu",
-          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
-        },
-        {
-          "name": "Macaia",
-          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
-        }
-      ],
-      "duration_ms": 183700,
-      "name": "Mais uma Chance",
-      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
-    },
-    {
-      "added_at": "2025-10-03 03:01:37",
-      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
+    },
+    {
+      "added_at": "2025-10-03 03:01:37",
+      "album": {
+        "name": "Mais uma Chance",
+        "url": "https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M"
+      },
+      "artists": [
+        {
+          "name": "Buia Kalu",
+          "url": "https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3"
+        },
+        {
+          "name": "Macaia",
+          "url": "https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV"
+        }
+      ],
+      "duration_ms": 183700,
+      "name": "Mais uma Chance",
+      "url": "https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8"
     }
   ],
   "unique_name": "Resenha na Praia",

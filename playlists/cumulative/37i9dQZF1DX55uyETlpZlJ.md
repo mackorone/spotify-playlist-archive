@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-563 songs - 1 day 8 hr 1 min
+564 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Aishu Nee Andada Giniya](https://open.spotify.com/track/6HcFoWvUiDoktTTDc1koDS) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst) | [Aishu Nee Andada Giniya](https://open.spotify.com/album/4FxHIygHzSHzwodmGJyxCM) | 6:04 | 2025-08-21 |  |
 | [ALAG HAI](https://open.spotify.com/track/3ptmb4toZVGAs73tbERceP) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/7A7jELEKRiRVMIQMZGlGyN) | 1:23 | 2023-09-20 | 2024-02-17 |
 | [ALAG HAI](https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz) | 1:23 | 2023-09-20 | 2024-01-07 |
-| [Alemaari](https://open.spotify.com/track/1vEAKvg8MTsLE1bXnIXAJu) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy) | [Alemaari](https://open.spotify.com/album/15vbphiLpF98dJshJkVfhQ) | 3:40 | 2025-04-21 |  |
+| [Alemaari](https://open.spotify.com/track/1vEAKvg8MTsLE1bXnIXAJu) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy) | [Alemaari](https://open.spotify.com/album/15vbphiLpF98dJshJkVfhQ) | 3:40 | 2025-04-21 | 2025-10-18 |
 | [Aleya Vaikhari](https://open.spotify.com/track/2choQONmdzNsjH5ODkcoA8) | [Ajith Keshava](https://open.spotify.com/artist/3bN8X7e50eYFGhuqctG5Te), [Chinmai Athreyas](https://open.spotify.com/artist/25W8IcZFal0bZ1zm0Wkvl8), [Sagar Gururaaj](https://open.spotify.com/artist/5vJCsMBoVKDxdMxE5ZIVNR), [Saravana Gowtham](https://open.spotify.com/artist/6A6TpsktsFWO8kOtQa9IGj) | [Aleya Vaikhari](https://open.spotify.com/album/4i9q4NlAPUny3MpkA9R6cP) | 3:05 | 2025-09-06 |  |
 | [Alive](https://open.spotify.com/track/6fTBrgN6MgDU4wsjv1jewf) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Alive](https://open.spotify.com/album/2yVUXFVHUNWFFJ8f571ltz) | 3:31 | 2024-05-24 | 2024-11-06 |
 | [Alladsro](https://open.spotify.com/track/5VcLXHP9BQXJpxKYRLLe5E) | [PS Praveen](https://open.spotify.com/artist/2Dl133Jk9EdG3Z8lKbTMle) | [Alladsro](https://open.spotify.com/album/1Xxq3dTXHid0SEifag64gu) | 3:56 | 2023-08-25 | 2023-09-22 |
@@ -548,6 +548,7 @@
 | [Usire My Breath](https://open.spotify.com/track/2N1k2J1VX5ZqhuDw4kgVZg) | [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [Usire My Breath](https://open.spotify.com/album/03nWIcH5cuej4GGnzIk1xT) | 2:17 | 2024-08-02 | 2025-01-22 |
 | [Usire Olavagi Hoyite](https://open.spotify.com/track/7mq6V2nxXYb5oMxyxORtyh) | [Fayaz Kushtagi](https://open.spotify.com/artist/5uoUEYCRBbVh8eCyvjYbMK), [manju pujari](https://open.spotify.com/artist/15tI9cvt89M7FgNDgz18SZ), [Sharan Bijakal](https://open.spotify.com/artist/1DPuzheKjUmaVIORDg4Ng5) | [Usire](https://open.spotify.com/album/5zNjruszlk0vNCmDx9H6Bo) | 3:23 | 2025-04-07 | 2025-10-07 |
 | [Usiru](https://open.spotify.com/track/2Z5RYeUKMb7hQt4YWNiBq4) | [Nithish O K](https://open.spotify.com/artist/4c6QaJSRpK39BFUXARvr78), [Sanoop Kumar](https://open.spotify.com/artist/3wRgagXI2E8pvzksuf9TTx) | [Usiru](https://open.spotify.com/album/39xAAG1JJjPzXug1Zj5LHy) | 3:36 | 2025-08-11 |  |
+| [Uttara Kannada](https://open.spotify.com/track/2lyAfDS0fXdHyJY5Ok5K0e) | [Narayan Sharma](https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP), [Jayant Kaikini](https://open.spotify.com/artist/5p4VpAZm4FEyAeNDELFAMB) | [Uttara Kannada](https://open.spotify.com/album/3ia2YEEm8CWQrCALwyRj7R) | 3:15 | 2025-10-17 |  |
 | [UTTHARA](https://open.spotify.com/track/2sNgNmLWdkGRjjTnKmIAuo) | [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4), [Dc](https://open.spotify.com/artist/4MSTmygJyxqNPi05sBuSUC) | [UTTHARA](https://open.spotify.com/album/1DATapcuiHi8l5gk9TSCCs) | 3:02 | 2025-10-06 |  |
 | [Vadiraj](https://open.spotify.com/track/2A8xmguW2nqhZqOxmSk4Nu) | [Dj Megharaj SN](https://open.spotify.com/artist/5NC5Fp8Cbb8LIiLp6Opyks) | [Vadiraj](https://open.spotify.com/album/0ZBl9ueUQnYRh8JnR8eqbD) | 2:21 | 2023-04-03 | 2023-11-30 |
 | [Veera](https://open.spotify.com/track/1at6I3cX5wBSRJgkwGoenk) | [Nandan Srinivas](https://open.spotify.com/artist/2pTa1LU0eRBmROXhsvxttY), [Darshan Shinde](https://open.spotify.com/artist/4TxpjVvYrrI5Py1kCOIzig), [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [D Cube](https://open.spotify.com/artist/0mCdRXMN2ozZonPnI6EtFj), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Sharath Prakash](https://open.spotify.com/artist/26tMtsrM32yHe469h2LLof) | [Veera](https://open.spotify.com/album/4Oi5t7j1mpqKTxpn2DZXq6) | 3:40 | 2023-08-11 | 2023-09-07 |

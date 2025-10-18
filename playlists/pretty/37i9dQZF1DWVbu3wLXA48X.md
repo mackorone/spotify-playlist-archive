@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,173 likes - 90 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,194 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [](https://open.spotify.com/album/null) | 4:58 |
+| 1 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 2 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
 | 3 | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/track/5q0tJ1BEqV4L31UCYfeR51) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/album/6Moc4edBRZlrFRZ0soH6pI) | 3:20 |
 | 4 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 6 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
 | 7 | [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Human Happens / Paint Me A Picture](https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1) | 4:03 |
 | 8 | [Artificial Angels](https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Artificial Angels](https://open.spotify.com/album/0a8hPV58tZZa45q26OUb8C) | 2:49 |
-| 9 | [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(Deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 |
+| 9 | [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 |
 | 10 | [Comin' To You](https://open.spotify.com/track/1ZqWAMxU6vWFHA2WzNqwCL) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Comin' To You](https://open.spotify.com/album/4pedOTSRabuv4pEeIITCRJ) | 4:21 |
 | 11 | [Koya](https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Koya](https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy) | 5:17 |
 | 12 | [What's On Your Mind](https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [What's On Your Mind](https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop 💫 Chloe Qisha on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,056 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,061 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 15 | [Dolphins](https://open.spotify.com/track/4flKbpAi3F1dV65o3WYKrD) | [Jenny on Holiday](https://open.spotify.com/artist/3wHAE4ulAeuwZfQOMWArXD) | [Dolphins](https://open.spotify.com/album/1B4O1nyS6yxVN7UYneqJHZ) | 4:46 |
 | 16 | [Thinking Bout Your Ex](https://open.spotify.com/track/5PoYHehSDtGWTnhW0dZPvF) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Thinking Bout Your Ex](https://open.spotify.com/album/6IrdDANwLhsSwbRPR5Q2pj) | 2:32 |
 | 17 | [Make You Love Me](https://open.spotify.com/track/571fXOOmqZ5gyQa2Ao8uJK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Make You Love Me](https://open.spotify.com/album/3mHrWuh4b64kOYxhjZ3l6v) | 4:24 |
-| 18 | [Reverse Cowboy](https://open.spotify.com/track/2X9z16JOWqCeXMsDSm3VsJ) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [](https://open.spotify.com/album/null) | 3:32 |
+| 18 | [Reverse Cowboy](https://open.spotify.com/track/2X9z16JOWqCeXMsDSm3VsJ) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [Reverse Cowboy](https://open.spotify.com/album/7wcJCn9OfEnAMHVesh9dPA) | 3:32 |
 | 19 | [miss provocative](https://open.spotify.com/track/24Ek0eQxz1qkb1rIrm44Fy) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [miss provocative](https://open.spotify.com/album/44ZUh0IPVY2OECSfMJFzxy) | 2:28 |
 | 20 | [Meeting You Once \(The End\)](https://open.spotify.com/track/4a08u29chwEimXNJ2GbFzA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return Act II](https://open.spotify.com/album/02XrUeWA1UrWc9B5esKAM2) | 2:17 |
 | 21 | [The Fault Is Mine](https://open.spotify.com/track/52guz6B9Tmho2QTpwVO6gC) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [The Fault Is Mine](https://open.spotify.com/album/7860RQWSgFaI72aF81Qqgu) | 3:33 |

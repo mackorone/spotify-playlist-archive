@@ -6101,6 +6101,28 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/7JPl3CszSPBzJL8OqC0HKU"
+      },
+      "artists": [
+        {
+          "name": "YUSSI",
+          "url": "https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997"
+        },
+        {
+          "name": "OHKAY",
+          "url": "https://open.spotify.com/artist/7jv5EBF4i46kYNwMPPZcQv"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225342,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/6E5k96BE2EID246cT5COTJ"
+    },
+    {
+      "album": {
         "name": "ENEMY",
         "url": "https://open.spotify.com/album/7EL4y1SIpzIMabjzaGBPxV"
       },

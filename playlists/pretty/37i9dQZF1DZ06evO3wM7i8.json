@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35107,
+  "num_followers": 35118,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAAe+wlEm0OZG5BVI3S1UxcH",
+  "snapshot_id": "aPA1gAAAAACM6B4z2BfK+3197SpZAP08",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 184197,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp"
+      "duration_ms": 186437,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 186437,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
+      "duration_ms": 184197,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp"
     },
     {
       "added_at": null,
@@ -571,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol7 / 1937 - 1938",
+        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Farewell Blues",
+      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 176052,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/50gUKvSt2vFvxq84SX5ZXi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol7 / 1937 - 1938",
-        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Farewell Blues",
-      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
     },
     {
       "added_at": null,
@@ -668,6 +668,14 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
+          "name": "Maurice Meunier",
+          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
+        },
+        {
+          "name": "Eddie Bernard",
+          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
+        },
+        {
           "name": "Eug\u00e8ne V\u00e9es",
           "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
         },
@@ -676,21 +684,13 @@
           "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
         },
         {
-          "name": "Andr\u00e9 Jourdan",
-          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
-        },
-        {
-          "name": "G\u00e9rard L\u00e9v\u00e9que",
-          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
-        },
-        {
-          "name": "Fred Ermelin",
-          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
+          "name": "Jacques Martinon",
+          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
         }
       ],
-      "duration_ms": 172993,
-      "name": "I Can't Give You Anything but Love",
-      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
+      "duration_ms": 185482,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN"
     },
     {
       "added_at": null,
@@ -764,14 +764,6 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Maurice Meunier",
-          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
-        },
-        {
-          "name": "Eddie Bernard",
-          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
-        },
-        {
           "name": "Eug\u00e8ne V\u00e9es",
           "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
         },
@@ -780,13 +772,21 @@
           "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
         },
         {
-          "name": "Jacques Martinon",
-          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
+          "name": "Andr\u00e9 Jourdan",
+          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
+        },
+        {
+          "name": "G\u00e9rard L\u00e9v\u00e9que",
+          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
+        },
+        {
+          "name": "Fred Ermelin",
+          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
         }
       ],
-      "duration_ms": 185482,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN"
+      "duration_ms": 172993,
+      "name": "I Can't Give You Anything but Love",
+      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
     },
     {
       "added_at": null,

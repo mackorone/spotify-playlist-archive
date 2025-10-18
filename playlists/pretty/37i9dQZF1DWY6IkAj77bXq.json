@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 83028,
+  "num_followers": 83033,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgsAKIpvQHczYDtc+3XlYNNJTMC",
+  "snapshot_id": "AAAAAFIRhn83l0JA7x2l/+9MCT16+Thr",
   "tracks": [
     {
       "added_at": "2025-09-30 19:05:51",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Circuits",
-        "url": "https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0"
-      },
-      "artists": [
-        {
-          "name": "Nelumbo Lutea",
-          "url": "https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr"
-        }
-      ],
-      "duration_ms": 160783,
-      "name": "Circuits",
-      "url": "https://open.spotify.com/track/5BdEWN641x678b5G91K2MM"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Night Serenade",
         "url": "https://open.spotify.com/album/1FzJZ7nqxA7D0zJXwx05zX"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 154000,
       "name": "Night Serenade",
       "url": "https://open.spotify.com/track/5S8XssuWkKSA6SOBL9ZA2W"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Circuits",
+        "url": "https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0"
+      },
+      "artists": [
+        {
+          "name": "Nelumbo Lutea",
+          "url": "https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr"
+        }
+      ],
+      "duration_ms": 160783,
+      "name": "Circuits",
+      "url": "https://open.spotify.com/track/5BdEWN641x678b5G91K2MM"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Gust Of Emotion",
-        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
-      },
-      "artists": [
-        {
-          "name": "Dream State",
-          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Gust Of Emotion",
-      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "skylight",
         "url": "https://open.spotify.com/album/5blaJzMgdJcSFx9xO6lOdU"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 195370,
       "name": "skylight",
       "url": "https://open.spotify.com/track/5gNq3YQWliXYnJWhauSW7q"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Gust Of Emotion",
+        "url": "https://open.spotify.com/album/6UrVKlP9qNjMrqW9QyZnOq"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Gust Of Emotion",
+      "url": "https://open.spotify.com/track/6vhHsyviK0TFsoLl9Y2JJn"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "From Above",
-        "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
-      },
-      "artists": [
-        {
-          "name": "Vincent La Rossi",
-          "url": "https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3"
-        }
-      ],
-      "duration_ms": 206291,
-      "name": "Towards The Light",
-      "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Evening Veil",
         "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 136000,
       "name": "Evening Veil",
       "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "From Above",
+        "url": "https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ"
+      },
+      "artists": [
+        {
+          "name": "Vincent La Rossi",
+          "url": "https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3"
+        }
+      ],
+      "duration_ms": 206291,
+      "name": "Towards The Light",
+      "url": "https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Cloudy Texture",
-        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
-      },
-      "artists": [
-        {
-          "name": "Laura Dawson",
-          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Placebo",
-      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Hypnosos",
         "url": "https://open.spotify.com/album/4IseWIkmG85uQWjNfZqp70"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 138065,
       "name": "Hypnosos",
       "url": "https://open.spotify.com/track/0cspm6EoD1heGcgYekKBRs"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Cloudy Texture",
+        "url": "https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE"
+      },
+      "artists": [
+        {
+          "name": "Laura Dawson",
+          "url": "https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Relatively",
-        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
-      },
-      "artists": [
-        {
-          "name": "Latehours",
-          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
-        }
-      ],
-      "duration_ms": 167187,
-      "name": "Relatively",
-      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/2AIXNyefzl7rb661tgI5YE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 168958,
       "name": "Bare",
       "url": "https://open.spotify.com/track/2PWkjTnM1UiuLMBiBdwimc"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Relatively",
+        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
+      },
+      "artists": [
+        {
+          "name": "Latehours",
+          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
+        }
+      ],
+      "duration_ms": 167187,
+      "name": "Relatively",
+      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
+        "name": "Sleeping Moons",
+        "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 191484,
+      "name": "Sleeping Moons",
+      "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Sleeping Moons",
-        "url": "https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv"
+        "name": "Interlock",
+        "url": "https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
         }
       ],
-      "duration_ms": 191484,
-      "name": "Sleeping Moons",
-      "url": "https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz"
+      "duration_ms": 156000,
+      "name": "Interlock",
+      "url": "https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -951,22 +967,6 @@
       "duration_ms": 195666,
       "name": "Embodied Awareness",
       "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
-        "name": "Interlock",
-        "url": "https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Interlock",
-      "url": "https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "By the Seaside",
-        "url": "https://open.spotify.com/album/02RgacYRMWFmUhJdLTG6sq"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Snow",
-          "url": "https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD"
-        }
-      ],
-      "duration_ms": 165193,
-      "name": "By the Seaside",
-      "url": "https://open.spotify.com/track/7KAQD0hOEik8MhNdrsbkTM"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
-        "name": "Solstice Waves",
-        "url": "https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk"
-      },
-      "artists": [
-        {
-          "name": "Eternalistic",
-          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Solstice Waves",
-      "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Issa",
         "url": "https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw"
       },
@@ -1067,18 +1035,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Restful Whispers",
-        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
+        "name": "Solstice Waves",
+        "url": "https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk"
       },
       "artists": [
         {
-          "name": "Joa Abbot",
-          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
         }
       ],
-      "duration_ms": 218239,
-      "name": "Restful Whispers",
-      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
+      "duration_ms": 168000,
+      "name": "Solstice Waves",
+      "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1115,6 +1083,38 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
+        "name": "By the Seaside",
+        "url": "https://open.spotify.com/album/02RgacYRMWFmUhJdLTG6sq"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Snow",
+          "url": "https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD"
+        }
+      ],
+      "duration_ms": 165193,
+      "name": "By the Seaside",
+      "url": "https://open.spotify.com/track/7KAQD0hOEik8MhNdrsbkTM"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Restful Whispers",
+        "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
+      },
+      "artists": [
+        {
+          "name": "Joa Abbot",
+          "url": "https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk"
+        }
+      ],
+      "duration_ms": 218239,
+      "name": "Restful Whispers",
+      "url": "https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
         "name": "Choir of Clouds",
         "url": "https://open.spotify.com/album/2nsuKSa1NLfyaikTpmlpIy"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Pilgrimage",
-        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
-      },
-      "artists": [
-        {
-          "name": "Arush Mandal",
-          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Protection",
-      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Spiritual Connection",
         "url": "https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 198000,
       "name": "Spiritual Connection",
       "url": "https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Pilgrimage",
+        "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
+      },
+      "artists": [
+        {
+          "name": "Arush Mandal",
+          "url": "https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Light From Within",
-        "url": "https://open.spotify.com/album/0SuSHZGd091t2p0JwOXQtK"
-      },
-      "artists": [
-        {
-          "name": "Erastox",
-          "url": "https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Light From Within",
-      "url": "https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Glisten",
         "url": "https://open.spotify.com/album/4AJ5QDlhs1QwQQ0wcFnE2n"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 183750,
       "name": "Glisten",
       "url": "https://open.spotify.com/track/6GJkLAfKRwPnpqQe1iAsAx"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Light From Within",
+        "url": "https://open.spotify.com/album/0SuSHZGd091t2p0JwOXQtK"
+      },
+      "artists": [
+        {
+          "name": "Erastox",
+          "url": "https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Light From Within",
+      "url": "https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Circle Of Everything",
-        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
-      },
-      "artists": [
-        {
-          "name": "Dance Of Centuries",
-          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Circle Of Everything",
-      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 200536,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Circle Of Everything",
+        "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
+      },
+      "artists": [
+        {
+          "name": "Dance Of Centuries",
+          "url": "https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Circle Of Everything",
+      "url": "https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
+        "name": "Astral Shore",
+        "url": "https://open.spotify.com/album/20WsWxa6BNAjMEHhbDlgUs"
+      },
+      "artists": [
+        {
+          "name": "Soothe My Soul",
+          "url": "https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T"
+        }
+      ],
+      "duration_ms": 216597,
+      "name": "Astral Shore",
+      "url": "https://open.spotify.com/track/6TwKx5FT7krdphWDcq2S9V"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
       },
@@ -1755,22 +1771,6 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Astral Shore",
-        "url": "https://open.spotify.com/album/20WsWxa6BNAjMEHhbDlgUs"
-      },
-      "artists": [
-        {
-          "name": "Soothe My Soul",
-          "url": "https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T"
-        }
-      ],
-      "duration_ms": 216597,
-      "name": "Astral Shore",
-      "url": "https://open.spotify.com/track/6TwKx5FT7krdphWDcq2S9V"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
         "name": "Sammram",
         "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
       },
@@ -1783,22 +1783,6 @@
       "duration_ms": 206624,
       "name": "Sammram",
       "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
-    },
-    {
-      "added_at": "2025-09-30 19:05:51",
-      "album": {
-        "name": "Seneca Rise",
-        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
-      },
-      "artists": [
-        {
-          "name": "Sky Wishes",
-          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Seneca Rise",
-      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Sleep Sequence",
-        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+        "name": "Seneca Rise",
+        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Sky Wishes",
+          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
         }
       ],
-      "duration_ms": 203374,
-      "name": "Sleep Sequence",
-      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+      "duration_ms": 157800,
+      "name": "Seneca Rise",
+      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1867,18 +1851,18 @@
     {
       "added_at": "2025-09-30 19:05:51",
       "album": {
-        "name": "Light & Hope",
-        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
       },
       "artists": [
         {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 167099,
-      "name": "Light & Hope",
-      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
     },
     {
       "added_at": "2025-09-30 19:05:51",
@@ -1895,6 +1879,22 @@
       "duration_ms": 217600,
       "name": "Lights on Water",
       "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2025-09-30 19:05:51",
+      "album": {
+        "name": "Light & Hope",
+        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "duration_ms": 167099,
+      "name": "Light & Hope",
+      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
     },
     {
       "added_at": "2025-09-30 19:05:51",

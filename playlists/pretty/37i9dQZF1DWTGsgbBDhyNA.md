@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 
 > Y esa playlist nueva? 👀 Genuinamente las rolitas más virales para andar con madre… o no? por Aldo De Nigris
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,025 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,690 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTGsgbBDhyNA.md) - [plain]
 | 41 | [EL GATO MALANDRIN \(PASSION VALLENATA EN VIVO\) \- En vivo](https://open.spotify.com/track/0OLvq5yGkAdhiO4DsoCdsM) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [EL GATO MALANDRIN \(PASSION VALLENATA EN VIVO\) \[En vivo\]](https://open.spotify.com/album/3ZGlIRL1TGzXbJq6bST0K4) | 4:29 |
 | 42 | [Viernes De Peligro](https://open.spotify.com/track/6oPpP5Q9W3x1tliIOMvMso) | [La Nueva Ola de Cumbia](https://open.spotify.com/artist/1i8V0JVW4GJxg5mgcocreK) | [Viernes De Peligro](https://open.spotify.com/album/3cHoXUoQxETiVfKLbLGZkr) | 3:01 |
 
-Snapshot ID: `AAAAAF/9mQ3yD3eEMkjiUIAnIsAjHdvE`
+Snapshot ID: `AAAAAOqTnJczUkSJ7dZiGqCBdW5VTlh6`

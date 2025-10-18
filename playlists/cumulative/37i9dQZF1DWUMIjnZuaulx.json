@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Pastor Mike Jr.",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: CeCe Winans",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "At The Cross",
+        "url": "https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219729,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
+    },
+    {
+      "album": {
         "name": "Back To Love (Live)",
         "url": "https://open.spotify.com/album/154Y0bbRNmM9Gpgo62ffnf"
       },
@@ -1218,6 +1236,24 @@
       "duration_ms": 313283,
       "name": "Better - Live",
       "url": "https://open.spotify.com/track/5Y8xU9hSO7loZYaP9UqSWe"
+    },
+    {
+      "album": {
+        "name": "Better Afterwhile (Live)",
+        "url": "https://open.spotify.com/album/381nnkcBLYI5TcDfaiDgIy"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378317,
+      "name": "Better Afterwhile - Live",
+      "url": "https://open.spotify.com/track/41EG7xSpmpJuPL5kZiCjSd"
     },
     {
       "album": {
@@ -12214,7 +12250,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 251155,
       "name": "That's My King",
       "url": "https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x"
@@ -13602,7 +13638,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"

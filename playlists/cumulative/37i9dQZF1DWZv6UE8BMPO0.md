@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-188 songs - 9 hr 30 min
+190 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,10 +85,11 @@
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/5LdDxFsB3UlT9b1OmPKDeI) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 1:53 | 2021-12-21 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 | 2021-12-21 |  |
 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 | 2023-11-17 | 2025-09-05 |
+| [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/3fcumenpjR2sGxEaFJaRgG) | [Hudson Lights](https://open.spotify.com/artist/7cGZpogWiqg5xUSGTmYA7A) | [When Bells are Ringing](https://open.spotify.com/album/2CaneHQLaO1gdyckjf6j4c) | 1:54 | 2025-10-17 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7InfjdILTHBOIs6NBUZgzv) | [Little Branch Trio](https://open.spotify.com/artist/1cNqtnXiRndbjzz501m8CZ) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/3WOEnOrK4LIAuOljVmJp0v) | 2:23 | 2021-12-21 | 2023-10-06 |
 | [It's Christmas in New York](https://open.spotify.com/track/4kfVEaZGZL3AcrcAvsyYNf) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 4:43 | 2022-10-20 | 2025-09-05 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/0nRb93SrNeOFVhnEPqG2gr) | [Richard Smithfield](https://open.spotify.com/artist/2tprHPIiUQTLlefPxrcZuB) | [Jazzy Christmas](https://open.spotify.com/album/10xlo91UUjERC1DjH2NU9M) | 5:01 | 2021-12-21 | 2023-10-13 |
-| [It´s beginning to look a lot like christmas](https://open.spotify.com/track/4miSf70PmaeOVq6BpzRsCM) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [It´s beginning to look a lot like christmas](https://open.spotify.com/album/1Akg6MgkibWWEWE0eKnf9l) | 1:30 | 2023-10-06 |  |
+| [It´s beginning to look a lot like christmas](https://open.spotify.com/track/4miSf70PmaeOVq6BpzRsCM) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [It´s beginning to look a lot like christmas](https://open.spotify.com/album/1Akg6MgkibWWEWE0eKnf9l) | 1:30 | 2023-10-06 | 2025-10-18 |
 | [Jingle Bell Rock](https://open.spotify.com/track/2HJojtx7uZSVb53CK2Jx9b) | [New Dawn Jazz Trio](https://open.spotify.com/artist/6S0AwpQSNFlTi160I0K0js) | [Jingle Bell Rock](https://open.spotify.com/album/7ncI4m5e8zveTtJN0GsGnT) | 2:29 | 2025-10-03 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 | 2022-10-20 | 2025-09-05 |
 | [Jingle Bells](https://open.spotify.com/track/22C3GAYqrcDZlB6Fla6Pj5) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Jingle Bells](https://open.spotify.com/album/5mQttPkPMulXscHAYYyNnP) | 2:36 | 2023-10-20 | 2025-10-04 |
@@ -126,7 +127,8 @@
 | [Please Come Home for Christmas](https://open.spotify.com/track/528sRoUStf8eqZS1bLwVQP) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 2:33 | 2023-10-13 | 2023-10-14 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/19liWJnMu8RapUGKR6Y8fx) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 3:21 | 2022-10-20 | 2025-09-05 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/1QtANQCg5sUog4R0fBCToN) | [The Jazzagogs](https://open.spotify.com/artist/7pFWPdj7yTUGqLUCoIOHjF) | [Jazzy Christmas](https://open.spotify.com/album/6tb3VXCdGgjreH2uUrWoOU) | 2:27 | 2021-12-21 | 2022-09-17 |
-| [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/3L3cxm8r4VeMfdfjQBLKak) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/4QZ3hQV3noIAmkKGqiH6ZP) | 2:31 | 2023-11-10 |  |
+| [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/3L3cxm8r4VeMfdfjQBLKak) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/4QZ3hQV3noIAmkKGqiH6ZP) | 2:31 | 2023-11-10 | 2025-10-18 |
+| [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/1HICTUWwv8pSzJJC9rZYGG) | [Autumn Steps](https://open.spotify.com/artist/5TDtP1kKqz98kh9c0MXuOp) | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/album/1iSttPg1XWTygQFdiOb8ls) | 2:26 | 2025-10-17 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/05WIbRwXFuQQKmPMf9KF0U) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [I'll Be Home for Christmas](https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh) | 4:23 | 2021-12-21 | 2023-11-11 |
 | [Santa Baby](https://open.spotify.com/track/2SOy3BewGYpYy3zIJKREqw) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Santa Baby](https://open.spotify.com/album/3LZEEwdEdWvZW0EIWHFhcL) | 2:50 | 2021-12-21 |  |
 | [Santa Claus Is Comin' To Town](https://open.spotify.com/track/1HxYR9VcGuwhCGtC7quvst) | [The Belgrave Trio](https://open.spotify.com/artist/4HTNNLdRua7FVGPjzJGbtn) | [Santa Claus Is Comin' To Town](https://open.spotify.com/album/6CD6U1ZjqGDF5KrlwmAWPa) | 2:20 | 2025-10-03 |  |

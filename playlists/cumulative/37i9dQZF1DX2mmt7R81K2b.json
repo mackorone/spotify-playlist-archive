@@ -212,7 +212,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 270214,
       "name": "Air",
       "url": "https://open.spotify.com/track/716P6XfVX13JMY17IKGeMj"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 192946,
       "name": "Cavalleria rusticana : Intermezzo - Arr. for Piano and Double Bass",
       "url": "https://open.spotify.com/track/0DxKfiL6ETJvQSXrzRoBYJ"
@@ -776,6 +776,24 @@
       "duration_ms": 145253,
       "name": "Cry Me a River (Arr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/1uWXjkaWw8l4y5sP1wdhd4"
+    },
+    {
+      "album": {
+        "name": "Dear Rainer",
+        "url": "https://open.spotify.com/album/0OuG6Hu4z0jt6Hsk9Skn1A"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324573,
+      "name": "Dear Rainer",
+      "url": "https://open.spotify.com/track/0KhEgVZxws4ljrGFAmCFsd"
     },
     {
       "album": {
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 254600,
       "name": "Mazurka No. 1",
       "url": "https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 409000,
       "name": "Moonlight Sonata",
       "url": "https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q"
@@ -1690,6 +1708,42 @@
       "duration_ms": 186440,
       "name": "Nutcracker Suite (Arr. Ellington & Strayhorn): Sugar Rum Cherry (Dance of the Sugar Plum Fairy)",
       "url": "https://open.spotify.com/track/4HUYWxC3FMK9lj1fBe0lZE"
+    },
+    {
+      "album": {
+        "name": "Pianosong",
+        "url": "https://open.spotify.com/album/5LiBVnao9DWpxzzzToHNYx"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Olivieri: Tornerai (J'attendrai)",
+      "url": "https://open.spotify.com/track/400NQykSDo0hWSas1IEzC6"
+    },
+    {
+      "album": {
+        "name": "Lumen",
+        "url": "https://open.spotify.com/album/0HUOsL9VPD6lJUEQTWjULn"
+      },
+      "artists": [
+        {
+          "name": "Bill Laurance",
+          "url": "https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209029,
+      "name": "Opal",
+      "url": "https://open.spotify.com/track/5Jxe1gSinOhOkgmBmGuJPq"
     },
     {
       "album": {
@@ -2276,6 +2330,32 @@
       "duration_ms": 186966,
       "name": "Suite Americana: No. 1, Sunday evening in L.A.",
       "url": "https://open.spotify.com/track/4myGBFItGRU922UoDp2766"
+    },
+    {
+      "album": {
+        "name": "Tabakova: Suite in Jazz Style: I. Talk",
+        "url": "https://open.spotify.com/album/17jH6WPotK3hToX92kEWR8"
+      },
+      "artists": [
+        {
+          "name": "Dobrinka Tabakova",
+          "url": "https://open.spotify.com/artist/1zLIRG57NYJF3ckNxrQLzp"
+        },
+        {
+          "name": "Maxim Rysanov",
+          "url": "https://open.spotify.com/artist/5Hw9w9OsYqdFSbTXdCgMo6"
+        },
+        {
+          "name": "Dasol Kim",
+          "url": "https://open.spotify.com/artist/7e9yp0dSRWiEy8dumOQP2o"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280026,
+      "name": "Suite in Jazz Style: I. Talk",
+      "url": "https://open.spotify.com/track/6mu8PpZHi2gpTvhcSyl7rP"
     },
     {
       "album": {

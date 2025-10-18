@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Girl Scout
 
-1,372 songs - 3 day 0 hr 11 min
+1,372 songs - 3 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,6 +816,7 @@
 | [needy](https://open.spotify.com/track/0k0ZsYL8jgZD9zmZroYlMd) | [Elvira Alfaro](https://open.spotify.com/artist/2X935u573aID4nnG97RwE9) | [needy](https://open.spotify.com/album/7hRnkCOtq6FKncQYjZBedr) | 3:00 | 2024-03-21 | 2024-06-01 |
 | [Nest](https://open.spotify.com/track/4DLJwoqF8oI4rt2SGXXmaQ) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Nest](https://open.spotify.com/album/03FTgwyighoBWya5x9lbkK) | 3:43 | 2024-11-28 | 2025-01-31 |
 | [Never Alone](https://open.spotify.com/track/33PhjlJSzCGh5ZXvdddlxm) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Never Alone](https://open.spotify.com/album/059eF3Z2bp9Y9yyUmi2rKh) | 2:26 | 2024-02-08 | 2024-02-16 |
+| [Never Wanna Have Fun](https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [Enemies](https://open.spotify.com/album/0U7Ng1lZGQLdhD9jgMIPUn) | 2:34 | 2025-10-16 |  |
 | [New Age](https://open.spotify.com/track/1AeGCEncaEACQkted34bAE) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Welcome to the New Age](https://open.spotify.com/album/6QN1xgBKeFhq6AnnmzUuU7) | 2:53 | 2024-04-11 | 2024-06-21 |
 | [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 | 2024-04-26 | 2024-06-28 |
 | [New Beginnings](https://open.spotify.com/track/0THm1ju74NvtECmp6wGwVL) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [New Beginnings](https://open.spotify.com/album/5IJZeiAtnWgxpMQW56JLjv) | 3:04 | 2025-02-20 | 2025-03-28 |
@@ -1242,7 +1243,6 @@
 | [Top of the World](https://open.spotify.com/track/3DU6QaoZTDyOMOkwuXVAsI) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Top of the World](https://open.spotify.com/album/0UGx1m8SSUwvP6r7T25KJ9) | 3:30 | 2024-03-21 | 2024-04-19 |
 | [Touch Me \(Like That\)](https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [Touch Me \(Like That\)](https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3) | 1:57 | 2024-02-22 | 2024-06-01 |
 | [Tough Love](https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb) | [Duppy Tales](https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ) | [Tough Love](https://open.spotify.com/album/7DHwOcBAq5zFVzC0kS63cn) | 6:39 | 2025-02-20 | 2025-03-28 |
-| [Track 3](https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Tribe of Eurafric \(Never Go\)](https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Paroxysms, Pt\. 1](https://open.spotify.com/album/6r9VKlQyrk0S7ivlc5vOMB) | 2:47 | 2024-05-23 | 2024-06-14 |
 | [Trippin Like WatR](https://open.spotify.com/track/1HoBCtcTM7uOgF4RnG4eq6) | [WatR.](https://open.spotify.com/artist/09f6SeIsdLhDq8BagVWunz) | [Trippin Like WatR](https://open.spotify.com/album/7Bx08ULQBEIfqU05B9QhQ4) | 3:00 | 2025-05-01 | 2025-06-06 |
 | [Tropicana Thunder](https://open.spotify.com/track/3FVTwKxIoDUXmWAxCQ4Gz9) | [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG), [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl) | [Västertorp](https://open.spotify.com/album/2MmW24gyKixixb0vl1efHT) | 7:30 | 2024-04-04 | 2024-05-03 |

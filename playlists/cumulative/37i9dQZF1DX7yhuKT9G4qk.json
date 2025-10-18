@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "End Of Me",
+        "url": "https://open.spotify.com/album/48HxShceUcdOOEWzX1uQBy"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4M",
+          "url": "https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232873,
+      "name": "End Of Me",
+      "url": "https://open.spotify.com/track/2n6LotLcjjyG9NjNiypuxA"
+    },
+    {
+      "album": {
         "name": "Exile",
         "url": "https://open.spotify.com/album/41gsdwJILd5NLUgFvhjXl5"
       },
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 174000,
       "name": "somebody's daughter",
       "url": "https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK"

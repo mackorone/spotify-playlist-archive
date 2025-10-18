@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: SOFFIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,983 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,078 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dass ich gerade traurig bin](https://open.spotify.com/track/2UyMGtgY1gYF9LaaQjkb6K) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Dass ich gerade traurig bin](https://open.spotify.com/album/7jMsQAYfDh8bXiwcMGivBe) | 2:28 |
 | 2 | [Zuhause](https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zuhause](https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq) | 2:00 |
-| 3 | [bei mir](https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [](https://open.spotify.com/album/null) | 2:54 |
+| 3 | [bei mir](https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin EP](https://open.spotify.com/album/5LZ9p9DCSGOMJTkqrdiTAf) | 2:54 |
 | 4 | [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 |
 | 5 | [Das Leben ist schon ernst genug](https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Das Leben ist schon ernst genug](https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk) | 2:21 |
 | 6 | [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 15 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
 | 16 | [Mach Was Ich Will](https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [ALLE MEINE FREUNDE SIND TRÄUMER](https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj) | 2:34 |
 | 17 | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Unsterblich sein \(\*\) feat\. Domiziana](https://open.spotify.com/album/3dEh34KU5u8tbmpcgys6LY) | 3:03 |
-| 18 | [Platzangst](https://open.spotify.com/track/5kHBuOJSDOPIhKgp2XjCOe) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [](https://open.spotify.com/album/null) | 2:40 |
+| 18 | [Platzangst](https://open.spotify.com/track/5kHBuOJSDOPIhKgp2XjCOe) | [Ronja](https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX) | [Ding im Brustkorb](https://open.spotify.com/album/7aZg4IVTtDO5wMAsDI6ULh) | 2:40 |
 | 19 | [Kalt gemacht](https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kalt gemacht](https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64) | 3:05 |
 | 20 | [E\-Scooter](https://open.spotify.com/track/2J9fyIxEIzl9WsuXUtfVzl) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Knutschen & Boxen](https://open.spotify.com/album/6XUwzIhpoVTxwn0rQU37v9) | 3:33 |
 | 21 | [Wie du](https://open.spotify.com/track/2wgmhgtrg8mxD8Y7sBRXbo) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Wie du](https://open.spotify.com/album/56yu5IAes8T5s5uxD4zMqB) | 2:21 |

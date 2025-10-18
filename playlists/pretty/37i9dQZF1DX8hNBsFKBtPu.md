@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,969 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,976 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Eyes On You \(feat\. Ida & Annika\)](https://open.spotify.com/track/7zrpsIDtsWPzrMAW2zZeYz) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr), [Ida & Annika](https://open.spotify.com/artist/6f49Y3mRQ68px4jpR4x4ew) | [](https://open.spotify.com/album/null) | 3:06 |
+| 1 | [Eyes On You \(feat\. Ida & Annika\)](https://open.spotify.com/track/7zrpsIDtsWPzrMAW2zZeYz) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr), [Ida & Annika](https://open.spotify.com/artist/6f49Y3mRQ68px4jpR4x4ew) | [Ages](https://open.spotify.com/album/2p0BnYrZIL8fWLZ3GUaJ5z) | 3:06 |
 | 2 | [Gjort Hvad Jeg Kan](https://open.spotify.com/track/7nKXclXnCjbZiXv2yo8twY) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gjort Hvad Jeg Kan](https://open.spotify.com/album/2RfVIgXe5IJNwh4yVlym7k) | 3:23 |
 | 3 | [Please Don't Hate Me](https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Please Don't Hate Me](https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd) | 3:34 |
 | 4 | [hader ik mig selv sammen med dig](https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hader ik mig selv sammen med dig](https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR) | 2:18 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 6 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 7 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 8 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 |
-| 9 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [](https://open.spotify.com/album/null) | 3:14 |
+| 9 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 |
 | 10 | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 |
 | 11 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
 | 12 | [Se Mig Nu](https://open.spotify.com/track/1xMECrJ8Vkm3W0bYWecKuZ) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Se Mig Nu](https://open.spotify.com/album/4eQeeRAFkMvbSav1UPvnSk) | 3:02 |

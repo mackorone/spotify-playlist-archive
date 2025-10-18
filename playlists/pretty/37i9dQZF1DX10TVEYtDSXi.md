@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,189 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,190 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [](https://open.spotify.com/album/null) | 3:06 |
+| 1 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:06 |
 | 2 | [Superman](https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd), [Nova Ísland](https://open.spotify.com/artist/6Z1OH8B7lOspT4vXy0BcY0) | [Superman](https://open.spotify.com/album/3hEYZuqFOChckFGcfRkT59) | 1:47 |
 | 3 | [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 |
 | 4 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |

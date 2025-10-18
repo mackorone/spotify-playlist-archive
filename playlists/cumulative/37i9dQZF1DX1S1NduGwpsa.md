@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Flore Benguigui & The Sensible Notes
 
-848 songs - 2 day 12 hr 13 min
+848 songs - 2 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Euro](https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Euro](https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px) | 2:48 | 2025-09-11 |  |
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/3dmUgRVy8xPsNJ9TO1Y5iX) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Ev’ry Time We Say Goodbye](https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp) | 4:43 | 2025-02-27 | 2025-04-25 |
 | [Ever Ready Sunday](https://open.spotify.com/track/2aCurM3D9ZO5nGStSKDWdJ) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 4:20 | 2022-10-10 | 2022-11-11 |
+| [Everyday Superheroes](https://open.spotify.com/track/0Pzub2Ai5j1zAq2sF76e6K) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Everyday Superheroes](https://open.spotify.com/album/0t29Q1FASaChkVGRq3C8QF) | 5:00 | 2025-10-16 |  |
 | [Everything’s Not Lost](https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Everything’s Not Lost](https://open.spotify.com/album/49WaKMcrbMJt3tqkLXnpVO) | 4:08 | 2023-09-21 | 2024-01-12 |
 | [Excess](https://open.spotify.com/track/0jKIn0FfNhlqno58x4HBY2) | [Edouard Ferlet](https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni) | [Excess](https://open.spotify.com/album/38PEARcrLFjKJSRhVuZ4cX) | 3:49 | 2023-09-14 | 2024-01-05 |
 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 | 2024-02-29 | 2024-05-10 |
@@ -372,6 +373,7 @@
 | [It's Magic](https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [It's Magic](https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42) | 3:39 | 2025-08-21 |  |
 | [It's Not Unusual](https://open.spotify.com/track/3l30P6I5HoyfcMNbWOgi9E) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Third Times the Charm](https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ) | 4:29 | 2023-07-27 | 2023-10-20 |
 | [It's Okay](https://open.spotify.com/track/1ao6KfsCQsl2zn55hTMtpd) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/58TrLsdIgPp57favQCVRmj) | 6:05 | 2022-12-15 | 2023-03-10 |
+| [It’s Raining](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Detour](https://open.spotify.com/album/74OROuWbzN8h9ZB3tCtLea) | 4:28 | 2025-10-16 |  |
 | [Ivan](https://open.spotify.com/track/0456iEt4RKO3bmhJbTixcf) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7), [Ivan Conti](https://open.spotify.com/artist/2dfKG7aNtsTiPXBkXqQbVa) | [Three Roses](https://open.spotify.com/album/35AAL1fg3jjtMyBJ2LToUn) | 3:56 | 2024-05-16 | 2024-09-06 |
 | [I’m on a Roll](https://open.spotify.com/track/1y2OtZELxfZRSPXOwkhjHv) | [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL) | [I'm on a Roll](https://open.spotify.com/album/58yG3zRmsrOWHKUVp6bCR6) | 3:09 | 2024-04-25 | 2024-08-30 |
 | [J.T.](https://open.spotify.com/track/2f8F9sQWO0HJMBCWtaCq5Q) | [Airelle Besson](https://open.spotify.com/artist/7wmRujhwjUN04pL50mZuQT), [Jonas Burgwinkel](https://open.spotify.com/artist/3IYogdLlTqqqaOmEEXl0QR), [Sebastian Sternal](https://open.spotify.com/artist/3uYaI9pblcTHZCV5zSoNzK) | [J.T.](https://open.spotify.com/album/6OVzFyTiT2RLo27OJALYt1) | 4:58 | 2024-08-29 | 2024-10-25 |
@@ -766,8 +768,6 @@
 | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ) | 7:44 | 2022-04-14 | 2022-04-22 |
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 |  |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
-| [Track 1](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
-| [Track 10](https://open.spotify.com/track/0Pzub2Ai5j1zAq2sF76e6K) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring elias rønnenfelt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,946 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,921 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [](https://open.spotify.com/album/null) | 3:29 |
-| 2 | [bad reputation](https://open.spotify.com/track/22Sr77yFpVro9O2TIPZM42) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [](https://open.spotify.com/album/null) | 4:02 |
-| 3 | [Rifle](https://open.spotify.com/track/5soelceHlRGVKDrybGJo1U) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [](https://open.spotify.com/album/null) | 4:31 |
+| 1 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 |
+| 2 | [bad reputation](https://open.spotify.com/track/22Sr77yFpVro9O2TIPZM42) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Some Like It Hot](https://open.spotify.com/album/2CVovXC4S92eRgjtZazNEU) | 4:02 |
+| 3 | [Rifle](https://open.spotify.com/track/5soelceHlRGVKDrybGJo1U) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 4:31 |
 | 4 | [Long Island City Here I Come](https://open.spotify.com/track/1oevydxCBM8J6aGHKymgl1) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 6:37 |
 | 5 | [Name the Band](https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Name the Band](https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ) | 1:32 |
 | 6 | [Today Might Be The Hit](https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Today Might Be The Hit](https://open.spotify.com/album/7pjYZia3RiUqYGtZ2FRaXT) | 2:11 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 20 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 |
 | 21 | [Sleeping Away My Prime](https://open.spotify.com/track/56FzCuIZBTssi5o8nWR7bn) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Sleeping Away My Prime](https://open.spotify.com/album/15XvORWwKNSEi6V5ojg5RK) | 2:33 |
 | 22 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 |
-| 23 | [Maelstrom](https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [](https://open.spotify.com/album/null) | 3:33 |
+| 23 | [Maelstrom](https://open.spotify.com/track/6ZsyO1IOY1d5tk1Q5OoqoG) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [And Your Song is Like a Circle](https://open.spotify.com/album/62MKnX9dinEbi3Zz9w6rx8) | 3:33 |
 | 24 | [Trenches](https://open.spotify.com/track/218P4brorJq8BLcyzconqS) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Trenches](https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh) | 3:32 |
 | 25 | [Oh](https://open.spotify.com/track/1Wh0fEXzDU1my6dA6U2d0e) | [Domina](https://open.spotify.com/artist/5J4Y0TedRCY1Cx2pHOT0vP) | [Oh](https://open.spotify.com/album/4NLlsPWwJSjJEoXixvqSWQ) | 3:15 |
 | 26 | [I Heard, I Saw](https://open.spotify.com/track/1uNhpnn7iZxSCzGfVIZPuo) | [Croíthe](https://open.spotify.com/artist/1rt7AxU5xgNMAxeIzUsjXl) | [I Heard, I Saw](https://open.spotify.com/album/61RHatwLMZ5hKVMDvmOADK) | 3:01 |

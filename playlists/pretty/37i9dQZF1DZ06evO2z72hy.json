@@ -1,12 +1,12 @@
 {
   "description": "This is Gondwana. The essential tracks, all in one playlist.",
-  "num_followers": 88956,
+  "num_followers": 88971,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACnTyWQtiZuIDEiLSQaw9Jb",
+  "snapshot_id": "aPA1gAAAAAAKF71Pha30AgFJLSFNLw4A",
   "tracks": [
     {
       "added_at": null,
@@ -678,11 +678,19 @@
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        },
+        {
+          "name": "Matthew Jacquette",
+          "url": "https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE"
         }
       ],
-      "duration_ms": 218439,
-      "name": "Si No Fuera",
-      "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
+      "duration_ms": 204152,
+      "name": "We Push Away Good Memories",
+      "url": "https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL"
     },
     {
       "added_at": null,
@@ -750,43 +758,27 @@
         {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        },
-        {
-          "name": "Matthew Jacquette",
-          "url": "https://open.spotify.com/artist/7fsjCnNgAkjX9iLny7g0dE"
         }
       ],
-      "duration_ms": 204152,
-      "name": "We Push Away Good Memories",
-      "url": "https://open.spotify.com/track/37ZfyexbuT4zzAvofCjDCL"
+      "duration_ms": 218439,
+      "name": "Si No Fuera",
+      "url": "https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Terc3ra Llamada",
-        "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
+        "name": "Gondwana En Vivo En Buenos Aires",
+        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
       },
       "artists": [
         {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
-        },
-        {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "Los Rastrillos",
-          "url": "https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy"
         }
       ],
-      "duration_ms": 155996,
-      "name": "Quiero acercarme a ti",
-      "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
+      "duration_ms": 325450,
+      "name": "Divina verdad",
+      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
     },
     {
       "added_at": null,
@@ -839,18 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gondwana En Vivo En Buenos Aires",
-        "url": "https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K"
+        "name": "Terc3ra Llamada",
+        "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
       "artists": [
         {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        },
+        {
           "name": "Gondwana",
           "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "Los Rastrillos",
+          "url": "https://open.spotify.com/artist/1NEJuKkyrGHKALbX1AaIoy"
         }
       ],
-      "duration_ms": 325450,
-      "name": "Divina verdad",
-      "url": "https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N"
+      "duration_ms": 155996,
+      "name": "Quiero acercarme a ti",
+      "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
     },
     {
       "added_at": null,

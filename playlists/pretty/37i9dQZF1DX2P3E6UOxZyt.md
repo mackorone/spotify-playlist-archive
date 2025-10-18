@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 慶祝 RADAR 音樂人突破 1000 位！重溫 RADAR 新勢力歷來最受歡迎歌手作品！Cover: 齊翔 \(XIANG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,549 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,549 likes - 36 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [我想不透](https://open.spotify.com/track/2vGseNTkHih0ZzeQXSxBCA) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [STILL](https://open.spotify.com/album/5JJOpNOE88FlcL9DwDNhKF) | 3:02 |
+| 1 | [Only u](https://open.spotify.com/track/3R2gyIZA55OnwsyISh6gyb) | [蔡蔡子Tasia](https://open.spotify.com/artist/7GV9BF2ZtV6RRX9eX4H6NJ), [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [Only u](https://open.spotify.com/album/05zoI5vGcVh4o53r8vKZZO) | 2:08 |
 | 2 | [十字路口→0 \(feat\. 阿蘭 AC\)](https://open.spotify.com/track/7BsO2u9u2QHdo1bS4Lbk57) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [十字路口→0 \(feat\. 阿蘭 AC\)](https://open.spotify.com/album/0csLOutwvMh7KNP9bYNpYC) | 4:25 |
 | 3 | [偶超級宇宙無敵霹靂愛尼](https://open.spotify.com/track/2jXiwmniYqBQFuL5yku3Qk) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [青少年觀察日記](https://open.spotify.com/album/3w4hUa3fKFEt0rAHPMTsrJ) | 4:06 |
 | 4 | [EXX](https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [EXX](https://open.spotify.com/album/4tjS7UM9uRgqw6MBvfqkIS) | 2:20 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [The One That Got Away](https://open.spotify.com/track/6OEdWblne8zSJwOlL4ngLs) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [The One That Got Away](https://open.spotify.com/album/5Z07Cx642VTEtl0xLOmC89) | 4:54 |
 | 36 | [不遠處](https://open.spotify.com/track/7GuLOwT5EWHUzf6xm1Paw7) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不遠處](https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA) | 5:00 |
 
-Snapshot ID: `AAAAABu/EndRRgFgGhI2H+1YkSuQvm2f`
+Snapshot ID: `AAAAAKm21B0ai0xND0OBEVNk8Twlz9an`

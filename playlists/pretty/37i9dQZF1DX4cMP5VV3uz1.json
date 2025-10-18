@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165619,
+  "num_followers": 165636,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,30 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "MHITR: The Album",
+        "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        },
+        {
+          "name": "e.motion",
+          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Can't Decide",
+      "url": "https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "Innocence 2025",
         "url": "https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY"
       },
@@ -379,30 +403,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "MHITR: The Album",
-        "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
-      },
-      "artists": [
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        },
-        {
-          "name": "e.motion",
-          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "Can't Decide",
-      "url": "https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
       },
@@ -415,30 +415,6 @@
       "duration_ms": 204137,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
-        "name": "CHARGIE",
-        "url": "https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        },
-        {
-          "name": "Jamakabi",
-          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
-        }
-      ],
-      "duration_ms": 139457,
-      "name": "CHARGIE",
-      "url": "https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -463,6 +439,30 @@
       "duration_ms": 181689,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "CHARGIE",
+        "url": "https://open.spotify.com/album/6tMEfHFJfpGBpIIbbu7fFo"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        },
+        {
+          "name": "Jamakabi",
+          "url": "https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC"
+        }
+      ],
+      "duration_ms": 139457,
+      "name": "CHARGIE",
+      "url": "https://open.spotify.com/track/3pd6N5QcmjBenZA5BiU9Se"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -511,8 +511,8 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
+        "name": "To The Limit",
+        "url": "https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
         }
       ],
-      "duration_ms": 182069,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
+      "duration_ms": 161206,
+      "name": "To The Limit",
+      "url": "https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -607,8 +607,8 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "To The Limit",
-        "url": "https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1"
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
         }
       ],
-      "duration_ms": 161206,
-      "name": "To The Limit",
-      "url": "https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI"
+      "duration_ms": 182069,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Royalties and Loyalties",
-        "url": "https://open.spotify.com/album/1qIvbtMe37FM7JfAZY9o9p"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 130444,
-      "name": "Royalties & Loyalties",
-      "url": "https://open.spotify.com/track/25rivsEvf6kh1XwgyR4CUr"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "Arctic",
         "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146371,
       "name": "Arctic",
       "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "Royalties and Loyalties",
+        "url": "https://open.spotify.com/album/1qIvbtMe37FM7JfAZY9o9p"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 130444,
+      "name": "Royalties & Loyalties",
+      "url": "https://open.spotify.com/track/25rivsEvf6kh1XwgyR4CUr"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Posra",
-        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Posra",
-      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "Losing Control (VIP)",
         "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "Posra",
+        "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Posra",
+      "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "Eyes On Me (VIP)",
         "url": "https://open.spotify.com/album/4xAZ9I19zSBJIpXdANdmj1"
       },
@@ -1235,18 +1235,22 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/3KVezVSkQD5E4l4sMVZEKm"
+        "name": "Satan's Alley",
+        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
       "artists": [
         {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 208457,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/542RuKAa7204eeEjbAm9Vh"
+      "duration_ms": 244114,
+      "name": "Satan's Alley",
+      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1275,22 +1279,18 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Satan's Alley",
-        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/3KVezVSkQD5E4l4sMVZEKm"
       },
       "artists": [
         {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
         }
       ],
-      "duration_ms": 244114,
-      "name": "Satan's Alley",
-      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+      "duration_ms": 208457,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/542RuKAa7204eeEjbAm9Vh"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "Foreshadow / Third Kit",
+        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Foreshadow",
+      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "THE WAY I ROLL",
         "url": "https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC"
       },
@@ -1499,18 +1515,30 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Foreshadow / Third Kit",
-        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/5OQ23gjOohCUumTTdlv1g4"
       },
       "artists": [
         {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Hugh Hardie",
+          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
+        },
+        {
+          "name": "Azotix",
+          "url": "https://open.spotify.com/artist/5ZdqCYEicA2uEyan7znlKI"
+        },
+        {
+          "name": "Blocksberg",
+          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
         }
       ],
-      "duration_ms": 224914,
-      "name": "Foreshadow",
-      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
+      "duration_ms": 260032,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/6Hx5g5BqynRUgdzOtjFWYh"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1615,22 +1643,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Pelican",
-        "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
-      },
-      "artists": [
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Pelican",
-      "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
         "url": "https://open.spotify.com/album/3c7tJnWUuYVCpcmeia459g"
       },
@@ -1659,50 +1671,18 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+        "name": "Pelican",
+        "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
       },
       "artists": [
         {
-          "name": "AC13",
-          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
-        },
-        {
-          "name": "Ragdoll",
-          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
         }
       ],
-      "duration_ms": 200423,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/5OQ23gjOohCUumTTdlv1g4"
-      },
-      "artists": [
-        {
-          "name": "Unglued",
-          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
-        },
-        {
-          "name": "Hugh Hardie",
-          "url": "https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW"
-        },
-        {
-          "name": "Azotix",
-          "url": "https://open.spotify.com/artist/5ZdqCYEicA2uEyan7znlKI"
-        },
-        {
-          "name": "Blocksberg",
-          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
-        }
-      ],
-      "duration_ms": 260032,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/6Hx5g5BqynRUgdzOtjFWYh"
+      "duration_ms": 154285,
+      "name": "Pelican",
+      "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1731,6 +1711,26 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "duration_ms": 200423,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/1g8qlyA71RSrEmU1I9FOzu"
       },
@@ -1747,6 +1747,54 @@
       "duration_ms": 189500,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "Body Rok",
+        "url": "https://open.spotify.com/album/3N35DmV7b492f1BhEi5gFC"
+      },
+      "artists": [
+        {
+          "name": "Deekline",
+          "url": "https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7"
+        },
+        {
+          "name": "Freq Nasty",
+          "url": "https://open.spotify.com/artist/5gv9zZbaJKdjKWNVwcDP2N"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Body Rok",
+      "url": "https://open.spotify.com/track/47VeBx96ltjkp0VYDIm3It"
+    },
+    {
+      "added_at": "2025-10-09 23:00:30",
+      "album": {
+        "name": "Baby Daddy",
+        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "Baby Daddy",
+      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
     },
     {
       "added_at": "2025-10-09 23:00:30",
@@ -1795,34 +1843,6 @@
     {
       "added_at": "2025-10-09 23:00:30",
       "album": {
-        "name": "Body Rok",
-        "url": "https://open.spotify.com/album/3N35DmV7b492f1BhEi5gFC"
-      },
-      "artists": [
-        {
-          "name": "Deekline",
-          "url": "https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7"
-        },
-        {
-          "name": "Freq Nasty",
-          "url": "https://open.spotify.com/artist/5gv9zZbaJKdjKWNVwcDP2N"
-        },
-        {
-          "name": "Killa P",
-          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Body Rok",
-      "url": "https://open.spotify.com/track/47VeBx96ltjkp0VYDIm3It"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
         "name": "Still The Same (feat. CASISDEAD) [Special Request Remix]",
         "url": "https://open.spotify.com/album/0VNO7kqlhWaY0HBbW5Dd5G"
       },
@@ -1851,26 +1871,6 @@
       "duration_ms": 382500,
       "name": "Still The Same (feat. CASISDEAD) - Special Request Remix",
       "url": "https://open.spotify.com/track/5XYd1JrphtS929XifOxRny"
-    },
-    {
-      "added_at": "2025-10-09 23:00:30",
-      "album": {
-        "name": "Baby Daddy",
-        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "Baby Daddy",
-      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
     },
     {
       "added_at": "2025-10-09 23:00:30",

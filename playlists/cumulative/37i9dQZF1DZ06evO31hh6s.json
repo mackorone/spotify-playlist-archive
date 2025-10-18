@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Betterman",
       "url": "https://open.spotify.com/track/2TYSKyjXMjYiMcmQpCEOBI"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 232622,
       "name": "Dance In The Flames",
       "url": "https://open.spotify.com/track/6pE9MTpAKQ4nkV5ASQHAmi"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 218077,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1wHB2sC7wd5PLlr5FYetrs"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 261092,
       "name": "Put Me in a Cell",
       "url": "https://open.spotify.com/track/5dY605lsFWKbZPEJGHvknf"
@@ -1590,6 +1590,32 @@
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
+    },
+    {
+      "album": {
+        "name": "Thug Brothers",
+        "url": "https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD"
+      },
+      "artists": [
+        {
+          "name": "Layzie Bone",
+          "url": "https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315573,
+      "name": "Ready for War - Bonus Track",
+      "url": "https://open.spotify.com/track/3bmnDVtcrXL6vw7SCXRDDN"
     },
     {
       "album": {
@@ -1818,7 +1844,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"
@@ -2046,7 +2072,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 174602,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/4IV4gSHLrVzTsMUaatmYZg"
@@ -2090,7 +2116,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 240014,
       "name": "Ungrateful (feat. Paris Roze & Tony Atlanta)",
       "url": "https://open.spotify.com/track/1tMtQwxPmYVELaHheAo4GA"

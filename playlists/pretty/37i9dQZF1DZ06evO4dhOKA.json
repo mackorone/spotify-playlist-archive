@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 67325,
+  "num_followers": 67342,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAADhIjzKRIpn0CkPmlfg3IUy",
+  "snapshot_id": "aPA1gAAAAAC3pi95iO3/s9uMwb5wnar7",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Mi Borrachera",
+      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ah\u00ed Deje las Llaves, Mami",
-        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Mi Borrachera",
-      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 186253,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 160493,
       "name": "Ojitos a Mi Gusto",
       "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 186253,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
       "duration_ms": 201909,
       "name": "Avi\u00e9ntame (EN VIVO DESDE EL DOMO CARE)",
       "url": "https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
       "duration_ms": 181893,
       "name": "Necesito Odiarte",
       "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Corrido De Los P\u00e9rez",
-      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las M\u00e1s Pegadas",
-        "url": "https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 168880,
-      "name": "Que Dios Me Perdone",
-      "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
       },
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las + Tocadas",
-        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 180860,
-      "name": "El Corrido de Ramiro Quiroz",
-      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
+      "duration_ms": 168880,
+      "name": "Que Dios Me Perdone",
+      "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 183493,
       "name": "Que Me Perdone Dios",
       "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
     },
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 140504,
-      "name": "Me acostumbr\u00e9 a tu ausencia",
-      "url": "https://open.spotify.com/track/1lxhIBrEuFIjkE1hyppAN0"
+      "duration_ms": 151074,
+      "name": "Nadie como yo te quiso",
+      "url": "https://open.spotify.com/track/45pG1aljTtysivgp46rw2O"
     },
     {
       "added_at": null,

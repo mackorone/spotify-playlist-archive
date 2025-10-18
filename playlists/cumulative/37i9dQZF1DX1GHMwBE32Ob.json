@@ -4555,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "Labubu",
+        "url": "https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1"
+      },
+      "artists": [
+        {
+          "name": "CDQ",
+          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
+        },
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "Labubu",
+      "url": "https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9"
+    },
+    {
+      "album": {
         "name": "Laho",
         "url": "https://open.spotify.com/album/5HelT4HN12za8jJhvi6azJ"
       },
@@ -5366,6 +5388,28 @@
       "duration_ms": 214441,
       "name": "Na So",
       "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Nati (feat. Olamide)",
+      "url": "https://open.spotify.com/track/1Zq9JpMFVaKzQdgkcltijZ"
     },
     {
       "album": {
@@ -7671,24 +7715,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "date_added": "2025-10-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/1Zq9JpMFVaKzQdgkcltijZ"
-    },
-    {
-      "album": {
         "name": "YUSFUL MUSIC",
         "url": "https://open.spotify.com/album/1HuptmkvsxXrr4JLulD83n"
       },
@@ -7868,7 +7894,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 239865,
       "name": "Uptown Disco",
       "url": "https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ"

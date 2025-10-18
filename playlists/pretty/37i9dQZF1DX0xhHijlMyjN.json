@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 331192,
+  "num_followers": 331160,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Me 4 U",
-        "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 180565,
-      "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
-      },
-      "artists": [
-        {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "El Vals Del Obrero",
         "url": "https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 265426,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
+      },
+      "artists": [
+        {
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Xapomel\u00f6n",
-        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Mari Carmen",
-      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Ese d\u00eda piensa en m\u00ed",
         "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 311866,
       "name": "Dolores se llamaba Lola",
       "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Xapomel\u00f6n",
+        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Mari Carmen",
+      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Pasi\u00f3n Condal",
-        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
-      },
-      "artists": [
-        {
-          "name": "Los Manolos",
-          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Noelia",
         "url": "https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 235733,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Pasi\u00f3n Condal",
+        "url": "https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy"
+      },
+      "artists": [
+        {
+          "name": "Los Manolos",
+          "url": "https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj"
+        }
+      ],
+      "duration_ms": 193306,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Bailar Latino",
-        "url": "https://open.spotify.com/album/5J1UTyfayM4b0CTboDnxJu"
-      },
-      "artists": [
-        {
-          "name": "Los Morenos",
-          "url": "https://open.spotify.com/artist/2SrP1bTX9nzMieef8S7Sy7"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Sigue al Lider (Follow The Leader)",
-      "url": "https://open.spotify.com/track/7iAs0nbcBa4sfPLH8NIe1c"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 275200,
       "name": "Yes Sir, I Can Boogie",
       "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Bailar Latino",
+        "url": "https://open.spotify.com/album/5J1UTyfayM4b0CTboDnxJu"
+      },
+      "artists": [
+        {
+          "name": "Los Morenos",
+          "url": "https://open.spotify.com/artist/2SrP1bTX9nzMieef8S7Sy7"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Sigue al Lider (Follow The Leader)",
+      "url": "https://open.spotify.com/track/7iAs0nbcBa4sfPLH8NIe1c"
     },
     {
       "added_at": "2025-07-02 10:54:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec DAYSY et Joseph Kamel
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,685 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,727 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 9 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 |
 | 10 | [Rêve](https://open.spotify.com/track/6vx7Db8JvhiuX6i36kFOkH) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rêve](https://open.spotify.com/album/1J0EFmYDNoOr7EXXcedTm5) | 2:36 |
 | 11 | [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 |
-| 12 | [mes larmes sous les verres noirs](https://open.spotify.com/track/6bTtmAUqi1BDawIdDOhtNm) | [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [](https://open.spotify.com/album/null) | 2:58 |
+| 12 | [mes larmes sous les verres noirs](https://open.spotify.com/track/6bTtmAUqi1BDawIdDOhtNm) | [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [premiers souvenirs du futur](https://open.spotify.com/album/1ObawiCrfLdCAwFLRJdD5B) | 2:58 |
 | 13 | [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 |
 | 14 | [Tant pis pour elle](https://open.spotify.com/track/2GDZe8GdXd0LoUtpVpMUVy) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/0D7w7NEXkbNnhMLDm1tawk) | 2:38 |
 | 15 | [Ça va \(quand même\) \(feat\. Soprano\)](https://open.spotify.com/track/28pSl3TSdBUHY1vIrjVD4T) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:48 |

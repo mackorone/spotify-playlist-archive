@@ -3797,6 +3797,28 @@
     },
     {
       "album": {
+        "name": "Only u",
+        "url": "https://open.spotify.com/album/05zoI5vGcVh4o53r8vKZZO"
+      },
+      "artists": [
+        {
+          "name": "\u8521\u8521\u5b50Tasia",
+          "url": "https://open.spotify.com/artist/7GV9BF2ZtV6RRX9eX4H6NJ"
+        },
+        {
+          "name": "\u9f4a\u7fd4 XIANG",
+          "url": "https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128800,
+      "name": "Only u",
+      "url": "https://open.spotify.com/track/3R2gyIZA55OnwsyISh6gyb"
+    },
+    {
+      "album": {
         "name": "ONLY WITH YOU",
         "url": "https://open.spotify.com/album/1m5ICOkTtQhnDw2fbeYlbb"
       },
@@ -9870,7 +9892,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 182384,
       "name": "\u6211\u60f3\u4e0d\u900f",
       "url": "https://open.spotify.com/track/2vGseNTkHih0ZzeQXSxBCA"

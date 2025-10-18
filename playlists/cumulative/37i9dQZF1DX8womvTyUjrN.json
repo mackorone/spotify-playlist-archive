@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Zhamira Zambrano & Greeicy",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Leanys",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
+    },
+    {
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 171864,
       "name": "beibi",
       "url": "https://open.spotify.com/track/3h0gfCs5SzVvBzesYH4gGi"
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 167118,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/1xGGAKvv0f6gQILGJi2zUE"
@@ -5861,6 +5879,24 @@
     },
     {
       "album": {
+        "name": "EL OTRO T\u00da",
+        "url": "https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl"
+      },
+      "artists": [
+        {
+          "name": "Sam Eli",
+          "url": "https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172840,
+      "name": "EL OTRO T\u00da",
+      "url": "https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT"
+    },
+    {
+      "album": {
         "name": "ANASTASIA",
         "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
       },
@@ -7781,6 +7817,28 @@
     },
     {
       "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/6kKjC5UkhP2AoBwhO6FDOF"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
+    },
+    {
+      "album": {
         "name": "GTA.mp3",
         "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
       },
@@ -8358,7 +8416,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 246613,
       "name": "Igual que yo",
       "url": "https://open.spotify.com/track/7ymzpxwJtVeC9vt7Uu890D"
@@ -8978,7 +9036,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 194080,
       "name": "La del Primer Puesto",
       "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
@@ -9976,7 +10034,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 162282,
       "name": "Lo dejo fluir",
       "url": "https://open.spotify.com/track/659DjhTaWZQ8hLw4P0btxl"
@@ -10060,6 +10118,24 @@
       "duration_ms": 160666,
       "name": "Lo Que Me Har\u00edas En Otra Parte",
       "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
+    },
+    {
+      "album": {
+        "name": "Lo que odias de mi",
+        "url": "https://open.spotify.com/album/3Cp4veECoGqqtSVrv7q8GP"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176752,
+      "name": "Lo que odias de mi",
+      "url": "https://open.spotify.com/track/1Tce7Fsi0e3L7SqXvyNa6B"
     },
     {
       "album": {
@@ -10154,6 +10230,24 @@
       "duration_ms": 213279,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5QaGdJsaC5xvFhBi7TVLGl"
+    },
+    {
+      "album": {
+        "name": "los 41",
+        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206408,
+      "name": "los 41",
+      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
     },
     {
       "album": {
@@ -11265,6 +11359,24 @@
     },
     {
       "album": {
+        "name": "Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/4NBQW40rKJhYHAVjMuVanS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178794,
+      "name": "Melanc\u00f3lico",
+      "url": "https://open.spotify.com/track/2h20jZvxaF4qcJUiOatO2W"
+    },
+    {
+      "album": {
         "name": "mentalf\u00edsica",
         "url": "https://open.spotify.com/album/2ekYShWHLSYpowZovVz1ZH"
       },
@@ -11334,7 +11446,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 212981,
       "name": "Mi Atenci\u00f3n",
       "url": "https://open.spotify.com/track/2kmrvXsXpsCV14gPkKqzsR"
@@ -11870,7 +11982,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 189936,
       "name": "Montego Bay",
       "url": "https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME"
@@ -18418,6 +18530,32 @@
       "duration_ms": 156331,
       "name": "TKILA",
       "url": "https://open.spotify.com/track/1NLyVRa0aPtZXjw9XMZZCX"
+    },
+    {
+      "album": {
+        "name": "Tocando Madera",
+        "url": "https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Tocando Madera",
+      "url": "https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7"
     },
     {
       "album": {

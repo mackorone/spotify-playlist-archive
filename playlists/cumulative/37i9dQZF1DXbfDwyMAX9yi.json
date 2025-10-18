@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Off To A Good Start",
+        "url": "https://open.spotify.com/album/3XxUR80a0meF626gyCqY4u"
+      },
+      "artists": [
+        {
+          "name": "songs in cinema",
+          "url": "https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97215,
+      "name": "Off To A Good Start",
+      "url": "https://open.spotify.com/track/28r43S1qV78fjQw5mPOAX1"
+    },
+    {
+      "album": {
         "name": "Maxton Hall: The World Between Us (Season 1) (Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3AjUBcGTv6uYjAH0VUPRQt"
       },

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Sabaton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,623 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,628 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I, Emperor](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [](https://open.spotify.com/album/null) | 4:15 |
+| 1 | [I, Emperor](https://open.spotify.com/track/3CZDkpmq245kzvCe44P2hM) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Legends](https://open.spotify.com/album/1jjx7U3tayhJTytJVBj0WY) | 4:15 |
 | 2 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
 | 3 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 |
 | 4 | [Fog To Fog](https://open.spotify.com/track/1XOmonDrGwXHfLqN4Iitvj) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Borderland](https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830) | 5:28 |

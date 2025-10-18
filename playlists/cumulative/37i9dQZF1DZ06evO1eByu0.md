@@ -4,7 +4,7 @@
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-120 songs - 9 hr 17 min
+121 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,10 +75,11 @@
 | [Lugar Seguro](https://open.spotify.com/track/5x1af1rD0Als1qnhvUk5qz) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL) | 4:10 | 2025-03-03 |  |
 | [Lugar Seguro](https://open.spotify.com/track/0dvgPHkCgi2HMaBL9PgXmj) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk) | 4:10 | 2023-07-09 | 2024-07-25 |
 | [Lugar Seguro](https://open.spotify.com/track/37BbleCLexY8yNcN3SpVSF) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Graça](https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL) | 4:10 | 2024-08-07 | 2025-03-03 |
-| [Luz da Esperança](https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Luz da Esperança](https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN) | 5:11 | 2024-11-24 |  |
+| [Luz da Esperança](https://open.spotify.com/track/2fJvFgq7mr90PSXV0vuZhq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Luz da Esperança](https://open.spotify.com/album/7gzYiyJJ7RygmVDgoUgqGN) | 5:11 | 2024-11-24 | 2025-10-18 |
 | [Meu Melhor Amigo](https://open.spotify.com/track/6apees47ViBG319vgVmYnJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 4:03 | 2023-07-09 | 2024-05-05 |
 | [Nosso Deus \(Our God\)](https://open.spotify.com/track/62cjC2NHe1BUef2879m71I) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Retrô](https://open.spotify.com/album/33uLiyIIHv2zwyembaPybn) | 4:59 | 2025-06-08 | 2025-07-05 |
 | [Não dá pra Contar](https://open.spotify.com/track/2Z1qnps7X30N4XlQsBbpWZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:05 | 2024-11-13 | 2024-12-14 |
+| [Não há Deus maior \- Ao Vivo](https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 4:41 | 2025-10-18 |  |
 | [O Barco Balançou](https://open.spotify.com/track/1XoHbczW2WUPOJAUTmXLz5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:05 | 2024-10-22 |  |
 | [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 | 2023-12-16 | 2025-05-22 |
 | [O Poder do Teu Amor \(The Power Of Your Love\) \- Ao Vivo](https://open.spotify.com/track/63qYnhfLWKoEEBY6pLHkWf) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 6:12 | 2023-07-09 | 2023-12-14 |

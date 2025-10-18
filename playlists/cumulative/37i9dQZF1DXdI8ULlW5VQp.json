@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Delilah en portada.",
+  "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 KORDELYA en portada.",
   "name": "Pop Folk",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 152796,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO"
+    },
+    {
+      "album": {
+        "name": "25\u00b037\u203240\u2033N 100\u00b014\u203221\u2033O (Coordenadas)",
+        "url": "https://open.spotify.com/album/6ovZTOAg4im2LfeWLhZI4T"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156119,
+      "name": "25\u00b037\u203240\u2033N 100\u00b014\u203221\u2033O (Coordenadas)",
+      "url": "https://open.spotify.com/track/4V9RdXgCPb4QOHsBVo9n5C"
     },
     {
       "album": {
@@ -1104,6 +1122,28 @@
       "duration_ms": 174720,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Jtl7p1Vs9p7R3Azwpql31"
+    },
+    {
+      "album": {
+        "name": "Bonita (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4OBu1bHkuNZKYNpXdGTGfT"
+      },
+      "artists": [
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        },
+        {
+          "name": "Last Jer\u00f3nimo",
+          "url": "https://open.spotify.com/artist/0yaL0dzITk9aOWDeO2D3vW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338834,
+      "name": "Bonita - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FMzNW0O9eo5RAU3UeeEty"
     },
     {
       "album": {
@@ -3293,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283370,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva"
+    },
+    {
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
       },
@@ -3710,7 +3768,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 180372,
       "name": "Huella",
       "url": "https://open.spotify.com/track/1jGPestjbACKCQzvNL8eJg"
@@ -4021,6 +4079,28 @@
     },
     {
       "album": {
+        "name": "la mala racha",
+        "url": "https://open.spotify.com/album/0vVykKWkLEiGjJ1RpvUNBK"
+      },
+      "artists": [
+        {
+          "name": "ni\u00f1o viejo",
+          "url": "https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9"
+        },
+        {
+          "name": "Seb Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4EJ8UxTgitlv2YdMFnWRJC"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188279,
+      "name": "la mala racha",
+      "url": "https://open.spotify.com/track/4Swzoi4CXARQwhhDU8kjcw"
+    },
+    {
+      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/0Hwtk1l10n5fHJZZNwoRtL"
       },
@@ -4228,7 +4308,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 182500,
       "name": "Las Escondidas",
       "url": "https://open.spotify.com/track/6W3kwy6UDG59AkuwMm80Nm"
@@ -4474,7 +4554,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 217106,
       "name": "Lo entend\u00ed",
       "url": "https://open.spotify.com/track/5T8utqGqalHzha7gcCtQat"
@@ -7636,7 +7716,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 196071,
       "name": "Solo Los Amantes Sobreviven",
       "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
@@ -7850,6 +7930,24 @@
       "duration_ms": 101034,
       "name": "T.E.D.M.",
       "url": "https://open.spotify.com/track/7hv8qZBDfWAIpQox8MZVUa"
+    },
+    {
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/7aNC4dqtdKAUgbioBibkFV"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177098,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/6J5CJS1fFVJRlkVil5t9Z0"
     },
     {
       "album": {
@@ -8322,7 +8420,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 174750,
       "name": "Truco Viejo",
       "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"

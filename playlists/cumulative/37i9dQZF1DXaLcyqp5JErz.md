@@ -4,7 +4,7 @@
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-96 songs - 9 hr 34 min
+97 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Arde Outra Vez](https://open.spotify.com/track/7k9IRoJBdV9NIoGGxnCE7g) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Na Sala do Pai](https://open.spotify.com/album/57Zc0kM2ZK0vabo89mLX7V) | 7:10 | 2022-12-16 |  |
 | [Autor da Minha Fé \(feat\. Paulo Cézar\)](https://open.spotify.com/track/3Nf2lSDsZY6YHctnDVX7rc) | [Grupo Logos](https://open.spotify.com/artist/41XTLrYfIdtr8frsp8Em5C), [Paulo Cézar](https://open.spotify.com/artist/59tkQh4975FMO2hfRLVfc7) | [Autor da Minha Fé](https://open.spotify.com/album/4V2xVSZcqaYna4EmoCU9uY) | 4:50 | 2022-12-16 | 2024-11-29 |
 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 | 2022-12-16 |  |
-| [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 | 2022-12-16 |  |
+| [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 | 2022-12-16 | 2025-10-18 |
 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 | 2023-10-13 |  |
 | [Descansarei](https://open.spotify.com/track/5yNfMRJ8byUpEscMcy1ZXb) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais Que Tudo](https://open.spotify.com/album/2zb82e3kM0sVzngRAac0cH) | 6:26 | 2022-12-16 | 2023-07-26 |
 | [Descansarei \- Ao Vivo](https://open.spotify.com/track/44PXCOuQXQIq40BiTBjVW6) | [Ronaldo Medeiros](https://open.spotify.com/artist/6RMUphSh8PJC2llQHlFARe) | [Promessas](https://open.spotify.com/album/58uhE9XLy6EojFpJ6UQKA2) | 6:27 | 2023-07-21 | 2024-04-19 |
@@ -91,6 +91,7 @@
 | [Riqueza](https://open.spotify.com/track/26W4Ttw0wyFjTuOI7cch40) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Comunhão](https://open.spotify.com/album/4CaW1rRRjmmHprILOonYej) | 4:21 | 2024-11-29 |  |
 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 | 2022-12-16 |  |
 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 | 2022-12-16 |  |
+| [Santo Pra Sempre](https://open.spotify.com/track/4k82qQgW7XyWZLbxPytwQQ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Santo Pra Sempre](https://open.spotify.com/album/6pCiSoe5pyo5DvMUIHHd7f) | 5:11 | 2025-10-17 |  |
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-12-16 |  |
 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 | 2023-07-21 |  |
 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 | 2022-12-16 |  |

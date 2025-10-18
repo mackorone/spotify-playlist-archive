@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Portugal.",
-  "num_followers": 219474,
+  "num_followers": 219498,
   "original_name": "Top 50 - Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MIRfoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MIWxIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "P\u00f4r do Sol",
         "url": "https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Tu na Tua",
         "url": "https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO"
@@ -129,39 +129,7 @@
       "url": "https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "Pobre Ex-Namorado",
-        "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
-      },
-      "artists": [
-        {
-          "name": "Vizinhos",
-          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
-        }
-      ],
-      "duration_ms": 173613,
-      "name": "Pobre Ex-Namorado",
-      "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Carta de Alforria",
         "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
@@ -177,27 +145,39 @@
       "url": "https://open.spotify.com/track/12j1Mq9Of1xfONYvGzhayD"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
-        "name": "Reservado",
-        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
+        "name": "Pobre Ex-Namorado",
+        "url": "https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
         }
       ],
-      "duration_ms": 263767,
-      "name": "\u00c1lcool & Prazer",
-      "url": "https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb"
+      "duration_ms": 173613,
+      "name": "Pobre Ex-Namorado",
+      "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -213,7 +193,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "FAMOSINHA",
         "url": "https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26"
@@ -237,7 +217,7 @@
       "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -253,27 +233,27 @@
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+        "name": "Reservado",
+        "url": "https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM"
       },
       "artists": [
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 126800,
-      "name": "Talvez voc\u00ea precise de mim",
-      "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
+      "duration_ms": 263767,
+      "name": "\u00c1lcool & Prazer",
+      "url": "https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Voyage (Part III)",
         "url": "https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa"
@@ -289,7 +269,7 @@
       "url": "https://open.spotify.com/track/1UQvRmRhbX3WxSLW3NbUIU"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -313,7 +293,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
         "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
@@ -329,23 +309,27 @@
       "url": "https://open.spotify.com/track/1X3ltingEVNGRoJf1dvZfQ"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 208291,
-      "name": "Elizabeth Taylor",
-      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+      "duration_ms": 126800,
+      "name": "Talvez voc\u00ea precise de mim",
+      "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -361,23 +345,7 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Casar \u00c9 pra Esquecer",
         "url": "https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or"
@@ -393,27 +361,71 @@
       "url": "https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
-        "name": "Que O Amor Te Salve Nesta Noite Escura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/574cH2qROG1ctLk83a1kuq"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Pedro Abrunhosa",
-          "url": "https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR"
-        },
-        {
-          "name": "Sara Correia",
-          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Que O Amor Te Salve Nesta Noite Escura - Ao Vivo",
-      "url": "https://open.spotify.com/track/79JW4tqG3AigegX3sKRxgi"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+        "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+      "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Leva Tudo",
         "url": "https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN"
@@ -433,7 +445,27 @@
       "url": "https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "Que O Amor Te Salve Nesta Noite Escura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/574cH2qROG1ctLk83a1kuq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Abrunhosa",
+          "url": "https://open.spotify.com/artist/4wkGlEHElrIAnV8tBWDdAR"
+        },
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Que O Amor Te Salve Nesta Noite Escura - Ao Vivo",
+      "url": "https://open.spotify.com/track/79JW4tqG3AigegX3sKRxgi"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Sua Boca Mente (You're Still The One)",
         "url": "https://open.spotify.com/album/7sp6hQtRhxs3NvCP859GkC"
@@ -453,47 +485,7 @@
       "url": "https://open.spotify.com/track/5x1ZLsLnKdT6sJ7oIJTEBV"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "FIM DO NADA",
-        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
-      },
-      "artists": [
-        {
-          "name": "Mizzy Miles",
-          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 161082,
-      "name": "Champions League (feat. Slow J & Gson)",
-      "url": "https://open.spotify.com/track/1kJml4AvYDxIMcJVt7nYlL"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 212777,
-      "name": "Father Figure",
-      "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Deslocado",
         "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
@@ -509,7 +501,63 @@
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "Mussulo (feat. Doddy)",
+        "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
+      },
+      "artists": [
+        {
+          "name": "DJ Malvado",
+          "url": "https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ"
+        },
+        {
+          "name": "DJ Aka-m",
+          "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
+        },
+        {
+          "name": "DODDY",
+          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
+        }
+      ],
+      "duration_ms": 256483,
+      "name": "Mussulo (feat. Doddy)",
+      "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 212777,
+      "name": "Father Figure",
+      "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
@@ -537,7 +585,7 @@
       "url": "https://open.spotify.com/track/2GylVVMD21R4SqgAt8gGC5"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "teletubbies (feat. Wet Bed Gang)",
         "url": "https://open.spotify.com/album/7ykDqjbu0EIVs6RVJ7bUzK"
@@ -557,175 +605,7 @@
       "url": "https://open.spotify.com/track/3Zf4sVsmsFMSMiq6EcLuCz"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 241766,
-      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "\u00a1 +1 !",
-        "url": "https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 234284,
-      "name": "\u00a1 +1 !",
-      "url": "https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "Devia Ir",
-        "url": "https://open.spotify.com/album/1Tpc5QlSXkYW30RsLIQhoL"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 293748,
-      "name": "Devia Ir",
-      "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "Mussulo (feat. Doddy)",
-        "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
-      },
-      "artists": [
-        {
-          "name": "DJ Malvado",
-          "url": "https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ"
-        },
-        {
-          "name": "DJ Aka-m",
-          "url": "https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9"
-        },
-        {
-          "name": "DODDY",
-          "url": "https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp"
-        }
-      ],
-      "duration_ms": 256483,
-      "name": "Mussulo (feat. Doddy)",
-      "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "Ama Um Maloqueiro",
-        "url": "https://open.spotify.com/album/2Gt4u2BoqtJMNQ63pKyh5S"
-      },
-      "artists": [
-        {
-          "name": "Rafa e Junior",
-          "url": "https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
-        },
-        {
-          "name": "DJ Ari SL",
-          "url": "https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Ama Um Maloqueiro",
-      "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "Carta de Alforria",
-        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 245461,
-      "name": "Pa\u00eds das Maravilhas",
-      "url": "https://open.spotify.com/track/0qGRWcPOMkkt7edm4wMVRf"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 207349,
-      "name": "Wi$h Li$t",
-      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "P do Pecado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2JyYavPMFsaTRZFrc77bc3"
@@ -745,23 +625,43 @@
       "url": "https://open.spotify.com/track/7EknynLJTt9YMm1HL37s5D"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "\u00a1 +1 !",
+        "url": "https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 234284,
+      "name": "\u00a1 +1 !",
+      "url": "https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -777,7 +677,75 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "Carta de Alforria",
+        "url": "https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 245461,
+      "name": "Pa\u00eds das Maravilhas",
+      "url": "https://open.spotify.com/track/0qGRWcPOMkkt7edm4wMVRf"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 241766,
+      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
@@ -797,7 +765,79 @@
       "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Wi$h Li$t",
+      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "Devia Ir",
+        "url": "https://open.spotify.com/album/1Tpc5QlSXkYW30RsLIQhoL"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 293748,
+      "name": "Devia Ir",
+      "url": "https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "YO y T\u00da",
+        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 198153,
+      "name": "YO y T\u00da",
+      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "Fui Mlk",
         "url": "https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r"
@@ -829,95 +869,23 @@
       "url": "https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
         }
       ],
-      "duration_ms": 211498,
-      "name": "CANCELLED!",
-      "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
+      "duration_ms": 258223,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 150517,
-      "name": "Wood",
-      "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
-      "album": {
-        "name": "YO y T\u00da",
-        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 198153,
-      "name": "YO y T\u00da",
-      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
-    },
-    {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "TIT FOR TAT",
         "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
@@ -933,27 +901,23 @@
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
-        "name": "Freestyle Depois da Cadeia",
-        "url": "https://open.spotify.com/album/5NIDeTN0nU6jjAG6TEaW8E"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Maurin",
-          "url": "https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 146086,
-      "name": "Freestyle Depois da Cadeia",
-      "url": "https://open.spotify.com/track/1VbJ9rEBlTfqpVQA7tGLqo"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2025-10-16 15:14:51",
+      "added_at": "2025-10-17 21:25:57",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -964,9 +928,57 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 163699,
-      "name": "Actually Romantic",
-      "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
+      "duration_ms": 211498,
+      "name": "CANCELLED!",
+      "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 161082,
+      "name": "Champions League (feat. Slow J & Gson)",
+      "url": "https://open.spotify.com/track/1kJml4AvYDxIMcJVt7nYlL"
+    },
+    {
+      "added_at": "2025-10-17 21:25:57",
+      "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     }
   ],
   "unique_name": "Top 50 - Portugal",

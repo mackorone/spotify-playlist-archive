@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \ud3ec\ub808\uc2a4\ud154\ub77c(Forestella)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc774\ub8e8\ub9c8(Yiruma)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "Classics Korea",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 329653,
       "name": "Adelaide from Lieder, Op. 46 (arr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/6EcYdrzLVl1etzZi1ZQmaL"
@@ -550,6 +550,24 @@
       "duration_ms": 289613,
       "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
       "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
+    },
+    {
+      "album": {
+        "name": "b l \u016b - the blue between",
+        "url": "https://open.spotify.com/album/0Eg5B0HEGUkKbBzkVeHdLh"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239105,
+      "name": "b l \u016b - the blue between",
+      "url": "https://open.spotify.com/track/1KLEAikZ89oqoCqvZVoERr"
     },
     {
       "album": {
@@ -1775,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Bon Appetit Your Majesty (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/18X7w1cgQgsXzJ7ZKUoVN6"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Land of the Morning",
+      "url": "https://open.spotify.com/track/7hnrNQsdPBNjcWSYyzFPOl"
+    },
+    {
+      "album": {
         "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
         "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
       },
@@ -2910,7 +2946,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 280333,
       "name": "Sonatine, M. 40: I. Mod\u00e9r\u00e9",
       "url": "https://open.spotify.com/track/1P0SVYQQHAe0QICIUECjSS"
@@ -3116,7 +3152,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 205253,
       "name": "S\u00e9r\u00e9nade grotesque, M. 5",
       "url": "https://open.spotify.com/track/1yIUcz31lMwWGHp7jDYCWT"
@@ -3434,7 +3470,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 253360,
       "name": "Une Vie Part 1",
       "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"

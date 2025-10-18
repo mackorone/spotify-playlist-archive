@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 127307,
+  "num_followers": 127369,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAADW8AefmHjGhsBPNFOtseYT56haV",
   "tracks": [
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Dancing In Wonderland (Remastered)",
-        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
-    },
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 162533,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Dancing In Wonderland (Remastered)",
+        "url": "https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -75,8 +75,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Third Man - Cinema Gala",
-        "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
+        "name": "As Time Goes By",
+        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
       },
       "artists": [
         {
@@ -84,29 +84,13 @@
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         },
         {
-          "name": "Mantovani",
-          "url": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
+          "name": "The Mancini Pops Orchestra",
+          "url": "https://open.spotify.com/artist/1vxjKNfdi39vzEeA36L31L"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Moon River - From \"Breakfast At Tiffanys\"",
-      "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Three O'Clock In The Morning",
-      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
+      "duration_ms": 207640,
+      "name": "The Summer Knows (From \"Summer of '42\")",
+      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -127,6 +111,22 @@
       "duration_ms": 188880,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Three O'Clock In The Morning",
+      "url": "https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -163,8 +163,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "As Time Goes By",
-        "url": "https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS"
+        "name": "The Third Man - Cinema Gala",
+        "url": "https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn"
       },
       "artists": [
         {
@@ -172,13 +172,13 @@
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         },
         {
-          "name": "The Mancini Pops Orchestra",
-          "url": "https://open.spotify.com/artist/1vxjKNfdi39vzEeA36L31L"
+          "name": "Mantovani",
+          "url": "https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle"
         }
       ],
-      "duration_ms": 207640,
-      "name": "The Summer Knows (From \"Summer of '42\")",
-      "url": "https://open.spotify.com/track/4852V4r33kQtMIWscamrac"
+      "duration_ms": 160000,
+      "name": "Moon River - From \"Breakfast At Tiffanys\"",
+      "url": "https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -199,22 +199,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "I Only Have Eyes for You",
-        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
-      },
-      "artists": [
-        {
-          "name": "Hugo Winterhalter And His Orchestra",
-          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "You'll Never Know - Instrumental",
-      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music For Lovers Only",
         "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 185400,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "I Only Have Eyes for You",
+        "url": "https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE"
+      },
+      "artists": [
+        {
+          "name": "Hugo Winterhalter And His Orchestra",
+          "url": "https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "You'll Never Know - Instrumental",
+      "url": "https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Piano Legend (Remastered)",
-        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
-      },
-      "artists": [
-        {
-          "name": "Russ Conway",
-          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
-        }
-      ],
-      "duration_ms": 203973,
-      "name": "Theme from Picnic - Remastered",
-      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 194880,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "The Piano Legend (Remastered)",
+        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
+      },
+      "artists": [
+        {
+          "name": "Russ Conway",
+          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
+        }
+      ],
+      "duration_ms": 203973,
+      "name": "Theme from Picnic - Remastered",
+      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -415,8 +415,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Blue Midnight (Remastered)",
-        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
       "artists": [
         {
@@ -424,25 +424,9 @@
           "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 177560,
-      "name": "Lonely Nightingale",
-      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "A Band Is Born",
-        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 205173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
+      "duration_ms": 150440,
+      "name": "Market Day",
+      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -459,6 +443,22 @@
       "duration_ms": 169493,
       "name": "Violins in the Night",
       "url": "https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "A Band Is Born",
+        "url": "https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 205173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -495,8 +495,8 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+        "name": "Blue Midnight (Remastered)",
+        "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
         }
       ],
-      "duration_ms": 150440,
-      "name": "Market Day",
-      "url": "https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF"
+      "duration_ms": 177560,
+      "name": "Lonely Nightingale",
+      "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Let's Go Bowling (Remastered)",
-        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "Danke Schoen",
-      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 191066,
       "name": "Stranger On The Shore",
       "url": "https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Let's Go Bowling (Remastered)",
+        "url": "https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "Danke Schoen",
+      "url": "https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
+        "name": "The Many Moods Of Murry Wilson",
+        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Murry Wilson",
+          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
         }
       ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
+      "duration_ms": 168573,
+      "name": "The Warmth Of The Sun",
+      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -779,34 +779,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The Many Moods Of Murry Wilson",
-        "url": "https://open.spotify.com/album/59m9uyvWX25CEt1zteEuAq"
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
       },
       "artists": [
         {
-          "name": "Murry Wilson",
-          "url": "https://open.spotify.com/artist/4s9gajPsUP6QfemqiFom82"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 168573,
-      "name": "The Warmth Of The Sun",
-      "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
-    },
-    {
-      "added_at": "2024-07-17 14:53:29",
-      "album": {
-        "name": "Latin Hits I Missed",
-        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -823,6 +807,22 @@
       "duration_ms": 179066,
       "name": "Megeve",
       "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+    },
+    {
+      "added_at": "2024-07-17 14:53:29",
+      "album": {
+        "name": "Latin Hits I Missed",
+        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
     },
     {
       "added_at": "2024-07-17 14:53:29",

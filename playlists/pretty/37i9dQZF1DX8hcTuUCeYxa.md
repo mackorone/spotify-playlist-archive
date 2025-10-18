@@ -4,35 +4,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,477 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,516 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [](https://open.spotify.com/album/null) | 3:58 |
-| 2 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [](https://open.spotify.com/album/null) | 4:58 |
-| 3 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [](https://open.spotify.com/album/null) | 3:06 |
+| 1 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
+| 2 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 3 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:06 |
 | 4 | [Goodbye Utopia](https://open.spotify.com/track/4ShHg8ydhhK2d3xcsnvDLf) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Goodbye Utopia](https://open.spotify.com/album/1AfYjUHRD8AcIQYBLajrXa) | 3:42 |
 | 5 | [Koya](https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Koya](https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy) | 5:17 |
 | 6 | [I Have So Much To Tell You](https://open.spotify.com/track/2PkCkaQc3Gokr4eHCs2C2B) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Have So Much To Tell You](https://open.spotify.com/album/6erpduA3ocDzhOCMLD8msi) | 3:50 |
 | 7 | [Keep Talking](https://open.spotify.com/track/44jfB9HKuDpXn8RjzSxh5Y) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Keep Talking](https://open.spotify.com/album/6G6vBapM0ttf4Z8JPgXD2u) | 3:27 |
 | 8 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 |
-| 9 | [Track 7](https://open.spotify.com/track/0JDMdKCFGECIGVcFDZUsqF) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [Break Free / Frei Sein / Être Libre](https://open.spotify.com/track/0JDMdKCFGECIGVcFDZUsqF) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [We](https://open.spotify.com/album/6xmGCULyl6x6sAp3t0Fh7d) | 3:01 |
 | 10 | [Zodiac](https://open.spotify.com/track/5xO9THGqFQDETl4TPtq655) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Zodiac](https://open.spotify.com/album/3cZtoagxZliHNuvC3iDMYl) | 3:02 |
-| 11 | [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(Deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 |
+| 11 | [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 |
 | 12 | [BAIT](https://open.spotify.com/track/2dSu4SI2YI1xuACxFqUiQE) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BAIT](https://open.spotify.com/album/594fuCaZzrXD3irDrmW9gN) | 2:12 |
 | 13 | [Es geht mir gut](https://open.spotify.com/track/4d9ItJ2CZptK3J9VYnHjhY) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Es geht mir gut](https://open.spotify.com/album/6neLzazS6fbRAuO537tH63) | 2:40 |
 | 14 | [Stay In Your Lane](https://open.spotify.com/track/5lOn7OwAXXO1pahwPZgdYY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Stay In Your Lane](https://open.spotify.com/album/2R2IGEJFuPkOeRp7A1CdN7) | 3:14 |
 | 15 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
 | 16 | [Loaded Dice](https://open.spotify.com/track/1HDnqFwesyb3P5qIhmfnbU) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Loaded Dice](https://open.spotify.com/album/5EUAVnlJjRArGN5ThFgd3b) | 3:14 |
-| 17 | [Only a Cloud](https://open.spotify.com/track/1Dtt5DvQXCUn7oyHbUsBlF) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [](https://open.spotify.com/album/null) | 3:42 |
+| 17 | [Only a Cloud](https://open.spotify.com/track/1Dtt5DvQXCUn7oyHbUsBlF) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Funny Weather](https://open.spotify.com/album/23JGOUVZWY6hPFjRcOyQkS) | 3:42 |
 | 18 | [One Hand Free](https://open.spotify.com/track/5NpvCEftUoUx47H6NwT549) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [One Hand Free](https://open.spotify.com/album/4S83CAKXZdtSLcfUuryUzm) | 2:41 |
 | 19 | [Angoon](https://open.spotify.com/track/27NgYmhycKoSle3UnPoyWO) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Angoon](https://open.spotify.com/album/7qt0LK9fNoVez7gDTcY0V6) | 4:37 |
 | 20 | [Aftermath](https://open.spotify.com/track/1X2tQidf0mVVkxqDkPpizQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Aftermath](https://open.spotify.com/album/6BsjujyATgAPNk6yX7bUmI) | 4:11 |
 | 21 | [The Kites](https://open.spotify.com/track/1NRf37ebOUqjCdp51tUnIr) | [Almost Twins](https://open.spotify.com/artist/7xe5zbkg4tKrRQAAmscgQg) | [The Kites](https://open.spotify.com/album/09Z4Mo43te6wdTTpmxAB2D) | 3:39 |
-| 22 | [Passenger's Side](https://open.spotify.com/track/4oaN6a1ycmo5uk5W5YOMHw) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [](https://open.spotify.com/album/null) | 3:24 |
-| 23 | [Sunlight In The Shadows](https://open.spotify.com/track/12R8k06WAIziMr7yEKwT1T) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [](https://open.spotify.com/album/null) | 3:19 |
+| 22 | [Passenger's Side](https://open.spotify.com/track/4oaN6a1ycmo5uk5W5YOMHw) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [When I'm With You](https://open.spotify.com/album/5Lpj9uIJ7niwjJWTN31zIx) | 3:24 |
+| 23 | [Sunlight In The Shadows](https://open.spotify.com/track/12R8k06WAIziMr7yEKwT1T) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Sunlight In The Shadows](https://open.spotify.com/album/0LpQiuhhd5REbYe82Lo1F2) | 3:19 |
 | 24 | [Hollow Days \(Stay Strong\)](https://open.spotify.com/track/0uZKF2peoPdsw2xz1b0CT9) | [Saguru](https://open.spotify.com/artist/61qZ7es6fFlppv6I1r32V8) | [Hollow Days \(Stay Strong\)](https://open.spotify.com/album/2vnTOWTxiWasF7U9STtcfT) | 3:22 |
-| 25 | [Hollow Noon](https://open.spotify.com/track/2OYoQkTfbPP40cJWA8Ixch) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [](https://open.spotify.com/album/null) | 3:23 |
+| 25 | [Hollow Noon](https://open.spotify.com/track/2OYoQkTfbPP40cJWA8Ixch) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:23 |
 | 26 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 |
 | 27 | [Same Kids](https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Same Kids](https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE) | 3:31 |
 | 28 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |

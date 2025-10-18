@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 59796,
+  "num_followers": 59825,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKt5uQWDtwiYX/GSBhm5VPs06Gt",
+  "snapshot_id": "AAAAAByexdP/0RpFfNAVbutwV38EXXgB",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Liminality",
+        "url": "https://open.spotify.com/album/5CMLwE0nCSsNFvTWlNxNvF"
+      },
+      "artists": [
+        {
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        }
+      ],
+      "duration_ms": 100867,
+      "name": "Liminality",
+      "url": "https://open.spotify.com/track/27CHW9MJpEfscKmDpyibhG"
+    },
     {
       "added_at": "2025-03-07 05:00:20",
       "album": {
@@ -267,26 +283,6 @@
       "duration_ms": 181729,
       "name": "Excusezmoi",
       "url": "https://open.spotify.com/track/0Qn6rpAQjlEzCeTOYvZ2GV"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Actual Proof",
-        "url": "https://open.spotify.com/album/2Xyo0fX4walkyM0ITbzZCw"
-      },
-      "artists": [
-        {
-          "name": "Electric Kif",
-          "url": "https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn"
-        },
-        {
-          "name": "Adam Deitch",
-          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
-        }
-      ],
-      "duration_ms": 341137,
-      "name": "Actual Proof",
-      "url": "https://open.spotify.com/track/5DmEiepcrLcjGA2z0qfQ2w"
     },
     {
       "added_at": "2023-03-10 05:01:00",

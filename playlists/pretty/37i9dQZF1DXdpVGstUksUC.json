@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546147,
+  "num_followers": 546158,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Deliverance",
-        "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
-      },
-      "artists": [
-        {
-          "name": "Corrosion Of Conformity\t",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
-        }
-      ],
-      "duration_ms": 320333,
-      "name": "Albatross",
-      "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Welcome to Sky Valley",
         "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 311906,
       "name": "Demon Cleaner",
       "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh"
+      },
+      "artists": [
+        {
+          "name": "Corrosion Of Conformity\t",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+        }
+      ],
+      "duration_ms": 320333,
+      "name": "Albatross",
+      "url": "https://open.spotify.com/track/3CtKSQyQPdzA2u7n9tjJw2"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
       "artists": [
         {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
         }
       ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
+      "duration_ms": 158013,
+      "name": "The Fox",
+      "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
       },
       "artists": [
         {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
         }
       ],
-      "duration_ms": 158013,
-      "name": "The Fox",
-      "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Groovy",
-        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
-      },
-      "artists": [
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
-        }
-      ],
-      "duration_ms": 257093,
-      "name": "Drowning on Empty",
-      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Groovy",
+        "url": "https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1"
+      },
+      "artists": [
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Drowning on Empty",
+      "url": "https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "A Drug Problem That Never Existed",
-        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
-      },
-      "artists": [
-        {
-          "name": "Mondo Generator",
-          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "A Drug Problem That Never Existed",
+        "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
+      },
+      "artists": [
+        {
+          "name": "Mondo Generator",
+          "url": "https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
-        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 221033,
-      "name": "Slaughter Beach",
-      "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Witching Hour",
         "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 300666,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sunrise on Slaughter Beach (The Complete Edition)",
+        "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 221033,
+      "name": "Slaughter Beach",
+      "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
     },
     {
       "added_at": "2024-07-19 04:00:00",

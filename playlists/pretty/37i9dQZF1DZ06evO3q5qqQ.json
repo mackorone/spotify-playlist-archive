@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 115992,
+  "num_followers": 116010,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAABYtehD2NQw7ML7FyaSGkTY",
+  "snapshot_id": "aPA1gAAAAACuadRfP/8PGsTaorxmumyO",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serafin Zambada",
-        "url": "https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 128933,
-      "name": "Serafin Zambada",
-      "url": "https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alumno Y Maestro",
         "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 179786,
       "name": "Alumno Y Maestro",
       "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serafin Zambada",
+        "url": "https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 128933,
+      "name": "Serafin Zambada",
+      "url": "https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs"
     },
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+        "name": "La Ley del Mayo",
+        "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+      "duration_ms": 216604,
+      "name": "La Ley del Mayo",
+      "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
     },
     {
       "added_at": null,
@@ -615,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ley del Mayo",
-        "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 216604,
-      "name": "La Ley del Mayo",
-      "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,

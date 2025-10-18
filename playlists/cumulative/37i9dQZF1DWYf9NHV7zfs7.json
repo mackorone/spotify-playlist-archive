@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Balada Malvada",
+        "url": "https://open.spotify.com/album/2F3IJ128ygML2oAGFMyU6d"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262338,
+      "name": "Balada Malvada",
+      "url": "https://open.spotify.com/track/1HSPVwhWDnu1PYl1GwA9s0"
+    },
+    {
+      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 229943,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"

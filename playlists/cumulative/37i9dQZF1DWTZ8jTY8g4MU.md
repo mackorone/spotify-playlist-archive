@@ -4,7 +4,7 @@
 
 > شيلات تشيل الليلة\. الغلاف: بدر العزي
 
-276 songs - 18 hr 20 min
+277 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [زينك دمار](https://open.spotify.com/track/5G9l3hXgO5ajf2LW2FUmLK) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [زينك دمار](https://open.spotify.com/album/7rp8YBgnlomjYRbdRW77Wg) | 4:34 | 2022-08-31 | 2023-02-23 |
 | [ساحات القتال](https://open.spotify.com/track/39cPE4OFVKrkZDNJDd2AS9) | [فلاح المسردي](https://open.spotify.com/artist/21Thm4pTSbEQCsFEbausED) | [ساحات القتال](https://open.spotify.com/album/4COIAcMCZVcEEh3SwiqaQW) | 5:50 | 2023-09-06 | 2023-12-06 |
 | [سر اهتمامي](https://open.spotify.com/track/4LoV1IoB508ftNB35tjx8g) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سر اهتمامي](https://open.spotify.com/album/6RnLMh24W0dX6H9OLX7Xrw) | 3:09 | 2025-07-02 |  |
-| [سرا بارقً](https://open.spotify.com/track/30l1OAUvcQZ3DTWJ77H2tO) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [سرا بارقً](https://open.spotify.com/album/2AWEOJJ3S6zE1QcqgF8oMh) | 3:53 | 2024-02-01 |  |
+| [سرا بارقً](https://open.spotify.com/track/30l1OAUvcQZ3DTWJ77H2tO) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [سرا بارقً](https://open.spotify.com/album/2AWEOJJ3S6zE1QcqgF8oMh) | 3:53 | 2024-02-01 | 2025-10-18 |
 | [سكه مجهوله](https://open.spotify.com/track/5X5ubFhkET9omL8FDcpSku) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/2abcKDPudbZ4WvwyVkgrvR) | 4:20 | 2022-06-13 | 2022-11-12 |
 | [سكه مجهوله](https://open.spotify.com/track/7gjSyunjwABlGVRnqyzmXi) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [سكه مجهوله](https://open.spotify.com/album/3YwV5Rkiq1ZJrcdXP4bV5M) | 4:20 | 2022-10-06 | 2023-02-23 |
 | [سهير العين](https://open.spotify.com/track/2zZf1Wm2ywhK3g72JrnXT3) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [سهير العين](https://open.spotify.com/album/52shbS4MEusvwpe4paLGC9) | 3:54 | 2023-02-22 | 2023-05-05 |
@@ -269,6 +269,7 @@
 | [ياروح الروح](https://open.spotify.com/track/2mdLayaVobaBpMFbbecPXC) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ياروح الروح](https://open.spotify.com/album/5dTsNHlqR9RWphiGRawNgY) | 2:56 | 2022-08-31 | 2023-03-15 |
 | [ياروح الروح](https://open.spotify.com/track/7CTkmBM1Ff1lc35v0rcD24) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ياروح الروح](https://open.spotify.com/album/2LwaqJo5BhCsJWiqqJJqvQ) | 2:56 | 2022-03-30 | 2022-11-02 |
 | [يازين يابو الخلاخيل](https://open.spotify.com/track/3FvDdjshs2Jn1nEx4OvUnJ) | [Ahmad Al Shamlan Iاحمد ال شملان](https://open.spotify.com/artist/0gx2Hvx3UF3qteLYY3c4YV) | [يازين يابو الخلاخيل](https://open.spotify.com/album/4H9DKcjhgjuCGYxi2AoFQG) | 4:43 | 2023-02-22 | 2023-10-25 |
+| [ياعجيبه](https://open.spotify.com/track/4DdukpmqtT2TkRF8HLIs9X) | [فهد بن غرمان](https://open.spotify.com/artist/6BvNX7Y1XF8CetrVnPmqkm) | [ياعجيبه](https://open.spotify.com/album/6Ux1n4XiAkjX5Axu2TEo9h) | 3:09 | 2025-10-17 |  |
 | [ياعرب حنيت](https://open.spotify.com/track/0Fqd8W2cHDsrfnIFLOMubb) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/1xTu6wEp00RobsH97C1wG3) | 3:04 | 2022-03-30 | 2022-11-02 |
 | [ياعرب حنيت](https://open.spotify.com/track/1szjUAlwmyS5cCrz7yaoCf) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [ياعرب حنيت](https://open.spotify.com/album/4IcitKb3SkUlfaqGKEvO70) | 3:04 | 2022-08-31 | 2023-05-04 |
 | [ياغايب](https://open.spotify.com/track/3fvwgih7gXgqPNTMfaHwC7) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [ياغايب](https://open.spotify.com/album/5qfEapVknQAWHf3EWq2D89) | 3:15 | 2022-06-13 | 2022-11-02 |

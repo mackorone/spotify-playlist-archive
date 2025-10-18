@@ -2,9 +2,9 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZIiJvqaSAaz>sombr</a>, <a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIUmNwPTD3q25>Rels B</a> and more
 
-810 songs - 1 day 22 hr 7 min
+811 songs - 1 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,7 +729,7 @@
 | [Time Is the Enemy](https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb) | 3:39 | 2024-01-06 | 2024-01-07 |
 | [Time Is the Enemy](https://open.spotify.com/track/313hbrNYpT36VHc8vPBueb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The 5th Exotic](https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY) | 3:43 | 2024-02-18 | 2024-04-19 |
 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 | 2024-01-24 | 2024-02-05 |
-| [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-09-14 |  |
+| [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-09-14 | 2025-10-18 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2024-01-23 | 2025-10-13 |
 | [To Stay](https://open.spotify.com/track/2LnlsuPFsJI2ZhSR0UadVB) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL) | [To Stay](https://open.spotify.com/album/1Jeu2tZUkDueqM51lk06nA) | 2:54 | 2024-01-03 | 2024-04-10 |
 | [Tomorrow](https://open.spotify.com/track/3yw3m8wgRB4ptDyAvtdhq5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:02 | 2024-11-09 | 2025-07-03 |
@@ -740,11 +740,12 @@
 | [Torn](https://open.spotify.com/track/2SWyPUuh4xfYkH7EUH5qgZ) | [Paris Blu](https://open.spotify.com/artist/3mYipWrjv0ksO0s9R5Zdfy) | [Torn](https://open.spotify.com/album/2vVaQbwW4QqEu64836ONxf) | 2:02 | 2023-12-31 | 2024-04-17 |
 | [Traffic In The Sky](https://open.spotify.com/track/1yZFWn5IOy4spqLgJmMLmU) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [On And On](https://open.spotify.com/album/7LQhG0xSDjFiKJnziyB3Zj) | 2:50 | 2024-01-04 | 2024-01-18 |
 | [Traingazing](https://open.spotify.com/track/49QEJdbU9mf4VUXReOpZ9u) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:34 | 2024-04-09 | 2024-04-10 |
-| [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2025-10-17 |  |
+| [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2025-10-17 | 2025-10-18 |
 | [Travel](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Travel](https://open.spotify.com/album/6hUUo3Up49OeTMvmWtqLMi) | 2:23 | 2024-01-01 | 2024-01-02 |
 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2023-12-31 | 2024-10-01 |
 | [Try Again](https://open.spotify.com/track/1Ka9BRi8FxYAfXb5gRMvtS) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [Idyl](https://open.spotify.com/artist/4OUtexcYUWaY6Sf4W1gGDK) | [Try Again](https://open.spotify.com/album/3sRLqYoCnfmEzA5JkPpMbP) | 2:51 | 2024-04-02 | 2024-04-19 |
 | [Trái đất ôm Mặt trời](https://open.spotify.com/track/4NTanSVXBkQ2NmDEbr2vLE) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Trái đất ôm Mặt trời](https://open.spotify.com/album/56L3SxM76dbmYCD1tOziHB) | 3:14 | 2024-01-25 | 2024-03-29 |
+| [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 | 2025-10-18 |  |
 | [Turn Me On](https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 2:34 | 2023-12-29 | 2023-12-31 |
 | [two years](https://open.spotify.com/track/4HxGH28DitgAuuKpEVrLzN) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:47 | 2025-08-29 | 2025-08-30 |
 | [Từng Ngày Yêu Em](https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Từng Ngày Như Mãi Mãi](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D) | 3:45 | 2025-09-17 | 2025-10-05 |
@@ -776,7 +777,7 @@
 | [Water Flow](https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr) | [Klyne](https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7) | [Klyne](https://open.spotify.com/album/4WUzT9TZGfU5sGsAXXjyaG) | 3:43 | 2024-01-11 | 2024-04-05 |
 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2024-01-02 | 2024-02-04 |
 | [We Almost Broke Up Again Last Night](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:23 | 2025-10-04 | 2025-10-05 |
-| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2025-10-09 | 2025-10-13 |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2025-10-09 |  |
 | [We Don't Have To Take Our Clothes Off \- Remastered 2015](https://open.spotify.com/track/49GpGYGli1xcxovgYf0k4c) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/3LfVVimEZr5YefjHZvlDzP) | 3:56 | 2024-01-03 | 2024-01-04 |
 | [We Find Love](https://open.spotify.com/track/1TPLsNVlofwX1txcE9gZZF) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:14 | 2024-01-09 | 2024-03-20 |
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2025-07-09 | 2025-07-10 |

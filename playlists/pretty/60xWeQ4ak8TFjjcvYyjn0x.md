@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60xWeQ4ak8TFjjcvYyjn0x.md) - [plain]
 
 > Listen • Train • Repeat\. Music for your complete workout.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 7,070 likes - 80 songs - 4 hr 13 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 7,069 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/60xWeQ4ak8TFjjcvYyjn0x.md) - [plain]
 | 79 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 |
 | 80 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 |
 
-Snapshot ID: `AAAH6WR+zbAXQ1i5Pq2a7Epk27eFMJvz`
+Snapshot ID: `AAAH+6cFCc3wbwyswJkUlQ+A2ot/TdHr`

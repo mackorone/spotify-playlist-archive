@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa ABREU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,595 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,606 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 13 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 |
 | 14 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 15 | [Ahdistuksen aika](https://open.spotify.com/track/1nPpePTiMAxYBTWjQIKmul) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Melankolisten laulujen klubi](https://open.spotify.com/album/1KT2gnd5CxHspMm9YNDsmk) | 4:52 |
-| 16 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [](https://open.spotify.com/album/null) | 1:54 |
+| 16 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
 | 17 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
 | 18 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
 | 19 | [Asfaltin pinta \- Vain elämää kausi 16](https://open.spotify.com/track/71lekT94R4rRcRKg3K5aAA) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Asfaltin pinta \(Vain elämää kausi 16\)](https://open.spotify.com/album/6tFLCJuR7SQTQ9HPdJzoOF) | 3:18 |

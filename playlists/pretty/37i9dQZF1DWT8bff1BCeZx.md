@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,688 likes - 119 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,702 likes - 119 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 20 | [Praise The Lord](https://open.spotify.com/track/5APwmucVFdiD71vniIvihw) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Praise The Lord](https://open.spotify.com/album/6Y6ASzdPqY7GNO3GWADUux) | 3:58 |
 | 21 | [Be Magnified](https://open.spotify.com/track/7m6fLplCGhM9Fr70QK1SNS) | [Grace Harmony Music](https://open.spotify.com/artist/6PgIs6bIhbqNgSxRC8b3X0) | [Victory](https://open.spotify.com/album/43MDovT1Q1WWqDxnJD8Wwn) | 3:24 |
 | 22 | [More Than Able](https://open.spotify.com/track/1PVYkMOIxOV4JCJhoUOBrg) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [More Than Able](https://open.spotify.com/album/2eCu0jcbcaPB3no72aewOI) | 2:34 |
-| 23 | [Track 1](https://open.spotify.com/track/7Fz8EM5cDYyf9Jh5Entfq2) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [](https://open.spotify.com/album/null) | 0:00 |
+| 23 | [Love Like You](https://open.spotify.com/track/7Fz8EM5cDYyf9Jh5Entfq2) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av) | [Altars and Crowns](https://open.spotify.com/album/1XwogwzYKWBnTN3VkZsG9b) | 4:53 |
 | 24 | [Praise \(feat\. Brandon Lake, Chris Brown & Chandler Moore\)](https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:04 |
 | 25 | [Wabwino](https://open.spotify.com/track/2CnBRKSQmsH87eU0nZylci) | [Rudo Chakwera](https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [Wabwino](https://open.spotify.com/album/1qgfsNnYLjJRs6tQk5HjKL) | 3:39 |
 | 26 | [REVIVAL CHANT SA](https://open.spotify.com/track/7HH6GEzwTroMSW4dfhFb5L) | [E'mPraise Inc.](https://open.spotify.com/artist/19LFsS4do0hTMll1X3BM8X), [Emmanuel Juddah](https://open.spotify.com/artist/1CefIcqn1n0L9mAmGu4Ovm) | [REVIVAL CHANT SA](https://open.spotify.com/album/469pnVyexeHOA7KsrN7fAj) | 14:35 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 28 | [Always On Time](https://open.spotify.com/track/2UEYKgubqd6fp5DBwjXXqa) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Always On Time](https://open.spotify.com/album/1jdKdSOBaFjfBIsd0RwnKa) | 4:01 |
 | 29 | [4 Love](https://open.spotify.com/track/5tLahRV64zkxKhQTJXVnmK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4 Love](https://open.spotify.com/album/5aUC5rez6lzRVzc82ZF6zB) | 3:19 |
 | 30 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |
-| 31 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [](https://open.spotify.com/album/null) | 3:20 |
+| 31 | [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 |
 | 32 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 33 | [Undercover](https://open.spotify.com/track/5cBWaDfCIFEvTnUF73urP6) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44), [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Undercover](https://open.spotify.com/album/6XHM4gKUXfRwPpO1XIRPA5) | 2:30 |
 | 34 | [This Kind God](https://open.spotify.com/track/0hVch12qYS9tcJIgspdcfE) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [This Kind God](https://open.spotify.com/album/4O7cTvDPnP48JCBNbASzck) | 2:51 |

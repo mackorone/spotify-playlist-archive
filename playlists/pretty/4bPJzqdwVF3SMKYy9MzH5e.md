@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,251 songs - 5 day 0 hr 41 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,252 songs - 5 day 0 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2259,5 +2259,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2249 | [Drowning Song](https://open.spotify.com/track/0l3L3E5T1Jvv7prfE9tdR7) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [2000: In Search Of The Endless Sky](https://open.spotify.com/album/7lfmJvIDQVQaNADF48E58d) | 2:12 |
 | 2250 | [Jetpack](https://open.spotify.com/track/4TRWsSLoWN8Se8imdgNiLe) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [2000: In Search Of The Endless Sky](https://open.spotify.com/album/7lfmJvIDQVQaNADF48E58d) | 4:03 |
 | 2251 | [Rx Queen](https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:28 |
+| 2252 | [Yo soy mal](https://open.spotify.com/track/7kwhETMFW3m2FW83Cp0kbX) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [H4bits](https://open.spotify.com/album/07vYjdM26vVfAhqoGhPYpF) | 2:10 |
 
-Snapshot ID: `AAAEv1+4S0L+wqb4mvfyUA9LoZR+F/wo`
+Snapshot ID: `AAAEwBFKqTEVMScu7esuGtlbeSXMIt/6`

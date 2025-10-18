@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Klavdia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,578 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,574 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Piga Se Magisses](https://open.spotify.com/track/48dpMOPykAtmAeAeX7HRNh) | [Johanna](https://open.spotify.com/artist/1nYzZxdlUulgfZjKM5mmmk) | [Piga Se Magisses](https://open.spotify.com/album/29BZ21rBSzOKqLz3L8bRu3) | 3:15 |
 | 50 | [Trialala](https://open.spotify.com/track/5bPGzVFBiO7PyChdns6K0d) | [Elena Papapanagiotou](https://open.spotify.com/artist/55JrrlHk9ukadeNKnQd8mA), [Takinio Soul](https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk) | [Trialala](https://open.spotify.com/album/1uB5zfrBqsYdHrVatOaGqH) | 2:38 |
 
-Snapshot ID: `AAAAAFRE//bvdI7JP5YL4vH4RWodomum`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

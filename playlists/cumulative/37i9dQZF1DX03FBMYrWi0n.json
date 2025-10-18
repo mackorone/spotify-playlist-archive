@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Population II",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Alix Fernz",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 172700,
       "name": "2034 (le soleil tombe sur toi)",
       "url": "https://open.spotify.com/track/7ncCWM8ZC8XkG7mU9ClBpf"
+    },
+    {
+      "album": {
+        "name": "Symphonie publicitaire sous influence",
+        "url": "https://open.spotify.com/album/2TpxfjXkxMIsmpIUeFd6cw"
+      },
+      "artists": [
+        {
+          "name": "Alix Fernz",
+          "url": "https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "2h15",
+      "url": "https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6"
     },
     {
       "album": {
@@ -92,7 +110,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 184993,
       "name": "Ad\u00e9la\u00efde",
       "url": "https://open.spotify.com/track/3BqfWNtzt4miHR7qPAZC7J"
@@ -867,6 +885,24 @@
     },
     {
       "album": {
+        "name": "CLAPS (SOURIEZ)",
+        "url": "https://open.spotify.com/album/020tKeZtTPTW4PqpYk74HL"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229687,
+      "name": "CLAPS (SOURIEZ)",
+      "url": "https://open.spotify.com/track/3TaxIiNsCMrkTAYPhTMpdE"
+    },
+    {
+      "album": {
         "name": "Coin coin",
         "url": "https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA"
       },
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 175168,
       "name": "Demande sp\u00e9ciale",
       "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
@@ -1258,6 +1294,24 @@
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
+    },
+    {
+      "album": {
+        "name": "DJURDJURA (\u2d35\u2d55\u2d35\u2d55)",
+        "url": "https://open.spotify.com/album/2vkBtCaQdqYyj0PuKnPGVO"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180940,
+      "name": "DJURDJURA (\u2d35\u2d55\u2d35\u2d55)",
+      "url": "https://open.spotify.com/track/2ujBLe4yOaxiSCNQ2Wlqmv"
     },
     {
       "album": {
@@ -2055,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Jamais",
+        "url": "https://open.spotify.com/album/5wcf7iLr01dMc4VnAV7mIo"
+      },
+      "artists": [
+        {
+          "name": "Adieu Narcisse",
+          "url": "https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193856,
+      "name": "Jamais",
+      "url": "https://open.spotify.com/track/4vN5USCwBj2e2gFkUXSBH8"
+    },
+    {
+      "album": {
         "name": "Je l\u00e8ve mon verre",
         "url": "https://open.spotify.com/album/7FBCvIOKM2KydwJzznpBI3"
       },
@@ -2070,6 +2142,24 @@
       "duration_ms": 226183,
       "name": "Je l\u00e8ve mon verre",
       "url": "https://open.spotify.com/track/6o16D1kBaq7QQUSw9QP0fv"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9bec Core",
+        "url": "https://open.spotify.com/album/1aAa3iAeAIOaR9gBggufJc"
+      },
+      "artists": [
+        {
+          "name": "Bandit Voyage",
+          "url": "https://open.spotify.com/artist/5U7JwReTzAJ9gVXkhlNBsW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Jean Leloup",
+      "url": "https://open.spotify.com/track/3aRWjiMW0DciMKc2BJJWpM"
     },
     {
       "album": {
@@ -2174,7 +2264,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 164571,
       "name": "Ketchup",
       "url": "https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN"
@@ -2466,7 +2556,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 286675,
       "name": "Le th\u00e9 est pr\u00eat",
       "url": "https://open.spotify.com/track/1AiWcCcG0JjyfryFPPOIX3"
@@ -2956,7 +3046,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 130571,
       "name": "Montr\u00e9al",
       "url": "https://open.spotify.com/track/3dsOTm1NvWmBgNZlngpPVY"
@@ -3979,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "So It Goes",
+        "url": "https://open.spotify.com/album/7mjRiN5GruLWDkpZIwc5tC"
+      },
+      "artists": [
+        {
+          "name": "Family Man",
+          "url": "https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172630,
+      "name": "So It Goes",
+      "url": "https://open.spotify.com/track/12ryI6Y0cm3Icrj1Uyk56J"
+    },
+    {
+      "album": {
         "name": "Parh\u00e9lie",
         "url": "https://open.spotify.com/album/0sBmYOOGem7io7zYkdE3e0"
       },
@@ -4354,7 +4462,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"

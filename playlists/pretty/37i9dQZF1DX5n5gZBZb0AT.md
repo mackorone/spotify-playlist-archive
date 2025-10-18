@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,290 likes - 40 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,430 likes - 40 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 31 | [PSL \- Slowed](https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PSL](https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq) | 2:21 |
 | 32 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 33 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
-| 34 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
-| 35 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
+| 34 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
+| 35 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 36 | [REAL MOONSHINE FUNK \- Super Slowed](https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO) | [DJ ROBE](https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP), [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ) | [REAL MOONSHINE FUNK](https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D) | 1:34 |
 | 37 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
 | 38 | [GANO \- Slowed](https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk) | [VUKEINE](https://open.spotify.com/artist/2Wy9S6wJDza4ehtIj4rGew), [Mc Maroladão](https://open.spotify.com/artist/7H8Im0AWaWPW6Qe6FLBeAs) | [GANO](https://open.spotify.com/album/4v6yhY10irD8n7f0sMc0II) | 1:17 |
-| 39 | [BOUNCE FUNK \- Slowed](https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k) | [SAPFIR](https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5) | [BOUNCE FUNK \(Slowed\)](https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD) | 1:37 |
-| 40 | [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 |
+| 39 | [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 |
+| 40 | [BOUNCE FUNK \- Slowed](https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k) | [SAPFIR](https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5) | [BOUNCE FUNK \(Slowed\)](https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD) | 1:37 |
 
 Snapshot ID: `AAAAALRBthNUVWU9otCAeSgdHoj2vET4`

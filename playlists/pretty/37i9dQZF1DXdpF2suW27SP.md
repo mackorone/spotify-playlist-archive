@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Phenix Rdc, Wet Bed Gang, Nenny entram na zona.
+> Phoenix Rdc, Wet Bed Gang, Nenny entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,582 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,644 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [](https://open.spotify.com/album/null) | 3:53 |
+| 1 | [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Último Rapper](https://open.spotify.com/album/64KqejTQOkpLtFFFelIHLU) | 3:53 |
 | 2 | [¡ +1 !](https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [¡ +1 !](https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx) | 3:54 |
 | 3 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 |
 | 4 | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/3Zf4sVsmsFMSMiq6EcLuCz) | [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/7ykDqjbu0EIVs6RVJ7bUzK) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Ka Nhu Dexam Fronta](https://open.spotify.com/track/02wI9CBUMLPWDsJdCVUN0r) | [BigZ Patronato](https://open.spotify.com/artist/7cEMPpljjJKo3Kmx9eU3xJ) | [Ka Nhu Dexam Fronta](https://open.spotify.com/album/1rfEygscfdtwktZXliPLTa) | 3:18 |
 | 70 | [Pré Virou Festa](https://open.spotify.com/track/2sL6ARVxLy6Jal4XByoQ18) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Pré Virou Festa](https://open.spotify.com/album/0yWA7LGtzFOiHqHtd9Rtuf) | 2:44 |
 
-Snapshot ID: `AAAAANsb2hXO+tHlMz1gk86dSiE6+XLg`
+Snapshot ID: `AAAAAFJM7fbyAzUO2AkSYAyDN9bGnKxu`

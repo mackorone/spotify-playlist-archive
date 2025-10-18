@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777 likes - 106 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 106 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 101 | [Apocalipse 5](https://open.spotify.com/track/1zAbs0HlGxAYsYAmWjUjOz) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 6:08 |
 | 102 | [Majestoso](https://open.spotify.com/track/2c5k2pYT0W6LaMpadpZkHB) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 6:38 |
 | 103 | [O céu é o meu lar](https://open.spotify.com/track/51u1BOC0ymaNgJni7Ofkyn) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [Eternidade](https://open.spotify.com/album/6XUYRDiVKiUvHwrwi2kuiY) | 8:14 |
-| 104 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
-| 105 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
-| 106 | [Canção dos Redimidos \- Ao Vivo](https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção dos Redimidos \(Ao Vivo\)](https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ) | 6:53 |
+| 104 | [Canção dos Redimidos \- Ao Vivo](https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção dos Redimidos \(Ao Vivo\)](https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ) | 6:53 |
+| 105 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
+| 106 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
 
-Snapshot ID: `Ab/DCAAAAAC8AhK4dvHRAvrsThpb8/6g`
+Snapshot ID: `Ab/IlAAAAADsfAkYCHzbXkJr1zX2EEdd`

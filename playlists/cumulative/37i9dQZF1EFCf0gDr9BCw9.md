@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-209 songs - 15 hr 35 min
+210 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/4wNPjcAq34ujuulEGeKOo8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 3:34 | 2023-09-25 |  |
 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/6R7v9XCNRFNmGThLqPf8K6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:34 | 2022-09-08 | 2023-09-26 |
 | [Just a\-Sittin' and a\-Rockin' \- 2001 Remastered Version](https://open.spotify.com/track/39bwdNXbaKHak6EvzqUqNZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Take the "A" Train](https://open.spotify.com/album/6rtQ7Hp8f1cHxNA8zdj2WT) | 3:33 | 2022-09-08 | 2023-12-14 |
-| [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 | 2022-09-08 |  |
+| [Killin ´ Myself](https://open.spotify.com/track/3WWiMljDjbDrqgvtW6Qqjl) | [Ivy Anderson](https://open.spotify.com/artist/3thC8opZgJm8ogp3uM1P4N) | [Realness](https://open.spotify.com/album/2gvakyjDIa4mMffy11JVC4) | 2:26 | 2025-10-17 |  |
+| [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 | 2022-09-08 | 2025-10-18 |
 | [Kissing Bug](https://open.spotify.com/track/2FJljaSzWVJB66P0E11v8Z) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Ballads For Night People](https://open.spotify.com/album/2so70v2boeF065BbF6VcJD) | 2:43 | 2022-09-08 |  |
 | [Lady Mac](https://open.spotify.com/track/0CZQwA5TNP1gYbyRq8v0jz) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 3:50 | 2025-09-10 |  |
 | [Lady Mac](https://open.spotify.com/track/3cMyp5HCJM5LOBLbCloR8O) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:35 | 2022-09-08 | 2023-05-15 |

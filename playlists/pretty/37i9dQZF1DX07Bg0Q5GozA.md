@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,623 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,598 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [](https://open.spotify.com/album/null) | 4:58 |
+| 1 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 2 | [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 |
 | 3 | [Can't Buy Love](https://open.spotify.com/track/4kwG2ah5snLP8wihLQa2w3) | [Wandl](https://open.spotify.com/artist/09rIaYySVFF6jMhpeV654q) | [Volé](https://open.spotify.com/album/1SpAMADGIaDjtD9vAXmNx3) | 2:37 |
-| 4 | [Track 7](https://open.spotify.com/track/0JDMdKCFGECIGVcFDZUsqF) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Break Free / Frei Sein / Être Libre](https://open.spotify.com/track/0JDMdKCFGECIGVcFDZUsqF) | [SPARKLING](https://open.spotify.com/artist/5vfmqpN6ApOjoiTG0ASdue) | [We](https://open.spotify.com/album/6xmGCULyl6x6sAp3t0Fh7d) | 3:01 |
 | 5 | [chrysalis](https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [chrysalis](https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS) | 4:00 |
-| 6 | [Movin'](https://open.spotify.com/track/4KUKQ8aslaoNIAEFmI8cUs) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [](https://open.spotify.com/album/null) | 2:59 |
+| 6 | [Movin'](https://open.spotify.com/track/4KUKQ8aslaoNIAEFmI8cUs) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [BLABLABLABLA](https://open.spotify.com/album/4n1lTD4sffDviaaPeqqGWm) | 2:59 |
 | 7 | [Insomnia](https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Insomnia](https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq) | 2:45 |
 | 8 | [Getting Tough](https://open.spotify.com/track/7tsmyrCTNVGZGw2lW5nki9) | [Teenager](https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Fourteen](https://open.spotify.com/album/1DLrpRrBvtDiUoknMymqdd) | 2:40 |
 | 9 | [hold.](https://open.spotify.com/track/36owiHjuvdDG5lswUTxYwp) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms), [Cile](https://open.spotify.com/artist/2H3Kz86BpeYh2U06kBhBC8) | [hold.](https://open.spotify.com/album/3L86fiediuwDmM8PCkkWpy) | 3:10 |
-| 10 | [Hot Like Sahara](https://open.spotify.com/track/5PprR3iwYeoXszUh8CLToL) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [](https://open.spotify.com/album/null) | 3:10 |
+| 10 | [Hot Like Sahara](https://open.spotify.com/track/5PprR3iwYeoXszUh8CLToL) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying](https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8) | 3:10 |
 | 11 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
 | 12 | [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Human Happens / Paint Me A Picture](https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1) | 4:03 |
 | 13 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 |

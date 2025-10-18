@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-165 songs - 10 hr 47 min
+166 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Musical Chairs](https://open.spotify.com/track/3fX94zWU2M0xwj4LACbyYx) | [DJ Delish](https://open.spotify.com/artist/1Dh6pMtqj1w0d5DsNm7Rfd) | [XP](https://open.spotify.com/album/2mfKcs777o7GN5gEdEtPmu) | 3:02 | 2021-11-19 | 2024-06-01 |
 | [Nothing Without You](https://open.spotify.com/track/4HCjWPVlBQNVor12xzptGm) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Mandel Turner](https://open.spotify.com/artist/2oF8BMcZCAnRmMwrwVBm7R) | [Nothing Without You](https://open.spotify.com/album/6x05aytiXJutRJCI3V8kH8) | 6:29 | 2023-02-23 | 2024-06-01 |
 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-09 |  |
+| [Passenger Princess](https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Passenger Princess](https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7) | 2:15 | 2025-10-17 |  |
 | [Payne Killa](https://open.spotify.com/track/1K38bIKPcx1PfO0RvpkG8k) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [FRANK](https://open.spotify.com/album/1fWpQ6n3AUjanGEOKHWT56) | 4:21 | 2025-05-30 |  |
 | [Pills](https://open.spotify.com/track/1PqtEbs18Z61OhOZewxN6U) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Pills](https://open.spotify.com/album/0prDxXtgB1YqIxP8heMSxc) | 1:51 | 2024-06-01 |  |
 | [PINKROOM](https://open.spotify.com/track/7oGWBNcphgQDBp1nX5thm0) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [:PINKROOM](https://open.spotify.com/album/0Zwm3DHDS1nYcOB2MW3Wqb) | 2:10 | 2021-11-19 | 2025-05-31 |
@@ -115,7 +116,7 @@
 | [Slap My B\*tt](https://open.spotify.com/track/3ScUXRzJN51KS5BLYcYf28) | [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx) | [One Trick Pony](https://open.spotify.com/album/3DsBrHTjrvPVLDK05kqy93) | 6:10 | 2021-11-19 | 2025-02-26 |
 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 | 2023-03-24 |  |
 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 | 2021-11-19 |  |
-| [Soda \- MikeQ & Divoli S’vere Daughter’s Ha Remix](https://open.spotify.com/track/0QK0irAOp7fPqyD5Cg7pXw) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [Mike Q](https://open.spotify.com/artist/5wXyvG2EDTKhvjfWhQvMHl), [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [Liquid](https://open.spotify.com/album/5fb77zmnjz3yEZm589aCBC) | 3:29 | 2021-11-19 |  |
+| [Soda \- MikeQ & Divoli S’vere Daughter’s Ha Remix](https://open.spotify.com/track/0QK0irAOp7fPqyD5Cg7pXw) | [Boody](https://open.spotify.com/artist/64yfjhFPMATyVqtB7knCCH), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [Mike Q](https://open.spotify.com/artist/5wXyvG2EDTKhvjfWhQvMHl), [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [Liquid](https://open.spotify.com/album/5fb77zmnjz3yEZm589aCBC) | 3:29 | 2021-11-19 | 2025-10-18 |
 | [SOFT](https://open.spotify.com/track/6S7nkEdQy2y4N28scZxec4) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [CKUNTINOMKSZ](https://open.spotify.com/album/2YzChAOzMjwskZWWuSXXcI) | 2:29 | 2021-11-19 | 2025-05-31 |
 | [Soft & Cunt, no Shade](https://open.spotify.com/track/2JXZAbnHJdjvPjIfPowFGI) | [R2POT](https://open.spotify.com/artist/5bnfpj9skNiQGiOligdrdV), [Tasha Dengo](https://open.spotify.com/artist/5RjMCcFWZM1x2xXqho8Xq7) | [Hype do Vogue](https://open.spotify.com/album/539wlVjdogdkhsiOcHproZ) | 3:46 | 2025-05-30 |  |
 | [Some Type Of Way](https://open.spotify.com/track/7GQNJ4CPmz1HnZJufDfnGR) | [Gregg Evisu XL](https://open.spotify.com/artist/6aededuMz6UqTaWXyMopQs), [Jay R Neutron](https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:30 | 2021-11-19 | 2023-03-25 |

@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: thatboykwame
 
-1,339 songs - 2 day 14 hr 27 min
+1,339 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Lost For Words](https://open.spotify.com/track/4H9YOgkf9tWbOWgyHT8pWf) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Lost For Words](https://open.spotify.com/album/2Xp7aMi4BihxB4ypHhDOAJ) | 3:25 | 2025-09-18 |  |
 | [LOST SOULS](https://open.spotify.com/track/0HTn7A9rEj6i7qRyCMrJLo) | [Kid Rey](https://open.spotify.com/artist/7o3qyJI8ODvWje1f5U52jp) | [LOST SOULS](https://open.spotify.com/album/589yXgWUhVd5EvKlIDaBx1) | 1:53 | 2023-10-26 | 2024-02-16 |
 | [Loui & Trap](https://open.spotify.com/track/48tSd85jnXAcvs9XAwIl4S) | [Hoodllandsz](https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ) | [Loui & Trap](https://open.spotify.com/album/4Oc00JjKH0zxbqIz4hJA7R) | 2:45 | 2023-07-13 | 2023-10-27 |
+| [Love For My Brothers](https://open.spotify.com/track/7ItsTOrorRRrkssIJXcNhK) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Love For My Brothers](https://open.spotify.com/album/79wnjeKYX6lZ7skUtJdTA1) | 2:52 | 2025-10-16 |  |
 | [Love For My City](https://open.spotify.com/track/2oRJpZouHzN9Ly9PXgfzt3) | [See Naylors](https://open.spotify.com/artist/6qj1QgWdBHPCpPNz95wAot), [Zulu](https://open.spotify.com/artist/0eW1LoDjWUp5RxC5o6FDOX) | [Love For My City](https://open.spotify.com/album/0ZfRzGnc5emWL5nwbhmuJU) | 3:02 | 2022-05-05 | 2022-07-26 |
 | [Love Us Now](https://open.spotify.com/track/4V5hzyGVsBCEEYWySZDIOo) | [FMB](https://open.spotify.com/artist/1Kk4fSEcYeC4Z02ie8ZntE) | [Love Us Now](https://open.spotify.com/album/1OPn7cUUNM8YTDkvLubzIc) | 4:16 | 2022-09-29 | 2023-02-24 |
 | [LOVERBOY](https://open.spotify.com/track/2J5tWDzTxQclM0vG8VPVVG) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [LOVERBOY](https://open.spotify.com/album/299pfWd3fonYSQoONNjS7C) | 2:49 | 2023-12-04 | 2024-03-15 |
@@ -1193,7 +1194,6 @@
 | [Tough Love](https://open.spotify.com/track/580M6DAWUqbm8Xen9hFzen) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg), [BBGB](https://open.spotify.com/artist/24WPoEQFxZRu8ITQ7QPxpW), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto), [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Tough Love](https://open.spotify.com/album/2oDAt5ppCdmPxX2FgDEO2Y) | 2:02 | 2022-07-14 | 2022-08-26 |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [TRA TRA](https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [TRA TRA](https://open.spotify.com/album/7vCrjOeymEEaGg8LLDkqih) | 2:28 | 2024-05-16 | 2024-08-16 |
-| [Track 1](https://open.spotify.com/track/7ItsTOrorRRrkssIJXcNhK) | [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Tracy Grimshaw](https://open.spotify.com/track/2LUxHvlSFN6iozCYnzJ5Us) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA) | 2:42 | 2022-12-04 | 2023-01-20 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 | 2022-12-05 |
 | [Tragic](https://open.spotify.com/track/1HCExCnt9KCRqGAn9FVHHE) | [Sacredd](https://open.spotify.com/artist/257Xio2GbqOqjSC7n3Iw5s) | [Tragic](https://open.spotify.com/album/14xkno1b7zqS57gkQeKDcq) | 3:04 | 2023-02-02 | 2023-04-21 |

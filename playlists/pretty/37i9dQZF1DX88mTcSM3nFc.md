@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 46 | [It's Not Christmas](https://open.spotify.com/track/1WsG32qO3bVxXjcM3hu0iT) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [It's Not Christmas](https://open.spotify.com/album/0LBp8zWibJzzRXJfwQobTV) | 3:19 |
 | 47 | [O Holy Night](https://open.spotify.com/track/3JIHsuJjTxdfK0Mff0pTy5) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [White Christmas](https://open.spotify.com/album/3ED25ItOo8gmmUkIywh2Nt) | 2:14 |
 | 48 | [The World's Saddest Christmas Song](https://open.spotify.com/track/1exm59J0Hi2A4yuCcg0yf6) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [The World's Saddest Christmas Song](https://open.spotify.com/album/0TaeUIW1Stf0ddxqp3MZhK) | 4:29 |
-| 49 | [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 |
-| 50 | [O Little Town of Bethlehem](https://open.spotify.com/track/6c4CoGUt6wG0Al3lEZGDf9) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Complete RCA Christmas Collection](https://open.spotify.com/album/6QSSyJyDQVshrNr7SnqKsE) | 3:02 |
+| 49 | [O Little Town of Bethlehem](https://open.spotify.com/track/6c4CoGUt6wG0Al3lEZGDf9) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Complete RCA Christmas Collection](https://open.spotify.com/album/6QSSyJyDQVshrNr7SnqKsE) | 3:02 |
+| 50 | [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 |
 
 Snapshot ID: `AAAAALtspWfi2oLZ9AvOUKuvQ5v29yEE`

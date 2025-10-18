@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Linda Elys",
-  "num_followers": 38025,
+  "num_followers": 38036,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
+      },
+      "artists": [
+        {
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
+        }
+      ],
+      "duration_ms": 208166,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
         "name": "Watergun",
         "url": "https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/50cF2MeZrL5vVnoavsDBDW"
-      },
-      "artists": [
-        {
-          "name": "Gil Glaze",
-          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
-        }
-      ],
-      "duration_ms": 208166,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Love Is A Lie",
-        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 139683,
-      "name": "Love Is A Lie",
-      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 135866,
       "name": "fire",
       "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
+        "name": "Love Is A Lie",
+        "url": "https://open.spotify.com/album/4UFBXEuqazPcVNvzcm11M4"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 139683,
+      "name": "Love Is A Lie",
+      "url": "https://open.spotify.com/track/3Ji9fllpDPn8DQGkFnLaBY"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/6veaCwYydd9unaXasYUneY"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/14Z5Bfgs3KKdxF0BDCObk8"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
         "name": "Bailar Bachata",
         "url": "https://open.spotify.com/album/1GuwfVXyDfqq9PgUM3S9J3"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 169158,
       "name": "Bailar Bachata",
       "url": "https://open.spotify.com/track/0Y9Ur7tkHfN43EF24K85AN"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/6veaCwYydd9unaXasYUneY"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/14Z5Bfgs3KKdxF0BDCObk8"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -987,18 +987,34 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
       },
       "artists": [
         {
-          "name": "DANA",
-          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
         }
       ],
-      "duration_ms": 161340,
-      "name": "Low Tide",
-      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
+        "name": "Softly Speaking",
+        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 226334,
+      "name": "Softly Speaking",
+      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Softly Speaking",
-        "url": "https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y"
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "DANA",
+          "url": "https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr"
         }
       ],
-      "duration_ms": 226334,
-      "name": "Softly Speaking",
-      "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+      "duration_ms": 161340,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Playing House",
-        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Playing House",
-      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
       },
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
+        "name": "Playing House",
+        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Playing House",
+      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
         "name": "Starcrossed",
         "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 183157,
       "name": "Starcrossed",
       "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "What If This World",
-        "url": "https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "What If This World",
-      "url": "https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
+        "name": "Down To My Bones",
+        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Down To My Bones",
+      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
         "name": "you & i",
         "url": "https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Down To My Bones",
-        "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Down To My Bones",
-      "url": "https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
         "name": "Satellite (Spotify Singles)",
         "url": "https://open.spotify.com/album/3FYh7wVc6lw1gDeGC5qs2T"
       },
@@ -1311,8 +1295,8 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM"
+        "name": "What If This World",
+        "url": "https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr"
       },
       "artists": [
         {
@@ -1320,25 +1304,9 @@
           "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
         }
       ],
-      "duration_ms": 178857,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
-        "name": "Weird Kid",
-        "url": "https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6"
-      },
-      "artists": [
-        {
-          "name": "To Athena",
-          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
-        }
-      ],
-      "duration_ms": 225099,
-      "name": "Weird Kid",
-      "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
+      "duration_ms": 219047,
+      "name": "What If This World",
+      "url": "https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1363,18 +1331,18 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "I Just Wanna Turn It Up",
-        "url": "https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld"
+        "name": "Weird Kid",
+        "url": "https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6"
       },
       "artists": [
         {
-          "name": "DJ Antoine",
-          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+          "name": "To Athena",
+          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
         }
       ],
-      "duration_ms": 164966,
-      "name": "I Just Wanna Turn It Up",
-      "url": "https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW"
+      "duration_ms": 225099,
+      "name": "Weird Kid",
+      "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
+        "name": "I Just Wanna Turn It Up",
+        "url": "https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        }
+      ],
+      "duration_ms": 164966,
+      "name": "I Just Wanna Turn It Up",
+      "url": "https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
         "name": "Pretty Girl Thriller",
         "url": "https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 175615,
       "name": "Pretty Girl Thriller",
       "url": "https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 178857,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1427,18 +1427,34 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "I'm Getting Tired of Me",
-        "url": "https://open.spotify.com/album/3fkjAF6mRMGlFxyisnRH3c"
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
         }
       ],
-      "duration_ms": 216224,
-      "name": "I\u2019m Getting Tired of Me",
-      "url": "https://open.spotify.com/track/5uVnCPwUSw1ITK92eq0cSY"
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1463,38 +1479,6 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
-        "name": "Can",
-        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Can",
-      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
         "name": "Milchstrass (feat. Aaron Asteria)",
         "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 237680,
       "name": "Milchstrass (feat. Aaron Asteria)",
       "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
+        "name": "I'm Getting Tired of Me",
+        "url": "https://open.spotify.com/album/3fkjAF6mRMGlFxyisnRH3c"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 216224,
+      "name": "I\u2019m Getting Tired of Me",
+      "url": "https://open.spotify.com/track/5uVnCPwUSw1ITK92eq0cSY"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1547,6 +1547,38 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
+        "name": "Modern Roses",
+        "url": "https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 182939,
+      "name": "Pop Up",
+      "url": "https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
+        "name": "Too Long Ago",
+        "url": "https://open.spotify.com/album/1iisgK1KPYxkG3Oa10R6Zl"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Too Long Ago",
+      "url": "https://open.spotify.com/track/0QfqAcgO0LKS3c8eLw9G01"
+    },
+    {
+      "added_at": "2025-10-16 22:00:26",
+      "album": {
         "name": "Young Bones",
         "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
@@ -1579,18 +1611,18 @@
     {
       "added_at": "2025-10-16 22:00:26",
       "album": {
-        "name": "Too Long Ago",
-        "url": "https://open.spotify.com/album/1iisgK1KPYxkG3Oa10R6Zl"
+        "name": "oxygen",
+        "url": "https://open.spotify.com/album/4EDGkCx4podx97NEbColdz"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Too Long Ago",
-      "url": "https://open.spotify.com/track/0QfqAcgO0LKS3c8eLw9G01"
+      "duration_ms": 184192,
+      "name": "oxygen",
+      "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
     },
     {
       "added_at": "2025-10-16 22:00:26",
@@ -1611,38 +1643,6 @@
       "duration_ms": 165365,
       "name": "Sch\u00f6n",
       "url": "https://open.spotify.com/track/1swGr7I8NjsAu8iZ6MT1Hx"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 136767,
-      "name": "You Hurt Me",
-      "url": "https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D"
-    },
-    {
-      "added_at": "2025-10-16 22:00:26",
-      "album": {
-        "name": "Modern Roses",
-        "url": "https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 182939,
-      "name": "Pop Up",
-      "url": "https://open.spotify.com/track/4RS0g8ny9BVFXw98Uu4lCf"
     }
   ],
   "unique_name": "Swiss Made",

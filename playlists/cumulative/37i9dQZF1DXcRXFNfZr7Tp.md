@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Sabrina Carpenter
+> Current favorites and exciting new music\. Cover: Taylor Swift
 
 1,364 songs - 2 day 22 hr 36 min
 

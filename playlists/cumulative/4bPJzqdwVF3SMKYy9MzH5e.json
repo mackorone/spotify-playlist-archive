@@ -42643,6 +42643,24 @@
     },
     {
       "album": {
+        "name": "H4bits",
+        "url": "https://open.spotify.com/album/07vYjdM26vVfAhqoGhPYpF"
+      },
+      "artists": [
+        {
+          "name": "Bovskey",
+          "url": "https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130363,
+      "name": "Yo soy mal",
+      "url": "https://open.spotify.com/track/7kwhETMFW3m2FW83Cp0kbX"
+    },
+    {
+      "album": {
         "name": "Goblin",
         "url": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
       },

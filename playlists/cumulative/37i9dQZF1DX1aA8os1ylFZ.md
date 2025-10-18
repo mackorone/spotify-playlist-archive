@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-676 songs - 1 day 10 hr 45 min
+677 songs - 1 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [So Fresh So Clean](https://open.spotify.com/track/59QfKeNapjJA7A7A3UKSWU) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [Baby Boy 2](https://open.spotify.com/album/1HSVRYzepxAx4FAwysjKn7) | 2:15 | 2024-11-14 | 2025-08-29 |
 | [Soft \(feat\. Chlöe & Halle\) \[Unlocked\]](https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Access All Areas: Unlocked](https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB) | 3:11 | 2024-11-21 |  |
 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 | 2023-01-12 | 2023-11-17 |
+| [Sold Myself For Love](https://open.spotify.com/track/1NFTCC13S7o7n2Yy6ctEdZ) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Sold Myself For Love](https://open.spotify.com/album/06O9egxd0mX7XEtuqmuX0D) | 3:26 | 2025-10-16 |  |
 | [Sold Myself For Love \- A COLORS SHOW](https://open.spotify.com/track/4gyCw6NAEISSzLoL1qKzQA) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Sold Myself For Love \- A COLORS SHOW](https://open.spotify.com/album/7GbzdXU6PepjiNik1oMl25) | 3:26 | 2025-10-09 | 2025-10-17 |
 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 | 2023-08-31 | 2024-09-28 |
 | [Solutions](https://open.spotify.com/track/4dzUnPycaoQTzRxm4tqF3O) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Unfiltered](https://open.spotify.com/album/55Z9X5i9tJmBhiSqr5MuAT) | 1:49 | 2023-11-08 | 2024-10-05 |

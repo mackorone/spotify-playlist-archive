@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "C'est qui qui \u00e0 koeur\u00e9?",
+        "url": "https://open.spotify.com/album/4AQrYtHFNuagblJEqLA8nM"
+      },
+      "artists": [
+        {
+          "name": "Momo Hayek",
+          "url": "https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski"
+        },
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "C'est qui qui \u00e0 koeur\u00e9?",
+      "url": "https://open.spotify.com/track/3sMa9CW10jJOINelbPeV03"
+    },
+    {
+      "album": {
         "name": "C'EST SON TEMPS",
         "url": "https://open.spotify.com/album/5pSmtSt3JwN7vQ5AdeESpS"
       },

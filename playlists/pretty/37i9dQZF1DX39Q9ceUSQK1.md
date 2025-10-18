@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: The Vices
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,858 likes - 81 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,893 likes - 81 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: 99Phaces",
-  "num_followers": 108978,
+  "num_followers": 109005,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -179,18 +179,22 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "MERCY PLEASE",
-        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/1UZpFYWfMkGkrk04P5rTSJ"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "Godwin",
+          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
+        },
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
         }
       ],
-      "duration_ms": 173436,
-      "name": "MERCY PLEASE",
-      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
+      "duration_ms": 170826,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/1BAEgoevzYy6VtPMUlKPFN"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -235,22 +239,18 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "Atonement",
-        "url": "https://open.spotify.com/album/1UZpFYWfMkGkrk04P5rTSJ"
+        "name": "MERCY PLEASE",
+        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
       },
       "artists": [
         {
-          "name": "Godwin",
-          "url": "https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y"
-        },
-        {
-          "name": "KITSCHKRIEG",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/1BAEgoevzYy6VtPMUlKPFN"
+      "duration_ms": 173436,
+      "name": "MERCY PLEASE",
+      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -391,6 +391,34 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
+        "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
+        "url": "https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY"
+      },
+      "artists": [
+        {
+          "name": "FirstKlaz",
+          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
+        },
+        {
+          "name": "Iliya Entertainment Music",
+          "url": "https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 157935,
+      "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
+      "url": "https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
         "name": "WONDERFUL",
         "url": "https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4"
       },
@@ -419,34 +447,6 @@
       "duration_ms": 116400,
       "name": "sexygyal.mp3",
       "url": "https://open.spotify.com/track/4NDYc9iZQEvTMWQYEmvGSu"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
-        "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
-        "url": "https://open.spotify.com/album/7MFEWR37o9soZbhWwBWQvY"
-      },
-      "artists": [
-        {
-          "name": "FirstKlaz",
-          "url": "https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5"
-        },
-        {
-          "name": "Iliya Entertainment Music",
-          "url": "https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 157935,
-      "name": "Gen-Z Arewazobia (feat. Jeriq & Zlatan)",
-      "url": "https://open.spotify.com/track/0FXuDfxekkdEzGMMaCPAvr"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -771,18 +771,22 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "MONOCHROME RADIO (DELUXE)",
-        "url": "https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3"
+        "name": "Rudia",
+        "url": "https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk"
       },
       "artists": [
         {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
         }
       ],
-      "duration_ms": 222516,
-      "name": "SUGAR HONEY ICED TEA",
-      "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
+      "duration_ms": 200676,
+      "name": "Rudia",
+      "url": "https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -811,22 +815,18 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "Rudia",
-        "url": "https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk"
+        "name": "MONOCHROME RADIO (DELUXE)",
+        "url": "https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3"
       },
       "artists": [
         {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
         }
       ],
-      "duration_ms": 200676,
-      "name": "Rudia",
-      "url": "https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf"
+      "duration_ms": 222516,
+      "name": "SUGAR HONEY ICED TEA",
+      "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/1PC58n8MP6vQwuOdyz01WV"
+      },
+      "artists": [
+        {
+          "name": "Skillz 8figure",
+          "url": "https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        },
+        {
+          "name": "IRIE SESSIONS",
+          "url": "https://open.spotify.com/artist/2GGYWtloD2KYh0Ha6cAjsJ"
+        }
+      ],
+      "duration_ms": 181959,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/7t8s2vubxLWWIV614tquv3"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
         "name": "On Time",
         "url": "https://open.spotify.com/album/20k3vSq3WUt0dRqfTmwyHI"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 154828,
       "name": "Pepper Demm",
       "url": "https://open.spotify.com/track/0GrjQoD0G2nbpjvBa64EPK"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/1PC58n8MP6vQwuOdyz01WV"
-      },
-      "artists": [
-        {
-          "name": "Skillz 8figure",
-          "url": "https://open.spotify.com/artist/7gTH9Cv2pAlhscmRsaGqy9"
-        },
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        },
-        {
-          "name": "IRIE SESSIONS",
-          "url": "https://open.spotify.com/artist/2GGYWtloD2KYh0Ha6cAjsJ"
-        }
-      ],
-      "duration_ms": 181959,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/7t8s2vubxLWWIV614tquv3"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "WAY BACK",
-        "url": "https://open.spotify.com/album/1TCi9dPFfZPXzMyEcnhP2m"
-      },
-      "artists": [
-        {
-          "name": "99 PHACES",
-          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
-        }
-      ],
-      "duration_ms": 167058,
-      "name": "WAY BACK",
-      "url": "https://open.spotify.com/track/16xpoMs2nXaHNS5k1tXGGg"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
         "name": "London Girl",
         "url": "https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 134791,
       "name": "London Girl",
       "url": "https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "WAY BACK",
+        "url": "https://open.spotify.com/album/1TCi9dPFfZPXzMyEcnhP2m"
+      },
+      "artists": [
+        {
+          "name": "99 PHACES",
+          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
+        }
+      ],
+      "duration_ms": 167058,
+      "name": "WAY BACK",
+      "url": "https://open.spotify.com/track/16xpoMs2nXaHNS5k1tXGGg"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1211,18 +1211,26 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "THE KIDS ARE JUST FINE",
-        "url": "https://open.spotify.com/album/40QVVbi1qzPuohebJYM2L6"
+        "name": "Mezebu x2",
+        "url": "https://open.spotify.com/album/1ex977g331ZH71nhjDyv2E"
       },
       "artists": [
         {
-          "name": "99 PHACES",
-          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
+          "name": "Vivendii Sound",
+          "url": "https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Mowalola",
+          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
         }
       ],
-      "duration_ms": 160628,
-      "name": "DANCEFLOOR",
-      "url": "https://open.spotify.com/track/46VmQ751xavC1Iv3poT6Jj"
+      "duration_ms": 167658,
+      "name": "Mezebu x 2",
+      "url": "https://open.spotify.com/track/1a6n2Rh5xaqCXh9GQLcDq8"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1251,46 +1259,6 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "Mezebu x2",
-        "url": "https://open.spotify.com/album/1ex977g331ZH71nhjDyv2E"
-      },
-      "artists": [
-        {
-          "name": "Vivendii Sound",
-          "url": "https://open.spotify.com/artist/21rC8LSfXexS7tyaK9tbum"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Mowalola",
-          "url": "https://open.spotify.com/artist/6BjTMFkrQJF8cQlVsLFbUh"
-        }
-      ],
-      "duration_ms": 167658,
-      "name": "Mezebu x 2",
-      "url": "https://open.spotify.com/track/1a6n2Rh5xaqCXh9GQLcDq8"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/7rVhzxmshW0zwoAMA3aLzx"
-      },
-      "artists": [
-        {
-          "name": "Kotrell",
-          "url": "https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS"
-        }
-      ],
-      "duration_ms": 148392,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/43Gj3bg7bKByKGi8EO6eGj"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
         "name": "4GET IT",
         "url": "https://open.spotify.com/album/13V4cvGODBdA92iQT4DTXY"
       },
@@ -1311,6 +1279,22 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/7rVhzxmshW0zwoAMA3aLzx"
+      },
+      "artists": [
+        {
+          "name": "Kotrell",
+          "url": "https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS"
+        }
+      ],
+      "duration_ms": 148392,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/43Gj3bg7bKByKGi8EO6eGj"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
         "name": "Tired Music 2.0",
         "url": "https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 133629,
       "name": "Life Was Never Like This",
       "url": "https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "THE KIDS ARE JUST FINE",
+        "url": "https://open.spotify.com/album/40QVVbi1qzPuohebJYM2L6"
+      },
+      "artists": [
+        {
+          "name": "99 PHACES",
+          "url": "https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p"
+        }
+      ],
+      "duration_ms": 160628,
+      "name": "DANCEFLOOR",
+      "url": "https://open.spotify.com/track/46VmQ751xavC1Iv3poT6Jj"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "DEATH DO US PART",
-        "url": "https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a"
-      },
-      "artists": [
-        {
-          "name": "Caleb Awiti",
-          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "DEATH DO US PART",
-      "url": "https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
         "name": "WICKED (feat. Cruel Santino) [Remix]",
         "url": "https://open.spotify.com/album/5kYSnQHbeEGXz2MWuePRRP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 158446,
       "name": "WICKED (feat. Cruel Santino) - Remix",
       "url": "https://open.spotify.com/track/5JogQs6MwOokHBoVLaF7S9"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "DEATH DO US PART",
+        "url": "https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "DEATH DO US PART",
+      "url": "https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6JXTPTD9gCe5sH7NIaXqgl"
-      },
-      "artists": [
-        {
-          "name": "boistory",
-          "url": "https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc"
-        },
-        {
-          "name": "Rvdical the Kid",
-          "url": "https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES"
-        }
-      ],
-      "duration_ms": 163625,
-      "name": "Myself",
-      "url": "https://open.spotify.com/track/3dqm84IGJRzTsUqesu2Evj"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
         "name": "In Pursuit Of Happiness",
         "url": "https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 159360,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6JXTPTD9gCe5sH7NIaXqgl"
+      },
+      "artists": [
+        {
+          "name": "boistory",
+          "url": "https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc"
+        },
+        {
+          "name": "Rvdical the Kid",
+          "url": "https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES"
+        }
+      ],
+      "duration_ms": 163625,
+      "name": "Myself",
+      "url": "https://open.spotify.com/track/3dqm84IGJRzTsUqesu2Evj"
     },
     {
       "added_at": "2025-10-17 00:01:30",

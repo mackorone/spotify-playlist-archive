@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 24987,
+  "num_followers": 24995,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,26 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+    },
+    {
+      "added_at": "2025-07-17 09:06:39",
+      "album": {
         "name": "Chutney Party Mix",
         "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
       },
@@ -751,22 +771,6 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
-        "name": "Chutney Party Mix",
-        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
-      },
-      "artists": [
-        {
-          "name": "Sonny Man",
-          "url": "https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6"
-        }
-      ],
-      "duration_ms": 302426,
-      "name": "Loota La",
-      "url": "https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV"
-    },
-    {
-      "added_at": "2025-07-17 09:06:39",
-      "album": {
         "name": "Dance Party King",
         "url": "https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03"
       },
@@ -783,22 +787,18 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+        "name": "Chutney Party Mix",
+        "url": "https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "Sonny Man",
+          "url": "https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+      "duration_ms": 302426,
+      "name": "Loota La",
+      "url": "https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV"
     },
     {
       "added_at": "2025-07-17 09:06:39",
@@ -835,18 +835,22 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
-        "name": "Soca Gold 2009",
-        "url": "https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra"
+        "name": "The Xtatik Experience",
+        "url": "https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN"
       },
       "artists": [
         {
-          "name": "Kenneth Salick",
-          "url": "https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
         }
       ],
-      "duration_ms": 261266,
-      "name": "Radica",
-      "url": "https://open.spotify.com/track/2IiLuq9XbkC2JzbZM4QO22"
+      "duration_ms": 274626,
+      "name": "Mor Tor (feat. Rikki Jai)",
+      "url": "https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg"
     },
     {
       "added_at": "2025-07-17 09:06:39",
@@ -867,22 +871,18 @@
     {
       "added_at": "2025-07-17 09:06:39",
       "album": {
-        "name": "The Xtatik Experience",
-        "url": "https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN"
+        "name": "Soca Gold 2009",
+        "url": "https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Rikki Jai",
-          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+          "name": "Kenneth Salick",
+          "url": "https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Mor Tor (feat. Rikki Jai)",
-      "url": "https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg"
+      "duration_ms": 261266,
+      "name": "Radica",
+      "url": "https://open.spotify.com/track/2IiLuq9XbkC2JzbZM4QO22"
     },
     {
       "added_at": "2025-07-17 09:06:39",

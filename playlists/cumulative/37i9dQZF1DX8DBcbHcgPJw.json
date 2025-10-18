@@ -6353,6 +6353,28 @@
     },
     {
       "album": {
+        "name": "LOCOS",
+        "url": "https://open.spotify.com/album/7AQYbp50gHY5FmW2jcbKll"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144783,
+      "name": "LOCOS",
+      "url": "https://open.spotify.com/track/4FOpOzbRiaZf3qPOavNKk6"
+    },
+    {
+      "album": {
         "name": "Locura Sin Techo (Remix)",
         "url": "https://open.spotify.com/album/4F3kVz0eoyIIK6HnTyauSa"
       },
@@ -7856,7 +7878,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 120306,
       "name": "No Es Amor",
       "url": "https://open.spotify.com/track/6OxzePqFAEXBcZq64MkUqz"
@@ -8532,7 +8554,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 125000,
       "name": "Nuestro Amor Regresa",
       "url": "https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14"
@@ -12688,7 +12710,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 126165,
       "name": "Tu Misterioso Alguien",
       "url": "https://open.spotify.com/track/4mw4Wwa7cJbRUIDYuqS5tO"

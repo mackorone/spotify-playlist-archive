@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Sophia Chablau, Felipe Vaqueiro
+> Música brasileira fora da curva\. Foto: Flerte Flamingo
 
-798 songs - 1 day 21 hr 22 min
+799 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Nascer, Viver, Morrer](https://open.spotify.com/track/188u45zEKJJFaeIO0aMlpF) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Nascer, Viver, Morrer](https://open.spotify.com/album/6oabmbCAly8cR8j6I8SqOg) | 1:53 | 2022-05-06 | 2022-06-25 |
 | [nem sempre foi assim](https://open.spotify.com/track/00SaOQz2IJCWaxik1UM05P) | [gorduratrans](https://open.spotify.com/artist/5XgdNH4XKiXwbXUTytIZnX) | [nem sempre foi assim](https://open.spotify.com/album/6qJ4djzuo97V866oqDnkUn) | 3:32 | 2022-06-03 | 2022-08-20 |
 | [Nem Sempre Fui Assim](https://open.spotify.com/track/0kCc2xrwESCbpGqtr3qer8) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Nem Sempre Fui Assim](https://open.spotify.com/album/2goR0VRITyLz5FMQ0Pm8W7) | 1:38 | 2024-06-28 | 2024-07-13 |
-| [Neotropical](https://open.spotify.com/track/12emg4mvfx5IlCoqVxqNJT) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Nada Fica Muito Tempo Exposto ao Sol](https://open.spotify.com/album/6z86xP0ZcFOFtTp2qkCNGO) | 2:52 | 2024-10-04 |  |
+| [Neotropical](https://open.spotify.com/track/12emg4mvfx5IlCoqVxqNJT) | [AQUINO](https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu) | [Nada Fica Muito Tempo Exposto ao Sol](https://open.spotify.com/album/6z86xP0ZcFOFtTp2qkCNGO) | 2:52 | 2024-10-04 | 2025-10-18 |
 | [nesse verão](https://open.spotify.com/track/2o7Dnb3uCe2NRJhSEAruNv) | [Ente](https://open.spotify.com/artist/2lOXiSPGZ3mm6JpMhmL1bZ) | [nesse verão](https://open.spotify.com/album/51jNv8hQZrxuUg1tGbNU1A) | 2:47 | 2023-08-18 | 2023-12-02 |
 | [Netuno](https://open.spotify.com/track/4txAAaLKHl9ZZGx3Zm0vDy) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [Fernando Rischbieter](https://open.spotify.com/artist/5G8onWVn2gx1OL3YuptZ6G) | [Netuno](https://open.spotify.com/album/42JEz98glWhal7Nte70EXS) | 5:50 | 2022-03-18 | 2022-05-07 |
 | [New Hit](https://open.spotify.com/track/2zp5qO1PlJJ5qb6eycAmI2) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0), [batata boy](https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA) | [No Reino Dos Afetos 2](https://open.spotify.com/album/6dDeOUl4ZbHeCmJSWx03xw) | 2:43 | 2024-04-12 | 2024-08-03 |
@@ -516,6 +516,7 @@
 | [O Treco](https://open.spotify.com/track/6Wm2WXD8wzTAUmhV3ApGaX) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Treco](https://open.spotify.com/album/2GocsqkouIMlVXmEZxofp2) | 4:20 | 2022-04-08 | 2023-01-14 |
 | [O Viajante](https://open.spotify.com/track/6wZREwKUbPx0OZTZBiUd2Q) | [Graxelos](https://open.spotify.com/artist/78lzMT8QkKOJGwzjPbSEpP) | [Shangri\-Lá](https://open.spotify.com/album/1q3H406m4bYcT2MES86Bkk) | 5:07 | 2024-04-26 | 2024-08-17 |
 | [O Último Girassol](https://open.spotify.com/track/3MRw4AVPeLDlLDWAY5SfFo) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [O Último Girassol](https://open.spotify.com/album/0z6HPQVrWSTeCXAAIDhLjq) | 3:19 | 2023-08-04 | 2024-03-02 |
+| [O Último Homem](https://open.spotify.com/track/0LlyT9UpvTaI0A7oKYt2Yk) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Dói Ter](https://open.spotify.com/album/5TCfkPqWAZ93yV9ejBcIQG) | 4:44 | 2025-10-17 |  |
 | [Oi Xodózinho](https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y) | [QUITXA](https://open.spotify.com/artist/2cvrw3HWvaY0DoEvOYUvc6), [HEO](https://open.spotify.com/artist/0H1f4AwctYhhhyNywuWi21) | [Oi Xodózinho](https://open.spotify.com/album/7iIBpoiJlGI0bN0EH8RLvJ) | 2:04 | 2025-01-17 | 2025-02-01 |
 | [Olha Pra Mim](https://open.spotify.com/track/3dzzufm1EyNeSRxqfF4vEB) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X), [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [Olha Pra Mim](https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI) | 2:08 | 2024-12-06 | 2025-03-15 |
 | [olhos cansados](https://open.spotify.com/track/3pt0xyf4ZVO2SRnMOf47r8) | [O Temporal](https://open.spotify.com/artist/2g9eJDWyPM1LzUwTWFZjpG) | [o temporal](https://open.spotify.com/album/1zefWkoUkHufnXq7sQLUeC) | 4:41 | 2022-02-11 | 2023-04-15 |

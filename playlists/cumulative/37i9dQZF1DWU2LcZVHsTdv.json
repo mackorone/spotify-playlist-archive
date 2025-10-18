@@ -1069,6 +1069,28 @@
     },
     {
       "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9"
+    },
+    {
+      "album": {
         "name": "Frayed At Both Ends",
         "url": "https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar"
       },

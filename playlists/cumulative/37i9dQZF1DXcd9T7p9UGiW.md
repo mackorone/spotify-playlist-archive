@@ -4,7 +4,7 @@
 
 > Catching flights and going global\. Cover: bees n honey
 
-751 songs - 1 day 15 hr 46 min
+751 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Compare](https://open.spotify.com/track/1AANTCuuyxJwTrQXRqQ7UZ) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [We Cut Keys 2](https://open.spotify.com/album/4QrLni4FRgGo9SgAUoHDso) | 3:42 | 2024-01-26 | 2024-03-15 |
 | [Composure](https://open.spotify.com/track/5klDh47zTCCIlq8Rp4P9t2) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [ZJ Dymond](https://open.spotify.com/artist/213Pyq3nlIwC3sI7n1HBbq), [JahBoy](https://open.spotify.com/artist/3XJ9MyxzruOLw3srLA0J7F) | [Composure](https://open.spotify.com/album/4mtCi5FyTsnqjm67RWqZQG) | 2:50 | 2025-08-29 | 2025-09-19 |
 | [Connection](https://open.spotify.com/track/2TRVQlpDjhej74USx0RMF1) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Connection](https://open.spotify.com/album/5L6VbQiCxri3Nc34RvNUon) | 3:26 | 2022-11-25 | 2022-12-19 |
+| [Consistency \(feat\. AJ Tracey\)](https://open.spotify.com/track/6E9G3sxLED43BOQS1qGlNp) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:46 | 2025-10-17 |  |
 | [Copilote](https://open.spotify.com/track/52dZZoC3FuH8owL04WjG2l) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Galatée](https://open.spotify.com/album/6AYdXWHvx8Nrc97VDsU6Un) | 2:33 | 2023-05-11 | 2023-05-20 |
 | [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 | 2023-07-20 | 2024-03-01 |
 | [Count Your Blessings \- Remix](https://open.spotify.com/track/311qbzPKlmeK5VI2lCzPGn) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Count Your Blessings \(Remix\)](https://open.spotify.com/album/4qQNeCaIjxS1yh7zcfBO2p) | 3:01 | 2023-02-03 | 2023-03-31 |
@@ -686,7 +687,6 @@
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-03-30 | 2023-04-28 |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-20 |  |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-04-08 |
-| [Track 2](https://open.spotify.com/track/6E9G3sxLED43BOQS1qGlNp) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-17 |  |
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-02-03 | 2022-02-25 |
 | [Twisted Fantasy](https://open.spotify.com/track/23tZbR3A6G52shxX4CQg92) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Twisted Fantasy](https://open.spotify.com/album/0ZYAqa153aROkjCnfy7fJy) | 3:07 | 2021-10-08 | 2022-04-15 |
 | [TWO SIDES](https://open.spotify.com/track/4c72MWImuljP18Pb4y5JFm) | [OIEE](https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY), [Sena](https://open.spotify.com/artist/1erBTcAMRYO1WTjsdv0Dma), [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [TWO SIDES](https://open.spotify.com/album/44JrrSJ9mBE9MxJhCSDIt1) | 3:10 | 2023-04-20 | 2023-04-28 |

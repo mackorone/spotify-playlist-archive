@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 691356,
+  "num_followers": 691386,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA0ZWtoZ2w9MYEXE6DNrT3r5UluT",
+  "snapshot_id": "AAAAAHJTlcRt7PcOW+ds/5yRm2dCTUwp",
   "tracks": [
     {
       "added_at": "2025-10-03 14:17:43",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Sciall\u00e0",
-        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 256393,
-      "name": "Sciall\u00e0",
-      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Sciall\u00e0",
+        "url": "https://open.spotify.com/album/4Sr05np1KjUdmw0RQF1R99"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 256393,
+      "name": "Sciall\u00e0",
+      "url": "https://open.spotify.com/track/2w30W8DtzFfUAqakTaeV78"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -827,38 +827,6 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
-        "name": "tomorrow never comes",
-        "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "what i feel",
-      "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
         "name": "Only For Tonight",
         "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
       },
@@ -879,6 +847,38 @@
       "duration_ms": 196773,
       "name": "Only For Tonight",
       "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "tomorrow never comes",
+        "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "what i feel",
+      "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 219810,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
         "name": "Alsace",
         "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 117454,
       "name": "Alsace",
       "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 219810,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
+        "name": "Simmer",
+        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -1199,38 +1215,6 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Disco Life",
-        "url": "https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Disco Life",
-      "url": "https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
-        "name": "Simmer",
-        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
         "name": "Disco Nap",
         "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
       },
@@ -1247,6 +1231,38 @@
       "duration_ms": 193226,
       "name": "Disco Nap",
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Disco Life",
+        "url": "https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Disco Life",
+      "url": "https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 195944,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -1403,6 +1419,22 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
         "name": "Bounce In Peace",
         "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
       },
@@ -1419,38 +1451,6 @@
       "duration_ms": 218454,
       "name": "More Than It Seems",
       "url": "https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 195944,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
+        "name": "Know Me",
+        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 207561,
+      "name": "Know Me",
+      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
         "name": "ALL A DREAM",
         "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
       },
@@ -1583,22 +1603,18 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Know Me",
-        "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 207561,
-      "name": "Know Me",
-      "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -1639,22 +1655,6 @@
       "duration_ms": 225083,
       "name": "Turn Up The Love - Roosevelt Remix",
       "url": "https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
         "name": "Marlboro Sounds",
         "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
       },
@@ -1795,26 +1795,6 @@
       "duration_ms": 363620,
       "name": "Marlboro Sounds",
       "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
-        }
-      ],
-      "duration_ms": 226929,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -1835,6 +1815,26 @@
       "duration_ms": 166875,
       "name": "Promises",
       "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        }
+      ],
+      "duration_ms": 226929,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
         "name": "Love Seeking",
         "url": "https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 189190,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 222909,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
     },
     {
       "added_at": "2025-10-03 14:17:43",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2025-10-03 14:17:43",
       "album": {
-        "name": "Wish I Knew You (Poolside Remix)",
-        "url": "https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 245938,
-      "name": "Wish I Knew You - Poolside Remix",
-      "url": "https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx"
-    },
-    {
-      "added_at": "2025-10-03 14:17:43",
-      "album": {
         "name": "Freeway (with Estelle)",
         "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
+    },
+    {
+      "added_at": "2025-10-03 14:17:43",
+      "album": {
+        "name": "Wish I Knew You (Poolside Remix)",
+        "url": "https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 245938,
+      "name": "Wish I Knew You - Poolside Remix",
+      "url": "https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx"
     },
     {
       "added_at": "2025-10-03 14:17:43",

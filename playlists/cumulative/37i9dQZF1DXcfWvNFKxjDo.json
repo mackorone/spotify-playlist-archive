@@ -39415,8 +39415,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Everlight",
+        "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
       },
       "artists": [
         {
@@ -79083,6 +79083,28 @@
     },
     {
       "album": {
+        "name": "KINEMA",
+        "url": "https://open.spotify.com/album/6MUsdRKgnDYhmuxBrRo2Nu"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284516,
+      "name": "Sad Makes Me Happy",
+      "url": "https://open.spotify.com/track/2wa7FoFXMz71V7TwyrgF7v"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/7u3JHl7wCi2xAejkIV7CCh"
       },
@@ -95772,24 +95794,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        }
-      ],
-      "date_added": "2025-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/2wa7FoFXMz71V7TwyrgF7v"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Urias
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Lou Garcia
 
-421 songs - 20 hr 2 min
+422 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [desficava](https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [desficava](https://open.spotify.com/album/2uwvJFTttwIKSleeqtK2JX) | 2:33 | 2022-09-30 | 2023-07-15 |
 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 | 2025-07-18 |  |
 | [DEUSA](https://open.spotify.com/track/7lwqdadTSjieUkL0l843dk) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [DEUSA](https://open.spotify.com/album/63bxU6zYHWnFREUErxDeUM) | 2:26 | 2022-04-06 | 2022-05-07 |
-| [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 | 2025-07-04 |  |
+| [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 | 2025-07-04 | 2025-10-18 |
 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 | 2025-05-23 |  |
 | [Doce](https://open.spotify.com/track/7sCGeBklTQyhZLbflFc6xg) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:16 | 2022-02-04 | 2022-03-05 |
 | [Doce Boy](https://open.spotify.com/track/56UFY8s74kaEkBSsFhSiJA) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Doce Boy](https://open.spotify.com/album/1BGmw1hnnwRV4NJ69wD4s9) | 2:18 | 2024-05-17 | 2024-06-15 |
@@ -378,6 +378,7 @@
 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 | 2023-11-03 |  |
 | [Sou Má](https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Nasci Pra Vencer / Sou Má](https://open.spotify.com/album/7ad7erETGKaJg6q5i4bIXb) | 3:30 | 2023-02-09 | 2023-11-11 |
 | [Sua Preferida](https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Sua Preferida](https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O) | 2:31 | 2024-11-08 |  |
+| [Subconsciente](https://open.spotify.com/track/5M9u4fXuHLDYSrxGzezMSL) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Literalmente Devaneios](https://open.spotify.com/album/1gWZCVHiEDQ8Ijx4rrzMuk) | 2:02 | 2025-10-17 |  |
 | [Sussurro](https://open.spotify.com/track/2MG5nzRpNoM16BXGE3tjeL) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Bhangzwn](https://open.spotify.com/album/3183dne70LPY7JS3DngZNO) | 3:10 | 2024-11-28 | 2024-12-03 |
 | [Sweat](https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q) | [Any Gabrielly](https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje) | [Sweat](https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK) | 2:42 | 2024-08-23 | 2024-10-19 |
 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 | 2024-05-17 | 2025-04-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 148234,
+  "num_followers": 148268,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACL5aPp6PqzXGRMzr1qJ3rU",
+  "snapshot_id": "aPA1gAAAAADjg/koJf7r7YYycSVghcPL",
   "tracks": [
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 308960,
-      "name": "It's Not Up To You",
-      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
+      "duration_ms": 338400,
+      "name": "Undo",
+      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 338400,
-      "name": "Undo",
-      "url": "https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI"
+      "duration_ms": 308960,
+      "name": "It's Not Up To You",
+      "url": "https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bastards",
-        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Omar Souleyman",
-          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
-        }
-      ],
-      "duration_ms": 399080,
-      "name": "Crystalline - Omar Souleyman Remix",
-      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ex:el",
         "url": "https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 282013,
       "name": "Ooops",
       "url": "https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bastards",
+        "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Omar Souleyman",
+          "url": "https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK"
+        }
+      ],
+      "duration_ms": 399080,
+      "name": "Crystalline - Omar Souleyman Remix",
+      "url": "https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS"
     },
     {
       "added_at": null,

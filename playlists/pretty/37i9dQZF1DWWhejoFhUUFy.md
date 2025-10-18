@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,024 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,083 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 31 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/1r6GbBLdtUK1Vl1IHT14wP) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 4:41 |
 | 32 | [Bol Do Na Zara](https://open.spotify.com/track/5XD2tP1DRH2NJgp45HiEQA) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Bollywood Romantic Songs With Armaan Malik](https://open.spotify.com/album/0TKg5tmAFIIC6iytdXXiM2) | 4:52 |
 | 33 | [Is This Love](https://open.spotify.com/track/0GVPRo9LEjxjT4C4o8BGot) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kismat Konnection \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N) | 5:29 |
-| 34 | [Ahista Ahista](https://open.spotify.com/track/1LFNOKVaFVBFCiLwz8Ay4O) | [Kazinama](https://open.spotify.com/artist/0FpO7hbnI5X094KWa9uvR8), [Musarrat Nazir](https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t) | [Ahista Ahista](https://open.spotify.com/album/5W10SeADqvhmc4W0rHSuZa) | 2:57 |
-| 35 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 34 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
+| 35 | [Ahista Ahista](https://open.spotify.com/track/1LFNOKVaFVBFCiLwz8Ay4O) | [Kazinama](https://open.spotify.com/artist/0FpO7hbnI5X094KWa9uvR8), [Musarrat Nazir](https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t) | [Ahista Ahista](https://open.spotify.com/album/5W10SeADqvhmc4W0rHSuZa) | 2:57 |
 | 36 | [Hum Tum](https://open.spotify.com/track/6YRbDkyTzsizAWFz8kwiI7) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Hum Tum](https://open.spotify.com/album/7aybARUBUG9LqNWvJYpNAf) | 5:29 |
 | 37 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 38 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 |

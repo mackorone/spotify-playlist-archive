@@ -2,9 +2,9 @@
 
 ### [Ambyar](https://open.spotify.com/playlist/37i9dQZF1DX4V6WLWzdIgr)
 
-> ra kabeh sing mbok tresnani, mbalik nresnani kowe 💔
+> "Aku pancen ora sempurna, gampang terluka..." 💔
 
-133 songs - 11 hr 4 min
+134 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Cerito Loro](https://open.spotify.com/track/57egBaCTBOuAs7ErKxyYjN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/46KkX8tvr0ANum32q8SX8F) | 6:17 | 2021-09-08 | 2024-04-19 |
 | [Cerito Loro](https://open.spotify.com/track/2G4wPLrZnnREwMOt4DT1sN) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Cerito Loro](https://open.spotify.com/album/3oFiAmnn5Q4THrMGBfjM6k) | 6:17 | 2024-04-04 |  |
 | [Cidro 2](https://open.spotify.com/track/17yog0bsFVvumvOuux03wM) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Cidro 2](https://open.spotify.com/album/72oOmFtjOGQNNM96ZUQ7fA) | 4:02 | 2021-09-08 | 2025-08-04 |
-| [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 | 2023-02-03 |  |
+| [Cidro Asmoro](https://open.spotify.com/track/1P51HK66VRbcNtG6nzxSd0) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Cidro Asmoro](https://open.spotify.com/album/1EevLbemdKpchn5ktMEaMc) | 5:26 | 2023-02-03 | 2025-10-18 |
 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 | 2023-02-03 |  |
 | [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 | 2025-07-17 |  |
 | [Dadi Siji](https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dadi Siji](https://open.spotify.com/album/6bnn3gvenkbop8CsSE7PkE) | 3:46 | 2023-05-04 |  |
@@ -111,6 +111,7 @@
 | [Ras Terkuat Di Bumi](https://open.spotify.com/track/4ddKyKxfkDrOZuvDz4Tewx) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Ras Terkuat Di Bumi](https://open.spotify.com/album/3chMkPs8xodRbvoNSQ2jCk) | 3:38 | 2025-09-11 |  |
 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 | 2023-02-03 |  |
 | [Rindu Tapi Jauh](https://open.spotify.com/track/3SbYOFXV6n6C7FxJVWISY9) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Rindu Tapi Jauh](https://open.spotify.com/album/6eJl7AILdiuhn6Ur8qE4Zh) | 4:04 | 2024-05-17 |  |
+| [Ropang](https://open.spotify.com/track/4c2OR5RjaVRhAOTqWhXZfQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Ropang](https://open.spotify.com/album/7Hodjm5HnXY518EsxV52w1) | 5:15 | 2025-10-17 |  |
 | [Saktenane](https://open.spotify.com/track/38JRCDnXTA9XG58jJnhh6l) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane](https://open.spotify.com/album/5RFmA98QgQqRBtEcErNAUX) | 5:21 | 2023-09-13 |  |
 | [Saktenane 3 \- Acoustic Version](https://open.spotify.com/track/0BSwdsK4gbsIS0ZPbMybgz) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane 3 \(Acoustic Version\)](https://open.spotify.com/album/4B484BneJhZhZzSzj6SFSV) | 6:17 | 2024-10-15 |  |
 | [Sampek Tuwek](https://open.spotify.com/track/13rfLhtagkf76aBy7Je2vO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sampek Tuwek](https://open.spotify.com/album/7ojuyvgSHW7KXTifHkBOsD) | 5:03 | 2021-09-08 |  |

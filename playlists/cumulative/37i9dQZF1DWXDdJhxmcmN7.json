@@ -766,7 +766,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 123243,
       "name": "Cafe y T\u00e9",
       "url": "https://open.spotify.com/track/2DvU4WFADIqoGkvXgVQCqB"
@@ -1397,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1sIwMHuFsffNmqByL5OPuc"
+      },
+      "artists": [
+        {
+          "name": "ikigai.",
+          "url": "https://open.spotify.com/artist/6A4AoY3CHEb7F4CHF7uR7d"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/52tssbVu5L3YEazbSSHZKs"
+    },
+    {
+      "album": {
         "name": "offline",
         "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
       },
@@ -1986,6 +2008,28 @@
       "duration_ms": 120017,
       "name": "having meaningful conversations",
       "url": "https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W"
+    },
+    {
+      "album": {
+        "name": "Haymaker",
+        "url": "https://open.spotify.com/album/78nOoKkouc8JNg5mJCoVTU"
+      },
+      "artists": [
+        {
+          "name": "Ferocious Folk",
+          "url": "https://open.spotify.com/artist/3ElseR4s7wXvietjmXYRyB"
+        },
+        {
+          "name": "Chill Yume",
+          "url": "https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114876,
+      "name": "Haymaker",
+      "url": "https://open.spotify.com/track/3nSxyYMdMjVvFoX7YRk2Ll"
     },
     {
       "album": {
@@ -3260,7 +3304,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 112527,
       "name": "Midnight Celadon",
       "url": "https://open.spotify.com/track/7xDl7RH0Gk6JkHx4Zi3xSX"
@@ -3500,6 +3544,24 @@
       "duration_ms": 146406,
       "name": "Not Fun",
       "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
+    },
+    {
+      "album": {
+        "name": "nueva",
+        "url": "https://open.spotify.com/album/5NkN72QNdkaSWPfYUiIIjT"
+      },
+      "artists": [
+        {
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "nueva",
+      "url": "https://open.spotify.com/track/7HLPjCVZc2to6RuR792N3Q"
     },
     {
       "album": {
@@ -4840,7 +4902,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 144000,
       "name": "Viscaria Corto",
       "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee, Paraçek
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,078 likes - 101 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,196 likes - 101 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 47 | [Borracho Y Loco](https://open.spotify.com/track/6JbJ5vPFWyeB3WvolAXFoP) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [UNDERDOGS](https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH) | 2:44 |
 | 48 | [Vaki](https://open.spotify.com/track/3L66WwSdmOh3ZIAD1o4Rp8) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Vaki](https://open.spotify.com/album/6LbFnBy3U4WTzn0iZEwM6B) | 3:54 |
 | 49 | [Safe And Sound](https://open.spotify.com/track/4Xno765v5rim1TyNlzbxyy) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Safe And Sound](https://open.spotify.com/album/2TwDCrPMCCjFyRj58GFCzM) | 3:02 |
-| 50 | [High & Low](https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [](https://open.spotify.com/album/null) | 4:09 |
+| 50 | [High & Low](https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Everlight](https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j) | 4:09 |
 | 51 | [Pretty Little Lies](https://open.spotify.com/track/3CvlZsG9bcfCBJ83FGil6n) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Adalaide Adams](https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC) | [Pretty Little Lies](https://open.spotify.com/album/4Egl8XUfuYw6rkdnbZawdY) | 2:00 |
 | 52 | [Miss Fatty \(ft\. Million Stylez\) \- Techno Mix](https://open.spotify.com/track/4xatqorrpLqVqgpL8tUUzC) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [PaSt](https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Miss Fatty \(ft\. Million Stylez\) \[Techno Mix\]](https://open.spotify.com/album/2GQWMs6W2uXFB0lOWHaLor) | 2:18 |
 | 53 | [Casablanca](https://open.spotify.com/track/6gPMgRq4r6OKlOG9evQUqr) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [MAR5](https://open.spotify.com/artist/2MBqDXJGuZnVMM3bNfRSzA), [Tuhasté](https://open.spotify.com/artist/7LKwoXglAwrUGNt6VTiuRN) | [Casablanca](https://open.spotify.com/album/5YiBCPRcNTx2IlppsZzJf7) | 2:26 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 56 | [Sippin'](https://open.spotify.com/track/3CfnOZGonCritVZnVJZS4c) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Sippin'](https://open.spotify.com/album/6KVevBpcClwEuNdvRheN6u) | 1:55 |
 | 57 | [Lonely](https://open.spotify.com/track/4Aa5nDa93ceDKqEhmd7I9g) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa), [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Lonely](https://open.spotify.com/album/7IWlPGgYCguCpVhChuK2fH) | 3:05 |
 | 58 | [5 On It](https://open.spotify.com/track/74ZAdf0wee0cI7lYS6R3RD) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ) | [5 On It](https://open.spotify.com/album/3AZtMbwUDNfXzSIY3QPh6A) | 2:30 |
-| 59 | [Track 8](https://open.spotify.com/track/2wa7FoFXMz71V7TwyrgF7v) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [](https://open.spotify.com/album/null) | 0:00 |
+| 59 | [Sad Makes Me Happy](https://open.spotify.com/track/2wa7FoFXMz71V7TwyrgF7v) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [KINEMA](https://open.spotify.com/album/6MUsdRKgnDYhmuxBrRo2Nu) | 4:44 |
 | 60 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
 | 61 | [Break Me](https://open.spotify.com/track/1EA8WkpEno3ZUweoZkU6wU) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Break Me](https://open.spotify.com/album/2qu61MBLNbgW8d7qh8gRBe) | 2:55 |
 | 62 | [Got You \(On My Mind\)](https://open.spotify.com/track/08h1qR40vi4vgV2jupMVwn) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Got You \(On My Mind\)](https://open.spotify.com/album/53bGALPF5JWutMTvjNwP7a) | 2:10 |

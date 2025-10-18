@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Sam Fender & Elton John
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,263 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,261 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 19 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
 | 20 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
 | 21 | [Dang](https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Dang](https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv) | 3:22 |
-| 22 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [](https://open.spotify.com/album/null) | 3:58 |
+| 22 | [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 |
 | 23 | [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 |
 | 24 | [Flood](https://open.spotify.com/track/7mkOTx13FFvCad61vbAIcT) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Flood](https://open.spotify.com/album/1yRHBzcfygy0krP0wqVwk7) | 3:33 |
 | 25 | [Lucky Dimes](https://open.spotify.com/track/4s1rGbXjdZ6zF35189dxDE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Lucky Dimes](https://open.spotify.com/album/561fqDum4osHqw1EAIOvYO) | 3:28 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 33 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 |
 | 34 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 |
 | 35 | [Scumbag](https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Everything Every Single Day](https://open.spotify.com/album/26InhFNchJBbPbVcd8Dxqb) | 3:53 |
-| 36 | [Forget It](https://open.spotify.com/track/3ZmRkqgqnFXM5SGtQYPsrd) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [](https://open.spotify.com/album/null) | 3:42 |
+| 36 | [Forget It](https://open.spotify.com/track/3ZmRkqgqnFXM5SGtQYPsrd) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/6M5huKqv40q9EVmEUcl0jk) | 3:42 |
 | 37 | [Cross Your Heart](https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Cross Your Heart](https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM) | 3:38 |
 | 38 | [Leading Man Lost](https://open.spotify.com/track/4wZxHzPJms8QYluw0P1wpx) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [Breaking Into Heaven](https://open.spotify.com/album/4kJMoTLljEaIx8c7gX2JOX) | 4:12 |
 | 39 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |

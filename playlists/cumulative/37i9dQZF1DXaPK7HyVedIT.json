@@ -1181,6 +1181,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/6dPWbiXDev8kIBHmrqrRkO"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211874,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7f2HMR4UT56WcHPtfdrnKv"
+    },
+    {
+      "album": {
         "name": "BABY FIRE",
         "url": "https://open.spotify.com/album/1HW5yF9zPq0hUcLCtvVBCo"
       },
@@ -4736,7 +4758,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 157437,
       "name": "Eu Te Entendo",
       "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
@@ -8566,7 +8588,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 222096,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/58g2gbmEBPdMewmXOaJzc1"
@@ -10392,6 +10414,28 @@
       "duration_ms": 195744,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
+    },
+    {
+      "album": {
+        "name": "Need It",
+        "url": "https://open.spotify.com/album/1750czmXqNXssljZeyD8aJ"
+      },
+      "artists": [
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Khouri",
+          "url": "https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178564,
+      "name": "Need It",
+      "url": "https://open.spotify.com/track/6pcJ9f2ebphR7OgBIvPNkt"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Skapova x Yahya Babuz
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,145 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,134 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hayat](https://open.spotify.com/track/0Ni5HAa6Hqke9mJhqDJ1HB) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [Yahya Babuz](https://open.spotify.com/artist/3wCsTznzEonkjTGANeKW98) | [](https://open.spotify.com/album/null) | 2:22 |
+| 1 | [Hayat](https://open.spotify.com/track/0Ni5HAa6Hqke9mJhqDJ1HB) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [Yahya Babuz](https://open.spotify.com/artist/3wCsTznzEonkjTGANeKW98) | [Hayat](https://open.spotify.com/album/1aA1mPgnU7BgzonbLzKGbn) | 2:22 |
 | 2 | [Çölde Bahar](https://open.spotify.com/track/41vI39IWzM2H7F5l3TgX99) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Çölde Bahar](https://open.spotify.com/album/3khKSf3VU7KOty7afBRpQ9) | 3:00 |
 | 3 | [Aikido\-Tekvando](https://open.spotify.com/track/4ncEXQ6xZ7G0n1CkIAX3S2) | [Nova Norda](https://open.spotify.com/artist/0A5AyLcMXZRmLE7i2maS0R) | [Aikido\-Tekvando](https://open.spotify.com/album/5FQyhvTfsgntRHqOk2tT7v) | 3:15 |
 | 4 | [Nereye Kadar](https://open.spotify.com/track/5Xil6P4sBspMCpHdL2Ysuj) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Nereye Kadar](https://open.spotify.com/album/2rt2ohV5pqvqMmbKItLnqW) | 3:21 |

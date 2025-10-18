@@ -1,13 +1,413 @@
 {
-  "description": "The best indie tracks of the moment. Cover: Babygirl",
-  "num_followers": 161069,
+  "description": "The best indie tracks of the moment. Cover: Rachel Bobbitt",
+  "num_followers": 161071,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMB9PxDRc7K/FudxAPqffXq8HFmh",
+  "snapshot_id": "AAAAAH8OY6tri7k/1tL42lFcvKTcEAoe",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Swimming Towards The Sand",
+        "url": "https://open.spotify.com/album/6U8XJUnZOHN2F2SDp678k0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 260403,
+      "name": "Remember?",
+      "url": "https://open.spotify.com/track/12CAHsiYTmng0EYfukr8lB"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 298783,
+      "name": "My Old Ways",
+      "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "From The Pyre",
+        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 238930,
+      "name": "Count The Ways",
+      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "White Lighter",
+        "url": "https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "White Lighter",
+      "url": "https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7qBpyVM9uE6l43uhjDBgLl"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 227027,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/0LJ1jj9Sya8yg9zbTFwjhu"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Whoever You Are...",
+        "url": "https://open.spotify.com/album/0Uc655acjHMQyQmOa3lPFb"
+      },
+      "artists": [
+        {
+          "name": "Clothesline From Hell",
+          "url": "https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS"
+        }
+      ],
+      "duration_ms": 216825,
+      "name": "Whoever You Are...",
+      "url": "https://open.spotify.com/track/761qRKAbGfoMYNx7O7HyXf"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Angoon",
+        "url": "https://open.spotify.com/album/7qt0LK9fNoVez7gDTcY0V6"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 277030,
+      "name": "Angoon",
+      "url": "https://open.spotify.com/track/27NgYmhycKoSle3UnPoyWO"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Let it Hiss",
+        "url": "https://open.spotify.com/album/6JONwoqGXhWQxFGG5fyWgh"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 301229,
+      "name": "Let it Hiss",
+      "url": "https://open.spotify.com/track/0aowiz2GDHqnEQOtqr0TFl"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 198287,
+      "name": "555",
+      "url": "https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Mortal Primetime (Deluxe)",
+        "url": "https://open.spotify.com/album/02osO9I4Ouuvmwdz6wQ7W5"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 166228,
+      "name": "Watch You Walk Away",
+      "url": "https://open.spotify.com/track/6NgR889pWoAtrAPtUtwGFd"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Seeing You",
+        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 198727,
+      "name": "Seeing You",
+      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "All is Love and Pain in the Mouse Parade",
+        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Tuna in a Can",
+      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Sans adresse retour",
+        "url": "https://open.spotify.com/album/4T3pPT2eKVL9xJob1MN7OH"
+      },
+      "artists": [
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        }
+      ],
+      "duration_ms": 220551,
+      "name": "Tout ou rien",
+      "url": "https://open.spotify.com/track/3QYlNfI20b4uzpmsgFwJk5"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Human Happens / Paint Me A Picture",
+        "url": "https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Human Happens",
+      "url": "https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "scum.",
+        "url": "https://open.spotify.com/album/6DQsSccbClKSu1SRxr5fdV"
+      },
+      "artists": [
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "scum.",
+      "url": "https://open.spotify.com/track/2oj9rawGhSxYw8opagkA6V"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Marigolds",
+        "url": "https://open.spotify.com/album/3FnKO2pR2waqyqJI4LMPWQ"
+      },
+      "artists": [
+        {
+          "name": "Beauts",
+          "url": "https://open.spotify.com/artist/5T0e5poGvNw2PmFOiMfwCO"
+        }
+      ],
+      "duration_ms": 268917,
+      "name": "The Boys Have Been Away",
+      "url": "https://open.spotify.com/track/4gPcUTwpuKdePsrqw3mUBK"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "I quit (deluxe)",
+        "url": "https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 143560,
+      "name": "The story of us",
+      "url": "https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Gallery of Desire",
+        "url": "https://open.spotify.com/album/7o5TH8GTY5aWOEeDjpBuOw"
+      },
+      "artists": [
+        {
+          "name": "Jay Feelbender",
+          "url": "https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI"
+        }
+      ],
+      "duration_ms": 91826,
+      "name": "Summer Camp Love Letters",
+      "url": "https://open.spotify.com/track/18aPT47mHkGL3Esc9ExAm0"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Strange Trip Ahead",
+        "url": "https://open.spotify.com/album/3IILNy0XPiGB4g8jtm9Agp"
+      },
+      "artists": [
+        {
+          "name": "Mariel Buckley",
+          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
+        }
+      ],
+      "duration_ms": 250899,
+      "name": "Anvil",
+      "url": "https://open.spotify.com/track/7i2bJ4K6Dl0IZUt45B1Obl"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Stadium Lights",
+        "url": "https://open.spotify.com/album/5s9aIgfwj0CTm5iQjkG5vH"
+      },
+      "artists": [
+        {
+          "name": "Mattie Leon",
+          "url": "https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0"
+        }
+      ],
+      "duration_ms": 267680,
+      "name": "Stadium Lights",
+      "url": "https://open.spotify.com/track/1nB1MYpWIeReGsvLTEwBt5"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Heaven Mix / Earth Mix",
+        "url": "https://open.spotify.com/album/0BOGczMcjVfxRnf44yl5dz"
+      },
+      "artists": [
+        {
+          "name": "Liam Sanagan",
+          "url": "https://open.spotify.com/artist/3AOmemFQq9BvtPW2Qr6mCI"
+        }
+      ],
+      "duration_ms": 231329,
+      "name": "Screaming",
+      "url": "https://open.spotify.com/track/0hkELBZn05PIaXcuhOD6tD"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Wish Upon a Scar",
+        "url": "https://open.spotify.com/album/2iOZEQi1TQO3cMnAttjeYo"
+      },
+      "artists": [
+        {
+          "name": "Babyteeth",
+          "url": "https://open.spotify.com/artist/5G4r8ljlfEd8oFcI2Fneax"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Wish Upon a Scar",
+      "url": "https://open.spotify.com/track/6J686u6DfCyG7dTQsENUHi"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Criminal Behavior",
+        "url": "https://open.spotify.com/album/3LEoTKojrrVVKN8oOFSpSn"
+      },
+      "artists": [
+        {
+          "name": "WHALES\u2022TALK",
+          "url": "https://open.spotify.com/artist/0CqDdSmQpezWGxxjvDGzqT"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Criminal Behavior",
+      "url": "https://open.spotify.com/track/5cKyFBso1V9MmikYyUakqB"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/7KMUMGy9Ic8rjfgtdlREG0"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0vcsgBmm3mjzqruKIoDa6h"
+    },
+    {
+      "added_at": "2025-10-17 04:01:38",
+      "album": {
+        "name": "Endless Road (From One)",
+        "url": "https://open.spotify.com/album/1aSMGZAW3trkM45OwkyJGJ"
+      },
+      "artists": [
+        {
+          "name": "Panpsyche",
+          "url": "https://open.spotify.com/artist/4FEYSrmgP79JHGW9FXmRfr"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Ontario",
+      "url": "https://open.spotify.com/track/49P83ssXMIUxU3Ky21dmVT"
+    },
     {
       "added_at": "2025-10-10 00:01:12",
       "album": {

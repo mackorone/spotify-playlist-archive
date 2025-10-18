@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con Maria Becerra & TINI en portada.",
+  "description": "Los \u00e9xitos del pop latino, con HUMBE en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 144731,
       "name": "+ Te Vale",
       "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
@@ -1486,6 +1486,24 @@
       "duration_ms": 187315,
       "name": "Baja California",
       "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
+    },
+    {
+      "album": {
+        "name": "Balada Malvada",
+        "url": "https://open.spotify.com/album/2F3IJ128ygML2oAGFMyU6d"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262338,
+      "name": "Balada Malvada",
+      "url": "https://open.spotify.com/track/1HSPVwhWDnu1PYl1GwA9s0"
     },
     {
       "album": {
@@ -4363,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "LAMENTO EN BAILE",
+        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168217,
+      "name": "EL TOQUE",
+      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
+    },
+    {
+      "album": {
         "name": "\u00bfY ahora qu\u00e9?",
         "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
       },
@@ -5505,6 +5541,28 @@
     },
     {
       "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/6kKjC5UkhP2AoBwhO6FDOF"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
+    },
+    {
+      "album": {
         "name": "GRAVEDAD",
         "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
       },
@@ -5680,7 +5738,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
@@ -6932,7 +6990,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 244059,
       "name": "La Tirana",
       "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
@@ -7444,6 +7502,24 @@
       "duration_ms": 199551,
       "name": "Loquita",
       "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
+    },
+    {
+      "album": {
+        "name": "los 41",
+        "url": "https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206408,
+      "name": "los 41",
+      "url": "https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0"
     },
     {
       "album": {
@@ -8352,7 +8428,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 210000,
       "name": "MENOS EL CORA",
       "url": "https://open.spotify.com/track/4tNvWqucaZTrdp5ZmAsGhv"
@@ -10562,7 +10638,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 218120,
       "name": "perfectas",
       "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
@@ -13745,6 +13821,28 @@
     },
     {
       "album": {
+        "name": "Una Vaina Bien",
+        "url": "https://open.spotify.com/album/5ZElLGCCIw82vO1yM3P7WH"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198194,
+      "name": "Una Vaina Bien",
+      "url": "https://open.spotify.com/track/7zqKOV2UZtiiUBzbXXNsj3"
+    },
+    {
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -13902,7 +14000,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
@@ -14030,6 +14128,24 @@
       "duration_ms": 194000,
       "name": "Verano 23",
       "url": "https://open.spotify.com/track/33D8RI7wFKjzh8zvbSE1mN"
+    },
+    {
+      "album": {
+        "name": "VETIVER Y AMARETTO",
+        "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
     },
     {
       "album": {

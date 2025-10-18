@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Gaby Amarantos e mais mulheres incríveis no volume máximo! co\-curada por Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,584 likes - 46 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,600 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [PÉROLAS](https://open.spotify.com/track/6EFSiocntAianAv1fbFRQN) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [PÉROLAS](https://open.spotify.com/album/2K4QpoVaFJ4Bmd3JxLDjo1) | 3:02 |
 | 46 | [Voltei Pra Mim](https://open.spotify.com/track/3eRFn9YJBN2l2TmQkEQUlS) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6Y1RtSRBdoYkQ29VlFSKEL) | 3:18 |
 
-Snapshot ID: `AAAAAEsLIKedqidUNhsuxVLxKS6dEhXA`
+Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

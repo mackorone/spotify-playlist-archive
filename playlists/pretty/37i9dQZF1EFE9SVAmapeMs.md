@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,244 likes - 69 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,246 likes - 69 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 53 | [TORTURED](https://open.spotify.com/track/6lf3AVE3AkyTcRqtLcSyIm) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 3:55 |
 | 54 | [Odd Future](https://open.spotify.com/track/1theg4U4CQUh3PHK7uu8Tk) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Odd Future](https://open.spotify.com/album/5SjfLDf3bJsI0duL0ufSZg) | 4:47 |
 | 55 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 |
-| 56 | [History](https://open.spotify.com/track/5PkNAc7ecD8Rk8ieuXCfQr) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 4:50 |
-| 57 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 |
+| 56 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 |
+| 57 | [History](https://open.spotify.com/track/5PkNAc7ecD8Rk8ieuXCfQr) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 4:50 |
 | 58 | [Cold \(feat\. Kaash Paige\)](https://open.spotify.com/track/4KiGhqUwjvrJqVbiwsMwkV) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 4:37 |
 | 59 | [Going Wild](https://open.spotify.com/track/0j5Ur0gX9kl4KOAZgCSKF4) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:13 |
 | 60 | [Don't Play](https://open.spotify.com/track/3LI5b1E6jYpMI8zRwuoeMw) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/0YsKj89MQL8KQgGjfWlUnI) | 2:17 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 68 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
 | 69 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `Ab/C9AAAAADPbUeou07DNweQi0BVhW/+`
+Snapshot ID: `Ab/IsgAAAACxMa+hLv7ywHzR+u2+KRWM`

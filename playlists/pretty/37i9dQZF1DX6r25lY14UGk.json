@@ -1,13 +1,65 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 74003,
+  "num_followers": 74133,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEDMSCvLdjUIhKNwFxem1TcEyz6U",
+  "snapshot_id": "AAAAAEOegtZfnM7BYkK8Y2z1hskogE03",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:47",
+      "album": {
+        "name": "Floor Is Lava",
+        "url": "https://open.spotify.com/album/0HADsDQuHLeSEyRehsktzX"
+      },
+      "artists": [
+        {
+          "name": "D.I.N.O.",
+          "url": "https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j"
+        }
+      ],
+      "duration_ms": 144609,
+      "name": "Floor Is Lava",
+      "url": "https://open.spotify.com/track/6MjNU15BCzdgQBGLV717Rn"
+    },
+    {
+      "added_at": "2025-10-17 04:00:47",
+      "album": {
+        "name": "Animal Noises are FUN!",
+        "url": "https://open.spotify.com/album/5GBH3MwHz5RmQmo3NDiamu"
+      },
+      "artists": [
+        {
+          "name": "Unka Munka",
+          "url": "https://open.spotify.com/artist/4EJjX7DT5FJC2XUmgtBpXL"
+        }
+      ],
+      "duration_ms": 195496,
+      "name": "Animal Noises are FUN!",
+      "url": "https://open.spotify.com/track/3DgK52iIN6WIBQD6DG7pwm"
+    },
+    {
+      "added_at": "2025-10-17 04:00:47",
+      "album": {
+        "name": "Making Art \u2013 The Music Part! (Activity Table & Easel)",
+        "url": "https://open.spotify.com/album/3mAOOLhtmE6EL0jAnHGTzJ"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 61592,
+      "name": "Paint the Alphabet",
+      "url": "https://open.spotify.com/track/14bInemKM2sAdy68piV0gK"
+    },
     {
       "added_at": "2025-10-10 04:13:22",
       "album": {
@@ -27,6 +79,38 @@
       "duration_ms": 72771,
       "name": "B-I-N-G-O",
       "url": "https://open.spotify.com/track/3IgubLqJjsarPaI5ZpeWGv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:47",
+      "album": {
+        "name": "Shapes Are Fun (Shape Song)",
+        "url": "https://open.spotify.com/album/7EB2AsAV2F3BvsNUWPpjpH"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "duration_ms": 198232,
+      "name": "Shapes Are Fun (Shape Song)",
+      "url": "https://open.spotify.com/track/4lSLpzBkFy2rvn3MMYUQ5j"
+    },
+    {
+      "added_at": "2025-10-17 04:00:47",
+      "album": {
+        "name": "I Love My Bed",
+        "url": "https://open.spotify.com/album/1vNZnkX0b5BcXpQbWyOm1L"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 153692,
+      "name": "I Love My Bed",
+      "url": "https://open.spotify.com/track/0niSSSl6lQq3eDEbSxoQRO"
     },
     {
       "added_at": "2025-10-10 04:13:22",
@@ -197,7 +281,7 @@
         }
       ],
       "duration_ms": 87619,
-      "name": "Monster of the Century",
+      "name": "Heart to Heart",
       "url": "https://open.spotify.com/track/2NNxlWYlJmmaCcOUSaiiXy"
     },
     {

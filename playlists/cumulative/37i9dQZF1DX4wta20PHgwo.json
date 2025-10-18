@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 451155,
       "name": "Does The Sun Really Shine On The Moon",
       "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
@@ -8601,6 +8601,24 @@
     },
     {
       "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/234Z6MD7aRXj1EBIZ6x7PV"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462626,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/14PJHPxEeFoJ26nhOV27D4"
+    },
+    {
+      "album": {
         "name": "Winter Poems",
         "url": "https://open.spotify.com/album/2POGDr5H3REZ1VWzfWYhRZ"
       },
@@ -8780,7 +8798,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 201000,
       "name": "Spring To Life",
       "url": "https://open.spotify.com/track/6TGmiFEMMKlXWtGq6zQgbn"
@@ -11140,7 +11158,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 347146,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/5QdGSxicWhfhvJCkkVrXoh"

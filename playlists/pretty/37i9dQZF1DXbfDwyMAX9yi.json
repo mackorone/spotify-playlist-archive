@@ -1,13 +1,29 @@
 {
   "description": "Our favorite subject? Their chemistry. Listen to the music from Maxton Hall: The World Between Us, now streaming on Prime Video.",
-  "num_followers": 81231,
+  "num_followers": 81300,
   "original_name": "Maxton Hall Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACB0yFjuDMIFZdxBoM2h6UwvQy+q",
+  "snapshot_id": "AAAAAI/s/BT+fumL4Q5jvaG92z34gLyY",
   "tracks": [
+    {
+      "added_at": "2025-10-17 14:03:05",
+      "album": {
+        "name": "Off To A Good Start",
+        "url": "https://open.spotify.com/album/3XxUR80a0meF626gyCqY4u"
+      },
+      "artists": [
+        {
+          "name": "songs in cinema",
+          "url": "https://open.spotify.com/artist/23BjnFsuLGv1a5TNFqmSP6"
+        }
+      ],
+      "duration_ms": 97215,
+      "name": "Off To A Good Start",
+      "url": "https://open.spotify.com/track/28r43S1qV78fjQw5mPOAX1"
+    },
     {
       "added_at": "2024-06-06 18:25:38",
       "album": {

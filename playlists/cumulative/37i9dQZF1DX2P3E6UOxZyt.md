@@ -4,7 +4,7 @@
 
 > 慶祝 RADAR 音樂人突破 1000 位！重溫 RADAR 新勢力歷來最受歡迎歌手作品！Cover: 齊翔 \(XIANG\)
 
-775 songs - 1 day 20 hr 35 min
+776 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2023-04-13 | 2024-01-19 |
 | [OIK](https://open.spotify.com/track/1p8XXEIjVHIqS6EKXG5qhb) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [OIK](https://open.spotify.com/album/42DetgJYUEjFsXM1rSD3a1) | 2:39 | 2023-08-17 | 2024-02-23 |
 | [OKAY](https://open.spotify.com/track/0Iio1Y0TLZjxnVKZj0n5Fh) | [艾蜜莉AMILI](https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup) | [OKAY](https://open.spotify.com/album/29gX2cjO4oTRxvF8hMLyxN) | 2:43 | 2025-03-27 | 2025-10-17 |
+| [Only u](https://open.spotify.com/track/3R2gyIZA55OnwsyISh6gyb) | [蔡蔡子Tasia](https://open.spotify.com/artist/7GV9BF2ZtV6RRX9eX4H6NJ), [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [Only u](https://open.spotify.com/album/05zoI5vGcVh4o53r8vKZZO) | 2:08 | 2025-10-17 |  |
 | [ONLY WITH YOU](https://open.spotify.com/track/2Eq5uUnAM2yAjzaejhNUBs) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [ONLY WITH YOU](https://open.spotify.com/album/1m5ICOkTtQhnDw2fbeYlbb) | 4:00 | 2025-03-27 |  |
 | [OTW \(feat.媽寶王\)](https://open.spotify.com/track/5kMswNDmQBB8oHJ0z7nO6p) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG), [媽寶王](https://open.spotify.com/artist/24qmx9YYljbnPGwRRS7118) | [超未来波2](https://open.spotify.com/album/3WocBt3tYIxwYVvMpbFfRD) | 3:05 | 2024-11-14 | 2025-01-24 |
 | [Over the Sea](https://open.spotify.com/track/0yxq8tWNMnEuVLrubXpZuW) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [Over the Sea](https://open.spotify.com/album/5zXNaA05GSxZmvfAtBqltq) | 3:21 | 2022-08-18 | 2022-11-18 |
@@ -513,7 +514,7 @@
 | [我就是白浪](https://open.spotify.com/track/0MxfqljSrqah5avfGwG6Ce) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV), [黃祝賢儒](https://open.spotify.com/artist/79Yhu3qWKYYxguxCTyd88K) | [我就是白浪](https://open.spotify.com/album/57kTbFT89NDsOANW6Lopv4) | 3:14 | 2022-05-12 | 2022-07-01 |
 | [我就爛](https://open.spotify.com/track/4Ysg2b2bvp605StHNUUWX8) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 1:51 | 2022-02-10 | 2022-03-25 |
 | [我快樂嗎](https://open.spotify.com/track/12zrIANyA5BifuUPTJt5Xi) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [V](https://open.spotify.com/album/3rVyVUQuk526UoFKz6IQLQ) | 3:45 | 2025-09-08 | 2025-10-07 |
-| [我想不透](https://open.spotify.com/track/2vGseNTkHih0ZzeQXSxBCA) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [STILL](https://open.spotify.com/album/5JJOpNOE88FlcL9DwDNhKF) | 3:02 | 2025-10-16 |  |
+| [我想不透](https://open.spotify.com/track/2vGseNTkHih0ZzeQXSxBCA) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [STILL](https://open.spotify.com/album/5JJOpNOE88FlcL9DwDNhKF) | 3:02 | 2025-10-16 | 2025-10-18 |
 | [我想不透](https://open.spotify.com/track/6cdLSZqFPSzT12ZCdnoixp) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [我想不透](https://open.spotify.com/album/2o5YR0DuRMPBWmAjtlpFwv) | 3:02 | 2025-03-27 | 2025-06-20 |
 | [我想有妳在的Day&Night](https://open.spotify.com/track/0CcMfLzQfbp2C01P9sbFNw) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [我想有妳在的Day&Night](https://open.spotify.com/album/5SIF7yxq1MeVDM9xygOSqj) | 3:18 | 2025-03-27 | 2025-09-05 |
 | [我愛你](https://open.spotify.com/track/2qa98iyNAiwMHUVJKBdPtI) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [聲林之王第一季百萬金曲](https://open.spotify.com/album/0C8lOZOGO4wOu8NPyiyDuf) | 3:02 | 2022-10-27 | 2022-11-18 |

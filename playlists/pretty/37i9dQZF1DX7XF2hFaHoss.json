@@ -603,22 +603,6 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
-        "name": "My Full Name",
-        "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "My Full Name",
-      "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
         "name": "FLOWERS for VASES / descansos",
         "url": "https://open.spotify.com/album/3JSvIZCtxK4fUywBK41129"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 191949,
       "name": "Over Those Hills",
       "url": "https://open.spotify.com/track/5afKJ9yqFQ5L2FxuGiZMPQ"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
+        "name": "My Full Name",
+        "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "My Full Name",
+      "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
     },
     {
       "added_at": "2025-09-02 20:18:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
-        "name": "Because I Wanted You to Know",
-        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 184301,
-      "name": "As It Is",
-      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
+        "name": "Because I Wanted You to Know",
+        "url": "https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 184301,
+      "name": "As It Is",
+      "url": "https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB"
     },
     {
       "added_at": "2025-09-02 20:18:55",

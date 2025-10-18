@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Courtney Barnett
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,424 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,426 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stay In Your Lane](https://open.spotify.com/track/5lOn7OwAXXO1pahwPZgdYY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Stay In Your Lane](https://open.spotify.com/album/2R2IGEJFuPkOeRp7A1CdN7) | 3:14 |
 | 2 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 |
-| 3 | [Forget It](https://open.spotify.com/track/3ZmRkqgqnFXM5SGtQYPsrd) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [](https://open.spotify.com/album/null) | 3:42 |
+| 3 | [Forget It](https://open.spotify.com/track/3ZmRkqgqnFXM5SGtQYPsrd) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/6M5huKqv40q9EVmEUcl0jk) | 3:42 |
 | 4 | [Always](https://open.spotify.com/track/1tFM3FFCJRrkknAc5ffcDl) | [Paint](https://open.spotify.com/artist/4ohEeJGX3pShqjUeWFCeJJ) | [Forever and Always](https://open.spotify.com/album/5kAHRNHzhhBJ5zAHb9vRL1) | 2:50 |
 | 5 | [BAIT](https://open.spotify.com/track/2dSu4SI2YI1xuACxFqUiQE) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BAIT](https://open.spotify.com/album/594fuCaZzrXD3irDrmW9gN) | 2:12 |
 | 6 | [Scumbag](https://open.spotify.com/track/0GpMgcNFWydvjsd0bXSEDu) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Everything Every Single Day](https://open.spotify.com/album/26InhFNchJBbPbVcd8Dxqb) | 3:53 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 11 | [Working Class Hero](https://open.spotify.com/track/7bkwlRmFsiteZzMrNFuAi6) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Working Class Hero](https://open.spotify.com/album/0dfOBm3T0jMxVpMsx8lRYW) | 3:51 |
 | 12 | [Bitch](https://open.spotify.com/track/375yACL0bMGmcgr1cY62r3) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Bitch](https://open.spotify.com/album/2uyUeKwzu56mjv1jpII4wE) | 3:49 |
 | 13 | [Runaway](https://open.spotify.com/track/7raiI3iMXLAlwz0pq8bZEF) | [Will Baker](https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY) | [Runaway](https://open.spotify.com/album/0o9NqJnjM1bIwWZFVsLf67) | 3:37 |
-| 14 | [Greener](https://open.spotify.com/track/3xjG4x6u2xTLWADWgrDiPU) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [](https://open.spotify.com/album/null) | 2:25 |
+| 14 | [Greener](https://open.spotify.com/track/3xjG4x6u2xTLWADWgrDiPU) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Coast Arcade](https://open.spotify.com/album/5PvbYVaQmAVrbzdZEohvdA) | 2:25 |
 | 15 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 |
-| 16 | [Track 12](https://open.spotify.com/track/2cIvJuXeCHzUMM9XwRDVUf) | [The Southern River Band](https://open.spotify.com/artist/77giZvm3lPMYiI79FmmS31) | [](https://open.spotify.com/album/null) | 0:00 |
+| 16 | [One Of These Nights \(I'll Be Gone\)](https://open.spotify.com/track/2cIvJuXeCHzUMM9XwRDVUf) | [The Southern River Band](https://open.spotify.com/artist/77giZvm3lPMYiI79FmmS31) | [Easier Said Than Done](https://open.spotify.com/album/57vDmUO6CgH1itagBGsNLM) | 4:09 |
 | 17 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 18 | [Change](https://open.spotify.com/track/0VFqWDsAT06W0FlKaRhjXY) | [CHEEKY LEASH](https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL) | [Change](https://open.spotify.com/album/0Mkzj77tA5mjLd0oOZCd0r) | 3:06 |
 | 19 | [GODSPEED](https://open.spotify.com/track/0pexddeI1EA8AhqWTBlErK) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/4cSCHQrw9w1LwC7XdmEM1y) | 3:53 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72001,
+  "num_followers": 72009,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Bodyrockers",
+        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
+      },
+      "artists": [
+        {
+          "name": "Bodyrockers",
+          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "I Like The Way - Radio Edit",
+      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Changa",
         "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 217106,
       "name": "Mysterious Girl - Radio Edit",
       "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Bodyrockers",
-        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
-      },
-      "artists": [
-        {
-          "name": "Bodyrockers",
-          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "I Like The Way - Radio Edit",
-      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -691,6 +691,26 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Take Me Over",
+        "url": "https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
+        }
+      ],
+      "duration_ms": 208121,
+      "name": "Take Me Over",
+      "url": "https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "The Secret Life Of...",
         "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 111293,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Take Me Over",
-        "url": "https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 208121,
-      "name": "Take Me Over",
-      "url": "https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Reprisal",
+        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 226350,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Sneaky Sound System",
         "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 203213,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Reprisal",
-        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 226350,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Blue Planet Eyes",
-        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
-      },
-      "artists": [
-        {
-          "name": "The Preatures",
-          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Is This How You Feel?",
-      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Love Monster",
         "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 170413,
       "name": "I Said Hi",
       "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Blue Planet Eyes",
+        "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
+      },
+      "artists": [
+        {
+          "name": "The Preatures",
+          "url": "https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Is This How You Feel?",
+      "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Greatest Hits 1994 - 2004",
+        "url": "https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz"
+      },
+      "artists": [
+        {
+          "name": "Tina Arena",
+          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Ripcord (Australian Tour Edition)",
         "url": "https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 184040,
       "name": "The Fighter",
       "url": "https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Greatest Hits 1994 - 2004",
-        "url": "https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz"
-      },
-      "artists": [
-        {
-          "name": "Tina Arena",
-          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm"
     }
   ],
   "unique_name": "Aussie Pop Classics",

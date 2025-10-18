@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Joshua Baraka & Jaz Karis
 
-165 songs - 9 hr 10 min
+167 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [AGENDA](https://open.spotify.com/track/40D9TE1bStQ10lNDnhlbMP) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Agenda](https://open.spotify.com/album/79P9lpJeCfUvRW2FJDTJCx) | 3:54 | 2025-09-04 |  |
 | [Akaffekye \- Acoustic Version](https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Akaffekye \(Acoustic Version\)](https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED) | 2:59 | 2022-06-06 | 2023-07-29 |
 | [Akigusa](https://open.spotify.com/track/12IV11evgB42zhjWJID2Rm) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [Akigusa](https://open.spotify.com/album/04C5PjWPsQqGVg4PGFWSDH) | 4:48 | 2025-01-23 |  |
-| [ALRIGHT](https://open.spotify.com/track/69JEE0GJT0Pnc5YrADBAmo) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [ALRIGHT](https://open.spotify.com/album/6ywhGZi3ckSdfCmc2g2e30) | 2:22 | 2025-02-14 |  |
+| [ALRIGHT](https://open.spotify.com/track/69JEE0GJT0Pnc5YrADBAmo) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [ALRIGHT](https://open.spotify.com/album/6ywhGZi3ckSdfCmc2g2e30) | 2:22 | 2025-02-14 | 2025-10-18 |
 | [Aluru](https://open.spotify.com/track/2cVZ1TxQaFHG7B6tNM0JoC) | [Ouma Myko](https://open.spotify.com/artist/1Hi1Y9xFG8qiUbBrVDVLm1) | [Ouma Myko: The Smooth Ugandan](https://open.spotify.com/album/57SrDn9x3hclQJq8e7suSq) | 3:32 | 2022-06-06 | 2024-01-20 |
 | [Angel of Mine](https://open.spotify.com/track/0UoH7Il9Ns8puNMo73R4r7) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ) | 3:15 | 2022-11-17 | 2025-07-19 |
 | [Angel Of Mine](https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [WATERSHED](https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq) | 3:15 | 2023-03-31 | 2024-04-19 |
@@ -68,6 +68,7 @@
 | [i will recover all](https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [i will recover all](https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58) | 2:57 | 2023-08-11 | 2025-02-08 |
 | [I'M FINE](https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU) | [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [I'M FINE](https://open.spotify.com/album/77ieplqkCJVSK8YdLAt91a) | 3:07 | 2024-07-18 | 2024-11-23 |
 | [Ileng](https://open.spotify.com/track/3Y9uzR8D44o11xqB4Pw6ev) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 4:38 | 2025-09-04 |  |
+| [Incognizant](https://open.spotify.com/track/2CFqo7zt3qvKlDL1Lvr09I) | [Suubi](https://open.spotify.com/artist/7ts7O6y7ymwcgCrYbha3Si) | [Casa's Journal](https://open.spotify.com/album/1GCH6CJ00ZBX5C7NCySAyB) | 3:33 | 2025-10-17 |  |
 | [Its Crazy](https://open.spotify.com/track/3rtEI69SClTiIvelgbQ1b8) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [Its Crazy](https://open.spotify.com/album/0FV4C5JiMKMQOgMq0s6dIh) | 2:28 | 2022-06-06 | 2022-06-25 |
 | [Jolene](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 | 2024-05-16 |  |
 | [Kapeesa](https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Kapeesa](https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp) | 3:49 | 2022-06-06 | 2023-01-21 |
@@ -111,7 +112,7 @@
 | [Obsession](https://open.spotify.com/track/68QPAQP4IqF1cedu2jwk5H) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 4:29 | 2023-10-12 | 2024-01-20 |
 | [Okello](https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf) | [Qwela](https://open.spotify.com/artist/6PcgYouyAJh2KQlrhadC8C) | [Afrotopia](https://open.spotify.com/album/6Cjc8BIj9Dhgt6Cp18Nra1) | 4:05 | 2022-06-06 | 2024-02-03 |
 | [Omukwano](https://open.spotify.com/track/2ssKMZuANIm0fFMrofWovC) | [Aybrah](https://open.spotify.com/artist/2LjrN4oipZgtk6t5678kt6), [Naava Grey](https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB) | [Omukwano](https://open.spotify.com/album/2asyqwl9c5SBhRcauia0Pi) | 2:53 | 2022-06-06 | 2022-10-15 |
-| [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-06-06 |  |
+| [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-06-06 | 2025-10-18 |
 | [One Life](https://open.spotify.com/track/4YYf1EHe0xR4xss7owlpzj) | [Melissa Mulungi](https://open.spotify.com/artist/77ZzFS6WajdNwqHdOMScJl), [Benji Kasule](https://open.spotify.com/artist/3m5KYldm0k5caRrKT1nfem) | [One Life](https://open.spotify.com/album/49tKHYj8bb3pmUoo2PbnoD) | 3:52 | 2022-06-06 | 2023-02-11 |
 | [One Thing](https://open.spotify.com/track/0GIFfCmvv0eO8dHnOG241U) | [Lukas Blacc](https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel), [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [BoBV](https://open.spotify.com/album/4q4mssAJ2NaWCENz8vIRj7) | 4:11 | 2022-06-06 | 2023-06-10 |
 | [Only You](https://open.spotify.com/track/1J0ObiCz8dvjMU3NGMnmaH) | [GrG](https://open.spotify.com/artist/7Mzz35qOFOLwZ1i8Ask8TP), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Only You](https://open.spotify.com/album/3zM8hqakFUzcpBGL3upf39) | 3:17 | 2025-02-14 |  |
@@ -158,6 +159,7 @@
 | [Temptation](https://open.spotify.com/track/6ALJy5vDLQtgR4rq6OtKt2) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym) | [Temptation](https://open.spotify.com/album/39wpH4KJw7aTQX0WHilIJD) | 3:36 | 2025-04-24 |  |
 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 | 2022-06-06 |  |
 | [Tingatsiga](https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ssebo Lule](https://open.spotify.com/artist/55qMdpIT8tALCAi9A8Adea) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 2:43 | 2022-06-06 | 2023-04-01 |
+| [Treasure](https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Treasure](https://open.spotify.com/album/5hnOuxYNLaVGQaXma3X6i2) | 3:37 | 2025-10-17 |  |
 | [Tuli Ntinda](https://open.spotify.com/track/6dNDVtDIcHMd2270C8D53a) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4) | [Finally](https://open.spotify.com/album/4op9HIhvQr2iepCemQ5zxh) | 2:50 | 2023-10-20 |  |
 | [Twista](https://open.spotify.com/track/4q4GgG1AzEziL1rBAEFYWK) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8) | [Twista](https://open.spotify.com/album/6Tx9EbWNn0SfkgEHKtX8W4) | 3:26 | 2025-03-14 |  |
 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 | 2023-01-12 | 2025-02-15 |

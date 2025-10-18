@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,722 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,741 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 39 | [Bad Boi Selecta](https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Bad Boi Selecta](https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS) | 2:48 |
 | 40 | [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 |
 | 41 | [3AM IN ???????](https://open.spotify.com/track/19JVImckvDr7G32aRusgFB) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [3AM IN ???????](https://open.spotify.com/album/0x6lzh88s7DxgV5WiUospL) | 3:24 |
-| 42 | [LOOK \(feat\. Emi Grace\)](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK \(feat\. Emi Grace\)](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 |
+| 42 | [LOOK](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 |
 | 43 | [ONE EYE SHUT](https://open.spotify.com/track/318rPEgLcvzmdK3nzJpRf2) | [PLUS ONE](https://open.spotify.com/artist/3mKAVq1GsEjcDLrvGKZKxP) | [WRITING WRONGS](https://open.spotify.com/album/1LTZqJGD1v36iqwIGRHL6g) | 3:53 |
 | 44 | [LIL BOOTY !](https://open.spotify.com/track/5bfcx9EOq5ds3Uc2PflaxU) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [LIL BOOTY !](https://open.spotify.com/album/29yDrweJv17T3c3kiF0sNx) | 2:40 |
 | 45 | [PAPARAZZI](https://open.spotify.com/track/1AdJ7n7C3R2CtiQjJfKHuH) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DGTL ANML](https://open.spotify.com/album/5NcVLMZkt5T1K0PdD2hyeQ) | 3:46 |

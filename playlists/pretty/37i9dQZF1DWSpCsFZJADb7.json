@@ -1,12 +1,12 @@
 {
   "description": "Listen to stories from your friends on Sesame Street. ",
-  "num_followers": 18581,
+  "num_followers": 18591,
   "original_name": "Sesame Street Stories",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACN7Y6ftFr1HpZB8j52XUlIyedNn",
+  "snapshot_id": "AAAAAOkk3baRD6hA4ld701dmkG8kiiUR",
   "tracks": [
     {
       "added_at": "2021-04-19 17:55:59",
@@ -587,22 +587,6 @@
     {
       "added_at": "2021-04-19 17:55:59",
       "album": {
-        "name": "Red or Blue, I Like You!",
-        "url": "https://open.spotify.com/album/1DOt6isQbl5hgFdDPlEfky"
-      },
-      "artists": [
-        {
-          "name": "Sesame Street Storytime",
-          "url": "https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw"
-        }
-      ],
-      "duration_ms": 312804,
-      "name": "Red or Blue, I Like You!",
-      "url": "https://open.spotify.com/track/52JHJF9G4YAJoXuDTSacbq"
-    },
-    {
-      "added_at": "2021-04-19 17:55:59",
-      "album": {
         "name": "Sesame Street: Big Bird's Birdtime Stories",
         "url": "https://open.spotify.com/album/0VtvMBiPF3xR8GueFuXVaU"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 464664,
       "name": "Rosita and Elmo Read a Recipe",
       "url": "https://open.spotify.com/track/4qyaLmPUo0mDY7Wc9hZQQE"
-    },
-    {
-      "added_at": "2021-04-19 17:55:59",
-      "album": {
-        "name": "My Baby Brother Is a Little Monster",
-        "url": "https://open.spotify.com/album/7c61hteCsdSXQPQISMEyov"
-      },
-      "artists": [
-        {
-          "name": "Sesame Street Storytime",
-          "url": "https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw"
-        }
-      ],
-      "duration_ms": 351182,
-      "name": "My Baby Brother Is a Little Monster",
-      "url": "https://open.spotify.com/track/4mW2QZQatoHag1c66pIzJD"
     }
   ],
   "unique_name": "Sesame Street Stories",

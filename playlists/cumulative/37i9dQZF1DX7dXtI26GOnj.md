@@ -2,9 +2,9 @@
 
 ### [Calorcito](https://open.spotify.com/playlist/37i9dQZF1DX7dXtI26GOnj)
 
-> Todo o calor latino está aqui! 🔥  foto: MC L da Vinte, MC Gury, Neton Vega, Anitta
+> Todo o calor latino está aqui! 🔥  foto: Mau y Rick, Luísa Sonza, Big One
 
-524 songs - 1 day 3 hr 8 min
+525 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Balanceando el Cuerpo](https://open.spotify.com/track/7MyxRRPyYRQzUNE8i5riQb) | [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt), [Japanese](https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Balanceando el Cuerpo](https://open.spotify.com/album/1q17zDplFSr6D9WBIO0h5F) | 2:57 | 2025-07-11 | 2025-09-12 |
 | [Baloncito Viejo](https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Baloncito Viejo](https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe) | 2:50 | 2022-03-04 | 2023-04-18 |
 | [Bandida Entrenada](https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:15 | 2025-06-20 |  |
-| [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 | 2023-06-02 |  |
+| [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 | 2023-06-02 | 2025-10-18 |
 | [BANSHEE](https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BANSHEE](https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN) | 3:07 | 2025-03-14 | 2025-07-19 |
 | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Barbie \- Spotify Singles \(feat\. Farina\)](https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT) | 2:49 | 2022-02-16 | 2022-03-26 |
 | [Bate](https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Bate](https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr) | 2:18 | 2025-05-16 |  |
@@ -473,6 +473,7 @@
 | [Tic Tac](https://open.spotify.com/track/68xg9tAB603bMnsCg7OD3Z) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP) | [Tic Tac](https://open.spotify.com/album/4tv1S6EVGUU9NoOnn9tVXF) | 2:56 | 2022-10-07 | 2022-11-26 |
 | [Tiempo](https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Tiempo](https://open.spotify.com/album/41Wxh8xLNvaolvU44HBupA) | 3:46 | 2022-09-02 | 2022-12-21 |
 | [TIERRA ZANTA](https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [BIEN O MAL](https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl) | 3:57 | 2022-05-20 | 2022-06-04 |
+| [Tocando Madera](https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Tocando Madera](https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6) | 2:39 | 2025-10-17 |  |
 | [TODO O NADA](https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:28 | 2021-12-31 | 2023-02-08 |
 | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 | 2024-05-10 | 2024-06-22 |
 | [Top](https://open.spotify.com/track/2OncTcSo3mojsFNgYQUwRF) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Top](https://open.spotify.com/album/3Vq3Ow6BcjMRq3lHSF36CN) | 3:22 | 2024-08-30 | 2024-09-28 |

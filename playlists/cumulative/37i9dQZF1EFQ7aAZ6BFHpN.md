@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-238 songs - 18 hr 13 min
+239 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [That Certain Feeling](https://open.spotify.com/track/0LErVxjTqak8uoHS33WPZQ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin Plays Gershwin: The Piano Rolls](https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0) | 2:47 | 2024-07-24 |  |
 | [The Bones of You](https://open.spotify.com/track/6jbFN4H7mW6FK5kghNoWBQ) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 4:49 | 2024-07-24 |  |
 | [The Death of Crown](https://open.spotify.com/track/5XuQa5c4YNfJulIdxSNWQ8) | [Audra McDonald](https://open.spotify.com/artist/7F6surn3OpdyOzupSawyli), [Norm Lewis](https://open.spotify.com/artist/7dHUb3yBmLZdtX3zsjHOgQ), [David Alan Grier](https://open.spotify.com/artist/5aDJFTPB7JCC9T785IH2Fy), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [DuBose Heyward](https://open.spotify.com/artist/2x5eLqRtwnCXFUALSsEitt), [Ira Gershwin](https://open.spotify.com/artist/6Yd6jR0AcWlI8JjJ954IDV), [Phillip Boykin](https://open.spotify.com/artist/01hHncTE9TodEdDMxVV2ph) | [The Gershwins' Porgy and Bess: New Broadway Cast Recording](https://open.spotify.com/album/3ZOOWaYSagUYPLUrUiHXeI) | 1:31 | 2024-07-24 |  |
-| [The Kingdom of Swing](https://open.spotify.com/track/4T0RXzSXBdId7REXezxeEl) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Big Band Theory \- 100 Big Band Classics](https://open.spotify.com/album/6galFCKKM53VgqZavvlUx3) | 2:54 | 2025-07-09 |  |
+| [The Kingdom Of Swing](https://open.spotify.com/track/3sMeX7T0tJbOJGMPXDBF46) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Swingtime](https://open.spotify.com/album/6rvRDjHIizyU8FX4sWVJZN) | 2:51 | 2025-10-17 |  |
+| [The Kingdom of Swing](https://open.spotify.com/track/4T0RXzSXBdId7REXezxeEl) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Big Band Theory \- 100 Big Band Classics](https://open.spotify.com/album/6galFCKKM53VgqZavvlUx3) | 2:54 | 2025-07-09 | 2025-10-18 |
 | [The Life Of A Rose](https://open.spotify.com/track/1Aufh3lEEZWJx1z5iqcDm7) | [前田祐希](https://open.spotify.com/artist/4Po73izFwEqVrjRVnnH8ks), [柴野さつき](https://open.spotify.com/artist/38BUVTxULHjh8JxpJCBwJu) | [JAZZ AGE GERSHWIN SONG BOOK Ⅱ](https://open.spotify.com/album/68JFr9RwdwhnC07ECuRN7b) | 2:18 | 2024-07-24 |  |
 | [The Like In I Love You](https://open.spotify.com/track/3S9sqZLQ1hles7b8aF4qU3) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:19 | 2024-07-24 |  |
 | [The Lorelei \- 2006 Remaster](https://open.spotify.com/track/00gGZqqeLS50zivIdITgWu) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Is K\-RA\-ZY For Gershwin](https://open.spotify.com/album/6zIxFzwTRZeWwsI6rd5YOX) | 2:35 | 2025-01-09 | 2025-04-12 |

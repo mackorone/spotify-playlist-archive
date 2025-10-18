@@ -1,13 +1,65 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Geese",
-  "num_followers": 813348,
+  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party",
+  "num_followers": 813287,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJziubC7JuXuT98ztpazwDDREmlI",
+  "snapshot_id": "AAAAAGj/uczCoz0vwR6fvyteFvca8FPZ",
   "tracks": [
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "From The Pyre",
+        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 238930,
+      "name": "Count The Ways",
+      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 128982,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "Talk To You (ft. Elton John)",
+        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 317040,
+      "name": "Talk To You (ft. Elton John)",
+      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+    },
     {
       "added_at": "2025-10-10 04:00:43",
       "album": {
@@ -29,6 +81,22 @@
       "url": "https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8"
     },
     {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/5BtTOMAFKV3byS0EidtQnc"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/57PrllRlE4s9GIKnEzUcYv"
+    },
+    {
       "added_at": "2025-10-10 04:00:43",
       "album": {
         "name": "Back Of My Hand",
@@ -45,6 +113,70 @@
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
     },
     {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "LOTTO",
+        "url": "https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        }
+      ],
+      "duration_ms": 170370,
+      "name": "baeside k",
+      "url": "https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "omni shambles",
+        "url": "https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 136190,
+      "name": "omni shambles",
+      "url": "https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "Koya",
+        "url": "https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy"
+      },
+      "artists": [
+        {
+          "name": "The Maccabees",
+          "url": "https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB"
+        }
+      ],
+      "duration_ms": 317666,
+      "name": "Koya",
+      "url": "https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/5ZbZtYfhZmhY92DRL979KM"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "I Don\u2019t Mind",
+      "url": "https://open.spotify.com/track/11pVsGhE1fiFlZT9kkIGOT"
+    },
+    {
       "added_at": "2025-10-10 04:00:43",
       "album": {
         "name": "Don't Throw Rocks",
@@ -59,6 +191,22 @@
       "duration_ms": 181870,
       "name": "Don't Throw Rocks",
       "url": "https://open.spotify.com/track/4B31jv3HqAJ3yYDlpo5ZYm"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Au Pays du Cocaine",
+      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
     },
     {
       "added_at": "2025-10-10 04:00:43",
@@ -91,6 +239,22 @@
       "duration_ms": 218191,
       "name": "Cross Your Heart",
       "url": "https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "Angoon",
+        "url": "https://open.spotify.com/album/7qt0LK9fNoVez7gDTcY0V6"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 277030,
+      "name": "Angoon",
+      "url": "https://open.spotify.com/track/27NgYmhycKoSle3UnPoyWO"
     },
     {
       "added_at": "2025-09-19 04:00:29",
@@ -139,22 +303,6 @@
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2025-10-10 04:00:43",
-      "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "Au Pays du Cocaine",
-      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2311,86 +2459,6 @@
       "duration_ms": 216692,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "7 Months",
-        "url": "https://open.spotify.com/album/2dLMn2hMMJP9SnO4aBYemA"
-      },
-      "artists": [
-        {
-          "name": "Forth Wanderers",
-          "url": "https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs"
-        }
-      ],
-      "duration_ms": 152880,
-      "name": "7 Months",
-      "url": "https://open.spotify.com/track/3QIprxybtXTK5mifthT4Q5"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 365426,
-      "name": "Circle of Trust",
-      "url": "https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Magpie (Expansion Pack)",
-        "url": "https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 214958,
-      "name": "Tell Me You Love Me",
-      "url": "https://open.spotify.com/track/12TuGHYMlodnW9X2NaL37v"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 225726,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
-    },
-    {
-      "added_at": "2025-08-22 04:00:27",
-      "album": {
-        "name": "Hex Key",
-        "url": "https://open.spotify.com/album/71gvpd2oNaGwGmbqXOk8zk"
-      },
-      "artists": [
-        {
-          "name": "Mamalarky",
-          "url": "https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g"
-        }
-      ],
-      "duration_ms": 128679,
-      "name": "#1 Best of All Time",
-      "url": "https://open.spotify.com/track/77gSoBAAZoqvbzH0naiobU"
     }
   ],
   "unique_name": "Today's Indie Rock",

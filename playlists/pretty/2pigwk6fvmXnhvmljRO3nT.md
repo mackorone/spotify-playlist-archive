@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,717 songs - 19 day 22 hr 28 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,718 songs - 19 day 22 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7725,5 +7725,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7715 | [Honeymoon Avenue](https://open.spotify.com/track/2ofOe2OaXFpZF5ETbsc7Qu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/5xSvNPstcxHtR4ap2vvN8A) | 5:39 |
 | 7716 | [Sunrise](https://open.spotify.com/track/31ihTxEFH8iLwYuXiXTyK8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Time for us](https://open.spotify.com/album/4riaU6GV6byR8wt1GT9tEg) | 3:36 |
 | 7717 | [Angel \#48](https://open.spotify.com/track/721VUrqzx4JvJb2lSOBjPu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:15 |
+| 7718 | [On That Time](https://open.spotify.com/track/3dl8bSF08LQfCf4T6CCksf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:42 |
 
-Snapshot ID: `AAAJI7MUS+kdxYbC8Wo2JSU0bG8fX3WJ`
+Snapshot ID: `AAAJJMQHAJBAeeMvTo8G4tKyHOutQaNS`

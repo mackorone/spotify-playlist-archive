@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,602 likes - 69 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,722 likes - 69 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 26 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 |
 | 27 | [UNLIMITED](https://open.spotify.com/track/5Qt3tb5U0VvYbiQXW8SID9) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [UNLIMITED](https://open.spotify.com/album/6FvHEmAaSR9mgfQVC0XpZm) | 2:06 |
 | 28 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
-| 29 | [Track 2](https://open.spotify.com/track/3wRbBb8NdUfFI6TQa60GgX) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [](https://open.spotify.com/album/null) | 0:00 |
+| 29 | [Edumare](https://open.spotify.com/track/3wRbBb8NdUfFI6TQa60GgX) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [ADISA](https://open.spotify.com/album/7xzQAUxUFDCFfLK0B97SJ5) | 2:21 |
 | 30 | [Loyal](https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Loyal](https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish) | 2:40 |
 | 31 | [Rover](https://open.spotify.com/track/6z3msNjyaN5nY0kDt7XCgs) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Rover](https://open.spotify.com/album/4TcZrHap6VtZGDRs3gVlha) | 2:34 |
-| 32 | [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:40 |
+| 32 | [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:42 |
 | 33 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 34 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 | 35 | [Gen\-Z Fuji](https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Gen\-Z Fuji](https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9) | 2:02 |

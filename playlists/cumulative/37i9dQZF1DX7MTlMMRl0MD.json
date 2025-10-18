@@ -1229,6 +1229,28 @@
     },
     {
       "album": {
+        "name": "Cita",
+        "url": "https://open.spotify.com/album/3ttKofk4OSgzyNzvAgHeSo"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        },
+        {
+          "name": "DerekVinci",
+          "url": "https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208931,
+      "name": "Cita",
+      "url": "https://open.spotify.com/track/6qunupscDkjPmalMp3ybbs"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -7077,6 +7099,24 @@
     },
     {
       "album": {
+        "name": "Sin Gravedad",
+        "url": "https://open.spotify.com/album/4NkQuWiViMj6ZtSqYO0Py6"
+      },
+      "artists": [
+        {
+          "name": "Mario Baro",
+          "url": "https://open.spotify.com/artist/4svxKljLyMB1HaLbJainKP"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176097,
+      "name": "Sin Gravedad",
+      "url": "https://open.spotify.com/track/1Q9apOKT7wESrkgceJVOpF"
+    },
+    {
+      "album": {
         "name": "Sin Mi Quieres Volar",
         "url": "https://open.spotify.com/album/7FrjGEAoTW6ovIdqrxgPCK"
       },
@@ -7088,7 +7128,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 199250,
       "name": "Sin Mi Quieres Volar",
       "url": "https://open.spotify.com/track/6Za4aOIBNRQoxYfIO2GX4c"
@@ -7704,7 +7744,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 212774,
       "name": "Tres Veces",
       "url": "https://open.spotify.com/track/5pttj3qDA5F4YRHiwNDxAO"

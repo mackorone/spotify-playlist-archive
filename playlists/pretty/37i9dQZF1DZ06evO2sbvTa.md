@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 
 > This is Young Scooter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,495 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,497 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2sbvTa.md) - [plain]
 | 39 | [Re Up](https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Free Bricks 2](https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2) | 3:43 |
 | 40 | [Birds Take a Bath](https://open.spotify.com/track/2ODUZ33XvLYGn2wMem2zEJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Astronaut Status](https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA) | 4:24 |
 | 41 | [Drug Deals](https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 3:10 |
-| 42 | [Fake Gold](https://open.spotify.com/track/7JtliCAsPltJ3wvMl0K4ll) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fake Gold](https://open.spotify.com/album/71c4JcnNeAO299SDxXmQ1c) | 2:58 |
-| 43 | [How Can I Not \(feat\. Young Scooter\)](https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:58 |
+| 42 | [How Can I Not \(feat\. Young Scooter\)](https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:58 |
+| 43 | [Fake Gold](https://open.spotify.com/track/7JtliCAsPltJ3wvMl0K4ll) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Fake Gold](https://open.spotify.com/album/71c4JcnNeAO299SDxXmQ1c) | 2:58 |
 | 44 | [Number Game](https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:12 |
 | 45 | [77 Birds \(feat\. Gucci Mane\)](https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married to the Streets](https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj) | 3:59 |
-| 46 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 |
-| 47 | [Both Sides \(feat\. Future & Young Thug\)](https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:27 |
+| 46 | [Both Sides \(feat\. Future & Young Thug\)](https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trippple Cross](https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C) | 4:27 |
+| 47 | [Black Migo](https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Zaystreet](https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf) | 3:29 |
 | 48 | [Trap It Out](https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Streetz Krazy](https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9) | 3:17 |
-| 49 | [Real](https://open.spotify.com/track/4pfCylKzBa9dz0HHFVdXzi) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 3:07 |
-| 50 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 |
+| 49 | [Medellin \(feat\. Young Scooter\)](https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Young Jefe](https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q) | 3:33 |
+| 50 | [Real](https://open.spotify.com/track/4pfCylKzBa9dz0HHFVdXzi) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Street Lottery 3](https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF) | 3:07 |
 
-Snapshot ID: `aO7kAAAAAADZa2zufFLKVpHXYKPdT+Cw`
+Snapshot ID: `aPA1gAAAAAC1asQxsPMJNHpZTVWCJfex`

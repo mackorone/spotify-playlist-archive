@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-952 songs - 2 day 6 hr 59 min
+953 songs - 2 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,7 @@
 | [Make It Better \(feat\. Smokey Robinson\)](https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:39 | 2021-08-04 | 2022-04-02 |
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-05-14 |
 | [Mamma You Were Right](https://open.spotify.com/track/5DtWvhEIqJqU0q7OstdwIU) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Mamma You Were Right](https://open.spotify.com/album/68M4jklzOpy5sSOtfL7Xxj) | 2:47 | 2024-03-08 | 2024-09-07 |
-| [Man Of The House](https://open.spotify.com/track/2zBIyHV5TXk6wzpiGWJCQE) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/3P2S6dILjqropRqOGrMIcB) | 3:38 | 2025-03-28 |  |
+| [Man Of The House](https://open.spotify.com/track/2zBIyHV5TXk6wzpiGWJCQE) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/3P2S6dILjqropRqOGrMIcB) | 3:38 | 2025-03-28 | 2025-10-18 |
 | [Man On The Moon](https://open.spotify.com/track/7E6jdcJTGDpYmjHFnXu3vG) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Man On The Moon](https://open.spotify.com/album/18WXWG3I5v4L3odjNg1YtR) | 3:20 | 2023-02-17 | 2023-03-25 |
 | [Many Rivers To Cross](https://open.spotify.com/track/6xOgpQ7vLQLA5PF2rg6XIp) | [EJ Worland](https://open.spotify.com/artist/5nMHRjG7zxYLDC5vIpI5N8), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Many Rivers To Cross](https://open.spotify.com/album/5hNrnNHh2fWcDQmeJ44cbC) | 3:22 | 2023-08-25 | 2023-10-14 |
 | [Marrow Dream](https://open.spotify.com/track/36lVyLufOdHcnADbHkU5HT) | [Joe Hertler & The Rainbow Seekers](https://open.spotify.com/artist/2bqcjvd6ETkqubaQnx3OtS) | [Pursuit of Wonder](https://open.spotify.com/album/2Qo01axsVnFElAX5nEyi7V) | 3:57 | 2023-08-04 | 2023-11-04 |
@@ -724,6 +724,7 @@
 | [Secrets](https://open.spotify.com/track/03aAxkw0QNJJoUkWz2bzAo) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Secrets](https://open.spotify.com/album/0cJuRJZSVvBOITJNyqeR7t) | 3:00 | 2022-03-25 | 2022-04-24 |
 | [See Me Cry](https://open.spotify.com/track/5XGbzLYiMX7Fo9IhZKWZVZ) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [See Me Cry](https://open.spotify.com/album/2CC09WRdIOsoPU0S3vCBxL) | 5:12 | 2024-06-21 |  |
 | [See The Light](https://open.spotify.com/track/6lF5yAmscceMAs0T5qSrAi) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [See The Light](https://open.spotify.com/album/6rRdg4kawkdtaO6Pe1K6aY) | 2:50 | 2022-01-21 | 2022-07-29 |
+| [Separate Ways](https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Separate Ways](https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi) | 2:58 | 2025-10-17 |  |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2021-08-04 | 2022-12-10 |
 | [Set For Life](https://open.spotify.com/track/6W9w3qHhJMALd82l6do6F3) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part \(Deluxe\)](https://open.spotify.com/album/7jeMBMO8h8d3H7opdsNfIy) | 4:08 | 2022-12-02 | 2023-04-15 |
 | [Seventeen](https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 4:25 | 2021-08-04 | 2022-04-18 |
@@ -827,7 +828,7 @@
 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz) | 2:56 | 2023-06-16 | 2024-03-16 |
 | [The Howl](https://open.spotify.com/track/60YfbpgNX4izlsq8CbPpr6) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Gravity Stairs](https://open.spotify.com/album/1Fy7fMGY3g1lGy8Wzg0bua) | 3:26 | 2024-05-31 | 2024-08-03 |
 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 | 2023-06-16 | 2025-04-12 |
-| [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 |  |
+| [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 | 2025-10-18 |
 | [The Messenger](https://open.spotify.com/track/4K9ZhFfPbXbmznYX5EffPE) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [The Messenger](https://open.spotify.com/album/4TvZKVQAUSfTmZgrBj9sCU) | 3:05 | 2023-04-14 | 2023-07-29 |
 | [The One That I Want \(But I Don’t Know Why\)](https://open.spotify.com/track/6YC1bNlgJMBUtgb1OFANWy) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [The One That I Want \(But I Don’t Know Why\)](https://open.spotify.com/album/2tNe4ar3iV6zcHkFLMCyGy) | 2:36 | 2025-04-11 |  |
 | [The Rain](https://open.spotify.com/track/2FM2yBU2tf0jdr8PcMjl66) | [Vanmiran](https://open.spotify.com/artist/7AQmzPYke7fmBDOvTCIxPO) | [The Rain](https://open.spotify.com/album/2nlEogE5ePr6BlqaRkWyKZ) | 4:16 | 2021-08-05 | 2022-06-08 |

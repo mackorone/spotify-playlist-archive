@@ -4,7 +4,7 @@
 
 > Will they...won't they...should they? Listen to the music from Nobody Wants This, curated by Este Haim + Zach Dawes, now streaming on Netflix.
 
-89 songs - 5 hr 18 min
+91 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Sure Feels Good](https://open.spotify.com/track/3cj50x0wT0u6bkS6W9REgs) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Bunny](https://open.spotify.com/album/6hRE1QhZfpKB03kvvF6jTG) | 4:17 | 2024-10-09 |  |
 | [Sure Feels Good](https://open.spotify.com/track/4qpka5S7uHR6TD7pPUpzah) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Sure Feels Good](https://open.spotify.com/album/4rJzRAfZMrvtKkS15nepLt) | 4:17 | 2024-09-19 |  |
 | [That's Us/Wild Combination](https://open.spotify.com/track/4Kh2MJAy65AfHFdGqBg1Jw) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Calling Out Of Context](https://open.spotify.com/album/0cJ39KJ52lQ2tnZUyy299i) | 6:58 | 2024-09-19 |  |
+| [That's What I'll Be \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/52toDAO0kuZhugEtumo501) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [That's What I'll Be \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/4FDK4HzB3XmbQFGeNmqpKm) | 3:21 | 2025-10-17 |  |
 | [The Impression That I Get](https://open.spotify.com/track/1ru5R5iSawvuMELqKXxLjS) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let's Face It](https://open.spotify.com/album/5yBYSnmpRANjb99msqeCee) | 3:14 | 2022-09-16 | 2024-09-20 |
 | [The Impression That I Get](https://open.spotify.com/track/3a3EDrWejkryzeGFkPypOR) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Let’s Face It](https://open.spotify.com/album/5Q9CP8RlnRY3MfcRliWj6r) | 3:15 | 2022-09-16 | 2024-04-19 |
 | [Theme From New York, New York \- 2008 Remastered](https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(2008 Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 3:24 | 2024-09-19 |  |
@@ -96,6 +97,7 @@
 | [You and I](https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:42 | 2024-09-19 |  |
 | [You and I](https://open.spotify.com/track/1HZxwr7sLtJzK6Jt2G6cu0) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/3mpvDPBxCSlIGEqiMpiQL4) | 3:44 | 2024-09-19 |  |
 | [You and Me](https://open.spotify.com/track/58K9hOJ2NmtcNywdFIy1AL) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Souls](https://open.spotify.com/album/6h8evmiksmB6ZAXzg2ebQR) | 3:54 | 2024-10-09 |  |
+| [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 | 2025-10-17 |  |
 | [Your Girl \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4ENl5WGXyd8PLj7k2KT7Ge) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Your Girl \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/0U3Xaln7rxxSKcISPB501G) | 4:19 | 2025-10-10 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

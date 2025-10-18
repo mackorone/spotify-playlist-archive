@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 590 songs - 1 day 14 hr 40 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 593 songs - 1 day 14 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -598,5 +598,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 588 | [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 |
 | 589 | [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 |
 | 590 | [People Settle Down](https://open.spotify.com/track/5NmBkXFDDRCWdopPXZPr0L) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 3:17 |
+| 591 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 592 | [DEAD](https://open.spotify.com/track/1MRQ49rkgqahm7K51ZjtRf) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [THE BPM](https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg) | 4:08 |
+| 593 | [Night Night \(feat\. Kehlani\)](https://open.spotify.com/track/7I8uO1htDS5K05xNIBmBNb) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 1:44 |
 
-Snapshot ID: `AAAH2wDn+AzmkVR33aQABG930UI6Ax8w`
+Snapshot ID: `AAAH3tc5lCTRGT6KkxEtwwv6zS8o1ONB`

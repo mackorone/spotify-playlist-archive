@@ -1701,7 +1701,7 @@
     },
     {
       "album": {
-        "name": "Come Over",
+        "name": "COME OVER",
         "url": "https://open.spotify.com/album/7df6gherGvcE2SS3yB2f7l"
       },
       "artists": [
@@ -1714,7 +1714,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153533,
-      "name": "Come Over",
+      "name": "COME OVER",
       "url": "https://open.spotify.com/track/2zRh2tE9jAUf0InquzgppI"
     },
     {
@@ -4589,6 +4589,32 @@
     },
     {
       "album": {
+        "name": "mOJA bEBO (feat. Eddin & Zera)",
+        "url": "https://open.spotify.com/album/09jk1ksUU4h0gObyqS2xux"
+      },
+      "artists": [
+        {
+          "name": "CHEKAA",
+          "url": "https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP"
+        },
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        },
+        {
+          "name": "Zera",
+          "url": "https://open.spotify.com/artist/3kLaFkY8dscdLove42grJF"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "mOJA bEBO - feat. Eddin & Zera",
+      "url": "https://open.spotify.com/track/3vF4TgwvBxfWwT3DdBv9iL"
+    },
+    {
+      "album": {
         "name": "Moja Draga",
         "url": "https://open.spotify.com/album/2znGjCKcvMmvIdMYTvYwvo"
       },
@@ -5174,7 +5200,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 151087,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/5k3I3hb3ouwr1ttrjxE13x"

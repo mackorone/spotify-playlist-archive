@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "It Can't Be Christmas",
+        "url": "https://open.spotify.com/album/4WDJarpfVVwJlMrd36OyiM"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "It Can't Be Christmas",
+      "url": "https://open.spotify.com/track/5SxfqYOHg6XaLCBr8N4jFo"
+    },
+    {
+      "album": {
         "name": "Merry Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/3mKxD3slkstGtfDxBI8p62"
       },

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-631 songs - 2 day 3 hr 59 min
+632 songs - 2 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bigger](https://open.spotify.com/track/1kV7EtGG52g3BsqzkLHZVy) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [Bigger](https://open.spotify.com/album/2At2AXk7Zt0AdAElt4GTM1) | 2:12 | 2025-05-30 | 2025-06-27 |
 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 | 2024-01-26 | 2025-06-06 |
 | [Blessed](https://open.spotify.com/track/7fgogLsPWxBlvCK9SBcMKn) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Blessed](https://open.spotify.com/album/4lSKv0ZqMxMwRyvSGWWT9A) | 2:48 | 2025-06-20 | 2025-09-15 |
+| [Blessed Assurance](https://open.spotify.com/track/37OLhQWWM8dWaYDs0GItih) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Tianney](https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y) | [Blessed Assurance](https://open.spotify.com/album/0wUF4IL8w0covkEUfJiVMG) | 2:38 | 2025-10-10 |  |
 | [Blessed Be Your Name](https://open.spotify.com/track/19naPYtiHYPNmXUNfHVnj3) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Blessed Be Your Name](https://open.spotify.com/album/2bPxiD3QggQ6JLOr8O890p) | 5:11 | 2025-05-30 | 2025-09-12 |
 | [Blessed Year](https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Vin Mokay](https://open.spotify.com/artist/4H3x6M1mNufxM9SANBPTqz) | [Blessed Year](https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW) | 3:04 | 2024-01-26 | 2024-08-22 |
 | [Blessings](https://open.spotify.com/track/23p2phcUQwmqYWYqNjGS7z) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K) | [Blessings](https://open.spotify.com/album/6fkdRN3MTSKqirGb30cDx7) | 3:53 | 2025-06-13 | 2025-06-27 |
@@ -610,7 +611,7 @@
 | [Worship Medley 16](https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 16](https://open.spotify.com/album/6wkRwNf3cbMXLnKxEV746g) | 6:45 | 2025-07-11 |  |
 | [WORTHY](https://open.spotify.com/track/01VqTmMt86wGlRVjvrhZ23) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [WORTHY](https://open.spotify.com/album/64aFpFjW3mtEzikvLGTWzW) | 3:56 | 2025-08-29 |  |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 | 2025-06-27 |
-| [Yahweh](https://open.spotify.com/track/0rCqiszNjjmwidpPGp8bW6) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Yahweh](https://open.spotify.com/album/4FTzomnXkLei8TG5sWYKTu) | 5:15 | 2025-07-04 |  |
+| [Yahweh](https://open.spotify.com/track/0rCqiszNjjmwidpPGp8bW6) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Yahweh](https://open.spotify.com/album/4FTzomnXkLei8TG5sWYKTu) | 5:15 | 2025-07-04 | 2025-10-18 |
 | [Yahweh](https://open.spotify.com/track/0wlZMHkTTTHjUMudVOO3PZ) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Yahweh](https://open.spotify.com/album/1hvBhzoIX98bfsaSWkr8FV) | 4:02 | 2025-06-20 | 2025-08-30 |
 | [Yahweh](https://open.spotify.com/track/6XlilInIhEvmmM7eNRRKYx) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [Yahweh](https://open.spotify.com/album/1Thgoac8jU5Wjyfd682JTE) | 6:03 | 2025-07-18 |  |
 | [Yamekwisha](https://open.spotify.com/track/3fanFHEVq7NpudvP1LizRe) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [Yamekwisha](https://open.spotify.com/album/0awt0U85FgJVH0rxgW5Cd4) | 4:32 | 2025-07-11 | 2025-08-08 |

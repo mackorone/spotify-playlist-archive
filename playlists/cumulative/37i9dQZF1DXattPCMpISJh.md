@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Say She She
 
-328 songs - 20 hr 12 min
+329 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Fly Away](https://open.spotify.com/track/1slmHtKIZR5WmOeBzFzy77) | [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH), [Kabrio](https://open.spotify.com/artist/6W4S9LsbJGBxhJi3kELQXy) | [Fly Away](https://open.spotify.com/album/3i49deuNwYwtZGty7fVo7o) | 3:03 | 2023-07-28 |  |
 | [Forever](https://open.spotify.com/track/0EvDKZOVkcDUkJdQOIscMA) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Forever](https://open.spotify.com/album/4jMu8CqTNq5VYVldMqa2qt) | 3:42 | 2022-06-24 | 2022-10-01 |
 | [Freak 54 \(Freak Out\)](https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Freak 54 \(Freak Out\)](https://open.spotify.com/album/5w5ybFZ5gewy0Lb9LA9lXc) | 2:08 | 2023-09-15 |  |
-| [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 | 2023-04-28 |  |
+| [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 | 2023-04-28 | 2025-10-18 |
 | [Free](https://open.spotify.com/track/7uz2uui0tboZulmc5TdjTV) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Sledgendary](https://open.spotify.com/artist/5NoEz2x1F5WsQ225GJtvBJ) | [Free](https://open.spotify.com/album/4meOyw0LxSchM8wARkfNnZ) | 3:50 | 2022-02-18 | 2023-02-11 |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 | 2023-04-09 |
 | [Free Yourself \(Again\) \[Extended Vocal Mix\]](https://open.spotify.com/track/60FOtCEqN449Xtpyb2QkgW) | [Birdee](https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv), [Nick Reach Up](https://open.spotify.com/artist/5yd1f7VGZpZ6aKRkr5iWAw), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Free Yourself \(Again\) \(Remixes\)](https://open.spotify.com/album/5IGVPpol8exxGRy7GjDFAI) | 7:05 | 2022-06-03 | 2023-05-27 |
@@ -199,6 +199,7 @@
 | [Move Me](https://open.spotify.com/track/7mNrHt87k4uLY6rtODEAvO) | [T\-Groove](https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt), [Maddam Mya](https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP) | [Move Me](https://open.spotify.com/album/3uzf0QnjYIXsb0jqIe1VCI) | 5:28 | 2023-04-07 | 2025-05-31 |
 | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory \(feat\. Nile Rodgers\)](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 | 2023-05-12 |  |
 | [My Lovin'](https://open.spotify.com/track/1wo0s1LhR2Hkzkn6cwMzi6) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Elektrik Disko](https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG) | [My Lovin'](https://open.spotify.com/album/66CQRrLh4jLEGjJxe16tF6) | 3:14 | 2024-03-22 |  |
+| [My Name Is Love](https://open.spotify.com/track/3GJIJPi4tYm2dJF7rt9BEb) | [Golden Gate](https://open.spotify.com/artist/5Z30acijfl3QUb0BG8z48d), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [My Name Is Love](https://open.spotify.com/album/6I5Pvb8ITznvDxiHjC0gkn) | 3:18 | 2025-10-17 |  |
 | [My Only](https://open.spotify.com/track/69yyZiAS9G6MvS7cke8zMh) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [My Only](https://open.spotify.com/album/0dVEwkb9LU5hqtXVy7I0D8) | 3:06 | 2022-05-13 | 2023-07-29 |
 | [Mystery of Love \- Le Flex "Summer Mystery" Remix](https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Mystery of Love \(Le Flex "Summer Mystery" Remix\)](https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w) | 4:13 | 2022-08-19 | 2025-02-08 |
 | [Naked](https://open.spotify.com/track/6YvMJ2nfngT6namuCNpRL2) | [Maryon King](https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV) | [Naked](https://open.spotify.com/album/65IwmBSFGeCnzUHtNEFXhI) | 2:48 | 2024-11-15 |  |

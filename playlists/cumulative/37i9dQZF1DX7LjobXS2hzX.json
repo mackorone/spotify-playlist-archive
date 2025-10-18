@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Loud, Ariane Moffatt",
+  "description": "Voici les hits du moment. Photo: JF Pauz\u00e9",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250413,
+      "name": "Ami imaginaire",
+      "url": "https://open.spotify.com/track/170TffoApcTb9ssi9ocfom"
+    },
+    {
+      "album": {
         "name": "Amour, Haine & Danger",
         "url": "https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3"
       },
@@ -782,7 +804,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -816,6 +838,24 @@
       "duration_ms": 219831,
       "name": "Arhbo [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/139nCjBRQCLgnWNRxBKAC7"
+    },
+    {
+      "album": {
+        "name": "Artificial Angels",
+        "url": "https://open.spotify.com/album/0a8hPV58tZZa45q26OUb8C"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169477,
+      "name": "Artificial Angels",
+      "url": "https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin"
     },
     {
       "album": {
@@ -1216,10 +1256,28 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 178806,
       "name": "Ballon-sonde",
       "url": "https://open.spotify.com/track/1jYGkYSvLe066L9eb4yz6X"
+    },
+    {
+      "album": {
+        "name": "Les amours de seconde main",
+        "url": "https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob"
+      },
+      "artists": [
+        {
+          "name": "JF Pauz\u00e9",
+          "url": "https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178806,
+      "name": "Ballon-sonde",
+      "url": "https://open.spotify.com/track/699SpD5VkpC4PKGgnvK13g"
     },
     {
       "album": {
@@ -1558,7 +1616,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
@@ -1580,6 +1638,40 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
+    },
+    {
+      "album": {
+        "name": "Golden (from the Netflix film KPop Demon Hunters)",
+        "url": "https://open.spotify.com/album/2FZ9yvgjgkzgcvvRMLx9Ab"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "Alexiane Broque",
+          "url": "https://open.spotify.com/artist/5qIdeu6LWidREML9dzL0WD"
+        },
+        {
+          "name": "Jeanne J\u00e9rosme",
+          "url": "https://open.spotify.com/artist/55MG6lE79B7ClZe6nMSnrK"
+        },
+        {
+          "name": "Clotilde Verry",
+          "url": "https://open.spotify.com/artist/5QrZth2MNx8LlLnzkVaqKr"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192974,
+      "name": "Briller - Golden - version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4Zg2p0S5G6dxF3xCmRBv3R"
     },
     {
       "album": {
@@ -1826,7 +1918,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 230320,
       "name": "Ceci n'est pas une chanson triste",
       "url": "https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3"
@@ -2568,7 +2660,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -2925,6 +3017,32 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211859,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
+    },
+    {
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -3042,6 +3160,24 @@
       "duration_ms": 242293,
       "name": "Eat Your Young",
       "url": "https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK"
+    },
+    {
+      "album": {
+        "name": "Eau saline",
+        "url": "https://open.spotify.com/album/49WxLzNLiKZ9xOiztUOlhp"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243641,
+      "name": "Eau saline",
+      "url": "https://open.spotify.com/track/7IkaPBIOjCVxEUlTVSUvrj"
     },
     {
       "album": {
@@ -3260,6 +3396,24 @@
       "duration_ms": 147000,
       "name": "Ensemble - Radio Edit",
       "url": "https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj"
+    },
+    {
+      "album": {
+        "name": "Envoye \u00e0 maison",
+        "url": "https://open.spotify.com/album/6JYhdMA4Vo9oYomRyNzHvW"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00efn",
+          "url": "https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "Envoye \u00e0 maison",
+      "url": "https://open.spotify.com/track/4tdi1TJ4MWfIOGe1fhJAW2"
     },
     {
       "album": {
@@ -3620,6 +3774,24 @@
       "duration_ms": 173947,
       "name": "First Class",
       "url": "https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc"
+    },
+    {
+      "album": {
+        "name": "Fi\u00e8vre des Andes",
+        "url": "https://open.spotify.com/album/5r2mVYcK0AMDLFK5bCCwMA"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189418,
+      "name": "Fi\u00e8vre des Andes",
+      "url": "https://open.spotify.com/track/3vwjb717aoICPvirwgcvTQ"
     },
     {
       "album": {
@@ -4954,7 +5126,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 181445,
       "name": "Jananto",
       "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
@@ -5779,6 +5951,24 @@
     },
     {
       "album": {
+        "name": "Emotion (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194622,
+      "name": "Lost In Devotion",
+      "url": "https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh"
+    },
+    {
+      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -5942,7 +6132,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
@@ -7009,6 +7199,24 @@
     },
     {
       "album": {
+        "name": "Kicking My Feet",
+        "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174751,
+      "name": "Not What\u2019s Going On",
+      "url": "https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -7880,7 +8088,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 141947,
       "name": "Printemps",
       "url": "https://open.spotify.com/track/7lh98qsgRr8SkGnyjHeLKK"
@@ -7934,7 +8142,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -8098,7 +8306,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 209680,
       "name": "RATHER LIE (with The Weeknd)",
       "url": "https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn"
@@ -8156,7 +8364,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 126139,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/4vqwpFRN7mFFrJPUJgE5pj"
@@ -8642,7 +8850,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -8845,6 +9053,42 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/4XUPb1rntAZTacotCGf4lR"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147877,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS"
+    },
+    {
+      "album": {
         "name": "Solo (feat. Tayc)",
         "url": "https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj"
       },
@@ -8966,6 +9210,24 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "album": {
+        "name": "St-F\u00e9lix",
+        "url": "https://open.spotify.com/album/75DFRV98Zc4v4CUmQDipHB"
+      },
+      "artists": [
+        {
+          "name": "Arpin L\u00e9pine",
+          "url": "https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "St-F\u00e9lix",
+      "url": "https://open.spotify.com/track/666mu3SoJs6OrJSNZz4lJH"
     },
     {
       "album": {
@@ -9440,7 +9702,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 160520,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5ZKbEHSvrAqZZpkzJ10ipr"
@@ -9628,7 +9890,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 217597,
       "name": "These Walls (feat. Pierre de Maere)",
       "url": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
@@ -9904,6 +10166,24 @@
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "album": {
+        "name": "Traverser les saisons",
+        "url": "https://open.spotify.com/album/17BlplPNkdFgLh41bs9Y9R"
+      },
+      "artists": [
+        {
+          "name": "Ariane Simard",
+          "url": "https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "Traverser les saisons",
+      "url": "https://open.spotify.com/track/41kw7pSz22k3RGmx7MRCzp"
     },
     {
       "album": {
@@ -10265,6 +10545,24 @@
     },
     {
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "album": {
         "name": "What Did I Miss?",
         "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
       },
@@ -10350,7 +10648,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"

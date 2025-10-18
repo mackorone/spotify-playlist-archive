@@ -4,7 +4,7 @@
 
 > 
 
-163 songs - 13 hr 21 min
+164 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Why Can’t We Live Forever?](https://open.spotify.com/track/6UVMbsN3o13f4LriXGsAmU) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:31 | 2025-08-21 |  |
 | [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 | 2023-11-17 |  |
 | [You're Not Alone \- Solomun Remix](https://open.spotify.com/track/6YEQHjK7LlMFiUIUKEl3Ey) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [You're Not Alone \(Remixes\)](https://open.spotify.com/album/1ENugzdS2brZfuSebfxvGi) | 8:23 | 2019-02-16 |  |
+| [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-17 |  |
 | [Your Mind](https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/07lumzt0xDO5eyuWwvevAJ) | 8:22 | 2019-05-18 |  |
 | [Zulu](https://open.spotify.com/track/3MDEbfPekrI2EzxFTUzu5m) | [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7) | [Powers of Ten](https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb) | 7:45 | 2018-08-21 |  |
 

@@ -1705,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "A que volviste",
+        "url": "https://open.spotify.com/album/7xfny3lQycZTdL0gFwJFGW"
+      },
+      "artists": [
+        {
+          "name": "El Katrinhn",
+          "url": "https://open.spotify.com/artist/6CAgaim55BmdaS2Wq0Sizk"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270068,
+      "name": "A que volviste",
+      "url": "https://open.spotify.com/track/6b8y6YcmqaBZonSFPnKij0"
+    },
+    {
+      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 176200,
       "name": "Ama De Mi Sol",
       "url": "https://open.spotify.com/track/4GKm1QaEr1tqJwUM0EsUl3"
@@ -12592,7 +12610,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 131253,
       "name": "Confess Your Love",
       "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
@@ -20392,7 +20410,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 442894,
       "name": "Es \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/2I62ilF5qfbJqDwaIJ5snf"
@@ -24810,7 +24828,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 255625,
       "name": "Gyal Guayna De Espalda",
       "url": "https://open.spotify.com/track/3DNTc0lLlNLhQtQa56UAwe"
@@ -36522,7 +36540,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 235006,
       "name": "Me Vieron Llorar",
       "url": "https://open.spotify.com/track/7e981FyJSKC4rO9VgXrDC7"
@@ -42888,7 +42906,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 211833,
       "name": "N\u00c1UFRAGOS",
       "url": "https://open.spotify.com/track/2pM3EaNKFnpa646xtCiREJ"
@@ -69384,7 +69402,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

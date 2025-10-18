@@ -3913,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Ratatata",
+        "url": "https://open.spotify.com/album/2QZobmIU3FeNZDMFcuPK9d"
+      },
+      "artists": [
+        {
+          "name": "1Ski OG",
+          "url": "https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143050,
+      "name": "Ratatata",
+      "url": "https://open.spotify.com/track/3dr4W9loR9Gd8qv6bQ6MfD"
+    },
+    {
+      "album": {
         "name": "Really Like U",
         "url": "https://open.spotify.com/album/61Ueu7TdmorehxJMhRXPFP"
       },

@@ -8211,6 +8211,28 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/6ShMX20b0dAz1eymNXGfz8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/2Iy9lNbtDPhHn6mmk9EGRS"
+    },
+    {
+      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/22dzgMMw0XZX52GMzg7Xyw"
       },
@@ -8672,6 +8694,24 @@
       "duration_ms": 126240,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/0HSoyafgVY6nPKNVwzGdZ8"
+    },
+    {
+      "album": {
+        "name": "Sippin'",
+        "url": "https://open.spotify.com/album/6KVevBpcClwEuNdvRheN6u"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115275,
+      "name": "Sippin'",
+      "url": "https://open.spotify.com/track/3CfnOZGonCritVZnVJZS4c"
     },
     {
       "album": {

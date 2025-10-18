@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,021 songs - 3 day 13 hr 24 min
+1,022 songs - 3 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,7 @@
 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 | 2022-07-08 | 2023-11-04 |
 | [Never Too Late](https://open.spotify.com/track/5FxRRLJT4jthUgAjUNNgVd) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Never Too Late](https://open.spotify.com/album/55zrSnNkvIjCYzwryPY9LN) | 4:47 | 2023-04-28 | 2023-08-20 |
 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 | 2024-09-27 | 2025-08-30 |
-| [New Day](https://open.spotify.com/track/5X1JbpigTWrjaVYPLsplE2) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [New Day](https://open.spotify.com/album/60Jd60j8HijpYtIIFi1IQy) | 5:40 | 2025-08-29 |  |
+| [New Day](https://open.spotify.com/track/5X1JbpigTWrjaVYPLsplE2) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [New Day](https://open.spotify.com/album/60Jd60j8HijpYtIIFi1IQy) | 5:40 | 2025-08-29 | 2025-10-18 |
 | [Ngeke](https://open.spotify.com/track/2YU8o3X8Oyp9Ljdf7TTlNp) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Armonica](https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy), [Zamna Soundsystem](https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ngeke](https://open.spotify.com/album/7A4IhGJIySOF9ZxbDdANk0) | 3:31 | 2024-09-27 | 2025-08-23 |
 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 | 2022-08-19 | 2023-02-25 |
 | [Nice to Meet You](https://open.spotify.com/track/43wAEql15k2lLyDC568uTE) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y) | 6:13 | 2022-08-19 | 2022-12-15 |
@@ -740,6 +740,7 @@
 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-13 | 2023-02-26 |
 | [Regina Blue](https://open.spotify.com/track/4TR6mBYhwSML6pxV0gF4Ts) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Regina Blue EP](https://open.spotify.com/album/43QIn889yImNDXw4bWTk0f) | 8:45 | 2022-09-02 | 2023-10-27 |
 | [Reign \- Okuma Remix](https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [One by One Remixes](https://open.spotify.com/album/2VFxjPMUpN6n2aU8UdN4Ap) | 7:11 | 2021-05-07 | 2022-07-29 |
+| [Reina de la Pista](https://open.spotify.com/track/5ZmOi8QTdksIUcyjvwYQGx) | [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Reina de la Pista](https://open.spotify.com/album/0QjabydE5tFFlPCfrofKfC) | 2:47 | 2025-10-17 |  |
 | [Rej](https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/1GY6HeWkiihJ11bSLkLxVV) | 2:39 | 2023-11-17 | 2024-04-16 |
 | [Rej](https://open.spotify.com/track/3wgJgvlQ1HXJvt61NRE08e) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Neil Amarey](https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ) | [Rej](https://open.spotify.com/album/6wD1X9ScsDcxnVOCtA3LUv) | 2:39 | 2023-10-20 | 2023-11-04 |
 | [Relax Shiva](https://open.spotify.com/track/6bU5V5LKTHjFB9LvJaH0xH) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Relax Shiva](https://open.spotify.com/album/0Qp3gmNLo5zqYutS7F0wDe) | 3:56 | 2023-06-16 | 2023-07-09 |

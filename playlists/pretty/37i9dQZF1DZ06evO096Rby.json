@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 48549,
+  "num_followers": 48606,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAAD0+rB3p1TiRp3cOjGNT9c/",
+  "snapshot_id": "aPA1gAAAAAAXg8cmEJ7WYc5c884pbRKG",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba Guasave (Chapito Isidro)",
         "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 171200,
       "name": "Arriba Guasave (Chapito Isidro)",
       "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO DE AMIRI (En Vivo desde Los \u00c1ngeles)",
-        "url": "https://open.spotify.com/album/5v6xboDhAiFOGGFijg65WT"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 125631,
-      "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PISTEANDO DESDE LOS ANGELES (En Vivo)",
         "url": "https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 242928,
       "name": "AMOR LIMOSNERO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TODO DE AMIRI (En Vivo desde Los \u00c1ngeles)",
+        "url": "https://open.spotify.com/album/5v6xboDhAiFOGGFijg65WT"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 125631,
+      "name": "TODO DE AMIRI - En Vivo desde Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/5LgqflBrNewltSebcYlLMk"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

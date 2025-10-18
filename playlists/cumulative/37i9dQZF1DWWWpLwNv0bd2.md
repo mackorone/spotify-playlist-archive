@@ -2,9 +2,9 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Idli Kadai
+> Check out the Latest Romance Tracks.<br/>Cover : Dude
 
-326 songs - 21 hr 10 min
+327 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Babyma \(From "Saba Nayagan"\)](https://open.spotify.com/track/7cmQYCyBmFmJ9OEyAQPTwK) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ), [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Ko Sesha](https://open.spotify.com/artist/4MvrgunSBPiaPfXEIOqfob) | [Babyma \(From "Saba Nayagan"\)](https://open.spotify.com/album/3Vst88ASdCsXItPyaVu1In) | 4:23 | 2024-01-04 | 2024-02-03 |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-03 | 2023-11-07 |
 | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/track/7AfS3sw4qaSBvobpdPYalt) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Rehman](https://open.spotify.com/artist/5uKN1IyD8fLoj2lV8CDzws) | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/album/3anqjQy9dqSqFrNFQHBzfT) | 3:28 | 2023-06-14 | 2023-08-01 |
-| [Beer Song \- From "Diesel"](https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [Beer Song \(From "Diesel"\)](https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz) | 3:16 | 2023-02-13 |  |
+| [Beer Song](https://open.spotify.com/track/03yx9C5Ouy5oopwskskjSv) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Diesel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6idFbIHXUjxN9oQHPss8Vl) | 3:16 | 2025-10-17 |  |
+| [Beer Song \- From "Diesel"](https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Rokesh](https://open.spotify.com/artist/00LxYZ7wjuOneFyYMFB8n0) | [Beer Song \(From "Diesel"\)](https://open.spotify.com/album/26Iofa6BdXi6xDA7Z7hEIz) | 3:16 | 2023-02-13 | 2025-10-18 |
 | [Bejaara Aanen \(From "Love Marriage"\)](https://open.spotify.com/track/5uEFhgEMTs3chkxcH0dUgA) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Sivaangi Krishnakumar](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Bejaara Aanen \(From "Love Marriage"\)](https://open.spotify.com/album/3JYIhm1gwl9tRQ7yOiftQc) | 3:38 | 2025-05-22 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-29 | 2023-02-22 |
 | [Boologame](https://open.spotify.com/track/1tOYrfcu8hJNaDHI25sKAe) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Bala Seetharaman](https://open.spotify.com/artist/4TbsHU0q3ipkNKqIDUclEQ) | [Mathimaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dcTqPVe9MIkpX8lD4ukjR) | 3:25 | 2024-01-04 | 2024-03-23 |

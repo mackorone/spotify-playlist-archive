@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-594 songs - 1 day 9 hr 18 min
+595 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Pretty People](https://open.spotify.com/track/3mnmpbrInwnPja7LYlc1Ks) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [Pretty People](https://open.spotify.com/album/7l4VSlWK9D63JLHECO69u5) | 2:30 | 2021-11-07 | 2022-07-27 |
 | [Pretty Sad](https://open.spotify.com/track/46gwMD8DJO8B6jy2C3hEeZ) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [pretty sad](https://open.spotify.com/album/2lohPm6Xt6ft1WvM87MoD7) | 3:19 | 2019-06-21 | 2021-10-16 |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-08-23 | 2024-09-07 |
-| [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2024-01-26 |  |
+| [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2024-01-26 | 2025-10-18 |
 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 | 2021-09-29 |  |
 | [purple circles](https://open.spotify.com/track/2XetkGYnzGVJKcw467pqKA) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Motel 6 \(Bonus Track\)](https://open.spotify.com/album/3yPpgbkV6kYkb1K3VWTTum) | 3:32 | 2021-01-08 | 2021-10-02 |
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-01-21 | 2022-04-18 |
@@ -465,6 +465,7 @@
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-23 | 2024-08-24 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-05 |  |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-04-19 | 2024-10-19 |
+| [So Sad So Hot](https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [So Sad So Hot](https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA) | 2:51 | 2025-10-17 |  |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-10-23 | 2022-07-06 |
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-11-13 | 2022-07-29 |
 | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:42 | 2019-06-10 | 2019-08-09 |

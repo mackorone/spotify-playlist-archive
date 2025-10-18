@@ -10267,6 +10267,24 @@
     },
     {
       "album": {
+        "name": "Underclass HERO",
+        "url": "https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh"
+      },
+      "artists": [
+        {
+          "name": "LONGMAN",
+          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "Underclass HERO",
+      "url": "https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY"
+    },
+    {
+      "album": {
         "name": "UNITY",
         "url": "https://open.spotify.com/album/4EWEV9iA8vxu53go2vt2kl"
       },
@@ -14138,7 +14156,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 124666,
       "name": "\u5e78\u305b\u306b\u306a\u308d\u3046\u3088",
       "url": "https://open.spotify.com/track/0wok9BE7hFu5yOJeKReNgt"

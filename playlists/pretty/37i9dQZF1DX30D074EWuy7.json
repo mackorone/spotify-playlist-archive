@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33380,
+  "num_followers": 33384,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Citt\u00e0 Futura",
+        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 284804,
+      "name": "Citt\u00e0 Futura",
+      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Shades of Chet",
         "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 457360,
       "name": "You can't go home again",
       "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Citt\u00e0 Futura",
-        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 284804,
-      "name": "Citt\u00e0 Futura",
-      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Scenario",
         "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 218533,
       "name": "Kids are electric",
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "L'indispensabile",
-        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
-      },
-      "artists": [
-        {
-          "name": "Vinicio Capossela",
-          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
-        }
-      ],
-      "duration_ms": 407760,
-      "name": "Ultimo amore",
-      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Musica Nuda - My Favorite Tunes",
         "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 190053,
       "name": "Bach Aire",
       "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "L'indispensabile",
+        "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
+      },
+      "artists": [
+        {
+          "name": "Vinicio Capossela",
+          "url": "https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM"
+        }
+      ],
+      "duration_ms": 407760,
+      "name": "Ultimo amore",
+      "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Ora beat!",
-        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
-      },
-      "artists": [
-        {
-          "name": "Stefano Torossi",
-          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
-        }
-      ],
-      "duration_ms": 125572,
-      "name": "Bighellonando",
-      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Amore a prima vista",
         "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 164246,
       "name": "Amore a prima vista - Bossa & Jazz Version",
       "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Ora beat!",
+        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
+      },
+      "artists": [
+        {
+          "name": "Stefano Torossi",
+          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Bighellonando",
+      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1371,6 +1355,38 @@
       "duration_ms": 278773,
       "name": "Musica e fumo (featuring Colle Der Fomento)",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Harlem Nocturne",
+        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 124613,
+      "name": "Harlem Nocturne",
+      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Non mi resta che tacere",
         "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
       },
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Segua quell'auto!",
+        "url": "https://open.spotify.com/album/19GkNp4PiT2lzJbN3rLmdY"
+      },
+      "artists": [
+        {
+          "name": "Planet Butter",
+          "url": "https://open.spotify.com/artist/5naixVJ23Qmj2CLO8W5AqG"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Segua quell'auto!",
+      "url": "https://open.spotify.com/track/3TlBYh93HYVkgI9KaF7cyD"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/3YCBWF5ZskW5wMIiCnixRI"
       },
@@ -1687,38 +1703,6 @@
       "duration_ms": 235416,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/6aT0JSqcYOtGuLIf9Q1G6K"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Segua quell'auto!",
-        "url": "https://open.spotify.com/album/19GkNp4PiT2lzJbN3rLmdY"
-      },
-      "artists": [
-        {
-          "name": "Planet Butter",
-          "url": "https://open.spotify.com/artist/5naixVJ23Qmj2CLO8W5AqG"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Segua quell'auto!",
-      "url": "https://open.spotify.com/track/3TlBYh93HYVkgI9KaF7cyD"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1791,6 +1775,22 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-10-16 22:01:23",

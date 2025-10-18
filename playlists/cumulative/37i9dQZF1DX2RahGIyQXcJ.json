@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover: Yo Yo Honey Singh",
+  "description": "Best of Desi Hip-Hop! Cover: Karma",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 156013,
       "name": "8Oz. OF PUSSY JUICE",
       "url": "https://open.spotify.com/track/731xbm82vnmdxO31AN1Urs"
@@ -582,6 +582,28 @@
       "duration_ms": 328615,
       "name": "Aazma Le",
       "url": "https://open.spotify.com/track/1X1aKjG5Au5Fj5DnDc14pm"
+    },
+    {
+      "album": {
+        "name": "Act IV (Thira) [musicbymango Remix]",
+        "url": "https://open.spotify.com/album/54g8PXe6vwgqYMU0dFO6Sg"
+      },
+      "artists": [
+        {
+          "name": "Anohnymouss",
+          "url": "https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT"
+        },
+        {
+          "name": "musicbymango",
+          "url": "https://open.spotify.com/artist/0k9smpG7LlLwBjSZA5rFpc"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Act IV (Thira) - musicbymango Remix",
+      "url": "https://open.spotify.com/track/1HGmOEQ1EXi9nmMq0giKQ4"
     },
     {
       "album": {
@@ -6063,6 +6085,32 @@
     },
     {
       "album": {
+        "name": "MUDDA (feat. Seedhe Maut)",
+        "url": "https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171787,
+      "name": "MUDDA (feat. Seedhe Maut)",
+      "url": "https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX"
+    },
+    {
+      "album": {
         "name": "Munda on the Rise",
         "url": "https://open.spotify.com/album/2Q9bAovUi19yqd5NDE6zso"
       },
@@ -6324,7 +6372,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 149142,
       "name": "New Riot",
       "url": "https://open.spotify.com/track/1iFPIiwChDzll8SGFJtrHs"
@@ -7663,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Ring A Rose",
+        "url": "https://open.spotify.com/album/3vnQUiE4n9mzvcSEC5kK33"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139789,
+      "name": "Ring A Rose",
+      "url": "https://open.spotify.com/track/2TwzMCeWCH3B66jvwMtEem"
+    },
+    {
+      "album": {
         "name": "For The Day One$",
         "url": "https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT"
       },
@@ -8790,7 +8856,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 169472,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"

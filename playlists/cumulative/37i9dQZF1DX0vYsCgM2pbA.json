@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241783,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
       },
@@ -1634,6 +1652,24 @@
       "duration_ms": 192138,
       "name": "Esther",
       "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462304,
+      "name": "Ethereal Connection",
+      "url": "https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK"
     },
     {
       "album": {
@@ -3146,7 +3182,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 150927,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b"
@@ -5116,7 +5152,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"

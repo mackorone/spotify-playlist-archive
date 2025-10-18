@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 174772,
+  "num_followers": 174781,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Religiously (Religiously. The Acoustic Sessions.)",
         "url": "https://open.spotify.com/album/1Oa74VQMAtnNj7HGxXZLyO"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Growing Old With You (First Dance Version)",
-        "url": "https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 192668,
-      "name": "Growing Old With You - First Dance Version",
-      "url": "https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Hell Of A Way To Go (Acoustic)",
         "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 173126,
       "name": "Hell Of A Way To Go - Acoustic",
       "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Growing Old With You (First Dance Version)",
+        "url": "https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 192668,
+      "name": "Growing Old With You - First Dance Version",
+      "url": "https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "I'm Not Prettier",
-        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 178191,
-      "name": "I'm Not Pretty - Acoustic",
-      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 277395,
       "name": "Faithfully - Acoustic",
       "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "I'm Not Prettier",
+        "url": "https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 178191,
+      "name": "I'm Not Pretty - Acoustic",
+      "url": "https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "We Got History (Acoustic)",
         "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 216551,
       "name": "We Got History - Acoustic",
       "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "One Percent (Acoustic)",
         "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
       },
       "artists": [
         {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
       },
       "artists": [
         {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+      "duration_ms": 200506,
+      "name": "You Don't Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
         }
       ],
-      "duration_ms": 200506,
-      "name": "You Don't Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
         "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 185815,
       "name": "Coulda Loved You Longer - Acoustic",
       "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Sober & Skinny",
-        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
-      },
-      "artists": [
-        {
-          "name": "Brittney Spencer",
-          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
-        }
-      ],
-      "duration_ms": 198719,
-      "name": "Sober & Skinny",
-      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Drive You Out Of My Mind (Dark Room Edition)",
         "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 234310,
       "name": "Drive You Out Of My Mind - Dark Room Edition",
       "url": "https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Sober & Skinny",
+        "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "duration_ms": 198719,
+      "name": "Sober & Skinny",
+      "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Save The Roses (Acoustic)",
-        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "Save The Roses (Acoustic)",
-      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Creek Will Rise (Acoustic)",
         "url": "https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 171320,
       "name": "Creek Will Rise - Acoustic",
       "url": "https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Save The Roses (Acoustic)",
+        "url": "https://open.spotify.com/album/4qmpoPJI3ys1tb3szfl55N"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "Save The Roses (Acoustic)",
+      "url": "https://open.spotify.com/track/6QNYLTMKqGrVzEl8RFxnQs"
     }
   ],
   "unique_name": "Nashville Stripped",

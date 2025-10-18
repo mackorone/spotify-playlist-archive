@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: EJ Jones
 
-850 songs - 2 day 2 hr 47 min
+852 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 | 2025-02-28 |  |
 | [Happiness](https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Night Shift](https://open.spotify.com/album/3d8fkpMXT6FywKJonYF6An) | 3:32 | 2025-05-23 | 2025-09-16 |
 | [Hard Part \(feat\. Lucky Daye\)](https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 | 2025-08-22 |  |
+| [Harmonize](https://open.spotify.com/track/0aYqmfDlNla4etWY6Y2K53) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Micki Miller](https://open.spotify.com/artist/17fq0HBKiEsU35rfzS5mSA) | [Harmonize](https://open.spotify.com/album/4DgK6ef6t2vzaAcoFlcdVb) | 3:12 | 2025-10-17 |  |
 | [Have You Ever Been \(To Electric Ladyland\)](https://open.spotify.com/track/7mgWCXPKOWgOexqeYLGjeu) | [Nai Palm](https://open.spotify.com/artist/5X0dCi2aVnYEV27S8wgQdF) | [Needle Paw](https://open.spotify.com/album/4b6uW0x09FkRSqadcioB1u) | 4:19 | 2022-10-03 | 2023-10-07 |
 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 | 2023-09-16 | 2025-03-01 |
 | [Head Straight](https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Head Straight](https://open.spotify.com/album/2MjQxYxyjRGEBgkBzlCcll) | 2:20 | 2023-06-02 | 2023-08-26 |
@@ -518,7 +519,7 @@
 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 | 2025-09-05 |  |
 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 | 2024-09-27 | 2025-04-12 |
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2022-03-11 | 2022-09-10 |
-| [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2024-03-01 |  |
+| [Need Nothing](https://open.spotify.com/track/42f3EU5xToR3O4VlIRGfC9) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Need Nothing](https://open.spotify.com/album/3jE6ilwvImynefzlleCPAz) | 2:27 | 2024-03-01 | 2025-10-18 |
 | [Need Somebody](https://open.spotify.com/track/3d4ATyPyoh5waQRY8DiXcf) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:18 | 2023-09-16 | 2024-02-24 |
 | [Need U Like](https://open.spotify.com/track/6kpOKxfq6OS16y54LIEqcE) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Need U Like](https://open.spotify.com/album/4rSJXZieqQpt16ly5KwaIE) | 3:28 | 2025-03-07 | 2025-03-22 |
 | [Need You](https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Need You](https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV) | 4:15 | 2021-12-03 | 2022-09-12 |
@@ -634,8 +635,9 @@
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 | 2024-06-04 |
 | [See Me](https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [See Me](https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd) | 3:30 | 2021-12-03 | 2022-07-29 |
 | [Sensitive](https://open.spotify.com/track/59aIuvxf1TpntfDqbeynWt) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Sometimes, I'm Speechless](https://open.spotify.com/album/45Mb8i8kcqmoh1jZkqbLqE) | 2:54 | 2022-12-16 | 2023-04-16 |
+| [Separate Ways](https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Separate Ways](https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi) | 2:58 | 2025-10-17 |  |
 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 | 2024-01-19 | 2024-12-14 |
-| [Serenity](https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Serenity](https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv) | 4:50 | 2025-06-27 |  |
+| [Serenity](https://open.spotify.com/track/30EdJz1XABA9jcVxNNyjO3) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Serenity](https://open.spotify.com/album/3BSGF6A7wQToltkc5lIzsv) | 4:50 | 2025-06-27 | 2025-10-18 |
 | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Set It Free \[Feat\. Richie\]](https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY) | 4:05 | 2024-08-16 | 2024-12-14 |
 | [Set Your Spirit Free](https://open.spotify.com/track/30xpmu9sCTvKrKq2gzQUfx) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 2:52 | 2025-01-17 | 2025-04-24 |
 | [She Keeps Calling](https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [She Keeps Calling](https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO) | 2:23 | 2024-08-30 | 2025-08-02 |

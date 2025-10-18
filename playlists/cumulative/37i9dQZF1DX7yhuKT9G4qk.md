@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-141 songs - 8 hr 4 min
+142 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dog Left In The Rain](https://open.spotify.com/track/0yJTsYsFOrL9KFjMQBPnTN) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Dog Left In The Rain](https://open.spotify.com/album/1kh7Dv3aXucqDO4clqMBsK) | 2:41 | 2025-07-16 |  |
 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 | 2025-10-01 |  |
 | [DØN'T WANNA FALL](https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [DØN'T WANNA FALL](https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg) | 4:10 | 2025-08-08 |  |
+| [End Of Me](https://open.spotify.com/track/2n6LotLcjjyG9NjNiypuxA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [End Of Me](https://open.spotify.com/album/48HxShceUcdOOEWzX1uQBy) | 3:52 | 2025-10-17 |  |
 | [Exile](https://open.spotify.com/track/5uVQDpZ8QBy5gBAxXTufHN) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Exile](https://open.spotify.com/album/41gsdwJILd5NLUgFvhjXl5) | 4:33 | 2025-07-16 | 2025-09-16 |
 | [Faith](https://open.spotify.com/track/2E4ImcUM9GrVevTrs3AqXI) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [Faith](https://open.spotify.com/album/6mUtkNsbNHsMszmKpCoCZU) | 2:28 | 2025-07-16 |  |
 | [Familiar Love \- Radio Edit](https://open.spotify.com/track/2sFw1i3lq7fUV7LdDoxXFU) | [Boogie Monster](https://open.spotify.com/artist/7f0mZeCsi8b1qMvMre72t4) | [Familiar Love](https://open.spotify.com/album/6IZ0UereWBxasy0E8S31N3) | 4:38 | 2025-07-16 | 2025-09-16 |
@@ -113,7 +114,7 @@
 | [Slowdown](https://open.spotify.com/track/47B6p4D2mzd0WJbtmy9QjW) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Slowdown](https://open.spotify.com/album/0dwNJ0jDiJuHbMrwzJwxwm) | 4:07 | 2025-07-16 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-30 |  |
 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 | 2025-08-28 |  |
-| [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2025-07-16 |  |
+| [somebody's daughter](https://open.spotify.com/track/2YJ7BCPxTh56f4jSeXwlvK) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/04IWjF3yuXKw8kN8SiIiwk) | 2:54 | 2025-07-16 | 2025-10-18 |
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-07-16 |  |
 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-10-02 |  |
 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 | 2025-07-16 | 2025-09-19 |

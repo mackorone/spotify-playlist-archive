@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Ledisi
 
-866 songs - 2 day 11 hr 58 min
+867 songs - 2 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [American Tune](https://open.spotify.com/track/1TFgQk7sGm45IsVvglhRTF) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [American Tune](https://open.spotify.com/album/3WC2NOxjIvS5lhJvaWufKD) | 6:11 | 2020-10-09 | 2022-02-17 |
 | [Amuleto](https://open.spotify.com/track/6PftjjaTz5fhrBe2AJvTW4) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Amuleto](https://open.spotify.com/album/0DtBUOYQneksvhpLL4yLje) | 3:34 | 2022-10-28 | 2022-11-27 |
 | [Angel City](https://open.spotify.com/track/5qLeANvmyow2ToeiVRVGof) | [Spencer Day](https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6) | [Angel City](https://open.spotify.com/album/4xeDr0FipAjGOJMORXMCSe) | 3:55 | 2020-10-09 | 2022-02-16 |
-| [Angel Eyes](https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Angel Eyes](https://open.spotify.com/album/5xEQG4xagkE1zCBIHcG9CO) | 4:46 | 2025-09-26 |  |
+| [Angel Eyes](https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Angel Eyes](https://open.spotify.com/album/5xEQG4xagkE1zCBIHcG9CO) | 4:46 | 2025-09-26 | 2025-10-18 |
 | [Another Country](https://open.spotify.com/track/3mj0k9ZcgluVhku8LjHIhO) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha), [Fabrizio Sotti](https://open.spotify.com/artist/38cpDv3QaKLvDnNE54Oh0p) | [Another Country](https://open.spotify.com/album/2ZbxyblgaXN0hcVfZ7nFbE) | 4:08 | 2022-11-04 | 2024-03-30 |
 | [Another Round](https://open.spotify.com/track/14x0olxuhl7Q2e5Fx3lEYN) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 3:58 | 2022-10-14 | 2024-01-13 |
 | [Another Standard](https://open.spotify.com/track/4gOvXQKjEc6kEsEJwK6LvB) | [Jason Fabus Trio](https://open.spotify.com/artist/2ssVOXhT1kSm9RdQweLwyk) | [Another Standard](https://open.spotify.com/album/0eHXJcPOnyzttx4MQHU5Ut) | 3:18 | 2022-04-22 | 2022-07-14 |
@@ -398,6 +398,7 @@
 | [It's Oh So Quiet](https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK), [WDR Funkhausorchester](https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9) | [It's Oh So Quiet](https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv) | 3:48 | 2020-10-09 | 2022-02-19 |
 | [It's Only a Paper Moon](https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI) | [Claire Martin](https://open.spotify.com/artist/7iIgJB2PSutn6IYzwdTomh), [Scott Dunn](https://open.spotify.com/artist/1CULc0qvcbzrAU9R8OK0J1), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [It's Only a Paper Moon](https://open.spotify.com/album/1Ml1lR7ejgAB6K3uaXMQ8p) | 4:25 | 2023-02-17 | 2024-05-25 |
 | [It's Time](https://open.spotify.com/track/5RKs4gdX9zNhTjK1eRWvLx) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Time And Again](https://open.spotify.com/album/3wgHwViDdLlHXHbcpy4Pxh) | 3:56 | 2024-06-28 |  |
+| [It’s Raining](https://open.spotify.com/track/6p4LriYiQ7aNJWEsmc8EPq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Detour](https://open.spotify.com/album/74OROuWbzN8h9ZB3tCtLea) | 4:28 | 2025-10-17 |  |
 | [James](https://open.spotify.com/track/0crjAWE1C7tHdQArfhSMut) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me EP](https://open.spotify.com/album/6gGP0HuDvAzkZQk9wQOwdo) | 2:55 | 2021-04-30 | 2022-10-08 |
 | [James](https://open.spotify.com/track/3yQmQSliq7uJhJet0YGmeX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Typical of Me](https://open.spotify.com/album/1ZSqGiN0icYQ9AjMRCAiRo) | 2:55 | 2021-04-30 | 2022-07-12 |
 | [Jim](https://open.spotify.com/track/484pBdixjCdJfQJCuB47nA) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Jim](https://open.spotify.com/album/1OQsCoDqH9dARlEDtaSBwS) | 3:58 | 2021-06-25 | 2022-07-29 |

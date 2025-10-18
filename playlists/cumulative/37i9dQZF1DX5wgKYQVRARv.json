@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5AuaCKcgz8d4icvHCm8Upm"
+      },
+      "artists": [
+        {
+          "name": "Wolf & Bear",
+          "url": "https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/0Xs15rXuXF4jVs5FPTD1p6"
+    },
+    {
+      "album": {
         "name": "Apology",
         "url": "https://open.spotify.com/album/0jgKnReA4HUc18eaYwO6CY"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 359840,
       "name": "At Races",
       "url": "https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0"
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 256453,
       "name": "Chasing Sunsets",
       "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
@@ -7309,6 +7327,24 @@
     },
     {
       "album": {
+        "name": "The Sleeping City",
+        "url": "https://open.spotify.com/album/7udyKNcNdq5jZrw0lgubMs"
+      },
+      "artists": [
+        {
+          "name": "An Abstract Illusion",
+          "url": "https://open.spotify.com/artist/6xcZE3tpECSAi8wXiK7SdT"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478120,
+      "name": "Like A Geyser Ever Erupting",
+      "url": "https://open.spotify.com/track/11pdAO2d27VJpX84h1eZeC"
+    },
+    {
+      "album": {
         "name": "Like a Sunken Ship",
         "url": "https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W"
       },
@@ -8850,6 +8886,24 @@
       "duration_ms": 203670,
       "name": "Nyetflix and Chill",
       "url": "https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3"
+    },
+    {
+      "album": {
+        "name": "Obsolete",
+        "url": "https://open.spotify.com/album/6WMiiKGfJtXAcllpzrTIi3"
+      },
+      "artists": [
+        {
+          "name": "Wiltwither",
+          "url": "https://open.spotify.com/artist/3HoW6Io7vdOF0scarlinO5"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Obsolete",
+      "url": "https://open.spotify.com/track/4QMQEp5DlreObCrcQox4UZ"
     },
     {
       "album": {
@@ -11366,7 +11420,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 382426,
       "name": "Splitting the Soul (feat. Ihsahn)",
       "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"

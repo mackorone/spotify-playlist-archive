@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOIVGZb6XiHB7.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOIVGZb6XiHB7.md) - [plain]
 | 6 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 7 | [Episode 169 \- Labrinth](https://open.spotify.com/episode/3lL5i7YTR0HOG1HRiwVEbS) | [Sodajerker On Songwriting](https://open.spotify.com/show/4oTBzqC3DHbaKNFq2YXpQw) | [Sodajerker On Songwriting](https://open.spotify.com/album/4oTBzqC3DHbaKNFq2YXpQw) | 40:33 |
 | 8 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 |
-| 9 | [Rihanna Party! \(with Gina Delvac\)](https://open.spotify.com/episode/2xMCAox2rVorajrZ0sHhGU) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 55:16 |
+| 9 | [Rihanna Party! \(with Gina Delvac\)](https://open.spotify.com/episode/2xMCAox2rVorajrZ0sHhGU) | [Switched on Pop](https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J) | [Switched on Pop](https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J) | 53:55 |
 | 10 | [Never Be the Same](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:46 |
 | 11 | [Camila Cabello \-\- The Jingle Bash Interviews](https://open.spotify.com/episode/18UNfmNActr2cuTjpzy4Ju) | [Spanky’s Corner](https://open.spotify.com/show/1Upv0QjnLaep9ZOtaY1n3m) | [Spanky’s Corner](https://open.spotify.com/album/1Upv0QjnLaep9ZOtaY1n3m) | 11:47 |
 | 12 | [Valentine](https://open.spotify.com/track/19hh7DkfRBrpRGYfKlw7jb) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:16 |

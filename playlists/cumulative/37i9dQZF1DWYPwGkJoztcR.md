@@ -4,19 +4,19 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-127 songs - 7 hr 20 min
+129 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2025-06-27 |  |
 | [A Way With My Heart](https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc), [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [A Way With My Heart](https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk) | 3:15 | 2025-09-15 |  |
 | [adeline](https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J) | [Katie Koss](https://open.spotify.com/artist/0tF0BK361CxlAYtmu6WADN) | [i'm changing my mind](https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB) | 3:54 | 2025-06-27 |  |
-| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2025-06-27 |  |
+| [Afterlife](https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Afterlife](https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V) | 3:01 | 2025-06-27 | 2025-10-18 |
 | [Amen \- Acoustic](https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen \(Acoustic\)](https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO) | 3:30 | 2025-06-27 |  |
 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 | 2025-06-27 |  |
 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 | 2025-06-27 |  |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-06-27 |  |
-| [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-06-27 |  |
+| [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-06-27 | 2025-10-18 |
 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 | 2025-08-06 |  |
 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 | 2025-06-27 |  |
 | [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 | 2025-06-27 |  |
@@ -82,6 +82,7 @@
 | [Never Fall In Love Again](https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Never Fall In Love Again](https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o) | 2:48 | 2025-06-27 |  |
 | [Nice To Meet You](https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Nice To Meet You](https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth) | 3:07 | 2025-06-27 |  |
 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 | 2025-06-27 | 2025-09-04 |
+| [Northern Star](https://open.spotify.com/track/4cfVHLsWpN7dwbLRLsSoSn) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Northern Star](https://open.spotify.com/album/5R4PL73ePjYo53hfmicqFP) | 3:12 | 2025-10-17 |  |
 | [Not The One](https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:28 | 2025-09-03 |  |
 | [Numbers](https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:15 | 2025-06-27 |  |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-06-27 | 2025-09-04 |
@@ -111,6 +112,7 @@
 | [Something I Can't Fake](https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [something i can't fake](https://open.spotify.com/album/2AdKGAN4yidTdY2HU9kFRQ) | 3:38 | 2025-09-03 | 2025-10-10 |
 | [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 | 2025-06-27 | 2025-08-24 |
 | [Story Of My Life](https://open.spotify.com/track/3RPBET4z96fUukQd6cNESv) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Story Of My Life](https://open.spotify.com/album/047ig9T3051aPN4dltfBu0) | 3:18 | 2025-06-27 |  |
+| [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 | 2025-10-17 |  |
 | [Suddenly Forever](https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR) | [Selwyn](https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ) | [Suddenly Forever](https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7) | 3:20 | 2025-06-27 |  |
 | [Take My Heart](https://open.spotify.com/track/55Tas3fJN0ta5aVxTm2vST) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/28H39Qto0LOt4cQbc063gw) | 4:18 | 2025-06-27 |  |
 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 | 2025-06-27 |  |

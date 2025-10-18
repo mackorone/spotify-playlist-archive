@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-295 songs - 19 hr 24 min
+296 songs - 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Arde](https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Arde](https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7) | 3:06 | 2024-07-12 | 2024-09-08 |
 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 | 2022-05-06 | 2025-10-03 |
 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 | 2025-05-16 |  |
+| [Así Se Vive Feliz](https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [Así Se Vive Feliz](https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ) | 3:19 | 2025-10-17 |  |
 | [Ayer Verás Sentimientos](https://open.spotify.com/track/4bvplJJUj6JWYg7piTKUds) | [La Tony Montana](https://open.spotify.com/artist/08ZddYmzOfbK0TXexR8HZK) | [Ayer Verás Sentimientos](https://open.spotify.com/album/6k8ibSaUiuw01WVecgX8mF) | 3:30 | 2022-05-06 | 2022-06-21 |
 | [Bailen y canten](https://open.spotify.com/track/7rwie4X5L2JflaBdqgzVF9) | [Vero y Pablo](https://open.spotify.com/artist/3Zy5CDFIZUBqV4NFTpkTCw) | [Semillas de Paz](https://open.spotify.com/album/193bZ2lQG52qlcXH0INEHY) | 4:33 | 2022-07-01 | 2022-07-09 |
 | [Barajas](https://open.spotify.com/track/5h3vcswmADU9SsBo8dmh8X) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [El Gran Poder, Vol\. 1](https://open.spotify.com/album/4Bm1mfE39yAYVYmj1DRXK3) | 5:14 | 2022-05-06 | 2022-06-17 |
@@ -58,7 +59,7 @@
 | [De la Espuma del Mar](https://open.spotify.com/track/52YZVnRmwtq6DclRMALTRZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [De la Espuma del Mar](https://open.spotify.com/album/5oSqppOEP0pVnemOoVqh2C) | 2:59 | 2022-05-06 | 2022-06-25 |
 | [De la Tierra Crece](https://open.spotify.com/track/2um53B5wdoATS9GbrWf5Vo) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/3vI408stCBdZIR7K9LrAMU) | 3:09 | 2022-05-06 | 2022-07-28 |
 | [De la Tierra Crece](https://open.spotify.com/track/7nNhXCXJpRm9GWmeQJ6LwR) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:09 | 2022-07-01 | 2024-04-19 |
-| [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 | 2022-05-06 |  |
+| [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 | 2022-05-06 | 2025-10-18 |
 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 | 2022-05-06 |  |
 | [Dela](https://open.spotify.com/track/4sEJncSrPDPuUe4hlp0xvI) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Dela](https://open.spotify.com/album/7hCmxe0ra4M5DaOth4hWnP) | 4:24 | 2024-01-11 | 2024-06-06 |
 | [Desenvaina](https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Desenvaina](https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY) | 3:02 | 2022-09-19 | 2024-06-28 |

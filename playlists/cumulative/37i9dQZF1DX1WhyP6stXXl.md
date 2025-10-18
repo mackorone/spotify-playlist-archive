@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Charlie Puth
 
-1,567 songs - 3 day 7 hr 10 min
+1,568 songs - 3 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,7 +850,7 @@
 | [Losing My Mind](https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Losing My Mind](https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH) | 3:10 | 2024-11-21 | 2024-12-20 |
 | [Losing Sight](https://open.spotify.com/track/4S0Ck7ClK7vobyTwBO26wC) | [Marleen Lohse](https://open.spotify.com/artist/7xmd7Ee1AR63RySc7A7OCZ) | [Losing Sight](https://open.spotify.com/album/33r9bNWf0IjwB6MBzPhc98) | 2:41 | 2025-03-06 | 2025-04-04 |
 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 | 2025-08-07 | 2025-09-05 |
-| [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [](https://open.spotify.com/album/null) | 3:14 | 2025-10-16 |  |
+| [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 | 2025-10-16 |  |
 | [Lost In You](https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Lost In You](https://open.spotify.com/album/7mMJt8idUTgjDohTLqLekb) | 2:02 | 2025-05-22 | 2025-06-20 |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-06 | 2025-03-07 |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-03 | 2024-10-25 |
@@ -1040,6 +1040,7 @@
 | [Paper Planes](https://open.spotify.com/track/51oqeb6IRlLR9kIgZ3H4CV) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [1994](https://open.spotify.com/album/1933MAtzQmpA0GVcJvuXlN) | 3:32 | 2024-11-07 | 2024-12-06 |
 | [Parachute](https://open.spotify.com/track/0f5Zp30ih99H6eEBoKiul8) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Mountain Music](https://open.spotify.com/album/1Q1C9JR5mIRc48MgJqu1G5) | 4:10 | 2024-09-26 | 2024-10-25 |
 | [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 | 2025-07-10 | 2025-08-09 |
+| [Party Dress](https://open.spotify.com/track/64dGLwqLm3PZIjN1b3mIcT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Party Dress](https://open.spotify.com/album/2mGYw1P9Et8mq9awaIcmj1) | 3:31 | 2025-10-16 |  |
 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 | 2025-01-02 | 2025-01-24 |
 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 | 2024-10-31 | 2024-11-29 |
 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 | 2025-05-15 | 2025-06-13 |

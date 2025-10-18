@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 120314,
       "name": "2025",
       "url": "https://open.spotify.com/track/479AXnqdLy7TSGT0I29hPj"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 182333,
       "name": "A Machete",
       "url": "https://open.spotify.com/track/0JIaMMiCaqelZVhTRQYolM"
@@ -2844,6 +2844,36 @@
       "duration_ms": 202105,
       "name": "Como Sea",
       "url": "https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg"
+    },
+    {
+      "album": {
+        "name": "LA OBSESION, VOL. 1",
+        "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
+      },
+      "artists": [
+        {
+          "name": "La Obsesion",
+          "url": "https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y"
+        },
+        {
+          "name": "Vic Gunn",
+          "url": "https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb"
+        },
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196361,
+      "name": "Con Esta Yo Me Fui, CAMARA",
+      "url": "https://open.spotify.com/track/5oTMU4RZ2CvOoNmlHQKHfr"
     },
     {
       "album": {
@@ -13230,6 +13260,28 @@
       "duration_ms": 162935,
       "name": "Vine Ma Hut",
       "url": "https://open.spotify.com/track/5VxXSgTPqj8zeK5ViMDd61"
+    },
+    {
+      "album": {
+        "name": "Visionarios Ordinarios",
+        "url": "https://open.spotify.com/album/72DGbgVUejXr5s784WkPSn"
+      },
+      "artists": [
+        {
+          "name": "Error 999",
+          "url": "https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0"
+        },
+        {
+          "name": "Hione",
+          "url": "https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Visionarios Ordinarios",
+      "url": "https://open.spotify.com/track/4rZrLsLpiOgAySmlu43cdP"
     },
     {
       "album": {

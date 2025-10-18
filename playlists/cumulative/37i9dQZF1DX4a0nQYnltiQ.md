@@ -2,9 +2,9 @@
 
 ### [Essence](https://open.spotify.com/playlist/37i9dQZF1DX4a0nQYnltiQ)
 
-> The \#1 Destination for the best melodies in the world\. Cover: Amber Mark
+> The \#1 Destination for the best melodies in the world\. Cover: Ayra Starr, Rema
 
-102 songs - 5 hr 9 min
+103 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-09-25 |  |
 | [Ecstasy](https://open.spotify.com/track/6gP8rtbgAweJelfHeGDCzC) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ecstasy](https://open.spotify.com/album/3rSea0lGP2kHDrGt7jJGeb) | 3:59 | 2025-07-10 | 2025-10-10 |
 | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Ecstasy \(Remix\) \[feat\. Teyana Taylor\]](https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz) | 3:30 | 2025-07-10 |  |
-| [F with U](https://open.spotify.com/track/7EF82wKxrl5irOZWPbCJ9S) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP) | [The Fix](https://open.spotify.com/album/5lJky1Tx5oegfMAwoqKNnW) | 3:31 | 2025-07-10 |  |
+| [F with U](https://open.spotify.com/track/7EF82wKxrl5irOZWPbCJ9S) | [Kemi Ade](https://open.spotify.com/artist/6KDipZITiq5yiYakmv11UP) | [The Fix](https://open.spotify.com/album/5lJky1Tx5oegfMAwoqKNnW) | 3:31 | 2025-07-10 | 2025-10-18 |
 | [FALL THROUGH](https://open.spotify.com/track/3l04IKVbK3rgDLOkaigL7R) | [Rya](https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp) | [FALL THROUGH](https://open.spotify.com/album/6Iaph0ERIiTHqq9YLRpMkc) | 3:30 | 2025-09-11 |  |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-07-10 |  |
 | [Forever](https://open.spotify.com/track/5gd8eavagHkTYP1T3BA3Jg) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Forever](https://open.spotify.com/album/40sUTtBK2qlobunFZFIm2s) | 2:25 | 2025-07-10 | 2025-10-10 |
@@ -105,6 +105,7 @@
 | [Unforgettable](https://open.spotify.com/track/0KNYy8BJY364hIoiQpQfP0) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Unforgettable](https://open.spotify.com/album/3LBfn842eEw7Rcc6tVCa60) | 3:14 | 2025-07-10 |  |
 | [Until the End](https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Until the End](https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU) | 2:25 | 2025-07-10 | 2025-07-25 |
 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 | 2025-09-11 |  |
+| [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-17 |  |
 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-07-10 | 2025-09-12 |
 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 | 2025-07-10 |  |
 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 | 2025-07-10 | 2025-10-10 |

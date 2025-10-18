@@ -449,6 +449,28 @@
     },
     {
       "album": {
+        "name": "As\u00ed Se Vive Feliz",
+        "url": "https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Unity Sound",
+          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "As\u00ed Se Vive Feliz",
+      "url": "https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z"
+    },
+    {
+      "album": {
         "name": "Ayer Ver\u00e1s Sentimientos",
         "url": "https://open.spotify.com/album/6k8ibSaUiuw01WVecgX8mF"
       },
@@ -992,7 +1014,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 259373,
       "name": "De Tanto Caminar",
       "url": "https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae"

@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025!
 
-357 songs - 17 hr 29 min
+358 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-12 | 2024-04-10 |
 | [All For You \(feat\. Joanna Cooke\)](https://open.spotify.com/track/1lsDLxEZdtd2EgpN3j7kGZ) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Joanna Cooke](https://open.spotify.com/artist/7EyKy53TsVFLJFZFyYzBZQ) | [All For You \(feat\. Joanna Cooke\)](https://open.spotify.com/album/69zSGQrpqTFVZFswAorvLu) | 2:11 | 2024-03-28 |  |
 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 | 2024-01-05 |  |
-| [All This Time](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [All This Time](https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP) | 3:43 | 2025-07-18 |  |
+| [All This Time](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [All This Time](https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP) | 3:43 | 2025-07-18 | 2025-10-18 |
 | [Alright \(Tonight\)](https://open.spotify.com/track/1MQvaQFiteOD4fPgqWXFF0) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Alright \(Tonight\)](https://open.spotify.com/album/4N8il6Iluc89LFeoueadTr) | 2:31 | 2025-03-28 |  |
 | [Always Needed \(feat\. MOYA\)](https://open.spotify.com/track/2DnIPaJA1Y5fIOQn0gwvT5) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Always Needed \(feat\. MOYA\)](https://open.spotify.com/album/0tWdPrCp3bbOhdoi2shny3) | 2:39 | 2024-04-26 |  |
 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 | 2024-04-19 | 2025-05-03 |
@@ -320,6 +320,7 @@
 | [The One](https://open.spotify.com/track/0ZqgZiFqhDivCdXwltw7Up) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [The One](https://open.spotify.com/album/2ImuqZJqJQ3ad6lM0Nwem2) | 2:46 | 2023-11-03 | 2023-12-16 |
 | [The One \(feat\. Blair\)](https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Blair](https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O) | [The One \(feat\. Blair\)](https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG) | 2:59 | 2023-11-03 | 2024-02-03 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p) | 3:05 | 2024-04-09 | 2024-04-13 |
+| [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 | 2025-10-17 |  |
 | [Think It Over](https://open.spotify.com/track/3o5Np7dRn95xMVeLc4xSc3) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Think It Over](https://open.spotify.com/album/0YR2su2ee5ZoteRQAUESYj) | 2:40 | 2023-11-03 | 2024-02-03 |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2025-02-21 |  |
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-18 |  |

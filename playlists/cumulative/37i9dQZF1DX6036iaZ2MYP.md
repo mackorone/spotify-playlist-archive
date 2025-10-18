@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover: Zlatan
 
-979 songs - 1 day 22 hr 6 min
+979 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Designer](https://open.spotify.com/track/4IMmrj6wSiWwmPUGCDzXZU) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Designer](https://open.spotify.com/album/5wkIu7FT32wFoCGM81cRwJ) | 2:24 | 2023-11-16 | 2024-02-09 |
 | [Desire](https://open.spotify.com/track/6NNrSujGlcgGV5442TcT7m) | [Donson](https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo), [Lino](https://open.spotify.com/artist/50XQMobXASNNGho6iHHpFH), [Genice](https://open.spotify.com/artist/2cm6H9yyGNoM9Q8C7bQtVt), [Bensco](https://open.spotify.com/artist/5skgghkUo49r7un9w8lqGH) | [Desire](https://open.spotify.com/album/3ACSvdyJ9fYqOhlVM0VSVq) | 2:19 | 2023-08-03 | 2023-10-20 |
 | [Desire \(feat\. Tayc\)](https://open.spotify.com/track/1VQo0tmPiBdeZ2sZ8iFEmP) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:23 | 2024-06-27 | 2024-10-25 |
+| [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 | 2025-10-16 |  |
 | [Devant le Maire](https://open.spotify.com/track/0MdL8IyxvCK0ykNavMXXii) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu), [iambillies](https://open.spotify.com/artist/6mvtHZpx2xlegpmqCZ3UpG) | [Devant le Maire](https://open.spotify.com/album/5KvaziGstBw2iPi4IoqSMQ) | 3:12 | 2024-12-12 | 2025-01-17 |
 | [DEY INSIDE](https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU) | [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Dey Inside](https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D) | 3:14 | 2022-10-20 | 2023-04-13 |
 | [diallo](https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [diallo](https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE) | 2:43 | 2024-07-18 | 2024-09-27 |
@@ -904,7 +905,6 @@
 | [TOUT DROIT](https://open.spotify.com/track/6IKWFt2x3R7szTflWaeQiC) | [La Synesia](https://open.spotify.com/artist/1xAkr1syMoClC66pHMk2Eq) | [TOUT DROIT](https://open.spotify.com/album/0TD72f1ncze2skY9yu6kfi) | 2:43 | 2025-05-15 | 2025-06-27 |
 | [Toxic Love](https://open.spotify.com/track/7gldh8ogRFJliHUvVxJYho) | [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q), [L CIANO](https://open.spotify.com/artist/3KDvUuEB5x3C5ER17sK0rd), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Toxic Love](https://open.spotify.com/album/5CnL5be3oL7LLwlR0mK6rm) | 2:28 | 2022-12-08 | 2023-05-19 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-12-01 | 2023-06-09 |
-| [Track 6](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-16 |  |
 | [Tragedy](https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Love Deeply...](https://open.spotify.com/album/68X6HwuSf7KLEdWLTZdSxS) | 2:50 | 2024-11-14 | 2025-01-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-04-24 | 2025-05-16 |
 | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/track/294RbcQMqf9cbFelweoVMB) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [WES7AR 22](https://open.spotify.com/artist/59CCuGR6B2a60Qrp3Wwsm8) | [Treasure Island \(feat\. Monique Lawz, Joey B & Wes7ar 22\)](https://open.spotify.com/album/3ATu4GjZWHIEfldJduxQ4g) | 5:01 | 2023-06-22 | 2023-08-25 |

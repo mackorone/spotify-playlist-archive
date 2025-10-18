@@ -1,44 +1,28 @@
 {
-  "description": "The home of Canadian country music. Cover: Sully Burrows",
-  "num_followers": 83013,
+  "description": "The home of Canadian country music. Cover: Sarah Vanderzon",
+  "num_followers": 83067,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALoZxqzdcecP8vLkgmqRJcgxaMxh",
+  "snapshot_id": "AAAAAKrJgdE4E/TF0VyacmH0TL+jbm9e",
   "tracks": [
     {
-      "added_at": "2025-10-10 00:01:13",
+      "added_at": "2025-10-17 04:01:39",
       "album": {
-        "name": "Somewhere in a Small Town",
-        "url": "https://open.spotify.com/album/1ylNEY1dGx6301ItDwc3th"
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1GIHpTihLalWrEw8qi07RJ"
       },
       "artists": [
         {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
         }
       ],
-      "duration_ms": 177175,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
-    },
-    {
-      "added_at": "2025-10-10 00:01:13",
-      "album": {
-        "name": "Smokin' Gun",
-        "url": "https://open.spotify.com/album/5rbRTLNHTrjEYrwD2iMDFF"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 179063,
-      "name": "Smokin\u2019 Gun",
-      "url": "https://open.spotify.com/track/2aleKd3JEeQiXUmQDsNMq5"
+      "duration_ms": 155332,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -59,18 +43,146 @@
     {
       "added_at": "2025-10-10 00:01:13",
       "album": {
-        "name": "Life's Waiting On Me",
-        "url": "https://open.spotify.com/album/08L0ipvi6v6CiCD6uhYGtP"
+        "name": "Somewhere in a Small Town",
+        "url": "https://open.spotify.com/album/1ylNEY1dGx6301ItDwc3th"
       },
       "artists": [
         {
-          "name": "Brittany Kennell",
-          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
         }
       ],
-      "duration_ms": 189224,
-      "name": "Life's Waiting On Me",
-      "url": "https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92"
+      "duration_ms": 177175,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
+    },
+    {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Back to Me",
+      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
+    },
+    {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "Sober Side Of Crazy",
+        "url": "https://open.spotify.com/album/1MwTcJTKFAlVYTuWC6aI5l"
+      },
+      "artists": [
+        {
+          "name": "Mark Ledlin",
+          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
+        }
+      ],
+      "duration_ms": 180792,
+      "name": "Sober Side Of Crazy",
+      "url": "https://open.spotify.com/track/6PFZF9Csv47UW39QeWOt5Y"
+    },
+    {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "South Side of Sober",
+        "url": "https://open.spotify.com/album/7bIHEOowAoqBJFY8DKmLwO"
+      },
+      "artists": [
+        {
+          "name": "Evan Burrison",
+          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
+        }
+      ],
+      "duration_ms": 149715,
+      "name": "South Side of Sober",
+      "url": "https://open.spotify.com/track/1XctHNqa8Ev0jJmd5uSlKz"
+    },
+    {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "Blue Collar Man",
+        "url": "https://open.spotify.com/album/78tXrrOuO5qbLfgjy5OrPg"
+      },
+      "artists": [
+        {
+          "name": "Emma Kade",
+          "url": "https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx"
+        }
+      ],
+      "duration_ms": 188710,
+      "name": "Blue Collar Man",
+      "url": "https://open.spotify.com/track/3DDThoYBTEYebm6UyYqxBY"
+    },
+    {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "Walk Away Wishing",
+        "url": "https://open.spotify.com/album/2WcgHoUuXM6uQ7R6MHVXQS"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 165017,
+      "name": "Walk Away Wishing",
+      "url": "https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH"
+    },
+    {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "Smokin' Gun",
+        "url": "https://open.spotify.com/album/5rbRTLNHTrjEYrwD2iMDFF"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Smokin\u2019 Gun",
+      "url": "https://open.spotify.com/track/2aleKd3JEeQiXUmQDsNMq5"
+    },
+    {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "Fire Child",
+        "url": "https://open.spotify.com/album/3owKjqyBwMUl4a47gVWRDT"
+      },
+      "artists": [
+        {
+          "name": "Raquel Cole",
+          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Fire Child",
+      "url": "https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o"
+    },
+    {
+      "added_at": "2025-10-17 04:01:39",
+      "album": {
+        "name": "Forever Reckless",
+        "url": "https://open.spotify.com/album/5OPcl6xUd78hZmshYVKpdE"
+      },
+      "artists": [
+        {
+          "name": "Rick Duff",
+          "url": "https://open.spotify.com/artist/4MNUaMf0Yl05yY6x342xBH"
+        }
+      ],
+      "duration_ms": 224819,
+      "name": "One Hell Of A Night",
+      "url": "https://open.spotify.com/track/581jm0RBSUfwuX6K3GCc81"
     },
     {
       "added_at": "2025-10-10 00:01:13",
@@ -95,6 +207,22 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 210184,
+      "name": "Scared Of Getting Sober",
+      "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/5MfLJ1KUO0Q1vVvFpbxqYz"
       },
@@ -111,18 +239,18 @@
     {
       "added_at": "2025-10-10 00:01:13",
       "album": {
-        "name": "Fire Child",
-        "url": "https://open.spotify.com/album/3owKjqyBwMUl4a47gVWRDT"
+        "name": "Life's Waiting On Me",
+        "url": "https://open.spotify.com/album/08L0ipvi6v6CiCD6uhYGtP"
       },
       "artists": [
         {
-          "name": "Raquel Cole",
-          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
         }
       ],
-      "duration_ms": 187988,
-      "name": "Fire Child",
-      "url": "https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o"
+      "duration_ms": 189224,
+      "name": "Life's Waiting On Me",
+      "url": "https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -155,22 +283,6 @@
       "duration_ms": 130880,
       "name": "Everybody Loves My Little Darling",
       "url": "https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Later Tonight",
-        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 210184,
-      "name": "Scared Of Getting Sober",
-      "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -1015,22 +1127,6 @@
       "duration_ms": 147666,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/1CEJMHD6WuJMisHmFY2Ypv"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Moved On To Movin' On",
-        "url": "https://open.spotify.com/album/69vagn43zEOpYlsNUaJ7Li"
-      },
-      "artists": [
-        {
-          "name": "Mark Ledlin",
-          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Moved On To Movin' On",
-      "url": "https://open.spotify.com/track/5m6fqMEeeYxQeGCiUX0yEc"
     },
     {
       "added_at": "2025-10-06 15:31:33",

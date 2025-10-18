@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 826953,
+  "num_followers": 827088,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Black Rain",
+      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Black Rain",
-      "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Moodie",
-        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
-      },
-      "artists": [
-        {
-          "name": "Yuno",
-          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "No Going Back",
-      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Moodie",
+        "url": "https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC"
+      },
+      "artists": [
+        {
+          "name": "Yuno",
+          "url": "https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "No Going Back",
+      "url": "https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "The Gold (Nick Waterhouse Remix)",
         "url": "https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 132096,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Wiggle Room",
-        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
-      },
-      "artists": [
-        {
-          "name": "Drug Cabin",
-          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Handsome",
-      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Wiggle Room",
+        "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
+      },
+      "artists": [
+        {
+          "name": "Drug Cabin",
+          "url": "https://open.spotify.com/artist/127gPdUYBwpTLUNdKX1MMk"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Last One Standing (Radio Edit)",
         "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 203589,
       "name": "Last One Standing - Radio Edit",
       "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Tincture",
         "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 211279,
       "name": "Tincture",
       "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Maybe Later",
         "url": "https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 218719,
       "name": "Coolhand",
       "url": "https://open.spotify.com/track/3HkISVjNOvVrHmHZpKgkdE"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Mid-Century Modern Romance",
-        "url": "https://open.spotify.com/album/3lquhZzldiNKkeBxSEDUuJ"
-      },
-      "artists": [
-        {
-          "name": "Dante Elephante",
-          "url": "https://open.spotify.com/artist/3RdlkFPALHduIIZSinXgJZ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Find Somebody to Love",
-      "url": "https://open.spotify.com/track/7D4mBnlIlSG7VBvAljjkZS"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Warm Blanket",
         "url": "https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 204406,
       "name": "Play Pretend",
       "url": "https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Linda Vista",
+        "url": "https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g"
+      },
+      "artists": [
+        {
+          "name": "Henry Wolfe",
+          "url": "https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4"
     }
   ],
   "unique_name": "Feel Good Dinner",

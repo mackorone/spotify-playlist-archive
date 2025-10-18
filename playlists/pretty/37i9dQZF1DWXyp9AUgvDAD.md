@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Pierre Garnier et M\. Pokora
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,661 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 613 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

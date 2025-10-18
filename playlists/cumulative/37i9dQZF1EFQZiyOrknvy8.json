@@ -957,6 +957,32 @@
     },
     {
       "album": {
+        "name": "Dolce Amore",
+        "url": "https://open.spotify.com/album/1A6j5r4IOo0HsqG1yvhsgO"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Anica Russo",
+          "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165272,
+      "name": "Dolce Amore (feat. Anica Russo)",
+      "url": "https://open.spotify.com/track/068ZOneuzJlDB3mpD9Rlfc"
+    },
+    {
+      "album": {
         "name": "Not So Silent Night",
         "url": "https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC"
       },

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aO7kAAAAAACKac9lmG3FFB7vQl5wKhwS",
+  "snapshot_id": "aPA1gAAAAAB7exEsC313KZcT8kxGDcDd",
   "tracks": [
     {
       "added_at": null,
@@ -406,11 +406,15 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+      "duration_ms": 231960,
+      "name": "Jump Sit Stand March",
+      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
     },
     {
       "added_at": null,
@@ -478,15 +482,11 @@
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
         }
       ],
-      "duration_ms": 231960,
-      "name": "Jump Sit Stand March",
-      "url": "https://open.spotify.com/track/4oUMZpUbTRTO1FzNgVeq8s"
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 246304,
+      "name": "Seven Sticks of Dynamite",
+      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Candy Pop",
         "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 162748,
       "name": "Candy Pop",
       "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 217205,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 246304,
-      "name": "Seven Sticks of Dynamite",
-      "url": "https://open.spotify.com/track/4Zpq56sTzSWbeO03WL6XBp"
+      "duration_ms": 217205,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Groove Continental: Side A",
-        "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "Disco Body Parts (feat. AWOLNATION)",
-      "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 278867,
       "name": "Table for One (feat. Elohim)",
       "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Groove Continental: Side A",
+        "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "Disco Body Parts (feat. AWOLNATION)",
+      "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 172535,
+      "name": "Actors Have No Shame",
+      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/02JHHLFl8FLvBU1QwQCeod"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 155040,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/34Urb4ACJPDLOkpGBgli2P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Run (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 172535,
-      "name": "Actors Have No Shame",
-      "url": "https://open.spotify.com/track/2YbU0FKAic1peco49W2zal"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+        "name": "Run (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ZMRwsDfAY7Z1smCfmEwlG"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
+      "duration_ms": 174384,
+      "name": "Walking Away",
+      "url": "https://open.spotify.com/track/5EGlRPjdwqWQLDexcHMnwK"
     }
   ],
   "unique_name": "This Is AWOLNATION",

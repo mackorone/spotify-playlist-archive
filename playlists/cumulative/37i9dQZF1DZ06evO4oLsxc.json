@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Twisting (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0"
+    },
+    {
+      "album": {
         "name": "Twisting (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE"
       },
@@ -992,7 +1014,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 225613,
       "name": "Twisting (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
@@ -1066,7 +1088,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 223480,
       "name": "Veranda (feat. CARI)",
       "url": "https://open.spotify.com/track/27tCU1eQ9zMKCKy3HTMUIt"

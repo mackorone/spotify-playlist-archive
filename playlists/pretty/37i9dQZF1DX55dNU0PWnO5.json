@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Theo Croker",
-  "num_followers": 581263,
+  "num_followers": 581252,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/IQbalnmrmMCYCRtRGsVj6KIKT",
+  "snapshot_id": "AAAAAMKlL6VBiSiv/VZEN0xJHcqli0ZY",
   "tracks": [
     {
       "added_at": "2025-09-26 04:00:30",
@@ -51,6 +51,42 @@
       "duration_ms": 190280,
       "name": "Dream Hands",
       "url": "https://open.spotify.com/track/4W7rVsfbus12XYb3IxG6MG"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "Chicago Four",
+        "url": "https://open.spotify.com/album/6nGxNNR7dnQ1PWxyOn7FcV"
+      },
+      "artists": [
+        {
+          "name": "SML",
+          "url": "https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj"
+        }
+      ],
+      "duration_ms": 213613,
+      "name": "Chicago Four",
+      "url": "https://open.spotify.com/track/0ItbJ3oUSk9eca9cLaPiAB"
+    },
+    {
+      "added_at": "2025-10-17 04:00:52",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/01Gi66AgxBlxs47qLBKOJg"
+      },
+      "artists": [
+        {
+          "name": "DAWSON",
+          "url": "https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02"
+        },
+        {
+          "name": "Lewis McCallum",
+          "url": "https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn"
+        }
+      ],
+      "duration_ms": 172677,
+      "name": "Parallel",
+      "url": "https://open.spotify.com/track/19FzgTmZaepdeXBqHm87VD"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -2809,22 +2845,6 @@
       "url": "https://open.spotify.com/track/36ZQaiSc52GUIbw5YbFUHU"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Neon Afterglow",
-        "url": "https://open.spotify.com/album/4UvRcOGBZHA5yqG6ytDssp"
-      },
-      "artists": [
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 256842,
-      "name": "Neon Afterglow",
-      "url": "https://open.spotify.com/track/5gafFoQtekM5jI7LLmQ7OD"
-    },
-    {
       "added_at": "2021-12-07 16:34:30",
       "album": {
         "name": "Pulse",
@@ -3447,22 +3467,6 @@
       "duration_ms": 60000,
       "name": "one minute story 6",
       "url": "https://open.spotify.com/track/1XbzVH0fHk3VSZH0zwmEkd"
-    },
-    {
-      "added_at": "2022-04-25 13:59:49",
-      "album": {
-        "name": "PRNDL.wav",
-        "url": "https://open.spotify.com/album/5iXVTGoscfB9MMl5YB8Hjr"
-      },
-      "artists": [
-        {
-          "name": "PRNDL",
-          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
-        }
-      ],
-      "duration_ms": 177036,
-      "name": "PRNDL.exe",
-      "url": "https://open.spotify.com/track/0e769kt6Sk1QMKZdeveyKx"
     },
     {
       "added_at": "2022-01-28 05:01:00",

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: yowha
 
-5,154 songs - 13 day 3 hr 40 min
+5,155 songs - 13 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3898,6 +3898,7 @@
 | [Sea of Noise](https://open.spotify.com/track/62k72kY9YY1PX5yP26c5dT) | [Alir,](https://open.spotify.com/artist/0Pq8nd1mAbHneIlYiO07o5) | [Sea of Noise](https://open.spotify.com/album/0HbMK82fCmH5oseSdzqzaV) | 4:20 | 2025-07-10 | 2025-08-08 |
 | [Seakan Baik\-Baik Saja](https://open.spotify.com/track/6UMRYnasBHEilUM8eubCUD) | [Dizi](https://open.spotify.com/artist/0YOadspk6vvjQrY4OpuSGj) | [Seakan Baik\-Baik Saja](https://open.spotify.com/album/4PN9BGu5MLTvNuDKYB22B2) | 3:45 | 2023-10-19 | 2023-11-10 |
 | [Seandainya](https://open.spotify.com/track/1fZlGZXkWiEWByKEw0Ifhv) | [Andri’s](https://open.spotify.com/artist/0nV6AFM75hs3X5azGGG7X5) | [Seandainya](https://open.spotify.com/album/5FRwyB7EcfcDZ8u2Ge1nOj) | 4:09 | 2023-11-30 | 2023-12-30 |
+| [Seandainya](https://open.spotify.com/track/1kwQyWrkFUB2MNrJUMqPPA) | [Jerome Boneta](https://open.spotify.com/artist/2Bnl53cu4hJg7WHz9ntwyX) | [Seandainya](https://open.spotify.com/album/0X3LuWYaJH6wfOooTD20b8) | 4:09 | 2025-10-16 |  |
 | [Search And Rescue](https://open.spotify.com/track/53L3nYdKWFtjgxcFiSSGSc) | [FoeyFoeyFoey](https://open.spotify.com/artist/2uu1JLnbQG3llBZcWVoZD5) | [Search And Rescue](https://open.spotify.com/album/3VYoAGt1ca8epAcnMHPe20) | 3:17 | 2024-12-19 | 2025-02-07 |
 | [Seasons](https://open.spotify.com/track/0Iy9YCeHqPEScDWbAMtRKj) | [Alex Teh](https://open.spotify.com/artist/0RO08FqySaEmUQMwVC5N36) | [Seasons](https://open.spotify.com/album/3sIRls2O6e6goPBiKpEMbB) | 3:49 | 2024-04-25 | 2024-05-17 |
 | [Sebarkanlah Cuan](https://open.spotify.com/track/1PyriMZbeGcLvtqnAMzldr) | [Makku](https://open.spotify.com/artist/4FadTLJNnEoCL2rC8m1pA4) | [Sebarkanlah Cuan](https://open.spotify.com/album/612GgAZLXXVRAjSERSR2x5) | 3:59 | 2025-10-16 |  |

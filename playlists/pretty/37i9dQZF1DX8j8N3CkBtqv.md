@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Garvit\-Priyansh, Dikshant and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,145 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,313 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 37 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 |
 | 38 | [Ishq Chalawa](https://open.spotify.com/track/45ZPKXU7QFh3Bz3HUh4uRj) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Ishq Chalawa](https://open.spotify.com/album/4fj1oANSu69BUrvX50cZaC) | 3:26 |
 | 39 | [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 |
-| 40 | [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 |
-| 41 | [Chaand](https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Chaand](https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW) | 2:51 |
+| 40 | [Chaand](https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Chaand](https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW) | 2:51 |
+| 41 | [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 |
 | 42 | [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 |
 | 43 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
 | 44 | [Jaane Do Mujhe](https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Jaane Do Mujhe](https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE) | 3:45 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Fleezus",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: NandaTsunami",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 156428,
       "name": "1001 Noites",
       "url": "https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p"
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 149333,
       "name": "aquarela",
       "url": "https://open.spotify.com/track/0BS7rtXxQReFm41td7C2XX"
@@ -3417,6 +3417,28 @@
     },
     {
       "album": {
+        "name": "BIGMAMA",
+        "url": "https://open.spotify.com/album/7vs6UQHM7VNNn9rHMNXRIj"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123637,
+      "name": "BIGMAMA",
+      "url": "https://open.spotify.com/track/5szt47hhoNY9RUMsqsVbcY"
+    },
+    {
+      "album": {
         "name": "Bin Salabin",
         "url": "https://open.spotify.com/album/11WhprrV9JeA8VRx0gLWhk"
       },
@@ -3528,7 +3550,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 201000,
       "name": "Blues da Piedade",
       "url": "https://open.spotify.com/track/2b4QXOUPzvKm0YsDeDTpwo"
@@ -5522,7 +5544,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 193000,
       "name": "Compromisso",
       "url": "https://open.spotify.com/track/0bYZITJFGrKVHgsugGrzU7"
@@ -7235,6 +7257,36 @@
     },
     {
       "album": {
+        "name": "Desigualdade Social",
+        "url": "https://open.spotify.com/album/4YZ3AaIXDWOcefLMZHaCeZ"
+      },
+      "artists": [
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "DJ Murillo",
+          "url": "https://open.spotify.com/artist/3oo4KrgV0t3uqQ4e7jHHNs"
+        },
+        {
+          "name": "LT no Beat",
+          "url": "https://open.spotify.com/artist/2zZ8ZlWL4PZpPAFtmq4cwr"
+        },
+        {
+          "name": "LUDV1C",
+          "url": "https://open.spotify.com/artist/4UyMYD3bP7dsBWJtRXZp6o"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170565,
+      "name": "Desigualdade Social",
+      "url": "https://open.spotify.com/track/65Hn8e8XKKs0rs7VKALJsJ"
+    },
+    {
+      "album": {
         "name": "OL\u00cdMPICO / DESMISTIFICAR",
         "url": "https://open.spotify.com/album/6giyzGKGfLFC269yFZAdbz"
       },
@@ -8151,6 +8203,32 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3ouNBeJZCZDCEMO4uQcETZ"
+      },
+      "artists": [
+        {
+          "name": "IFT",
+          "url": "https://open.spotify.com/artist/31h6ggShqrpgV5gPR9u5YJ"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "shots!",
+          "url": "https://open.spotify.com/artist/3EGzDrdM5hC1GYCf980b49"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/2eqh4mgDpB0z2jufOPvWQM"
+    },
+    {
+      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/4ZkYOm4XXMJvhc1ouMkEXx"
       },
@@ -8488,7 +8566,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 97027,
       "name": "Ela por Mim",
       "url": "https://open.spotify.com/track/2FGoAPhSLgk63CrwAk0NJN"
@@ -14508,7 +14586,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 152727,
       "name": "Malandro Erudito",
       "url": "https://open.spotify.com/track/25HLJoNerrT00EMH6VL8qc"
@@ -17733,6 +17811,28 @@
     },
     {
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5ag8g1wUpfwNGb3npSb4jx"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/33iOAKRA2RmRPz8VjbHUib"
+    },
+    {
+      "album": {
         "name": "Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/6yxZTasbDtlUB2gzyWu9ZK"
       },
@@ -19012,7 +19112,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 169714,
       "name": "O Que a Cena Precisa",
       "url": "https://open.spotify.com/track/6GLoE264LXP1AjbLMe25y7"
@@ -19643,6 +19743,36 @@
     },
     {
       "album": {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
+    },
+    {
+      "album": {
         "name": "PACE DE MALANDRO",
         "url": "https://open.spotify.com/album/4ejYYf1OThpQ3Kj88YXByR"
       },
@@ -19850,6 +19980,54 @@
       "duration_ms": 196666,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/7eaVFDLCZazNkKaufr4AAZ"
+    },
+    {
+      "album": {
+        "name": "Parece que foi ontem",
+        "url": "https://open.spotify.com/album/6g7pQcJ2A5Hb3IIXLb44ik"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/3BZG7SUknCMhBAKY4Doe0j"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Parece que foi ontem",
+      "url": "https://open.spotify.com/track/0SCYa7OKakP0wcExccYuuW"
+    },
+    {
+      "album": {
+        "name": "Passaporte Cheio",
+        "url": "https://open.spotify.com/album/7EU8L4CtpVhj33iGA3bTws"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Passaporte Cheio",
+      "url": "https://open.spotify.com/track/4LR1Hgs95qV9SJaeGcpOUy"
     },
     {
       "album": {
@@ -22695,6 +22873,28 @@
     },
     {
       "album": {
+        "name": "Quem \u00c9 Voc\u00ea ?",
+        "url": "https://open.spotify.com/album/2PAOTuYYVflDdkiQ7HNf2H"
+      },
+      "artists": [
+        {
+          "name": "Gyylo",
+          "url": "https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS"
+        },
+        {
+          "name": "OrdinaryJoe",
+          "url": "https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121517,
+      "name": "Quem \u00c9 Voc\u00ea ?",
+      "url": "https://open.spotify.com/track/0XLbjpLEfZmvF0rTl51plG"
+    },
+    {
+      "album": {
         "name": "Quem?!",
         "url": "https://open.spotify.com/album/487CkbGur6dRM4UYW3pJTm"
       },
@@ -24300,7 +24500,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 277624,
       "name": "Salem Al-Dawsari",
       "url": "https://open.spotify.com/track/5xUHardcwn0AWg1NUUsXZy"

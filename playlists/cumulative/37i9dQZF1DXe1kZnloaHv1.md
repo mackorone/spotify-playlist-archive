@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-115 songs - 6 hr 12 min
+118 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,9 +46,11 @@
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2024-04-17 |  |
 | [Going Under](https://open.spotify.com/track/6pmSjlslSDwvKrhm2eD49o) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:16 | 2025-07-23 |  |
 | [Gulping laziness](https://open.spotify.com/track/03Z63iglmQEP6XtIJ9DmNI) | [weather](https://open.spotify.com/artist/4F26Ae7GmQK9iqv4M7vJsr) | [Gulping laziness](https://open.spotify.com/album/7oHqgsdNXSol1p0H8jnCwj) | 1:53 | 2025-05-22 |  |
+| [Gwichanist](https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j) | [Gwichanist](https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7) | 3:14 | 2025-10-17 |  |
 | [hedgehog](https://open.spotify.com/track/2SxA30by4pd5qe3l51w1C2) | [Gem i](https://open.spotify.com/artist/0y5WRR0mZAba6oEEquKe6p) | [HEDGEHOG](https://open.spotify.com/album/6ufwHevkTE4KoHoPttcsVq) | 3:02 | 2025-07-31 |  |
 | [Holiday](https://open.spotify.com/track/6EK23kYj5odyKUxLSXK3JS) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Holiday](https://open.spotify.com/album/3WXTRGYDn5wZ7viTikD0KD) | 3:58 | 2023-11-09 |  |
 | [Homebody](https://open.spotify.com/track/6N2d5ik13stTUx3aMLuKUH) | [6Allmy Sunshine](https://open.spotify.com/artist/554mb4DkPmrRGhpVz7o0Rr) | [Homebody](https://open.spotify.com/album/0hgcL8aqYqpe2EpWO5YwyF) | 3:44 | 2025-07-02 |  |
+| [Homebody](https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [staying](https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG) | 3:42 | 2025-10-17 |  |
 | [Honbob Song](https://open.spotify.com/track/7cgrqYqcpuVvkRUxoj1Dgw) | [JeongEun Seo](https://open.spotify.com/artist/5J8WUPow9twuYcVjpTCyPW) | [Honbob Song](https://open.spotify.com/album/5iszn5kAurpExmM5Ar8IgQ) | 2:50 | 2023-11-09 |  |
 | [Humdrum](https://open.spotify.com/track/6lm3YcWi2ELilyurp2cVie) | [Mustang Sally](https://open.spotify.com/artist/2I1EYHv6x6U7cjlqJ5QTC2) | [Sally’s Restaurant](https://open.spotify.com/album/3hcYWlow1oVOZNkl1TCVI8) | 4:32 | 2025-05-28 |  |
 | [I LUV IT](https://open.spotify.com/track/0sEWGO1ajAmgln6B4lkuKb) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 8th 4X2=8](https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi) | 3:08 | 2023-11-09 | 2025-04-09 |
@@ -89,6 +91,7 @@
 | [Shrimp with Mental Illness](https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 3:10 | 2023-11-09 |  |
 | [Silky](https://open.spotify.com/track/0vq0jeNuAKYryydXzZUoYw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [PERCENT](https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW) | 2:34 | 2025-07-17 |  |
 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2023-11-09 |  |
+| [So Special](https://open.spotify.com/track/2VQPKULIah0mTBZyaac7RS) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2hQrHvM24SifVMH30qCbKU) | 3:19 | 2025-10-17 |  |
 | [SO WHAT](https://open.spotify.com/track/6hC2Qn11Fzw4Ufi4XH6z2m) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 2:58 | 2025-09-08 |  |
 | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/track/38t9a8VqpAJECDZxmw7811) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/album/37zHF0IjiuHCBZcwY8KSHj) | 2:50 | 2025-06-11 |  |
 | [Something Casual](https://open.spotify.com/track/1eqzWjF4C3upoquBmoLnwh) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Something Casual](https://open.spotify.com/album/28TW1djKaHKzXtrGeu4etl) | 3:20 | 2023-11-09 |  |
@@ -100,7 +103,7 @@
 | [things happen](https://open.spotify.com/track/601WGVoiTsZLB9qcc4Ae0F) | [gyomunapchick](https://open.spotify.com/artist/4vqiBnhsibr88FzJEGhlEg) | [mindset](https://open.spotify.com/album/2OlnR72oOhgAvPmZRj8BAW) | 3:12 | 2023-11-09 |  |
 | [Thursday Taco Man](https://open.spotify.com/track/4VZioVdtvf3NTW9YDZKJMw) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Thursday Taco Man](https://open.spotify.com/album/5jMXKuGYikxGM8wpFARRL2) | 3:02 | 2024-10-08 |  |
 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 | 2025-09-08 |  |
-| [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2023-11-09 |  |
+| [Tomorrow \(Feat\. GIRIBOY, BIG Naughty\)](https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 4:36 | 2023-11-09 | 2025-10-18 |
 | [Too lazy](https://open.spotify.com/track/3mVnIJd0G6QXCUd7qjknS0) | [Kwon Han Kyung](https://open.spotify.com/artist/7v8HgyivGw13h8wCviw5wl) | [Too lazy](https://open.spotify.com/album/3f7bSVkQCCuOouO5ZsewEy) | 3:48 | 2025-04-16 |  |
 | [Weightless](https://open.spotify.com/track/7g4X7EwMbW8LiCMGmHXW1I) | [SoNakByul](https://open.spotify.com/artist/2DvzRlivZ3gnMF2Z8xhflM) | [Weightless](https://open.spotify.com/album/0LXwyJ38ryNCzkdEcUbLeS) | 2:16 | 2024-08-10 |  |
 | [WHAT](https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq) | [Plum](https://open.spotify.com/artist/4srsioGBsXTm1SM18U5TeZ) | [WHAT](https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH) | 3:31 | 2023-11-09 | 2025-05-08 |

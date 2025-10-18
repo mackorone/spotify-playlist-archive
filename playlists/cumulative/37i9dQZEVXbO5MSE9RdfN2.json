@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 193786,
       "name": "AAAHH MEN!",
       "url": "https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD"
@@ -11899,6 +11899,24 @@
     },
     {
       "album": {
+        "name": "Fearful Thing",
+        "url": "https://open.spotify.com/album/4iNEMiPAdu3vjpKok86CgD"
+      },
+      "artists": [
+        {
+          "name": "The Soulful Gentlemen",
+          "url": "https://open.spotify.com/artist/3M6UgRvHTQPAjBZVYbDDzU"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227319,
+      "name": "Fearful Thing",
+      "url": "https://open.spotify.com/track/1kgZgssoMOPX4XJ7U140RT"
+    },
+    {
+      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
       },
@@ -22205,6 +22223,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT"
+    },
+    {
+      "album": {
         "name": "Love Balloon",
         "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
       },
@@ -23722,10 +23758,28 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 143466,
       "name": "Maui Wowie",
       "url": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Flew To The Moon (Vol. 1)",
+        "url": "https://open.spotify.com/album/4AOuaSsHC7Y0R7ovt98aEo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Maui Wowie",
+      "url": "https://open.spotify.com/track/7uJUDd92ZfawO5clVSY0dq"
     },
     {
       "album": {
@@ -26180,7 +26234,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -39042,6 +39096,24 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "album": {
+        "name": "Unshaken",
+        "url": "https://open.spotify.com/album/5esDxI1Ii86YJV3O3P1p9R"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232701,
+      "name": "Unshaken",
+      "url": "https://open.spotify.com/track/5aozioXEMgxyttOvxCsckp"
     },
     {
       "album": {

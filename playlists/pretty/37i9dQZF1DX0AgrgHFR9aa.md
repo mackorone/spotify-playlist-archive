@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Oxmo Puccino
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,710 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,713 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ne pas m'aimer](https://open.spotify.com/track/08L1ePVF6FfAuw3C8b07iy) | [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [](https://open.spotify.com/album/null) | 2:57 |
+| 1 | [Ne pas m'aimer](https://open.spotify.com/track/08L1ePVF6FfAuw3C8b07iy) | [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [LA HAUTEUR DE LA LUNE](https://open.spotify.com/album/6rv2HuS4hmqDktFV04TeBU) | 2:57 |
 | 2 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 |
 | 3 | [J'attends](https://open.spotify.com/track/2bniQFXQRtmHcEx35GJTsN) | [Antes & Madzes](https://open.spotify.com/artist/7Admld0N9GuvBOpoDpje6s) | [J'attends](https://open.spotify.com/album/15YnmEYwfWffBHeRjMqDTR) | 3:31 |
 | 4 | [Ce qui restera](https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Dieu Donne, J’utilise part.1](https://open.spotify.com/album/2d7lwWCSsSZU62EuuJulKg) | 2:56 |

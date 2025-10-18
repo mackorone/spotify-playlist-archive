@@ -4691,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "Swingtime",
+        "url": "https://open.spotify.com/album/6rvRDjHIizyU8FX4sWVJZN"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "The Kingdom Of Swing",
+      "url": "https://open.spotify.com/track/3sMeX7T0tJbOJGMPXDBF46"
+    },
+    {
+      "album": {
         "name": "Big Band Theory - 100 Big Band Classics",
         "url": "https://open.spotify.com/album/6galFCKKM53VgqZavvlUx3"
       },
@@ -4702,7 +4720,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-18",
       "duration_ms": 174013,
       "name": "The Kingdom of Swing",
       "url": "https://open.spotify.com/track/4T0RXzSXBdId7REXezxeEl"
