@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Ty Dolla $ign, Rod Wave, Gucci Mane and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,581 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,643 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 2 | [Leavin](https://open.spotify.com/track/7Lo6USa0PiDkwSL3SkohSi) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Leavin](https://open.spotify.com/album/3vz6TtkNMj2rdOIsJsTA3I) | 2:48 |
 | 3 | [Still So Icy](https://open.spotify.com/track/7cTIf611RVrYtY0jefK51u) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 3:04 |
 | 4 | [Mirroronnabenz \(with BNYX®\)](https://open.spotify.com/track/5Vip1MOeAfQ5weKGYBXpI0) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Mirroronnabenz](https://open.spotify.com/album/38mqpaec0dbvLDMiX6Jjox) | 2:22 |
-| 5 | [In Ya City](https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [In Ya City](https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr) | 2:15 |
+| 5 | [In Ya City](https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [In Ya City](https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr) | 2:10 |
 | 6 | [Letter To My Block](https://open.spotify.com/track/13t9AfJrAFiOJm5ZSODads) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Letter To My Block](https://open.spotify.com/album/4sEo0V4bfSD5iV3ZOowPlz) | 3:14 |
 | 7 | [Big Dawg Status](https://open.spotify.com/track/5TszhspXFf2yrLh9CiWgyy) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Big Dawg Status](https://open.spotify.com/album/7bLog9WI6NtbaMN5tVwBIf) | 3:32 |
 | 8 | [LMAO](https://open.spotify.com/track/4tL7cu2Ta3r4FZKtSumlMS) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [LMAO](https://open.spotify.com/album/7JsNiyPwf5SpOxKrTYVHI6) | 1:54 |

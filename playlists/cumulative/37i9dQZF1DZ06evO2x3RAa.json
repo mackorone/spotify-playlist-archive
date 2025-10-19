@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "51 Lex Presents: O'Nambia",
+        "url": "https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556386,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1ECNL67v28kSomKEsK37C5"
+    },
+    {
+      "album": {
         "name": "The Gospel Of Ozziddi",
         "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
       },
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 398880,
       "name": "Weep Not Children",
       "url": "https://open.spotify.com/track/5lYJ1zx2PZEh5iqYLS3x9i"

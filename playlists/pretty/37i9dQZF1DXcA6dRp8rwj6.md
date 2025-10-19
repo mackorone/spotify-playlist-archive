@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover:  Yuki Chiba, Big Sean\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,039 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,071 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 2 | [PT Cruiser](https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [PT Cruiser](https://open.spotify.com/album/466dbk7Myb4b5ptqAFwrGv) | 3:44 |
 | 3 | [Back Cooking](https://open.spotify.com/track/7CycwjLRm7wKubir9PCXXd) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 2:37 |
 | 4 | [coke nails](https://open.spotify.com/track/5DuAY3aXh2YiDDRhiyyWwC) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [coke nails](https://open.spotify.com/album/1NN4DryQ01CVQSDD07on94) | 3:02 |
-| 5 | [In Ya City](https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [In Ya City](https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr) | 2:15 |
+| 5 | [In Ya City](https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [In Ya City](https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr) | 2:10 |
 | 6 | [Letter To My Block](https://open.spotify.com/track/13t9AfJrAFiOJm5ZSODads) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Letter To My Block](https://open.spotify.com/album/4sEo0V4bfSD5iV3ZOowPlz) | 3:14 |
 | 7 | [START TO FiNiSH \- S.T.F](https://open.spotify.com/track/2cosCEbJVLuKb9W2dttgBn) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [START TO FiNiSH \- S.T.F](https://open.spotify.com/album/3JlQviJIx9W8AAdIiIrQZz) | 1:56 |
 | 8 | [8UP](https://open.spotify.com/track/1zaoqL7kjrrKiMuMqhH65C) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [8UP](https://open.spotify.com/album/1L3pPangBpYOvdgTLZHai2) | 2:43 |

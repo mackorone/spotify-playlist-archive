@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-420 songs - 1 day 2 hr 14 min
+421 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Kannadi Koottil](https://open.spotify.com/track/3GJOpPMoYpv2mkPSJa3mWX) | [Derby Tomhills](https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8), [Ashley Brownie](https://open.spotify.com/artist/4HuyfoUfbeZJLJ8oSNLc2S) | [Kannadi Koottil](https://open.spotify.com/album/3UJ8e89MqM8Xi2G1Lc8jGi) | 3:28 | 2025-06-06 | 2025-08-02 |
 | [Kanne \- Namah](https://open.spotify.com/track/3HIY7dBeJVAl8lIkFijDd7) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI), [Anandraj Benjamin Paul](https://open.spotify.com/artist/2mx8hHr8DpgOzv6gURprW5) | [Namah](https://open.spotify.com/album/0rwlL4cHDpPHUhdMGlk3Ew) | 4:55 | 2023-07-27 | 2024-03-09 |
 | [Kannodu \- Live](https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Kannodu \(Live\)](https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK) | 3:37 | 2025-04-04 |  |
+| [Karmi](https://open.spotify.com/track/5KBX5XW0QHcLbeEgxF9APg) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Umoja](https://open.spotify.com/album/7in4aRp2Sjz8x2hpbVHGYt) | 4:54 | 2025-10-18 |  |
 | [Karthi Kalyani](https://open.spotify.com/track/6dvZ9YupWV18hSwdDo8jza) | [Joel Johns](https://open.spotify.com/artist/0BiabvD708qvkGYVADsHA3), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Karthi Kalyani](https://open.spotify.com/album/5fvzCfvjT7yKgP3yEiNweZ) | 4:41 | 2023-07-18 | 2023-07-28 |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-12-22 | 2024-08-21 |
 | [Karupp](https://open.spotify.com/track/6NH0ta5RMkQZUjxNYoVeKg) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [anxious](https://open.spotify.com/artist/6PGTb8THZQGSwivV5z26Vj) | [Varthamanam](https://open.spotify.com/album/7LOWpo19ROx5TL0qYTEsnp) | 3:07 | 2025-10-03 |  |
@@ -229,7 +230,7 @@
 | [Mizhikal](https://open.spotify.com/track/343mJaVSEOGCPzQi2liO5c) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Sebesteena](https://open.spotify.com/artist/2vhFiDb28NHjV4m5ozmeNV) | [Mizhikal](https://open.spotify.com/album/7DGikq1T3tt1SZjoSfKRiY) | 3:14 | 2022-08-01 | 2023-07-29 |
 | [Mizhikalal](https://open.spotify.com/track/6ugUcYTehPPB89m7PAnsSA) | [Nishad jain](https://open.spotify.com/artist/6BODYGLbxpQqQqN48IF0uC), [Aswin GS](https://open.spotify.com/artist/3kOoAJ34nWFVUrOzkykvYa), [Anoop Devadas](https://open.spotify.com/artist/1Xtv3nifcSAmlnjTAAoDkR) | [Mizhikalal](https://open.spotify.com/album/3tH20PXkUh7EqCEBfhlfBe) | 4:14 | 2023-07-10 | 2023-07-28 |
 | [Mohabbat \- Love with Pride](https://open.spotify.com/track/5V5KX1hSWUxIvwR6Fa6Dwn) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l) | [Mohabbat \- Love with Pride](https://open.spotify.com/album/7yGFU0a91t5w56SPBMjLA2) | 3:46 | 2023-07-27 | 2024-02-15 |
-| [Mokshamu Galada \- Saramathi](https://open.spotify.com/track/37shR8Ft0DWYTeGH3IBN9w) | [Rithul Raphael](https://open.spotify.com/artist/6WUKxqbt9LctTDHZ9qooYx) | [Mokshamu Galada \- Saramathi](https://open.spotify.com/album/16KRQSJtGUuHWQdPmQYZZo) | 2:55 | 2025-07-31 |  |
+| [Mokshamu Galada \- Saramathi](https://open.spotify.com/track/37shR8Ft0DWYTeGH3IBN9w) | [Rithul Raphael](https://open.spotify.com/artist/6WUKxqbt9LctTDHZ9qooYx) | [Mokshamu Galada \- Saramathi](https://open.spotify.com/album/16KRQSJtGUuHWQdPmQYZZo) | 2:55 | 2025-07-31 | 2025-10-19 |
 | [Monsoon Love](https://open.spotify.com/track/1pyX4R3ZJwOhtRbo69uRgF) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Fahad Rahman](https://open.spotify.com/artist/4e1wH2L6P8CVWq1z4kdCif), [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y) | [Monsoon Love](https://open.spotify.com/album/3EG6o2lGu0ekYP5u1mAqzq) | 3:27 | 2022-08-30 | 2023-07-28 |
 | [Moula Mere](https://open.spotify.com/track/4BosVT8DgK8TYcjpWjbgYs) | [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Ramees.km](https://open.spotify.com/artist/4YU2FQMxkTQ6aEHwkSV2Z7), [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy) | [Moula Mere](https://open.spotify.com/album/7vC74xe0DHiQeEk0lldKh8) | 4:12 | 2024-04-30 | 2024-11-05 |
 | [Mounam](https://open.spotify.com/track/7FwzgH11q5eScAHu29yyZ0) | [Jan Sam Bobby](https://open.spotify.com/artist/715dF2SfXy287VWRRzddFR), [Denna Ann Jacob](https://open.spotify.com/artist/1r76R0g2wnNCFtsUnyGa0r) | [Mounam](https://open.spotify.com/album/7cfUJevx9LomCq3gs866P7) | 3:13 | 2024-10-08 | 2025-05-31 |

@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 118695,
       "name": "a good man with a broken heart",
       "url": "https://open.spotify.com/track/07fNxq0gkGFZpAYCTd0v2A"
@@ -5387,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
+    },
+    {
+      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
@@ -5398,7 +5416,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
@@ -9797,6 +9815,24 @@
     },
     {
       "album": {
+        "name": "i love u.",
+        "url": "https://open.spotify.com/album/73sRvGomId5b6ACoPNDuye"
+      },
+      "artists": [
+        {
+          "name": "wiv",
+          "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122086,
+      "name": "i love u.",
+      "url": "https://open.spotify.com/track/4XxJF5UIyLXnm5HB53wM9P"
+    },
+    {
+      "album": {
         "name": "I LOVE YOU SO JUMPSTYLE",
         "url": "https://open.spotify.com/album/13wMHcPH63ZmggCoKEWVCI"
       },
@@ -13246,7 +13282,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 142706,
       "name": "Modafinil",
       "url": "https://open.spotify.com/track/5Q7KHM22Zp0FPVTmYUA1DK"
@@ -14914,7 +14950,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 131006,
       "name": "New Computers",
       "url": "https://open.spotify.com/track/5UHCUWXiKMbCV2bSSikc9x"
@@ -22992,7 +23028,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 175273,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3oByO94xgLnworeBgkCsGo"
@@ -26038,7 +26074,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 101298,
       "name": "\u0412\u044b\u043d\u043e\u0441",
       "url": "https://open.spotify.com/track/3DGmQMPnejcuXcHKNdj617"
@@ -29164,7 +29200,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 117130,
       "name": "\u041b\u0410\u0411\u0423\u0411\u0410",
       "url": "https://open.spotify.com/track/1J0i1k3d3m8BEXNUDJc8lY"
@@ -34228,7 +34264,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 90888,
       "name": "\u0440\u0430\u0441\u043f\u044f\u0442\u044c - folk remix",
       "url": "https://open.spotify.com/track/3jINdvTOF3PHlQouWbJ3rA"
@@ -34378,7 +34414,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 170303,
       "name": "\u0440\u043e\u0436\u043e\u043d",
       "url": "https://open.spotify.com/track/3T9Rb5Nembz4JWZjlFJbSQ"
@@ -35524,7 +35560,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 208695,
       "name": "\u0421\u0441\u0430\u0433\u0430 \u043e \u0425\u0440\u0430\u0431\u0440\u043e\u043c \u0413\u043e\u0434\u0432\u0438\u043d\u0435",
       "url": "https://open.spotify.com/track/2XBm388L8sx9INVIokgTwY"

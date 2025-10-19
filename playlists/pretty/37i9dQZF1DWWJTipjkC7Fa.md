@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,071 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,095 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 50 | [Hope Floats](https://open.spotify.com/track/5Buw6GARBOaCdANUbhQyR1) | [Jesse and the Dandelions](https://open.spotify.com/artist/0Gn5sUjuM1DpB6lXzHNZI4) | [Hope Floats](https://open.spotify.com/album/1tHZGoZFPQp1phUXNE5vKR) | 2:19 |
 | 51 | [Fire On Fire](https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:06 |
 
-Snapshot ID: `AAAAALT6cMTYpbHbRDE7FhxEj1BaIVNC`
+Snapshot ID: `AAAAAHz349U84AcsqFqOA/MXjz95aAZp`

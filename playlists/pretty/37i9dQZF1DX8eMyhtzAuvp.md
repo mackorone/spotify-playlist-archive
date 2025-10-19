@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > take me back to the night we met \(\*ᴗ͈ˬᴗ͈\)ꕤ\*.ﾟ
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,063 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,545 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 44 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 |
 | 45 | [Got To Be Mine](https://open.spotify.com/track/6tAHoWuZoM6QprTo61SBne) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ) | [Dot](https://open.spotify.com/album/4voc4nmHBjqM4Dm5rjMDUs) | 3:08 |
 
-Snapshot ID: `AAAAANQeLLg++5IK0p4rYNexDuF+NsDr`
+Snapshot ID: `AAAAABqOOB9BPq+X1m4yg0nUdlacTuQt`

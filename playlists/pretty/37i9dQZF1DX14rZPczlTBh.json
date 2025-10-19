@@ -1,6 +1,6 @@
 {
   "description": "Themes to groove to from Telugu Movies!\n\nCover: Saripodhaa Sanivaaram",
-  "num_followers": 40437,
+  "num_followers": 40476,
   "original_name": "Tollywood Themes",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
+        "name": "Guntur Kaaram - OST",
+        "url": "https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Hero Intro",
+      "url": "https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
         "name": "Mirapakay",
         "url": "https://open.spotify.com/album/7jsaQdNi0QERa22Wm7NVq7"
       },
@@ -399,6 +415,22 @@
       "duration_ms": 76226,
       "name": "Mirapakai",
       "url": "https://open.spotify.com/track/5XzWkd0hxTesChmAs2o00G"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
+        "name": "Jersey (Original Background Score)",
+        "url": "https://open.spotify.com/album/44f9oPlMaeYuApesdVp658"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Arjun & Nani\u2019s Theme",
+      "url": "https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -423,38 +455,6 @@
       "duration_ms": 55063,
       "name": "Ram Ram Ram Theme (From \"HanuMan\")",
       "url": "https://open.spotify.com/track/2x3zExs91f1xC862CTRcUI"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Jersey (Original Background Score)",
-        "url": "https://open.spotify.com/album/44f9oPlMaeYuApesdVp658"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Arjun & Nani\u2019s Theme",
-      "url": "https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Guntur Kaaram - OST",
-        "url": "https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Hero Intro",
-      "url": "https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -505,6 +505,46 @@
       "url": "https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB"
     },
     {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
+        "name": "Bheemla Nayak",
+        "url": "https://open.spotify.com/album/4VGIZBQoLclIUMcCH3ib0V"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vaishnavi kovvuri",
+          "url": "https://open.spotify.com/artist/2e8geRUaKO1nGgd58eQd7i"
+        },
+        {
+          "name": "Pratyusha pallapothu",
+          "url": "https://open.spotify.com/artist/5wIE1GgXP6vQaecIfOKbYC"
+        },
+        {
+          "name": "Rachitha Rayaprolu",
+          "url": "https://open.spotify.com/artist/6J13IaOtYRPBaPzPLUzbqx"
+        },
+        {
+          "name": "Parnika Manya",
+          "url": "https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO"
+        },
+        {
+          "name": "Rita Thyagarajan",
+          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        }
+      ],
+      "duration_ms": 242478,
+      "name": "Bheemla Back On Duty",
+      "url": "https://open.spotify.com/track/5WCPHz4v4tbjTZn0PiEUmR"
+    },
+    {
       "added_at": "2024-10-15 07:08:11",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Background Score)",
@@ -519,22 +559,6 @@
       "duration_ms": 215045,
       "name": "Dizzy Dance",
       "url": "https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW"
-    },
-    {
-      "added_at": "2025-02-03 11:41:32",
-      "album": {
-        "name": "Game Changer (Telugu)",
-        "url": "https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 82785,
-      "name": "The Raid",
-      "url": "https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -585,6 +609,22 @@
       "url": "https://open.spotify.com/track/66pcLcrEnus8gEcbmsN4vs"
     },
     {
+      "added_at": "2025-02-03 11:41:32",
+      "album": {
+        "name": "Game Changer (Telugu)",
+        "url": "https://open.spotify.com/album/1in6kxFXYn8dHEnjChR4RO"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 82785,
+      "name": "The Raid",
+      "url": "https://open.spotify.com/track/4rXh49XtpUTwQtKaWy9x1o"
+    },
+    {
       "added_at": "2024-09-25 13:54:27",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Background Score)",
@@ -599,22 +639,6 @@
       "duration_ms": 82036,
       "name": "Surya's Saturday",
       "url": "https://open.spotify.com/track/1yPKhZYC785EHBuqddCg18"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
-        "name": "Dasara (Telugu)",
-        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        }
-      ],
-      "duration_ms": 46791,
-      "name": "Celebration of Vennela",
-      "url": "https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -643,42 +667,18 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Bheemla Nayak",
-        "url": "https://open.spotify.com/album/4VGIZBQoLclIUMcCH3ib0V"
+        "name": "Dasara (Telugu)",
+        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
       },
       "artists": [
         {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Vaishnavi kovvuri",
-          "url": "https://open.spotify.com/artist/2e8geRUaKO1nGgd58eQd7i"
-        },
-        {
-          "name": "Pratyusha pallapothu",
-          "url": "https://open.spotify.com/artist/5wIE1GgXP6vQaecIfOKbYC"
-        },
-        {
-          "name": "Rachitha Rayaprolu",
-          "url": "https://open.spotify.com/artist/6J13IaOtYRPBaPzPLUzbqx"
-        },
-        {
-          "name": "Parnika Manya",
-          "url": "https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO"
-        },
-        {
-          "name": "Rita Thyagarajan",
-          "url": "https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF"
-        },
-        {
-          "name": "Lakshmi Meghana",
-          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
         }
       ],
-      "duration_ms": 242478,
-      "name": "Bheemla Back On Duty",
-      "url": "https://open.spotify.com/track/5WCPHz4v4tbjTZn0PiEUmR"
+      "duration_ms": 46791,
+      "name": "Celebration of Vennela",
+      "url": "https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B"
     },
     {
       "added_at": "2024-08-23 06:29:52",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-23 06:29:52",
       "album": {
-        "name": "Shock",
-        "url": "https://open.spotify.com/album/3ebPed5NGhVmrk6fn99Mpk"
-      },
-      "artists": [
-        {
-          "name": "Chakri",
-          "url": "https://open.spotify.com/artist/7puWXcCM8Li3HnKrxc1bEH"
-        }
-      ],
-      "duration_ms": 149628,
-      "name": "Shock Theme",
-      "url": "https://open.spotify.com/track/08VzrRcQmO0qM8oWni6iag"
-    },
-    {
-      "added_at": "2024-08-23 06:29:52",
-      "album": {
         "name": "Vaishnavi Celebration Dance (From \"Baby\")",
         "url": "https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 88000,
       "name": "Vaishnavi Celebration Dance (From \"Baby\")",
       "url": "https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY"
+    },
+    {
+      "added_at": "2024-08-23 06:29:52",
+      "album": {
+        "name": "Shock",
+        "url": "https://open.spotify.com/album/3ebPed5NGhVmrk6fn99Mpk"
+      },
+      "artists": [
+        {
+          "name": "Chakri",
+          "url": "https://open.spotify.com/artist/7puWXcCM8Li3HnKrxc1bEH"
+        }
+      ],
+      "duration_ms": 149628,
+      "name": "Shock Theme",
+      "url": "https://open.spotify.com/track/08VzrRcQmO0qM8oWni6iag"
     },
     {
       "added_at": "2024-09-02 10:43:22",

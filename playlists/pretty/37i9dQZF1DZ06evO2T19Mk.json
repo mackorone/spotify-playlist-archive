@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 591455,
+  "num_followers": 591497,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPA1gAAAAAAxkkwPAdK5Wt56nXhzxnpp",
+  "snapshot_id": "aPGHAAAAAAA+cPFjP4TKDtveq48p3dPR",
   "tracks": [
     {
       "added_at": null,
@@ -252,21 +252,17 @@
       "added_at": null,
       "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Just One Yesterday",
-      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
+      "duration_ms": 203413,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
     },
     {
       "added_at": null,
@@ -324,17 +320,21 @@
       "added_at": null,
       "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 203413,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
+      "duration_ms": 244720,
+      "name": "Just One Yesterday",
+      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
     },
     {
       "added_at": null,

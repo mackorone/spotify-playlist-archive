@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-421 songs - 21 hr 43 min
+424 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Corpse Bride](https://open.spotify.com/track/0bARGmIFiwDIp05EM3PIYt) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Corpse Bride](https://open.spotify.com/album/4LHyzaPhcYIfyyRfmdhHrs) | 3:07 | 2024-09-13 | 2024-10-19 |
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 | 2025-06-12 |
 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 | 2024-11-29 | 2025-07-11 |
+| [Curse](https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Curse](https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2) | 2:57 | 2025-10-16 |  |
 | [Dancing Alone Again](https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Dancing Alone Again](https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C) | 3:11 | 2025-08-28 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Dein Herz](https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Dein Herz](https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5) | 2:48 | 2025-01-10 |  |
@@ -168,7 +169,7 @@
 | [Heimatgfühl](https://open.spotify.com/track/1JB6bYhBfba3wkSFhxZTeU) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Megawatt](https://open.spotify.com/album/2PGvhxLXvgZu6F2OEu5nwN) | 3:23 | 2025-05-08 | 2025-05-16 |
 | [Hell](https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Playgrounds In Ruins](https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc) | 3:19 | 2025-02-07 | 2025-09-15 |
 | [Hey You](https://open.spotify.com/track/1WIHgWVRmvWLyIyzpkcm93) | [Lizzysloaf](https://open.spotify.com/artist/4jGl71C5wK8SCQHgfaa6BN) | [Hey You](https://open.spotify.com/album/4BJ9S9AoqOtP5PmbU8XN8r) | 3:32 | 2025-04-17 | 2025-04-25 |
-| [Hey You](https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Young Bones](https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW) | 3:04 | 2025-09-19 |  |
+| [Hey You](https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Young Bones](https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW) | 3:04 | 2025-09-19 | 2025-10-19 |
 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 | 2024-06-27 | 2025-05-27 |
 | [highway love estate](https://open.spotify.com/track/6yDXUscVGQ9w5P0qVP9Hnf) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [highway love estate](https://open.spotify.com/album/2rpZAnxSvqRIlfofiAi7Pj) | 3:51 | 2024-06-27 | 2024-07-27 |
 | [Highway Wall](https://open.spotify.com/track/0wPHBX77y0r3ssuYmXVuYp) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know](https://open.spotify.com/album/7eRYxG71hJaYFq5ukqLETP) | 2:43 | 2024-06-27 | 2024-07-05 |
@@ -281,6 +282,7 @@
 | [No Quiero Perderte](https://open.spotify.com/track/3LJDNWMVVP5i5qvWIvcuma) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [No Quiero Perderte](https://open.spotify.com/album/57HnrjBWppxIkQCYxRUk5b) | 3:31 | 2025-04-05 |  |
 | [No Time to Cry](https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [No Time to Cry](https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC) | 3:02 | 2024-06-27 |  |
 | [Nora](https://open.spotify.com/track/3gR4EvO5ailvL8HHQn58Pw) | [Samuel Okkosch](https://open.spotify.com/artist/5oD8X0uNFBNvnX98Ci9nND) | [I Brush My Teeth Like I'm Losing a Fight](https://open.spotify.com/album/0iWZCecq6lpT5JLrbyosWQ) | 3:30 | 2025-04-17 | 2025-04-25 |
+| [Nouvelle B\*tch](https://open.spotify.com/track/2cdl0gciaNFSaVS3DiwWdT) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Nouvelle B\*tch](https://open.spotify.com/album/2LPwEDH56tQsQQuLpLuWoS) | 2:05 | 2025-10-16 |  |
 | [Oceans](https://open.spotify.com/track/14Z5Bfgs3KKdxF0BDCObk8) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Oceans](https://open.spotify.com/album/6veaCwYydd9unaXasYUneY) | 3:10 | 2025-09-12 |  |
 | [Old Again](https://open.spotify.com/track/5rU1wFFx3mWFVm2UcTg2Y3) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Old Again](https://open.spotify.com/album/4gI5q0KtsUXV8lNzSVeM5T) | 3:17 | 2024-10-03 | 2024-11-23 |
 | [One Day Will Be All I Have](https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [One Day Will Be All I Have](https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ) | 5:29 | 2025-06-26 |  |
@@ -323,7 +325,7 @@
 | [Sauvage](https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv) | [Julie Meletta](https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1) | [Sauvage](https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL) | 2:57 | 2024-08-26 | 2025-03-16 |
 | [Scars On Your Heart](https://open.spotify.com/track/3EUjGScwQwLvq27r9nhVU1) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Scars On Your Heart](https://open.spotify.com/album/1cSh4EZu0FpUYxJGzayK0n) | 2:53 | 2025-02-14 | 2025-02-28 |
 | [Schlüssu](https://open.spotify.com/track/0NYYj56OODUg2Gz0reX5ZQ) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [Schlüssu](https://open.spotify.com/album/51wb8H7NqVok5rhnSmhhdp) | 2:42 | 2025-04-24 | 2025-05-02 |
-| [Schön](https://open.spotify.com/track/1swGr7I8NjsAu8iZ6MT1Hx) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V), [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Schön](https://open.spotify.com/album/6SgeUyLbCBVSgohKv8x1Ir) | 2:45 | 2025-06-26 |  |
+| [Schön](https://open.spotify.com/track/1swGr7I8NjsAu8iZ6MT1Hx) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V), [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Schön](https://open.spotify.com/album/6SgeUyLbCBVSgohKv8x1Ir) | 2:45 | 2025-06-26 | 2025-10-19 |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |
 | [Seg Wer](https://open.spotify.com/track/30d3dbDTmLoRsdoErGPFkH) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Seg Wer](https://open.spotify.com/album/3ZzgLaGww7ehVMoPNWMgRD) | 1:54 | 2025-07-31 | 2025-08-20 |
 | [September Skies](https://open.spotify.com/track/2MQ6lxKWTVglCe88CDK7Xv) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [September Skies](https://open.spotify.com/album/1A5hVwUNgtvJudlzsnBKdV) | 3:25 | 2025-04-17 | 2025-04-25 |
@@ -341,6 +343,7 @@
 | [So e geili Ziit](https://open.spotify.com/track/3LcblApGZfoFDLOam4qIga) | [Gugge3000](https://open.spotify.com/artist/1eJv3465qsDaqvHk2XdiLN) | [Gugge3000](https://open.spotify.com/album/55Ap5TQg4ZPg7PfLAXsG7e) | 3:41 | 2025-05-08 | 2025-05-16 |
 | [Soft](https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Soft](https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn) | 3:03 | 2024-10-18 | 2025-02-11 |
 | [Softly Speaking](https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Softly Speaking](https://open.spotify.com/album/65rLsfsMNCgtlFE7D2790y) | 3:46 | 2024-06-27 |  |
+| [Sombrero](https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Sombrero](https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi) | 3:01 | 2025-10-16 |  |
 | [Somebody I Don't Know](https://open.spotify.com/track/6K3SFxoNLfiD7TzSPOvAhe) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Smalltown Boy](https://open.spotify.com/album/5S5LYaDfn0aYIJw2W8vWgm) | 3:05 | 2025-02-27 | 2025-04-18 |
 | [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 | 2025-02-07 | 2025-09-13 |
 | [Something to Feel](https://open.spotify.com/track/1ASSFuZqeOVaUxaZYRslF1) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [Something to Feel](https://open.spotify.com/album/6Cc2Sey7WrzrpyhR4h0DSP) | 3:19 | 2025-03-21 | 2025-06-14 |
@@ -374,7 +377,7 @@
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-14 |
 | [Time to Shine](https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Time to Shine](https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt) | 2:43 | 2025-09-08 |  |
 | [Todas Las Flores](https://open.spotify.com/track/3nUMWn4xuHsP3gM23lVvZr) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Las Flores De Mi Barrio](https://open.spotify.com/album/1aXrU0R7Xgf3YYqPNlFx60) | 2:52 | 2025-04-24 | 2025-05-02 |
-| [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 |  |
+| [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 | 2025-10-19 |
 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 | 2025-10-05 |
 | [Too Long Ago](https://open.spotify.com/track/0QfqAcgO0LKS3c8eLw9G01) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Too Long Ago](https://open.spotify.com/album/1iisgK1KPYxkG3Oa10R6Zl) | 2:42 | 2025-10-16 |  |
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |

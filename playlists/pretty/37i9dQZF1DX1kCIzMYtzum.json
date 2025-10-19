@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 428102,
+  "num_followers": 428471,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
+        "name": "I Wanna Go - John Summit Remix",
+        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 163478,
+      "name": "I Wanna Go - John Summit Remix",
+      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
+    },
+    {
+      "added_at": "2025-10-17 04:01:02",
+      "album": {
         "name": "Tokyo Drift",
         "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
       },
@@ -2079,22 +2099,22 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE"
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
       "artists": [
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         },
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
         }
       ],
-      "duration_ms": 214070,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
     },
     {
       "added_at": "2025-10-17 04:01:02",
@@ -2119,22 +2139,22 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
-        "name": "The End Of Genesys",
-        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "Luke Steele",
-          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 190726,
-      "name": "Human Now (feat. Luke Steele)",
-      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
+      "duration_ms": 214070,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
     },
     {
       "added_at": "2025-10-17 04:01:02",
@@ -2175,30 +2195,6 @@
       "duration_ms": 143010,
       "name": "Born To Be Lonely",
       "url": "https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx"
-    },
-    {
-      "added_at": "2025-10-17 04:01:02",
-      "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/6c9IwkWbbNrZ77MLsGbMM9"
-      },
-      "artists": [
-        {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        },
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        }
-      ],
-      "duration_ms": 172916,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/00sy6AoG8pNFxbdAWHhsrn"
     }
   ],
   "unique_name": "EDM 2025",

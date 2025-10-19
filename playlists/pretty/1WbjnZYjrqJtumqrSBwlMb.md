@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,136 songs - 2 day 21 hr 47 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,148 songs - 2 day 22 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1144,5 +1144,17 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1134 | [Running Running Running](https://open.spotify.com/track/5GvDlQbFI3KiVAhJZ4QfDU) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Running Running Running](https://open.spotify.com/album/6VvmZmSmQxF2njwhExQBpX) | 3:08 |
 | 1135 | [Sunshine When It Rains](https://open.spotify.com/track/2dCIGxwbZPZwrWHGvSy71O) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Sunshine When It Rains / See The World](https://open.spotify.com/album/7CkY3b34iF8CMlvIOLusfH) | 5:16 |
 | 1136 | [See The World](https://open.spotify.com/track/12jrSjP82YIlsX01ZsATmB) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Sunshine When It Rains / See The World](https://open.spotify.com/album/7CkY3b34iF8CMlvIOLusfH) | 5:38 |
+| 1137 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 1138 | [No Reply](https://open.spotify.com/track/5x0zW1JcdON7Zli2umGEJg) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:35 |
+| 1139 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 |
+| 1140 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |
+| 1141 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
+| 1142 | [Not My World](https://open.spotify.com/track/12wDKbddX9bUYHd1Rl8gmu) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:14 |
+| 1143 | [Piece Of Heaven](https://open.spotify.com/track/0gwCQvjDPCTFEq9790FGdC) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:44 |
+| 1144 | [Obsolete](https://open.spotify.com/track/0On1SxfkvTOfzvjVgFLK7V) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:23 |
+| 1145 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 |
+| 1146 | [See You On Monday \(You're Lost\)](https://open.spotify.com/track/4dReLsqSqYhrC83Qgg7Lyx) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:34 |
+| 1147 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 1148 | [End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:12 |
 
-Snapshot ID: `AAAJYW5h5kP/LuUvRRFueOCcw/GuEDcA`
+Snapshot ID: `AAAJYvfpReo33aiRW894dDbPf+F2tDlb`

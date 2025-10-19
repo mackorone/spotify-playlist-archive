@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20619,
+  "num_followers": 20623,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPA1gAAAAACzTOqHFjrQMOXHahLkJTIZ",
+  "snapshot_id": "aPGHAAAAAAAgPo5FJe8AaRf/S3kX++ut",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Je Blik Richting Mij",
-        "url": "https://open.spotify.com/album/6LqbmPYQTNC7mEuQ9Kejtl"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Je Blik Richting Mij",
-      "url": "https://open.spotify.com/track/5bdBg1Gc6IrDRCFM1BiQx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vader & zoon (Remix)",
         "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 140202,
       "name": "Vader & zoon - Remix",
       "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Je Blik Richting Mij",
+        "url": "https://open.spotify.com/album/6LqbmPYQTNC7mEuQ9Kejtl"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Je Blik Richting Mij",
+      "url": "https://open.spotify.com/track/5bdBg1Gc6IrDRCFM1BiQx7"
     },
     {
       "added_at": null,

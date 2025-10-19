@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 33615,
+  "num_followers": 33644,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-10-14 09:28:19",
       "album": {
+        "name": "Zindagi Virat",
+        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "Malhar",
+      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
+    },
+    {
+      "added_at": "2025-10-14 09:28:19",
+      "album": {
         "name": "Punyachi Maina",
         "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 315653,
       "name": "Chandra (Featuring. Shreya Ghoshal)",
       "url": "https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf"
-    },
-    {
-      "added_at": "2025-10-14 09:28:19",
-      "album": {
-        "name": "Zindagi Virat",
-        "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "Malhar",
-      "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
     },
     {
       "added_at": "2025-10-14 09:28:19",

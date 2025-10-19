@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260409,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v"
+    },
+    {
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
       },
@@ -172,7 +190,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 223289,
       "name": "Have You Ever Had so Much Fun",
       "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"

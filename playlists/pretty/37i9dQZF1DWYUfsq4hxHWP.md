@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Faith Hopkins, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,334 likes - 175 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,381 likes - 175 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

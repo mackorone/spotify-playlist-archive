@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  M!NE Artwork: Isu Kim
 
-3,757 songs - 9 day 3 hr 24 min
+3,758 songs - 9 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,7 +889,7 @@
 | [DREAM](https://open.spotify.com/track/3pqySUFrmGQsZ5OStPQl5e) | [Xchan](https://open.spotify.com/artist/7Hjd5uSSIb9fFPPp0lPfYn) | [DREAM](https://open.spotify.com/album/4hioyzoOa3LfpKrzFYFPcQ) | 3:03 | 2022-11-24 | 2023-02-03 |
 | [Dream Come True](https://open.spotify.com/track/4nOMpfOWdXADocWa8xyQ8O) | [Fryday](https://open.spotify.com/artist/4QDQlEE69slOs65KGRNheo), [Jhen](https://open.spotify.com/artist/2dAxnIRoxer2kKA9VHkxpb) | [Dream Come True](https://open.spotify.com/album/4JlSR4fVwvoDjdTsMQsu3e) | 3:10 | 2023-06-08 | 2023-06-23 |
 | [Dreamland](https://open.spotify.com/track/06QalNnVHUw4CCh52rHHLx) | [Gab Mabanta](https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ) | [Dreamland](https://open.spotify.com/album/3kGzbutzEVNfONRVcXwyf4) | 4:37 | 2023-08-24 | 2023-09-15 |
-| [DREAMWEAVER](https://open.spotify.com/track/6GQUCYI3GiyFs1jtrCTjZT) | [Hazylazy](https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp) | [DREAMWEAVER](https://open.spotify.com/album/6wMk1JCuXMpbbSeO7uk3Gx) | 4:12 | 2025-08-21 |  |
+| [DREAMWEAVER](https://open.spotify.com/track/6GQUCYI3GiyFs1jtrCTjZT) | [hazylazy](https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp) | [DREAMWEAVER](https://open.spotify.com/album/6wMk1JCuXMpbbSeO7uk3Gx) | 4:12 | 2025-08-21 |  |
 | [Dried Flowers](https://open.spotify.com/track/5qiL3EHVn1RdbQieZrfhyi) | [Yoan Francine](https://open.spotify.com/artist/6DFr4IJysUA0KLD3JP0602) | [Dried Flowers](https://open.spotify.com/album/3GzvqT5HfmkC2muHyjp91x) | 5:00 | 2023-10-05 | 2023-11-11 |
 | [DRILLA from MANILA](https://open.spotify.com/track/72sGefblI6cj44dKmjoxBa) | [KZZY](https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E) | [DRILLA from MANILA](https://open.spotify.com/album/42QsQ0ijobKVpOGwK0PqqM) | 2:32 | 2024-02-08 | 2024-03-01 |
 | [Drive and Meet You](https://open.spotify.com/track/0KuTQlAitRKGhPRdjyJ3Ht) | [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [Drive and Meet You](https://open.spotify.com/album/6oKxJdV8je7SBnwWr37S5P) | 3:13 | 2022-09-22 | 2022-12-01 |
@@ -2449,7 +2449,7 @@
 | [Out of My Mind](https://open.spotify.com/track/40DgaXwYRcwiWetBWfPHrP) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB) | [Out of My Mind](https://open.spotify.com/album/2CLpS9JTa5iub7150ZQ9sb) | 3:39 | 2025-05-15 | 2025-06-27 |
 | [Out of Sight](https://open.spotify.com/track/0i6xKBoEmesUdhYhdYpRCd) | [heaven.](https://open.spotify.com/artist/7LJ495XintkEpQT91bHKVK) | [Out of Sight](https://open.spotify.com/album/5TxToG7wW5i6TipvCoUMu6) | 3:40 | 2022-01-07 | 2022-02-11 |
 | [Out of Tempo Out of Time](https://open.spotify.com/track/5FgMpolRLjlHhveZI0EkHh) | [neytan](https://open.spotify.com/artist/2SiPvwfKYm1TANEo8F0zyT) | [Out of Tempo Out of Time](https://open.spotify.com/album/02CCZGhQlI7iNrxwE88Yw2) | 3:19 | 2025-10-02 |  |
-| [OUTFIELD](https://open.spotify.com/track/2Nyu9pjIKnBQqixPghMdK5) | [Hazylazy](https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp) | [ANTAGONISMS](https://open.spotify.com/album/5R0l9fPabfNy2zknoo50rT) | 3:11 | 2025-09-25 |  |
+| [OUTFIELD](https://open.spotify.com/track/2Nyu9pjIKnBQqixPghMdK5) | [hazylazy](https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp) | [ANTAGONISMS](https://open.spotify.com/album/5R0l9fPabfNy2zknoo50rT) | 3:11 | 2025-09-25 |  |
 | [Outrageous Love](https://open.spotify.com/track/63UaQOlUuVPPF6mo0sUjBL) | [Mary Ozaraga](https://open.spotify.com/artist/4GS8yp4W5CAsrm9nuGmOVB) | [Outrageous Love](https://open.spotify.com/album/3xURMD2K7vEndUN3ZBM7DN) | 4:32 | 2023-03-23 | 2023-04-14 |
 | [Outside](https://open.spotify.com/track/5LKaMFr3xckttFYMwcqL2v) | [Keekai](https://open.spotify.com/artist/39KGT1lUUCK64fqZkydmQp) | [Outside](https://open.spotify.com/album/5D3656zu454xLJM2rvAJkF) | 2:22 | 2024-09-19 | 2024-10-18 |
 | [Outside \(Araw\-Araw\)](https://open.spotify.com/track/7x0dJXCHwTqzBGnNYiL6MA) | [Rhomar Jessy](https://open.spotify.com/artist/1jqR1m20qbEMSLfigWG6jT) | [Outside \(Araw\-Araw\)](https://open.spotify.com/album/4BdahXJoCSdfcQftP4anr8) | 2:44 | 2023-03-30 | 2023-04-21 |
@@ -2818,6 +2818,7 @@
 | [Right Back](https://open.spotify.com/track/58H8HW6a37LQlQZkspZAvy) | [Trescoda](https://open.spotify.com/artist/4A98hy3K6soG8jYlISrUhj) | [Right Back](https://open.spotify.com/album/3Jn802r3uBjv2xa4N3OJyo) | 3:14 | 2022-11-24 | 2023-02-10 |
 | [Right Now](https://open.spotify.com/track/6uxbfrbjHr0DIzSMdrrJxW) | [Jrxme](https://open.spotify.com/artist/08rpVm7QVoQQhXWAirxqv3), [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg) | [Right Now](https://open.spotify.com/album/2kr2VvfSEWCqm96Ct0buIv) | 3:05 | 2022-10-13 | 2023-02-10 |
 | [RIGHT NOW](https://open.spotify.com/track/6zHfKStKCfnW6GIc1O0aPN) | [SJ Maglana](https://open.spotify.com/artist/28lD6fIj7acTZNQHr7UIqc), [Liam Reformado](https://open.spotify.com/artist/3xiXpqFibWVtRgsbjmLLZH), [Concepcion](https://open.spotify.com/artist/5mqw4f8V3r2PBVKCKAkqiY) | [RIGHT NOW](https://open.spotify.com/album/3yDsNa9OZisAfcsqXtl7zp) | 3:35 | 2025-02-14 | 2025-04-04 |
+| [Right Time](https://open.spotify.com/track/3zwx8yo6cr0ONU81iRytd7) | [Patch TheThird](https://open.spotify.com/artist/6oXtzTZr9KQp9e8JXinYe8) | [Right Time](https://open.spotify.com/album/1bNGEnC1jc3Xvq2fSvIVdK) | 2:33 | 2025-10-16 |  |
 | [Right With You](https://open.spotify.com/track/6NmddBQ5kVHIPGwZpO1N2O) | [Teddy Travis](https://open.spotify.com/artist/5sl54zMTjTVCOYbqwlJkLQ) | [Right With You](https://open.spotify.com/album/1pgpzJAIZcxOemlshPScZb) | 2:16 | 2023-05-18 | 2023-06-02 |
 | [Rigodon](https://open.spotify.com/track/5cF02vAZUK8nCpGx9U1F2G) | [Run Silas](https://open.spotify.com/artist/2n8RvsyGbpluYSEwtlX4Mk), [Hans Dimayuga](https://open.spotify.com/artist/56p3ilIEBlYgDzOKA1HFQk) | [Rigodon](https://open.spotify.com/album/6vhaYjAI6XP5x6RkklfnKm) | 5:23 | 2022-09-08 | 2022-11-25 |
 | [Ripples](https://open.spotify.com/track/3g7yrEUqTBxUVWvsBXFMVq) | [Lucy Dee](https://open.spotify.com/artist/2TqgiLuMLtJbOWt5TURpME) | [dont wait til tomorrow](https://open.spotify.com/album/1ZjIhcZkOIGpVGlacKLVqx) | 3:50 | 2024-09-19 | 2024-10-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Chris Tomlin",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Anne Wilson",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Be Close",
+        "url": "https://open.spotify.com/album/7dFq18r3OrKBC1tL6Qu7Wb"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212455,
+      "name": "Be Close",
+      "url": "https://open.spotify.com/track/6JqvAi5ve8N0jLyn35Dn27"
+    },
+    {
+      "album": {
         "name": "New Creation (Live)",
         "url": "https://open.spotify.com/album/5JseBczbYUjTyvDv0zp4c7"
       },
@@ -920,7 +938,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 233152,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5"
@@ -1293,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/0JKuT0K56zJYmCnXrI13sy"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193269,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/4q3Y80rmbaIaZqR8PcRhie"
+    },
+    {
+      "album": {
         "name": "With The Lord",
         "url": "https://open.spotify.com/album/6tZmvvwoShgjDj5GSKhChD"
       },
@@ -1304,7 +1340,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 209088,
       "name": "Center of Attention",
       "url": "https://open.spotify.com/track/7eYZ3TFfFExJrofkq5VtmX"
@@ -1590,6 +1626,24 @@
       "duration_ms": 252366,
       "name": "Crimson Dust - Live",
       "url": "https://open.spotify.com/track/1mE0BS6BvuoOgSpHEcx1QI"
+    },
+    {
+      "album": {
+        "name": "Dance Upon The Storm",
+        "url": "https://open.spotify.com/album/3ZX9XstBeO64xtWMxqdUxl"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239829,
+      "name": "Dance Upon The Storm",
+      "url": "https://open.spotify.com/track/1CXNpvmnljxFJQqkr4Fn7e"
     },
     {
       "album": {
@@ -2815,6 +2869,28 @@
     },
     {
       "album": {
+        "name": "God Is Faithful",
+        "url": "https://open.spotify.com/album/4RXLV7wKchzluzCd0BELnU"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        },
+        {
+          "name": "Katie Torwalt",
+          "url": "https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231083,
+      "name": "God Is Faithful",
+      "url": "https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH"
+    },
+    {
+      "album": {
         "name": "God Is Good",
         "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
       },
@@ -2976,7 +3052,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 187770,
       "name": "God Story",
       "url": "https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw"
@@ -4100,10 +4176,28 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 154440,
       "name": "Hindsight (feat. Colton Dixon)",
       "url": "https://open.spotify.com/track/7xRoXeHKkvDji3gXGUuSUN"
+    },
+    {
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181864,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty"
     },
     {
       "album": {
@@ -4206,6 +4300,24 @@
       "duration_ms": 175133,
       "name": "Hold You Tight",
       "url": "https://open.spotify.com/track/71hZRkkUaEMEKGVbHCGiby"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Hold Your Horses",
+      "url": "https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V"
     },
     {
       "album": {
@@ -4646,6 +4758,28 @@
       "duration_ms": 203409,
       "name": "I FEEL HOME",
       "url": "https://open.spotify.com/track/0BFYrL6UGqLnQuNdnTb9at"
+    },
+    {
+      "album": {
+        "name": "I Got Saved",
+        "url": "https://open.spotify.com/album/5Eg4TBsuBE04YyOHhJ3Y2j"
+      },
+      "artists": [
+        {
+          "name": "TrueSong",
+          "url": "https://open.spotify.com/artist/4SH48CCV1H166tZxYd0tIj"
+        },
+        {
+          "name": "Todd Tilghman",
+          "url": "https://open.spotify.com/artist/5k73v1si3UFBqtVQciw7RQ"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221623,
+      "name": "I Got Saved",
+      "url": "https://open.spotify.com/track/43TAruEvss1VoLQp9I0P2S"
     },
     {
       "album": {
@@ -6120,7 +6254,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 175007,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/5xqU5TupZhjHTbz6NgVvo6"
@@ -6564,6 +6698,24 @@
       "duration_ms": 193073,
       "name": "Mean Girls",
       "url": "https://open.spotify.com/track/1fgQe9gzO6czUROrxPW7vb"
+    },
+    {
+      "album": {
+        "name": "Life In Me",
+        "url": "https://open.spotify.com/album/7FIfXj0dEP5zf4Kl7KwcyC"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266573,
+      "name": "Meet Me In The Valley",
+      "url": "https://open.spotify.com/track/4DEidL01X20LpYZI288hG2"
     },
     {
       "album": {
@@ -7969,6 +8121,28 @@
     },
     {
       "album": {
+        "name": "Walk Through Fire: Songs From The Smoke",
+        "url": "https://open.spotify.com/album/434BMwbP3CR0o877jfHBZG"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198716,
+      "name": "Prove A Thing",
+      "url": "https://open.spotify.com/track/1eW1cvfacSaQyI6mCkEqQO"
+    },
+    {
+      "album": {
         "name": "Real Help",
         "url": "https://open.spotify.com/album/6gg4s2J6aDvluaTIZ2S7qD"
       },
@@ -9254,7 +9428,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 217216,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn"
@@ -10150,7 +10324,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 222295,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5WcF82ipHJa8vQMMrjdbF4"
@@ -10406,7 +10580,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 218137,
       "name": "To Be With Jesus (Piano Version)",
       "url": "https://open.spotify.com/track/6WPrFvnp5odSwESUybeaHv"
@@ -10756,7 +10930,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 193274,
       "name": "Walk Through Fire",
       "url": "https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c"

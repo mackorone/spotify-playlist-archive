@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Rangga Jones \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,390 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,377 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 43 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:10 |
 | 44 | [魚湖](https://open.spotify.com/track/7Ew6nHhy81sbXXdAtWe6p1) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [魚湖](https://open.spotify.com/album/10t7VwlzQ7n3J5bQf3wsHb) | 4:59 |
 | 45 | [Watch Your Step!](https://open.spotify.com/track/0cEtJDb1SG3VqfkYwVEiwb) | [gny](https://open.spotify.com/artist/3TkW2R9Gxxh01XyuyrmqcJ), [Joseph Gregory](https://open.spotify.com/artist/5ijWl8UUStJQBnHDsuN1VA) | [Watch Your Step!](https://open.spotify.com/album/2xRbBYeJC0Sl6CZiYMYk4y) | 2:58 |
-| 46 | [OUTFIELD](https://open.spotify.com/track/2Nyu9pjIKnBQqixPghMdK5) | [Hazylazy](https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp) | [ANTAGONISMS](https://open.spotify.com/album/5R0l9fPabfNy2zknoo50rT) | 3:11 |
+| 46 | [OUTFIELD](https://open.spotify.com/track/2Nyu9pjIKnBQqixPghMdK5) | [hazylazy](https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp) | [ANTAGONISMS](https://open.spotify.com/album/5R0l9fPabfNy2zknoo50rT) | 3:11 |
 | 47 | [我不用問](https://open.spotify.com/track/6lH3RIIRaKOpyvAk8HX7DW) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [我不用問](https://open.spotify.com/album/3msPLSdyWwAAg4YjMiTKZG) | 3:58 |
 | 48 | [meguri](https://open.spotify.com/track/7wOKndjlwI1ncnmDjyvsq8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [meguri](https://open.spotify.com/album/57kKkfhgya6bHYqoFzlnb3) | 3:13 |
 | 49 | [please](https://open.spotify.com/track/5uh8m6ftdzlDdkUgqjTq6E) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [please](https://open.spotify.com/album/7zwYehnbEk2vJQclnXOr4p) | 5:46 |

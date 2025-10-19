@@ -10961,6 +10961,24 @@
     },
     {
       "album": {
+        "name": "The Spell",
+        "url": "https://open.spotify.com/album/0mqQaRXfEzysluMX4J3jqy"
+      },
+      "artists": [
+        {
+          "name": "Cellar Darling",
+          "url": "https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281364,
+      "name": "The Spell",
+      "url": "https://open.spotify.com/track/3DRQ9GriRUPNHiCB0hyRbW"
+    },
+    {
+      "album": {
         "name": "TW2052",
         "url": "https://open.spotify.com/album/74VTFGC2rLxhcNqXVnbqjx"
       },

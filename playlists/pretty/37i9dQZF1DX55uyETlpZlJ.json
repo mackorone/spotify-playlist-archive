@@ -1,13 +1,29 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Asha Bhat, Patrick Abraham",
-  "num_followers": 25547,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
+  "num_followers": 25550,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH6dZ6yy0CEvWDHdLYGw59ztVLDW",
+  "snapshot_id": "AAAAAN1tS185ZbjckGdIi2jL/IFjSkBU",
   "tracks": [
+    {
+      "added_at": "2025-10-15 13:06:47",
+      "album": {
+        "name": "Taare Bindigeya",
+        "url": "https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Taare Bindigeya",
+      "url": "https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6"
+    },
     {
       "added_at": "2025-10-17 19:25:15",
       "album": {
@@ -69,6 +85,22 @@
       "url": "https://open.spotify.com/track/1tVjzpkVKIJiT5NXD1dAZZ"
     },
     {
+      "added_at": "2025-10-18 08:13:53",
+      "album": {
+        "name": "KROORI",
+        "url": "https://open.spotify.com/album/4t2v1ZA58LliehMMdEqhgj"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "duration_ms": 161590,
+      "name": "KROORI",
+      "url": "https://open.spotify.com/track/4nBYuzv6x8EFJlTH4yfEvL"
+    },
+    {
       "added_at": "2025-10-06 04:52:33",
       "album": {
         "name": "UTTHARA",
@@ -89,20 +121,24 @@
       "url": "https://open.spotify.com/track/2sNgNmLWdkGRjjTnKmIAuo"
     },
     {
-      "added_at": "2025-10-15 13:06:47",
+      "added_at": "2025-10-18 08:08:30",
       "album": {
-        "name": "Taare Bindigeya",
-        "url": "https://open.spotify.com/album/6rMTWIMSp2EEu9e5w6ytOL"
+        "name": "Dostharu (From \"Golden Clicks\") (Music From The Original Web Series)",
+        "url": "https://open.spotify.com/album/1x2YFSeEEYqJy5BMfd2SHO"
       },
       "artists": [
         {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+          "name": "Ephraim Saatvik",
+          "url": "https://open.spotify.com/artist/5e1hv0eMW8ekhIy52EJz8J"
+        },
+        {
+          "name": "Mohan P Nayar",
+          "url": "https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3"
         }
       ],
-      "duration_ms": 306000,
-      "name": "Taare Bindigeya",
-      "url": "https://open.spotify.com/track/6NeG6Gx3fJCdMc12CgD5z6"
+      "duration_ms": 184220,
+      "name": "Dostharu (From \"Golden Clicks\") (Music From The Original Web Series)",
+      "url": "https://open.spotify.com/track/3a5bUzB7k0WBlop2cxqsWs"
     },
     {
       "added_at": "2025-10-06 12:05:51",
@@ -1265,26 +1301,6 @@
       "url": "https://open.spotify.com/track/3vR1KLlliDOYQ5VBbEGLPh"
     },
     {
-      "added_at": "2025-04-28 09:25:22",
-      "album": {
-        "name": "Sanna Sanhe",
-        "url": "https://open.spotify.com/album/32HLzydiXioH3ogXxgHBsy"
-      },
-      "artists": [
-        {
-          "name": "Ranjan Das",
-          "url": "https://open.spotify.com/artist/1xoGSvUCAgFWNPPdRNhBpY"
-        },
-        {
-          "name": "Chaitrhika V K",
-          "url": "https://open.spotify.com/artist/0vHj2WJpPqVx4Po9BTiw6l"
-        }
-      ],
-      "duration_ms": 202680,
-      "name": "Sanna Sanhe",
-      "url": "https://open.spotify.com/track/2spWEByvQoOXImGTN456Jl"
-    },
-    {
       "added_at": "2025-04-23 06:28:48",
       "album": {
         "name": "Fall in love",
@@ -1299,30 +1315,6 @@
       "duration_ms": 224048,
       "name": "Fall in love",
       "url": "https://open.spotify.com/track/3XJFWpFQ1mmfsnLAmzoku6"
-    },
-    {
-      "added_at": "2025-04-16 09:10:26",
-      "album": {
-        "name": "Ninnindha Shuru",
-        "url": "https://open.spotify.com/album/71bZWpJ2pF7HBuNRwSjMMQ"
-      },
-      "artists": [
-        {
-          "name": "Surabhi Bharadwaj",
-          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
-        },
-        {
-          "name": "Siddu R Wadeyar",
-          "url": "https://open.spotify.com/artist/4vtqdT9JcejRLMiju5YTBu"
-        },
-        {
-          "name": "Sathya Radhakrishna",
-          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "Ninnindha Shuru",
-      "url": "https://open.spotify.com/track/63Z5msVzQTDREqGmFbFXok"
     },
     {
       "added_at": "2025-04-11 10:04:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Peezy, Blxst &amp; Big Sad 1900.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 35,041 likes - 95 songs - 4 hr 29 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 35,028 likes - 95 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

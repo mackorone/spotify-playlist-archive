@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. ©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,592 likes - 39 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,595 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: MISSION MUSICA
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,119 likes - 75 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,209 likes - 75 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 24 | [El Mejor Regalo](https://open.spotify.com/track/2HeEVexdEXKnik3cNytBP5) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ), [Delfina Vázquez](https://open.spotify.com/artist/6tLbhyKRRyfRRW91tw1ixG) | [El Mejor Regalo](https://open.spotify.com/album/24dlkt8IetDux0selq8e1k) | 4:27 |
 | 25 | [A Ti te alabo](https://open.spotify.com/track/4YxJhfFMouMHdSnGdgApDa) | [Hakuna Group Music](https://open.spotify.com/artist/7Lemn0MD6Cb2QfmeZJ5BwS) | [A Ti te alabo](https://open.spotify.com/album/3mSGV20IyaGArMPDbATllJ) | 3:09 |
 | 26 | [PENTECOSTÉS](https://open.spotify.com/track/1UbZwVHO18inTZgjdo1Exr) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [PENTECOSTÉS](https://open.spotify.com/album/6b7X8jwEhPgiBY1v32BpsR) | 6:21 |
-| 27 | [Bendice a Dios](https://open.spotify.com/track/39CJiDBR6TLfJHD1xgeont) | [David & Karen](https://open.spotify.com/artist/7n3IHj2513sePlMl89T0b4), [Isaac Hernandez](https://open.spotify.com/artist/4fqBDjekpKqKV5I1n3UO6z) | [Bendice a Dios](https://open.spotify.com/album/5iEvxWFXJl7skgETn22C9l) | 5:34 |
+| 27 | [Bendice a Dios](https://open.spotify.com/track/39CJiDBR6TLfJHD1xgeont) | [David & Karen](https://open.spotify.com/artist/7n3IHj2513sePlMl89T0b4), [Josías Onoto](https://open.spotify.com/artist/0aItvaN8OoSSCwTtDGvIWN) | [Bendice a Dios](https://open.spotify.com/album/5iEvxWFXJl7skgETn22C9l) | 5:34 |
 | 28 | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/track/33JhVpJsifXLo4f5iE0L4I) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos](https://open.spotify.com/album/7DwEO3HOKXP0ilMqOnh1H6) | 6:05 |
 | 29 | [Lo Rindo Todo](https://open.spotify.com/track/1ipOp4fmZLxqcN7rVwGJze) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Lo Rindo Todo](https://open.spotify.com/album/0LcOPHrmKCbD0OlH7Papkx) | 5:04 |
 | 30 | [Mi Adoración](https://open.spotify.com/track/1lSYSHSu1HZ5ibdqKYD6rZ) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Digno de Adorar](https://open.spotify.com/album/6mEIqWRRl6vB9Exsi47NMg) | 4:35 |

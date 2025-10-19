@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,578 likes - 90 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,616 likes - 90 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 40 | [Pray for Me](https://open.spotify.com/track/7AiabojYVisnAHVr1JwDev) | [Tina Campbell](https://open.spotify.com/artist/3dipd1qrih3c6oRdUzyfpP) | [Pray for Me](https://open.spotify.com/album/0LgQdHzargtBVzslyPzy8F) | 3:16 |
 | 41 | [Glory to Your Name \(Yahweh Chant\)](https://open.spotify.com/track/20qyfm6CoXczO6HomsunrZ) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [Marcus McFarlin](https://open.spotify.com/artist/3GSPi1jXT6v4lJ2gV7LSzW) | [Glory to Your Name \(Yahweh Chant\)](https://open.spotify.com/album/6tXnQ7pvb4u5aij6gejcE0) | 5:09 |
 | 42 | [No Tears \(Live in Detroit\)](https://open.spotify.com/track/2uvkS2aA5LDBfEL8nVHR9T) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [No Tears \(Live in Detroit\)](https://open.spotify.com/album/1TYYw7gsKHxR2nO6eov4fQ) | 4:01 |
-| 43 | [Glory To God](https://open.spotify.com/track/4mrWobkoCqzX0Brqh7N4h6) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Glory To God](https://open.spotify.com/album/4voIRkUCb8BTsfktAS0K8m) | 6:15 |
+| 43 | [Glory To God \(feat\. Ronald Poindexter\)](https://open.spotify.com/track/4mrWobkoCqzX0Brqh7N4h6) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Darius Paulk](https://open.spotify.com/artist/5l7g49I9r1TNCBBIhG3BOg), [Ronald Poindexter](https://open.spotify.com/artist/6nXp3D9pzMw3g06HzjS7ou) | [Glory To God](https://open.spotify.com/album/4voIRkUCb8BTsfktAS0K8m) | 6:15 |
 | 44 | [Do Better](https://open.spotify.com/track/3wrm4XxJmnuQ9pnt63eaa0) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Do Better](https://open.spotify.com/album/2ovHQU7LjHhaoafFInagpI) | 3:54 |
 | 45 | [Play Yo Tambourine \- Church Version](https://open.spotify.com/track/5yaz4MNSdAWLO5qXPizdjj) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Play Yo Tambourine](https://open.spotify.com/album/02nI1wiBBQppzPMJcNxn1D) | 5:36 |
 | 46 | [Better](https://open.spotify.com/track/70IMwY7Hj050abt9WU1ehm) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Better](https://open.spotify.com/album/5ynd96HmA6LQJpcmikv98l) | 4:00 |

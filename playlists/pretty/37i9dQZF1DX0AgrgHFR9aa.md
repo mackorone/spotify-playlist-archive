@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Oxmo Puccino
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,713 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,720 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 16 | [Aux gens qui](https://open.spotify.com/track/3v2C9Slde69iXI2mBKM1pj) | [Checler](https://open.spotify.com/artist/4EouoR9tt0atpWnMyI7hhB) | [Ces gens qui aiment](https://open.spotify.com/album/7Iw2DTeeeMFfQgZIX3B2I6) | 4:57 |
 | 17 | [INTRO](https://open.spotify.com/track/56HiaZ4c4Vf97QuW1IKVMB) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [INTRO](https://open.spotify.com/album/6Vq2XXly8aXgp9tFh2Tuez) | 3:26 |
 | 18 | [L'EAU \(Part\. II\)](https://open.spotify.com/track/4eenyjhMucaRF1yJ2PuGEK) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [L'EAU \(Part\. II\)](https://open.spotify.com/album/0Z0oljDTQSXTgvvLHPUnem) | 2:37 |
-| 19 | [Austin Powers \(feat\. Limsa d'Aulnay\)](https://open.spotify.com/track/2bSMxNhOCAhyXAKyixOVlq) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Austin Powers \(feat\. Limsa d'Aulnay\)](https://open.spotify.com/album/4tMXvuSP7b9PIGLz2J7vtU) | 3:14 |
+| 19 | [AUSTIN POWERS \(feat\. Limsa d'Aulnay\)](https://open.spotify.com/track/2bSMxNhOCAhyXAKyixOVlq) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [AUSTIN POWERS \(feat\. Limsa d'Aulnay\)](https://open.spotify.com/album/4tMXvuSP7b9PIGLz2J7vtU) | 3:14 |
 | 20 | [Sincèrement](https://open.spotify.com/track/1OvN5V9Qe7vht8obXZ5CpX) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Sincèrement](https://open.spotify.com/album/54lNAga6eMMmMQgeWhj2Cl) | 2:59 |
 | 21 | [Si un jour tu pars](https://open.spotify.com/track/1I1Y7kQXYNYsvuLWzkfqe5) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Si un jour tu pars](https://open.spotify.com/album/4BVxF8JtBVW7BjuNhiHt4y) | 2:02 |
 | 22 | [Léger](https://open.spotify.com/track/1AmB2dUp4PGZShnjM1P5PB) | [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O) | [Léger](https://open.spotify.com/album/0U5AcAILh5oLAjGdqUzNZE) | 3:09 |

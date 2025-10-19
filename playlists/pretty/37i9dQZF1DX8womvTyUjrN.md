@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Leanys
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,273 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,295 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 41 | [Siempre Lo Mismo](https://open.spotify.com/track/0mmcVE9a4QJrgaAsyXdcuZ) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Siempre Lo Mismo](https://open.spotify.com/album/0asXGmwf95NCLkA5iETAbq) | 3:40 |
 | 42 | [Líneas temporales](https://open.spotify.com/track/3WKfDUsHzmclNSY7nh33W2) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Mazzarri](https://open.spotify.com/artist/5oMID6T6cW3OhZrWIDW3I9) | [Líneas temporales](https://open.spotify.com/album/631Q5JID87Gsm2Ve7JF30s) | 3:25 |
 | 43 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
-| 44 | [No Hay Fotos](https://open.spotify.com/track/7lIToufalUeY0lXMtsmuho) | [Camila Ramón](https://open.spotify.com/artist/72lIS8llEHtobdxJ6kpVok) | [No Hay Fotos](https://open.spotify.com/album/0POpQh9SYrkQGFwJ8edU5W) | 3:19 |
+| 44 | [No Hay Fotos](https://open.spotify.com/track/7lIToufalUeY0lXMtsmuho) | [Camila Ramón](https://open.spotify.com/artist/72lIS8llEHtobdxJ6kpVok) | [No Hay Fotos](https://open.spotify.com/album/0POpQh9SYrkQGFwJ8edU5W) | 3:18 |
 | 45 | [AYAYAY](https://open.spotify.com/track/5sgiII50vpD4GB9GAgGTPn) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [AYAYAY](https://open.spotify.com/album/0mLIQbOqSQJoSU3jMIFK9f) | 2:48 |
 | 46 | [SÉPTIMO SENTIDO](https://open.spotify.com/track/2C0pKSrGBCP4CZHzzAYDIk) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [SÉPTIMO SENTIDO](https://open.spotify.com/album/1DWJoDN8uLJ2wkKAKn99EC) | 2:37 |
 | 47 | [Amaya Papaya \(No Me Digas Bebé\)](https://open.spotify.com/track/1JYCqTzn5vXmTOAF0Ptg6D) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Amaya Papaya \(No Me Digas Bebé\)](https://open.spotify.com/album/769CJdpfN03cloNudEloUh) | 2:46 |

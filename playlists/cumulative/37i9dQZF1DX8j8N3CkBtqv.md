@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Garvit\-Priyansh, Dikshant and other exciting artists.
 
-1,196 songs - 2 day 17 hr 14 min
+1,197 songs - 2 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,7 +607,7 @@
 | [Koi Aur](https://open.spotify.com/track/7J0jyUZ4nHSPorCmKnbiN4) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Koi Aur](https://open.spotify.com/album/57uBg5wffmgGl9ltQcjoRk) | 2:49 | 2023-06-23 | 2023-07-29 |
 | [Koi Matlab Nahi](https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Doie](https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6) | [Koi Matlab Nahi](https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM) | 2:57 | 2023-10-13 | 2023-11-25 |
 | [Koi Tumsa Nahi](https://open.spotify.com/track/3eggOTb2ZE0UvLl0U3KFq3) | [Arunima Wali](https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT) | [Koi Tumsa Nahi](https://open.spotify.com/album/4h2uK5D43Q68jiwaQb4Tz0) | 2:54 | 2023-04-14 | 2023-06-24 |
-| [Kuch Na Rahe](https://open.spotify.com/track/5fHW6IdvmeJYzOCXJdWuX8) | [Sanyanth Naroth](https://open.spotify.com/artist/1BwWT5CEluf0Stu2vMG8WR), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kuch Na Rahe](https://open.spotify.com/album/485QMYuNdZseHm2VOrxuGi) | 3:12 | 2025-08-11 |  |
+| [Kuch Na Rahe](https://open.spotify.com/track/5fHW6IdvmeJYzOCXJdWuX8) | [Sanyanth Naroth](https://open.spotify.com/artist/1BwWT5CEluf0Stu2vMG8WR), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kuch Na Rahe](https://open.spotify.com/album/485QMYuNdZseHm2VOrxuGi) | 3:12 | 2025-08-11 | 2025-10-19 |
 | [Kuch Pal Yahin](https://open.spotify.com/track/6I2m7HjkJpRrkBp8Kah5Lm) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Kuch Pal Yahin](https://open.spotify.com/album/3XsFxIsctoljjoiTEwLFi4) | 4:09 | 2025-06-27 | 2025-07-05 |
 | [Kuch Toh Hai Baat](https://open.spotify.com/track/1yWVEpoyEvr32KAQbkWJXG) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW) | [Kuch Toh Hai Baat](https://open.spotify.com/album/4gglwhDuNhDzeE4HKkq4nC) | 1:53 | 2023-09-29 | 2023-10-14 |
 | [Kuchh Nashe Mein](https://open.spotify.com/track/6jyG6PeBP6KH2uHZJAHPUt) | [Nupoor Khedkar](https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Kuchh Nashe Mein](https://open.spotify.com/album/7JuTA9R5XoeB3ZCRQOPQtJ) | 3:18 | 2023-12-08 | 2024-02-24 |
@@ -661,6 +661,7 @@
 | [Long To Be](https://open.spotify.com/track/3PHGkNX8caEkn31C63u3Bl) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Long To Be](https://open.spotify.com/album/08nya3WQcReGtynYWaH7Tu) | 4:30 | 2024-06-28 | 2024-07-27 |
 | [Love & Limerence](https://open.spotify.com/track/2d83P9vmxC8Mc39vv7RtWY) | [Rudy](https://open.spotify.com/artist/5u5YWSbUXrkan2dIMVPyV5), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Love & Limerence](https://open.spotify.com/album/13PKuzINirCBhssbAslKp9) | 3:12 | 2025-09-12 | 2025-09-28 |
 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 | 2024-02-23 | 2024-03-30 |
+| [Love or a Lesson](https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB) | 2:15 | 2025-10-17 |  |
 | [love you the same](https://open.spotify.com/track/60FGfdYuoYiMdowZ9SoLxy) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [LYTS](https://open.spotify.com/album/4JU6oNxVeI004JSA2Fv8E7) | 3:38 | 2023-05-19 | 2023-07-08 |
 | [LOVESEXDHOKA!!!](https://open.spotify.com/track/1u3KTMxSOXMX0cbb5BKGdc) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [LOVESEXDHOKA!!!](https://open.spotify.com/album/7nkIdUMqhsS0EESkOimQwy) | 3:12 | 2024-08-02 | 2024-09-28 |
 | [Lucky Tonight](https://open.spotify.com/track/2ARuZO81GAo9e9F1Qs932z) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Lucky Tonight](https://open.spotify.com/album/5ECFwJQNSICDZFAf1fro6s) | 3:51 | 2024-04-19 | 2024-05-18 |

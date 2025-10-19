@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Kill The Power",
+        "url": "https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198946,
+      "name": "Proceed With Caution",
+      "url": "https://open.spotify.com/track/2XBszkWUCGp98STdL0BS1c"
+    },
+    {
+      "album": {
         "name": "Kill the Power",
         "url": "https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 198947,
       "name": "Proceed with Caution",
       "url": "https://open.spotify.com/track/0tEAjGoTGgLtpJJxPaFtJ5"
@@ -884,10 +902,28 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 233493,
       "name": "You Can't Stop It",
       "url": "https://open.spotify.com/track/1OLv5MkZEkrQqEmNJOxgGY"
+    },
+    {
+      "album": {
+        "name": "Shark Bites and Dog Fights",
+        "url": "https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233493,
+      "name": "You Can't Stop It",
+      "url": "https://open.spotify.com/track/1RZD3Ibynuqkar2uRW0PE8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VpujL"

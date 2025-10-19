@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,978 likes - 168 songs - 9 hr 57 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,966 likes - 168 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,24 +14,24 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 4 | [Summer Breeze](https://open.spotify.com/track/2fiMQ44VojtY1IODTpRlnh) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Love Songs](https://open.spotify.com/album/78Av7Bt9xl55HOai1cFZQY) | 6:12 |
 | 5 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 |
 | 6 | [Don't Wanna Say Goodnight](https://open.spotify.com/track/6iYlDqMPz6KDTeG3keUfuw) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/5oapmE6hovtOqcG4Niwh1T) | 3:38 |
-| 7 | [Separate Ways](https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Separate Ways](https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi) | 2:58 |
-| 8 | [Right On Time](https://open.spotify.com/track/2USKvZGXJJeJKoX2oOnDs6) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Right On Time](https://open.spotify.com/album/3PK3ribLT0K2myB7RQWfQz) | 2:32 |
-| 9 | [Topple me over](https://open.spotify.com/track/6kmcC7bY5XX5Ch4Zc9EznA) | [Emily Otto](https://open.spotify.com/artist/4d673goPTtgmRVLGgqngId) | [Topple me over](https://open.spotify.com/album/5rGy2IdPEsQXRIMDOFpqR8) | 4:03 |
-| 10 | [Supernatural Thing](https://open.spotify.com/track/2gYkIkZQvcbSfdy7nwL9D8) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Supernatural Thing](https://open.spotify.com/album/0D7K5szxAfqxDNmkZpEg33) | 3:56 |
-| 11 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 |
-| 12 | [Loosely](https://open.spotify.com/track/7qi4SX9U3ehP5ae16XkRDd) | [Lunalay](https://open.spotify.com/artist/3HLWEoyncfoUNoodGamTNo) | [Loosely](https://open.spotify.com/album/0FSpGNhZIdpnkp3MpFa4o9) | 3:15 |
-| 13 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 14 | [Technicolour](https://open.spotify.com/track/2nuPzkMggmo4bc57czuAkb) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Technicolour](https://open.spotify.com/album/0rJekyyHBXYANCm4VrO3dk) | 2:43 |
-| 15 | [You Lift Me Up](https://open.spotify.com/track/0uwW8FV2VOjUoGdoxFTnjv) | [Sharlette](https://open.spotify.com/artist/5KHPJepzNZtQCNXnansIVZ) | [You Lift Me Up](https://open.spotify.com/album/3LYeFrqcCVTXSAMOvtCpE4) | 2:32 |
-| 16 | [Green Juice](https://open.spotify.com/track/3JeKMTJ3ibFajHazqlZXiI) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 4:23 |
-| 17 | [Don't Cry](https://open.spotify.com/track/0YZRYiErLmoT389ZKts0Cc) | [katrina sotera](https://open.spotify.com/artist/4hJ7CYCEtGiBm9grF0TRUq) | [Don't Cry](https://open.spotify.com/album/3mU7HxSrGM7gcZAr2WPGpA) | 2:49 |
-| 18 | [Stay the Night](https://open.spotify.com/track/1Et87C4mFRggcIbBTO78Ll) | [Nahima](https://open.spotify.com/artist/0avtNq4c3sQcobAKKfJnVV) | [Stay the Night](https://open.spotify.com/album/6mcsTMK7o3SfFzK29kOgKT) | 2:44 |
-| 19 | [Drunk & Messy](https://open.spotify.com/track/7GYqgugWGLavUvqqSZoWv1) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Drunk & Messy](https://open.spotify.com/album/2XuIfX5YgmqQQV5eDmdwFv) | 3:23 |
-| 20 | [Company](https://open.spotify.com/track/0cSMkNfzQEeYleiCvNedj9) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 3:57 |
-| 21 | [Daydreaming](https://open.spotify.com/track/5XvRHyikl6nNtTsvhdfkYf) | [MAAME](https://open.spotify.com/artist/6A7193ANWwr38cgNn7Q3i4) | [Daydreaming](https://open.spotify.com/album/0YrOijuJenQzSJpXi3GEM1) | 2:59 |
-| 22 | [REMEMBER](https://open.spotify.com/track/4mXO139UKQCwtlPpwDfhx1) | [AUNTY](https://open.spotify.com/artist/3Saby3OPCce7IfTnHslpSG) | [REMEMBER](https://open.spotify.com/album/1c5dOe3OGnDNnc0nDlb2st) | 4:28 |
-| 23 | [Love Me Wrong](https://open.spotify.com/track/0cKfcQ3ovHdK4hKMsPx7Yk) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Love Me Wrong](https://open.spotify.com/album/5MMQpizyx9ClTsKTvtNZ8o) | 2:51 |
-| 24 | [Maybe It's You](https://open.spotify.com/track/6FjK5agfRML4bI4GicOIoJ) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Maybe It's You](https://open.spotify.com/album/5EvUx0cDdwv7CFQomeh5yJ) | 3:06 |
+| 7 | [Say Goodbye](https://open.spotify.com/track/0sbLmf2DqMHjpWXSEjB1MC) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Say Goodbye](https://open.spotify.com/album/2q4xT0jH4pXIfzNpEnmTCy) | 2:54 |
+| 8 | [Separate Ways](https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Separate Ways](https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi) | 2:58 |
+| 9 | [Right On Time](https://open.spotify.com/track/2USKvZGXJJeJKoX2oOnDs6) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Right On Time](https://open.spotify.com/album/3PK3ribLT0K2myB7RQWfQz) | 2:32 |
+| 10 | [Topple me over](https://open.spotify.com/track/6kmcC7bY5XX5Ch4Zc9EznA) | [Emily Otto](https://open.spotify.com/artist/4d673goPTtgmRVLGgqngId) | [Topple me over](https://open.spotify.com/album/5rGy2IdPEsQXRIMDOFpqR8) | 4:03 |
+| 11 | [Supernatural Thing](https://open.spotify.com/track/2gYkIkZQvcbSfdy7nwL9D8) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Supernatural Thing](https://open.spotify.com/album/0D7K5szxAfqxDNmkZpEg33) | 3:56 |
+| 12 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 |
+| 13 | [Loosely](https://open.spotify.com/track/7qi4SX9U3ehP5ae16XkRDd) | [Lunalay](https://open.spotify.com/artist/3HLWEoyncfoUNoodGamTNo) | [Loosely](https://open.spotify.com/album/0FSpGNhZIdpnkp3MpFa4o9) | 3:15 |
+| 14 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 15 | [Technicolour](https://open.spotify.com/track/2nuPzkMggmo4bc57czuAkb) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Technicolour](https://open.spotify.com/album/0rJekyyHBXYANCm4VrO3dk) | 2:43 |
+| 16 | [You Lift Me Up](https://open.spotify.com/track/0uwW8FV2VOjUoGdoxFTnjv) | [Sharlette](https://open.spotify.com/artist/5KHPJepzNZtQCNXnansIVZ) | [You Lift Me Up](https://open.spotify.com/album/3LYeFrqcCVTXSAMOvtCpE4) | 2:32 |
+| 17 | [Green Juice](https://open.spotify.com/track/3JeKMTJ3ibFajHazqlZXiI) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 4:23 |
+| 18 | [Don't Cry](https://open.spotify.com/track/0YZRYiErLmoT389ZKts0Cc) | [katrina sotera](https://open.spotify.com/artist/4hJ7CYCEtGiBm9grF0TRUq) | [Don't Cry](https://open.spotify.com/album/3mU7HxSrGM7gcZAr2WPGpA) | 2:49 |
+| 19 | [Stay the Night](https://open.spotify.com/track/1Et87C4mFRggcIbBTO78Ll) | [Nahima](https://open.spotify.com/artist/0avtNq4c3sQcobAKKfJnVV) | [Stay the Night](https://open.spotify.com/album/6mcsTMK7o3SfFzK29kOgKT) | 2:44 |
+| 20 | [Drunk & Messy](https://open.spotify.com/track/7GYqgugWGLavUvqqSZoWv1) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Drunk & Messy](https://open.spotify.com/album/2XuIfX5YgmqQQV5eDmdwFv) | 3:23 |
+| 21 | [Company](https://open.spotify.com/track/0cSMkNfzQEeYleiCvNedj9) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 3:57 |
+| 22 | [Daydreaming](https://open.spotify.com/track/5XvRHyikl6nNtTsvhdfkYf) | [MAAME](https://open.spotify.com/artist/6A7193ANWwr38cgNn7Q3i4) | [Daydreaming](https://open.spotify.com/album/0YrOijuJenQzSJpXi3GEM1) | 2:59 |
+| 23 | [REMEMBER](https://open.spotify.com/track/4mXO139UKQCwtlPpwDfhx1) | [AUNTY](https://open.spotify.com/artist/3Saby3OPCce7IfTnHslpSG) | [REMEMBER](https://open.spotify.com/album/1c5dOe3OGnDNnc0nDlb2st) | 4:28 |
+| 24 | [Love Me Wrong](https://open.spotify.com/track/0cKfcQ3ovHdK4hKMsPx7Yk) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Love Me Wrong](https://open.spotify.com/album/5MMQpizyx9ClTsKTvtNZ8o) | 2:51 |
 | 25 | [This Love's Gonna Last](https://open.spotify.com/track/3zjD9zbfstE9vndzqIgu1U) | [Lina Territo](https://open.spotify.com/artist/1JWFrq1ahJDRvlLZJcJvic) | [This Love's Gonna Last](https://open.spotify.com/album/4deU9bqegmx4OeaJlAxwBo) | 5:20 |
 | 26 | [I Fell In Love](https://open.spotify.com/track/6A0dVE47USMxf4zGeFmiFx) | [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL), [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb) | [I Fell In Love](https://open.spotify.com/album/6sZ7qojO829hld5gV6rAaD) | 3:48 |
 | 27 | [INNA MOOD](https://open.spotify.com/track/3w5CI7YMPwd9f42Is1Drmq) | [Treis & Friends](https://open.spotify.com/artist/6mo2ffyXTryatA1spT1ogW) | [INNA MOOD](https://open.spotify.com/album/4aXxCsOVqKTwDjpf0NUgeC) | 3:16 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 167 | [lost me where you found me](https://open.spotify.com/track/03xdIuR52GK0UQW8KHJhuy) | [Israel Wilson](https://open.spotify.com/artist/4xfk20sRrdkcWDg56jkXnS) | [Too Little Too Late II](https://open.spotify.com/album/2nsqGFWu8hqRlNcFjTVFPd) | 2:13 |
 | 168 | [Through the valley.](https://open.spotify.com/track/1xfzYCEu8nwQfp1Qfpii9U) | [Flyingboy Bobby](https://open.spotify.com/artist/1Elez1wU4It82utXDD9Bkh) | [Through the valley.](https://open.spotify.com/album/1cXWCdk3tNp7zoGpx7Zl4C) | 3:37 |
 
-Snapshot ID: `AAA0/scd0OY5N0SyD6CvCKG9PTe9WCar`
+Snapshot ID: `AAA1ACsvhBHF1CIBh76F52WGxi49uns+`

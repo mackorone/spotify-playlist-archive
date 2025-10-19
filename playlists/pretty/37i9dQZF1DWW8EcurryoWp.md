@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Just Mustard
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,646 likes - 62 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,649 likes - 62 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 | 61 | [lock & key](https://open.spotify.com/track/5S6U4IY74N8Gekf8i5WdgO) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [hard drive songs](https://open.spotify.com/album/4rygwEIZ6qlH8IwW8SFJTU) | 4:15 |
 | 62 | [The Stink](https://open.spotify.com/track/3Lt8O13nVCZEKtIkApJEnp) | [Hotgirl](https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis) | [Blast Off](https://open.spotify.com/album/25KBaVGMBf8tpFAgIqWqFB) | 2:35 |
 
-Snapshot ID: `AAAAAD6JD5YDuUc7Q+LCSB8lIu5N1OXt`
+Snapshot ID: `AAAAACy3j7o8lJMN6ERTNNYWx0K78u7Q`

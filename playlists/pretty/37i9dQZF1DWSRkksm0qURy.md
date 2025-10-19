@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,001 likes - 89 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,060 likes - 89 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 88 | [Lines 417 Hz](https://open.spotify.com/track/4nnBwNHbrcONCHjmMJfbEQ) | [Sonus Tranquillitas](https://open.spotify.com/artist/6TS8sOQsiCCaCFjZIC619T) | [Lines 417 Hz](https://open.spotify.com/album/6vY0t8LG0wrcaBAb3XQdjf) | 3:01 |
 | 89 | [417 Hz High Vitality](https://open.spotify.com/track/0JiuQ8tZRDOLH3wC6MUm5H) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [417 Hz High Vitality](https://open.spotify.com/album/2LerI0W92yCUmSBEzSVaro) | 2:57 |
 
-Snapshot ID: `AAAAAHnRtCPbkY1GyQ2YQzSHqc5FYJgW`
+Snapshot ID: `AAAAAKCG4/TqfkcHyR/C2ir+ahQASO7P`

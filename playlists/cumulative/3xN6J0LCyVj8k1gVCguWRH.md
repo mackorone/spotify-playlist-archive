@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,367 songs - 12 day 11 hr 56 min
+5,368 songs - 12 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2933,7 +2933,7 @@
 | [May to September](https://open.spotify.com/track/7wGrUTDzcpJSXT1IozuDyU) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [May to September](https://open.spotify.com/album/13RzfLMPX69BQxcaGUDvA4) | 3:06 | 2022-09-11 | 2022-09-27 |
 | [maybe](https://open.spotify.com/track/05Y3vThn6ZnkqZnv4oGrKv) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [maybe](https://open.spotify.com/album/3smnkj76NfBe7q4YTg50Fy) | 3:23 | 2025-05-23 | 2025-06-21 |
 | [Maybe](https://open.spotify.com/track/7b7nzMQZg9mvDcxGnQqDxg) | [Bets](https://open.spotify.com/artist/1UKb8fKzb3cCbapXoaMbqH) | [Future Color](https://open.spotify.com/album/7gQYWVPuXmRYKnt1q7RutF) | 2:58 | 2025-10-03 |  |
-| [Maybe It's You](https://open.spotify.com/track/6FjK5agfRML4bI4GicOIoJ) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Maybe It's You](https://open.spotify.com/album/5EvUx0cDdwv7CFQomeh5yJ) | 3:06 | 2025-09-20 |  |
+| [Maybe It's You](https://open.spotify.com/track/6FjK5agfRML4bI4GicOIoJ) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Maybe It's You](https://open.spotify.com/album/5EvUx0cDdwv7CFQomeh5yJ) | 3:06 | 2025-09-20 | 2025-10-19 |
 | [Maybe She Knows](https://open.spotify.com/track/1JEkio51J9H2gXtf91hfeL) | [Tom R Rider](https://open.spotify.com/artist/2mUPa152Sru67ghhbeADat) | [Maybe She Knows](https://open.spotify.com/album/11MKyHO8n5nw6OsqOpobKg) | 2:29 | 2024-03-22 | 2024-04-05 |
 | [Maybe Tonight](https://open.spotify.com/track/23SENjysjh3gLAeSeoV7WT) | [Jascha Richter](https://open.spotify.com/artist/2VOMfXGriwklZIkNmdP7ld) | [Maybe Tonight](https://open.spotify.com/album/5PPO1TAqTxEtmTuGMJBxMg) | 3:33 | 2024-09-28 | 2024-11-20 |
 | [Maze](https://open.spotify.com/track/5NHEwfiv4tjbUrEO2LkWBj) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Maze](https://open.spotify.com/album/3mD25KhmdgRF6gHwwLKM0Q) | 2:22 | 2020-08-20 | 2020-09-04 |
@@ -3967,6 +3967,7 @@
 | [Savior Complex](https://open.spotify.com/track/1vz7wap09y2JGnVWJIImr6) | [Peyton Shay](https://open.spotify.com/artist/3ASCFTkBFRrX6KDFju42Xd) | [Savior Complex](https://open.spotify.com/album/7c0cdpPsG02ZUsrAV0mbu0) | 3:12 | 2024-09-30 | 2024-10-12 |
 | [Saviour](https://open.spotify.com/track/05WNvibI47v6Y9ificpqoK) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Saviour](https://open.spotify.com/album/6UONmsq7qrzQTBbEGptYd6) | 3:11 | 2020-05-11 | 2022-03-07 |
 | [Say Goodbye](https://open.spotify.com/track/2ELrY7gGTfl3YUyJS2LuSS) | [pdtj.](https://open.spotify.com/artist/5rxAHZNPFnSV6kVToFHHqG) | [Say Goodbye](https://open.spotify.com/album/6Oz27Jlw6NlZqcEdV74v9J) | 4:07 | 2025-03-26 | 2025-04-07 |
+| [Say Goodbye](https://open.spotify.com/track/0sbLmf2DqMHjpWXSEjB1MC) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Say Goodbye](https://open.spotify.com/album/2q4xT0jH4pXIfzNpEnmTCy) | 2:54 | 2025-10-18 |  |
 | [Say Goodbye To The Bad Guys](https://open.spotify.com/track/4DpVheICgQbnbfHR3Manb7) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [EROS](https://open.spotify.com/album/13ZPRwkvm5Lo9j6XZK0aHD) | 2:49 | 2022-03-06 | 2022-03-26 |
 | [Say Grace](https://open.spotify.com/track/5rapSth5f8BmHXk3yOuGEi) | [Kremtones](https://open.spotify.com/artist/7yMxHfJX9cIOl7Ab3sPAoD) | [Say Grace](https://open.spotify.com/album/049lJjdyPgxsACKgdMjCJs) | 2:23 | 2025-02-05 | 2025-02-17 |
 | [Say Hello](https://open.spotify.com/track/6LyarjEWv8aP5DLDclk0hl) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Say Hello](https://open.spotify.com/album/21zQkZDEt3v6yCYpBHacNH) | 4:13 | 2020-08-15 | 2020-09-04 |

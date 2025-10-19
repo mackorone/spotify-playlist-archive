@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > Une sélection 100 % chill, 100 % Montréal\. Photo: Soran
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,369 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,372 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 74 | [Prière quotidienne](https://open.spotify.com/track/6FtHH6oqAz7G5swH7kvYyw) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:23 |
 | 75 | [CHILL](https://open.spotify.com/track/4urZknX7jJbvgMAWYIrWwK) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:45 |
 
-Snapshot ID: `AAAAAOpY55S7sRVwBCOPQOP+VHoE7G8C`
+Snapshot ID: `AAAAAL8Ifr4WFzhkht6atmFXqah5GWeO`

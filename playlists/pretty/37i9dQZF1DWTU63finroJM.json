@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: Victor Ray",
-  "num_followers": 77612,
+  "num_followers": 77623,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM60ZvnCsfgrlE3z0KNuWwH3uZiY",
+  "snapshot_id": "AAAAAHC0d+po3FRCzIrTCVoTeAt+yPAf",
   "tracks": [
     {
       "added_at": "2025-10-01 08:00:31",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Til The Morning Comes",
-      "url": "https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
         "name": "Sweetburn",
         "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 237378,
       "name": "Bolo Bolo",
       "url": "https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Til The Morning Comes",
+      "url": "https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV"
     },
     {
       "added_at": "2025-10-01 08:00:31",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-10-01 08:00:31",
       "album": {
+        "name": "Hope Came Last",
+        "url": "https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 136731,
+      "name": "Drugs Don't Work",
+      "url": "https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc"
+    },
+    {
+      "added_at": "2025-10-01 08:00:31",
+      "album": {
         "name": "Gods window, Pt. 1",
         "url": "https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 513893,
       "name": "When We Play",
       "url": "https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc"
-    },
-    {
-      "added_at": "2025-10-01 08:00:31",
-      "album": {
-        "name": "Hope Came Last",
-        "url": "https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC"
-      },
-      "artists": [
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 136731,
-      "name": "Drugs Don't Work",
-      "url": "https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc"
     },
     {
       "added_at": "2025-10-01 08:00:31",

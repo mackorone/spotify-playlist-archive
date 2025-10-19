@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: Filiah\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,383 likes - 114 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,396 likes - 114 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

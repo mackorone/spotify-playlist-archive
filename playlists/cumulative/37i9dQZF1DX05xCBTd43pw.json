@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Curse",
+        "url": "https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2"
+      },
+      "artists": [
+        {
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177740,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel"
+    },
+    {
+      "album": {
         "name": "Dancing Alone Again",
         "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 184880,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
@@ -5099,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "Nouvelle B*tch",
+        "url": "https://open.spotify.com/album/2LPwEDH56tQsQQuLpLuWoS"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125420,
+      "name": "Nouvelle B*tch",
+      "url": "https://open.spotify.com/track/2cdl0gciaNFSaVS3DiwWdT"
+    },
+    {
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6veaCwYydd9unaXasYUneY"
       },
@@ -5906,7 +5942,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 165365,
       "name": "Sch\u00f6n",
       "url": "https://open.spotify.com/track/1swGr7I8NjsAu8iZ6MT1Hx"
@@ -6224,6 +6260,24 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "album": {
+        "name": "Sombrero",
+        "url": "https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181900,
+      "name": "Sombrero",
+      "url": "https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN"
     },
     {
       "album": {
@@ -6844,7 +6898,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 196400,
       "name": "Tontauben",
       "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"

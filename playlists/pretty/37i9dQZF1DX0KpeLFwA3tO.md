@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: BIG SPECIAL
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,501 likes - 125 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,521 likes - 125 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 43 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [ZORA](https://open.spotify.com/artist/0XKJrvokkuYzlL4umtnit8) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
 | 44 | [Hanging Onto You](https://open.spotify.com/track/4hGcrdznAIH2DtLh1quyZm) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Hanging Onto You](https://open.spotify.com/album/7v2jRZVrXNOIZOrq62hwzO) | 2:46 |
 | 45 | [Out Loud](https://open.spotify.com/track/3OcF7dJIgKUaDhXjirsFvL) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Out Loud](https://open.spotify.com/album/6Ud63aNDdeR0a52Mcxbguo) | 1:09 |
-| 46 | [Future 86](https://open.spotify.com/track/4uRAbeMggwMmQTrQmfCryK) | [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Future 86](https://open.spotify.com/album/3veqs22xTXIcDnKlCWwHiJ) | 1:52 |
+| 46 | [Future 86](https://open.spotify.com/track/4uRAbeMggwMmQTrQmfCryK) | [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Future 86 LP](https://open.spotify.com/album/3veqs22xTXIcDnKlCWwHiJ) | 1:52 |
 | 47 | [PALO ALTO](https://open.spotify.com/track/1BjPdGnP7ibXfEYC0tyRZ5) | [Scarlet Street](https://open.spotify.com/artist/0bAZy8K5gTFOhGcatCuEbW) | [PALO ALTO](https://open.spotify.com/album/5MdeTB7HLyWsWArKr0EDFO) | 3:01 |
 | 48 | [Illuminati](https://open.spotify.com/track/1eWaxavPr9AWPgeklw4HA7) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Illuminati](https://open.spotify.com/album/2aXj0Kr4jFR2USb6MK3OvF) | 3:14 |
 | 49 | [Make it Happen](https://open.spotify.com/track/0BJlMkX9QR5eTP9YXcEtM2) | [FUET!](https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6) | [Make It Happen](https://open.spotify.com/album/2RpL78hrDlWSSjgllSucDn) | 2:01 |

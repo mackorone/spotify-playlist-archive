@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACfBXBq4kkiGiiawFUfMW3t",
+  "snapshot_id": "AAAAAAAAAADkbNSDHhFcG+nsIsgnjLmc",
   "tracks": [
     {
       "added_at": "2025-10-17 04:00:00",
@@ -71,34 +71,6 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "Stereo (Bladerunner Remix)",
-        "url": "https://open.spotify.com/album/11yd2MaUvWB9mUglzmSebx"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Bladerunner",
-          "url": "https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl"
-        },
-        {
-          "name": "Lovelle",
-          "url": "https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx"
-        }
-      ],
-      "duration_ms": 202931,
-      "name": "Stereo (Bladerunner Remix)",
-      "url": "https://open.spotify.com/track/5bsBvExU1BYlv2H8PLAEKN"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
         "name": "Hot Stuff (2025 Mix)",
         "url": "https://open.spotify.com/album/5s3t03DbEfL9vKRxcw8MPK"
       },
@@ -115,22 +87,54 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "Open Ya Eyes",
-        "url": "https://open.spotify.com/album/0Douk3dhfMQy9tIZssJziL"
+        "name": "Karashi",
+        "url": "https://open.spotify.com/album/3aMWa5Npyxst9nuzgbZVKV"
       },
       "artists": [
         {
-          "name": "Big Daddy Kane",
-          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+          "name": "Zambrana",
+          "url": "https://open.spotify.com/artist/07WYr74Wovyt6uvJCat6AO"
         },
         {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 172277,
-      "name": "Open Ya Eyes",
-      "url": "https://open.spotify.com/track/7FJWcVKmZvMQK06SUy5P3K"
+      "duration_ms": 190343,
+      "name": "Karashi",
+      "url": "https://open.spotify.com/track/4WvdHU6bGmUBezMRoWgoQT"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
+        "name": "Soul In The Horn (Act 1)",
+        "url": "https://open.spotify.com/album/3ujkFMUuCGExtP50OCLIVG"
+      },
+      "artists": [
+        {
+          "name": "Soul In The Horn",
+          "url": "https://open.spotify.com/artist/2nDmZKLnQ3mFg4pqu0hEju"
+        },
+        {
+          "name": "Ben Williams",
+          "url": "https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV"
+        },
+        {
+          "name": "Dead Prez",
+          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Kendra Foster",
+          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Keep On - Power To The People Remix",
+      "url": "https://open.spotify.com/track/2sJCBPAWzId7Z4rCrlAiDy"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -187,34 +191,50 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "Soul In The Horn (Act 1)",
-        "url": "https://open.spotify.com/album/3ujkFMUuCGExtP50OCLIVG"
+        "name": "Open Ya Eyes",
+        "url": "https://open.spotify.com/album/0Douk3dhfMQy9tIZssJziL"
       },
       "artists": [
         {
-          "name": "Soul In The Horn",
-          "url": "https://open.spotify.com/artist/2nDmZKLnQ3mFg4pqu0hEju"
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
         },
         {
-          "name": "Ben Williams",
-          "url": "https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV"
-        },
-        {
-          "name": "Dead Prez",
-          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Kendra Foster",
-          "url": "https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi"
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Keep On - Power To The People Remix",
-      "url": "https://open.spotify.com/track/2sJCBPAWzId7Z4rCrlAiDy"
+      "duration_ms": 172277,
+      "name": "Open Ya Eyes",
+      "url": "https://open.spotify.com/track/7FJWcVKmZvMQK06SUy5P3K"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
+        "name": "Stereo (Bladerunner Remix)",
+        "url": "https://open.spotify.com/album/11yd2MaUvWB9mUglzmSebx"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Bladerunner",
+          "url": "https://open.spotify.com/artist/4yvREhViCsrwclRdBAdlOl"
+        },
+        {
+          "name": "Lovelle",
+          "url": "https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx"
+        }
+      ],
+      "duration_ms": 202931,
+      "name": "Stereo (Bladerunner Remix)",
+      "url": "https://open.spotify.com/track/5bsBvExU1BYlv2H8PLAEKN"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -259,26 +279,6 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 189041,
-      "name": "Pretty Promises, (feat. Mariah The Scientist)",
-      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
         "name": "Blue Sky Mentality",
         "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
@@ -295,50 +295,22 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "Dali Aint Dead",
-        "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
       },
       "artists": [
         {
-          "name": "Zelooperz",
-          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 102295,
-      "name": "Push Me Around",
-      "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
-        "name": "Lost in the Rhythm",
-        "url": "https://open.spotify.com/album/4VvNTG0IALgBCGhKr9llSu"
-      },
-      "artists": [
-        {
-          "name": "Orion BLUE Starlight",
-          "url": "https://open.spotify.com/artist/5QYTs9syDASLXU7wHkWa2y"
-        },
-        {
-          "name": "Ruby",
-          "url": "https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI"
-        },
-        {
-          "name": "Ava",
-          "url": "https://open.spotify.com/artist/5umg8KQ7JIzA1hODkvsYgV"
-        },
-        {
-          "name": "Animals As Leaders",
-          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
-        }
-      ],
-      "duration_ms": 211765,
-      "name": "Lost in the Rhythm",
-      "url": "https://open.spotify.com/track/75FNuINS5GHcdnjjmumcQk"
+      "duration_ms": 189041,
+      "name": "Pretty Promises, (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -383,26 +355,30 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "Look At 'Em",
-        "url": "https://open.spotify.com/album/2yQqJ0oIuM8Ryn7pvlHyxu"
+        "name": "Lost in the Rhythm",
+        "url": "https://open.spotify.com/album/4VvNTG0IALgBCGhKr9llSu"
       },
       "artists": [
         {
-          "name": "Erick Sermon",
-          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+          "name": "Orion BLUE Starlight",
+          "url": "https://open.spotify.com/artist/5QYTs9syDASLXU7wHkWa2y"
         },
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI"
         },
         {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+          "name": "Ava",
+          "url": "https://open.spotify.com/artist/5umg8KQ7JIzA1hODkvsYgV"
+        },
+        {
+          "name": "Animals As Leaders",
+          "url": "https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8"
         }
       ],
-      "duration_ms": 170020,
-      "name": "Look At 'Em",
-      "url": "https://open.spotify.com/track/6nnKuAPS0lZ41PEGuiKMLD"
+      "duration_ms": 211765,
+      "name": "Lost in the Rhythm",
+      "url": "https://open.spotify.com/track/75FNuINS5GHcdnjjmumcQk"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -431,22 +407,6 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "Zunge 2025",
-        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 212387,
-      "name": "Prostitution",
-      "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
         "name": "Re: Inkarnation (Deutsche Version)",
         "url": "https://open.spotify.com/album/2Erx77qpP3eKBdd2D8ky8h"
       },
@@ -463,38 +423,6 @@
       "duration_ms": 213333,
       "name": "Re: Inkarnation - Deutsche Version",
       "url": "https://open.spotify.com/track/503FNJRbw5jyO23OVET5vJ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 183489,
-      "name": "Vacancy",
-      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 145587,
-      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
-      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -519,6 +447,54 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 183489,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
+        "name": "Zunge 2025",
+        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 212387,
+      "name": "Prostitution",
+      "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 254729,
+      "name": "Relaxin'",
+      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
         "name": "Bring More Bass",
         "url": "https://open.spotify.com/album/6eFlbIP5AHAW37yweDF4eP"
       },
@@ -535,6 +511,46 @@
       "duration_ms": 138984,
       "name": "Bring More Bass",
       "url": "https://open.spotify.com/track/4UpNfIG3m3PtzliICnhZAb"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/5JAkbWX1nkpawSV2HDCgdH"
+      },
+      "artists": [
+        {
+          "name": "Dtm716",
+          "url": "https://open.spotify.com/artist/5DnBnBQpL0RbmmCnwypLsg"
+        },
+        {
+          "name": "MylesTales",
+          "url": "https://open.spotify.com/artist/3DT922jJZ02xKYiGztAkVW"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Paid In Full",
+      "url": "https://open.spotify.com/track/6yI23c8iJqrl1jUjm6CvbH"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 145587,
+      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
+      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -563,38 +579,22 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
-        "name": "100 NIGHTS",
-        "url": "https://open.spotify.com/album/1rNJU9cKcImQmNSeKnfe4Y"
+        "name": "I Am Blessed (Ginton Remix)",
+        "url": "https://open.spotify.com/album/0ytJuZz6ZhOJWvQP7AZp6f"
       },
       "artists": [
         {
-          "name": "Rashid Isaiah",
-          "url": "https://open.spotify.com/artist/7mEdGrvSIkWB9P2ANVik80"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         }
       ],
-      "duration_ms": 151500,
-      "name": "VELOUR SUITS",
-      "url": "https://open.spotify.com/track/1O2BZv4jX9HCmNVaMsZSHi"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 254729,
-      "name": "Relaxin'",
-      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
+      "duration_ms": 194606,
+      "name": "I Am Blessed - Ginton Remix",
+      "url": "https://open.spotify.com/track/79KbAvCPvnjRZPeJGjqCLp"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -615,26 +615,6 @@
       "duration_ms": 365209,
       "name": "The Mill (Grinds My Bones)",
       "url": "https://open.spotify.com/track/3Vw4UIyy8hFL2pZOtfYV54"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
-        "name": "I Am Blessed (Ginton Remix)",
-        "url": "https://open.spotify.com/album/0ytJuZz6ZhOJWvQP7AZp6f"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        }
-      ],
-      "duration_ms": 194606,
-      "name": "I Am Blessed - Ginton Remix",
-      "url": "https://open.spotify.com/track/79KbAvCPvnjRZPeJGjqCLp"
     },
     {
       "added_at": "2025-10-17 04:00:00",
@@ -679,6 +659,22 @@
     {
       "added_at": "2025-10-17 04:00:00",
       "album": {
+        "name": "Devil's Den",
+        "url": "https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd"
+      },
+      "artists": [
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 239458,
+      "name": "Devil's Den",
+      "url": "https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B"
+    },
+    {
+      "added_at": "2025-10-17 04:00:00",
+      "album": {
         "name": "The Eternal Tenure of Sound: Damage Control",
         "url": "https://open.spotify.com/album/7dbPdr5wIgzLDoh4csU0Yj"
       },
@@ -703,22 +699,6 @@
       "duration_ms": 608663,
       "name": "In Search of My Heart / Love Surrounds Us Everywhere (feat. Kamasi Washington, Terrace Martin & Nile Rodgers)",
       "url": "https://open.spotify.com/track/2A49G3LtFy8dWckf69rZBM"
-    },
-    {
-      "added_at": "2025-10-17 04:00:00",
-      "album": {
-        "name": "Devil's Den",
-        "url": "https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 239458,
-      "name": "Devil's Den",
-      "url": "https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B"
     },
     {
       "added_at": "2025-10-17 04:00:00",

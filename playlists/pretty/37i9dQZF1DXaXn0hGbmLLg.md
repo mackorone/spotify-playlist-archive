@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! October ambassador: <a href="spotify:artist:6YznhKZUZFVr418x7OUi3z">Roxy Dekker</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,452 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,451 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 92 | [En Toen Een Zoen](https://open.spotify.com/track/3ZE8ULaWkEWCB7CPd2Wess) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [En Toen Een Zoen](https://open.spotify.com/album/7DOrlfBh1C3p3urGV1Kt1G) | 3:04 |
 | 93 | [Kijk Niet Om](https://open.spotify.com/track/06N8PYVWb6MgOR9vuxGs9G) | [Sabien Tiels](https://open.spotify.com/artist/7p0vcwWuuNIgMQvaYkgiRG) | [Kijk Niet Om](https://open.spotify.com/album/6Mm7Ytk8PMEsI78w9OUbJC) | 2:51 |
 
-Snapshot ID: `AAAAAAFcNc6owk6zB8agKtUkS9BGU3Yf`
+Snapshot ID: `AAAAAE7z5SPyyWEPg/oU7pgCMVpositw`

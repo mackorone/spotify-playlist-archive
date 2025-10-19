@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaC92s8yKT97.md) - [plain]
 
 > True crime stories that are stranger than fiction.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2085,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/6DYh3foA4DZh9s6z2cgJuF"
+      },
+      "artists": [
+        {
+          "name": "The Prayer Project",
+          "url": "https://open.spotify.com/artist/06iKiwLrDZpX4AyUtQMlMh"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/5fsPTygQAwCBh9IoZKKyCa"
+    },
+    {
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -2602,7 +2624,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 449446,
       "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
       "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"

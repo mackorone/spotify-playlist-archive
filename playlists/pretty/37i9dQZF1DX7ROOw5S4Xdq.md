@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Bruna Karla
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,475 likes - 49 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,520 likes - 49 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 33 | [Confio Em Deus \(Trust In God\)](https://open.spotify.com/track/3LUwG8IgWSkmKmbi1ilxX1) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Confio Em Deus \(Trust In God\)](https://open.spotify.com/album/0iUrexuYwns28CfXWpYJxZ) | 6:47 |
 | 34 | [Do Jeito de Deus](https://open.spotify.com/track/3m1NECwqFyGJTwONEO3g3E) | [Rogerinha Moreira](https://open.spotify.com/artist/1j31ps1PqhsDm33h0GuRnj), [Canção Nova](https://open.spotify.com/artist/0kkjae94l4ighIdmS3Ljuu) | [Studio Canção Nova \| Acústico](https://open.spotify.com/album/2j0aHyN2PGiVoWg5JyNeih) | 3:26 |
 | 35 | [Oração II](https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et) | [João VR6](https://open.spotify.com/artist/19VU06z6Qr5NIONW6K9CrT), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M), [iagguprod](https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL) | [Oração II](https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ) | 2:13 |
-| 36 | [João 8:32](https://open.spotify.com/track/6cePAjOPd5cPY5iG20bD2Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Arise](https://open.spotify.com/artist/1lqxJbeY6qeUyeXY17uGAK) | [João 8:32](https://open.spotify.com/album/4gvjHLQf4BseojSHCMteLU) | 2:37 |
+| 36 | [João 8:32](https://open.spotify.com/track/6cePAjOPd5cPY5iG20bD2Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [ARISE](https://open.spotify.com/artist/55ODiuoLqv02mQkm06CxtW) | [João 8:32](https://open.spotify.com/album/4gvjHLQf4BseojSHCMteLU) | 2:37 |
 | 37 | [Deus Já Está Lá](https://open.spotify.com/track/5q01IlC8iexbbPX1zkjXdD) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Deus Já Está Lá](https://open.spotify.com/album/4lnrUHZjRRxjvTuCgxkzMJ) | 4:53 |
 | 38 | [Se Eu Orar](https://open.spotify.com/track/2RPN75RAQI6PBiU3NheogG) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Se Eu Orar](https://open.spotify.com/album/1ILkhsyLxXHnpp0EdMIJ2L) | 3:13 |
 | 39 | [Deus Meu](https://open.spotify.com/track/6UHFh9QWJLbc9yshLS6OCS) | [Veronica Sacer](https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v) | [Deus Meu](https://open.spotify.com/album/6BI3GvAIwVixejOxWO0BzR) | 3:02 |

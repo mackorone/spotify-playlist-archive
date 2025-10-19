@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A Boogie
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,406 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,394 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 3 | [Part of Me](https://open.spotify.com/track/4nds6JYKbzMdpXwuINhSEZ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Part of Me](https://open.spotify.com/album/0UGixmRqK86q9d6T0kAFnv) | 2:47 |
 | 4 | [Letter To My Block](https://open.spotify.com/track/13t9AfJrAFiOJm5ZSODads) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Letter To My Block](https://open.spotify.com/album/4sEo0V4bfSD5iV3ZOowPlz) | 3:14 |
 | 5 | [Feeeeeeeeel](https://open.spotify.com/track/5eSSmNIgjgzru9ONPvNNYf) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Feeeeeeeeel](https://open.spotify.com/album/4ETeS3fpSdrTBxSOims39G) | 2:13 |
-| 6 | [In Ya City](https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [In Ya City](https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr) | 2:15 |
+| 6 | [In Ya City](https://open.spotify.com/track/3rxjyKKe8PXtnvO96V3Cez) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [In Ya City](https://open.spotify.com/album/3pdLfvMrPzYhTmzOVriPBr) | 2:10 |
 | 7 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
 | 8 | [Rich Sinners \(feat\. Lil Yachty\)](https://open.spotify.com/track/7wV5to0AMAWttuxTeTUzjP) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rich Sinners \(feat\. Lil Yachty\)](https://open.spotify.com/album/4IyuZSKWzmu9vZ9ZzoX9AG) | 2:38 |
 | 9 | [12 Months \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/7BbkQ0vyOP7HAUQXMeIln9) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Karma 4](https://open.spotify.com/album/7EhhvSYad20sjiKKI5JnRQ) | 3:26 |
 | 10 | [u aint gotta chance](https://open.spotify.com/track/4yLiK5atUkQWd16uG5WRuN) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [u aint gotta chance](https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq) | 2:48 |
 | 11 | [I Don't Mind](https://open.spotify.com/track/4d4QJL64iAgiHtLIl2I8S5) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Grit & Grace](https://open.spotify.com/album/2V3mfZot5KgRs2lZoEzkPO) | 2:46 |
-| 12 | [Act Like You Know](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 |
+| 12 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 |
 | 13 | [START TO FiNiSH \- S.T.F](https://open.spotify.com/track/2cosCEbJVLuKb9W2dttgBn) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [START TO FiNiSH \- S.T.F](https://open.spotify.com/album/3JlQviJIx9W8AAdIiIrQZz) | 1:56 |
 | 14 | [Hot](https://open.spotify.com/track/4yFYUMkwjGmEDVAMKWzGLh) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Hot](https://open.spotify.com/album/784ySTvuLwO8oA0bnndDr1) | 3:03 |
 | 15 | [Bar 4 Bar Freestyle](https://open.spotify.com/track/3UGWApcs8t4h0vYMDSncJr) | [Baby Osamaa](https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N) | [Enjoy The Ride \(Deluxe\)](https://open.spotify.com/album/1eij4HEN2WwHvxXvX9Qo3e) | 2:00 |

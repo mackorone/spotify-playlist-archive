@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 33434,
+  "num_followers": 33469,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPA1gAAAAACdkRJjRNP60EFd4hO4Y0Sl",
+  "snapshot_id": "aPGHAAAAAACmbnTCQTAIVUZaRU63YqQm",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reminiscence EP",
-        "url": "https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Two Nights",
-      "url": "https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perception EP",
         "url": "https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 202474,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/1wliWYGaW0WHkZEOB469dI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reminiscence EP",
+        "url": "https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Two Nights",
+      "url": "https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG"
     },
     {
       "added_at": null,

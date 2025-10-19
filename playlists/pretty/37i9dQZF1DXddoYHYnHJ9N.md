@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Bruno & mollywood
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Azahriah
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,145 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,176 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AFTERPARTY](https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [AFTERPARTY](https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd) | 2:24 |
-| 2 | [Lelkem, Nyugodj](https://open.spotify.com/track/1tm4qXlpkzkLrHqs9JPF73) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Lelkem, Nyugodj](https://open.spotify.com/album/63vYd4u5laaQ7Him1ZRz8q) | 3:00 |
-| 3 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 |
-| 4 | [PRESSO](https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [PRESSO](https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3) | 2:37 |
-| 5 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 |
-| 6 | [PONT JÓ](https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [PONT JÓ](https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1) | 2:34 |
-| 7 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
-| 8 | [SZEPTEMBER VÉGÉN \- STRESSZ](https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZEPTEMBER VÉGÉN \(STRESSZ\)](https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4) | 3:35 |
-| 9 | [pörkölt](https://open.spotify.com/track/0M1CutPz25funLH08wHAL1) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [pörkölt](https://open.spotify.com/album/16DsEA2Cj7Sxon11Wfxhq3) | 2:51 |
+| 1 | [kif.lee](https://open.spotify.com/track/27ku2bPgLSoGNyaCORu2NK) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Skatulya II.](https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb) | 3:14 |
+| 2 | [AFTERPARTY](https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [AFTERPARTY](https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd) | 2:24 |
+| 3 | [Lelkem, Nyugodj](https://open.spotify.com/track/1tm4qXlpkzkLrHqs9JPF73) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Lelkem, Nyugodj](https://open.spotify.com/album/63vYd4u5laaQ7Him1ZRz8q) | 3:00 |
+| 4 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 |
+| 5 | [PRESSO](https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [PRESSO](https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3) | 2:37 |
+| 6 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 |
+| 7 | [PONT JÓ](https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [PONT JÓ](https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1) | 2:34 |
+| 8 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
+| 9 | [SZEPTEMBER VÉGÉN \- STRESSZ](https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [SZEPTEMBER VÉGÉN \(STRESSZ\)](https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4) | 3:35 |
 | 10 | [PLETYKA](https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [PLETYKA](https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj) | 2:35 |
 | 11 | [OHMAMMA](https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [OHMAMMA](https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu) | 2:48 |
 | 12 | [Kimaradás](https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Ferike](https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ) | [Kimaradás](https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 | 49 | [MEGGYFÁN](https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 2:26 |
 | 50 | [díva](https://open.spotify.com/track/52kBWybNy033009vfeYu5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:15 |
 
-Snapshot ID: `AAAAAKiOWzlGozTFDn/yWOSu95ipPBYz`
+Snapshot ID: `AAAAAN1+aEY58L4U3QXoJAb0JCm6ST6u`

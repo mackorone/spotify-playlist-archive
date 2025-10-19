@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: MOLIY and Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,377 likes - 116 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,470 likes - 116 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

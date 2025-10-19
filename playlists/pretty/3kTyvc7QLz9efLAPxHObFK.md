@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,609 songs - 5 day 16 hr 2 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,614 songs - 5 day 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2617,5 +2617,10 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2607 | [Every Time](https://open.spotify.com/track/725kDGsYSpt8xnq2bLwSTH) | [Guizcore](https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Every Time](https://open.spotify.com/album/775V5NmheoVBpFxN6EAeGT) | 2:36 |
 | 2608 | [Rock That Body](https://open.spotify.com/track/4gRyR3iQuENn8XdNx4UkVX) | [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [Rock That Body](https://open.spotify.com/album/6wNn7WlFzDLVA6rD02VzM4) | 2:13 |
 | 2609 | [Born To Rage](https://open.spotify.com/track/3Xe7uIChYGhwGGPvGqUe2q) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX), [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Born To Rage](https://open.spotify.com/album/3EzSAZWu0pBBjaSgYU9oZM) | 3:02 |
+| 2610 | [Drop It](https://open.spotify.com/track/0cvqCzhSuNh9mkgf4TdSGs) | [Knitter&Fetze](https://open.spotify.com/artist/4x1uU1O0MFSLOct2ZyzFYJ), [KIOR](https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ) | [Drop It](https://open.spotify.com/album/4QW86iJzQbTO7ClxMRYHl8) | 2:46 |
+| 2611 | [Pretty Like Barbie](https://open.spotify.com/track/7bHCCmC6IQtxq4wPT9EJBw) | [T.M.O.](https://open.spotify.com/artist/6F9ptlr1dr47cW4CjSQDiK), [Double Trouble](https://open.spotify.com/artist/5GPepE4EJ70TsAFBlkaF7A) | [Pretty Like Barbie](https://open.spotify.com/album/4zApVeOEiTzZB2P18pnTNo) | 2:14 |
+| 2612 | [RAVE ALL NIGHT](https://open.spotify.com/track/3Z9mc4IAFowHlvQRMpoGeg) | [Bradox45](https://open.spotify.com/artist/6V2XX5oLzqV21kpfTwkPDf), [RAV3ART](https://open.spotify.com/artist/5HmYVmjJ20MH8rYysXCsOf) | [RAVE ALL NIGHT](https://open.spotify.com/album/2BchlUcEplRnTKqkLyDnwg) | 2:43 |
+| 2613 | [Turn Down For What](https://open.spotify.com/track/2RR4oztV4r0VZ3F1IboWgg) | [Coldax](https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ) | [Turn Down For What](https://open.spotify.com/album/2TYpjvLepJu3dZOxECKC6u) | 2:19 |
+| 2614 | [Rave Buddy \(Official Between The Seas 2025 Anthem\) \- BassWar & CaoX Remix](https://open.spotify.com/track/6WcQHOIYLvLvNjDOY9BUW7) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [ROBIN WHITE](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX), [Mary Lena](https://open.spotify.com/artist/4DX3wSZoQvQRUiO9uTkVAf) | [Rave Buddy \(BassWar & CaoX Remix\)](https://open.spotify.com/album/4YQVPvTERFhhCW99rjUBbB) | 2:14 |
 
-Snapshot ID: `AAAKfOyJhbilRtJJq8FKMytA2uJrW4Un`
+Snapshot ID: `AAAKgQOwo5mwkR5BsWLGpcLLb6WxHapY`

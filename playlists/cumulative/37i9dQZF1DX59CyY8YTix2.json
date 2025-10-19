@@ -5062,7 +5062,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 196343,
       "name": "GG",
       "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
@@ -5120,6 +5120,24 @@
       "duration_ms": 188473,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/2sJZU9wjC3CnUPW3hPAb3i"
+    },
+    {
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262432,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP"
     },
     {
       "album": {
@@ -14955,24 +14973,6 @@
     },
     {
       "album": {
-        "name": "Talent",
-        "url": "https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "date_added": "2025-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262432,
-      "name": "Talent",
-      "url": "https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP"
-    },
-    {
-      "album": {
         "name": "Tanpen Shosetsu",
         "url": "https://open.spotify.com/album/3zqiOYvEy2mmBIjTKiM933"
       },
@@ -17632,7 +17632,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 203116,
       "name": "\u3042\u306e\u590f\u304c\u7656\u306b\u306a\u3063\u3066\u3044\u304f",
       "url": "https://open.spotify.com/track/3ZGqqgN5GYvsM130KCZ0HN"

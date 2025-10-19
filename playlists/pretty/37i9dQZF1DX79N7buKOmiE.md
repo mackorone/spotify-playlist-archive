@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat! Cover: Csinszka
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,178 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,177 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 21 | [Kirakat](https://open.spotify.com/track/5jGlMgXfDYErfn7ZOdqywH) | [Amanna](https://open.spotify.com/artist/54wEXl1f4JkIWqUdWOodxJ) | [Kirakat](https://open.spotify.com/album/0LHQVF69LK8yNQXldcBY7Z) | 2:47 |
 | 22 | [Some change](https://open.spotify.com/track/3mzvEQ6ccFJ441D14sn3i2) | [NOIRA](https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo), [ROSE MAY](https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I) | [Some change](https://open.spotify.com/album/6e8dEkLfdtRjchCxX3ZOjq) | 3:35 |
 | 23 | [beware the devil III \(oblivion\)](https://open.spotify.com/track/7JA14p0XJqu862fwHn28A8) | [Laura Jadi](https://open.spotify.com/artist/37FWsOpkCGtFny0QGLnnHb) | [beware the devil III \(oblivion\)](https://open.spotify.com/album/3G17P2KRodtd7ntE4mN6rz) | 3:00 |
-| 24 | [A Maszk Alatt](https://open.spotify.com/track/1mQq4ZDtiE3xMZCGpMWWwn) | [Tiah](https://open.spotify.com/artist/2Mx3Z7KLTpnOhcf6qwRgXT) | [A Maszk Alatt](https://open.spotify.com/album/1Xwi8HjcsvWEt4tjkqAtFA) | 6:18 |
+| 24 | [A Maszk Alatt](https://open.spotify.com/track/1mQq4ZDtiE3xMZCGpMWWwn) | [TIAH](https://open.spotify.com/artist/2Mx3Z7KLTpnOhcf6qwRgXT) | [A Maszk Alatt](https://open.spotify.com/album/1Xwi8HjcsvWEt4tjkqAtFA) | 6:18 |
 | 25 | [Száz sugár](https://open.spotify.com/track/5Jvp9WtAeW2uhtwfoZyPTL) | [Magashegyi Underground](https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi) | [Száz sugár](https://open.spotify.com/album/2X02yKzWZ5vFawmAGbFlCs) | 3:13 |
 | 26 | [Mire voltam jó?](https://open.spotify.com/track/2vA2j2pWNgnpVrMjgRNMWl) | [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Mire voltam jó?](https://open.spotify.com/album/5NKvAAW66iwjabAG5tMeIw) | 2:29 |
 | 27 | [SZÍV](https://open.spotify.com/track/6VKp1jDD4jLREXk0by296M) | [GAB](https://open.spotify.com/artist/6DaJdp4qyHYvopze0vQqjd), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [SZÍV](https://open.spotify.com/album/5M1UKqf9VE6OM75P4EjXl9) | 3:31 |

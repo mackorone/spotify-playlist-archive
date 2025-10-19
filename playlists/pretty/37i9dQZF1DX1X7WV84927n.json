@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Ghost",
-  "num_followers": 423808,
+  "num_followers": 424003,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "SILOS",
-        "url": "https://open.spotify.com/album/5OvVvOZpu1OH1SzcYYgvry"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 275987,
-      "name": "AD ASTRA",
-      "url": "https://open.spotify.com/track/1dcywVLqlThchSWBGtXcpV"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "The Jaws Of Life (Deluxe)",
         "url": "https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 256268,
       "name": "Kiss Me Now",
       "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "SILOS",
+        "url": "https://open.spotify.com/album/5OvVvOZpu1OH1SzcYYgvry"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 275987,
+      "name": "AD ASTRA",
+      "url": "https://open.spotify.com/track/1dcywVLqlThchSWBGtXcpV"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -1439,42 +1439,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "CONCRETE JUNGLE [THE OST]",
-        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 235092,
-      "name": "ANYTHING > HUMAN",
-      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
-        "name": "The Only Heaven You'll Know",
-        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "The Only Heaven You'll Know",
-      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "BRAINDEAD (feat. Toby Morse)",
         "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
       },
@@ -1495,18 +1459,38 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "Three Six Five / Dance, Kid, Dance",
-        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
+        "name": "The Only Heaven You'll Know",
+        "url": "https://open.spotify.com/album/7rBKkQ3Vz9D6jbPwoEWRnI"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
         }
       ],
-      "duration_ms": 212113,
-      "name": "Dance, Kid, Dance",
-      "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
+      "duration_ms": 223000,
+      "name": "The Only Heaven You'll Know",
+      "url": "https://open.spotify.com/track/4w1kRlzCTYQKXKXX2UULcK"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "CONCRETE JUNGLE [THE OST]",
+        "url": "https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 235092,
+      "name": "ANYTHING > HUMAN",
+      "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -1523,6 +1507,22 @@
       "duration_ms": 238813,
       "name": "Demonic Depression",
       "url": "https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "Three Six Five / Dance, Kid, Dance",
+        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 212113,
+      "name": "Dance, Kid, Dance",
+      "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "Chrome Jets",
-        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 216747,
-      "name": "Chrome Jets",
-      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "Things Are Different Now",
         "url": "https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "Chrome Jets",
+        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Chrome Jets",
+      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 258466,
       "name": "Dust in the Wind (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "DARK THINGS",
-        "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 280776,
-      "name": "DARK THINGS",
-      "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/53FUi5ofeISRwJleGHQ6eV"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 225871,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0u8wRzaAaJkqpqrTYNn3bZ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "DARK THINGS",
+        "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 280776,
+      "name": "DARK THINGS",
+      "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -2003,38 +2003,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
-      },
-      "artists": [
-        {
-          "name": "Nevertel",
-          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
-        }
-      ],
-      "duration_ms": 194959,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
-        "name": "TOKSIK",
-        "url": "https://open.spotify.com/album/0lQauEzDsukvFsjxeU5pAB"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 231385,
-      "name": "TOKSIK",
-      "url": "https://open.spotify.com/track/2A1vltKnglFQrMFEUoyFSE"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "Safehouse",
         "url": "https://open.spotify.com/album/2vGUAmehavRZ3ufYeWKuoL"
       },
@@ -2055,6 +2023,38 @@
       "duration_ms": 222421,
       "name": "Safehouse",
       "url": "https://open.spotify.com/track/0UynnxAsuxCaHtP41IYMJv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "TOKSIK",
+        "url": "https://open.spotify.com/album/0lQauEzDsukvFsjxeU5pAB"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 231385,
+      "name": "TOKSIK",
+      "url": "https://open.spotify.com/track/2A1vltKnglFQrMFEUoyFSE"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "duration_ms": 194959,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "GOD IS AN ANIMAL",
-        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 235745,
-      "name": "GOD IS AN ANIMAL",
-      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "One Last Dance (From \"Venom: The Last Dance\")",
         "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
       },
@@ -2207,22 +2191,18 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "Say It Again (feat. The Rasmus)",
-        "url": "https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz"
+        "name": "GOD IS AN ANIMAL",
+        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        },
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
         }
       ],
-      "duration_ms": 263571,
-      "name": "Say It Again (feat. The Rasmus)",
-      "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
+      "duration_ms": 235745,
+      "name": "GOD IS AN ANIMAL",
+      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -2243,6 +2223,26 @@
       "duration_ms": 180615,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "Say It Again (feat. The Rasmus)",
+        "url": "https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 263571,
+      "name": "Say It Again (feat. The Rasmus)",
+      "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "Gnash",
-        "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Gnash",
-      "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "Sacred",
         "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
       },
@@ -2311,6 +2295,22 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
+        "name": "Gnash",
+        "url": "https://open.spotify.com/album/0DXRyUTkBoNnd5ju9m8cun"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Gnash",
+      "url": "https://open.spotify.com/track/6Yu7zrXznYyNuzkpcwTuUp"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/7c4xJPkWyEyLFhscmPbhl7"
       },
@@ -2323,22 +2323,6 @@
       "duration_ms": 220660,
       "name": "Love Is War",
       "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
-        "name": "All the Way Down",
-        "url": "https://open.spotify.com/album/5AyOJ8o2kQCd4uHSDQf9xI"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "All the Way Down",
-      "url": "https://open.spotify.com/track/6k8yVeEdbvkEbPYTCp0v20"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -2375,6 +2359,22 @@
       "duration_ms": 178560,
       "name": "Stress",
       "url": "https://open.spotify.com/track/1k7MFmBvpUJd0YZjwqQWM9"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "All the Way Down",
+        "url": "https://open.spotify.com/album/5AyOJ8o2kQCd4uHSDQf9xI"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "All the Way Down",
+      "url": "https://open.spotify.com/track/6k8yVeEdbvkEbPYTCp0v20"
     },
     {
       "added_at": "2025-10-17 04:00:31",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2025-10-17 04:00:31",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/33k6y0sxFbgW1I0GBcUrN3"
-      },
-      "artists": [
-        {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 183187,
-      "name": "III",
-      "url": "https://open.spotify.com/track/4TNV2F6yCqt5ska9ojuEnA"
-    },
-    {
-      "added_at": "2025-10-17 04:00:31",
-      "album": {
         "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
         "url": "https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 152456,
       "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH"
+    },
+    {
+      "added_at": "2025-10-17 04:00:31",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/33k6y0sxFbgW1I0GBcUrN3"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "duration_ms": 183187,
+      "name": "III",
+      "url": "https://open.spotify.com/track/4TNV2F6yCqt5ska9ojuEnA"
     },
     {
       "added_at": "2025-10-17 04:00:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Tame Impala,  and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,389 likes - 92 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,400 likes - 92 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

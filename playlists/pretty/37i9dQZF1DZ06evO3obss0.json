@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 143548,
+  "num_followers": 143792,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPA1gAAAAABn4EDbz7iFzwRzIKmoeUFm",
+  "snapshot_id": "aPGHAAAAAABBVSenlQzq9+9k2rOESY2I",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tipsy (feat. RAYE)",
         "url": "https://open.spotify.com/album/5vTEYsgyE0C0ADqZo0Qy3F"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 208893,
       "name": "Tipsy (feat. RAYE)",
       "url": "https://open.spotify.com/track/5Wt7ngK753xBhSjb9lRfSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live at Montreux Jazz Festival",
+        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 419683,
+      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Side Tape",
         "url": "https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 170666,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Montreux Jazz Festival",
-        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 419683,
-      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Kay Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,073 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,090 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [KEKELA](https://open.spotify.com/track/00Bi7zLNYPSS9Mw3FssZv8) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Dahoodhope](https://open.spotify.com/artist/1ngdocoXiu79LWVx5syMLd), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Jepedoh](https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ) | [KEKELA](https://open.spotify.com/album/4TfiYea5YQPkmlxPGpDtFp) | 2:25 |
 | 100 | [Amantombazane](https://open.spotify.com/track/6DCJYrCaWkdRladWge8Qw5) | [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D) | [Amantombazane](https://open.spotify.com/album/4pc8EIYuVBwDoC66Lf72bt) | 2:44 |
 
-Snapshot ID: `AAAAAJaWyrJJcnrrAz1H56qIEQR/XgTh`
+Snapshot ID: `AAAAABswOJl76L5e5t6DU4rCHULuTlZB`

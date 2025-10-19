@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și descoperă\-le piesele alese de editorii noștri\. Cover: Misha Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,439 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,441 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [De Corazón](https://open.spotify.com/track/5A3PRd9ydLGFaHlJ9ggZFr) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [De Corazón](https://open.spotify.com/album/15RnknO2T3MUdrfowpQuK0) | 3:06 |
 | 50 | [Dinamita](https://open.spotify.com/track/2sT5iCQaAQCj33E9i5ZG4u) | [J'iulia](https://open.spotify.com/artist/31cF0kW89xH71Nd7qbZfYJ) | [Dinamita](https://open.spotify.com/album/1yCiyAvDS1HSOQO3nOohBJ) | 2:18 |
 
-Snapshot ID: `AAAAAEBgNOmXu/qkmrancYxRFbuIOor7`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

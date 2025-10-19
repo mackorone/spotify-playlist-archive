@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3EUnJXa6Vv9jEIAm7H0nbC"
+      },
+      "artists": [
+        {
+          "name": "Sheri Marie Ptolemy",
+          "url": "https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177491,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2o3iV0wXd1uhSp2M0vBM0A"
+    },
+    {
+      "album": {
         "name": "Another Farewell",
         "url": "https://open.spotify.com/album/3BOvYuLkTZX16QpZ1zVZV5"
       },

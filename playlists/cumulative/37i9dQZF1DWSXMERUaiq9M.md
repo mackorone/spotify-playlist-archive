@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-578 songs - 1 day 11 hr 29 min
+579 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Floor Is Lava](https://open.spotify.com/track/7zUxM3LMp896kB6ublEQSG) | [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ), [KIM SWIM](https://open.spotify.com/artist/5wRR3aLJ5lZslvIQtugEGt) | [Floor Is Lava](https://open.spotify.com/album/1o7Bn4ScjjnHKaNbjYfyhR) | 3:33 | 2025-07-24 | 2025-08-09 |
 | [Flow My Tears](https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Flow My Tears](https://open.spotify.com/album/2CFhxHIc7rihE0lzqAZYYO) | 6:10 | 2023-07-07 | 2023-07-18 |
 | [Flying](https://open.spotify.com/track/3az4vAsJLnsNlvj786xsIR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [Flying](https://open.spotify.com/album/0tRIZKUU63SRnbqp9Iu9ZL) | 2:19 | 2023-06-15 | 2023-06-23 |
-| [Forbidden Voices](https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Forbidden Voices](https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5) | 3:20 | 2025-02-06 |  |
+| [Forbidden Voices](https://open.spotify.com/track/21kPwrdkfoolgxjiRQeGiH) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Forbidden Voices](https://open.spotify.com/album/7o06LXJpKCaA1zUcw4hDF5) | 3:20 | 2025-02-06 | 2025-10-19 |
 | [Forever](https://open.spotify.com/track/1Zv49ZaPJYXFXoHzjTLawQ) | [Exceed](https://open.spotify.com/artist/3adLeGiO2CUnDGgHrFhok2) | [Forever](https://open.spotify.com/album/5gc52p3ejzUHlaJYTDHsV8) | 4:08 | 2025-06-26 | 2025-07-18 |
 | [Forever \(if u need it\)](https://open.spotify.com/track/0Khk6IL9qFhuRwjJh21oMY) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Forever \(if u need it\)](https://open.spotify.com/album/2ljpCWjcaTnL7JH6jwIEHS) | 3:25 | 2025-08-07 | 2025-10-17 |
 | [Forever 2 \(Crush Mix\) \- Malugi Remix](https://open.spotify.com/track/1lWiQ34sGK1i862zAFiRNW) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p), [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Forever 2 \(Crush Mix\) \[Malugi Remix\]](https://open.spotify.com/album/4GVMrNM51OLbs6tR5gnCUU) | 2:57 | 2024-12-28 | 2025-01-07 |
@@ -376,6 +376,7 @@
 | [Now We Are Free](https://open.spotify.com/track/0spV7kRavzOYJYKzOf8zSl) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa), [AntoNetta](https://open.spotify.com/artist/2AtZ6NmtS2BO2GgUTIw3aL) | [Now We Are Free](https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt) | 3:20 | 2024-11-11 |  |
 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 | 2024-04-18 | 2024-04-26 |
 | [Obsessed \- pewtwo! Remix](https://open.spotify.com/track/2cf99dfxWCnMT3Z2EmWO8S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2), [pewtwo!](https://open.spotify.com/artist/2A2TXo0OTrHFSKGQm8v7EL) | [Obsessed \(Remixes\)](https://open.spotify.com/album/22AnFhL89EKUOoraIsBuWz) | 4:10 | 2024-06-27 | 2024-07-05 |
+| [Ocean \- Marlon Hoffstadt Remix](https://open.spotify.com/track/6b4QkHBw1N4eLIa8dBxtWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Ocean \(Marlon Hoffstadt Remix\)](https://open.spotify.com/album/52NrxzG4sTry7tFTr5TrFO) | 3:56 | 2025-10-16 |  |
 | [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer \(Hard Techno Edit\)](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 | 2024-03-22 | 2024-04-06 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-09 | 2024-09-17 |
 | [Oh mein Herz](https://open.spotify.com/track/0UkjRy9JSG0ybtOzzgaY6x) | [Sita Messer](https://open.spotify.com/artist/2Mm1h6fUugx92tOcPa4Jxj) | [Oh mein Herz](https://open.spotify.com/album/3ivdIDxMnTZX2JS1l08RAJ) | 3:08 | 2023-03-10 | 2023-03-25 |

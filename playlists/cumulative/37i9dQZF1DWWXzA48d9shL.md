@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-675 songs - 1 day 2 hr 41 min
+676 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Falling](https://open.spotify.com/track/5cF4gR8WHnHgkPFSD6hdC2) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Falling](https://open.spotify.com/album/7FGCBxUHVOvJUEWTwLCA9c) | 2:23 | 2024-03-22 |  |
 | [Family Friendly Radio](https://open.spotify.com/track/3QNbrKiqcWuThK0tF1BicK) | [MVRTYR](https://open.spotify.com/artist/3xDaDai6irdnH3pLamd9lQ) | [Family Friendly Radio](https://open.spotify.com/album/1DXM2vIe13wYX32ajhppHw) | 1:49 | 2023-01-20 | 2023-02-25 |
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-22 | 2023-11-17 |
+| [Fidelio](https://open.spotify.com/track/4IBTU8b4bM3ycYYrvwcURk) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fidelio](https://open.spotify.com/album/7pQWc2Fpk4E79bbwIk5DSN) | 2:34 | 2025-10-18 |  |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-12-14 | 2024-02-24 |
 | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-06-24 | 2022-11-19 |
 | [Five Nights \(feat\. Danny Brown\)](https://open.spotify.com/track/345lVnvY38p44UbPC20f2U) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Freddie's Inferno \(Deluxe\)](https://open.spotify.com/album/07YX7oCO5D6zr1NVDEeSAd) | 2:26 | 2023-02-24 | 2024-03-09 |
@@ -459,7 +460,7 @@
 | [On The Weekends I Feel Like Drake \- Studio Version](https://open.spotify.com/track/5HZ7CYcuQeQfwZ5vNve4Cg) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [On The Weekends I Feel Like Drake \(Studio Version\)](https://open.spotify.com/album/1hAMvomhEuz5ojXn82h2iI) | 2:21 | 2022-06-24 | 2022-10-29 |
 | [Once From Evil](https://open.spotify.com/track/2DzXsSC3wLb1IqD8kI5poM) | [Baker Ya Maker](https://open.spotify.com/artist/65T6BIrUTcgylCYTXqVxvR) | [Once From Evil](https://open.spotify.com/album/2jlE9hll7b0dhyTptDXKpb) | 3:10 | 2021-09-17 | 2022-04-25 |
 | [OnlyFans](https://open.spotify.com/track/0kKHU3FB5KMH0RicKI2iRt) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [OnlyFans](https://open.spotify.com/album/3Vpv4yYx4izqGzND0fOK1c) | 3:41 | 2024-01-12 | 2024-06-15 |
-| [Out Bound](https://open.spotify.com/track/743lAvxFeQ4urSb4Cy9eWV) | [Lord Distortion](https://open.spotify.com/artist/43tKe2VlroCkY1eSfcwp7f) | [Out Bound](https://open.spotify.com/album/4Ni3S6HTbaAnsuEwoEti3h) | 2:36 | 2024-03-15 |  |
+| [Out Bound](https://open.spotify.com/track/743lAvxFeQ4urSb4Cy9eWV) | [Lord Distortion](https://open.spotify.com/artist/43tKe2VlroCkY1eSfcwp7f) | [Out Bound](https://open.spotify.com/album/4Ni3S6HTbaAnsuEwoEti3h) | 2:36 | 2024-03-15 | 2025-10-19 |
 | [OVERPOWER](https://open.spotify.com/track/0NVYHo87E610AvyQ6SUbeE) | [RAADFORD](https://open.spotify.com/artist/7cSXZaLvpjMdJKkzixTTsV), [anti](https://open.spotify.com/artist/3wWRKeOvvFk1pA2HTkHrQ1) | [RAANTI](https://open.spotify.com/album/0DyHHu4wHtgQKk4YCBDCSO) | 2:05 | 2021-10-29 | 2022-05-09 |
 | [owl effigy](https://open.spotify.com/track/1BUSL2izogab6Kwq6YZxhr) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [boros](https://open.spotify.com/album/6zKZppa0VTDiPuAb14cRUo) | 2:41 | 2022-01-07 | 2022-05-17 |
 | [P\_O\_S](https://open.spotify.com/track/2KhL8xLS3x2LCwPT2nx2EG) | [buffalo\_farm](https://open.spotify.com/artist/2PeR3T5bsrS6lJ7VpfYXJk) | [P\_O\_S](https://open.spotify.com/album/3bIYVd083y0DYIxvrsRLLc) | 1:04 | 2023-12-08 |  |

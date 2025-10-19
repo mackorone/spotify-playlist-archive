@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj8mmxDwyIM.md) - [plain]
 
 > Listen to the music from Hazbin Hotel, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,227 likes - 19 songs - 46 min 48 sec
+[Spotify](https://open.spotify.com/user/spotify) - 456,324 likes - 19 songs - 46 min 48 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

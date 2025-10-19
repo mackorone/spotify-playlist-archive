@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 69354,
+  "num_followers": 69387,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+      },
+      "artists": [
+        {
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Donde Brilla el Sol",
         "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 254328,
       "name": "Fiesta de zombis",
       "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
+        "name": "La Bondad De Dios",
+        "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
+      },
+      "artists": [
+        {
+          "name": "Jah Love",
+          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
+        }
+      ],
+      "duration_ms": 236471,
+      "name": "La Bondad De Dios",
+      "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
+    },
+    {
+      "added_at": "2025-10-17 03:00:27",
+      "album": {
         "name": "Soy d\u00e9bil Sr.",
         "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 225600,
       "name": "Soy d\u00e9bil Sr.",
       "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
-    },
-    {
-      "added_at": "2025-10-17 03:00:27",
-      "album": {
-        "name": "La Bondad De Dios",
-        "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
-      },
-      "artists": [
-        {
-          "name": "Jah Love",
-          "url": "https://open.spotify.com/artist/2ZjAUPTLH9Z3zmVsUdBsOd"
-        }
-      ],
-      "duration_ms": 236471,
-      "name": "La Bondad De Dios",
-      "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1399,8 +1399,8 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Se va la luna",
-        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
+        "name": "La Vida te Habla",
+        "url": "https://open.spotify.com/album/23aWViVCijrwN9887u0UC0"
       },
       "artists": [
         {
@@ -1408,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 181889,
-      "name": "Se va la luna",
-      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
+      "duration_ms": 223874,
+      "name": "La Vida te Habla",
+      "url": "https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1431,22 +1431,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Dimelo Ayer",
-        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
+        "name": "Hombres De Hierro",
+        "url": "https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC"
       },
       "artists": [
         {
-          "name": "Coral",
-          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
+          "name": "Dancing Mood",
+          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
         },
         {
-          "name": "Cucho Parisi",
-          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 159892,
-      "name": "Dimelo Ayer",
-      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
+      "duration_ms": 279625,
+      "name": "Hombres De Hierro",
+      "url": "https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "Hombres De Hierro",
-        "url": "https://open.spotify.com/album/28PPi09N38AQCzBLW5AMZC"
+        "name": "Dimelo Ayer",
+        "url": "https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1"
       },
       "artists": [
         {
-          "name": "Dancing Mood",
-          "url": "https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F"
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq"
         },
         {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Cucho Parisi",
+          "url": "https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm"
         }
       ],
-      "duration_ms": 279625,
-      "name": "Hombres De Hierro",
-      "url": "https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD"
+      "duration_ms": 159892,
+      "name": "Dimelo Ayer",
+      "url": "https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc"
     },
     {
       "added_at": "2025-10-17 03:00:27",
@@ -1563,8 +1563,8 @@
     {
       "added_at": "2025-10-17 03:00:27",
       "album": {
-        "name": "La Vida te Habla",
-        "url": "https://open.spotify.com/album/23aWViVCijrwN9887u0UC0"
+        "name": "Se va la luna",
+        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
       },
       "artists": [
         {
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 223874,
-      "name": "La Vida te Habla",
-      "url": "https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc"
+      "duration_ms": 181889,
+      "name": "Se va la luna",
+      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
     }
   ],
   "unique_name": "Reggae al Sur",

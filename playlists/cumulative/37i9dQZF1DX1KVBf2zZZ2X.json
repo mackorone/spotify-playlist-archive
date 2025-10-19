@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 129750,
       "name": "Evening meditation",
       "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
@@ -2738,6 +2738,24 @@
       "duration_ms": 115618,
       "name": "Nature's Calling",
       "url": "https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON"
+    },
+    {
+      "album": {
+        "name": "Nature's Energy",
+        "url": "https://open.spotify.com/album/4dF4uAh7ElOl6BfncIdZf2"
+      },
+      "artists": [
+        {
+          "name": "Ani",
+          "url": "https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Nature's Energy",
+      "url": "https://open.spotify.com/track/03kNewVwapP82UDyaYHns8"
     },
     {
       "album": {

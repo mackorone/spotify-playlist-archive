@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 276842,
+  "num_followers": 276884,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-07-11 05:47:10",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cachorro",
-        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
-      },
-      "artists": [
-        {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 150802,
-      "name": "Cora\u00e7\u00e3o Cachorro",
-      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
-    },
-    {
-      "added_at": "2025-07-11 05:47:10",
-      "album": {
         "name": "Me Usa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 166451,
       "name": "Me Usa - Ao Vivo",
       "url": "https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3"
+    },
+    {
+      "added_at": "2025-07-11 05:47:10",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cachorro",
+        "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 150802,
+      "name": "Cora\u00e7\u00e3o Cachorro",
+      "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
     },
     {
       "added_at": "2025-07-11 05:47:10",
@@ -635,46 +635,6 @@
     {
       "added_at": "2025-07-11 05:47:10",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2025-07-11 05:47:10",
-      "album": {
-        "name": "Todos Os Ritmos",
-        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 197233,
-      "name": "Ela Aperta a Minha Mente",
-      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
-    },
-    {
-      "added_at": "2025-07-11 05:47:10",
-      "album": {
         "name": "Voc\u00ea Me Conquistou",
         "url": "https://open.spotify.com/album/2A8fVvBedsIsoXtzdi3pfx"
       },
@@ -699,6 +659,26 @@
     {
       "added_at": "2025-07-11 05:47:10",
       "album": {
+        "name": "Todos Os Ritmos",
+        "url": "https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u"
+      },
+      "artists": [
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 197233,
+      "name": "Ela Aperta a Minha Mente",
+      "url": "https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co"
+    },
+    {
+      "added_at": "2025-07-11 05:47:10",
+      "album": {
         "name": "Gabriel Diniz Na Ilha (Ao Vivo)",
         "url": "https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 169088,
       "name": "Paraquedas - Live",
       "url": "https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO"
+    },
+    {
+      "added_at": "2025-07-11 05:47:10",
+      "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2025-07-11 05:47:10",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-07-11 05:47:10",
       "album": {
-        "name": "Os Boys Amam O Ex Chora",
-        "url": "https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        },
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 153840,
-      "name": "Os Boys Amam O Ex Chora",
-      "url": "https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy"
-    },
-    {
-      "added_at": "2025-07-11 05:47:10",
-      "album": {
         "name": "Caf\u00e9zin de V\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/71WPmaIdErmdczERbxFDRp"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 163654,
       "name": "Caf\u00e9zin de V\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/1BCn0dTxjdd4IWDLBFIX6V"
+    },
+    {
+      "added_at": "2025-07-11 05:47:10",
+      "album": {
+        "name": "Os Boys Amam O Ex Chora",
+        "url": "https://open.spotify.com/album/1yvxWiONM8RYM6sqxPGBrr"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        },
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 153840,
+      "name": "Os Boys Amam O Ex Chora",
+      "url": "https://open.spotify.com/track/2o8MYdtYZYidgpe9oIGIcy"
     }
   ],
   "unique_name": "Bora arrochar",

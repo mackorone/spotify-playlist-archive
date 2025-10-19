@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Sarah Vanderzon
 
-447 songs - 23 hr 55 min
+448 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All I Remember](https://open.spotify.com/track/6wMTOC4fKkQJ6Q9r86Axt2) | [Aaron Goodvin](https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW) | [All I Remember](https://open.spotify.com/album/3JwWNoEsKYDkDTiIJoe4Qx) | 2:50 | 2025-08-22 |  |
 | [All Kinds of Country](https://open.spotify.com/track/51qhktrdUqMlGd16YNps7I) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT), [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [All Kinds of Country](https://open.spotify.com/album/6zKoItMQrDhbqjN5FqG0aj) | 2:25 | 2025-10-03 |  |
 | [All Roads Lead To You](https://open.spotify.com/track/4WAjW3T2fTS4RjX8UHIjVS) | [Andy Colonico](https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO), [Peter Alexander](https://open.spotify.com/artist/2oEakQ9UqnaXtgn1RRqa9W) | [All Roads Lead To You](https://open.spotify.com/album/6mHyBVGp4Xa0hCoNCGEnFG) | 2:48 | 2025-04-11 | 2025-07-12 |
+| [Angel](https://open.spotify.com/track/2o3iV0wXd1uhSp2M0vBM0A) | [Sheri Marie Ptolemy](https://open.spotify.com/artist/1FSvvr0FJTrRRqinxwzBH7) | [Angel](https://open.spotify.com/album/3EUnJXa6Vv9jEIAm7H0nbC) | 2:57 | 2025-10-18 |  |
 | [Another Farewell](https://open.spotify.com/track/4Gr5SX7lqBVsa9qFtktzSU) | [HORSEBATH](https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD) | [Another Farewell](https://open.spotify.com/album/3BOvYuLkTZX16QpZ1zVZV5) | 4:34 | 2025-01-24 | 2025-02-08 |
 | [Another One](https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Another One](https://open.spotify.com/album/5FDSDpPMBfchzOlVmIM40g) | 3:32 | 2024-09-13 | 2024-11-23 |
 | [Are You With Me?](https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Are You With Me?](https://open.spotify.com/album/0nJZ3MC23bIYlQ6e3Zn7Hm) | 3:03 | 2025-08-08 | 2025-09-26 |

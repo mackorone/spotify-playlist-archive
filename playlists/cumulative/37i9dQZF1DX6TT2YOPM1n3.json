@@ -419,6 +419,28 @@
     },
     {
       "album": {
+        "name": "ANDAAZ E BAYAN",
+        "url": "https://open.spotify.com/album/686Wynn3CFh1L9bX60Dxpi"
+      },
+      "artists": [
+        {
+          "name": "Triplethreats",
+          "url": "https://open.spotify.com/artist/4C4YTl2LuFcnICCvZo6eTy"
+        },
+        {
+          "name": "HAVI",
+          "url": "https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "ANDAAZ E BAYAN",
+      "url": "https://open.spotify.com/track/4b2ZcyejM0nAQi7Cye5Atf"
+    },
+    {
+      "album": {
         "name": "Andaz E Karam",
         "url": "https://open.spotify.com/album/0GKiJHE5yAM4UUoILWLWZm"
       },
@@ -646,7 +668,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 272986,
       "name": "Beparwah",
       "url": "https://open.spotify.com/track/1BkYDk1hrLKkPi10OVSrhR"
@@ -1782,7 +1804,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 244285,
       "name": "Heartbreak Kid",
       "url": "https://open.spotify.com/track/1ktAfHym69UrvWIgx2qPPm"
@@ -3124,7 +3146,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 145333,
       "name": "Majboor",
       "url": "https://open.spotify.com/track/0lp3WWhjxFVUht81AQmWX8"

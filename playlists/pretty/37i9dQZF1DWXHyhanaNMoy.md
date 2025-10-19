@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: DYSTINCT ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,349 likes - 71 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,358 likes - 71 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2875,6 +2875,28 @@
     },
     {
       "album": {
+        "name": "Alleluia",
+        "url": "https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228387,
+      "name": "Alleluia",
+      "url": "https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY"
+    },
+    {
+      "album": {
         "name": "Alli Mia Fora",
         "url": "https://open.spotify.com/album/1pUYR2ijEcc0m2ts0c9tD2"
       },
@@ -3646,7 +3668,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 274666,
       "name": "Antigonidon",
       "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
@@ -4654,7 +4676,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 187058,
       "name": "AUREVOIR",
       "url": "https://open.spotify.com/track/3aFxTuIQQdVzvIoN7dZjdf"
@@ -4760,7 +4782,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 179498,
       "name": "Ax Kardia Mou",
       "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
@@ -6566,6 +6588,32 @@
       "duration_ms": 195738,
       "name": "BLACK SUVS",
       "url": "https://open.spotify.com/track/2ibTCf9g3c5eb8poLQRC8F"
+    },
+    {
+      "album": {
+        "name": "Kleisto Kyklwma II",
+        "url": "https://open.spotify.com/album/0T1nZct29I3E6NTsPhplNb"
+      },
+      "artists": [
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/1DmVScWKnVA0dvZEvcFGt5"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268250,
+      "name": "Blade Runners",
+      "url": "https://open.spotify.com/track/0z8QBDXOsxP9ybWsZ7qqqu"
     },
     {
       "album": {
@@ -11778,7 +11826,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 156069,
       "name": "DOLCE GABBANA",
       "url": "https://open.spotify.com/track/7r0sYhhoM4hjeuCDlbCobZ"
@@ -17898,7 +17946,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 177567,
       "name": "Gia Sena",
       "url": "https://open.spotify.com/track/5DfPEPrd3BoWL0NnwPlpTw"
@@ -19370,10 +19418,32 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 189089,
       "name": "HAYABUSA",
       "url": "https://open.spotify.com/track/2LOCrebeoS8jVdHvGYWb7k"
+    },
+    {
+      "album": {
+        "name": "GANG LAND",
+        "url": "https://open.spotify.com/album/1hJsQbtlkPmI3yqr1vXJLZ"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189089,
+      "name": "HAYABUSA",
+      "url": "https://open.spotify.com/track/6rX4w7I0H1twATO5l4CPlK"
     },
     {
       "album": {
@@ -22348,7 +22418,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -32359,6 +32429,32 @@
     },
     {
       "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/3oMrx0MbZAI3J7zF2DxqlL"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "MUNEYLXRD",
+          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/5qG5y6SRTfGo04942HUpDS"
       },
@@ -32554,7 +32650,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 207225,
       "name": "Nyxterides",
       "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
@@ -32638,6 +32734,28 @@
       "duration_ms": 180000,
       "name": "O Zontanos Nekros",
       "url": "https://open.spotify.com/track/6N7EuKl26BUiRiO00JM3PH"
+    },
+    {
+      "album": {
+        "name": "Kleisto Kyklwma II",
+        "url": "https://open.spotify.com/album/0T1nZct29I3E6NTsPhplNb"
+      },
+      "artists": [
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164625,
+      "name": "O,ti Lathos Pigeni",
+      "url": "https://open.spotify.com/track/7B8r0WmUiBwU9tU8DwrFlt"
     },
     {
       "album": {
@@ -34624,7 +34742,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 210000,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6vAZ49VeVb8fQuSenKUBH2"
@@ -35552,7 +35670,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 155076,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/0ZUi3ZpCWC1DQnwW3bcFmH"
@@ -35600,6 +35718,28 @@
       "duration_ms": 236619,
       "name": "Pempth Vrady",
       "url": "https://open.spotify.com/track/43JJzQyaFjUpGkgLyUlTml"
+    },
+    {
+      "album": {
+        "name": "Kleisto Kyklwma II",
+        "url": "https://open.spotify.com/album/0T1nZct29I3E6NTsPhplNb"
+      },
+      "artists": [
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        },
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Perastika",
+      "url": "https://open.spotify.com/track/0eARZDVq7BlVTnmM3S1LFF"
     },
     {
       "album": {
@@ -35824,6 +35964,32 @@
       "duration_ms": 198000,
       "name": "Pes Mou Esy",
       "url": "https://open.spotify.com/track/7w7ow5XrszrokxYGODFPAl"
+    },
+    {
+      "album": {
+        "name": "GANG LAND",
+        "url": "https://open.spotify.com/album/1hJsQbtlkPmI3yqr1vXJLZ"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "PES POSA THES",
+      "url": "https://open.spotify.com/track/5pMb2Dj3q5aNuhKdfysXd1"
     },
     {
       "album": {
@@ -37360,7 +37526,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 196666,
       "name": "Pros To Paron",
       "url": "https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n"
@@ -38377,6 +38543,36 @@
     },
     {
       "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3X8uHLAdvebDF5mdtL0H5Y"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/4T3LCaLsX9m7A0w5crzfD1"
+    },
+    {
+      "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
       },
@@ -39264,6 +39460,32 @@
       "duration_ms": 212690,
       "name": "S' Agapao...Nai!",
       "url": "https://open.spotify.com/track/3mdxyDjuZLPphyDFmkNZfO"
+    },
+    {
+      "album": {
+        "name": "GANG LAND",
+        "url": "https://open.spotify.com/album/1hJsQbtlkPmI3yqr1vXJLZ"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133372,
+      "name": "S'EROTEFTIKA",
+      "url": "https://open.spotify.com/track/2jpgR5oedUKp8BbvO7NvJE"
     },
     {
       "album": {
@@ -43410,7 +43632,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 127001,
       "name": "TA AYTONOHTA",
       "url": "https://open.spotify.com/track/7rqKwEwmjshCC5DzIpRTgP"
@@ -44913,6 +45135,28 @@
     },
     {
       "album": {
+        "name": "Kleisto Kyklwma II",
+        "url": "https://open.spotify.com/album/0T1nZct29I3E6NTsPhplNb"
+      },
+      "artists": [
+        {
+          "name": "Eversor",
+          "url": "https://open.spotify.com/artist/0Xk68OyHT2f2wWdKfO3juX"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168875,
+      "name": "Ti Leei?",
+      "url": "https://open.spotify.com/track/34e66gxr3WH55OXLwqpsvi"
+    },
+    {
+      "album": {
         "name": "BAD BOY 3",
         "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
       },
@@ -45026,6 +45270,32 @@
       "duration_ms": 188348,
       "name": "Ti Zitas",
       "url": "https://open.spotify.com/track/357Ces27QaK6BQ3W6cZUeE"
+    },
+    {
+      "album": {
+        "name": "GANG LAND",
+        "url": "https://open.spotify.com/album/1hJsQbtlkPmI3yqr1vXJLZ"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "TIFFANY",
+      "url": "https://open.spotify.com/track/1zMpE11xADKpXzvnpkcS7M"
     },
     {
       "album": {
@@ -49658,7 +49928,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 242597,
       "name": "Xrysi Kardia",
       "url": "https://open.spotify.com/track/1BzDu5khJpnirb9g8pmAta"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Turisti, KAJ, Evelina, Jaakko Kulta, Battle Beast ja moni muu  – mukana myös tuoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,818 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,817 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 59 | [Haunted Disco](https://open.spotify.com/track/3rb03cQotAdhTuM4wHMojD) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN), [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Haunted Disco](https://open.spotify.com/album/1n9r7bEikcyEqGbMenMySZ) | 3:07 |
 | 60 | [Save Me](https://open.spotify.com/track/1xKFt8fnO8cYEpsB8a9vEs) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Save Me](https://open.spotify.com/album/0ZAnXaNG5z2B8cD3n6MohU) | 3:05 |
 | 61 | [O ou](https://open.spotify.com/track/5bvOzv8FuhWfCdbjwjbiVn) | [Luukas Oja](https://open.spotify.com/artist/5uenn60DKWeIDiIqC3EcLn) | [O ou](https://open.spotify.com/album/01rzDqLWFEMHW7fV99WYxq) | 2:14 |
-| 62 | [DeathByDevotion \- Devault Remix](https://open.spotify.com/track/71bAhrRfafONfnp75imXim) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [DeathByDevotion \(Devault Remix\)](https://open.spotify.com/album/6OaRbYpdagnPmYXz4GIRCr) | 2:56 |
+| 62 | [DeathByDevotion \- Devault Remix](https://open.spotify.com/track/71bAhrRfafONfnp75imXim) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DeathByDevotion \(Devault Remix\)](https://open.spotify.com/album/6OaRbYpdagnPmYXz4GIRCr) | 2:56 |
 | 63 | [Päivän hyvä teko](https://open.spotify.com/track/5EXeXY0tGUDK3gVeSRWwTf) | [Horse Attack Sqwad](https://open.spotify.com/artist/24LKxLWbV018hPbn5YQ34K) | [Päivän hyvä teko](https://open.spotify.com/album/2N14VFWFxdWlbXJmbGWkui) | 2:36 |
 | 64 | [Please Don't Hate Me](https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Please Don't Hate Me](https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd) | 3:34 |
 | 65 | [Rantakylän Babylon](https://open.spotify.com/track/0rplJxHh7TKNTJLDNg3zJM) | [Haamu](https://open.spotify.com/artist/2ubRNw3Dw3cOAXEN0reyNA) | [Rantakylän Babylon](https://open.spotify.com/album/3xEExuMfwPIkdcCy5nEBw6) | 3:27 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 76 | [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 |
 | 77 | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/track/5q0tJ1BEqV4L31UCYfeR51) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Open The Door \(from the Netflix Film "The Twits"\)](https://open.spotify.com/album/6Moc4edBRZlrFRZ0soH6pI) | 3:20 |
 | 78 | [Another Tangerine](https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Another Tangerine](https://open.spotify.com/album/4C5UWdlzMyFyBcch7mjck1) | 2:58 |
-| 79 | [GRIMEY](https://open.spotify.com/track/4TAQw0NZMW2MLKNsqoIl3Z) | [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0), [Jay L](https://open.spotify.com/artist/1Lg1fhMVbhZL3rwrJDXQpb) | [GRIMEY](https://open.spotify.com/album/7HhzgxFpiqHf64M2qoejgu) | 2:10 |
+| 79 | [GRIMEY](https://open.spotify.com/track/4TAQw0NZMW2MLKNsqoIl3Z) | [VBZ](https://open.spotify.com/artist/3Mw9lnFrfdrmzvhyoQpIB0), [Jay L](https://open.spotify.com/artist/1Lg1fhMVbhZL3rwrJDXQpb) | [GRIMEY](https://open.spotify.com/album/7HhzgxFpiqHf64M2qoejgu) | 2:08 |
 | 80 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 |
 | 81 | [So Good](https://open.spotify.com/track/6NMCvQSACG1pMqCIeNHqWY) | [KUOKKA](https://open.spotify.com/artist/6jFa0fLeBTANOdmD9171kE) | [So Good](https://open.spotify.com/album/6wJRaCQadau9yatlnDN5pb) | 2:06 |
 | 82 | [SAN ANDREAS](https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SAN ANDREAS](https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo) | 2:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,316 likes - 203 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,437 likes - 203 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 202 | [Come Alive](https://open.spotify.com/track/6EY8GTREw2nQWUR6rkZMqJ) | [Antuigo](https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd) | [Come Alive](https://open.spotify.com/album/70FBJICtGpHQKyUKs1WKHi) | 3:20 |
 | 203 | [Pine away](https://open.spotify.com/track/7db2BY8DDmk3TCtrqucwLJ) | [oddfish](https://open.spotify.com/artist/00XnlbVSD75fXqU9zWOeQt) | [Pine away](https://open.spotify.com/album/6GGtcLuUUsZ4HYFmyvrefb) | 2:20 |
 
-Snapshot ID: `AAAAAHsxEFQ5mFRijQ+EsR12SncbUh34`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

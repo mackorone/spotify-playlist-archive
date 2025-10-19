@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Efecto de Mariposa",
+        "url": "https://open.spotify.com/album/2tWNqqFKKY4uDSmTJe85rE"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241556,
+      "name": "Efecto de Mariposa",
+      "url": "https://open.spotify.com/track/4bdQk3sno5kGGRFt3wkrXs"
+    },
+    {
+      "album": {
         "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
         "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
       },
@@ -930,7 +948,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 172173,
       "name": "Gente De Accionar (feat. La Edicion De Culiacan)",
       "url": "https://open.spotify.com/track/6IL0KT5ngyffCx9rXydIUs"

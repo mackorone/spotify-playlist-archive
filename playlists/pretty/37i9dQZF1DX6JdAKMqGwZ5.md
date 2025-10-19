@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: pablopablo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,694 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,799 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 13 | [Mirlo pardo](https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd) | [Ede](https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q) | [MIRLO PARDO · LA VEREDA](https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3) | 3:23 |
 | 14 | [Una amapola](https://open.spotify.com/track/1CdigFYqCI6SViiIZdFHAq) | [McEnroe](https://open.spotify.com/artist/6t17pv2Q9w9ybTC0Ty5Sq2) | [Una amapola](https://open.spotify.com/album/7x9bxnGEaUwGr3Fwp9PHs7) | 2:56 |
 | 15 | [Nunca Me Parece Suficiente](https://open.spotify.com/track/1ivUBQ0Y3djdGAF5jbNcUJ) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Nunca Me Parece Suficiente](https://open.spotify.com/album/5lYGZ7HW3KEIhmax7KE3lz) | 2:52 |
-| 16 | [x\. ave: renacer](https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [x\. ave: renacer](https://open.spotify.com/album/3cUbFIk8UqWsM9okxpug9h) | 3:21 |
+| 16 | [xi\. ave · renacer](https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [xi\. ave · renacer](https://open.spotify.com/album/3cUbFIk8UqWsM9okxpug9h) | 3:21 |
 | 17 | [Tu Jardín Japonés](https://open.spotify.com/track/229tdnZT5apIOECNcOF7qY) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A) | [Tu Jardín Japonés](https://open.spotify.com/album/2hWhmTAJXovA994YIN3qTm) | 3:12 |
 | 18 | [Tú o nadie](https://open.spotify.com/track/05cKaBKQ81oFOy46AQuHIU) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Tú o nadie](https://open.spotify.com/album/1McKp2Qarz4KnVtKqEM1Qw) | 3:36 |
 | 19 | [El Mundo](https://open.spotify.com/track/0fzIfwwIKrt4LuT3XmwtGv) | [Volavent](https://open.spotify.com/artist/6Mh7nmPPk64ydB0liVmXRb) | [El Mundo](https://open.spotify.com/album/5wXAKq6tfhiNf4oNBmghcB) | 3:38 |

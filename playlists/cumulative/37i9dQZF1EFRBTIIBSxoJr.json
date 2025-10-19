@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "Feel The Same (feat. RuthAnne)",
+        "url": "https://open.spotify.com/album/1BvIg5jWpKM73SY0YQYieB"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170968,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/5g9zQM8xjmZRHbGbrm0fdU"
+    },
+    {
+      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -908,7 +930,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 185973,
       "name": "Freedom (feat. Jussie Smollett)",
       "url": "https://open.spotify.com/track/29C4JH1nAexGkEeGq7loVw"
@@ -1140,6 +1162,24 @@
       "duration_ms": 194474,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/24HlnYyyZInP1skFKqVqsl"
+    },
+    {
+      "album": {
+        "name": "Help",
+        "url": "https://open.spotify.com/album/2GojD4oCIW4AHzQaIQDZVv"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143809,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/1UVwjv1Czxhg9cdla2gc7N"
     },
     {
       "album": {

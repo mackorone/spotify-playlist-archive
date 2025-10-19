@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 
 > ⋆.
 
-[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 640 songs - 1 day 11 hr 1 min
+[j](https://open.spotify.com/user/nekyydjf01dl8w9of868u2du4) - 11 likes - 641 songs - 1 day 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -648,5 +648,6 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 638 | [Saferwaters](https://open.spotify.com/track/6e9s42iBN7bt5QvCvFlVUs) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Vena Sera](https://open.spotify.com/album/5FT5oo5IM2hBizZisoPKH3) | 4:11 |
 | 639 | [Games Of War](https://open.spotify.com/track/0Bu4Ftm8pa65s690nhgGTV) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 4:23 |
 | 640 | [Down Chick \(feat\. 3Three\)](https://open.spotify.com/track/4c1x1SYPM26MHCkJSYwknD) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [3Three](https://open.spotify.com/artist/0Q4C0BC6ZjxW0ps1ItEpx8) | [38 Baby](https://open.spotify.com/album/2O8EgP8trTkKflc5qtXyrl) | 3:46 |
+| 641 | [The Spell](https://open.spotify.com/track/3DRQ9GriRUPNHiCB0hyRbW) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/0mqQaRXfEzysluMX4J3jqy) | 4:41 |
 
-Snapshot ID: `AAAEOUEwkcz+I231ydw9KyGSjDWS8t6l`
+Snapshot ID: `AAAEOtlVsdMEHn7NSrz7SnfR3iGOa1qS`

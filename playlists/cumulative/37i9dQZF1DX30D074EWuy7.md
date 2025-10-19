@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Il Mago del Gelato 🍉
 
-543 songs - 1 day 16 hr 40 min
+544 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Voz do Morro](https://open.spotify.com/track/4AbXNFlsCXIjXRlZdhtvVG) | [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7) | [Carioca](https://open.spotify.com/album/2Hdm0roYlNxGmgGsLmv4JY) | 4:17 | 2022-08-31 | 2022-10-01 |
 | [Abide with Me \- Take One](https://open.spotify.com/track/4OQdgklbR5zRsD57zXc6Xw) | [Marco Bardoscia](https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E), [Quartetto Alborada](https://open.spotify.com/artist/4XyoalV7oNJZUzM2cqyeDZ), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ) | [Trigono](https://open.spotify.com/album/5YLHNnTKVaVhBUG39DpG84) | 1:10 | 2023-12-05 | 2024-03-29 |
 | [About the End of Love](https://open.spotify.com/track/3mc6aAHGGl6n75AVwAvrvd) | [Gaia Mattiuzzi](https://open.spotify.com/artist/3GxWsfxAVWPBYEbY3FYNBQ), [Alessandro Lanzoni](https://open.spotify.com/artist/6EuqAvbkMhE4f99JK0wcaS), [Gabriele Evangelista](https://open.spotify.com/artist/2SyYl2zRKK3ojQaYhXz7go), [Enrico Morello](https://open.spotify.com/artist/3UdoL4iyxmmgzvpY7209Ps), [Wanja Slavin](https://open.spotify.com/artist/4mjg7ZexrEGbW2RhorkOnu) | [Inner Core](https://open.spotify.com/album/3I82WfHCW4zWVOSQGeoXAF) | 5:54 | 2023-09-17 | 2023-12-06 |
+| [Acqua alta](https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE) | [Tare](https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB) | [GAS](https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz) | 3:00 | 2025-10-16 |  |
 | [Adeste Fideles](https://open.spotify.com/track/5BP07D2BN5mYxm4OU6Ra8B) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:27 | 2023-12-05 | 2024-03-29 |
 | [African Marketplace](https://open.spotify.com/track/1wSTOXHGRuReLFQUxl7Nnm) | [Roberto Ottaviano](https://open.spotify.com/artist/75GN1m0mlTHq6tqUSb2j3F) | [Eternal Love](https://open.spotify.com/album/2N8Yr1iI23Bxff2pECazQl) | 5:23 | 2023-06-04 | 2023-09-18 |
 | [Agnese](https://open.spotify.com/track/0G7n129cO4q4n16BRbBq0R) | [Maurizio Caldura](https://open.spotify.com/artist/6BLookt9SlgBe5l4Q7Bpzl), [Luigi Bonafede](https://open.spotify.com/artist/6q2kP2BONsl2RxOOmPIUXs) | [Bittersweet](https://open.spotify.com/album/1bOa1ylGCG0WZJvsqtZvNf) | 5:45 | 2024-04-04 | 2024-04-23 |
@@ -465,7 +466,7 @@
 | [Stand Stan](https://open.spotify.com/track/3bbYpaMHAbtWkvA7ecrvOU) | [Ghost Horse](https://open.spotify.com/artist/4kbMP6FE0uIGKflO5L50rG) | [Il Bene Comune](https://open.spotify.com/album/2UZrG3aDXy8lgRybaqwsZd) | 3:23 | 2023-09-17 | 2023-12-06 |
 | [stanza](https://open.spotify.com/track/43EQlmYkZTt3PGEsfaE4V4) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [I](https://open.spotify.com/album/1I83D4utfYfkxSliMBVfe0) | 5:25 | 2023-09-17 | 2023-12-06 |
 | [Stella del sud](https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [La ragazza dalla pelle di luna](https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg) | 2:55 | 2022-09-30 |  |
-| [STUPIDI DUBBI](https://open.spotify.com/track/6Yp4stZipet2ZeDtVTFKhC) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4), [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD), [John Vier](https://open.spotify.com/artist/0P9e8bxMGoq4juGCYDFr3D) | [Hardiscografia vol.1](https://open.spotify.com/album/34w8E4hV5w9rjvECUrPRzB) | 3:21 | 2025-06-27 |  |
+| [STUPIDI DUBBI](https://open.spotify.com/track/6Yp4stZipet2ZeDtVTFKhC) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4), [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD), [John Vier](https://open.spotify.com/artist/0P9e8bxMGoq4juGCYDFr3D) | [Hardiscografia vol.1](https://open.spotify.com/album/34w8E4hV5w9rjvECUrPRzB) | 3:21 | 2025-06-27 | 2025-10-19 |
 | [Sulo pe' parlà \- 2021 Remaster](https://open.spotify.com/track/3fHlklHoNKCFSUSvHLpygd) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 1:21 | 2022-09-30 | 2022-11-03 |
 | [Super Play\-Doh](https://open.spotify.com/track/7lU45TUW7JN0XQIR5BTyuX) | [Pufuleti](https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A), [Sean Lightfoot](https://open.spotify.com/artist/15Fnvd7OORWamCGb39FTQW) | [Catarsi Aiwa Maxibon](https://open.spotify.com/album/4gITwZE87JIxjyRXXDHQJ7) | 2:28 | 2022-11-02 | 2022-12-06 |
 | [Sutta n' pedi](https://open.spotify.com/track/0vBMVwaEziXRW28olgctME) | [Rosa Balistreri](https://open.spotify.com/artist/6PMYU9RDf4z5H45KdeMyeF) | [La Sicilia di Rosa Balistreri](https://open.spotify.com/album/3u7lY7pmS8Q7iNPyTDTwuH) | 3:04 | 2022-12-05 | 2023-02-01 |

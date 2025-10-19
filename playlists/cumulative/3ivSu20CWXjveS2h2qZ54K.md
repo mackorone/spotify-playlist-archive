@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,755 songs - 13 day 6 hr 35 min
+5,757 songs - 13 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Back in the Game](https://open.spotify.com/track/0IzBKea0Zol37tj995VZK3) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [This Conversation Is Missing Your Voice](https://open.spotify.com/album/0TGh9rsH1I0Hhs1RBTqmjM) | 4:41 | 2025-03-14 | 2025-03-22 |
 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-07-25 | 2025-08-02 |
 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 | 2024-08-30 | 2024-09-07 |
+| [Back Of My Heart](https://open.spotify.com/track/04Cu67vVu0XTfCK2i7fhST) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 2:33 | 2025-10-18 |  |
 | [Back Of My Mind](https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Back Of My Mind](https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4) | 4:26 | 2025-05-16 | 2025-05-24 |
 | [Back Off](https://open.spotify.com/track/1pqburINZixjmdvcgftOrK) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Revolution](https://open.spotify.com/album/2RCxi7MxwlP1N8mjr2tGLw) | 4:06 | 2025-09-19 | 2025-09-27 |
 | [Back There Now](https://open.spotify.com/track/4vsNXG1IRFMU3dg4BZAeui) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Back There Now](https://open.spotify.com/album/6Q7j1Y8e3EZuHhHy7cfmJU) | 2:28 | 2024-08-16 | 2024-08-24 |
@@ -4769,6 +4770,7 @@
 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 | 2025-10-10 | 2025-10-18 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 | 2024-06-29 |
 | [Supernova \(Grimes Remix\)](https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:47 | 2024-09-20 | 2024-09-28 |
+| [Superpoderes](https://open.spotify.com/track/11cOIkT09W81srHxvTsA4k) | [Estrella Fugaz](https://open.spotify.com/artist/69DE5YhguSk2MxUZVFexBA) | [Una Casa Espacial Dibujada En Un A4](https://open.spotify.com/album/0WReKG2qntIgFhwJRyFbMJ) | 3:32 | 2025-10-18 |  |
 | [SUPERSEXY](https://open.spotify.com/track/4gh4JKvxobKDIJxqstLmyR) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [SUPERSEXY](https://open.spotify.com/album/4F8Wj7frMTPcPdVRASJ4BY) | 3:18 | 2025-09-05 | 2025-09-12 |
 | [SUPERSTAR](https://open.spotify.com/track/5vZtzgJLS031FsFEN3CXNF) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [SUPERSTAR](https://open.spotify.com/album/5ToQsCNIMII6S0smP6oKOE) | 2:44 | 2025-08-22 | 2025-08-30 |
 | [superstar](https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [superstar](https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI) | 2:49 | 2025-10-03 | 2025-10-11 |

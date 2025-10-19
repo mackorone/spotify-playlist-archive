@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPA1gAAAAADMhtjNwSZTkd4ktnVmruXr",
+  "snapshot_id": "aPGHAAAAAADD1UwKjHzLGR5wPofs3KNV",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUMBLE IN THE DISCO",
-        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "HAMMER (FIRE AGAIN)",
-      "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L.R.L.D.",
         "url": "https://open.spotify.com/album/4mC5qrdPttU8rmsHIc1kWW"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 246240,
       "name": "L.R.L.D.",
       "url": "https://open.spotify.com/track/2vlAFPryTEcJhdGAlh5xQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "HAMMER (FIRE AGAIN)",
+      "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
     },
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Mechanics",
-        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
+        "name": "See It Through",
+        "url": "https://open.spotify.com/album/4dmB32HMdTmKtpTkPwjayA"
       },
       "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        },
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 198095,
-      "name": "Pretty Deep",
-      "url": "https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k"
+      "duration_ms": 256721,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1FtuKCXTuyoYpkR8VTsvmu"
     },
     {
       "added_at": null,
@@ -583,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funk",
-        "url": "https://open.spotify.com/album/65FvOUwo9YRUdLWO4CwR7f"
+        "name": "Modern Mechanics",
+        "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
       },
       "artists": [
         {
@@ -592,29 +596,29 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 220645,
-      "name": "Funk - Radio Edit",
-      "url": "https://open.spotify.com/track/3gd1CZ6lFqDlcKWPYU9Z32"
+      "duration_ms": 198095,
+      "name": "Pretty Deep",
+      "url": "https://open.spotify.com/track/2Y68ObWFspu2EHB4vqMC3k"
     },
     {
       "added_at": null,
       "album": {
-        "name": "See It Through",
-        "url": "https://open.spotify.com/album/4dmB32HMdTmKtpTkPwjayA"
+        "name": "Boss EP",
+        "url": "https://open.spotify.com/album/3ntS4eh1rFf6YpmfwYyRQ6"
       },
       "artists": [
         {
-          "name": "Ekonovah",
-          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
         },
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 256721,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1FtuKCXTuyoYpkR8VTsvmu"
+      "duration_ms": 232320,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/5gtBHjBPfN3x7XAhtmIsDP"
     },
     {
       "added_at": null,
@@ -651,22 +655,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boss EP",
-        "url": "https://open.spotify.com/album/3ntS4eh1rFf6YpmfwYyRQ6"
+        "name": "Funk",
+        "url": "https://open.spotify.com/album/65FvOUwo9YRUdLWO4CwR7f"
       },
       "artists": [
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        },
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 232320,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/5gtBHjBPfN3x7XAhtmIsDP"
+      "duration_ms": 220645,
+      "name": "Funk - Radio Edit",
+      "url": "https://open.spotify.com/track/3gd1CZ6lFqDlcKWPYU9Z32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Machine EP",
+        "url": "https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/68aLmDjCRRm2J8IjKm30nN"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine EP",
-        "url": "https://open.spotify.com/album/3GphtxLMyfK9FDcxoh8c53"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/68aLmDjCRRm2J8IjKm30nN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance Again",
         "url": "https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dimensions",
-        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "Dimensions",
-      "url": "https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All I Wanna Do",
         "url": "https://open.spotify.com/album/6WJjXanunC2Zhd2ZUybHCE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 204024,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/5g4IY00EiaIaADARQW6uvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dimensions",
+        "url": "https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z"
     },
     {
       "added_at": null,
@@ -788,9 +788,25 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 232380,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/7ySn8Q243J5ReQaqpPMKya"
+      "duration_ms": 230400,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Night Bass: Vol. 9",
+        "url": "https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Lose My Control",
+      "url": "https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Night Bass: Vol. 9",
-        "url": "https://open.spotify.com/album/2qPjmivZfeNJbxhKNGvEBw"
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6"
       },
       "artists": [
         {
@@ -828,29 +844,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Lose My Control",
-      "url": "https://open.spotify.com/track/2eWFHw8EdrmS7sOK1rNT2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Talk",
-        "url": "https://open.spotify.com/album/0rs1UsgxCAo1cuUQ79OQDU"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "Isenberg",
-          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
-        }
-      ],
-      "duration_ms": 256976,
-      "name": "All Talk",
-      "url": "https://open.spotify.com/track/2syDBxdUUcHtPjNSl1WRLS"
+      "duration_ms": 221000,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/3xnqyNhS24WPwuGg5Ktjn2"
     },
     {
       "added_at": null,
@@ -864,25 +860,9 @@
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/3xnqyNhS24WPwuGg5Ktjn2"
+      "duration_ms": 232380,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/7ySn8Q243J5ReQaqpPMKya"
     },
     {
       "added_at": null,
@@ -903,6 +883,26 @@
       "duration_ms": 243809,
       "name": "Fast Beats",
       "url": "https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Talk",
+        "url": "https://open.spotify.com/album/0rs1UsgxCAo1cuUQ79OQDU"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Isenberg",
+          "url": "https://open.spotify.com/artist/753xxcDfgqoyWJTs55HCal"
+        }
+      ],
+      "duration_ms": 256976,
+      "name": "All Talk",
+      "url": "https://open.spotify.com/track/2syDBxdUUcHtPjNSl1WRLS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-815 songs - 2 day 13 hr 9 min
+816 songs - 2 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Brutalism](https://open.spotify.com/track/4szHVkwccA5hCKk3GA0Tle) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:27 | 2022-11-23 | 2023-02-04 |
 | [Burning](https://open.spotify.com/track/4rmRgOSGXkKCR3W3wk7F5R) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Burning](https://open.spotify.com/album/67AKOKUGQbahJAKvId1zlZ) | 3:08 | 2023-08-04 | 2023-09-08 |
 | [C'mon](https://open.spotify.com/track/0Q1E0uHQHHlczjjbctXzmK) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [C’mon](https://open.spotify.com/album/5geoajQzkydKB0wfCkT4Hh) | 3:50 | 2024-02-16 | 2024-02-24 |
+| [Call You Back](https://open.spotify.com/track/38Cn5WXAveelCjMczHaK2P) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Call You Back](https://open.spotify.com/album/2Gx4h6WtT3bnIRGcbiSUYO) | 3:21 | 2025-10-16 |  |
 | [Candela \- Radio Edit](https://open.spotify.com/track/2Z6iCb0qZKgTFKgmJCwvL1) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Candela \(Radio Edit\)](https://open.spotify.com/album/4oDCt3fIRg54AvdZ6RZXbl) | 3:42 | 2025-02-06 | 2025-04-18 |
 | [Canicatti](https://open.spotify.com/track/3W935drMjxvJnw1fTaF4BH) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Canicatti](https://open.spotify.com/album/4fyVrIE5va2VOhyv25Oe49) | 6:05 | 2024-05-02 | 2024-05-09 |
 | [Captain Nemo \- Edit](https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Captain Nemo](https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu) | 4:03 | 2022-12-02 | 2025-01-17 |
@@ -444,7 +445,7 @@
 | [Meia Lua](https://open.spotify.com/track/0c8wD5hGVp3FVznjKZqjTv) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Meia Lua](https://open.spotify.com/album/3lBx3M2hpoB1JOx4a8U5fT) | 6:17 | 2024-05-16 | 2024-06-13 |
 | [Meli](https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510) | [S.ONE](https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc) | [Mars](https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT) | 6:02 | 2023-05-12 | 2023-10-21 |
 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 | 2025-07-18 |  |
-| [Memory Leak](https://open.spotify.com/track/21KmD4GGubAmJnZFwRsHCG) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE) | [Memory Leak](https://open.spotify.com/album/472sx1kmVT8uFk6xfvriES) | 3:14 | 2025-04-17 |  |
+| [Memory Leak](https://open.spotify.com/track/21KmD4GGubAmJnZFwRsHCG) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE) | [Memory Leak](https://open.spotify.com/album/472sx1kmVT8uFk6xfvriES) | 3:14 | 2025-04-17 | 2025-10-19 |
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-05 | 2024-04-19 |
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-13 | 2024-01-05 |
 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2022-11-23 | 2023-06-03 |

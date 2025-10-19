@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-67 songs - 6 hr 9 min
+68 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Amnesia](https://open.spotify.com/track/2S7PGZYwLFzzqjp0WCP4XO) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 5:13 | 2025-07-25 | 2025-10-02 |
 | [April](https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 7:50 | 2025-06-28 |  |
 | [Auto Machine](https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 9:50 | 2025-06-28 |  |
-| [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 | 2025-06-28 |  |
+| [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 | 2025-06-28 | 2025-10-19 |
 | [Black Woman Cry](https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 8:34 | 2025-08-24 |  |
 | [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 | 2025-06-28 |  |
 | [Brand New Feeling \- Yoruba Soul Mix Part 1](https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \- Yoruba Soul Remixes](https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE) | 7:27 | 2025-09-16 |  |
@@ -24,6 +24,7 @@
 | [Cosmic Signs](https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dedication EP](https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX) | 3:13 | 2025-06-28 |  |
 | [Crazy You](https://open.spotify.com/track/2LPqiasQ4eNQe5xsefvkew) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Rewind, Vol\. 5](https://open.spotify.com/album/2FrNJjEGwkJV8Z32ZMuKo9) | 3:58 | 2025-06-28 |  |
 | [Cucumber Sweat](https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Cucumber Sweat](https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H) | 3:32 | 2025-06-28 |  |
+| [Dance Circle](https://open.spotify.com/track/04R8GPa3nH28LIDTVSL7bA) | [Mr\. Flip](https://open.spotify.com/artist/1yODnwYRnOM87gsZKi31Xl), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade Presents Mr\. Flip](https://open.spotify.com/album/3bSqGNEv3hgYePAtBPdukQ) | 5:07 | 2025-10-19 |  |
 | [Deep Musique \- Rampa Remix](https://open.spotify.com/track/2TPymcTIlvJKpPWnqAiqxL) | [Pastaboys](https://open.spotify.com/artist/3e2yTUnzQ3S3lITAt0Er1l), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Rebirth 10 Remixed, Vol\. 1](https://open.spotify.com/album/1bfVFEQMolOYkQhPj5uaNE) | 8:00 | 2025-06-28 |  |
 | [Dionne](https://open.spotify.com/track/3SocpdBxeWEwfvXrMrP9is) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dionne / What Gets You High?](https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H) | 4:16 | 2025-06-28 |  |
 | [Don’t Ever Look Back](https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:23 | 2025-06-28 |  |

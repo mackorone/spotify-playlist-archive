@@ -1,6 +1,6 @@
 {
   "description": "The Official EA SPORTS F1 23 Soundtrack",
-  "num_followers": 35480,
+  "num_followers": 35483,
   "original_name": "F1 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-06-05 14:52:17",
       "album": {
-        "name": "Oi",
-        "url": "https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Oi",
-      "url": "https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg"
-    },
-    {
-      "added_at": "2023-06-05 14:52:17",
-      "album": {
         "name": "No Reason",
         "url": "https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 240899,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU"
+    },
+    {
+      "added_at": "2023-06-05 14:52:17",
+      "album": {
+        "name": "Oi",
+        "url": "https://open.spotify.com/album/1MyrJ9bOkmIBHPT04WlUup"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Oi",
+      "url": "https://open.spotify.com/track/1q3Bh0X0zCczI7ewPQnmsg"
     },
     {
       "added_at": "2023-06-05 14:52:17",

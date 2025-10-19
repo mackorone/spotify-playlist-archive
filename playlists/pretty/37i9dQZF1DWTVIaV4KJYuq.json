@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 706550,
+  "num_followers": 706584,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
-      "added_at": "2025-08-29 04:00:33",
-      "album": {
-        "name": "I'll Stand By You",
-        "url": "https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 247113,
-      "name": "I'll Stand By You",
-      "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Brandy (You're a Fine Girl)",
@@ -791,6 +775,22 @@
       "duration_ms": 208198,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
+    },
+    {
+      "added_at": "2025-08-29 04:00:33",
+      "album": {
+        "name": "I'll Stand By You",
+        "url": "https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 247113,
+      "name": "I'll Stand By You",
+      "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Everybody Hurts",
-        "url": "https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        },
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2"
-        }
-      ],
-      "duration_ms": 293586,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Rita Wilson Now & Forever: Duets",
         "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
@@ -1367,18 +1347,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
-        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
+        "name": "Everybody Hurts",
+        "url": "https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe"
       },
       "artists": [
         {
-          "name": "Anthony D'Amato",
-          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        },
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2"
         }
       ],
-      "duration_ms": 192927,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
+      "duration_ms": 293586,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1395,6 +1379,22 @@
       "duration_ms": 145280,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Won't You Be My Neighbor? (A Benefit For Refugee Aid)",
+        "url": "https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S"
+      },
+      "artists": [
+        {
+          "name": "Anthony D'Amato",
+          "url": "https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy"
+        }
+      ],
+      "duration_ms": 192927,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu"
     },
     {
       "added_at": "2024-10-18 04:00:00",

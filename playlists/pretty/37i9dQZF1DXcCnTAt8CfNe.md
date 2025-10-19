@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,863 likes - 212 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,957 likes - 212 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 211 | [Oortenses](https://open.spotify.com/track/4owhqU5zMrqmvy0XUoV0Q0) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Oortenses](https://open.spotify.com/album/4h4llD5xDpv46W4c4LD3vj) | 2:37 |
 | 212 | [Skylight Serenade](https://open.spotify.com/track/1cLSDdOaUDZyZ0mB0RSvYl) | [Eric de Joté](https://open.spotify.com/artist/0JEX9uWA6GolbCcaqfD6rL) | [Skylight Serenade](https://open.spotify.com/album/4gLieePxzKIUqKSPiteKd0) | 2:32 |
 
-Snapshot ID: `AAAAAAI6/KRYfFFp9/FnmHn4JJKWJ48s`
+Snapshot ID: `AAAAAHdJADh6E4HYUbCW6UcJ6snUOZrc`

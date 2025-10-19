@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  David Rees.",
-  "num_followers": 21112,
+  "num_followers": 21110,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -543,7 +543,7 @@
     {
       "added_at": "2025-10-01 11:15:33",
       "album": {
-        "name": "x. ave: renacer",
+        "name": "xi. ave \u00b7 renacer",
         "url": "https://open.spotify.com/album/3cUbFIk8UqWsM9okxpug9h"
       },
       "artists": [
@@ -553,7 +553,7 @@
         }
       ],
       "duration_ms": 201818,
-      "name": "x. ave: renacer",
+      "name": "xi. ave \u00b7 renacer",
       "url": "https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk"
     },
     {
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-10-01 11:15:33",
       "album": {
-        "name": "Rutina",
-        "url": "https://open.spotify.com/album/4veGlDXexNE2cbOSIfQ5vC"
-      },
-      "artists": [
-        {
-          "name": "Rada Mancy",
-          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
-        },
-        {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
-        }
-      ],
-      "duration_ms": 168398,
-      "name": "Rutina",
-      "url": "https://open.spotify.com/track/4EZRWXXfT2Odi7n5YqDd8m"
-    },
-    {
-      "added_at": "2025-10-01 11:15:33",
-      "album": {
         "name": "Spawnpoint",
         "url": "https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 200040,
       "name": "Me Quedar\u00e9",
       "url": "https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG"
+    },
+    {
+      "added_at": "2025-10-01 11:15:33",
+      "album": {
+        "name": "Full Lace y el Tuck",
+        "url": "https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw"
+      },
+      "artists": [
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Full Lace y el Tuck",
+      "url": "https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

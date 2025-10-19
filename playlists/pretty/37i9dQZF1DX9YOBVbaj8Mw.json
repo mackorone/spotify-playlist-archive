@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19275,
+  "num_followers": 19271,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "P\u00f3\u0142noc",
+      "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "#INDAWOODS",
         "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 157331,
       "name": "Lusterka",
       "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "P\u00f3\u0142noc",
-      "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Makowiecki",
-          "url": "https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF"
-        }
-      ],
-      "duration_ms": 283577,
-      "name": "Warszawa Wschodnia",
-      "url": "https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 202037,
       "name": "Sama na planecie",
       "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Makowiecki",
+          "url": "https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF"
+        }
+      ],
+      "duration_ms": 283577,
+      "name": "Warszawa Wschodnia",
+      "url": "https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "September Night",
-        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
-        }
-      ],
-      "duration_ms": 380093,
-      "name": "Song for Sarah",
-      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Origami EP",
         "url": "https://open.spotify.com/album/0EFCMCxvJeAn39A19ZxIhC"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 151280,
       "name": "Ci\u0105gle",
       "url": "https://open.spotify.com/track/3ePTGOjZp25Z1OHBT0L8zQ"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "September Night",
+        "url": "https://open.spotify.com/album/21OEKJBFzi5CVQ49vJnr3i"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+        }
+      ],
+      "duration_ms": 380093,
+      "name": "Song for Sarah",
+      "url": "https://open.spotify.com/track/5lPAbY4EpAtOe46qR4hEL0"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Universum",
-        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
-      },
-      "artists": [
-        {
-          "name": "Dawid Lubowicz",
-          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
-        },
-        {
-          "name": "Atom String Quartet",
-          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
-        }
-      ],
-      "duration_ms": 332013,
-      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
-      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "A statek p\u0142ynie",
         "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Universum",
+        "url": "https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu"
+      },
+      "artists": [
+        {
+          "name": "Dawid Lubowicz",
+          "url": "https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX"
+        },
+        {
+          "name": "Atom String Quartet",
+          "url": "https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2"
+        }
+      ],
+      "duration_ms": 332013,
+      "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
+      "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Rugs / Carpets",
+        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
+      },
+      "artists": [
+        {
+          "name": "Tymek Papior",
+          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
+        }
+      ],
+      "duration_ms": 312842,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 443446,
       "name": "Tatras",
       "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Rugs / Carpets",
-        "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
-      },
-      "artists": [
-        {
-          "name": "Tymek Papior",
-          "url": "https://open.spotify.com/artist/4Md0g2WKat1VqfXvOjaIjt"
-        }
-      ],
-      "duration_ms": 312842,
-      "name": "Tear",
-      "url": "https://open.spotify.com/track/6zjdgDTLPzSCZdLwYQVIiF"
     },
     {
       "added_at": "2025-04-06 08:27:45",

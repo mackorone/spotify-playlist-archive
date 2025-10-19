@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116441,
+  "num_followers": 116443,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -607,18 +607,26 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -643,26 +651,18 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Her og n\u00e5",
-        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+        "name": "Aleine over fjell",
+        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
       },
       "artists": [
         {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
         }
       ],
-      "duration_ms": 136981,
-      "name": "Her og n\u00e5",
-      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+      "duration_ms": 173289,
+      "name": "Aleine over fjell",
+      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
+        "name": "Her og n\u00e5",
+        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+      },
+      "artists": [
+        {
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "Her og n\u00e5",
+      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
-        "name": "Aleine over fjell",
-        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
-      },
-      "artists": [
-        {
-          "name": "Br\u00e5tabrann",
-          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
-        }
-      ],
-      "duration_ms": 173289,
-      "name": "Aleine over fjell",
-      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Gamle helter",
-        "url": "https://open.spotify.com/album/0XaNCDVHK9Ug1SKKu2ZBPl"
+        "name": "Flammer og Bensin",
+        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Gamle helter",
-      "url": "https://open.spotify.com/track/5UStrdTMXC3qwEQSEv1HWo"
+      "duration_ms": 212360,
+      "name": "Flammer og Bensin",
+      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -1151,6 +1151,22 @@
       "duration_ms": 179760,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Baksetefylla",
-        "url": "https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe"
-      },
-      "artists": [
-        {
-          "name": "Malene Axling",
-          "url": "https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ"
-        }
-      ],
-      "duration_ms": 149926,
-      "name": "Baksetefylla",
-      "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
         "name": "Best p\u00e5 fest",
         "url": "https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 167980,
       "name": "Zetor\u2019n",
       "url": "https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
+        "name": "Baksetefylla",
+        "url": "https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe"
+      },
+      "artists": [
+        {
+          "name": "Malene Axling",
+          "url": "https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ"
+        }
+      ],
+      "duration_ms": 149926,
+      "name": "Baksetefylla",
+      "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -1247,22 +1263,6 @@
       "duration_ms": 111282,
       "name": "Dagsfylla",
       "url": "https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
-        "name": "Haill",
-        "url": "https://open.spotify.com/album/5TaAEY29cHfSagrvmgBLnY"
-      },
-      "artists": [
-        {
-          "name": "Maria Haukaas Mittet",
-          "url": "https://open.spotify.com/artist/4Gej6q6wCKccBidZF9lB5B"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Haill",
-      "url": "https://open.spotify.com/track/7LoN2tKObVtaCwYu7pk4BX"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 69153,
       "name": "Benji Puts His Mum To Rest",
       "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/0SXUbvefDczI7Z6hEhuJ8h"
@@ -1280,6 +1280,28 @@
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+    },
+    {
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197542,
+      "name": "Silverlines - prod. Labrinth",
+      "url": "https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm"
     },
     {
       "album": {
@@ -1560,7 +1582,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 53353,
       "name": "What Would You Want Me To Be",
       "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
@@ -1596,7 +1618,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 198401,
       "name": "Where The Wild Things",
       "url": "https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB"
@@ -1614,7 +1636,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 49000,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/609YdoBLzKY7XPmgBdEVur"

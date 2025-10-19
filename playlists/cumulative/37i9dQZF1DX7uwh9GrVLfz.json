@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "date_added": "2025-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262432,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP"
+    },
+    {
+      "album": {
         "name": "Go away",
         "url": "https://open.spotify.com/album/6NXDgS5x1zVQsgpdNangZk"
       },
@@ -9517,24 +9535,6 @@
     },
     {
       "album": {
-        "name": "Talent",
-        "url": "https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "date_added": "2025-09-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262432,
-      "name": "Talent",
-      "url": "https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP"
-    },
-    {
-      "album": {
         "name": "Teijidekaero feat. TOTALFAT",
         "url": "https://open.spotify.com/album/2ff0DpDkWqdXwwH4h9DZzJ"
       },
@@ -14156,7 +14156,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 124666,
       "name": "\u5e78\u305b\u306b\u306a\u308d\u3046\u3088",
       "url": "https://open.spotify.com/track/0wok9BE7hFu5yOJeKReNgt"
@@ -15154,7 +15154,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-19",
       "duration_ms": 136360,
       "name": "\u7981\u65ad\u75c7\u72b6",
       "url": "https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6"

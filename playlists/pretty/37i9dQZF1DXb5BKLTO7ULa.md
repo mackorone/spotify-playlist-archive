@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Tame Impala, Russo & Ronnie Flex, Mart Hoogkamer & Miss Montreal en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,588 likes - 93 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,577 likes - 93 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 47 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
 | 48 | [Back Cooking](https://open.spotify.com/track/7CycwjLRm7wKubir9PCXXd) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [OJ Da Juiceman](https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn) | [Episodes](https://open.spotify.com/album/1ilQqLfaXbyZB7sldz26Ox) | 2:37 |
 | 49 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:45 |
-| 50 | [In Nije Dei 2.0](https://open.spotify.com/track/2vrRkhP9LjU8NA1d50ogbi) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy), [Elske de Wall](https://open.spotify.com/artist/0GDlfBT9ECcR18tu1XzrCm), [Noord Nederlands Orkest](https://open.spotify.com/artist/3PoJmu2JUr6sdLo8MQYCgn) | [In Nije Dei 2.0](https://open.spotify.com/album/3sn34MszL8NwVy2zpSfGBs) | 3:47 |
+| 50 | [In Nije Dei 2.0](https://open.spotify.com/track/2vrRkhP9LjU8NA1d50ogbi) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy), [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M), [Noord Nederlands Orkest](https://open.spotify.com/artist/3PoJmu2JUr6sdLo8MQYCgn) | [In Nije Dei 2.0](https://open.spotify.com/album/3sn34MszL8NwVy2zpSfGBs) | 3:47 |
 | 51 | [ROCK ME](https://open.spotify.com/track/43Ayz502txtBpWSbX9nsSR) | [Theresia Serena](https://open.spotify.com/artist/7C9CFrbBSANJZz3LYLFvOF) | [ROCK ME](https://open.spotify.com/album/6KnrAovESsoZ4xcsK8v2bj) | 2:10 |
 | 52 | [Vanavond Nog Van Mij](https://open.spotify.com/track/3vdaGOh7Nz0s8aW6nLgS6s) | [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX) | [Vanavond Nog Van Mij](https://open.spotify.com/album/1wqHiVIDtBvhvPGBePTTES) | 2:49 |
 | 53 | [Days of Clay](https://open.spotify.com/track/2Krzlio8cLKGyJk8lKzvPM) | [Library Card](https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT), [Axender](https://open.spotify.com/artist/6n2JuOcyeutWrxWQH5CsmL) | [Art School / Days of Clay](https://open.spotify.com/album/6ueyr4PrJyuzAv7DNQXEh7) | 5:15 |

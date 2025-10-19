@@ -4,12 +4,13 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-81 songs - 4 hr 24 min
+82 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2020 Vision](https://open.spotify.com/track/4QGhaRLHsLwU0N1lKYXmfH) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:38 | 2024-06-13 |  |
 | [Angels vs Demons](https://open.spotify.com/track/1Zwg4VLmGKXxi1vzhAatac) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:51 | 2024-06-13 |  |
+| [Aura](https://open.spotify.com/track/0n4zaqF9KwDbANaAqAgmpB) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aura](https://open.spotify.com/album/3ojFKpGrbHIXUjNdiGDWiC) | 2:12 | 2025-10-18 |  |
 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 | 2024-06-13 |  |
 | [Bad Bitch Anthem](https://open.spotify.com/track/0pq5dsJfIhJ7G5jMWcl5GP) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Red Flu](https://open.spotify.com/album/52naLR1YTURdNtzwrbQQxu) | 2:39 | 2024-06-13 |  |
 | [Beat Box \(feat\. Young M.A\) \- Freestyle](https://open.spotify.com/track/67RGFObGLxBAJDLrukSusE) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Beat Box \(feat\. Young M.A\) \[Freestyle\]](https://open.spotify.com/album/7FE3YIWEmLjcVIubyIWAS3) | 3:29 | 2024-06-13 |  |

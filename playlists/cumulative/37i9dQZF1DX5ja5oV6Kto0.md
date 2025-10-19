@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: 99Phaces
 
-954 songs - 1 day 22 hr 20 min
+955 songs - 1 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,7 +813,7 @@
 | [Sugar](https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Sugar](https://open.spotify.com/album/4zZ2eYh53WkCkY0ixzKZEf) | 3:38 | 2021-12-09 | 2022-05-13 |
 | [SUGAR HONEY ICED TEA](https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [MONOCHROME RADIO \(DELUXE\)](https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3) | 3:42 | 2025-08-08 |  |
 | [sugar rush](https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [Ansah Live](https://open.spotify.com/artist/0hbJqr0rLt4pCA9iDLJfup) | [AIR PISCINE](https://open.spotify.com/album/3ayLyO1LSESbWvbvacY5KD) | 2:40 | 2024-07-26 | 2024-10-04 |
-| [Sul Tu](https://open.spotify.com/track/3sNmkRD9CXignevUedexiR) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Sul Tu](https://open.spotify.com/album/6NbbFrYauMoN1hjX2GwkyD) | 2:42 | 2025-08-29 |  |
+| [Sul Tu](https://open.spotify.com/track/3sNmkRD9CXignevUedexiR) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Sul Tu](https://open.spotify.com/album/6NbbFrYauMoN1hjX2GwkyD) | 2:42 | 2025-08-29 | 2025-10-19 |
 | [Sullen](https://open.spotify.com/track/6KqN3qd3H0GILUSx3nA2rf) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Rookie Sbk](https://open.spotify.com/artist/2ERDwX9D7OE26COqPqTPVa) | [Sullen](https://open.spotify.com/album/2tdjV7IB1SennbPDGjwGCu) | 2:31 | 2022-03-17 | 2022-08-06 |
 | [Summer](https://open.spotify.com/track/3PPqIW224FnGVkETbcrZU2) | [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Summer/Morning Sun](https://open.spotify.com/album/5DV1abTVfH4Ud1AFAPI7C4) | 3:42 | 2024-11-08 | 2025-09-01 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2024-03-21 | 2024-03-25 |
@@ -947,6 +947,7 @@
 | [WONDERFUL](https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [WONDERFUL](https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4) | 2:20 | 2025-09-05 |  |
 | [Woo](https://open.spotify.com/track/7snE5wCCKT9NoU1M9H4NLF) | [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Conflicts of Interest](https://open.spotify.com/album/2yz7ohrkrAYCNCQECINttT) | 4:50 | 2025-01-17 | 2025-02-22 |
 | [WOOHOO! \(ft\. Moyoswrld\)](https://open.spotify.com/track/7CEfJ4oDIUDY2BBVVQXMld) | [Chi Virgo](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [WOOHOO! \(ft\. Moyoswrld\)](https://open.spotify.com/album/6wyTUbH9WnVHo5YaWME580) | 2:05 | 2023-06-16 | 2023-06-23 |
+| [World is Ours](https://open.spotify.com/track/2v9g7U8BwbmJllNzBKtkfg) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [World is Ours](https://open.spotify.com/album/5jLQuj4zTeSJTit9OGUV9N) | 2:46 | 2025-10-17 |  |
 | [Wrong for It](https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:22 | 2022-05-12 | 2022-09-02 |
 | [WTF! \(Euphoria\) \(feat\. 2aab\)](https://open.spotify.com/track/4yUC5HZhaQAt465DEJNDxN) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [2AAB](https://open.spotify.com/artist/0INY0RufOyabGf8TT1hgRC) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 1:50 | 2022-09-15 | 2022-12-02 |
 | [X&O’s](https://open.spotify.com/track/0CNms5h7Q2a05zErzXKfrp) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [X&O’s](https://open.spotify.com/album/60c0aUcPCZP6AvCcNH7r6Q) | 2:24 | 2025-05-30 | 2025-08-01 |

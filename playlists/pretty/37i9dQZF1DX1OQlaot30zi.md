@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Simba La Rue,  Flaco G e IvanBi,  Leon Faun, Dedde e LILCR, Kuremino e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,427 likes - 104 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,431 likes - 104 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

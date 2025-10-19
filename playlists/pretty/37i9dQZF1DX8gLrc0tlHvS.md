@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Stomping rhythms, rustic strings, communal harmonies, or maybe something cool like indie folk? Cover: Edward Sharpe & The Magnetic Zeros
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,533 likes - 76 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,551 likes - 76 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

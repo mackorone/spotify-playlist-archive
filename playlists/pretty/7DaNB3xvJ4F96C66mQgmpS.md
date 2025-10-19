@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 85,249 likes - 161 songs - 8 hr 23 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 85,240 likes - 161 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 15 | [Shelf Me](https://open.spotify.com/track/1SUucjkAco5acOv3ff3ZKB) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [A New Fantasy](https://open.spotify.com/album/5VMyxCrChRC9FDh38SZ8ix) | 1:53 |
 | 16 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
 | 17 | [DOG HOUSE \(feat\. Julia Wolf & Yeat\)](https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DOG HOUSE](https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6) | 3:10 |
-| 18 | [Act Like You Know](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 |
+| 18 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 |
 | 19 | [Pluto Walk](https://open.spotify.com/track/2taDBAJbGHAQ9O0JvWiCIU) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Pluto Walk](https://open.spotify.com/album/60FZpuXlhZlNyhfRPAD8FL) | 1:53 |
 | 20 | [Sunday](https://open.spotify.com/track/7IEASUMNmV5tA3NNGzB0Ue) | [Big Opp](https://open.spotify.com/artist/32dqY5hdEsWLMZVG7asCq0) | [Sunday](https://open.spotify.com/album/2vLfNajRWCIJTHlXRl4A06) | 2:14 |
 | 21 | [Walk Down \(feat\. 21 Savage\)](https://open.spotify.com/track/4gO3vKgeoFIBdt1Z4BB0m8) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Walk Down \(feat\. 21 Savage\)](https://open.spotify.com/album/3ZIjY5KzCeWhNYz29R6mAg) | 2:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Blanch
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,333 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,331 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Dej mi čas](https://open.spotify.com/track/0U62VXSYgn5pXYGwoR3DhE) | [Angie](https://open.spotify.com/artist/72crjLMJJAYrwh0YLF5AVB) | [Dej mi čas](https://open.spotify.com/album/6n6KYVVHfEKG7DQouZL01T) | 3:03 |
 | 50 | [Back On 74 \- Live](https://open.spotify.com/track/4L85O7wO7Rf3vK85mG3U80) | [Hellwana](https://open.spotify.com/artist/5OmUFReF1ugpeldKKTrryZ), [BXSTON](https://open.spotify.com/artist/5eKrjZYiItCIU64QzgufZc) | [Back On 74 \- Live](https://open.spotify.com/album/03jvRvMsEj9PIMlMipWFpx) | 1:28 |
 
-Snapshot ID: `AAAAAL3DbBPL3t7ArK2OfI5o6Wt9hBTr`
+Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`

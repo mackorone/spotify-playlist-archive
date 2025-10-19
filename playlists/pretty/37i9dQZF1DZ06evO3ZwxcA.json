@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 76434,
+  "num_followers": 76455,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPA1gAAAAADu/gf6sCxnnlqvpFEUkqc1",
+  "snapshot_id": "aPGHAAAAAAAY+u++OabTm7I7T7EBAbJC",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Murdered Love",
-        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "Lost In Forever",
-      "url": "https://open.spotify.com/track/3j0TRa1zODLBJtEGjdBpj8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VERITAS",
         "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 160836,
       "name": "I WON'T BOW DOWN",
       "url": "https://open.spotify.com/track/7KjvtZOhareZF6phDFdHsm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Murdered Love",
+        "url": "https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "Lost In Forever",
+      "url": "https://open.spotify.com/track/3j0TRa1zODLBJtEGjdBpj8"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+        "name": "Lion's Roar",
+        "url": "https://open.spotify.com/album/50m1akjGfPNjl539KbhcSV"
       },
       "artists": [
         {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+          "name": "DJ Robinson",
+          "url": "https://open.spotify.com/artist/4cAAgDtfxIZiIVB7HCwY6D"
         },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 186453,
-      "name": "They Don't Like It",
-      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
+      "duration_ms": 248000,
+      "name": "Lion's Roar",
+      "url": "https://open.spotify.com/track/2V3AmXmyIKF7OQM663fFuZ"
     },
     {
       "added_at": null,
@@ -703,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lion's Roar",
-        "url": "https://open.spotify.com/album/50m1akjGfPNjl539KbhcSV"
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
       "artists": [
         {
-          "name": "DJ Robinson",
-          "url": "https://open.spotify.com/artist/4cAAgDtfxIZiIVB7HCwY6D"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         },
         {
           "name": "P.O.D.",
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Lion's Roar",
-      "url": "https://open.spotify.com/track/2V3AmXmyIKF7OQM663fFuZ"
+      "duration_ms": 186453,
+      "name": "They Don't Like It",
+      "url": "https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs"
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 230680,
-      "name": "This Goes Out To You",
-      "url": "https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf"
+      "duration_ms": 55866,
+      "name": "Psalm 150",
+      "url": "https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1"
     }
   ],
   "unique_name": "This Is P.O.D.",

@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 78353,
+  "num_followers": 78347,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Palmeras en el jard\u00edn",
-        "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 180725,
-      "name": "Palmeras en el jard\u00edn",
-      "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "No Escuro, Quem \u00c9 Voc\u00ea?",
         "url": "https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 148411,
       "name": "Dilemas da vida moderna",
       "url": "https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Palmeras en el jard\u00edn",
+        "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 180725,
+      "name": "Palmeras en el jard\u00edn",
+      "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 112848,
+      "name": "Ah\u00ed Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "MPC (M\u00fasica Popular Carioca)",
         "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 154350,
       "name": "CONJUNT\u00c3O DE TIME",
       "url": "https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 112848,
-      "name": "Ah\u00ed Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 190092,
-      "name": "Transe",
-      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "big buraco",
         "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 180185,
       "name": "sol na pele",
       "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 190092,
+      "name": "Transe",
+      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Onde Guardamos as Flores?",
-        "url": "https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 287487,
-      "name": "N\u00e3o Sou Mais Eu",
-      "url": "https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Jos\u00e9 & Durval",
         "url": "https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 265055,
       "name": "Romance de Filme",
       "url": "https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Onde Guardamos as Flores?",
+        "url": "https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "duration_ms": 287487,
+      "name": "N\u00e3o Sou Mais Eu",
+      "url": "https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
+      },
+      "artists": [
+        {
+          "name": "Cassio Vianna Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR"
+        }
+      ],
+      "duration_ms": 452573,
+      "name": "Flight 962",
+      "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Radam\u00e9s",
         "url": "https://open.spotify.com/album/5OnZTYpYQJLDs4QaP7NM0C"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 278463,
       "name": "Concerto No. 4 para Viol\u00e3o e Orquestra de Cordas \"\u00c0 Brasileira\": II. Lento",
       "url": "https://open.spotify.com/track/4VjFEwFFezqzCMGBTJ966y"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/1rYAzBqBHOJhRQ6e77vaod"
-      },
-      "artists": [
-        {
-          "name": "Cassio Vianna Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3u82f9AHow4ZrhStBZvamR"
-        }
-      ],
-      "duration_ms": 452573,
-      "name": "Flight 962",
-      "url": "https://open.spotify.com/track/5986EUS4Rn5gp9LaDs0mz1"
     },
     {
       "added_at": "2025-09-17 15:00:09",

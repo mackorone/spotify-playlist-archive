@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:7nfBxjb99prCqaT3wk87u5">Samba Jean\-Baptiste</a> on cover\. Artwork by Thami Nabil
 
-2,107 songs - 6 day 19 hr 32 min
+2,109 songs - 6 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Discrete \(The Market\)](https://open.spotify.com/track/2h0tsulVU8hOZzHog4mLk0) | [Claire Rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [Discrete \(The Market\)](https://open.spotify.com/album/3Kgg7UPQBnIHyLnXAC9xsf) | 6:34 | 2021-02-26 | 2021-03-18 |
 | [Distance Learner](https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC) | [Fuubutsushi](https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj) | [Meridians](https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy) | 4:17 | 2024-07-17 | 2025-07-31 |
 | [distance to breathe \- KIRARA rework](https://open.spotify.com/track/7bKJ8YQ2TGBGA37Q6KMN22) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM), [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [echoes of happenstance 4](https://open.spotify.com/album/12DbY0GKMmUD3yBmiCpaSm) | 4:37 | 2022-06-08 | 2022-08-11 |
-| [Distratta](https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i) | [Silvia Tarozzi](https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb) | [Distratta](https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ) | 2:49 | 2025-05-16 |  |
+| [Distratta](https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i) | [Silvia Tarozzi](https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb) | [Distratta](https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ) | 2:49 | 2025-05-16 | 2025-10-19 |
 | [Disuelta](https://open.spotify.com/track/4SPUd69r54Ovg4pzYi7Id8) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Disuelta](https://open.spotify.com/album/4JjvVBkMjoo66rhVQAbCol) | 2:57 | 2020-10-30\* | 2021-01-15 |
 | [Dividual Individual](https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 5:00 | 2023-06-07 | 2024-03-21 |
 | [Do Something!](https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Do Something!](https://open.spotify.com/album/7wOOMSpNAHJO4vadu3V6RN) | 2:11 | 2024-08-07 | 2025-04-16 |
@@ -800,6 +800,7 @@
 | [History of Us \- Lost fx Rework](https://open.spotify.com/track/5x2hPhp3NlFh6aG0nSZcXV) | [Saigon Would Be Seoul](https://open.spotify.com/artist/4lMrzSojvtk5cdiTpYx0E7), [Lost fx](https://open.spotify.com/artist/5QfZPGVMSIHg51WZBe6LBu) | [History of Us \(Lost fx Rework\)](https://open.spotify.com/album/1hIssstWtFdijWGvrZNOQh) | 3:48 | 2021-04-01 | 2021-06-03 |
 | [hit](https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 4:37 | 2023-06-28 | 2024-03-07 |
 | [Hizo](https://open.spotify.com/track/4W3Gdxl6tqbxVKAsc7FGrC) | [Amina Cyu](https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4) | [The 39 Steps](https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06) | 3:55 | 2024-03-06 | 2025-07-31 |
+| [HM2BB](https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9) | [Indira Elias](https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ) | [HM2BB](https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN) | 2:13 | 2025-10-17 |  |
 | [Hoarsely Cry](https://open.spotify.com/track/4taKjUGdjOotBxLuaaCw5F) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [Hoarsely Cry](https://open.spotify.com/album/2N66e5YhtkiwenkgfuvCFd) | 3:40 | 2023-03-29 | 2023-06-08 |
 | [Hogar sin sueño](https://open.spotify.com/track/7cHDpA7nNmD0wrk3KG51pE) | [Escuela de Aviación](https://open.spotify.com/artist/2aLFaSGBmtMdrNmbeYmyXN) | [\#1](https://open.spotify.com/album/7HDJJWfuhMj1f21CjvbIs7) | 3:46 | 2022-04-13 | 2022-06-30 |
 | [Hohenheim](https://open.spotify.com/track/5jPcRE5WXJqu7eBIr5Fb4D) | [Hollowheart.](https://open.spotify.com/artist/1HXnnIVmRjEzAYCEFv50mm) | [The Lost Art of Alchemy](https://open.spotify.com/album/1ETrcmavTPN4Scb7eOe99q) | 1:27 | 2023-04-05 | 2023-07-19 |
@@ -1626,7 +1627,7 @@
 | [Songbook](https://open.spotify.com/track/1hHbk4aVQSpTm0zpmHuIPY) | [JUNES K](https://open.spotify.com/artist/45KUf6mcBeHM9UZg0jEcZl) | [Songbook](https://open.spotify.com/album/6h5PJAUjqtHpbtqecwQlIU) | 2:56 | 2022-01-19 | 2022-03-21 |
 | [Songlines](https://open.spotify.com/track/3fvZywYoedWs64wlQp9tee) | [Ny Oh](https://open.spotify.com/artist/6IiR2T9WMQnYHK2HQUiPTx) | [Ny Oh’s Garden of Eden](https://open.spotify.com/album/1Q0dAIjgoJF4Ok3IFjmozl) | 2:58 | 2022-03-30 | 2022-06-08 |
 | [Sono Kane Wo Narasu Toki](https://open.spotify.com/track/0KlFDH3yQUmkj245D97JZD) | [ONI NO MIGIUDE](https://open.spotify.com/artist/7FTDuRyVobBKc7kmxnjFK4) | [OSHARAKA](https://open.spotify.com/album/096ZIQh7mBAqsrLa9Xd23f) | 3:04 | 2023-11-08 | 2023-11-30 |
-| [SOPHIA](https://open.spotify.com/track/4cWLextkahfaw1YYlPRKiV) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Sophia the Robot](https://open.spotify.com/artist/3KPQiukbLYdCSdzDR8mYVs) | [Call Me Resurging](https://open.spotify.com/album/7yuXQ3WAIR8JDvS5DzAP12) | 2:07 | 2025-07-23 |  |
+| [SOPHIA](https://open.spotify.com/track/4cWLextkahfaw1YYlPRKiV) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Sophia the Robot](https://open.spotify.com/artist/3KPQiukbLYdCSdzDR8mYVs) | [Call Me Resurging](https://open.spotify.com/album/7yuXQ3WAIR8JDvS5DzAP12) | 2:07 | 2025-07-23 | 2025-10-19 |
 | [Sound of Time Passing](https://open.spotify.com/track/47vbsKovGoXnwZIkLgRDCf) | [eyeto8](https://open.spotify.com/artist/15rf7Do7PBp5yWuQqttDqN) | [Boy Meets the World](https://open.spotify.com/album/4YHVuICEvNju4zdPen0Zkz) | 5:20 | 2023-05-10 | 2023-08-02 |
 | [Soundtrack to a Life](https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI) | [Inflake](https://open.spotify.com/artist/2ePcWiaPCxh8F6aX4TBnLs) | [as we once were](https://open.spotify.com/album/6OAvCoDlYGxpgWMeKaHU0Q) | 2:36 | 2023-05-17 | 2023-08-31 |
 | [Soy Sauce](https://open.spotify.com/track/3NpUOvq2too7UVtt1yJXSM) | [Josef Akin](https://open.spotify.com/artist/6EdShJCWbCFI4VQb3aKdkg) | [Soy Sauce](https://open.spotify.com/album/19NwXshoAzoJw6eDwb7e4d) | 2:24 | 2024-03-06 | 2024-07-04 |
@@ -1975,6 +1976,7 @@
 | [Vou Ficar Neste Quadrado](https://open.spotify.com/track/6B8LVrElkXeTdIJooLtMTP) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Vou Ficar Neste Quadrado](https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT) | 2:39 | 2024-09-11 | 2024-10-24 |
 | [Voulez Vous](https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:55 | 2024-07-17 | 2024-09-12 |
 | [voXCS60x](https://open.spotify.com/track/6RxnsdXpLEBYWvKb6CYGqI) | [Marta De Pascalis](https://open.spotify.com/artist/5mcn2ysmgFilH73FQhQIcr) | [Sky Flesh](https://open.spotify.com/album/23UUgWs6MW97BvAORIXEV3) | 2:07 | 2023-11-08 | 2023-11-30 |
+| [Voy\_Edit](https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua) | [LOTUS FROM JAKARTA](https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG) | [Rene](https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl) | 3:59 | 2025-10-17 |  |
 | [Vulnerable](https://open.spotify.com/track/0bYJSQobRSYeoIR7YpgtxZ) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [No Moon](https://open.spotify.com/album/4Ev9kiXHYMRQg5rogOMe1i) | 5:09 | 2021-01-15 | 2021-02-04 |
 | [Väter und Söhne](https://open.spotify.com/track/04WCk14K32aUG6wjRpQBmy) | [Alex Kaminski](https://open.spotify.com/artist/2206skMSHXiT4SREi6wpf7) | [Väter und Söhne](https://open.spotify.com/album/04Q7u5HiCCcjPbVMqCQbaW) | 5:53 | 2023-08-01 | 2025-06-06 |
 | [Vérité](https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Oko Ebombo](https://open.spotify.com/artist/0nxkDLU7KQX931VkQqaGwJ) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 3:50 | 2021-03-15 | 2021-03-18 |

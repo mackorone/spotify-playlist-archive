@@ -1,12 +1,12 @@
 {
   "description": "This is Pantera. The essential tracks, all in one playlist.",
-  "num_followers": 316328,
+  "num_followers": 316355,
   "original_name": "This Is Pantera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPA1gAAAAABmV79SQNLnRX3JvmrtGhHw",
+  "snapshot_id": "aPGHAAAAAABB6EAnlMrbUiUxhJ2pbD4v",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 259693,
-      "name": "Yesterday Don't Mean Shit",
-      "url": "https://open.spotify.com/track/0MT298VrmI1Kb7GFbxw43C"
+      "duration_ms": 327533,
+      "name": "Regular People (Conceit)",
+      "url": "https://open.spotify.com/track/0YgOMJldhmvg5mE2H2AbUA"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Yesterday Don't Mean Shit",
+      "url": "https://open.spotify.com/track/0MT298VrmI1Kb7GFbxw43C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vulgar Display of Power",
         "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
@@ -404,25 +420,9 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 327533,
-      "name": "Regular People (Conceit)",
-      "url": "https://open.spotify.com/track/0YgOMJldhmvg5mE2H2AbUA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piss",
-        "url": "https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 262328,
-      "name": "Piss",
-      "url": "https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28"
+      "duration_ms": 300373,
+      "name": "Live in a Hole",
+      "url": "https://open.spotify.com/track/5gUcLzosEDmiPLDpQUKqTP"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piss",
+        "url": "https://open.spotify.com/album/1wQbBWymUA04PZTORsZvR3"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 262328,
+      "name": "Piss",
+      "url": "https://open.spotify.com/track/5glW68ECkgLLPlleSdJa28"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 296773,
       "name": "Goddamn Electric",
       "url": "https://open.spotify.com/track/5b3mIPS9eqmMfuoOr7JNkp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 300373,
-      "name": "Live in a Hole",
-      "url": "https://open.spotify.com/track/5gUcLzosEDmiPLDpQUKqTP"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 160960,
-      "name": "Hellbound",
-      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 234733,
       "name": "The Badge",
       "url": "https://open.spotify.com/track/3HO3nXKWRhvkibVvsONrle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 160960,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/1OdavDKvGA15nLfSRqAIpp"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Death Rattle",
-      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
         "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 312746,
       "name": "Where You Come From - 2003 Remaster",
       "url": "https://open.spotify.com/track/1PWEA4Uq0fuwHv7yILK0G4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Death Rattle",
+      "url": "https://open.spotify.com/track/3RZKDfdWKkPu92lQA1kjez"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Uplift",
-      "url": "https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Pantera: Far Beyond the Great Southern Cowboy's Vulgar Hits",
         "url": "https://open.spotify.com/album/2pEiQl69yF4PZDXIBoZjaH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 256586,
       "name": "Hole in the Sky - 2003 Remaster",
       "url": "https://open.spotify.com/track/2jjzYGxHwPUEajef0NbOw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Uplift",
+      "url": "https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd"
     },
     {
       "added_at": null,

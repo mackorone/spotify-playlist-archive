@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,209 likes - 200 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,229 likes - 200 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [get down on it](https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [get down on it](https://open.spotify.com/album/4BzuesRLAFoF9k0sHW3a3d) | 3:27 |
 | 2 | [Move On Up \(Murphy’s Law \(UK\), Harry Unsworth & Sam Curran Remix\)](https://open.spotify.com/track/034UhITGZzsq0OJDGJNzs4) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm), [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Harry Unsworth](https://open.spotify.com/artist/1cS0sZXi7K2blpbendbE2A), [Sam Curran](https://open.spotify.com/artist/4BBFBtFx8apgzn34zfXIdA) | [Move On Up \(Murphy’s Law \(UK\), Harry Unsworth & Sam Curran Remix\)](https://open.spotify.com/album/0Rk99BsOsTgvnEn2d56irS) | 2:29 |
-| 3 | [Deeper Love](https://open.spotify.com/track/1Q9ozUhiBdpxDznK0azJqZ) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd), [Nambi](https://open.spotify.com/artist/0Pr0bQLiGDlU4u5KGPa4vd) | [Deeper Love](https://open.spotify.com/album/7MNcUP9avAafj49pqPrg23) | 3:35 |
+| 3 | [Deeper Love](https://open.spotify.com/track/1Q9ozUhiBdpxDznK0azJqZ) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd), [NAMBI](https://open.spotify.com/artist/7qHaQqFCSv6rGASeriMQdc) | [Deeper Love](https://open.spotify.com/album/7MNcUP9avAafj49pqPrg23) | 3:35 |
 | 4 | [I WANT YOU](https://open.spotify.com/track/3Dd1dRzU137EOi0jxvaWCw) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [I WANT YOU](https://open.spotify.com/album/69t9cbydMUueDewAi2em9C) | 3:37 |
 | 5 | [Keep Forgettin'](https://open.spotify.com/track/1Bc9nB7Kyett9oZ4KCPm3c) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi) | [Keep Forgettin'](https://open.spotify.com/album/4LaJxLuuBub1x5u8c8xdCn) | 2:53 |
 | 6 | [Angel In My Pocket \- Slick’s Discotizer Mix](https://open.spotify.com/track/2djCLPPekKWDy2RLZrFAUH) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Angel In My Pocket](https://open.spotify.com/album/0z6QaFMxm3iYNpbPfbWm37) | 2:47 |

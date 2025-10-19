@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 586274,
+  "num_followers": 586309,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Ecstasy of Gold (P.R.O.G. Remix)",
-        "url": "https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo"
-      },
-      "artists": [
-        {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
-        },
-        {
-          "name": "P.R.O.G.",
-          "url": "https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f"
-        }
-      ],
-      "duration_ms": 320571,
-      "name": "Ecstasy of Gold - P.R.O.G. Remix",
-      "url": "https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Sun & Moon (Blastoyz Remix)",
         "url": "https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 211002,
       "name": "Sun & Moon - Blastoyz Remix",
       "url": "https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Ecstasy of Gold (P.R.O.G. Remix)",
+        "url": "https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo"
+      },
+      "artists": [
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "P.R.O.G.",
+          "url": "https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f"
+        }
+      ],
+      "duration_ms": 320571,
+      "name": "Ecstasy of Gold - P.R.O.G. Remix",
+      "url": "https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
+        },
+        {
+          "name": "Weaver",
+          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
+        }
+      ],
+      "duration_ms": 211467,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/5vpolLJLleSrU4fXCzA4V4"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 360000,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4yCa0360R21JScXkQ5H7aA"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
-        },
-        {
-          "name": "Weaver",
-          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
-        }
-      ],
-      "duration_ms": 211467,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Dont Blame Me",
+        "url": "https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS"
+      },
+      "artists": [
+        {
+          "name": "Interactive Noise",
+          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
+        }
+      ],
+      "duration_ms": 310375,
+      "name": "Dont Blame Me",
+      "url": "https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Stoned (Zanon Remix)",
         "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 334647,
       "name": "Stoned (Zanon Remix)",
       "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Dont Blame Me",
-        "url": "https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS"
-      },
-      "artists": [
-        {
-          "name": "Interactive Noise",
-          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
-        }
-      ],
-      "duration_ms": 310375,
-      "name": "Dont Blame Me",
-      "url": "https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH"
     },
     {
       "added_at": "2025-08-15 04:00:20",

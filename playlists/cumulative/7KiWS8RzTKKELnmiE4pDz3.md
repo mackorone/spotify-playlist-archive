@@ -4,7 +4,7 @@
 
 > 
 
-1,192 songs - 2 day 13 hr 5 min
+1,193 songs - 2 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Cant Be Fr](https://open.spotify.com/track/0DKh7FWs9Pb3gRUnREVUKy) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Cant Be Fr](https://open.spotify.com/album/0gtTrk5kZZgmzEKiHUgGky) | 2:03 | 2022-12-01 | 2023-04-12 |
 | [Cant Get Caught](https://open.spotify.com/track/7JNB2il7cGawl3ELyMGeZG) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Cant Get Caught](https://open.spotify.com/album/6v0yzOHHpxWtBQTm6bTBOU) | 2:01 | 2023-01-11 | 2023-12-14 |
 | [Can’t stop it](https://open.spotify.com/track/1HqKqHh5iKQzz9LhQDlbgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:12 | 2022-09-10 | 2023-05-09 |
+| [Car Thief](https://open.spotify.com/track/6z6ug1DvIzTdel6vW8rHVu) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 3:39 | 2025-10-19 |  |
 | [Cartier Gucci Scarf \(feat\. Lil Duke\)](https://open.spotify.com/track/3TWSar7EBNWZVeEWqDSjpw) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:18 | 2023-08-21 | 2025-05-21 |
 | [Casting Spells](https://open.spotify.com/track/36zNdBSO3g5UotlC92uBV3) | [Danger Incorporated](https://open.spotify.com/artist/6bnlvICBjK7fuNSB1ohqS5) | [Danger Reality](https://open.spotify.com/album/0hTIM39qqjzTzG3sNDDcXM) | 2:19 | 2022-09-19 | 2023-04-12 |
 | [Castle](https://open.spotify.com/track/4Tq5SHIdGg2Q1DsrDY5NIF) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Castle](https://open.spotify.com/album/0ywu6cOMmn36k013fsU8vC) | 2:04 | 2023-05-06 | 2024-03-05 |

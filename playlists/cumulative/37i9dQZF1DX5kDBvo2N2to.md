@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-427 songs - 22 hr 48 min
+429 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Jeansjacka](https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jeansjacka](https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu) | 3:51 | 2024-06-28 | 2024-08-23 |
 | [Jobba](https://open.spotify.com/track/4vrPc2YtsWzhB8K2t9S9WP) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Jobba](https://open.spotify.com/album/3XAs2lplnR6bzHWrxHIwwa) | 2:41 | 2025-03-27 | 2025-04-04 |
 | [Josephine](https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Josephine](https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx) | 2:15 | 2025-04-24 |  |
+| [Karaoke](https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Karaoke](https://open.spotify.com/album/0VDR3UCbi9usVYcZiv5pPv) | 2:43 | 2025-10-16 |  |
 | [Karma](https://open.spotify.com/track/0MinwE2P21fPkMPzVSP8jM) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Karma](https://open.spotify.com/album/2LereCO7XrmyUn5e2WP1q4) | 3:31 | 2024-10-24 | 2024-11-10 |
 | [Katterna](https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vilken del av oss gick fel?](https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa) | 2:58 | 2024-06-28 | 2025-03-08 |
 | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/track/77PM2HhareeItj0VnzTeEr) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Kill Bill \(feat\. Kasino\)](https://open.spotify.com/album/61U8pP2GeqCEJihnyiau83) | 2:51 | 2025-04-10 | 2025-05-29 |
@@ -231,9 +232,9 @@
 | [KNEEEES](https://open.spotify.com/track/36pxEPrYre9XxgGuOzEi3P) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [KNEEEES](https://open.spotify.com/album/4T1pGeeiGRtzN0HON6hfQJ) | 2:39 | 2025-06-05 | 2025-06-19 |
 | [Kom ihåg mig](https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Kom ihåg mig](https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR) | 3:01 | 2025-05-08 | 2025-06-13 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-28 | 2024-08-16 |
-| [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-12 |  |
+| [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-12 | 2025-10-19 |
 | [Känner du som jag](https://open.spotify.com/track/5kUFLSWuw22NJ6JDHOloGQ) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Känner du som jag](https://open.spotify.com/album/4ZF61pqBugl8Ep78uBeq7h) | 2:46 | 2025-06-19 | 2025-06-27 |
-| [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 |  |
+| [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 | 2025-10-19 |
 | [Kära Idioter](https://open.spotify.com/track/2UfUdKkWiq4SSaV0WOnc16) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Kära Idioter](https://open.spotify.com/album/44I05AXUG1XXhRzdY2sV9U) | 2:50 | 2025-03-07 | 2025-03-30 |
 | [l.o.v.e](https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [l.o.v.e](https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL) | 2:59 | 2025-10-02 |  |
 | [Lampan tänd för dig](https://open.spotify.com/track/1c7tYETxbuAdYTrzgw3m66) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Lampan tänd för dig](https://open.spotify.com/album/3fceocYBrztJ0lL2kF2wBl) | 2:33 | 2025-03-20 |  |
@@ -326,6 +327,7 @@
 | [Safada](https://open.spotify.com/track/4EDbi1VU7nPBlvyv2aXFat) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Safada](https://open.spotify.com/album/1keYW8BnJ3zory5U2AnFD2) | 2:36 | 2025-10-16 |  |
 | [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 | 2024-09-19 | 2025-01-17 |
 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 | 2025-07-31 |  |
+| [Same Kids](https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Same Kids](https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE) | 3:31 | 2025-10-16 |  |
 | [Same Old Dirt](https://open.spotify.com/track/4ctyXOajJuarzKIIVekcAD) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Same Old Dirt](https://open.spotify.com/album/5nBa7kEFLjmMmftj60JWwM) | 3:06 | 2025-09-04 |  |
 | [Samma gamla visa](https://open.spotify.com/track/5jTrzpI1DiIoTscfjiaXh4) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Samma gamla visa](https://open.spotify.com/album/462nFJ44ve1KbMzotNYWep) | 3:13 | 2025-05-08 | 2025-07-07 |
 | [Samma Sak](https://open.spotify.com/track/0HVjpl9YfZd5z0KoqJAo6C) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Samma Sak](https://open.spotify.com/album/7d3OXIO5dQABLh3r0UAudW) | 2:29 | 2024-10-24 | 2025-05-30 |

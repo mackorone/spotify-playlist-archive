@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Ryokuoushoku Shakai \(녹황색사회\) \[ASIA TOUR 2025\] 10월 11일, 12일 @ YES24 LIVE HALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,055 likes - 20 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,043 likes - 20 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [Landscape](https://open.spotify.com/track/2yOUBePdX7afs41FAy1XD7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Actor](https://open.spotify.com/album/1wZvv1wdTDAKvWVoqnMcIK) | 3:51 |
 | 20 | [merry\-go\-round](https://open.spotify.com/track/56kt9vPQB4ghnVMUBYedwN) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Actor](https://open.spotify.com/album/1wZvv1wdTDAKvWVoqnMcIK) | 3:58 |
 
-Snapshot ID: `AAAAANGKMwChm61u5TNe+8kAN+UjEERY`
+Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`

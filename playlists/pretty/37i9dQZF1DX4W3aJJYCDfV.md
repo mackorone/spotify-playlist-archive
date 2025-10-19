@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Last Dinner Party, Sam Fender, Tame Impala and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,030 likes - 115 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,033 likes - 115 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 57 | [baeside k](https://open.spotify.com/track/4a3kSpXYRn96Vv8JAEswG1) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [LOTTO](https://open.spotify.com/album/0RUhLv4D06s1co2Vv6UbdT) | 2:50 |
 | 58 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
 | 59 | [Dead and Gone](https://open.spotify.com/track/0Y4EoSgrwZdCsnvnIVoy05) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Dead and Gone](https://open.spotify.com/album/0PsvW6rEIiXe2NUuXwEeSl) | 2:40 |
-| 60 | [pentecost of living crisis](https://open.spotify.com/track/13npRfHx2c2FhUXk84vwBO) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [pentecost of living](https://open.spotify.com/album/4GqXL87Ny302idXnWQiPyP) | 2:00 |
+| 60 | [pentecost of living](https://open.spotify.com/track/13npRfHx2c2FhUXk84vwBO) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [pentecost of living](https://open.spotify.com/album/4GqXL87Ny302idXnWQiPyP) | 2:00 |
 | 61 | [Setting Sun](https://open.spotify.com/track/03yBnvV7Y63mbtr4OeOhiP) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Setting Sun](https://open.spotify.com/album/58RQM3Nbu7oyCBzN4SnBvg) | 3:35 |
 | 62 | [Angoon](https://open.spotify.com/track/27NgYmhycKoSle3UnPoyWO) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Angoon](https://open.spotify.com/album/7qt0LK9fNoVez7gDTcY0V6) | 4:37 |
 | 63 | [Name the Band](https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Name the Band](https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ) | 1:32 |

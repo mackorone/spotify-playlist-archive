@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Vampires, witches, ghosts and ghouls! Spookify your speakers and haunt your headphones, anime style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,367 likes - 61 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,458 likes - 61 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 | 60 | [妖怪ランデブー](https://open.spotify.com/track/2A3evdfPN0jT7NqkK0n9TU) | [REAL AKIBA BOYZ](https://open.spotify.com/artist/15roDCP00HWJmhGKrXm2XT) | [妖怪ランデブー](https://open.spotify.com/album/5Vkz7NoPE7H0tGxZCWfqiP) | 3:47 |
 | 61 | [Monocro No Kiss \(Anime Version\)](https://open.spotify.com/track/2hL6glHaKALSyovBH8xeKN) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [Enamel](https://open.spotify.com/album/5zTMB7DYTWWLkphZV7SRzR) | 1:31 |
 
-Snapshot ID: `AAAAALO7qSSYOCeO8mnERbhlI8/vMykL`
+Snapshot ID: `AAAAAJ89aX0RkSHjCTYvg8dITkXx8tFu`

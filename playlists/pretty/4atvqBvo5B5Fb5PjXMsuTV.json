@@ -1,13 +1,33 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Oct 03:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Oct 03:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVd748Yra9EBnO0Wrr1nKHPW55wfBh",
+  "snapshot_id": "AAAVfxFrmaYUAlvqNTHFmY0PSklDWuY5",
   "tracks": [
+    {
+      "added_at": "2025-10-18 08:05:38",
+      "album": {
+        "name": "coke nails",
+        "url": "https://open.spotify.com/album/1NN4DryQ01CVQSDD07on94"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "BEXEY",
+          "url": "https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "coke nails",
+      "url": "https://open.spotify.com/track/5DuAY3aXh2YiDDRhiyyWwC"
+    },
     {
       "added_at": "2025-10-17 22:06:17",
       "album": {
@@ -53,6 +73,38 @@
       "url": "https://open.spotify.com/track/0cAFtuZPD4sKl0X1R3dFin"
     },
     {
+      "added_at": "2025-10-19 03:04:30",
+      "album": {
+        "name": "Woke World",
+        "url": "https://open.spotify.com/album/1t3c2PBQLgQlCbT57G4W4f"
+      },
+      "artists": [
+        {
+          "name": "Tom MacDonald",
+          "url": "https://open.spotify.com/artist/6DvlemMOlMH6VD9tB7BPRf"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Woke World",
+      "url": "https://open.spotify.com/track/5OlSquR3thACD492XMwi59"
+    },
+    {
+      "added_at": "2025-10-18 08:05:38",
+      "album": {
+        "name": "Pathological",
+        "url": "https://open.spotify.com/album/4jQ1h7ngbl0iQbHt1xrKw2"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 173532,
+      "name": "Pathological",
+      "url": "https://open.spotify.com/track/7DiI4CimFRrUjKy7UHviUe"
+    },
+    {
       "added_at": "2025-10-17 08:10:19",
       "album": {
         "name": "Manic!",
@@ -85,6 +137,22 @@
       "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
     },
     {
+      "added_at": "2025-10-18 13:04:49",
+      "album": {
+        "name": "Keep Watching",
+        "url": "https://open.spotify.com/album/6KbJjBrjUYh90GuOgCVrow"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 145405,
+      "name": "Keep Watching",
+      "url": "https://open.spotify.com/track/5Ge4fFGTvnBBPzObT5gYDJ"
+    },
+    {
       "added_at": "2025-10-17 08:10:19",
       "album": {
         "name": "Human Happens / Paint Me A Picture",
@@ -99,6 +167,38 @@
       "duration_ms": 243053,
       "name": "Human Happens",
       "url": "https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl"
+    },
+    {
+      "added_at": "2025-10-18 08:05:38",
+      "album": {
+        "name": "WITH THE MAFIA",
+        "url": "https://open.spotify.com/album/1ptHy3DR2LDt747iEh54eH"
+      },
+      "artists": [
+        {
+          "name": "Summrs",
+          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
+        }
+      ],
+      "duration_ms": 143673,
+      "name": "WITH THE MAFIA",
+      "url": "https://open.spotify.com/track/15G9tLK5NV68VPCwcFHJ1f"
+    },
+    {
+      "added_at": "2025-10-18 18:05:14",
+      "album": {
+        "name": "\u042f \u043e\u0431\u044a\u044f\u0432\u043b\u044f\u044e \u0432\u0430\u043c \u0432\u043e\u0439\u043d\u0443",
+        "url": "https://open.spotify.com/album/6nU6KdIEt3djUUCFTLZG9h"
+      },
+      "artists": [
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/2nAUHbKI7TZShUwFpk6G08"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "\u042f \u043e\u0431\u044a\u044f\u0432\u043b\u044f\u044e \u0432\u0430\u043c \u0432\u043e\u0439\u043d\u0443",
+      "url": "https://open.spotify.com/track/67EkLO0fBCjP5tR7LF92Nr"
     },
     {
       "added_at": "2025-10-17 08:10:19",
@@ -461,6 +561,38 @@
       "url": "https://open.spotify.com/track/51h21FmipeDJZXP1HDEiZv"
     },
     {
+      "added_at": "2025-10-18 18:05:14",
+      "album": {
+        "name": "Not in Your Mouth None of Your Business",
+        "url": "https://open.spotify.com/album/26nGeDBDGw22HuBVMrX3og"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "duration_ms": 123833,
+      "name": "Not in Your Mouth None of Your Business",
+      "url": "https://open.spotify.com/track/6q6bauwUzbKhx4KM49kfgL"
+    },
+    {
+      "added_at": "2025-10-18 18:05:14",
+      "album": {
+        "name": "creature.man.1",
+        "url": "https://open.spotify.com/album/3OKpsChuwipgggRWbnX6sY"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        }
+      ],
+      "duration_ms": 91724,
+      "name": "creature.man.1",
+      "url": "https://open.spotify.com/track/5q8o6gOjKc7aRb9eX1LQ4d"
+    },
+    {
       "added_at": "2025-10-13 18:10:21",
       "album": {
         "name": "TEST?!",
@@ -711,138 +843,6 @@
       "duration_ms": 214913,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT"
-    },
-    {
-      "added_at": "2025-10-13 08:12:45",
-      "album": {
-        "name": "Prevail",
-        "url": "https://open.spotify.com/album/3shmvEL4XF5bEDGsiGMmy1"
-      },
-      "artists": [
-        {
-          "name": "Turnabout",
-          "url": "https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn"
-        }
-      ],
-      "duration_ms": 145935,
-      "name": "Prevail",
-      "url": "https://open.spotify.com/track/4NjbPeJTN65cj9USkmCRDA"
-    },
-    {
-      "added_at": "2025-10-10 18:10:08",
-      "album": {
-        "name": "homewrecker.",
-        "url": "https://open.spotify.com/album/1tNhNeUSVweuzBbhXWQiER"
-      },
-      "artists": [
-        {
-          "name": "shteppi",
-          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
-        }
-      ],
-      "duration_ms": 213990,
-      "name": "homewrecker.",
-      "url": "https://open.spotify.com/track/43pGFgVomDQYG4wB99ibJV"
-    },
-    {
-      "added_at": "2025-10-12 22:10:39",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/0bKTKn8gF2aYqqyH8h2maU"
-      },
-      "artists": [
-        {
-          "name": "Mecdoux",
-          "url": "https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q"
-        },
-        {
-          "name": "Chill Covers",
-          "url": "https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc"
-        }
-      ],
-      "duration_ms": 150267,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/0c2Y7YWGOEDQTR1s7seczw"
-    },
-    {
-      "added_at": "2025-10-09 22:06:31",
-      "album": {
-        "name": "Right On Time (Original Demo Edit)",
-        "url": "https://open.spotify.com/album/5Yr9QC3tyCjXues3oRMrpl"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Right On Time - Original Demo Edit",
-      "url": "https://open.spotify.com/track/71pMPpMOCLkksMa781eRBl"
-    },
-    {
-      "added_at": "2025-10-11 03:08:27",
-      "album": {
-        "name": "Sua Onda",
-        "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Sua Onda",
-      "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
-    },
-    {
-      "added_at": "2025-10-09 08:05:55",
-      "album": {
-        "name": "The Laugh Track",
-        "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 195434,
-      "name": "The Laugh Track",
-      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
-    },
-    {
-      "added_at": "2025-10-09 08:05:55",
-      "album": {
-        "name": "Io sono il viaggio",
-        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
-      },
-      "artists": [
-        {
-          "name": "Caparezza",
-          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
-        }
-      ],
-      "duration_ms": 333296,
-      "name": "Io sono il viaggio",
-      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
-    },
-    {
-      "added_at": "2025-10-09 13:06:28",
-      "album": {
-        "name": "Reunite",
-        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
-      },
-      "artists": [
-        {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Reunite",
-      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
     }
   ],
   "unique_name": "New Singles Now",

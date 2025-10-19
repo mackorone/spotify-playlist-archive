@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/3ojFKpGrbHIXUjNdiGDWiC"
+      },
+      "artists": [
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        }
+      ],
+      "date_added": "2025-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132830,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/0n4zaqF9KwDbANaAqAgmpB"
+    },
+    {
+      "album": {
         "name": "Aye Day Pay Day",
         "url": "https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY"
       },
