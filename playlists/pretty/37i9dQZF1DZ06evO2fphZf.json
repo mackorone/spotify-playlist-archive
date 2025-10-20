@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12426,
+  "num_followers": 12429,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAADv9XnaM2f8MHY1GDl3KCK/",
+  "snapshot_id": "aPLYgAAAAABs/wT2m63Uh7bUSH1pVBA0",
   "tracks": [
     {
       "added_at": null,
@@ -122,11 +122,15 @@
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 192000,
-      "name": "figured u out",
-      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
+      "duration_ms": 167312,
+      "name": "chances",
+      "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
     },
     {
       "added_at": null,
@@ -186,15 +190,11 @@
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "DCMBR",
-          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 167312,
-      "name": "chances",
-      "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
+      "duration_ms": 192000,
+      "name": "figured u out",
+      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "fairy godmother",
-      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Truths And A Lie",
         "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 133440,
       "name": "Two Truths And A Lie",
       "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "fairy godmother",
+      "url": "https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like me don't cry (remix) ft. MIN",
+        "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "MIN",
+          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "girls like me don't cry (remix) ft. MIN",
+      "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "wings",
         "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
       },
@@ -459,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry (remix) ft. MIN",
-        "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "MIN",
-          "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "girls like me don't cry (remix) ft. MIN",
-      "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this",
         "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 188000,
       "name": "in my head",
       "url": "https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 191020,
-      "name": "crash & burn",
-      "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
       "duration_ms": 168000,
       "name": "x's & o's (feat. DCMBR)",
       "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 191020,
+      "name": "crash & burn",
+      "url": "https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 159229,
-      "name": "shy boy",
-      "url": "https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 197474,
       "name": "don't miss me too much",
       "url": "https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 159229,
+      "name": "shy boy",
+      "url": "https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 137386,
       "name": "no ties",
       "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tied Down",
-        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Tied Down",
-      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 177049,
       "name": "attention",
       "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tied Down",
+        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Tied Down",
+      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
     },
     {
       "added_at": null,

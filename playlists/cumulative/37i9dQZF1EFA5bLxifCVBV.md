@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-277 songs - 14 hr 24 min
+278 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [I'm Yours](https://open.spotify.com/track/27FdkYaQhJKD0IKgrCB4Uo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:16 | 2024-07-24 | 2025-04-27 |
 | [I'm Yours](https://open.spotify.com/track/51C8X5L1Gsg9Wph2XjdzDc) | [Red Norvo Trio](https://open.spotify.com/artist/2TL0zejnnKDrll8hy5E0nM) | [The Savoy Sessions: The Red Norvo Trio](https://open.spotify.com/album/3KnBB66rB52svJzqp6tstV) | 4:03 | 2025-06-27 | 2025-07-10 |
 | [I've Gone Romantic On You](https://open.spotify.com/track/0xYUPOWBo1JkoyjnprXSK3) | [Jack Jenney](https://open.spotify.com/artist/62dZK565BSdyRwiD6a2KPy) | [Stardust](https://open.spotify.com/album/1TtOgp76fvy8Sc98IaBuXx) | 2:27 | 2024-07-24 |  |
+| [If I Didn't Have You](https://open.spotify.com/track/28NVslOL7fIHYonQha1g8O) | [Fred Rich & His Orchestra](https://open.spotify.com/artist/7dkKSKCoLExyMEw9ay5RSN) | [Dance Bands Hits of the 30's & 40's](https://open.spotify.com/album/6vQgDVUUEkNc6Ug58iuYMV) | 3:29 | 2025-10-19 |  |
 | [If I Didn't Have You \(Duet Version\)](https://open.spotify.com/track/1Ve2yg3dW79Rs7GxKie0Rf) | [The Film Band Kids](https://open.spotify.com/artist/64nihas3TNZxHUay6E6Qsj) | [Movie For Kids Vol.2](https://open.spotify.com/album/1rh2aVuxq6EuaO6PfhQY5f) | 3:38 | 2024-07-24 | 2025-07-10 |
 | [In A Jocular Vein](https://open.spotify.com/track/1bbpLVP3zLeoRtAbOFThJF) | [The Weavers](https://open.spotify.com/artist/4E5eAkpbJLO40r8fWNWm6X) | [Together Again](https://open.spotify.com/album/2cYr5Q3iZHC3v6QFupmdPu) | 1:31 | 2024-07-24 | 2025-07-10 |
 | [In the Shade of the New Apple Tree](https://open.spotify.com/track/02vyAD4UwxIdVjSZDzQPAi) | [Bob Crosby](https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV) | [Bob Crosby and His Orchestra\-1938](https://open.spotify.com/album/3UqyxAHhoyt31JYjSJReOU) | 3:12 | 2024-07-24 | 2025-06-28 |

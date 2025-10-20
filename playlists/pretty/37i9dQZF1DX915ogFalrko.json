@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 181398,
+  "num_followers": 181436,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 297404,
-      "name": "Feels Like Summer",
-      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
-        "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
-      "url": "https://open.spotify.com/track/6g2BiiVQqY5v1S4HIrM54F"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 151565,
+      "name": "Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack",
+      "url": "https://open.spotify.com/track/6g2BiiVQqY5v1S4HIrM54F"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 266600,
       "name": "If I Ever Feel Better",
       "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "3 Days",
-      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "The Express",
         "url": "https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 202480,
       "name": "Anything You Want - Not That",
       "url": "https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "3 Days",
+      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 219133,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
+        "name": "10K",
+        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Creator",
+      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
         "name": "l.o.v.e",
         "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
-        "name": "10K",
-        "url": "https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Creator",
-      "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 152062,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "La prima estate",
         "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 237913,
       "name": "Paradis bleu",
       "url": "https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Yellow Brick Road",
+        "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 152062,
+      "name": "Yellow Brick Road",
+      "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Yours & Mine",
-        "url": "https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Sacatela",
         "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Yours & Mine",
+        "url": "https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1427,6 +1427,38 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
+      },
+      "artists": [
+        {
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
@@ -1455,38 +1487,6 @@
       "duration_ms": 174705,
       "name": "So Be So Mine",
       "url": "https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
-        "name": "Junk",
-        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
+        "name": "Jardin d'hiver",
+        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
+      },
+      "artists": [
+        {
+          "name": "MONTMARTRE",
+          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
         "name": "Beat Tape III",
         "url": "https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Jardin d'hiver",
-        "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
-      },
-      "artists": [
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Jardin d'hiver",
-      "url": "https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Hopes",
         "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 221810,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Angus & Julia Stone",
         "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 248526,
       "name": "Grizzly Bear",
       "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 221810,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
     },
     {
       "added_at": "2025-10-16 22:00:42",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-10-16 22:00:42",
       "album": {
-        "name": "(I Can See) The Future",
-        "url": "https://open.spotify.com/album/6pm23ya5S4kHne6hnaWI8q"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "(I Can See) The Future",
-      "url": "https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV"
-    },
-    {
-      "added_at": "2025-10-16 22:00:42",
-      "album": {
         "name": "Matahari",
         "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 261493,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2025-10-16 22:00:42",
+      "album": {
+        "name": "(I Can See) The Future",
+        "url": "https://open.spotify.com/album/6pm23ya5S4kHne6hnaWI8q"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "(I Can See) The Future",
+      "url": "https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV"
     }
   ],
   "unique_name": "D\u00eener entre amis",

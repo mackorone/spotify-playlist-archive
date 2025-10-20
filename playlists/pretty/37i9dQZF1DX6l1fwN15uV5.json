@@ -1,6 +1,6 @@
 {
   "description": "Take it easy with these laid back tracks from the eighties...",
-  "num_followers": 1504734,
+  "num_followers": 1504768,
   "original_name": "Easy 80s",
   "owner": {
     "name": "Spotify",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-06-03 14:38:56",
       "album": {
-        "name": "The Ultimate Collection 1968-2003",
-        "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Up Where We Belong",
-      "url": "https://open.spotify.com/track/5NoUgO4Kr93QymQGQlBC7b"
-    },
-    {
-      "added_at": "2024-06-03 14:38:56",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 289066,
       "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
+    },
+    {
+      "added_at": "2024-06-03 14:38:56",
+      "album": {
+        "name": "The Ultimate Collection 1968-2003",
+        "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "Up Where We Belong",
+      "url": "https://open.spotify.com/track/5NoUgO4Kr93QymQGQlBC7b"
     }
   ],
   "unique_name": "Easy 80s",

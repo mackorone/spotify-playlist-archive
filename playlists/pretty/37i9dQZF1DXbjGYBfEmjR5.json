@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 355197,
+  "num_followers": 355237,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Dance Dance Cochayuyo!",
+        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
+      },
+      "artists": [
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Dance Dance Cochayuyo!",
+      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Dance Dance Cochayuyo!",
-        "url": "https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF"
-      },
-      "artists": [
-        {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
-        }
-      ],
-      "duration_ms": 167889,
-      "name": "Dance Dance Cochayuyo!",
-      "url": "https://open.spotify.com/track/0poQqEQWvsao56183reAT7"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Wa Ha Ha (Iden Kai Remix)",
-        "url": "https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38"
-      },
-      "artists": [
-        {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
-        },
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Wa Ha Ha - Iden Kai Remix",
-      "url": "https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "VTEC",
         "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
       },
@@ -1419,6 +1399,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Wa Ha Ha (Iden Kai Remix)",
+        "url": "https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38"
+      },
+      "artists": [
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+        },
+        {
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Wa Ha Ha - Iden Kai Remix",
+      "url": "https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Disco Soul",
         "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Your Secrets",
-        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
-      },
-      "artists": [
-        {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
-        }
-      ],
-      "duration_ms": 240526,
-      "name": "Your Secrets",
-      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Goodbye Future Funk",
-        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
+        "name": "Your Secrets",
+        "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
       },
       "artists": [
         {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Le Knight Club Is Playing at My House",
-      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
+      "duration_ms": 240526,
+      "name": "Your Secrets",
+      "url": "https://open.spotify.com/track/6t3WRqrQW6PTLgYZLRIQvL"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1499,6 +1483,22 @@
       "duration_ms": 230655,
       "name": "Answer",
       "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Goodbye Future Funk",
+        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Le Knight Club Is Playing at My House",
+      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 202783,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Hooked On Aesthetics",
         "url": "https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u"
       },
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "TIMERIDER 1983",
-        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
       "artists": [
         {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
         }
       ],
-      "duration_ms": 260625,
-      "name": "\u541bKimi (You Came Along)",
-      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
+      "duration_ms": 202783,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1627,6 +1611,22 @@
       "duration_ms": 221687,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "TIMERIDER 1983",
+        "url": "https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK"
+      },
+      "artists": [
+        {
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "\u541bKimi (You Came Along)",
+      "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "I Must Be Dreamin'",
-        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
-      },
-      "artists": [
-        {
-          "name": "Luanmer",
-          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 223129,
-      "name": "I Must Be Dreamin'",
-      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "PopSlinger (Original Videogame Soundtrack)",
         "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 444297,
       "name": "Chill City",
       "url": "https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "I Must Be Dreamin'",
+        "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
+      },
+      "artists": [
+        {
+          "name": "Luanmer",
+          "url": "https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "I Must Be Dreamin'",
+      "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
     },
     {
       "added_at": "2023-07-18 02:21:29",

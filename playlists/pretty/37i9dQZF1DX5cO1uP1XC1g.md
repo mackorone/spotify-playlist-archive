@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: TUL8TE
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,268 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,328 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,17 +17,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 7 | [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 |
 | 8 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 |
 | 9 | [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 |
-| 10 | [خطية \| Khtaya](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية \| Khtaya](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 |
-| 11 | [Baba](https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:15 |
-| 12 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
-| 13 | [Sahak Isho2](https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahak Isho2](https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD) | 3:24 |
-| 14 | [Skaba](https://open.spotify.com/track/2qKD4crtO5JqTjSepwUtBU) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Skaba](https://open.spotify.com/album/5K4PftTZCW3K8x849sVXpH) | 3:10 |
-| 15 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 |
-| 16 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
-| 17 | [asli ana \- أصلي أنا](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 |
-| 18 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
-| 19 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
-| 20 | [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 |
+| 10 | [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 |
+| 11 | [خطية \| Khtaya](https://open.spotify.com/track/3zhq4NoxePEjzojkAnVbOy) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB), [Fouad Jned](https://open.spotify.com/artist/6HbYj8CX1iPNrY6ox5haJN) | [خطية \| Khtaya](https://open.spotify.com/album/7yCSM2zx7WzqNghq7vB9QV) | 2:53 |
+| 12 | [Baba](https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 3:15 |
+| 13 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
+| 14 | [Sahak Isho2](https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahak Isho2](https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD) | 3:24 |
+| 15 | [Skaba](https://open.spotify.com/track/2qKD4crtO5JqTjSepwUtBU) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Skaba](https://open.spotify.com/album/5K4PftTZCW3K8x849sVXpH) | 3:10 |
+| 16 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 |
+| 17 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
+| 18 | [asli ana \- أصلي أنا](https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [7arrir 3aqlak / Asli Ana](https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME) | 2:51 |
+| 19 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
+| 20 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
 | 21 | [Ana Mesh 3ayez Gherak \- انا مش عايز غيرك](https://open.spotify.com/track/35ErTAE6w3dY8Jx7iy7FGE) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Inertia](https://open.spotify.com/artist/2iZzPbR0SCME3xci8qaKji) | [Ana Mesh 3ayez Gherak \- انا مش عايز غيرك](https://open.spotify.com/album/4vJa8xgu038qpxONiKivUA) | 3:28 |
 | 22 | [Awl Mara](https://open.spotify.com/track/2EGX48NpiPOYswzI7srylN) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Awl Mara](https://open.spotify.com/album/4c4nUlrFDII4QZMq8Qw0vl) | 4:04 |
 | 23 | [Ya Ana Ya La](https://open.spotify.com/track/4eL7MpDmxh1TKqmsOFG7zE) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ya Ana Ya La](https://open.spotify.com/album/2Q4vOLpl50g6eIC4sZ9cId) | 3:51 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 51 | [الوتر الحساس](https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 4:21 |
 | 52 | [La](https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:28 |
 
-Snapshot ID: `AAAAAN0uWatP1vlC6eENi+dpknXGB2ex`
+Snapshot ID: `AAAAALJsOy3PsgvOvL5/05n4EZraMdMV`

@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-853 songs - 2 day 7 hr 44 min
+854 songs - 2 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Damage \- The Glitch Mob Remix](https://open.spotify.com/track/7cit6IMrSDbpXR6878YzLi) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial), [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Mind Of Madness \(Remixes\)](https://open.spotify.com/album/5USIUAtL8jerdsgVnNBuhg) | 3:58 | 2025-03-14 | 2025-04-22 |
 | [Dancehall Saga](https://open.spotify.com/track/6UuwkLkMrN0j9ZEGUUzJlZ) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Blackout JA](https://open.spotify.com/artist/6qedJsffelXBfM43VGYuIb) | [Dancehall Saga](https://open.spotify.com/album/6Q20YX0AdE14uL4Ds3n8CN) | 4:41 | 2022-02-17 | 2022-05-15 |
 | [Danger](https://open.spotify.com/track/0qFATOBCvb02tv7IzHKtEG) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Danger](https://open.spotify.com/album/1MXJEsVQtmzFWmGOUP067a) | 3:50 | 2024-02-16 |  |
-| [Dark & Dangerous Dub](https://open.spotify.com/track/3LzgpGfxVe0SutWcHaT5bM) | [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Dark & Dangerous Dub](https://open.spotify.com/album/5QKUhvcVsmUAtcQuEWkdJJ) | 2:29 | 2024-12-03 |  |
+| [Dark & Dangerous Dub](https://open.spotify.com/track/3LzgpGfxVe0SutWcHaT5bM) | [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Dark & Dangerous Dub](https://open.spotify.com/album/5QKUhvcVsmUAtcQuEWkdJJ) | 2:29 | 2024-12-03 | 2025-10-20 |
 | [Dark & Light](https://open.spotify.com/track/2z7LlYhVl7wRQOpofN4Vyl) | [Nomine](https://open.spotify.com/artist/7uQ1qwQMMz3quYPqFsDgGS), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Dark & Light](https://open.spotify.com/album/3SmK51kseMMCOUAynejQ2I) | 4:42 | 2022-02-17 | 2022-05-20 |
 | [Dark Arts](https://open.spotify.com/track/1aRx7H81gB0ttPEL0S5F2l) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Dark Arts](https://open.spotify.com/album/2AgncJ8A2KUv9DPQIsR4xc) | 3:39 | 2022-02-17 | 2022-07-30 |
 | [Dark Guru](https://open.spotify.com/track/3wPJnbaKlWylBEdHNA0u9D) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Dark Guru](https://open.spotify.com/album/14i1awOjIHMy4iYVJNKRar) | 3:57 | 2022-02-17 | 2022-11-19 |
@@ -232,7 +232,7 @@
 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2022-09-02 | 2025-08-30 |
 | [Elixir](https://open.spotify.com/track/4wfauK3ulmGHEVk9qKscMw) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Vapour / Orbit / Elixir](https://open.spotify.com/album/14eSrhayOSBR9Hu6klUTzs) | 5:28 | 2022-02-17 | 2022-07-28 |
 | [Elixir](https://open.spotify.com/track/7AaEHev2MJB3ElXkXQKjmC) | [Sub Basics](https://open.spotify.com/artist/6zpwlKhz2dq8BlG1BME5Zh) | [Vapour / Orbit / Elixir](https://open.spotify.com/album/5sNLZbMhQUhXWxGXxDCE2U) | 5:28 | 2022-07-08 | 2022-07-30 |
-| [Empty](https://open.spotify.com/track/1QYGHQFxjCEU0Y4Il37Yum) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Lelijveld](https://open.spotify.com/artist/6Lw1PpoEkLWn3Sb5dTevT3) | [Woden](https://open.spotify.com/album/0WTvs5HOEx5PrQQQp4uFrr) | 5:36 | 2024-09-13 | 2025-10-19 |
+| [Empty](https://open.spotify.com/track/1QYGHQFxjCEU0Y4Il37Yum) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Lelijveld](https://open.spotify.com/artist/6Lw1PpoEkLWn3Sb5dTevT3) | [Woden](https://open.spotify.com/album/0WTvs5HOEx5PrQQQp4uFrr) | 5:36 | 2024-09-13 |  |
 | [Encanto](https://open.spotify.com/track/0v15xYsmEWe8aiHTJoV5qk) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Viagem / Encanto](https://open.spotify.com/album/0wxs4pvjCD7BjwJBPZcCs9) | 4:36 | 2022-02-17 | 2022-07-27 |
 | [Encanto](https://open.spotify.com/track/5e0vCGVLCZnK3qSjJmCfN5) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Viagem / Encanto](https://open.spotify.com/album/4YpBu4TxO2JMveeFGe4DYS) | 4:36 | 2022-07-08 | 2022-07-30 |
 | [Enclave](https://open.spotify.com/track/2Y5yQ2iQMUfX7QNZV5JrNI) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Enclave](https://open.spotify.com/album/1cfqQahioFkRtitz6Et7qx) | 3:51 | 2024-02-09 | 2024-09-21 |
@@ -687,7 +687,7 @@
 | [Spangled](https://open.spotify.com/track/1GAIf0JWudbw1HJMnypBoS) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Spangled](https://open.spotify.com/album/4mekLvHQffl12Gu7ga2CQo) | 4:45 | 2022-10-07 | 2022-10-15 |
 | [Spark The Room](https://open.spotify.com/track/4itmrvpqrXT3LvhbG1RxEU) | [Screamarts](https://open.spotify.com/artist/2WLKRiOp43XLwVhRdt46mH), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [Antithesis](https://open.spotify.com/album/16tkls2N88AfTutvdTAjtc) | 3:29 | 2024-11-15 | 2025-02-01 |
 | [Spear Dub](https://open.spotify.com/track/75wuEqw0J9eGyXiKi9aZzm) | [DubDiggerz](https://open.spotify.com/artist/48VBzyr90iGZSYmQd0uRRl) | [Spear Dub](https://open.spotify.com/album/59jfCrTfAPH2qti0ZNe63p) | 5:32 | 2022-02-17 | 2022-07-29 |
-| [Special Delivery](https://open.spotify.com/track/1E0HUBvbaqQTaAfwUbj03e) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Special Delivery](https://open.spotify.com/album/6VQQqcpH9HgXdIRl95wsWZ) | 3:47 | 2023-09-15 |  |
+| [Special Delivery](https://open.spotify.com/track/1E0HUBvbaqQTaAfwUbj03e) | [Space Wizard](https://open.spotify.com/artist/1wcleSLRiSdM4P0ugXdg3H) | [Special Delivery](https://open.spotify.com/album/6VQQqcpH9HgXdIRl95wsWZ) | 3:47 | 2023-09-15 | 2025-10-20 |
 | [Spectral](https://open.spotify.com/track/0aK1S8wLCbUhW5BEGjiegg) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Spätkauf](https://open.spotify.com/album/1ROtnR2ZOvisi4NgbwxUWH) | 3:01 | 2025-10-03 |  |
 | [Spenk](https://open.spotify.com/track/3VdvyE4glqXT5MtL7PKkyK) | [Aweminus](https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7), [Phiso](https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC) | [Spenk](https://open.spotify.com/album/7nGjjRLeM4rDzDdWylsL9H) | 4:36 | 2025-08-29 |  |
 | [Spine](https://open.spotify.com/track/1Hms7YOiUhcfICk4IjeS0o) | [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [Spine](https://open.spotify.com/album/2eTaMkVXER0MYqEaNljMe4) | 3:27 | 2025-01-31 | 2025-09-29 |
@@ -849,6 +849,7 @@
 | [WTF](https://open.spotify.com/track/3z25bFqHfuV6KY0aFNvZ96) | [So Sus](https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A) | [WTF](https://open.spotify.com/album/3NuYc7rRCXUFo4BzebN674) | 2:39 | 2025-10-10 |  |
 | [WTFU](https://open.spotify.com/track/4V0nYc4KQw6ud222mciukE) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [WTFU](https://open.spotify.com/album/6C2bIp2f3DOnage51tKmjE) | 2:53 | 2025-10-03 |  |
 | [WYAWYS](https://open.spotify.com/track/2jgOUCCJMqX3p3Fo40KsOC) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv), [Daggz](https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF) | [WYAWYS](https://open.spotify.com/album/2yH8u1jhW55ZkJhlx1eZOO) | 2:50 | 2025-03-14 |  |
+| [Yeah What!](https://open.spotify.com/track/0XiIfKf4rfhzTyAOv4AtQy) | [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Yeah What!](https://open.spotify.com/album/1xrUGYAjn8FWvs9n8IxZmG) | 3:07 | 2025-10-17 |  |
 | [Yellow & Grey \- VIP](https://open.spotify.com/track/07NxznfndybP6d9qABtAwD) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [DUPPLATES Vol\. 2](https://open.spotify.com/album/3du86awsODuMWqseXq6IIz) | 4:26 | 2022-02-17 | 2022-07-29 |
 | [Yellow & Grey \- VIP](https://open.spotify.com/track/6220rBuMBMeJExA503QKaP) | [Ternion Sound](https://open.spotify.com/artist/5sZGZj7wvhCwlG6KBvG90a) | [DUPPLATES Vol\. 2](https://open.spotify.com/album/3Ktr0YmkymIynlQjC2XsQh) | 4:26 | 2022-07-08 | 2024-04-19 |
 | [You Better Take This!](https://open.spotify.com/track/6iNOSoA4WmdySikbP2tC2i) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J), [Seth David](https://open.spotify.com/artist/1wfOprPxy1C22S9zV8tK3b) | [You Better Take This!](https://open.spotify.com/album/7x4XwuR6ETZPlRZkzO9Abn) | 2:06 | 2024-08-23 |  |

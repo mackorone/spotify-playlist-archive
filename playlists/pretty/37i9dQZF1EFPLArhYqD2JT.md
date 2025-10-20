@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526 likes - 391 songs - 19 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,528 likes - 391 songs - 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -381,8 +381,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 371 | [Virginia Lou](https://open.spotify.com/track/2rFm5AwZjFVIvDvFLcajsv) | [Michael Townsend Wright](https://open.spotify.com/artist/2Pdr83uirdoiEJj2GWs78H) | [The Michael Townsend Wright Album](https://open.spotify.com/album/7FRP4PuC0gmbGXFuYclBL9) | 3:26 |
 | 372 | [When You're Down in Louisville \(Call on Me\)](https://open.spotify.com/track/7tG2Hv7qV5Ifptca7Dcqfo) | [Analia Heredia](https://open.spotify.com/artist/2bIoximxGyezd0uqWlhmiw), [Tyqaun White](https://open.spotify.com/artist/78AfhlZuQFH1v6MeB33g7v) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:44 |
 | 373 | [Come to the Land of the Argentine](https://open.spotify.com/track/1Wtqr2O8vAl5yfY5yYCLFx) | [Ellis Gage](https://open.spotify.com/artist/7L2eMuCGVcj82UHggFCzuQ) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:59 |
-| 374 | [There's a Girl in Arizona](https://open.spotify.com/track/2ZXQBxRv4dLrSqpKMYM9Rp) | [Dylan Adams](https://open.spotify.com/artist/51RdTfcjK2FZMG0R8JQJIl) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:24 |
-| 375 | [Homesick](https://open.spotify.com/track/0Dtp2pKVggztAbpHCHzjx2) | [Erich Schuett](https://open.spotify.com/artist/66ZJnPNfhpcKBvRHeZwqnY) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 3:53 |
+| 374 | [Homesick](https://open.spotify.com/track/0Dtp2pKVggztAbpHCHzjx2) | [Erich Schuett](https://open.spotify.com/artist/66ZJnPNfhpcKBvRHeZwqnY) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 3:53 |
+| 375 | [There's a Girl in Arizona](https://open.spotify.com/track/2ZXQBxRv4dLrSqpKMYM9Rp) | [Dylan Adams](https://open.spotify.com/artist/51RdTfcjK2FZMG0R8JQJIl) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:24 |
 | 376 | [I've Got to Have Some Lovin' Now](https://open.spotify.com/track/6It5Isai1IzefGjbppm9U8) | [Katherine Paulsen](https://open.spotify.com/artist/4XQRccG0biw2JEPuE1htLa) | [Chip Deffaa's Say It with Music: The Irving Berlin Saga \(The Cast Album\)](https://open.spotify.com/album/0ZA1yb3FoJSwMNeqXrMjrd) | 1:01 |
 | 377 | [Whisper It](https://open.spotify.com/track/0LTQ7Ck8YvmTWnzeankYSZ) | [Glory Crampton](https://open.spotify.com/artist/3YcgIXrZUpOir8AMlniUFg), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:49 |
 | 378 | [Love Leads To Marriage](https://open.spotify.com/track/0dxYpe8YW0sFHiXeaYtx3K) | [Bill Daugherty](https://open.spotify.com/artist/1qDvkHtHSMYQPwxgdd4bOA), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 1:04 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 390 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 391 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `Ab/OZgAAAAAroOLhCgZvchSNNKmL5cox`
+Snapshot ID: `Ab/UBgAAAAAjfe4pTTeRRw+l0mvpbM2b`

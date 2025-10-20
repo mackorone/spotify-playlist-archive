@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 136933,
       "name": "ANIA",
       "url": "https://open.spotify.com/track/4fCqTRlftxkuo02M3GM7Kp"
@@ -6894,7 +6894,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 124195,
       "name": "BOUNCE BACK",
       "url": "https://open.spotify.com/track/5UNNzfmGQQuIASyMORjZ6p"
@@ -13635,6 +13635,24 @@
     },
     {
       "album": {
+        "name": "APOROFOBIA II",
+        "url": "https://open.spotify.com/album/0V1PzQBgGgmwtUxWVU5Z0i"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196204,
+      "name": "DYLEMAT",
+      "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
+    },
+    {
+      "album": {
         "name": "Dziecko",
         "url": "https://open.spotify.com/album/1w3jyAuoyK11CSl7N0sMKj"
       },
@@ -20290,7 +20308,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 213333,
       "name": "Imago",
       "url": "https://open.spotify.com/track/1IeAQJe21bqjWEeMrlD2zt"
@@ -26906,7 +26924,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
@@ -28858,7 +28876,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 123750,
       "name": "Miss Dior",
       "url": "https://open.spotify.com/track/08gvD5pFucRIkh16bN5qRA"

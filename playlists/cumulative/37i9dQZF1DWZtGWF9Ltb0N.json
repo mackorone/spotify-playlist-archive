@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 149142,
       "name": "Dark & Dangerous Dub",
       "url": "https://open.spotify.com/track/3LzgpGfxVe0SutWcHaT5bM"
@@ -4416,7 +4416,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 336108,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1QYGHQFxjCEU0Y4Il37Yum"
@@ -13378,7 +13378,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 227471,
       "name": "Special Delivery",
       "url": "https://open.spotify.com/track/1E0HUBvbaqQTaAfwUbj03e"
@@ -16540,6 +16540,28 @@
       "duration_ms": 170454,
       "name": "WYAWYS",
       "url": "https://open.spotify.com/track/2jgOUCCJMqX3p3Fo40KsOC"
+    },
+    {
+      "album": {
+        "name": "Yeah What!",
+        "url": "https://open.spotify.com/album/1xrUGYAjn8FWvs9n8IxZmG"
+      },
+      "artists": [
+        {
+          "name": "Stylust",
+          "url": "https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu"
+        },
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187739,
+      "name": "Yeah What!",
+      "url": "https://open.spotify.com/track/0XiIfKf4rfhzTyAOv4AtQy"
     },
     {
       "album": {

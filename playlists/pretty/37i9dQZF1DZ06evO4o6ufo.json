@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 89269,
+  "num_followers": 89317,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACPkwgn1FfvQeY9uLxVQmwe",
+  "snapshot_id": "aPLYgAAAAACaBf5xyEJd3KqM4sWHu5wR",
   "tracks": [
     {
       "added_at": null,
@@ -418,11 +418,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 141293,
-      "name": "La Gallada Pesada",
-      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
+      "duration_ms": 170546,
+      "name": "Agarrense De Los Pelos",
+      "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
     },
     {
       "added_at": null,
@@ -486,15 +490,11 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 170546,
-      "name": "Agarrense De Los Pelos",
-      "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
+      "duration_ms": 141293,
+      "name": "La Gallada Pesada",
+      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por El Bien De Los Dos",
-        "url": "https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF"
-      },
-      "artists": [
-        {
-          "name": "Jaque Mate",
-          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Por El Bien De Los Dos",
-      "url": "https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ramo Buch\u00f3n",
         "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 213333,
       "name": "Ramo Buch\u00f3n",
       "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por El Bien De Los Dos",
+        "url": "https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF"
+      },
+      "artists": [
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Por El Bien De Los Dos",
+      "url": "https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF"
     },
     {
       "added_at": null,
@@ -791,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Estancia a Cosala",
-        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
       "artists": [
-        {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 139853,
-      "name": "De la Estancia a Cosala",
-      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+      "duration_ms": 198321,
+      "name": "Sorry Pa\u2019 Los Gabachos",
+      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
     },
     {
       "added_at": null,
@@ -827,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+        "name": "De la Estancia a Cosala",
+        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
       },
       "artists": [
+        {
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Sorry Pa\u2019 Los Gabachos",
-      "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
+      "duration_ms": 139853,
+      "name": "De la Estancia a Cosala",
+      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 154318,
+      "name": "Como No Quererte",
+      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 154318,
-      "name": "Como No Quererte",
-      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 23532,
+  "num_followers": 23551,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 324226,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -287,26 +287,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "The Waters (feat. BJ the Chicago Kid)",
-      "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 448000,
       "name": "We Major",
       "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "The Waters (feat. BJ the Chicago Kid)",
+      "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -395,30 +395,6 @@
       "duration_ms": 180613,
       "name": "FIND YOUR WINGS - Instrumental",
       "url": "https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -511,6 +487,30 @@
       "duration_ms": 247666,
       "name": "Papillon (aka Hot Butterfly)",
       "url": "https://open.spotify.com/track/45fclN1U2QlQ5CLTvZVMZC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Middle America",
+        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
+      },
+      "artists": [
+        {
+          "name": "Project Mayhem",
+          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
+        }
+      ],
+      "duration_ms": 230948,
+      "name": "No Room in the Limo",
+      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -879,34 +895,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Middle America",
-        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
+        "name": "Jassbusters",
+        "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
       },
       "artists": [
         {
-          "name": "Project Mayhem",
-          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
+          "name": "Connan Mockasin",
+          "url": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
         }
       ],
-      "duration_ms": 230948,
-      "name": "No Room in the Limo",
-      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 47953,
-      "name": "Here Now (Intro)",
-      "url": "https://open.spotify.com/track/0HChF6Z7HkPDBWQHLISGxN"
+      "duration_ms": 536254,
+      "name": "Charlotte's Thong",
+      "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
     }
   ],
   "unique_name": "Coodie & Chike's Taste",

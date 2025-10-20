@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,616 likes - 90 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,678 likes - 90 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

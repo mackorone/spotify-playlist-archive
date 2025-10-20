@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49363,
+  "num_followers": 49362,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAClARlAq56szLUAU7uEx7Cl",
+  "snapshot_id": "aPLYgAAAAACRbzIcOq8P8kooROCNRmxf",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "demons",
-        "url": "https://open.spotify.com/album/6nRu1dwPkZlk467QaV1Q0N"
+        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
+        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
       },
       "artists": [
         {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
         }
       ],
-      "duration_ms": 214463,
-      "name": "found my friends",
-      "url": "https://open.spotify.com/track/2XmcVGC8s33zjG2aeVTnFe"
+      "duration_ms": 167649,
+      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
+      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
     },
     {
       "added_at": null,
@@ -331,26 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
-        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+        "name": "demons",
+        "url": "https://open.spotify.com/album/6nRu1dwPkZlk467QaV1Q0N"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        },
-        {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "AhhHaa",
-          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
         }
       ],
-      "duration_ms": 167649,
-      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
-      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
+      "duration_ms": 214463,
+      "name": "found my friends",
+      "url": "https://open.spotify.com/track/2XmcVGC8s33zjG2aeVTnFe"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 181587,
-      "name": "Maple",
-      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
+      "duration_ms": 213745,
+      "name": "Hit & Run",
+      "url": "https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 213745,
-      "name": "Hit & Run",
-      "url": "https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b"
+      "duration_ms": 181587,
+      "name": "Maple",
+      "url": "https://open.spotify.com/track/4tiu6fGnOzyJYXfYx1YptA"
     },
     {
       "added_at": null,

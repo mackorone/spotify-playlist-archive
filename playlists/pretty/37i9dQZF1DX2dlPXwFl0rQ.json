@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada \ud83d\udd25",
-  "num_followers": 1086,
+  "num_followers": 1137,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Ese Que Se Fue",
+        "url": "https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "duration_ms": 142831,
+      "name": "Ese Que Se Fue",
+      "url": "https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Qu\u00e9 Bueno Es Tenerte",
         "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Ese Que Se Fue",
-        "url": "https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
-        }
-      ],
-      "duration_ms": 142831,
-      "name": "Ese Que Se Fue",
-      "url": "https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -915,6 +915,38 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Ilesa",
         "url": "https://open.spotify.com/album/6CJqZByDZgyJ4tjevMEH79"
       },
@@ -931,38 +963,6 @@
       "duration_ms": 217576,
       "name": "Ilesa",
       "url": "https://open.spotify.com/track/3kiUuHVGQznTwWeU3UfBBP"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "La Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/0rrPXtPS0ggbtXJQhvPHqS"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 235144,
-      "name": "La Loca Era Yo",
-      "url": "https://open.spotify.com/track/6Q7YcOkiqgz4oDBIC61U0S"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+        "name": "La Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/0rrPXtPS0ggbtXJQhvPHqS"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+      "duration_ms": 235144,
+      "name": "La Loca Era Yo",
+      "url": "https://open.spotify.com/track/6Q7YcOkiqgz4oDBIC61U0S"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "En Teor\u00eda",
-        "url": "https://open.spotify.com/album/439GW2omcgcLtXHceYSYWa"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        },
-        {
-          "name": "Johanna Cota",
-          "url": "https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "En Teor\u00eda",
-      "url": "https://open.spotify.com/track/1dt6VIKZ612pNrAa2HtK2i"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Bordado a Mano",
         "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 189964,
       "name": "No que no",
       "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "En Teor\u00eda",
+        "url": "https://open.spotify.com/album/439GW2omcgcLtXHceYSYWa"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        },
+        {
+          "name": "Johanna Cota",
+          "url": "https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "En Teor\u00eda",
+      "url": "https://open.spotify.com/track/1dt6VIKZ612pNrAa2HtK2i"
     },
     {
       "added_at": "2025-09-19 06:00:24",

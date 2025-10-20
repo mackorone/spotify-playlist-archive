@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/01SstNr2NESSMRU11yvCpQ"
+      },
+      "artists": [
+        {
+          "name": "Yoo Hwe Seung",
+          "url": "https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/1xVUu2AbjTJTEvQI2rpEpp"
+    },
+    {
+      "album": {
         "name": "The sword of Aramun, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI"
       },
@@ -7484,7 +7502,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 237224,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"

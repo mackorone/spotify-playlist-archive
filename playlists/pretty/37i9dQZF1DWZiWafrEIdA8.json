@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 12723,
+  "num_followers": 12734,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Beyond Love",
-        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Beyond Love (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
         "name": "OHAYO MY NIGHT",
         "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 238736,
       "name": "OHAYO MY NIGHT",
       "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
+        "name": "Beyond Love",
+        "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Beyond Love (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -343,18 +343,26 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+        "name": "Welcome to the Kicako House",
+        "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
       },
       "artists": [
         {
-          "name": "MARK",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
         }
       ],
-      "duration_ms": 159066,
-      "name": "Raincouver",
-      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
+      "duration_ms": 195375,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -383,26 +391,18 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Welcome to the Kicako House",
-        "url": "https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy"
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
       "artists": [
         {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
-        },
-        {
-          "name": "Jayci yucca",
-          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
-        },
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
         }
       ],
-      "duration_ms": 195375,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/4QL7JQXCrWoCGsRKnGkga1"
+      "duration_ms": 159066,
+      "name": "Raincouver",
+      "url": "https://open.spotify.com/track/74Scwor3WAC3YWOpCNl08O"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
         "name": "ROSE",
         "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 165700,
       "name": "Goodbye (Feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
         "name": "On the street",
         "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 209154,
       "name": "On the street (Feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Hannah",
+          "url": "https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q"
+        }
+      ],
+      "duration_ms": 233092,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 247718,
       "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
       "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/5xMDM5NhrHaiQ9yrcf7uKj"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Hannah",
-          "url": "https://open.spotify.com/artist/2XHuhBOiADOIR91vFkNq6Q"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/1Z8I2cvV9JQZqB1YA0O3PY"
     },
     {
       "added_at": "2025-09-29 05:04:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Naykilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,999 likes - 154 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,004 likes - 154 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 153 | [Mau Sampai Kapan](https://open.spotify.com/track/0yayT8vasYJgaCPxdBRcLK) | [Baila](https://open.spotify.com/artist/4RMuTrQQ4FiEb2e5jxvvhp) | [Mau Sampai Kapan](https://open.spotify.com/album/3p2NZ2YbaB1ritXHPWXTAD) | 3:26 |
 | 154 | [Aku Berjanji](https://open.spotify.com/track/0peGp475yG57hjwpP1PP8n) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/4TpbJouqiWJsUGBZbxIdeW) | 3:59 |
 
-Snapshot ID: `AAAAAKicrqXhuZPyWCJrjht69BvNwI05`
+Snapshot ID: `AAAAAIlOgsvaZLW7fToy5pNk/X1JGafi`

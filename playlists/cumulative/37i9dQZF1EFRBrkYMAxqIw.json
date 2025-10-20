@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Don't Blame Me",
+        "url": "https://open.spotify.com/album/6s9hNo5GBTTVkCjhYc0fbG"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120407,
+      "name": "Don't Blame Me",
+      "url": "https://open.spotify.com/track/70AwlxR2BDTHVOZqEG9Q4M"
+    },
+    {
+      "album": {
         "name": "Don't Say Goodbye (feat. Tove Lo)",
         "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
       },

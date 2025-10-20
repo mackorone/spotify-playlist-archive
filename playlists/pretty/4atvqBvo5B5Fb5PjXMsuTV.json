@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Oct 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Oct 18:05 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVfxFrmaYUAlvqNTHFmY0PSklDWuY5",
+  "snapshot_id": "AAAVgQXX1kr3exiXUhu2dQH+MbPPyAED",
   "tracks": [
+    {
+      "added_at": "2025-10-19 18:05:09",
+      "album": {
+        "name": "BLACK FLAG",
+        "url": "https://open.spotify.com/album/4nIGG1usIbgwNGyWwHEVjw"
+      },
+      "artists": [
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "BLACK FLAG",
+      "url": "https://open.spotify.com/track/5i6g45J3i1zL2z3Unw93D6"
+    },
     {
       "added_at": "2025-10-18 08:05:38",
       "album": {
@@ -827,22 +843,6 @@
       "duration_ms": 173128,
       "name": "Sick Sad World",
       "url": "https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9"
-    },
-    {
-      "added_at": "2025-10-10 18:10:08",
-      "album": {
-        "name": "Lotus",
-        "url": "https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 214913,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT"
     }
   ],
   "unique_name": "New Singles Now",

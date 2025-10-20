@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42014,
+  "num_followers": 42025,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -103,18 +103,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Beautiful People (Remixes)",
-        "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
+        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
+        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
       },
       "artists": [
         {
           "name": "Barbara Tucker",
           "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Darryl D'Bonneau",
+          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
         }
       ],
-      "duration_ms": 546586,
-      "name": "Beautiful People - Underground Network Mix",
-      "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
+      "duration_ms": 566026,
+      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
+      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -187,22 +191,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
-        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
+        "name": "Beautiful People (Remixes)",
+        "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
       },
       "artists": [
         {
           "name": "Barbara Tucker",
           "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Darryl D'Bonneau",
-          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
         }
       ],
-      "duration_ms": 566026,
-      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
-      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
+      "duration_ms": 546586,
+      "name": "Beautiful People - Underground Network Mix",
+      "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
     },
     {
       "added_at": "2022-03-03 13:59:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ season 25' officially over, ADE next up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,453 likes - 342 songs - 22 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,466 likes - 342 songs - 22 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

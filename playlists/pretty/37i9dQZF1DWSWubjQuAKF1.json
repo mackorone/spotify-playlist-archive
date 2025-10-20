@@ -323,6 +323,22 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
+        "name": "Wczorajszy tlen",
+        "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 180679,
+      "name": "Wczorajszy tlen",
+      "url": "https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
         "name": "PASSPORT",
         "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 161129,
       "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
       "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
-        "name": "Wczorajszy tlen",
-        "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 180679,
-      "name": "Wczorajszy tlen",
-      "url": "https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO"
     },
     {
       "added_at": "2025-10-14 22:00:36",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "KIKI",
+      "url": "https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
         "name": "Baw Si\u0119 Dobrze",
         "url": "https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 143236,
       "name": "Baw Si\u0119 Dobrze",
       "url": "https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 141057,
-      "name": "KIKI",
-      "url": "https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH"
     },
     {
       "added_at": "2025-10-14 22:00:36",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
-        "name": "Kwiaty",
-        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 168661,
-      "name": "Kwiaty",
-      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
         "name": "hibernacja",
         "url": "https://open.spotify.com/album/0y6NHNQH4IpchUC8p79ay5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 174857,
       "name": "hibernacja",
       "url": "https://open.spotify.com/track/22XLWNDIzzHxYgNgRcbbYg"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
+        "name": "Kwiaty",
+        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 168661,
+      "name": "Kwiaty",
+      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
       "added_at": "2025-10-14 22:00:36",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
-        "name": "bravo girl",
-        "url": "https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 185165,
-      "name": "bravo girl",
-      "url": "https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
         "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
         "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 281200,
       "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
+        "name": "bravo girl",
+        "url": "https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 185165,
+      "name": "bravo girl",
+      "url": "https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B"
     },
     {
       "added_at": "2025-10-14 22:00:36",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
+        "name": "A\u0142\u0142tobus",
+        "url": "https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe"
+      },
+      "artists": [
+        {
+          "name": "Mateusz G\u0119dek",
+          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
+        },
+        {
+          "name": "mop",
+          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
+        }
+      ],
+      "duration_ms": 184390,
+      "name": "A\u0142\u0142tobus",
+      "url": "https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
         "name": "Czas",
         "url": "https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
-        "name": "A\u0142\u0142tobus",
-        "url": "https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe"
-      },
-      "artists": [
-        {
-          "name": "Mateusz G\u0119dek",
-          "url": "https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD"
-        },
-        {
-          "name": "mop",
-          "url": "https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy"
-        }
-      ],
-      "duration_ms": 184390,
-      "name": "A\u0142\u0142tobus",
-      "url": "https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
         "name": "NAD RANEM",
         "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
-        "name": "Wiem co z nami b\u0119dzie",
-        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Wiem co z nami b\u0119dzie",
-      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
         "name": "\u017cyczenie",
         "url": "https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3"
       },
@@ -951,22 +935,6 @@
       "duration_ms": 283068,
       "name": "\u017cyczenie",
       "url": "https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
-        "name": "Rzeka",
-        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
-      },
-      "artists": [
-        {
-          "name": "Clayknot",
-          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Rzeka",
-      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
     },
     {
       "added_at": "2025-10-14 22:00:36",
@@ -987,6 +955,38 @@
     {
       "added_at": "2025-10-14 22:00:36",
       "album": {
+        "name": "Wiem co z nami b\u0119dzie",
+        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Wiem co z nami b\u0119dzie",
+      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
+        "name": "Rzeka",
+        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
+      },
+      "artists": [
+        {
+          "name": "Clayknot",
+          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Rzeka",
+      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
         "name": "3 miesi\u0105ce",
         "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 172213,
       "name": "3 miesi\u0105ce",
       "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
-    },
-    {
-      "added_at": "2025-10-14 22:00:36",
-      "album": {
-        "name": "Berek",
-        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
-      },
-      "artists": [
-        {
-          "name": "Odet",
-          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
-        },
-        {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Berek",
-      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
     },
     {
       "added_at": "2025-10-14 22:00:36",
@@ -1039,6 +1019,26 @@
       "duration_ms": 225680,
       "name": "MAMY CZAS",
       "url": "https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh"
+    },
+    {
+      "added_at": "2025-10-14 22:00:36",
+      "album": {
+        "name": "Berek",
+        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Berek",
+      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
     },
     {
       "added_at": "2025-10-14 22:00:36",

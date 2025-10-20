@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R.I.P\. cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,001 likes - 89 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,996 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

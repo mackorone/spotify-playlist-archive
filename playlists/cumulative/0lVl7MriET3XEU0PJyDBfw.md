@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: https:&\#x2F;&\#x2F;tstack.app&\#x2F;bassline\-therapy
 
-879 songs - 1 day 22 hr 29 min
+881 songs - 1 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [ICONIC](https://open.spotify.com/track/2f4bz1HblvodZZRc146cyY) | [N!smo](https://open.spotify.com/artist/0s0b8dEQMbh5OuHC96ClbC), [SEPHINE](https://open.spotify.com/artist/3IN4yD250XDmppwptNKjXJ) | [ICONIC](https://open.spotify.com/album/1Zja8mNunZiTp3kLBHJKJW) | 2:36 | 2025-07-18 | 2025-10-05 |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2024-01-08 | 2024-01-22 |
 | [In Da Air \- Extended Mix](https://open.spotify.com/track/4e8GArpRiuD5ZVyLb7Kprh) | [StereoKilla](https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy) | [In Da Air](https://open.spotify.com/album/1arM98OhowICpCia0cFNOI) | 3:35 | 2023-12-31 | 2024-01-09 |
+| [In the Club](https://open.spotify.com/track/2v5Bot5FWJ1BdvIPEniFsP) | [Juicy M](https://open.spotify.com/artist/6klooWKc13AOY1BVfE0Tm6), [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [In the Club](https://open.spotify.com/album/6MTf8F2kUUVrWTyQGlcU49) | 2:48 | 2025-10-19 |  |
 | [In the Dark](https://open.spotify.com/track/2byvj5yh6wmbvr6CZMoUbM) | [Kaishi](https://open.spotify.com/artist/6fasy0xC15SV7Z5yWnJtZI) | [In the Dark](https://open.spotify.com/album/2PLDO6Ukq4kQn1LrewySKv) | 3:46 | 2024-01-15 | 2024-01-30 |
 | [In The Place](https://open.spotify.com/track/74h1irRDFwE22VUTPX25oR) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [In The Place](https://open.spotify.com/album/5UTK104Mg5ov1lBWFIirRh) | 3:03 | 2024-10-12 | 2024-11-19 |
 | [In The Yuma \(Cloonee's At The Sahara Remix\)](https://open.spotify.com/track/48f4gFvgXOMx6p5DjkIipF) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [In The Yuma \(Cloonee's At The Sahara Remix\)](https://open.spotify.com/album/7B8RIt9iwSpvDpdaFjWfFM) | 3:29 | 2024-08-19 | 2024-10-14 |
@@ -616,6 +617,7 @@
 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 | 2023-12-31 | 2024-01-09 |
 | [Push Up \(feat\. Scrufizzer\)](https://open.spotify.com/track/4PC64vCVcOyxr01wsZ1OFL) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Push Up \(feat\. Scrufizzer\)](https://open.spotify.com/album/0Ot0V6g5BTPa0Ra9y1byVv) | 2:42 | 2025-08-30 | 2025-10-07 |
 | [Push Ya Body \- Radio Edit](https://open.spotify.com/track/6pVMFFx5zJOZcuArKPjtOF) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Push Ya Body](https://open.spotify.com/album/4MKbEJtVptY8SqumAxGrrm) | 2:55 | 2024-06-23 | 2024-08-20 |
+| [Put A Record On](https://open.spotify.com/track/0u5CAtABSdKj7lA8W7ZiCQ) | [DERON](https://open.spotify.com/artist/7F8pPpfBuhZJF1F622KD5J) | [Put A Record On](https://open.spotify.com/album/6kjokOnyIgPz5gdCYI1cNA) | 2:29 | 2025-10-19 |  |
 | [PWR](https://open.spotify.com/track/1zdQG75Kh6lAaal7loGVbi) | [Almossa](https://open.spotify.com/artist/67Ix4Chm7rVd9hGdBwGziv) | [PWR](https://open.spotify.com/album/7KxDwPjLiFFTyEKm1klkJi) | 2:38 | 2024-02-15 | 2024-06-24 |
 | [Quiero Mas](https://open.spotify.com/track/77QyZBonxR0HLldMSbQPhr) | [Rezone](https://open.spotify.com/artist/0q8sqjhlYCJjlcCADGTPiP) | [Quiero Mas](https://open.spotify.com/album/4NEjDL0v6MASniYezTxqJJ) | 2:49 | 2024-08-19 | 2024-10-14 |
 | [R 2 ME](https://open.spotify.com/track/0eFqPUbuiobmOEiotEFxGy) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [R 2 ME](https://open.spotify.com/album/3IrJQH8ohnkiOHq0C2BcJN) | 2:32 | 2025-06-01 | 2025-08-24 |

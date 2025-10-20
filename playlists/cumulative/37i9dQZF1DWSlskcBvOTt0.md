@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,022 songs - 3 day 13 hr 27 min
+1,023 songs - 3 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Day Off](https://open.spotify.com/track/6MdctygMY16ASVbS6aEkEu) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Day Off](https://open.spotify.com/album/7qnjYeLG053eq1Dr1oqyMW) | 6:34 | 2023-11-24 | 2024-04-28 |
 | [Days Like This](https://open.spotify.com/track/51l7PA4wcyQMEJeuanHrbf) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Days Like This](https://open.spotify.com/album/0wO5kcElEfWFL0FMlehALZ) | 5:20 | 2021-04-21 | 2022-07-29 |
 | [Dede](https://open.spotify.com/track/7dR999H4VruQjlx7yFLR2U) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Dede](https://open.spotify.com/album/16KOMbLfPxLqnWmS7qCKmo) | 4:39 | 2022-09-09 | 2022-10-26 |
+| [Deeplow](https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Deeplow](https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs) | 2:29 | 2025-10-17 |  |
 | [Delusions](https://open.spotify.com/track/2M6XhuILqt1uh6VzKgQYYu) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j) | [Delusions](https://open.spotify.com/album/1lGzqoNRkYYB7m7y8SQFKN) | 4:32 | 2021-10-01 | 2022-07-10 |
 | [Deneb Algedi \- Radio Edit](https://open.spotify.com/track/3UpiaKvd52jtDP5d9mDjBz) | [Massimo Logli](https://open.spotify.com/artist/3IVLbePHoVd9TYMJuKu1Ei) | [Deneb Algedi \- Elkurud](https://open.spotify.com/album/2wEvoWWqP9nKBWTKwgOobD) | 3:16 | 2021-05-07 | 2022-07-14 |
 | [Departures](https://open.spotify.com/track/0LlGYQSAJZI5QrR5hblT6s) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 5:08 | 2021-04-21 | 2022-10-15 |
@@ -824,7 +825,7 @@
 | [So Flute \- Simon Vuarambon Remix](https://open.spotify.com/track/0GhZtMF0Oub3yXyDRR5ib8) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n), [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj) | [So Flute \(Simon Vuarambon Remix\)](https://open.spotify.com/album/5ChTp4S0pWoOsU5ITa5AHt) | 7:46 | 2024-02-02 | 2024-05-26 |
 | [So Good](https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [So Good](https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI) | 5:44 | 2024-04-05 | 2024-12-26 |
 | [So Good \(Sistek Remix\)](https://open.spotify.com/track/72rzDNTLplpl7hmsrcDQQP) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [So Good \(Sistek Remix\)](https://open.spotify.com/album/7GUpVFAmbGpJoC1jLQ8Iow) | 2:58 | 2025-05-23 |  |
-| [So High](https://open.spotify.com/track/2C28oXcrt4D22Wve8JZ8e4) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Antâgonite](https://open.spotify.com/artist/7iTHllIsWY6QTDSQMmmNUq) | [So High](https://open.spotify.com/album/43teKUBapI4gVRm9r8DrGc) | 3:01 | 2025-08-22 |  |
+| [So High](https://open.spotify.com/track/2C28oXcrt4D22Wve8JZ8e4) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Antâgonite](https://open.spotify.com/artist/7iTHllIsWY6QTDSQMmmNUq) | [So High](https://open.spotify.com/album/43teKUBapI4gVRm9r8DrGc) | 3:01 | 2025-08-22 | 2025-10-20 |
 | [So It Goes](https://open.spotify.com/track/5ClxAzprojFOLUBxLWRXn4) | [Armen Miran](https://open.spotify.com/artist/4qxDuHrnTYQkihZiJYLWdy) | [Hoom Side of the Sun, Vol\. 03](https://open.spotify.com/album/5fygnw3bpNm9VC7G1X9ABe) | 7:05 | 2021-06-25 | 2022-07-24 |
 | [So...](https://open.spotify.com/track/08yr7AX1DLnfewURbJ8S3f) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [So..\. / Outlandos](https://open.spotify.com/album/4LdWDOzd1BAgwHlz2oOybp) | 4:03 | 2024-02-23 | 2024-06-17 |
 | [Sol](https://open.spotify.com/track/4wYiqFMQiGnUseioUWrdWU) | [Kalaman](https://open.spotify.com/artist/2x9Tz0FYWRix00sWgamS4L) | [Sol](https://open.spotify.com/album/5DJ34liCqUWS4AZuEWDkfi) | 6:24 | 2021-05-07 | 2023-04-29 |

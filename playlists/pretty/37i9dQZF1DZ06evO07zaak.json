@@ -1,12 +1,12 @@
 {
   "description": "This is Pink Floyd. The essential tracks, all in one playlist.",
-  "num_followers": 1539828,
+  "num_followers": 1540025,
   "original_name": "This Is Pink Floyd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACcOoLq444wyj6H1VJPYABA",
+  "snapshot_id": "aPLYgAAAAACCVHRiUxOrZxXpjSB27rw2",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 308666,
       "name": "One Slip",
       "url": "https://open.spotify.com/track/3h31xJfV4OpCYKlzSpazLy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Final Cut",
-        "url": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 133465,
-      "name": "Southampton Dock",
-      "url": "https://open.spotify.com/track/1e6P6S42qX7vFT0u14S5jm"
     }
   ],
   "unique_name": "This Is Pink Floyd",

@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 362385,
+  "num_followers": 362562,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-10-16 22:01:25",
       "album": {
-        "name": "Plastic Mode",
-        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
-      },
-      "artists": [
-        {
-          "name": "Plastic Mode",
-          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
-    },
-    {
-      "added_at": "2025-10-16 22:01:25",
-      "album": {
         "name": "Take A Chance",
         "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 472361,
       "name": "Take A Chance - Original Mix",
       "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
+    },
+    {
+      "added_at": "2025-10-16 22:01:25",
+      "album": {
+        "name": "Plastic Mode",
+        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
+      },
+      "artists": [
+        {
+          "name": "Plastic Mode",
+          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
     },
     {
       "added_at": "2025-10-16 22:01:25",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-10-16 22:01:25",
       "album": {
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+    },
+    {
+      "added_at": "2025-10-16 22:01:25",
+      "album": {
         "name": "Mini Pony",
         "url": "https://open.spotify.com/album/2CCMRVYIgWLMF276c00oi7"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 209053,
       "name": "Mini Pony",
       "url": "https://open.spotify.com/track/2GhTxFgt38iqze9F7uMghv"
-    },
-    {
-      "added_at": "2025-10-16 22:01:25",
-      "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2025-10-16 22:01:25",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-10-16 22:01:25",
       "album": {
-        "name": "Volpe",
-        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        },
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 467869,
-      "name": "Volpi Polari",
-      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
-    },
-    {
-      "added_at": "2025-10-16 22:01:25",
-      "album": {
         "name": "Che Caldo",
         "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 205903,
       "name": "Che Caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
+    },
+    {
+      "added_at": "2025-10-16 22:01:25",
+      "album": {
+        "name": "Volpe",
+        "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        },
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 467869,
+      "name": "Volpi Polari",
+      "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
     },
     {
       "added_at": "2025-10-16 22:01:25",

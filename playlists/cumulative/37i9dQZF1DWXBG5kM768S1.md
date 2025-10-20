@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-267 songs - 17 hr 3 min
+268 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Alt det som skinner](https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Alt det som skinner](https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr) | 4:10 | 2021-12-16 | 2025-02-23 |
 | [Alt hu treng](https://open.spotify.com/track/2XGCTjbIcQpNizbHANBfeM) | [Frida Ånnevik](https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2) | [Alt hu treng](https://open.spotify.com/album/3aqmeN6RVHZteNNfIgABEK) | 5:17 | 2023-09-21 | 2024-06-14 |
 | [Alt slik det var laga](https://open.spotify.com/track/3nfuXqTSLAAyVDMgZgjHpc) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Alt slik det var laga](https://open.spotify.com/album/0fIYDEa2RR461qmtpaJjUM) | 3:54 | 2022-01-06 | 2022-10-23 |
-| [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 | 2024-06-06 |  |
+| [Annen som du](https://open.spotify.com/track/4DMSneArB5W5BTAz8A2ij4) | [Trang Fødsel](https://open.spotify.com/artist/3pOEfaqokP940PuLUoho3l) | [Annen som du](https://open.spotify.com/album/1WxHEl0KfSA2h25BcoNFGS) | 3:37 | 2024-06-06 | 2025-10-20 |
 | [Augneblink](https://open.spotify.com/track/531fxFOCsBCuHcEeTjei6D) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Alt vi har kjært](https://open.spotify.com/album/3IFHntkbXihZ5r7JkrfyVu) | 4:00 | 2022-03-23 | 2022-06-21 |
 | [Badebussen](https://open.spotify.com/track/1Ajp5nOYezdcpx3e8CfzMl) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Badebussen](https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX) | 2:58 | 2025-01-30 |  |
 | [Bak En Sky Heim](https://open.spotify.com/track/1Wpp1RuDRTeZxpwHFDhWiI) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/1GRdz7YDT3ozghg5VWlSY9) | 4:34 | 2022-07-14 | 2023-03-23 |
@@ -226,6 +226,7 @@
 | [Stor gutt](https://open.spotify.com/track/4HmsGVkxxjkzGMowmMbRyx) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Stor gutt](https://open.spotify.com/album/70HTt1jxS1o6OrCLojBtL5) | 5:34 | 2023-08-31 | 2024-02-09 |
 | [Store Lillebjørn](https://open.spotify.com/track/2rqXcMC3EeV5R73asTH2T6) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Store Lillebjørn](https://open.spotify.com/album/2UuRbKeEDHVSYXiH5LkQpR) | 4:12 | 2024-02-15 | 2024-06-07 |
 | [Stormens Øye](https://open.spotify.com/track/6NUSlWdJJXjtZK4rUmzlyu) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Stormens Øye](https://open.spotify.com/album/6Fp9e8OcPdzlOCDgtUpntI) | 3:36 | 2022-09-19 | 2022-11-21 |
+| [Sundreberget](https://open.spotify.com/track/3CH0jf6pS5OL4tGdpPuxhT) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Sundreberget](https://open.spotify.com/album/5n1Ib5tnDSRGllaXRASPpv) | 4:25 | 2025-10-16 |  |
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2025-02-28 |
 | [Syng sang](https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Syng sang](https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI) | 2:44 | 2023-02-02 | 2023-08-02 |

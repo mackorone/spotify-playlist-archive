@@ -9541,6 +9541,24 @@
     },
     {
       "album": {
+        "name": "Kids Return",
+        "url": "https://open.spotify.com/album/5APljpDUTlWR1k4r0wAidl"
+      },
+      "artists": [
+        {
+          "name": "Electron Sheep",
+          "url": "https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk"
+    },
+    {
+      "album": {
         "name": "Tales From A Wanderer",
         "url": "https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU"
       },
@@ -11686,7 +11704,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 194000,
       "name": "My Curly Hair Is Dancing In The Light",
       "url": "https://open.spotify.com/track/4R708sgkvM0wKCeQW6O20J"
@@ -18190,7 +18208,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 262886,
       "name": "TOKKEBI-BULL",
       "url": "https://open.spotify.com/track/5FZiKZLU2OWufNKsY1eQ5Y"
@@ -19828,6 +19846,28 @@
       "duration_ms": 197499,
       "name": "With You",
       "url": "https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR"
+    },
+    {
+      "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "wo ai ni",
+      "url": "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-842 songs - 1 day 16 hr 47 min
+844 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Dormi](https://open.spotify.com/track/1rSNKHwyhTfTbIJeka54S9) | [Dreamsource](https://open.spotify.com/artist/1UC20wRjauXc9VJvn7GqCc) | [Dormi](https://open.spotify.com/album/771bcbhtPUoAOSw49BTrDK) | 2:36 | 2024-05-04 | 2024-06-19 |
 | [Dormi Natur](https://open.spotify.com/track/0bMrYBtHLsJhwXT6mM3YOE) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [Nostrum](https://open.spotify.com/album/7mGgqQLIagUbmLEb3Hvpty) | 3:09 | 2023-03-23 | 2024-05-21 |
 | [Doux](https://open.spotify.com/track/6ho42Ki13hVke3brhpCpS5) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Doux](https://open.spotify.com/album/5cZjbTGHqspFL1wUzl9YjY) | 4:12 | 2023-03-23 | 2024-01-18 |
-| [Downshifter](https://open.spotify.com/track/0MpMC42nt3Ud99MTfBOFw3) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Downshifter](https://open.spotify.com/album/1iTWiJDHdBc5DX3fxgHwjs) | 2:52 | 2024-12-17 |  |
+| [Downshifter](https://open.spotify.com/track/0MpMC42nt3Ud99MTfBOFw3) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Downshifter](https://open.spotify.com/album/1iTWiJDHdBc5DX3fxgHwjs) | 2:52 | 2024-12-17 | 2025-10-20 |
 | [Doze](https://open.spotify.com/track/47SXoCdTY5ywuh7Fbf9Cjf) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Doze](https://open.spotify.com/album/1WMLr1i1P5093q0mECbk1O) | 2:45 | 2025-01-22 | 2025-06-13 |
 | [Dream Path](https://open.spotify.com/track/2KSykAv743DfpWv5Eyu0VV) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Dream Path](https://open.spotify.com/album/3DUF8FElAy18CXwWhvk73K) | 2:34 | 2025-05-07 | 2025-10-02 |
 | [Dream Prelude](https://open.spotify.com/track/16APbZysrMuvYvrfcvCZye) | [Calma Interiore](https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM) | [Dream Prelude](https://open.spotify.com/album/6jgMM1JGpHVxA7RAxIJF8Z) | 3:00 | 2024-12-17 | 2025-07-01 |
@@ -396,8 +396,10 @@
 | [Interbeing](https://open.spotify.com/track/4dpkVkhbNoH0tJh7EFQXF3) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Interbeing](https://open.spotify.com/album/2V1U4sx2TF1mNPPGGdPrJm) | 2:48 | 2023-03-23 | 2024-05-05 |
 | [Intermezzo](https://open.spotify.com/track/1rAv3gMViglWehdm1baqcF) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Intermezzo](https://open.spotify.com/album/5PZtdr51jXLW3oLFBFVQkg) | 2:02 | 2023-03-23 | 2024-01-18 |
 | [Interval](https://open.spotify.com/track/5beZ2FfZVWYUfguamVswOD) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Interval](https://open.spotify.com/album/2Lp1JXEQHW4W7uSGteugMY) | 2:28 | 2025-09-23 |  |
+| [Into the Quiet](https://open.spotify.com/track/4cYUIjtVBnq71PlHvaYXQc) | [Stellar Voyager](https://open.spotify.com/artist/3yO4gt9FGhJNeaeLbxIVTQ) | [Into the Quiet](https://open.spotify.com/album/06HzVCSW7suHfuHGp7rJHg) | 2:06 | 2025-10-08 |  |
 | [Intricate](https://open.spotify.com/track/1Ngdssk4zftaIvxTkQJRFC) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Intricate](https://open.spotify.com/album/5H0h5REAYTdMyTFbmSUXbN) | 2:56 | 2025-07-24 |  |
 | [Introspection](https://open.spotify.com/track/4wtpJ0oLbPI5WAwXd7eZxD) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Introspection](https://open.spotify.com/album/4VQx4jQQp392KVR4bLIPYN) | 2:39 | 2025-06-12 |  |
+| [Inverse nights](https://open.spotify.com/track/0MKyjTXoJ0n7M344rRHMrP) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Inverse nights](https://open.spotify.com/album/0KjOjSVj04EYM6hDwGkgqs) | 3:15 | 2025-10-08 |  |
 | [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 | 2024-05-04 | 2025-02-17 |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2023-03-23 | 2024-05-05 |
 | [Iridescent](https://open.spotify.com/track/4oFJxQJJJjcEY1jD7H7JsH) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [Iridescent](https://open.spotify.com/album/3r6Qh29VeZ9SNLuiCcBv9G) | 3:12 | 2023-03-23 | 2023-09-01 |
@@ -508,7 +510,7 @@
 | [New Centering](https://open.spotify.com/track/6Rl1hrBWmelAm4rRMVIHYG) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [New Centering](https://open.spotify.com/album/4T5dqPRP8Ke4o5aI3k04yv) | 3:13 | 2025-06-17 | 2025-06-26 |
 | [Night Air](https://open.spotify.com/track/3Lj2UdxfsJbQNl1f05f9fP) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Night Air](https://open.spotify.com/album/48kclPVfAq9YV9JJdVUDYu) | 2:59 | 2025-09-23 |  |
 | [Nightbound](https://open.spotify.com/track/1eyJETJbXOdk21bCuN3hlH) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Nightbound](https://open.spotify.com/album/1ScU3u4CEFByPcPa7Cb0CS) | 2:15 | 2024-03-20 | 2024-07-12 |
-| [Nightfall](https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Nightfall](https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X) | 2:59 | 2025-02-14 |  |
+| [Nightfall](https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Nightfall](https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X) | 2:59 | 2025-02-14 | 2025-10-20 |
 | [Nightfall](https://open.spotify.com/track/4HeTp7uxT3yqJQYXP5RnPN) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Nightfall](https://open.spotify.com/album/1NFDvhPuSJWgIDfJjfqnXz) | 3:15 | 2023-03-23 | 2024-03-21 |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2023-03-23 | 2024-01-18 |
 | [Nimbus](https://open.spotify.com/track/3J6ywQydA3NXiFqWMLTAKU) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Nimbus](https://open.spotify.com/album/4skUek92hc2FzXRUSrXnEJ) | 2:42 | 2025-04-09 |  |

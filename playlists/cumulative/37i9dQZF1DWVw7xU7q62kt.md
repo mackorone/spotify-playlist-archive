@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-667 songs - 1 day 5 hr 16 min
+668 songs - 1 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,7 @@
 | [PullUp](https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [PullUp](https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d) | 2:09 | 2024-08-23 | 2025-05-17 |
 | [Pure Souls](https://open.spotify.com/track/04BEKCNSXz4AKz3ky9JYuR) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe) | [Pure Souls](https://open.spotify.com/album/1ae2rnSlKkul1mpG8bo2X1) | 2:20 | 2024-10-11 |  |
 | [Quenched](https://open.spotify.com/track/709yRH5Fy1wkdCvG9ZPve2) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Quenched](https://open.spotify.com/album/51gh7HSGiVQAxIOi1kFitN) | 1:52 | 2025-07-25 | 2025-08-30 |
-| [Quiet Evening](https://open.spotify.com/track/4VBexCSgXWOelb45A3uY4A) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Quiet Evening](https://open.spotify.com/album/5oRdVSsuZ9wr2YzhbU9Xu0) | 1:52 | 2025-09-26 |  |
+| [Quiet Evening](https://open.spotify.com/track/4VBexCSgXWOelb45A3uY4A) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Quiet Evening](https://open.spotify.com/album/5oRdVSsuZ9wr2YzhbU9Xu0) | 1:52 | 2025-09-26 | 2025-10-20 |
 | [Radiant](https://open.spotify.com/track/5IFbLsAWhTGTvcxbDmBc3x) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Radiant](https://open.spotify.com/album/5u67NxPdoFshAfqbqApE3h) | 2:00 | 2025-05-09 | 2025-05-17 |
 | [Raindrops \(Keep Falling\)](https://open.spotify.com/track/1alxM3iJBdPqLdrYI2K4Qi) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Raindrops \(Keep Falling\)](https://open.spotify.com/album/0lz3hiloBN4Iws4YivBxHT) | 2:13 | 2025-06-13 | 2025-07-05 |
 | [Real Time](https://open.spotify.com/track/4gThNpAAjtg0ZAS7QM172H) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [Real Time](https://open.spotify.com/album/7Hc6aC2dJBrfPUwXyvKZnt) | 2:13 | 2025-06-06 | 2025-07-05 |
@@ -537,6 +537,7 @@
 | [Spring Season](https://open.spotify.com/track/0vs2BZ04zODRZbcVw5YN3q) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Spring Season](https://open.spotify.com/album/1oSwpc2aFvqdCpacfS6TD9) | 2:14 | 2025-07-25 |  |
 | [Springtime Secret](https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma) | [Aleph](https://open.spotify.com/artist/1UbGhSo6X9OypkMO9BLNVe), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Springtime Secret](https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ) | 2:09 | 2023-08-22 | 2025-04-12 |
 | [Starry Sky](https://open.spotify.com/track/0TWhRkw2Nwessg5cnNSOf4) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Starry Sky](https://open.spotify.com/album/23Xy21Ts7DjSGcrq2fzOga) | 2:11 | 2024-11-08 |  |
+| [Stasis](https://open.spotify.com/track/2OzSwu0f4zATnCfjL0cxeC) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Stasis](https://open.spotify.com/album/7k4sN16ov0OAvn3LIvRQ4q) | 1:58 | 2025-10-17 |  |
 | [Stations](https://open.spotify.com/track/2GGAVfkgf8ze2U7ckpHAYQ) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Stations](https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm) | 3:12 | 2023-08-22 | 2024-12-26 |
 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 | 2025-03-22 | 2025-04-05 |
 | [Stilo](https://open.spotify.com/track/3tBTtLW2GhWdwV42EQkBLO) | [Anthony Bruno](https://open.spotify.com/artist/1xHTfW0mULQmn6CM9f2wvN) | [Stilo](https://open.spotify.com/album/2rfVcCqLV42c7FCOyLSIm9) | 3:09 | 2023-08-22 | 2025-04-12 |

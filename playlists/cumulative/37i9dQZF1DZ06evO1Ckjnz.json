@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 153666,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS"
@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80880,
+      "name": "Relative",
+      "url": "https://open.spotify.com/track/2uQkZcC3640TUy5TivEgXT"
+    },
+    {
+      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -900,6 +922,24 @@
       "duration_ms": 214529,
       "name": "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]",
       "url": "https://open.spotify.com/track/2T93MtJuKMzcGRTR8fdizV"
+    },
+    {
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110146,
+      "name": "SAY WE DID",
+      "url": "https://open.spotify.com/track/0AuscSx8huux7AhKXAiTey"
     },
     {
       "album": {
@@ -1024,7 +1064,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 118560,
       "name": "SOUL SNATCHER",
       "url": "https://open.spotify.com/track/3RD8lExCXYKExhOLiulSmf"

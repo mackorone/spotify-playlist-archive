@@ -1,6 +1,6 @@
 {
   "description": "Die cozy season geht los \ud83c\udf42",
-  "num_followers": 1090593,
+  "num_followers": 1090937,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
+    },
+    {
+      "added_at": "2025-10-16 07:37:17",
+      "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 126206,
       "name": "THIS YEAR (Blessings)",
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2025-10-16 07:37:17",
-      "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "go",
-      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/0brOhzwJscn8Bw5q0o2YZ6"
-    },
-    {
-      "added_at": "2025-10-16 07:37:17",
-      "album": {
         "name": "Hu Man",
         "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 203240,
       "name": "Hu Man",
       "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
+    },
+    {
+      "added_at": "2025-10-16 07:37:17",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/7gYdoWfDKNMnKTjuJZKUTu"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/0brOhzwJscn8Bw5q0o2YZ6"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7"
-      },
-      "artists": [
-        {
-          "name": "Kamran Khan",
-          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
-        },
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 238250,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
-    },
-    {
-      "added_at": "2025-10-16 07:37:17",
-      "album": {
         "name": "Same Vibes",
         "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
       },
@@ -1299,18 +1279,22 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/2aqWNJaFSgobmmJxRWKbe7"
       },
       "artists": [
         {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        },
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 169771,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
+      "duration_ms": 238250,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/1Vgb7D76Y5QcIGheZgHnSt"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Know the Night",
-        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ"
       },
       "artists": [
         {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Know the Night",
-      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+      "duration_ms": 169771,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -1363,6 +1347,22 @@
       "duration_ms": 173416,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl"
+    },
+    {
+      "added_at": "2025-10-16 07:37:17",
+      "album": {
+        "name": "Know the Night",
+        "url": "https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Know the Night",
+      "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Make me think of you",
-        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
-      },
-      "artists": [
-        {
-          "name": "ELIS NOA",
-          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "Make me think of you",
-      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
-    },
-    {
-      "added_at": "2025-10-16 07:37:17",
-      "album": {
         "name": "when words fail",
         "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
+        "name": "Make me think of you",
+        "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
       },
       "artists": [
         {
-          "name": "Jacob Leo",
-          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
+          "name": "ELIS NOA",
+          "url": "https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
+      "duration_ms": 199006,
+      "name": "Make me think of you",
+      "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -1475,6 +1459,22 @@
       "duration_ms": 236167,
       "name": "cupped and open",
       "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
+    },
+    {
+      "added_at": "2025-10-16 07:37:17",
+      "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
+      },
+      "artists": [
+        {
+          "name": "Jacob Leo",
+          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Oceanside",
-        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Oceanside",
-      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
-    },
-    {
-      "added_at": "2025-10-16 07:37:17",
-      "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2025-10-16 07:37:17",
       "album": {
-        "name": "Morning Birds",
-        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
+        "name": "Oceanside",
+        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
       },
       "artists": [
         {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Morning Birds",
-      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
+      "duration_ms": 167826,
+      "name": "Oceanside",
+      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
     },
     {
       "added_at": "2025-10-16 07:37:17",
@@ -1659,6 +1643,22 @@
       "duration_ms": 173306,
       "name": "what if we?",
       "url": "https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE"
+    },
+    {
+      "added_at": "2025-10-16 07:37:17",
+      "album": {
+        "name": "Morning Birds",
+        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Morning Birds",
+      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
     },
     {
       "added_at": "2025-10-16 07:37:17",

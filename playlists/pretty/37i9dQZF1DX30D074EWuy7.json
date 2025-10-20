@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33383,
+  "num_followers": 33386,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Bosso",
+          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
+        },
+        {
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
+        }
+      ],
+      "duration_ms": 388854,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "You've Changed",
-        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Bosso",
-          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
-        },
-        {
-          "name": "Sergio Cammariere",
-          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
-        }
-      ],
-      "duration_ms": 388854,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Fidate Correnti",
         "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -891,6 +891,22 @@
       "duration_ms": 235506,
       "name": "Io Cammino Di Notte Da Sola",
       "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Harlem Nocturne",
+        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 124613,
+      "name": "Harlem Nocturne",
+      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Harlem Nocturne",
-        "url": "https://open.spotify.com/album/12jiJYT5OvWXzXzYP20OHG"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "Harlem Nocturne",
-      "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Taish\u014dgoto",
         "url": "https://open.spotify.com/album/2vEboxecinXL8aqLjQxN4h"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Studio Murena",
-        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Long John Silver",
-      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Maison Maravilha",
         "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 310466,
       "name": "Normalmente",
       "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Studio Murena",
+        "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Long John Silver",
+      "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Ora beat!",
         "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
       },
@@ -1231,26 +1247,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Liquid Portraits",
-        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
-      },
-      "artists": [
-        {
-          "name": "Clap! Clap!",
-          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
-        },
-        {
-          "name": "Domenico Candellori",
-          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Southern Dub",
-      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1267,6 +1263,26 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Liquid Portraits",
+        "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
+      },
+      "artists": [
+        {
+          "name": "Clap! Clap!",
+          "url": "https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF"
+        },
+        {
+          "name": "Domenico Candellori",
+          "url": "https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Southern Dub",
+      "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "AMUN\u00cc",
         "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
       },
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Le mie donne",
+        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
+      },
+      "artists": [
+        {
+          "name": "Sade Mangiaracina",
+          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
+        }
+      ],
+      "duration_ms": 236881,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 241966,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Le mie donne",
-        "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
-      },
-      "artists": [
-        {
-          "name": "Sade Mangiaracina",
-          "url": "https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb"
-        }
-      ],
-      "duration_ms": 236881,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+        "name": "Non mi resta che tacere",
+        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
       },
       "artists": [
         {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+          "name": "Marta Frigo",
+          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
         }
       ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+      "duration_ms": 275291,
+      "name": "Non mi resta che tacere",
+      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Non mi resta che tacere",
-        "url": "https://open.spotify.com/album/5hmztkj3i2mGUjPFKdjjwA"
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
       },
       "artists": [
         {
-          "name": "Marta Frigo",
-          "url": "https://open.spotify.com/artist/08Z3yD7mKBrpXTlrh0mGpj"
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
         }
       ],
-      "duration_ms": 275291,
-      "name": "Non mi resta che tacere",
-      "url": "https://open.spotify.com/track/78zfOvtwijnDEc03lJunsl"
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Dualism",
+        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
+      },
+      "artists": [
+        {
+          "name": "N\u0101dt Orchestra",
+          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/3YCBWF5ZskW5wMIiCnixRI"
       },
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Dualism",
-        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
       "artists": [
         {
-          "name": "N\u0101dt Orchestra",
-          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
         }
       ],
-      "duration_ms": 281466,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1755,22 +1771,6 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-10-16 22:01:23",

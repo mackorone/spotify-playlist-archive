@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 29364,
+  "num_followers": 29367,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAABOcQ8BKtGYCuzesscvf/Wd",
+  "snapshot_id": "aPLYgAAAAAD+BndbnuBG2E8TpBh3LK5R",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ME PORTO BONITO",
-        "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "ME PORTO BONITO",
-      "url": "https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amo",
         "url": "https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 219906,
       "name": "Amo",
       "url": "https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ME PORTO BONITO",
+        "url": "https://open.spotify.com/album/24ZfOunWyvWR3mcAEvg8mN"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "ME PORTO BONITO",
+      "url": "https://open.spotify.com/track/6utwmYBwLhVwxCGsZEfG0i"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 169598,
+      "name": "POR TU CULPA",
+      "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Cruz",
         "url": "https://open.spotify.com/album/4M9stiQnSeeAWJZeEOcjWF"
       },
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
       },
       "artists": [
         {
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 169598,
-      "name": "POR TU CULPA",
-      "url": "https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI"
+      "duration_ms": 184882,
+      "name": "Dinero Voy Ganado",
+      "url": "https://open.spotify.com/track/4VGJUzHyzJjT91oVBc1b1U"
     },
     {
       "added_at": null,
@@ -611,22 +627,6 @@
       "duration_ms": 135223,
       "name": "JOHNNIE WALKER",
       "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 184882,
-      "name": "Dinero Voy Ganado",
-      "url": "https://open.spotify.com/track/4VGJUzHyzJjT91oVBc1b1U"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "Que Me Lleve El Diablo",
+      "url": "https://open.spotify.com/track/5I2bFM3iMUWpjgeiStgp6C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rose Coke",
         "url": "https://open.spotify.com/album/1fgEgY5hJmMt6wxrSqjTII"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 166374,
       "name": "Rose Coke",
       "url": "https://open.spotify.com/track/7MXVUKspl6iGnEgwaY0FyP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "Que Me Lleve El Diablo",
-      "url": "https://open.spotify.com/track/5I2bFM3iMUWpjgeiStgp6C"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos y Sentimientos",
         "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 182586,
       "name": "Diablo CMG",
       "url": "https://open.spotify.com/track/1GfnkaVOmfgAv5i5ab5ZNg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 206161,
+      "name": "La Plebada",
+      "url": "https://open.spotify.com/track/7n2RnCjNx0LIhHZMtYIFFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EXCENTRICON",
         "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 202754,
       "name": "NOS TORCIERON",
       "url": "https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 206161,
-      "name": "La Plebada",
-      "url": "https://open.spotify.com/track/7n2RnCjNx0LIhHZMtYIFFJ"
     },
     {
       "added_at": null,

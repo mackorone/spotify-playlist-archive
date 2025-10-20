@@ -4,7 +4,7 @@
 
 > Move to this mix of recent dance hits! Cover: Loud Luxury
 
-524 songs - 1 day 4 hr 55 min
+525 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Professional Griefers \- Radio Edit](https://open.spotify.com/track/1VoaL7QeSCF9zlmVtJuMPg) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [> album title goes here < \(Deluxe\)](https://open.spotify.com/album/5otwc3DkAilJiwUGBOIgom) | 3:02 | 2024-04-26 | 2024-05-11 |
 | [Pump The Brakes](https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump The Brakes](https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ) | 3:40 | 2022-05-27 | 2022-07-14 |
 | [Pumpkin Eyes](https://open.spotify.com/track/6Z4zTLFD8MkrYiIyFPdCxF) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [High Street Creeps](https://open.spotify.com/album/2gVKQE28VMfxpQV7wHTIV1) | 5:32 | 2024-04-26 | 2024-05-11 |
+| [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 | 2025-10-17 |  |
 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 | 2024-01-26 | 2025-08-08 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-08-04 |  |
 | [Pyara \- Live Edit](https://open.spotify.com/track/5cnWyzlokZa8T3OpPLps3p) | [Fehrplay](https://open.spotify.com/artist/6HcVFayEV6B5xgp59WXKbF) | [We Are Friends, Vol\. 3](https://open.spotify.com/album/5vvFkcoDkBfKle8QAvYOGT) | 9:23 | 2024-04-26 | 2024-05-11 |
@@ -427,7 +428,7 @@
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-09-02 | 2023-08-05 |
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-10-21 | 2024-04-23 |
 | [Summer Thing](https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Summer Thing](https://open.spotify.com/album/73mBahc4gVUnOclWX8Zt5j) | 2:29 | 2022-05-27 | 2022-07-29 |
-| [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 | 2024-10-04 |  |
+| [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 | 2024-10-04 | 2025-10-20 |
 | [Sun Came Up](https://open.spotify.com/track/2wf2KMhjoHSZXKVHNBoTMg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Sun Came Up](https://open.spotify.com/album/0XKusTPfwHVCYWzsn2kN8i) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2024-07-26 |  |
 | [Super Breakfast](https://open.spotify.com/track/0AZC7HvfvbyppVhkbRHBGg) | [BSOD](https://open.spotify.com/artist/2t2M4T7Z7fKbF900SUuh05) | [We Are Friends\. \(Vol 2\)](https://open.spotify.com/album/07cJfvV3IDYW1AdRMSCQWj) | 5:15 | 2024-04-26 | 2024-05-11 |

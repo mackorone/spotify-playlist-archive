@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Dum Chica
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,381 likes - 56 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,386 likes - 56 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

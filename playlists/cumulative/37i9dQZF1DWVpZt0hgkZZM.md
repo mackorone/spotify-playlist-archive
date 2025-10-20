@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-236 songs - 15 hr 32 min
+237 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [El Ausente](https://open.spotify.com/track/3B4wzlkWJCJlXeFZIAQQLr) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko El Bueno: Ayunando](https://open.spotify.com/album/0zPoXzqnCDjPccDBSoXP7V) | 4:02 | 2021-12-16 | 2023-07-29 |
 | [El Ausente](https://open.spotify.com/track/2bmlo7ze2SmrVooKmSYbDm) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Bueno "ayunando"](https://open.spotify.com/album/02D7tAZfwwecg2kx5m66jW) | 4:03 | 2024-04-06 | 2024-04-19 |
 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 | 2021-12-16 |  |
+| [El Caminante](https://open.spotify.com/track/4RYStUhDBprAMDJDxbV4Vq) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 3:19 | 2024-07-12 |  |
 | [El Ciclón](https://open.spotify.com/track/7i969eTyH3hvcCcROkg5UP) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:48 | 2024-07-12 | 2024-12-11 |
 | [El Ciclón \(Live\)](https://open.spotify.com/track/5LhlhZaOJVIYJWOGTiIp8u) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:48 | 2021-12-16 | 2024-02-29 |
 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2021-12-16 | 2024-04-19 |
@@ -221,7 +222,7 @@
 | [Tabajo y Ron](https://open.spotify.com/track/7tTwwjaTdFMLUsrPM9jIZs) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Cariñito](https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA) | 4:02 | 2021-12-16 | 2023-07-19 |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2021-12-16 |  |
 | [Tan bella y tan presumida](https://open.spotify.com/track/1iD7PGq7tgAg2SBPDj1E53) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Los Mejores, Los Hispanos, Los Graduados](https://open.spotify.com/album/1IBR0Tmgw4urAXuE32Sd0z) | 2:34 | 2021-12-16 | 2024-02-16 |
-| [Tania](https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 3:39 | 2024-04-06 |  |
+| [Tania](https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 3:39 | 2024-04-06 | 2025-10-20 |
 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 | 2021-12-16 |  |
 | [Te Están Matando los Años](https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 3:34 | 2024-07-12 | 2025-08-12 |
 | [Te Haré Cambiar](https://open.spotify.com/track/7jWjLAC9IBsWWcfpqLU23I) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amín Martínez](https://open.spotify.com/artist/4rrusW2YNQ5PMDRDOXaGXz) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:52 | 2024-04-06 |  |

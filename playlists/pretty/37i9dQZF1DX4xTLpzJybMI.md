@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain](/playlists/plain/37i9dQZF1DX4xTLpzJybMI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4xTLpzJybMI)
 
-### [Seoul Sistas: Rap Queens](https://open.spotify.com/playlist/37i9dQZF1DX4xTLpzJybMI)
+### [SEOUL SISTAS: Rap Queens](https://open.spotify.com/playlist/37i9dQZF1DX4xTLpzJybMI)
 
 > Dive into the sounds of Korea’s bold and brilliant female rappers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 105 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 105 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xTLpzJybMI.md) - [plain]
 | 104 | [Colors](https://open.spotify.com/track/3k1YGUrrLTIOCZUird9Kp7) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [SLEEQ](https://open.spotify.com/artist/6o2aThSX75afHwksESovZH) | [GOOD GIRL Episode 1](https://open.spotify.com/album/4uikzBR5QCvx2YBZQsgIDD) | 3:26 |
 | 105 | [Goodbye Boy](https://open.spotify.com/track/1drCzM3kJvHqrCK21QyGse) | [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Goodbye Boy](https://open.spotify.com/album/39tr8GJkE0Po4q5nZm2W7W) | 2:57 |
 
-Snapshot ID: `AAAAAMdq8SBev1g09Dti2h6iMkkB2x8s`
+Snapshot ID: `AAAAABk3xbTxW7JMaq4xeenpFB7rvj31`

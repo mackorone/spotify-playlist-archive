@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65371,
+  "num_followers": 65378,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAABo/PoLZ1g1HbusBKX0+gv",
+  "snapshot_id": "aPLYgAAAAAD+Bm19VUnu/HfKbvUhHFf+",
   "tracks": [
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Are Getting Shorter",
-        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
+        "name": "Don't You Love Me? - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 334285,
-      "name": "Days Are Getting Shorter",
-      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
+      "duration_ms": 267110,
+      "name": "Don't You Love Me? - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
     },
     {
       "added_at": null,
@@ -643,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Love Me? - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
+        "name": "Days Are Getting Shorter",
+        "url": "https://open.spotify.com/album/6q4uKBBIYKQdIzuyziNL4w"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 267110,
-      "name": "Don't You Love Me? - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+      "duration_ms": 334285,
+      "name": "Days Are Getting Shorter",
+      "url": "https://open.spotify.com/track/3W0o9jlcLsJceWgw9r1HNE"
     },
     {
       "added_at": null,

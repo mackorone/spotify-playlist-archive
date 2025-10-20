@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACrCTK+SLUBcJXjzOTH5F3d",
+  "snapshot_id": "aPLYgAAAAAAYP0LOepP4krnx+NOBMqLJ",
   "tracks": [
     {
       "added_at": null,
@@ -616,13 +616,17 @@
       },
       "artists": [
         {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 260409,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v"
+      "duration_ms": 223289,
+      "name": "Have You Ever Had so Much Fun",
+      "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
     }
   ],
   "unique_name": "This Is Madeline Merlo",

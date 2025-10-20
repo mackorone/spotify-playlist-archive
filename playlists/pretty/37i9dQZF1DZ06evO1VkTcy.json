@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAADXGn4JIvmMWh0PoSmkmHnG",
+  "snapshot_id": "aPLYgAAAAADRpxMFCOhA9L5k17S+Fo4w",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruxaria 051",
+        "url": "https://open.spotify.com/album/5wwsozSTK5ftZLbZYXb287"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Mc J9",
+          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+        },
+        {
+          "name": "Luka Pumes",
+          "url": "https://open.spotify.com/artist/4OQArJT8U8ERpczgb96GiY"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        },
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "prodPdrin",
+          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
+        },
+        {
+          "name": "Dom M",
+          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
+        },
+        {
+          "name": "RAP IN CENA",
+          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
+        },
+        {
+          "name": "Analogic Records",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 235919,
+      "name": "O Corre Nunca Vai Parar",
+      "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "10 Anos de Caju, Vol. 1",
         "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
       },
@@ -819,62 +875,6 @@
       "duration_ms": 191129,
       "name": "Plano Perfeito",
       "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bruxaria 051",
-        "url": "https://open.spotify.com/album/5wwsozSTK5ftZLbZYXb287"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Mc J9",
-          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
-        },
-        {
-          "name": "Luka Pumes",
-          "url": "https://open.spotify.com/artist/4OQArJT8U8ERpczgb96GiY"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
-        },
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "prodPdrin",
-          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
-        },
-        {
-          "name": "Dom M",
-          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
-        },
-        {
-          "name": "RAP IN CENA",
-          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
-        },
-        {
-          "name": "Analogic Records",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 235919,
-      "name": "O Corre Nunca Vai Parar",
-      "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
     },
     {
       "added_at": null,
@@ -1219,6 +1219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -1287,22 +1307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+        "name": "Tudo Vai Mudar",
+        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
       },
       "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+      "duration_ms": 173553,
+      "name": "Tudo Vai Mudar",
+      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
     },
     {
       "added_at": null,
@@ -1331,30 +1355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Vai Mudar",
-        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 173553,
-      "name": "Tudo Vai Mudar",
-      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Mundo Parou",
         "url": "https://open.spotify.com/album/5RflBYM6RNYIWIMrXMTGLU"
       },
@@ -1371,30 +1371,6 @@
       "duration_ms": 223354,
       "name": "O Mundo Parou",
       "url": "https://open.spotify.com/track/0o76PTDTz9bPEJ3qWlI2SG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nosso Relacionamento",
-        "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
-      },
-      "artists": [
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Nosso Relacionamento",
-      "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
     },
     {
       "added_at": null,
@@ -1419,6 +1395,30 @@
       "duration_ms": 181800,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/2WPh5Iwekb2GVG8T3shK3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nosso Relacionamento",
+        "url": "https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF"
+      },
+      "artists": [
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Nosso Relacionamento",
+      "url": "https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S"
     }
   ],
   "unique_name": "This Is Lourena",

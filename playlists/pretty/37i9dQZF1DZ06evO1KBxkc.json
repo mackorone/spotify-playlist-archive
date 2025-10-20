@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202733,
+  "num_followers": 202747,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAAMkW1GVh5q/NkH5sZqDbqa",
+  "snapshot_id": "aPLYgAAAAADXCajxPqg3S0ZqUZUYLPqL",
   "tracks": [
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Glasses",
+      "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Artist 2.0 (Deluxe)",
         "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 175106,
       "name": "DTB 4 Life",
       "url": "https://open.spotify.com/track/4CXSzoyTD2MmedFArsSIUp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B4 AVA",
-        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Glasses",
-      "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"
     },
     {
       "added_at": null,

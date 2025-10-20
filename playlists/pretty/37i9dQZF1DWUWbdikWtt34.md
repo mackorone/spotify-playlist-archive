@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Afan
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,617 likes - 95 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,648 likes - 95 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

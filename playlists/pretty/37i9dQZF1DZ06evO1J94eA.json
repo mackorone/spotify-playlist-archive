@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40721,
+  "num_followers": 40740,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAABUW1v/qwMyF+3fdyVQl9YP",
+  "snapshot_id": "aPLYgAAAAABsSX6iPPa4+Goqj9Ijbzpb",
   "tracks": [
     {
       "added_at": null,
@@ -211,38 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 482720,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 941360,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -267,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+        "name": "Head Hunters",
+        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
       "artists": [
         {
@@ -276,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 372266,
-      "name": "Empty Pockets - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
+      "duration_ms": 941360,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
     },
     {
       "added_at": null,
@@ -292,9 +260,25 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 422453,
-      "name": "Gentle Thoughts",
-      "url": "https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R"
+      "duration_ms": 482720,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 372266,
+      "name": "Empty Pockets - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
       "duration_ms": 248133,
       "name": "Oh! Oh! Here He Comes",
       "url": "https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 422453,
+      "name": "Gentle Thoughts",
+      "url": "https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 408466,
+      "name": "The Maze - Remastered 2007",
+      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Imagine Project",
         "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 448866,
       "name": "Don't give up",
       "url": "https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 408466,
-      "name": "The Maze - Remastered 2007",
-      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man-Child",
-        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Sun Touch",
-      "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 349160,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man-Child",
+        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Sun Touch",
+      "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blow-Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 535293,
       "name": "I Thought It Was You",
       "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blow-Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "The Bed",
+      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lite Me Up",
-        "url": "https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 238946,
-      "name": "Motor Mouth",
-      "url": "https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 293800,
       "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
       "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lite Me Up",
+        "url": "https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Motor Mouth",
+      "url": "https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

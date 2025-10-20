@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 2984,
+  "num_followers": 2986,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Doen Net Jou Ding",
+        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 185395,
+      "name": "Doen Net Jou Ding",
+      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "911",
         "url": "https://open.spotify.com/album/7wXbWbTfGux6rSDODkAJNe"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 198260,
       "name": "911 - TDV Ricky Vani Frontline Version",
       "url": "https://open.spotify.com/track/3fT4u2fljv6SFHFijwbYbP"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Doen Net Jou Ding",
-        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 185395,
-      "name": "Doen Net Jou Ding",
-      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -923,30 +923,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7"
-      },
-      "artists": [
-        {
-          "name": "CTT Beats",
-          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
-        },
-        {
-          "name": "Don Capo",
-          "url": "https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF"
-        },
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        }
-      ],
-      "duration_ms": 144082,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Die Hele Nag",
         "url": "https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6"
       },
@@ -971,18 +947,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Staan Uit",
-        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7"
       },
       "artists": [
         {
-          "name": "Chesrae Megan",
-          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "Don Capo",
+          "url": "https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF"
+        },
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Staan Uit",
-      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
+      "duration_ms": 144082,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -999,6 +983,22 @@
       "duration_ms": 181480,
       "name": "Wiggy",
       "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Staan Uit",
+        "url": "https://open.spotify.com/album/0mvIsFDJYMjnYqNOlRaiPw"
+      },
+      "artists": [
+        {
+          "name": "Chesrae Megan",
+          "url": "https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Staan Uit",
+      "url": "https://open.spotify.com/track/1YyTATb0vo3xGZB25doG47"
     },
     {
       "added_at": "2025-06-27 09:27:23",

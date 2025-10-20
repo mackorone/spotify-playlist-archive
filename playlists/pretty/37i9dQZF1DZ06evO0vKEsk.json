@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 133069,
+  "num_followers": 133071,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAABosOueVRTRIpxYU7TRUcZ+",
+  "snapshot_id": "aPLYgAAAAAAllXAKtxXAj7+zV3CEeIqM",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 260620,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Messias (Ao Vivo)",
         "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 489442,
       "name": "Messias - Ao Vivo",
       "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 260620,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 301720,
-      "name": "Deus Vem me Socorrer",
-      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sou Humano",
         "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 270976,
       "name": "Sou Humano",
       "url": "https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 301720,
+      "name": "Deus Vem me Socorrer",
+      "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Deus \u00c9 Por Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f"
       },
@@ -727,38 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alegria Real",
-        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 358376,
-      "name": "Digno \u00e9 o Cordeiro",
-      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 321039,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alegria Real",
+        "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 358376,
+      "name": "Digno \u00e9 o Cordeiro",
+      "url": "https://open.spotify.com/track/3Kqwt1Powh8L5NqdBUwLeh"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aviva-nos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 362502,
-      "name": "Aviva-nos (Ao Vivo)",
-      "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 338253,
       "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
       "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aviva-nos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 362502,
+      "name": "Aviva-nos (Ao Vivo)",
+      "url": "https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14"
     },
     {
       "added_at": null,

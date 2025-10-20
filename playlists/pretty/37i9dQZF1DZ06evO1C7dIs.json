@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 261567,
+  "num_followers": 261592,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAABE2173UqPyE1e7wv17RYtn",
+  "snapshot_id": "aPLYgAAAAABIoPSKrhwrJ30o6QRDqN6/",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanborn",
-        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yesterwynde",
         "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanborn",
+        "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 268226,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wishmaster",
         "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 238973,
-      "name": "The Kinslayer",
-      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+      "duration_ms": 274426,
+      "name": "Come Cover Me",
+      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 274426,
-      "name": "Come Cover Me",
-      "url": "https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX"
+      "duration_ms": 238973,
+      "name": "The Kinslayer",
+      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
     },
     {
       "added_at": null,

@@ -8338,7 +8338,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 176363,
       "name": "Cry For You (2025)",
       "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
@@ -10536,7 +10536,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 85245,
       "name": "Drunk In Love - Guitar",
       "url": "https://open.spotify.com/track/70WNASDMRlPs58tjP6j8Zc"
@@ -12142,7 +12142,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 140094,
       "name": "Fire and Ice",
       "url": "https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf"
@@ -23626,7 +23626,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 156806,
       "name": "MAN I NEED (CHASYN REIMAGINED)",
       "url": "https://open.spotify.com/track/5CYeDmsBs7Nhj6bJA9wPxX"
@@ -23648,7 +23648,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 116874,
       "name": "Man I Need x Promiscuous",
       "url": "https://open.spotify.com/track/0IZsFvEiYmVvVFH3erB9m7"
@@ -27274,7 +27274,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/3VOfcm1jnPfLNa2QhVsA4j"
@@ -27292,7 +27292,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
@@ -30302,6 +30302,24 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     },
     {
       "album": {
@@ -40874,7 +40892,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
@@ -41667,7 +41685,7 @@
     },
     {
       "album": {
-        "name": "Wish (orchestra version)",
+        "name": "Wish (Audiomack Trap Symphony Version)",
         "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
       },
       "artists": [
@@ -41678,9 +41696,9 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 180604,
-      "name": "Wish - orchestra version",
+      "name": "Wish - Audiomack Trap Symphony Version",
       "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
     },
     {

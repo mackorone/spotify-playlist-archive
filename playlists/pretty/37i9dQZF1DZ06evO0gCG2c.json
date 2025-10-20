@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 328548,
+  "num_followers": 328601,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACLwk18qf5jKQT6M+/Fu/B8",
+  "snapshot_id": "aPLYgAAAAABVUbxhXSVad0T+PszskiQD",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "I Wanna Fuck You",
+      "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Declaration",
         "url": "https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 200720,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "I Wanna Fuck You",
-      "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 178853,
+      "name": "I Wanna Love You - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chop My Money",
         "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 272297,
       "name": "Chop My Money - Remix",
       "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Blue Carpet Treatment",
-        "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 178853,
-      "name": "I Wanna Love You - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi"
     },
     {
       "added_at": null,

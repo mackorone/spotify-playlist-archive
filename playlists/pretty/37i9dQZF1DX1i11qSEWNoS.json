@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 634806,
+  "num_followers": 634838,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-10-16 22:00:24",
       "album": {
-        "name": "The Glen (Levi Heron Edit)",
-        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
-      },
-      "artists": [
-        {
-          "name": "Levi Heron",
-          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "The Glen - Levi Heron Edit",
-      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
-    },
-    {
-      "added_at": "2025-10-16 22:00:24",
-      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "added_at": "2025-10-16 22:00:24",
+      "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
     },
     {
       "added_at": "2025-10-16 22:00:24",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-10-16 22:00:24",
       "album": {
-        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
-    },
-    {
-      "added_at": "2025-10-16 22:00:24",
-      "album": {
         "name": "Alles oder Nix",
         "url": "https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2025-10-16 22:00:24",
+      "album": {
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2025-10-16 22:00:24",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-16 22:00:24",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2025-10-16 22:00:24",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-10-16 22:00:24",
       "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
+    },
+    {
+      "added_at": "2025-10-16 22:00:24",
+      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
@@ -1231,26 +1231,6 @@
       "duration_ms": 150000,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
-    },
-    {
-      "added_at": "2025-10-16 22:00:24",
-      "album": {
-        "name": "Man On The Moon: The End Of Day (Int'l Version)",
-        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Day 'N' Nite - Crookers Remix",
-      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
     },
     {
       "added_at": "2025-10-16 22:00:24",
@@ -1271,6 +1251,26 @@
       "duration_ms": 123292,
       "name": "BIKINI GRELL",
       "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
+    },
+    {
+      "added_at": "2025-10-16 22:00:24",
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Int'l Version)",
+        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Day 'N' Nite - Crookers Remix",
+      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
     },
     {
       "added_at": "2025-10-16 22:00:24",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-10-16 22:00:24",
       "album": {
-        "name": "bad bunnies",
-        "url": "https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN"
-      },
-      "artists": [
-        {
-          "name": "Zs\u00e1 Zs\u00e1",
-          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
-        },
-        {
-          "name": "Replay Okay",
-          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "bad bunnies",
-      "url": "https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12"
-    },
-    {
-      "added_at": "2025-10-16 22:00:24",
-      "album": {
         "name": "Couldn't Care Less (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+    },
+    {
+      "added_at": "2025-10-16 22:00:24",
+      "album": {
+        "name": "bad bunnies",
+        "url": "https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        },
+        {
+          "name": "Replay Okay",
+          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "bad bunnies",
+      "url": "https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12"
     },
     {
       "added_at": "2025-10-16 22:00:24",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-10-16 22:00:24",
       "album": {
-        "name": "The Bad Touch 2k20",
-        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Empyre One",
-          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
-        }
-      ],
-      "duration_ms": 160844,
-      "name": "The Bad Touch 2k20",
-      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
-    },
-    {
-      "added_at": "2025-10-16 22:00:24",
-      "album": {
         "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
         "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 122585,
       "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
       "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
+    },
+    {
+      "added_at": "2025-10-16 22:00:24",
+      "album": {
+        "name": "The Bad Touch 2k20",
+        "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        }
+      ],
+      "duration_ms": 160844,
+      "name": "The Bad Touch 2k20",
+      "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
     },
     {
       "added_at": "2025-10-16 22:00:24",

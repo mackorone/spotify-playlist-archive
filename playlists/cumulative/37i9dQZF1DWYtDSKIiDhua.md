@@ -4,7 +4,7 @@
 
 > In loving memory, D’Angelo, his legacy and other R&B tracks\. Cover: D’Angelo
 
-1,418 songs - 3 day 3 hr 45 min
+1,419 songs - 3 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-04-25 | 2024-05-10 |
 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 | 2022-06-08 | 2022-06-17 |
 | [fairy godmother](https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:43 | 2024-10-03 | 2024-12-05 |
+| [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 | 2025-10-16 |  |
 | [Falling For U](https://open.spotify.com/track/7o4YOcAKleJ3nITo0Lk4cc) | [ichiro](https://open.spotify.com/artist/3OlyEHMVufpC9rEXSgM5wq), [The Felixetine](https://open.spotify.com/artist/7bfBdJSn0HbXJ7kYWjRqHf) | [Love Package](https://open.spotify.com/album/7GnJzZEIfTPr6V6oR3r2zA) | 3:10 | 2024-09-12 | 2024-09-20 |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2022-10-28 | 2022-11-11 |
 | [Falling For You](https://open.spotify.com/track/7JcCnbLVxSh1fAPHMSILVl) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Falling For You](https://open.spotify.com/album/1INyg9gwqjlQXS30JGfnme) | 2:12 | 2024-02-08 | 2025-01-17 |

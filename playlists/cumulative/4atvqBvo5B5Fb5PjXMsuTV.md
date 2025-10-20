@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 Oct 03:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 Oct 18:05 UTC.
 
-5,689 songs - 13 day 4 hr 47 min
+5,690 songs - 13 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [black & white](https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [black & white](https://open.spotify.com/album/653YWJ1EZLWEvUdE6Kc8WL) | 3:28 | 2024-09-13 | 2024-09-19 |
 | [Black & Whites](https://open.spotify.com/track/4uf1XtTgsXPzpqsFZeRfFb) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Black & Whites](https://open.spotify.com/album/67eSCwLxuPQZ0jKI373JSt) | 3:40 | 2024-05-13 | 2024-05-15 |
 | [Black Box Warning](https://open.spotify.com/track/0EMhUHvBAIVXGtB5Bijy7Y) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Black Box Warning](https://open.spotify.com/album/7tm5IMoszGlzIBste434EC) | 2:40 | 2024-05-09 | 2024-05-11 |
+| [BLACK FLAG](https://open.spotify.com/track/5i6g45J3i1zL2z3Unw93D6) | [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [BLACK FLAG](https://open.spotify.com/album/4nIGG1usIbgwNGyWwHEVjw) | 1:51 | 2025-10-19 |  |
 | [Black Girl](https://open.spotify.com/track/4psfm1VcHz15AbsxKL55L4) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Black Girl](https://open.spotify.com/album/4eFZioN4Z4bxFXORxuml59) | 3:12 | 2024-10-21 | 2024-10-25 |
 | [Black Ice Mudra](https://open.spotify.com/track/2Jey7LyTYCdLuEGBjzElRY) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Black Ice Mudra](https://open.spotify.com/album/6PZ3fBqZM8LdAaP6NkVs8z) | 2:46 | 2024-06-04 | 2024-06-06 |
 | [Black Nirvana](https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Black Nirvana](https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd) | 3:04 | 2024-05-31 | 2024-06-05 |
@@ -2947,7 +2948,7 @@
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-07 | 2025-02-15 |
 | [lotta time](https://open.spotify.com/track/0oPDpIl0ZCDbAqIwiCrvAg) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [lotta time](https://open.spotify.com/album/6Lqt25dwnAVTvWogOC9LhA) | 2:03 | 2025-07-18 | 2025-07-25 |
 | [Lottery](https://open.spotify.com/track/715uuFtch4RORmQHXT6w6Y) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [Lottery](https://open.spotify.com/album/5LElpo14dqSGqnhlytaftM) | 2:00 | 2024-08-03 | 2024-08-07 |
-| [Lotus](https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lotus](https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca) | 3:34 | 2025-10-10 |  |
+| [Lotus](https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lotus](https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca) | 3:34 | 2025-10-10 | 2025-10-20 |
 | [Lotus](https://open.spotify.com/track/0Ztb6gvfzYnmD8HqBZaIVR) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Lotus](https://open.spotify.com/album/3sbOgcdCl22ybRGsygeh4W) | 5:00 | 2024-07-26 | 2024-07-31 |
 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 | 2024-10-01 | 2024-10-04 |
 | [Lotus Eater](https://open.spotify.com/track/34oEV6mTMcWjWecSigl12M) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Lotus Eater](https://open.spotify.com/album/4k4Y1fWU3zhrLyYWEYo2TO) | 7:13 | 2024-12-04 | 2024-12-07 |

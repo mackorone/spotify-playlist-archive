@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-223 songs - 9 hr 41 min
+224 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Billow](https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Billow](https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog) | 2:31 | 2023-03-23 |  |
 | [Blessings](https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Blessings](https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB) | 2:26 | 2023-01-12 |  |
 | [Blissful](https://open.spotify.com/track/0dKxhW1wAA8YrvMhiEd1qd) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Blissful](https://open.spotify.com/album/1P5joE7OOG7lDdKENEMEZ6) | 2:14 | 2024-07-25 |  |
+| [Brecon](https://open.spotify.com/track/3SUPrCR11PWuUpM2hopS4A) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP) | [Brecon](https://open.spotify.com/album/76S9heYns7ZmyMc9RBE0wY) | 2:15 | 2025-02-21 |  |
 | [Brooklyn Brownstone](https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92) | [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Brooklyn Brownstone](https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3) | 2:16 | 2023-01-12 |  |
 | [cascades](https://open.spotify.com/track/7z3euqNn3PvyVAFjdDwSMR) | [terrarium.](https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf) | [cascades](https://open.spotify.com/album/4QKXfYNfoT576G4NPccav2) | 2:09 | 2024-09-13 | 2025-05-15 |
 | [Central Park](https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Central Park](https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5) | 2:43 | 2023-06-20 |  |
@@ -164,7 +165,7 @@
 | [places i have yet to see](https://open.spotify.com/track/0ScamXll3uLlIp5Pt5s8Ze) | [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [places i have yet to see](https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE) | 2:16 | 2023-06-15 |  |
 | [Pouring Margarita](https://open.spotify.com/track/0ibru2bNyCrClfqznOVXFI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Pouring Margarita](https://open.spotify.com/album/0dhtfQ82luu5zclu117YwH) | 1:30 | 2023-01-19 | 2023-08-19 |
 | [Pretrip](https://open.spotify.com/track/1dFNTrPWQd9mt1ZaGr9ZH1) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Nothing You Don’t Know](https://open.spotify.com/album/5VQCYupHULZGO2Ji7WyIst) | 2:24 | 2024-06-07 |  |
-| [PullUp](https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [PullUp](https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d) | 2:09 | 2024-08-23 |  |
+| [PullUp](https://open.spotify.com/track/4L6lW4q3kYfPGPF5J8G3Cp) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [PullUp](https://open.spotify.com/album/1E6X5irCtk3YZ6VnRDaE6d) | 2:09 | 2024-08-23 | 2025-10-20 |
 | [Pyramids Revisited](https://open.spotify.com/track/3vXrrNtaV8I6opIxPniy2j) | [Electrotastica](https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8) | [Pyramids Revisited](https://open.spotify.com/album/0B8x8wor9Hv9ahYC0naaTA) | 3:18 | 2023-06-20 |  |
 | [Pão de Mel](https://open.spotify.com/track/6c6xj5g0hgCRfXXIa2iYEN) | [Marinha Paz](https://open.spotify.com/artist/3BNOGFlCLueiu93ELsIKF9) | [Pão de Mel](https://open.spotify.com/album/401l50TXjvmfXWlLonXhi9) | 2:20 | 2024-06-14 | 2024-06-22 |
 | [Reflection](https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc) | [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [yujeongcokr](https://open.spotify.com/artist/3mspVlD1WihY46b7keRPyf) | [Reflection](https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7) | 2:56 | 2023-01-12 |  |

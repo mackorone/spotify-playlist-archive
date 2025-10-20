@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 309541,
+  "num_followers": 309568,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAAdvZeDGeMrUYCKi4luxbWh",
+  "snapshot_id": "aPLYgAAAAADdQ+nrmVl5PYpqyZWjr7+s",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Life In Hell",
-      "url": "https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 344066,
       "name": "Rust In Peace...Polaris - 2004 Remix",
       "url": "https://open.spotify.com/track/0803SWqmIJGvZ15B8zsewn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "Life In Hell",
+      "url": "https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT"
     },
     {
       "added_at": null,

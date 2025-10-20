@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27706,
+  "num_followers": 27711,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAAacDQ6akIRVbLxPG+wBJqm",
+  "snapshot_id": "aPLYgAAAAADEQ6BKv1SVq6JVWuH5QNbk",
   "tracks": [
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Be The Glory (Remix)",
-        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "God Be The Glory (Remix)",
-      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow We Live",
         "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 236353,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Be The Glory (Remix)",
+        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "God Be The Glory (Remix)",
+      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
     },
     {
       "added_at": null,

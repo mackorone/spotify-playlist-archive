@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,551 likes - 82 songs - 4 hr 16 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,548 likes - 82 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

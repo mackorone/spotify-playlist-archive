@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,572 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,613 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 65 | [Black meditation](https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Afrikan Culture](https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0) | 3:58 |
 | 66 | [Blue Dragonfly](https://open.spotify.com/track/2HoDCdsBee9WffbDrfhNyG) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Once Was Ours Forever](https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna) | 4:38 |
 | 67 | [long time](https://open.spotify.com/track/1sJwMjRaNPzjSFT0m9ph0q) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [\[lust\]](https://open.spotify.com/album/5iTBKfzPNHpzZHHWyvXa05) | 1:07 |
-| 68 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
-| 69 | [Today I Taught Them How To How To Skip Stones Across the Lake](https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 3:12 |
-| 70 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |
+| 68 | [Melting Ice](https://open.spotify.com/track/1WGQ4VOueKeSEYAyGdxzL5) | [Slow Attack Ensemble](https://open.spotify.com/artist/1YsM3PBHRzAPjdDhj5d6As) | [Delay Music](https://open.spotify.com/album/0DM40FD0tB4t0NIKpgBAWn) | 1:52 |
+| 69 | [Ocotillo](https://open.spotify.com/track/4mVsLqaJtptz3QBzbuTiCS) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 8:43 |
+| 70 | [Today I Taught Them How To How To Skip Stones Across the Lake](https://open.spotify.com/track/3BDlelR8QBYul0WbTn15aK) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [You Always Will Be](https://open.spotify.com/album/64oJXgQT2KXGVD4RTDWH18) | 3:12 |
 | 71 | [Bright Belief](https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Once Was Ours Forever](https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna) | 4:42 |
 | 72 | [Wilderness House](https://open.spotify.com/track/5SkfuTaEb1bRH9rNlBuKZG) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Stellar](https://open.spotify.com/album/7GgKzRZKi9JFcD9EMG1IwT) | 2:59 |
-| 73 | [Nord](https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Sin](https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i) | 2:01 |
-| 74 | [Dune](https://open.spotify.com/track/45qGrOnjFJsgmzjRv5LA2T) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [House in the Tall Grass](https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu) | 2:08 |
+| 73 | [Dune](https://open.spotify.com/track/45qGrOnjFJsgmzjRv5LA2T) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [House in the Tall Grass](https://open.spotify.com/album/0A6hLzACLoB32gRz2UFTYu) | 2:08 |
+| 74 | [Nord](https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Sin](https://open.spotify.com/album/2Mkf5oJFTeKuQNfkiGdw5i) | 2:01 |
 | 75 | [for Jóhann](https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opus](https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX) | 5:49 |
 | 76 | [Something Ephemeral](https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 2:41 |
 | 77 | [Sun Room](https://open.spotify.com/track/4ERpkrp26fCCQFMGZg8oCI) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [69](https://open.spotify.com/album/4JxPZ8OU4lt8uwHhFN4hK1) | 4:48 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 87 | [Virga \(feat\. Darlingside\)](https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Virga \(feat\. Darlingside\)](https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG) | 6:22 |
 | 88 | [190306\-11](https://open.spotify.com/track/04P0ErOc0W13SliezFing8) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [草稿](https://open.spotify.com/album/7vnmFoClimIW1xxjyorJJ4) | 2:35 |
 | 89 | [Ablaze](https://open.spotify.com/track/4lSvsybipCBR0KpA9SBrQx) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 3:57 |
-| 90 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 |
-| 91 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 |
-| 92 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック ～はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
-| 93 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 |
-| 94 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
+| 90 | [Denden](https://open.spotify.com/track/6yQAC0ou6kYcs5LXFi3VlF) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H) | [On the Quakefish](https://open.spotify.com/album/5E5IiKi4x2xFeYsU5KPlKj) | 3:55 |
+| 91 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 |
+| 92 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
+| 93 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック ～はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
+| 94 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 |
 | 95 | [Au couchant](https://open.spotify.com/track/5eqovPK4whLwjlJj9x7ITG) | [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [8 tableaux](https://open.spotify.com/album/7pMLnAkNLcgeKVQtskA56B) | 5:44 |
 | 96 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
 | 97 | [Untitled](https://open.spotify.com/track/11LtL5wzNLv5f5Pml8n3A0) | [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Untitled](https://open.spotify.com/album/3bnouKu9cbmxIurDOvhLLv) | 3:30 |
 | 98 | [Rhubarb Orc\. 19.53 Rev](https://open.spotify.com/track/7wOsvlAHz8E0ycT6NYto13) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#3 / Rhubarb Orc\. 19.53 Rev](https://open.spotify.com/album/25tU48vYTi5RyyJzElp1Yc) | 6:41 |
-| 99 | [All These Worlds, Pt\. II](https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [All These Worlds, Pt\. II](https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4) | 3:59 |
-| 100 | [The Funeral Of A Woman Whose Soul Is Trapped In The Sun](https://open.spotify.com/track/1aQ6vO6CMwt2nlCSXONTxN) | [The Giver Of Illness](https://open.spotify.com/artist/37YmX9qvLVI6m4zpgvtmch), [Ak'chamel](https://open.spotify.com/artist/1Z5IieYbGZIqcn875Xy626) | [The Totemist](https://open.spotify.com/album/1WnP9EHin0bCWBFwQbJVbZ) | 7:41 |
+| 99 | [The Funeral Of A Woman Whose Soul Is Trapped In The Sun](https://open.spotify.com/track/1aQ6vO6CMwt2nlCSXONTxN) | [The Giver Of Illness](https://open.spotify.com/artist/37YmX9qvLVI6m4zpgvtmch), [Ak'chamel](https://open.spotify.com/artist/1Z5IieYbGZIqcn875Xy626) | [The Totemist](https://open.spotify.com/album/1WnP9EHin0bCWBFwQbJVbZ) | 7:41 |
+| 100 | [All These Worlds, Pt\. II](https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [All These Worlds, Pt\. II](https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4) | 3:59 |
 
 Snapshot ID: `AAAAAJKyUPaAv4u3K2AaMHGMIw/1ixj0`

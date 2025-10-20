@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: jisokuryClub\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,129 songs - 2 day 20 hr 30 min
+1,131 songs - 2 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Keep](https://open.spotify.com/track/6KipJW2V9Jqc45DhUTJoUF) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [KEEP](https://open.spotify.com/album/2vjV8Tbn6ozGFX7q9Gx7w7) | 3:34 | 2024-11-29 | 2025-01-31 |
 | [Keep you there](https://open.spotify.com/track/0OU5FvDjS9tavAUK63xwcz) | [Penda](https://open.spotify.com/artist/0HTTljEZfygRWNhK4r8pzC) | [In the box](https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb) | 2:27 | 2022-03-31 | 2022-04-20 |
 | [KIDS](https://open.spotify.com/track/0YJGr5b7xWWUYpoJ4gwNhy) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [KIDS](https://open.spotify.com/album/0lXGs7ZfGec0UJYzPdmwsM) | 6:56 | 2025-09-04 |  |
+| [Kids Return](https://open.spotify.com/track/4OW17aMPJyYW2Zu6oehyzk) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Kids Return](https://open.spotify.com/album/5APljpDUTlWR1k4r0wAidl) | 4:06 | 2025-10-20 |  |
 | [King Carp](https://open.spotify.com/track/6Vy5hcBcUylOESHdetifDh) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Tales From A Wanderer](https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU) | 3:29 | 2024-11-29 | 2024-12-11 |
 | [Knife](https://open.spotify.com/track/4O04LPUW3X7m1R6SKenajy) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Knife](https://open.spotify.com/album/59ziHXG8JXVfWWAFSGVIa3) | 5:45 | 2024-04-30 | 2024-05-10 |
 | [Koh](https://open.spotify.com/track/46Lj7x56cblascUpt0gDIr) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/1ALovj4cwwGaVMgXxEzO5G) | 4:56 | 2025-04-11 | 2025-05-21 |
@@ -629,7 +630,7 @@
 | [Mulli Mulli](https://open.spotify.com/track/2y0ozrZZP0unL0rCV5J9np) | [juun](https://open.spotify.com/artist/7GlkJWepxWqGNkDyuG2oCY) | [Mulli Mulli](https://open.spotify.com/album/3p2auYiBhiRRhqExjz6xvR) | 3:07 | 2024-11-29 | 2025-01-31 |
 | [MUSE](https://open.spotify.com/track/0ixKAyXnjZ97RC9RlEpdug) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:32 | 2022-03-31 | 2022-07-09 |
 | [my bad](https://open.spotify.com/track/7Dr1tRPRrJ4DWVhzm8sLjd) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [my bed](https://open.spotify.com/album/3oBSEPLaOzlzDieuJCFbgU) | 4:44 | 2024-04-30 | 2024-05-10 |
-| [My Curly Hair Is Dancing In The Light](https://open.spotify.com/track/4R708sgkvM0wKCeQW6O20J) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Love Untangled \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2b7FMbGcBoyjMFZC8AYx7o) | 3:14 | 2025-09-01 |  |
+| [My Curly Hair Is Dancing In The Light](https://open.spotify.com/track/4R708sgkvM0wKCeQW6O20J) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Love Untangled \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2b7FMbGcBoyjMFZC8AYx7o) | 3:14 | 2025-09-01 | 2025-10-20 |
 | [My Dear Love](https://open.spotify.com/track/0snDWpIDSGNZwVSzhheVAG) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Memoirs](https://open.spotify.com/album/58jJ1RTac6YEWx9xyJZjB0) | 4:14 | 2022-11-11 | 2024-11-07 |
 | [My Friend \(feat\. Kim Sawol\)](https://open.spotify.com/track/6GYfwuyeSLiNIbG8twrg40) | [Lee Seol Ah](https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Tiny Village](https://open.spotify.com/album/4qcORqrwArG9CxHYEN3x8d) | 4:24 | 2024-04-30 | 2024-05-10 |
 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 | 2022-07-22 | 2022-07-26 |
@@ -977,7 +978,7 @@
 | [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 | 2024-08-08 | 2024-12-03 |
 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 | 2021-12-21 | 2024-06-01 |
 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 | 2025-04-11 | 2025-07-29 |
-| [TOKKEBI\-BULL](https://open.spotify.com/track/5FZiKZLU2OWufNKsY1eQ5Y) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [When The Lights Out](https://open.spotify.com/album/1WmpPnR4sdtKBye5PMSVDh) | 4:22 | 2025-09-11 |  |
+| [TOKKEBI\-BULL](https://open.spotify.com/track/5FZiKZLU2OWufNKsY1eQ5Y) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [When The Lights Out](https://open.spotify.com/album/1WmpPnR4sdtKBye5PMSVDh) | 4:22 | 2025-09-11 | 2025-10-20 |
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-04-24 |
 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-04 | 2025-10-15 |
 | [Tongue](https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [Starring](https://open.spotify.com/album/3WWuYymsLHKjtLto36KMgt) | 3:43 | 2025-09-25 |  |
@@ -1065,6 +1066,7 @@
 | [Wish \- Live](https://open.spotify.com/track/1rQobZf16Gfs5GDSJlGC1L) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [LISTEN & DISCOVER Gogohawk LIVE](https://open.spotify.com/album/0qJJsKweZoQ5XvlJhAqkbz) | 6:21 | 2025-08-07 | 2025-08-27 |
 | [Wisue 햇빛처럼 빼어난](https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:37 | 2021-12-21 | 2022-04-19 |
 | [With You](https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [With You](https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0) | 3:17 | 2025-07-31 | 2025-08-22 |
+| [wo ai ni](https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6) | 3:31 | 2025-10-20 |  |
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2022-07-27 | 2025-07-29 |
 | [Wonder](https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [WOODLAND 푸르던](https://open.spotify.com/track/7hSpkFR4umYfTdwAbGlkUb) | [Besweet](https://open.spotify.com/artist/0grUBAiZwYyGykIxK6UjW8) | [WOODLAND 푸르던](https://open.spotify.com/album/7ItB3jPiPLGAeARn3YzSHp) | 3:54 | 2022-04-12 | 2022-04-21 |

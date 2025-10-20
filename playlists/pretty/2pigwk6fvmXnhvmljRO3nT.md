@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,717 songs - 19 day 22 hr 27 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,721 songs - 19 day 22 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7725,5 +7725,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7715 | [Sunrise](https://open.spotify.com/track/31ihTxEFH8iLwYuXiXTyK8) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Time for us](https://open.spotify.com/album/4riaU6GV6byR8wt1GT9tEg) | 3:36 |
 | 7716 | [Angel \#48](https://open.spotify.com/track/721VUrqzx4JvJb2lSOBjPu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:15 |
 | 7717 | [On That Time](https://open.spotify.com/track/3dl8bSF08LQfCf4T6CCksf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:42 |
+| 7718 | [Take Five](https://open.spotify.com/track/3A4qEIrWDUtAfmR8DdtLpT) | [Minoru Muraoka](https://open.spotify.com/artist/11VO1wQDn3dec4bk3epXr4) | [Bamboo](https://open.spotify.com/album/3q4PfaZLuRApEjGT7Mm2N1) | 4:58 |
+| 7719 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 |
+| 7720 | [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 |
+| 7721 | [There Will Never Be Another You](https://open.spotify.com/track/1eghoZLe436O2AHiZaoGVQ) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/1RGYFu40MzvQGoVD8qhmLu) | 3:28 |
 
-Snapshot ID: `AAAJJ0aDNRXAPI87PE73WrQfYl1rp+B6`
+Snapshot ID: `AAAJK0PAdBUXIU1U6Dp2CAlNRoPOvgMT`

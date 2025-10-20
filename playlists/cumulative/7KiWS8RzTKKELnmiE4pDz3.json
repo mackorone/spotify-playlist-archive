@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Hell On Earth",
+        "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241733,
+      "name": "Apostle's Warning",
+      "url": "https://open.spotify.com/track/1rkCDpUKvtVToCIwwPetBZ"
+    },
+    {
+      "album": {
         "name": "Arcteryx V1",
         "url": "https://open.spotify.com/album/1o1FVR3jywN1DrMUb60l8m"
       },

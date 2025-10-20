@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 26 likes - 11 songs - 43 min 0 sec
+[royva06](https://open.spotify.com/user/royva06) - 26 likes - 11 songs - 43 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Change](https://open.spotify.com/track/6ck0CGe9BN9gW5oMmzbhs9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Shabooh Shoobah](https://open.spotify.com/album/3Amln0PtCGwm5RfM4hdDBI) | 4:26 |
-| 2 | [Strange Currencies](https://open.spotify.com/track/22L2W5zBju0h7mFSfFzUJW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster](https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh) | 3:53 |
-| 3 | [Better Look Back](https://open.spotify.com/track/20qnNhvOOId2PNyePpprWD) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Good Grief \(Expanded Edition\)](https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj) | 3:42 |
-| 4 | [Bread Wine Body Blood](https://open.spotify.com/track/0YxK50YvRLghziXnEtmuxl) | [Ka](https://open.spotify.com/artist/0cmqAB0gdr6ObvjNrQJAQr) | [The Thief Next to Jesus](https://open.spotify.com/album/4fmC67uHti9BxWUNAUb6wy) | 2:53 |
-| 5 | [Let Down](https://open.spotify.com/track/4aOAzvRdOsZSwZIgwcdeL0) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:59 |
-| 6 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 |
-| 7 | [Angeles](https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:56 |
-| 8 | [Normal Girl](https://open.spotify.com/track/5fQBa4wkmq28xpSLOQ202K) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:13 |
-| 9 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
-| 10 | [Didn't Know What I Was In For](https://open.spotify.com/track/31nH2FO5og83YmI3K845Jn) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 4:03 |
-| 11 | [Shower Days](https://open.spotify.com/track/2gNOCytQkW3nxlITbwEBlK) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 2:11 |
+| 1 | [Motions \- Far Out Version](https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR) | 5:31 |
+| 2 | [Keys to Your Heart \(feat\. Joe Strummer\)](https://open.spotify.com/track/4vpSRQ0kn2fkV17A5XFwZK) | [The 101ers](https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe), [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba) | [Elgin Avenue Breakdown \(feat\. Joe Strummer\) \[Revisited\]](https://open.spotify.com/album/4sb22aeCQZqt0TszEyoqJr) | 3:44 |
+| 3 | [Your Good Girl's Gonna Go Bad](https://open.spotify.com/track/4pWTSkhzqCGHycPO51SBDY) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 2:01 |
+| 4 | [Samurai](https://open.spotify.com/track/0wJw5QXDKXTYn8IVyh3wqz) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:14 |
+| 5 | [Transdermal Celebration](https://open.spotify.com/track/0sll2PXvdsst1w51S2TsHN) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Quebec](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30) | 3:26 |
+| 6 | [Sick Shit](https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 4:06 |
+| 7 | [The Loner \- 2009 Remaster](https://open.spotify.com/track/22KcZ7xzhWi3Wif7cC4x5U) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Neil Young \(2009 Remaster\)](https://open.spotify.com/album/2dw9jX2uocV1da5WsnJ2Pl) | 3:52 |
+| 8 | [Wide Open](https://open.spotify.com/track/1OUPuWB14HJEWdPKUlf93D) | [Weaves](https://open.spotify.com/artist/3F44NFkOhpksx7b2JXMo3G) | [Wide Open](https://open.spotify.com/album/3XttAKr69t61orNqhqt0eZ) | 5:08 |
+| 9 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
+| 10 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
+| 11 | [Tim McGraw](https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:52 |
 
-Snapshot ID: `AAAH85ufZTAqWZuEuoF0Z8FkdwBAbqRz`
+Snapshot ID: `AAAICU0VwJLSt6EnNwR5qkodFsvB5a9X`

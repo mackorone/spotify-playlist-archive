@@ -1261,6 +1261,28 @@
     },
     {
       "album": {
+        "name": "Historia Musical de Fruko: \u00c9xitos",
+        "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        },
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199871,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/4RYStUhDBprAMDJDxbV4Vq"
+    },
+    {
+      "album": {
         "name": "Historia Musical de la Sonora Dinamita: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD"
       },
@@ -4170,7 +4192,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 219352,
       "name": "Tania",
       "url": "https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I"

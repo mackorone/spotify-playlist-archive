@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130278,
+  "num_followers": 130284,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-10-16 16:00:33",
       "album": {
-        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 251175,
-      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
-      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
-    },
-    {
-      "added_at": "2025-10-16 16:00:33",
-      "album": {
         "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
         "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 197954,
       "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
       "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
+    },
+    {
+      "added_at": "2025-10-16 16:00:33",
+      "album": {
+        "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+        "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 251175,
+      "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
+      "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
     },
     {
       "added_at": "2025-10-16 16:00:33",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-10-16 16:00:33",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
-        "url": "https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy"
-      },
-      "artists": [
-        {
-          "name": "Good Band",
-          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
-        }
-      ],
-      "duration_ms": 224995,
-      "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
-      "url": "https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb"
-    },
-    {
-      "added_at": "2025-10-16 16:00:33",
-      "album": {
         "name": "\u96d9\u751f\u706b\u7130",
         "url": "https://open.spotify.com/album/2u6C7l72qZ9TmKlFz9MJzh"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 305013,
       "name": "\u6c89\u9ed8",
       "url": "https://open.spotify.com/track/6DzvjbpPRoH2vbTVvvdDcz"
+    },
+    {
+      "added_at": "2025-10-16 16:00:33",
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
+        "url": "https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy"
+      },
+      "artists": [
+        {
+          "name": "Good Band",
+          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
+        }
+      ],
+      "duration_ms": 224995,
+      "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
+      "url": "https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb"
     },
     {
       "added_at": "2025-10-16 16:00:33",

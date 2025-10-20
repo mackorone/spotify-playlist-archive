@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-854 songs - 2 day 12 hr 33 min
+855 songs - 2 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Charanga](https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC), [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Charanga](https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe) | 4:26 | 2023-12-12 |  |
 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 | 2022-11-25 | 2025-10-12 |
 | [Chasin](https://open.spotify.com/track/7c0hcOEQSi62Jdd98q59aI) | [Olumo Soundz](https://open.spotify.com/artist/1poZ5uHaXqaGiPV70IWi0l) | [U.N\. \(United Nonsense\)](https://open.spotify.com/album/1fhkaWXCAmwhEVlSbTXIKF) | 7:58 | 2021-12-10 | 2022-07-27 |
+| [Chica de Favela \- Radio Edit](https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc) | [Beyond Music](https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp), [Siddhartha El Primero](https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE), [Shocktraderz](https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS) | [Chica de Favela](https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd) | 2:57 | 2025-10-17 |  |
 | [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 | 2022-11-18 | 2025-05-03 |
 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-06 | 2025-08-08 |
 | [Circular Movimento](https://open.spotify.com/track/0JQM8wWBFFjgy2iLCA0llY) | [Marsa](https://open.spotify.com/artist/4E5ZAqaEK4WnZJ9gZmXO50) | [Circular Movimento](https://open.spotify.com/album/52EVAjzv30WIEr9J3utCas) | 4:27 | 2021-12-10 | 2022-04-17 |
@@ -769,7 +770,7 @@
 | [Touch Me \- Radio Edit](https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Touch Me \(Radio Edit\)](https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9) | 3:34 | 2025-07-03 |  |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2025-08-09 |
 | [Tripping Up](https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [Indigo \- EP](https://open.spotify.com/album/2IgjsbxHF0dC4jjT5Cl5Jd) | 4:47 | 2021-10-06 | 2022-07-24 |
-| [Tropical Man](https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Tropical Man](https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW) | 3:46 | 2024-05-10 |  |
+| [Tropical Man](https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Tropical Man](https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW) | 3:46 | 2024-05-10 | 2025-10-20 |
 | [Tropics](https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG) | 2:29 | 2024-08-23 |  |
 | [True Love](https://open.spotify.com/track/06jMkCnqgcIJw01GeLFQFo) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [True Love](https://open.spotify.com/album/2TWA3tCKCHR2gLrLoxTntN) | 2:52 | 2023-10-20 | 2023-11-23 |
 | [Truenatruena](https://open.spotify.com/track/5vnvRZC36MdztW4vFaFL7a) | [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G) | [Truenatruena](https://open.spotify.com/album/3mHwDc1Q821PssHBnUvkb0) | 4:32 | 2022-08-19 | 2022-09-24 |

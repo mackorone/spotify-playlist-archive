@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 214695,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
@@ -7617,6 +7617,28 @@
     },
     {
       "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218095,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
+    },
+    {
+      "album": {
         "name": "Never Forget You",
         "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
       },
@@ -8268,7 +8290,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 228028,
       "name": "Only I",
       "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
@@ -13130,6 +13152,24 @@
       "duration_ms": 511659,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/3mtiGwAl0rFEaxTuA8EEd8"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213281,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
     },
     {
       "album": {

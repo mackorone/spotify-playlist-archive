@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Reggaeton pero al sabor de Cristo! Foto: Alex Zurdo
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,784 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,837 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

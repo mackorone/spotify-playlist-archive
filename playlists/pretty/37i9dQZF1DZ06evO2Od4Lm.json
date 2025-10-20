@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129104,
+  "num_followers": 129102,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACJbv/S6nIjrWuSI4co646t",
+  "snapshot_id": "aPLYgAAAAABOFsN/GywrP3CQe/YSTuqI",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make Out in My Car: Chameleon Suite",
-        "url": "https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee"
+        "name": "Aporia",
+        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
       },
       "artists": [
         {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Lowell Brams",
+          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
         }
       ],
-      "duration_ms": 166880,
-      "name": "Make Out in My Car - Sufjan Stevens Version",
-      "url": "https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0"
+      "duration_ms": 32699,
+      "name": "Palinodes",
+      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
     },
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aporia",
-        "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
+        "name": "Make Out in My Car: Chameleon Suite",
+        "url": "https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
         },
         {
-          "name": "Lowell Brams",
-          "url": "https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 32699,
-      "name": "Palinodes",
-      "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
+      "duration_ms": 166880,
+      "name": "Make Out in My Car - Sufjan Stevens Version",
+      "url": "https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0"
     },
     {
       "added_at": null,
@@ -791,22 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Which Way",
-        "url": "https://open.spotify.com/album/4kpQZIxtqmteE5mYGsW2Mg"
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
       },
       "artists": [
-        {
-          "name": "Denison Witmer",
-          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 364480,
-      "name": "Which Way - Sufjan Stevens Remix",
-      "url": "https://open.spotify.com/track/3XjZ3ARcg0k5CwyYWSckFC"
+      "duration_ms": 134404,
+      "name": "City of Roses",
+      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
     },
     {
       "added_at": null,
@@ -827,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+        "name": "Which Way",
+        "url": "https://open.spotify.com/album/4kpQZIxtqmteE5mYGsW2Mg"
       },
       "artists": [
+        {
+          "name": "Denison Witmer",
+          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
+        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 134404,
-      "name": "City of Roses",
-      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
+      "duration_ms": 364480,
+      "name": "Which Way - Sufjan Stevens Remix",
+      "url": "https://open.spotify.com/track/3XjZ3ARcg0k5CwyYWSckFC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: 1111
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,120 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,185 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 37 | [GETAWAY](https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [GETAWAY](https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt) | 2:43 |
 | 38 | [JOY \(By My Side\)](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [JOY \(By My Side\)](https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g) | 3:42 |
 | 39 | [pick your poison](https://open.spotify.com/track/6OaYA5Xn6xVwcLyYEE2Ard) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [six missed calls](https://open.spotify.com/album/1gWdOqu1lh6XB8o99mNB8r) | 2:17 |
-| 40 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |
-| 41 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
+| 40 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
+| 41 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 |
 | 42 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
 | 43 | [Nobody Else But U](https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Nobody Else But U](https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY) | 3:20 |
 | 44 | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
-| 45 | [Alone](https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Alone](https://open.spotify.com/album/6OguGlQ0qqeNAOaggF4zDT) | 3:26 |
-| 46 | [Move Your Body feat\. Xpansions](https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body](https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX) | 2:30 |
-| 47 | [Back 2 Me](https://open.spotify.com/track/2IKLkgYI7pFOFCr9IevOmb) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Back 2 Me](https://open.spotify.com/album/1BVM0FxL00YwA3z4r8qgw7) | 2:21 |
-| 48 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
+| 45 | [Move Your Body feat\. Xpansions](https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body](https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX) | 2:30 |
+| 46 | [Alone](https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Alone](https://open.spotify.com/album/6OguGlQ0qqeNAOaggF4zDT) | 3:26 |
+| 47 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
+| 48 | [Back 2 Me](https://open.spotify.com/track/2IKLkgYI7pFOFCr9IevOmb) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Back 2 Me](https://open.spotify.com/album/1BVM0FxL00YwA3z4r8qgw7) | 2:21 |
 | 49 | [Sorry I'm Like This](https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu) | [Sorry I'm Like This](https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS) | 2:52 |
 | 50 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
 | 51 | [Dappa Dan](https://open.spotify.com/track/6atT69esWSadQ7Ujx27Z3l) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Dappa Dan](https://open.spotify.com/album/5qRkINBz6wBrQxEAHe9DDC) | 4:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 |
 | 70 | [Back 2 Front](https://open.spotify.com/track/2fUNlLJrzdX1uoK6pMwuai) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [Back 2 Front](https://open.spotify.com/album/6GyV9Uov54iX2ldS2333is) | 3:30 |
 
-Snapshot ID: `AAAAAEC7kavfWUMayXwBy7jfGNneIvKc`
+Snapshot ID: `AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq`

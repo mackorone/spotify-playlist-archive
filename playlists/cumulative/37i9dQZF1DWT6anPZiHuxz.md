@@ -4,7 +4,7 @@
 
 > Chasing that runner's high
 
-338 songs - 18 hr 15 min
+339 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Poker Face \- LLG vs GLG Radio Mix](https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Guéna LG](https://open.spotify.com/artist/0gMrD8n8eFICZIhI7OO46C) | [Poker Face \(Remixes Part 1\)](https://open.spotify.com/album/3bzz0Nm5VsYRtz8hzebxAH) | 4:02 | 2022-08-12 | 2023-01-04 |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 | 2023-11-09 | 2025-05-22 |
 | [Praying \- Frank Walker Remix](https://open.spotify.com/track/00L5zl0hO6lO069lzRWNkW) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Praying \(The Remixes\)](https://open.spotify.com/album/7E56IANYZex5WABvAeYRIB) | 2:59 | 2022-08-12 | 2022-10-29 |
-| [pressure](https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [all my exes live in brooklyn](https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9) | 2:41 | 2025-10-17 |  |
+| [pressure](https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [all my exes live in brooklyn](https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9) | 2:41 | 2025-10-17 | 2025-10-20 |
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2024-10-25 |  |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 | 2025-02-17 |
 | [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-07-25 |  |
@@ -306,6 +306,7 @@
 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 | 2025-08-12 |  |
 | [that way \- Jonasu Remix](https://open.spotify.com/track/6Asu7oyQxcmONn4HypXV7n) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [that way \(Jonasu Remix\)](https://open.spotify.com/album/14OfY1xDQxV8Ax31LpVSHW) | 2:47 | 2022-08-12 | 2023-02-11 |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-17 |  |
+| [the floor \- fred remix](https://open.spotify.com/track/03g9zBj3bCqIuF7KvRw72z) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [the floor](https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L) | 5:41 | 2025-10-17 |  |
 | [The Music Began To Play](https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [The Music Began To Play](https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc) | 2:25 | 2024-01-19 | 2024-11-08 |
 | [The Sound of Silence \- CYRIL Remix](https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Sound of Silence \(CYRIL Remix\)](https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc) | 3:05 | 2024-02-23 |  |
 | [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 | 2024-06-14 | 2024-06-22 |

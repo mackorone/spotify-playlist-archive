@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,351 likes - 122 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,335 likes - 122 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 64 | [The Idiot](https://open.spotify.com/track/1VLdt5dmXVYxppmGTWzrxk) | [Matt Anderson Quartet](https://open.spotify.com/artist/7bIhgczU76C2iclrh7MKKN) | [The Town and the City](https://open.spotify.com/album/5smQKkZKie7KBLiuRS2sql) | 7:34 |
 | 65 | [Made Of Wood](https://open.spotify.com/track/4LIvvG87ifZM9kQ5llSXW3) | [Julia Hülsmann Quartet](https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd) | [Made Of Wood](https://open.spotify.com/album/1Q59mVCm924rwxfQkQBqGc) | 6:12 |
 | 66 | [Manhattan](https://open.spotify.com/track/1g0jjb4pvsGBxGbM5OxvYT) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Manhattan](https://open.spotify.com/album/5mHR1XnBoXIDZ9KSTyCx2I) | 4:23 |
-| 67 | [The Wrong Blues](https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC) | [William Engvick](https://open.spotify.com/artist/7q3ea9MR4Uzv5JhgYsiNLJ), [Alec Wilder](https://open.spotify.com/artist/5L8m8ueO7e0vLH28R7yjcw), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Live](https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6) | 8:03 |
+| 67 | [The Wrong Blues](https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Live](https://open.spotify.com/album/1ddhGaJv9WeF1NCfcItnV6) | 8:03 |
 | 68 | [Have You Met Miss Jones?](https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1) | [Alvin Queen Trio](https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F) | [Have You Met Miss Jones?](https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ) | 3:44 |
 | 69 | [Loneliness](https://open.spotify.com/track/6yrGyCwvV4zJyIbdtdyW7p) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 7:04 |
 | 70 | [Lucky to be Me](https://open.spotify.com/track/5tMEOw8LjLhCizDcyCvw4H) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Street of Dreams](https://open.spotify.com/album/7qIDAwVcQxA6jIIvaQ9WcD) | 6:42 |

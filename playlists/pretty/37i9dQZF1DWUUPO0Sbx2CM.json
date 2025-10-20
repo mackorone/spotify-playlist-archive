@@ -1,6 +1,6 @@
 {
   "description": "Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!",
-  "num_followers": 230767,
+  "num_followers": 230796,
   "original_name": "Christian Party",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-09-14 08:51:04",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2025-09-14 08:51:04",
-      "album": {
         "name": "Heavenly (Ethan C. Davis Remix)",
         "url": "https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 222000,
       "name": "Heavenly - Ethan C. Davis Remix",
       "url": "https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR"
+    },
+    {
+      "added_at": "2025-09-14 08:51:04",
+      "album": {
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2025-09-14 08:51:04",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-09-14 08:51:04",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2025-09-14 08:51:04",
+      "album": {
         "name": "Overcomer: The Remixes",
         "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 196738,
       "name": "Overcomer - Julie and Ruslan Remix",
       "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
-    },
-    {
-      "added_at": "2025-09-14 08:51:04",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2025-09-14 08:51:04",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-09-14 08:51:04",
       "album": {
-        "name": "Ancient of Days (reimagined)",
-        "url": "https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm"
-      },
-      "artists": [
-        {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
-        },
-        {
-          "name": "Matias Ruiz",
-          "url": "https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm"
-        }
-      ],
-      "duration_ms": 241998,
-      "name": "Ancient of Days (reimagined)",
-      "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
-    },
-    {
-      "added_at": "2025-09-14 08:51:04",
-      "album": {
         "name": "YOU ARE GOOD",
         "url": "https://open.spotify.com/album/4N7YMZlUlS4Mx4UAqKRUEJ"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 140625,
       "name": "YOU ARE GOOD",
       "url": "https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz"
+    },
+    {
+      "added_at": "2025-09-14 08:51:04",
+      "album": {
+        "name": "Ancient of Days (reimagined)",
+        "url": "https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        },
+        {
+          "name": "Matias Ruiz",
+          "url": "https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm"
+        }
+      ],
+      "duration_ms": 241998,
+      "name": "Ancient of Days (reimagined)",
+      "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
     },
     {
       "added_at": "2025-09-14 08:51:04",
@@ -1659,30 +1659,6 @@
     {
       "added_at": "2025-09-14 08:51:04",
       "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/59lNUfRKZcidZ4YDd7YjaA"
-      },
-      "artists": [
-        {
-          "name": "WildTribe",
-          "url": "https://open.spotify.com/artist/4tVUFyIMhjYGgHvB2PBrli"
-        },
-        {
-          "name": "Beacon Light",
-          "url": "https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk"
-        },
-        {
-          "name": "KPR",
-          "url": "https://open.spotify.com/artist/1zDPp9nLgu3ePiAEfcHla3"
-        }
-      ],
-      "duration_ms": 149793,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/2YQ2ljgFXAQuEbAigW0ajI"
-    },
-    {
-      "added_at": "2025-09-14 08:51:04",
-      "album": {
         "name": "Purpose (Bello VIP Remix)",
         "url": "https://open.spotify.com/album/3ghTPMHOwOdmpGmIzn1EkV"
       },
@@ -1703,6 +1679,30 @@
       "duration_ms": 168000,
       "name": "Purpose - Bello VIP Remix",
       "url": "https://open.spotify.com/track/3YjPNrPP2liXEQ2ziBqXEn"
+    },
+    {
+      "added_at": "2025-09-14 08:51:04",
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/59lNUfRKZcidZ4YDd7YjaA"
+      },
+      "artists": [
+        {
+          "name": "WildTribe",
+          "url": "https://open.spotify.com/artist/4tVUFyIMhjYGgHvB2PBrli"
+        },
+        {
+          "name": "Beacon Light",
+          "url": "https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk"
+        },
+        {
+          "name": "KPR",
+          "url": "https://open.spotify.com/artist/1zDPp9nLgu3ePiAEfcHla3"
+        }
+      ],
+      "duration_ms": 149793,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/2YQ2ljgFXAQuEbAigW0ajI"
     },
     {
       "added_at": "2025-09-14 08:51:04",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2025-09-14 08:51:04",
       "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
-      },
-      "artists": [
-        {
-          "name": "Rolling Hills Worship",
-          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
-        },
-        {
-          "name": "Jennifer Akers",
-          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
-        }
-      ],
-      "duration_ms": 235580,
-      "name": "Break Out - Studio Single",
-      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
-    },
-    {
-      "added_at": "2025-09-14 08:51:04",
-      "album": {
         "name": "Low Key",
         "url": "https://open.spotify.com/album/09OYmPoQpciY6AbMgkZJlE"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 140893,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/0aNKeOOHCahZiYHMU4oYar"
+    },
+    {
+      "added_at": "2025-09-14 08:51:04",
+      "album": {
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
+      },
+      "artists": [
+        {
+          "name": "Rolling Hills Worship",
+          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
+        },
+        {
+          "name": "Jennifer Akers",
+          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
+        }
+      ],
+      "duration_ms": 235580,
+      "name": "Break Out - Studio Single",
+      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
     },
     {
       "added_at": "2025-09-14 08:51:04",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-09-14 08:51:04",
       "album": {
-        "name": "Phenomena (DA DA) Remixes",
-        "url": "https://open.spotify.com/album/6av2XMSiwiTMbf5dLLZ1Wk"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF"
-    },
-    {
-      "added_at": "2025-09-14 08:51:04",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6i51R5QgBQu6ynxVLkpA0a"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 127514,
       "name": "closer",
       "url": "https://open.spotify.com/track/0OXZJHPmDYIyVaJ5nHM8YB"
+    },
+    {
+      "added_at": "2025-09-14 08:51:04",
+      "album": {
+        "name": "Phenomena (DA DA) Remixes",
+        "url": "https://open.spotify.com/album/6av2XMSiwiTMbf5dLLZ1Wk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF"
     }
   ],
   "unique_name": "Christian Party",

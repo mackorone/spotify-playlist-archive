@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1603516,
+  "num_followers": 1603606,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -767,30 +767,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 191076,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Never Forget You",
         "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 203211,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 232607,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 314462,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 314462,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 305235,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0gdOg7Dga6Mf0LiDZxWGmk"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 211905,
       "name": "Believe",
       "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 305235,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3"
       },
@@ -1359,26 +1379,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/46N04V4j9W6MOzK8JdQ4ye"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Diana Miro",
-          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/2enw0l62TUebZrITqMVISJ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Yumi (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/20PzigIv4lOEZIwjxmr2eF"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/4iQFexCu2T1PhIUS7Tg2fV"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/20PzigIv4lOEZIwjxmr2eF"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/4iQFexCu2T1PhIUS7Tg2fV"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1503,6 +1503,30 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Different Way (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/7mzkVJfrdMzS4VhTOW1TGY"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Different Way - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/18d6tKtNSpow0iQq1OCpIX"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Manta",
         "url": "https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5"
       },
@@ -1535,6 +1559,22 @@
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "IT MIGHT BE THE DRUGS",
+        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 219892,
+      "name": "IT MIGHT BE THE DRUGS",
+      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1575,22 +1615,6 @@
       "duration_ms": 217523,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "IT MIGHT BE THE DRUGS",
-        "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 219892,
-      "name": "IT MIGHT BE THE DRUGS",
-      "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1779,30 +1803,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Different Way (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/7mzkVJfrdMzS4VhTOW1TGY"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Different Way - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/18d6tKtNSpow0iQq1OCpIX"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Now We Are Free (B Jones Remix)",
         "url": "https://open.spotify.com/album/57f75W90HKQrPNKXLkU4kf"
       },
@@ -1823,6 +1823,26 @@
       "duration_ms": 210490,
       "name": "Now We Are Free - B Jones Remix",
       "url": "https://open.spotify.com/track/1J8k92DuKPAmJEOfKmCTYQ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "duration_ms": 218095,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1915,18 +1935,18 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "One New Change",
-        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
+        "name": "You",
+        "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
         }
       ],
-      "duration_ms": 294400,
-      "name": "One New Change",
-      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
+      "duration_ms": 213281,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1951,38 +1971,18 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Only I",
-        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
+        "name": "One New Change",
+        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
       },
       "artists": [
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
         }
       ],
-      "duration_ms": 228028,
-      "name": "Only I",
-      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Coming Down",
-        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
-      },
-      "artists": [
-        {
-          "name": "Solanca",
-          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
+      "duration_ms": 294400,
+      "name": "One New Change",
+      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
     }
   ],
   "unique_name": "Night Rider",

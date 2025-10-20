@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jake Worthington
 
-713 songs - 1 day 18 hr 25 min
+714 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Can’t Cry Anymore \(feat\. Bri Bagwell\)](https://open.spotify.com/track/3yz6BlKzJ2baiuIUC6t3FS) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3), [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Cover Girl](https://open.spotify.com/album/4tbA2NrQQetM0NUqszgn52) | 3:34 | 2023-10-27 | 2023-12-02 |
 | [Car Ride Home](https://open.spotify.com/track/5oiyEMZL6oA50VLnbas2hE) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Car Ride Home](https://open.spotify.com/album/5qRwxL43IJCKoVJKpicz0e) | 4:35 | 2023-04-28 | 2023-05-20 |
 | [Carolina Blue](https://open.spotify.com/track/76JB6oI3TtAfumq8n6nWie) | [Casey Daniels Band](https://open.spotify.com/artist/7eVdtDS1ReoSxBZ4Apqpc7) | [Carolina Blue](https://open.spotify.com/album/0fkNQ1049j1r0Dj4oF6hRn) | 3:41 | 2023-01-13 | 2023-06-24 |
+| [Carry Me Home](https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Carry Me Home](https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx) | 3:32 | 2025-10-17 |  |
 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-02-16 |  |
 | [Change Your Mind](https://open.spotify.com/track/0pGMmBw3aXGWGR32ydIZMU) | [Nathan Perry](https://open.spotify.com/artist/0GNySaIRzLXcOfWpKlRv3w) | [Change Your Mind](https://open.spotify.com/album/3SavsOcLJAxYDGWUvgo4e1) | 4:10 | 2022-03-25 | 2022-07-09 |
 | [Chasing My Tail](https://open.spotify.com/track/33IImDk07VMw7E99BWz6jK) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:58 | 2023-11-24 |  |
@@ -700,7 +701,7 @@
 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 | 2022-07-22 | 2023-06-06 |
 | [Wild as Her](https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:21 | 2023-06-02 | 2024-04-19 |
 | [Wild as Her](https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI) | 3:21 | 2022-03-04 | 2022-07-29 |
-| [Wild Horses](https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Honky Tonk in Heaven](https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP) | 2:47 | 2022-03-18 |  |
+| [Wild Horses](https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Honky Tonk in Heaven](https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP) | 2:47 | 2022-03-18 | 2025-10-20 |
 | [Wild Is Her Favorite Color](https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Wild Is Her Favorite Color](https://open.spotify.com/album/4IHQZBoW3LnJ62LsGvx4FT) | 4:06 | 2024-09-06 |  |
 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 | 2023-01-13 | 2023-09-02 |
 | [Wild Palomino](https://open.spotify.com/track/4VUbHweLoFPdVoKUQrTmZ0) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Wild Palomino](https://open.spotify.com/album/1LVecFZacMIV8maREh11Zv) | 3:18 | 2022-07-15 | 2023-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > haley heynderickx on the cover🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,138 likes - 142 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,139 likes - 142 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

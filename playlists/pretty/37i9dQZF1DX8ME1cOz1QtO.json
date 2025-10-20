@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 114030,
+  "num_followers": 114089,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -183,38 +183,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Cool Islands",
-        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
-      },
-      "artists": [
-        {
-          "name": "Cusco",
-          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
         "url": "https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k"
       },
@@ -235,6 +203,38 @@
       "duration_ms": 440440,
       "name": "Behind the Gardens, Behind the Wall, Under the Tree...",
       "url": "https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Cool Islands",
+        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
+      },
+      "artists": [
+        {
+          "name": "Cusco",
+          "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 754103,
       "name": "Prism",
       "url": "https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Aum",
-        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "Abraxas",
-      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Dragon Wings and Wizard Tales",
         "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 249960,
       "name": "Lifeforce Celebration",
       "url": "https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "Abraxas",
+      "url": "https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1663,38 +1663,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0"
-      },
-      "artists": [
-        {
-          "name": "Michael Garrison",
-          "url": "https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "To the Other Side of the Sky",
-      "url": "https://open.spotify.com/track/342bKF02RtlREDNvwmzrBJ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Collected Ambient & Textural Works 1977-1987",
-        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 553800,
-      "name": "Elysian E",
-      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "The Best of the Golden Voyage",
         "url": "https://open.spotify.com/album/7Au1hECfa7KYdNQwbVQENf"
       },
@@ -1715,6 +1683,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Collected Ambient & Textural Works 1977-1987",
+        "url": "https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 553800,
+      "name": "Elysian E",
+      "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "China (Remastered)",
         "url": "https://open.spotify.com/album/6YrHsp2x5GRxEZJXwDwXGz"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 165813,
       "name": "The Tao Of Love - Remastered",
       "url": "https://open.spotify.com/track/3SMBkwzUjtKuNHTJFuIdec"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Aum",
+        "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "Offener Himmel II",
+      "url": "https://open.spotify.com/track/40rNG0wBj5qXRLQLfAcqRy"
     }
   ],
   "unique_name": "New Age: The Dawning",

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23112,
+  "num_followers": 23121,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 255093,
       "name": "LOVE (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -631,6 +631,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Daily Bread",
         "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 192400,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Federal",
-        "url": "https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb"
-      },
-      "artists": [
-        {
-          "name": "Bfb Da Packman",
-          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
-        }
-      ],
-      "duration_ms": 142128,
-      "name": "Federal",
-      "url": "https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 155224,
       "name": "45 (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Federal",
+        "url": "https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "duration_ms": 142128,
+      "name": "Federal",
+      "url": "https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 143772,
+      "name": "Florida Nights",
+      "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Trenches",
         "url": "https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 177648,
       "name": "Ok Cool",
       "url": "https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 143772,
-      "name": "Florida Nights",
-      "url": "https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl"
     }
   ],
   "unique_name": "Funny Marco's Taste",

@@ -4,7 +4,7 @@
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-194 songs - 20 hr 33 min
+195 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,13 +44,14 @@
 | [Body And Soul](https://open.spotify.com/track/2pB7LHuDww7SJcYEoltfga) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 4:10 | 2022-05-13 | 2022-07-29 |
 | [Body And Soul](https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 4:10 | 2022-05-13 | 2023-09-02 |
 | [Body and Soul](https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Body & Soul](https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L) | 3:02 | 2022-05-13 |  |
-| [Byablue](https://open.spotify.com/track/0XqlgQYsPLjsqhyXOmqqrK) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Byablue](https://open.spotify.com/album/2vKhFCaZYdLu78HMjTMptP) | 7:19 | 2022-05-13 |  |
+| [Byablue](https://open.spotify.com/track/0XqlgQYsPLjsqhyXOmqqrK) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Byablue](https://open.spotify.com/album/2vKhFCaZYdLu78HMjTMptP) | 7:19 | 2022-05-13 | 2025-10-20 |
 | [Byablue](https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Byablue](https://open.spotify.com/album/7BVDdIIHvAleYqTVobRLjr) | 7:19 | 2022-05-13 | 2024-04-19 |
 | [Bye bye blackbird](https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [Swingin' Till The Girls Come Home](https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw) | 3:40 | 2022-05-13 |  |
 | [Caroline, No](https://open.spotify.com/track/5MgpYFpvrsMp3J1rzliKF4) | [Charles Lloyd Quartet](https://open.spotify.com/artist/1uVXezA2zuHxGwdKZHDOaj) | [Mirror](https://open.spotify.com/album/2S2e9KAsq88kaNMO5xqDV5) | 4:02 | 2022-05-13 |  |
 | [Cheese Cake \- Rudy Van Gelder Edition / Remastered 1999](https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 6:33 | 2022-05-13 |  |
 | [Chicago Calling \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:36 | 2022-05-13 |  |
 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 | 2022-08-17 |  |
+| [Countdown](https://open.spotify.com/track/35LAll8dgzkn42G8OPVbKR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 2:25 | 2024-07-17 |  |
 | [Countdown \- Mono](https://open.spotify.com/track/0V2dEdN7vtaoIiR4MKY2vR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 2:25 | 2022-08-12 | 2024-02-22 |
 | [Cousin Mary](https://open.spotify.com/track/0g9brmkGpgD18H2NsDcqC8) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Four For Trane](https://open.spotify.com/album/3sAkK5Zm8cigSNCgeoAqOa) | 7:11 | 2022-05-13 | 2022-07-27 |
 | [Cousin Mary](https://open.spotify.com/track/6xXrlNoRO2huakbn56b88W) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Four For Trane](https://open.spotify.com/album/2bZJE5GJyEH2l60yMvbC4n) | 7:14 | 2022-08-11 | 2024-04-19 |

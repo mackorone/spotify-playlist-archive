@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Yuko
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,450 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,449 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 43 | [Там, де зникають сліди](https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn) | [туди\-сюди і смерть](https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK) | [Там, де зникають сліди](https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5) | 2:54 |
 | 44 | [Проблеми макітри](https://open.spotify.com/track/7u2l6Gnz2j0HrkPEVVYHJM) | [Mark Greider](https://open.spotify.com/artist/5uFQX3xS7WcnexP5lH91eJ) | [Проблеми макітри](https://open.spotify.com/album/3tej56EN2DJjEvSd2Vs8XR) | 2:42 |
 | 45 | [Пішак](https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw) | [Intermezzo](https://open.spotify.com/artist/6BSuzS2Q1E75dXsghaVNHf) | [Пішак](https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX) | 2:19 |
-| 46 | [літодень, спекодень](https://open.spotify.com/track/1eGdL2qKdrFeOzfjQBpNqX) | [GannaBaby](https://open.spotify.com/artist/1iIOxjctpv52NS9RTbreNO) | [літодень, спекодень](https://open.spotify.com/album/1CkgWdJsmHIThP2FMLIa4A) | 2:20 |
-| 47 | [мунлайт](https://open.spotify.com/track/00TKkaqkpJgRUlZBkzBBQd) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [мунлайт](https://open.spotify.com/album/2lvPf1aFDEDtPfX6zVStK5) | 2:06 |
+| 46 | [мунлайт](https://open.spotify.com/track/00TKkaqkpJgRUlZBkzBBQd) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [мунлайт](https://open.spotify.com/album/2lvPf1aFDEDtPfX6zVStK5) | 2:06 |
+| 47 | [літодень, спекодень](https://open.spotify.com/track/1eGdL2qKdrFeOzfjQBpNqX) | [GannaBaby](https://open.spotify.com/artist/1iIOxjctpv52NS9RTbreNO) | [літодень, спекодень](https://open.spotify.com/album/1CkgWdJsmHIThP2FMLIa4A) | 2:20 |
 | 48 | [Сутінки](https://open.spotify.com/track/5bAsKGr5prU5YdXRCksOfO) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Сутінки](https://open.spotify.com/album/69pKv2BekWnZCLMIRZAGcH) | 3:19 |
 | 49 | [СМУГИ](https://open.spotify.com/track/61QVw84uXhjAsbM7GKyvP0) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV), [SAGE](https://open.spotify.com/artist/2ItrYNZZmNn7hQaWlfReC4) | [СМУГИ](https://open.spotify.com/album/5oePjlSoDXJgfHXgsjPu8C) | 3:37 |
 | 50 | [Індульгенцій](https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr) | [СКВЕР](https://open.spotify.com/artist/5zQoBKnhriU3AzpNYOOlm6) | [Індульгенцій](https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH) | 4:57 |
@@ -70,15 +70,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 60 | [Місто](https://open.spotify.com/track/0qpuExro0xkaUNP2O2M4dv) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0), [CRYBYE](https://open.spotify.com/artist/1EV8VsTIuVdhICJFcEsdfO), [на її основі](https://open.spotify.com/artist/41McSRHiLhBgkLHPJorSLy) | [Місто](https://open.spotify.com/album/2RlktSZOBN3sKgvCRV1Pw4) | 2:06 |
 | 61 | [ЯК ПОЛЯКОВА](https://open.spotify.com/track/4s9Q8PGOSuco35BYLwRCNp) | [YOXDEN](https://open.spotify.com/artist/1XrrGy6h4YccivIF8u2TAX), [Gario Nells](https://open.spotify.com/artist/2KgnWwpa1lrJQxkIy7oWVi) | [ЯК ПОЛЯКОВА](https://open.spotify.com/album/5TJDj25gevCzXtBNxOTGL5) | 2:34 |
 | 62 | [Сатива](https://open.spotify.com/track/1ouqFkok0LZkDAt3qqaYFY) | [Olyaska](https://open.spotify.com/artist/3CHYK38IU7Igd9yiOO3I9J) | [Сатива](https://open.spotify.com/album/1OEyFSCk0GEdg8Dmww0ry0) | 3:01 |
-| 63 | [Мріяти](https://open.spotify.com/track/0J9yMsH0Z6P11TmgQz5yMa) | [Женя і Катя](https://open.spotify.com/artist/0GVdstE7poXVPgHK8hNsBh) | [Мріяти](https://open.spotify.com/album/2vkrUqXXTcSY5HJl2eQlEg) | 4:31 |
-| 64 | [На старих світлинах](https://open.spotify.com/track/4194XtKX3OF1CZNvuHu9GG) | [Electrobirds](https://open.spotify.com/artist/6ghVa94kvVtSsFOeYX9PP9) | [На старих світлинах](https://open.spotify.com/album/6sO7LoGuyLpbPMnc2NgCrD) | 4:52 |
+| 63 | [На старих світлинах](https://open.spotify.com/track/4194XtKX3OF1CZNvuHu9GG) | [Electrobirds](https://open.spotify.com/artist/6ghVa94kvVtSsFOeYX9PP9) | [На старих світлинах](https://open.spotify.com/album/6sO7LoGuyLpbPMnc2NgCrD) | 4:52 |
+| 64 | [Мріяти](https://open.spotify.com/track/0J9yMsH0Z6P11TmgQz5yMa) | [Женя і Катя](https://open.spotify.com/artist/0GVdstE7poXVPgHK8hNsBh) | [Мріяти](https://open.spotify.com/album/2vkrUqXXTcSY5HJl2eQlEg) | 4:31 |
 | 65 | [Кров і сніг](https://open.spotify.com/track/1vWP1xBjEVKCJWQ0MhPepy) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Кров і сніг](https://open.spotify.com/album/1jsy5rUiIjmKFx1N8X2tWA) | 2:39 |
-| 66 | [Безпечний простір](https://open.spotify.com/track/654HUVWn9laGa4KMuOPy1K) | [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [Безпечний простір](https://open.spotify.com/album/5Tn1RLNLYd9nwaPn6Lc9qT) | 3:33 |
-| 67 | [лю біль <3](https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [sucilna\_nevdacha.exe](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [лю біль <3](https://open.spotify.com/album/7IB8iIVeptweBwNYLfVuo7) | 4:07 |
+| 66 | [лю біль <3](https://open.spotify.com/track/1eT1M6cYSeEWbMVXZU8QUy) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [sucilna\_nevdacha.exe](https://open.spotify.com/artist/1gP2mjoVMbbxA3PakgB2Q8) | [лю біль <3](https://open.spotify.com/album/7IB8iIVeptweBwNYLfVuo7) | 4:07 |
+| 67 | [Безпечний простір](https://open.spotify.com/track/654HUVWn9laGa4KMuOPy1K) | [Olena Karas](https://open.spotify.com/artist/2RgUI6cIgCmVSjPEriMWsh) | [Безпечний простір](https://open.spotify.com/album/5Tn1RLNLYd9nwaPn6Lc9qT) | 3:33 |
 | 68 | [злі і закохані \- Герда з дробовиком](https://open.spotify.com/track/41xrwd38Im5vA7nz0IwLT5) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [ЛЮ](https://open.spotify.com/album/458PL0d9XD0ytrxlZWgNIV) | 4:07 |
 | 69 | [Бамбетель](https://open.spotify.com/track/3O5x9QtmHR3Ppy9pm4OF8G) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Цивільна абстиненція](https://open.spotify.com/album/6xSdifc4dpAqBGB7SDobHl) | 3:40 |
-| 70 | [То любов](https://open.spotify.com/track/43DETS4sk72cMn3Av9slih) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1) | [Серце](https://open.spotify.com/album/1D8uUBUg3HD5mTLnWdQJOb) | 5:46 |
-| 71 | [падаєш](https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [падаєш](https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF) | 3:49 |
+| 70 | [падаєш](https://open.spotify.com/track/15qpScK6EoZSzH3rYTekTQ) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [падаєш](https://open.spotify.com/album/2RLCk9ZCrMDUD2gxr3ERKF) | 3:49 |
+| 71 | [То любов](https://open.spotify.com/track/43DETS4sk72cMn3Av9slih) | [Cepasa](https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1) | [Серце](https://open.spotify.com/album/1D8uUBUg3HD5mTLnWdQJOb) | 5:46 |
 | 72 | [Далеко](https://open.spotify.com/track/4sWSz6KehThL55CCTPVBFR) | [pasta fibonacci](https://open.spotify.com/artist/0acnHYtXIU7WMipEgQUPT2) | [Далеко](https://open.spotify.com/album/5Us6kMB53DmuVLKtqj7dKg) | 2:49 |
 | 73 | [не один](https://open.spotify.com/track/3Gy0qB1a8oqOwz6XqoDqyW) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [не один](https://open.spotify.com/album/0k5Arenyl0yRWvBmZMZ4Y9) | 4:00 |
 | 74 | [Я написав тобі пісню](https://open.spotify.com/track/3BhDQN3XYIbGqYSouXhA9G) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Я написав тобі пісню](https://open.spotify.com/album/7d9YrGrBf7QeGJX6ELBMVn) | 4:06 |

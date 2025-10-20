@@ -1,6 +1,6 @@
 {
   "description": "Leeds! Leeds! Leeds! Cover: VENUS GRRRLS",
-  "num_followers": 1158,
+  "num_followers": 1159,
   "original_name": "We Are Leeds",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-11-22 12:17:41",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA"
+      },
+      "artists": [
+        {
+          "name": "Cole LC",
+          "url": "https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL"
+    },
+    {
+      "added_at": "2024-11-22 12:17:41",
+      "album": {
         "name": "L4V",
         "url": "https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 141213,
       "name": "L4V",
       "url": "https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw"
-    },
-    {
-      "added_at": "2024-11-22 12:17:41",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA"
-      },
-      "artists": [
-        {
-          "name": "Cole LC",
-          "url": "https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL"
     },
     {
       "added_at": "2024-11-22 12:17:41",

@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Raga Deepawali",
+        "url": "https://open.spotify.com/album/44MSPSBWUiHOV9pGh7TnUu"
+      },
+      "artists": [
+        {
+          "name": "Nayan Ghosh",
+          "url": "https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF"
+        },
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293500,
+      "name": "Raga Deepawali",
+      "url": "https://open.spotify.com/track/2IbaZu8dZyTbqit1n1rhTr"
+    },
+    {
+      "album": {
         "name": "Get Recharged!!!",
         "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
       },

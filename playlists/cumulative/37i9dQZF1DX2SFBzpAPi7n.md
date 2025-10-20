@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: QWER\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,062 songs - 2 day 16 hr 51 min
+1,063 songs - 2 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Blue Moon](https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Once in a BLUE MOON](https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4) | 3:35 | 2024-06-07 | 2024-11-07 |
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [Blue Whale](https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Special Single 'Blue Whale'](https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J) | 4:06 | 2025-10-06 |  |
-| [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 |  |
+| [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 | 2025-10-20 |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 | 2024-11-07 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2024-06-05 | 2024-11-07 |
@@ -537,6 +537,7 @@
 | [Love Cut](https://open.spotify.com/track/2q8YdrYy0Qyx1jpkSzXtfC) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [WANTED](https://open.spotify.com/album/4rJBZiHzCUcVsj9yu5UCCD) | 2:53 | 2022-04-12 | 2022-07-12 |
 | [Love Is All Around](https://open.spotify.com/track/17KIiHXJ4PRo1s0x5SpHTf) | [Wetter](https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq) | [Love Is All Around](https://open.spotify.com/album/5rGj57soCUAuXAdiptCTYl) | 4:25 | 2022-04-22 | 2022-07-29 |
 | [Love is Dangerous](https://open.spotify.com/track/24OvvcCFiI2ah2z5jQsm64) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Love is Dangerous](https://open.spotify.com/album/1yk0KslOua9rexBiY9pdJV) | 3:32 | 2022-04-22 | 2022-06-06 |
+| [Love is No Sin](https://open.spotify.com/track/1kpRu51hGlJmBbJoQMchoJ) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [DREAM](https://open.spotify.com/album/1MlNC3YWsy0afgtXfmRXaU) | 3:03 | 2025-10-20 |  |
 | [Love Me or Hate Me](https://open.spotify.com/track/2Qv01mVwY3815XuoXm6Upc) | [Song Soo Woo](https://open.spotify.com/artist/4X7gkJU9fcWMHeUS5BLWsr) | [Love Me or Hate Me](https://open.spotify.com/album/1yNeoN1SL2MCc1fef56l5y) | 2:39 | 2022-04-22 | 2022-07-29 |
 | [Love me or Leave me](https://open.spotify.com/track/4MwsWZDbTS2vUwfiwKW3c1) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/1h59ktsm36nQJcnporccIt) | 3:42 | 2025-03-17 | 2025-04-12 |
 | [LOVE OF MY LIFE](https://open.spotify.com/track/5BbGmPkxTB60Ojn7Diu4pY) | [Cha Woo Joo](https://open.spotify.com/artist/6mScVyqAyNG48yrL20Rdd4) | [LOVE OF MY LIFE](https://open.spotify.com/album/64lsqGTxNQfp8di15Xjplv) | 3:04 | 2024-11-12 | 2024-12-24 |

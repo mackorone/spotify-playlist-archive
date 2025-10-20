@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
 315 songs - 18 hr 30 min
 
@@ -159,7 +159,7 @@
 | [Lướt Trên Con Xe \(feat\. Blacka\)](https://open.spotify.com/track/277NJkEbAQPmSAsm2ZTz46) | [Cường Seven](https://open.spotify.com/artist/6uPQqRyJMiXn3lHCh0oJIt), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Lướt](https://open.spotify.com/album/4rVaK1jtsm2vqueVG8um6u) | 3:12 | 2024-11-21 | 2024-11-29 |
 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT TAP RAP](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 | 2023-10-19 |  |
 | [Lối Nhỏ](https://open.spotify.com/track/25edeHHueINMguqu9emCyV) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [Phương Anh Đào](https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav) | [Lối Nhỏ](https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N) | 4:12 | 2023-10-19 | 2024-04-19 |
-| [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 | 2025-04-01 | 2025-10-19 |
+| [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 | 2025-04-01 |  |
 | [Lớn Rồi](https://open.spotify.com/track/0FjmyK9Z2ymS5HbUvrdeL5) | [DSK](https://open.spotify.com/artist/0KqWWEbDa21psQwESpf3pD) | [Lớn Rồi](https://open.spotify.com/album/1aV6gmvYoIWNjzS7yOo4mG) | 3:21 | 2024-03-19 | 2024-05-08 |
 | [Lựa Chọn Của Em](https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [Đậu Tất Đạt](https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV) | [Lựa Chọn Của Em](https://open.spotify.com/album/2v1ZACaUYprXiqCOU7sEng) | 4:07 | 2024-06-10 | 2024-11-08 |
 | [magick \- feat\. Táo](https://open.spotify.com/track/1RqTiIkl4dTitoanZYEx9u) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [magick \(feat\. Táo\)](https://open.spotify.com/album/38ZKbjXwT4eOYd7KU87akr) | 3:37 | 2023-10-29 | 2023-10-31 |
@@ -274,7 +274,7 @@
 | [TRÌNH](https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [TRÌNH](https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA) | 4:35 | 2024-11-12 |  |
 | [Trí Trá](https://open.spotify.com/track/2CjaE3LZMTi38jK9whOcUK) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [TRÁCSTAR](https://open.spotify.com/album/6fJZeGzS6omKzAKIQDC9MC) | 3:54 | 2024-10-03 | 2024-10-14 |
 | [Trăng Hoa Mây Mưa](https://open.spotify.com/track/2BDE7KducbOuOPY4tlERyJ) | [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [Trăng Hoa Mây Mưa](https://open.spotify.com/album/6ru2eI8JeIf0wMh0xuXwOq) | 3:13 | 2024-01-23 | 2024-06-13 |
-| [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 | 2024-12-09 |  |
+| [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 | 2024-12-09 | 2025-10-20 |
 | [Trầu Văn Trap](https://open.spotify.com/track/5pJ7GLhX97h4gs2yeio5yi) | [Mikelodic](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Trầu Văn Trap](https://open.spotify.com/album/742bcUqN0dUZEwwB9DO9sT) | 3:08 | 2023-10-26 | 2023-10-31 |
 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 | 2025-02-07 |  |
 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 | 2023-10-19 | 2024-04-19 |

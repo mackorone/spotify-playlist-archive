@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 
 > Al millón y pasaditos, mi compa\. Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142 likes - 40 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205 likes - 40 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 39 | [Ganó Holanda, Perdió China](https://open.spotify.com/track/44IjRzhEt9bmmYfyExMEUc) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/3hCFPKRBu3eQbbptilmIIx) | 2:59 |
 | 40 | [Recuerdos de Uno](https://open.spotify.com/track/1ptL9S3BF4074kqm6U51YA) | [Martin Castillo](https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw) | [Poder y Respeto](https://open.spotify.com/album/2DaRZDIgbjHe746Gx3pYRQ) | 3:16 |
 
-Snapshot ID: `AAAAABzo8/XN6DFTWuAR0IHBYNTqeRAM`
+Snapshot ID: `AAAAAHYpA/1WeyaiTLfcMdhdJAZonjVA`

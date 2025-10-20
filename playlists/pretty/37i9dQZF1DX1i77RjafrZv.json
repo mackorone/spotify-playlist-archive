@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 318217,
+  "num_followers": 318213,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Tous les gar\u00e7ons et les filles",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour - Stereo Mix",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "VersuS",
         "url": "https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 223800,
       "name": "Avant toi",
       "url": "https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Tous les gar\u00e7ons et les filles",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "Le temps de l'amour - Stereo Mix",
-      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "A Fleur De Toi",
-        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "A fleur de toi",
-      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Savoir Aimer",
         "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 281213,
       "name": "Savoir aimer",
       "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "A Fleur De Toi",
+        "url": "https://open.spotify.com/album/6dTWgsiYPk2goK88co2CGf"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "A fleur de toi",
+      "url": "https://open.spotify.com/track/2mT0YKSgM8ie4Irf0gkuPA"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Ch\u00e2telet les Halles",
-        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
+        "name": "Morgane De Toi (Remastered)",
+        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
       },
       "artists": [
         {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
         }
       ],
-      "duration_ms": 319493,
-      "name": "Et un jour une femme",
-      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+      "duration_ms": 372186,
+      "name": "Morgane de toi",
+      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Morgane De Toi (Remastered)",
-        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
+        "name": "Ch\u00e2telet les Halles",
+        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
       },
       "artists": [
         {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
         }
       ],
-      "duration_ms": 372186,
-      "name": "Morgane de toi",
-      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
+      "duration_ms": 319493,
+      "name": "Et un jour une femme",
+      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Triple Best Of",
-        "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Hymne \u00e0 l'amour",
-      "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Je Suis Malade",
         "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 249826,
       "name": "Je suis malade",
       "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Triple Best Of",
+        "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Hymne \u00e0 l'amour",
+      "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
     },
     {
       "added_at": "2024-10-15 19:50:17",

@@ -4281,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "McDreamy",
+        "url": "https://open.spotify.com/album/5YzPEIQeEkKG48sI0LRCkD"
+      },
+      "artists": [
+        {
+          "name": "Ploy\u00e9",
+          "url": "https://open.spotify.com/artist/0zPfjHRfLOlqXABqNNJyZh"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "McDreamy",
+      "url": "https://open.spotify.com/track/2B4F5wlsQkuIclBSykgyG2"
+    },
+    {
+      "album": {
         "name": "Me & You",
         "url": "https://open.spotify.com/album/2bASjA1zJwXPCs3ytsi3Pk"
       },
@@ -5094,7 +5112,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 190533,
       "name": "Patient",
       "url": "https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl"
@@ -7176,7 +7194,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 200000,
       "name": "TOAST TO ME",
       "url": "https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL"
@@ -7442,7 +7460,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 200571,
       "name": "Velvet Love",
       "url": "https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd"

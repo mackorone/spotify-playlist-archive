@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74179,
+  "num_followers": 74190,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACZ5VmhGXV18kLIBI+anOfd",
+  "snapshot_id": "aPLYgAAAAADrJ/1MbXYCeqyd3xnZ5I/m",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 213831,
-      "name": "Casafantasmas",
-      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
         "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 334378,
       "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
       "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 213831,
+      "name": "Casafantasmas",
+      "url": "https://open.spotify.com/track/2MorQjaQcg4CFdfrN5nCqa"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Vamos Linda",
-      "url": "https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA"
+      "duration_ms": 192546,
+      "name": "Bumerang",
+      "url": "https://open.spotify.com/track/5OAIDWC6OWeJFGS3KZPkLF"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 192546,
-      "name": "Bumerang",
-      "url": "https://open.spotify.com/track/5OAIDWC6OWeJFGS3KZPkLF"
+      "duration_ms": 195186,
+      "name": "Vamos Linda",
+      "url": "https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA"
     },
     {
       "added_at": null,

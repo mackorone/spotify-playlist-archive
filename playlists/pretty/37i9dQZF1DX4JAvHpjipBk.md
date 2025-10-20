@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Tame Impala, Ty Dolla $ign, Joji, Ella Langley, Charlie Puth, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,457,994 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,457,910 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

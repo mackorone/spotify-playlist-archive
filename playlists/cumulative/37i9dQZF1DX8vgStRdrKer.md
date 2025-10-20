@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-634 songs - 2 day 4 hr 13 min
+635 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Chale](https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Chale](https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17) | 2:26 | 2024-03-01 | 2025-05-30 |
 | [Chante](https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Chante](https://open.spotify.com/album/4p7agkJ4UNNfmA9AGpx7y9) | 3:43 | 2025-06-13 | 2025-10-08 |
 | [CHILD OF GRACE \- Remix](https://open.spotify.com/track/0liuWPWjMVgX1CuR5z8GyC) | [Neken Chuwang](https://open.spotify.com/artist/6oeGlZWUfeCsScmxOZUxcA), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [CHILD OF GRACE \(Remix\)](https://open.spotify.com/album/5kOWLzTlq5RzGpYpxWqYhK) | 3:19 | 2025-05-30 | 2025-06-27 |
+| [Chimwemwe II](https://open.spotify.com/track/4szumWSuwHGiJxJhsyyHOb) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Purpose Music](https://open.spotify.com/artist/5SXVbZxTjQy2023xuDJrxL) | [SEVEN](https://open.spotify.com/album/7jW1qIiGHtGxxtkhANbe62) | 3:20 | 2025-10-17 |  |
 | [Cho Cho Cho](https://open.spotify.com/track/27047xlXrFZFRwXz8Z572d) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Cho Cho Cho](https://open.spotify.com/album/575OoNcUW4gB2tMoJYJj08) | 2:53 | 2025-08-29 |  |
 | [church](https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [church](https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV) | 2:52 | 2025-09-12 | 2025-10-03 |
 | [Classic Jesus](https://open.spotify.com/track/523Bo9a3mFwUTxMAhuGeit) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Classic Jesus](https://open.spotify.com/album/25DWj5hOuaAXjPWO5VTXC8) | 2:43 | 2025-06-27 | 2025-08-03 |
@@ -518,7 +519,7 @@
 | [Standing with God](https://open.spotify.com/track/0IjJfbaR6GPnXekNzyU2aC) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Standing with God](https://open.spotify.com/album/0amrBLErPuWAUmHWMcxqXN) | 1:51 | 2025-06-20 | 2025-08-07 |
 | [Strong Name](https://open.spotify.com/track/0D5BHSCWARuKw6Pc15Xdpm) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Strong Name](https://open.spotify.com/album/5dnpgK3bNK6xQVQXDOCfpy) | 2:50 | 2025-06-27 | 2025-07-05 |
 | [Summer](https://open.spotify.com/track/4rAVrsZSIzMYVke32fosAn) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Summer](https://open.spotify.com/album/3XbhN80nOaajwwxOAtZMk8) | 2:43 | 2025-05-09 | 2025-06-20 |
-| [Sunday Prayer](https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sunday Prayer](https://open.spotify.com/album/0NxPkzXdu69FShASmeWzQP) | 3:03 | 2025-10-03 |  |
+| [Sunday Prayer](https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sunday Prayer](https://open.spotify.com/album/0NxPkzXdu69FShASmeWzQP) | 3:03 | 2025-10-03 | 2025-10-20 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 | 2024-05-13 |
 | [Sweet Holyspirit](https://open.spotify.com/track/5Q0HE1PwQYYRX6f718Nmnb) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Sweet Holyspirit](https://open.spotify.com/album/5MmBtXneHAryzZDlmuz4Lc) | 7:42 | 2025-06-06 | 2025-06-13 |
 | [Take all the Praise](https://open.spotify.com/track/3DRMSdtYrBKpyxSXT4u09E) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Take all the Praise](https://open.spotify.com/album/7M4bQLCG8KzBmhiMy9aW70) | 6:31 | 2024-06-29 | 2025-05-16 |

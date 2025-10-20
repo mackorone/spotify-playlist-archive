@@ -4499,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Shorley Wall",
+        "url": "https://open.spotify.com/album/24V0ER59SFtczhNhoqOYMq"
+      },
+      "artists": [
+        {
+          "name": "Ooberman",
+          "url": "https://open.spotify.com/artist/0QEF9qRSTtRUV6leWVPhQt"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295866,
+      "name": "Golden Fall",
+      "url": "https://open.spotify.com/track/1MxBaWWTu4RRh7edgHExVb"
+    },
+    {
+      "album": {
         "name": "The Music I Love Is Gospel",
         "url": "https://open.spotify.com/album/6JGJnMmSSKer4cE5H2Rsbs"
       },

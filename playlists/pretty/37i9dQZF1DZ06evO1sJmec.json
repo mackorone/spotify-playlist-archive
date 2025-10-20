@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2076443,
+  "num_followers": 2076598,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAABQ1pdDuqqpemD8dErj0grS",
+  "snapshot_id": "aPLYgAAAAACQlYVKbnaG16jc6lfCQf0D",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
-        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 387146,
-      "name": "Welcome Home (Sanitarium) - Remastered",
-      "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 345283,
       "name": "Harvester of Sorrow",
       "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Master Of Puppets (Deluxe Box Set / Remastered)",
+        "url": "https://open.spotify.com/album/5rFZcoCvmCaJ1gxTMU4JTm"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 387146,
+      "name": "Welcome Home (Sanitarium) - Remastered",
+      "url": "https://open.spotify.com/track/1FPSkRkDlthbAceSIIWc4C"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+      "duration_ms": 585506,
+      "name": "...And Justice for All",
+      "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 585506,
-      "name": "...And Justice for All",
-      "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 496626,
+      "name": "Disposable Heroes",
+      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 496626,
-      "name": "Disposable Heroes",
-      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
     },
     {
       "added_at": null,
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
       "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
         {
           "name": "Metallica",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 395101,
-      "name": "The Shortest Straw",
-      "url": "https://open.spotify.com/track/4hvo7eCLfhs7dFr0mpk3zi"
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     }
   ],
   "unique_name": "This Is Metallica",

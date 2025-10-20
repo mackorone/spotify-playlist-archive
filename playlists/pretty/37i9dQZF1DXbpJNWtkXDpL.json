@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92274,
+  "num_followers": 92273,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKuKaOn4bXlhFLrx5eUZBFWyMZVb",
+  "snapshot_id": "AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe",
   "tracks": [
     {
       "added_at": "2025-10-03 06:00:06",
@@ -359,26 +359,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MONICA",
-        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
-      },
-      "artists": [
-        {
-          "name": "Doony Graff",
-          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
-        },
-        {
-          "name": "Ezya",
-          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        }
-      ],
-      "duration_ms": 131134,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Sin Voz",
         "url": "https://open.spotify.com/album/6aXRA8awYCWrSNlUIiLidw"
       },
@@ -411,46 +391,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Obsesionado Contigo",
-        "url": "https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV"
-      },
-      "artists": [
-        {
-          "name": "Billy Manhattan",
-          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
-        },
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        }
-      ],
-      "duration_ms": 131608,
-      "name": "Obsesionado Contigo",
-      "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 266055,
-      "name": "Otra salida",
-      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE"
       },
@@ -475,6 +415,66 @@
       "duration_ms": 181176,
       "name": "3 Chakas (Aferrados Al Culo)",
       "url": "https://open.spotify.com/track/6coYvVbQYPGlpNBInFvJXS"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "MONICA",
+        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
+      },
+      "artists": [
+        {
+          "name": "Doony Graff",
+          "url": "https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0"
+        },
+        {
+          "name": "Ezya",
+          "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        }
+      ],
+      "duration_ms": 131134,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Obsesionado Contigo",
+        "url": "https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "duration_ms": 131608,
+      "name": "Obsesionado Contigo",
+      "url": "https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "114",
-        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
-      },
-      "artists": [
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 192162,
-      "name": "114",
-      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Fall\u00e9",
         "url": "https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 135874,
       "name": "Fall\u00e9",
       "url": "https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "114",
+        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 192162,
+      "name": "114",
+      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Hesitated",
-        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
-      },
-      "artists": [
-        {
-          "name": "Jack Rabbit",
-          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Hesitated",
-      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Rinconcito en el Cielo",
         "url": "https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 222855,
       "name": "Rinconcito en el Cielo",
       "url": "https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Hesitated",
+        "url": "https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp"
+      },
+      "artists": [
+        {
+          "name": "Jack Rabbit",
+          "url": "https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Hesitated",
+      "url": "https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Cu\u00e1ndo T\u00fa Me Tocas",
-        "url": "https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M"
-      },
-      "artists": [
-        {
-          "name": "Las Prez",
-          "url": "https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl"
-        },
-        {
-          "name": "Just Roger",
-          "url": "https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Cu\u00e1ndo T\u00fa Me Tocas",
-      "url": "https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Pepper",
         "url": "https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 158250,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Cu\u00e1ndo T\u00fa Me Tocas",
+        "url": "https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M"
+      },
+      "artists": [
+        {
+          "name": "Las Prez",
+          "url": "https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl"
+        },
+        {
+          "name": "Just Roger",
+          "url": "https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Cu\u00e1ndo T\u00fa Me Tocas",
+      "url": "https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m"
     },
     {
       "added_at": "2025-10-03 06:00:06",

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 428471,
+  "num_followers": 428781,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
+        "name": "I Wanna Go - John Summit Remix",
+        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 163478,
+      "name": "I Wanna Go - John Summit Remix",
+      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
+    },
+    {
+      "added_at": "2025-10-17 04:01:02",
+      "album": {
         "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 139285,
       "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/69akic9gR26niltxBY8pFm"
-    },
-    {
-      "added_at": "2025-10-17 04:01:02",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2025-10-17 04:01:02",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+    },
+    {
+      "added_at": "2025-10-17 04:01:02",
+      "album": {
         "name": "Cry Me A River",
         "url": "https://open.spotify.com/album/787wOdRfborzV1kmoOSiou"
       },
@@ -1643,30 +1663,6 @@
       "duration_ms": 181874,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
-    },
-    {
-      "added_at": "2025-10-17 04:01:02",
-      "album": {
-        "name": "Focus (feat. CLOVES) [Alok Remix]",
-        "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Focus (feat. CLOVES) - Alok Remix",
-      "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
     },
     {
       "added_at": "2025-10-17 04:01:02",
@@ -1719,6 +1715,30 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
+        "name": "Focus (feat. CLOVES) [Alok Remix]",
+        "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Focus (feat. CLOVES) - Alok Remix",
+      "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
+    },
+    {
+      "added_at": "2025-10-17 04:01:02",
+      "album": {
         "name": "In My World",
         "url": "https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 161276,
       "name": "One By One (feat. Oaks)",
       "url": "https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA"
-    },
-    {
-      "added_at": "2025-10-17 04:01:02",
-      "album": {
-        "name": "I Wanna Go - John Summit Remix",
-        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 163478,
-      "name": "I Wanna Go - John Summit Remix",
-      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
     },
     {
       "added_at": "2025-10-17 04:01:02",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
-        "name": "Until The Lights Go Out",
-        "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "CARMA",
-          "url": "https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "Until The Lights Go Out",
-      "url": "https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj"
-    },
-    {
-      "added_at": "2025-10-17 04:01:02",
-      "album": {
         "name": "Everlight",
         "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 167485,
       "name": "Everlight",
       "url": "https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34"
+    },
+    {
+      "added_at": "2025-10-17 04:01:02",
+      "album": {
+        "name": "Until The Lights Go Out",
+        "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "CARMA",
+          "url": "https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "Until The Lights Go Out",
+      "url": "https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj"
     },
     {
       "added_at": "2025-10-17 04:01:02",
@@ -2075,30 +2075,6 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
-        "name": "It's Okay",
-        "url": "https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "RYVM",
-          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
-        }
-      ],
-      "duration_ms": 165029,
-      "name": "It's Okay",
-      "url": "https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA"
-    },
-    {
-      "added_at": "2025-10-17 04:01:02",
-      "album": {
         "name": "The End Of Genesys",
         "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
@@ -2139,22 +2115,26 @@
     {
       "added_at": "2025-10-17 04:01:02",
       "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE"
+        "name": "It's Okay",
+        "url": "https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u"
       },
       "artists": [
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "RYVM",
+          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
         }
       ],
-      "duration_ms": 214070,
-      "name": "Culture",
-      "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
+      "duration_ms": 165029,
+      "name": "It's Okay",
+      "url": "https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA"
     },
     {
       "added_at": "2025-10-17 04:01:02",
@@ -2171,6 +2151,26 @@
       "duration_ms": 160888,
       "name": "Destination Calabria",
       "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
+    },
+    {
+      "added_at": "2025-10-17 04:01:02",
+      "album": {
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 214070,
+      "name": "Culture",
+      "url": "https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2"
     },
     {
       "added_at": "2025-10-17 04:01:02",

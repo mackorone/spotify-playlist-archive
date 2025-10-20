@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: hongjoin
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,618 likes - 135 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,622 likes - 135 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

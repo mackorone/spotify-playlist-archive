@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10978,
+  "num_followers": 10981,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACuKa/xQ09nO8zerKfNXtwl",
+  "snapshot_id": "aPLYgAAAAACatqmi/+tC0KGODSSsH4a3",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 295706,
       "name": "Meditation",
       "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "[extended] BLISS",
-        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Noah",
-      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[extended] BLISS",
         "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
@@ -424,25 +408,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Human Compassion",
-      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Tree of Light - A Call to Arms",
-      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
+      "duration_ms": 167880,
+      "name": "Noah",
+      "url": "https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq"
     },
     {
       "added_at": null,
@@ -459,6 +427,22 @@
       "duration_ms": 221293,
       "name": "Costa da Caparica",
       "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Tree of Light - A Call to Arms",
+      "url": "https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ"
     },
     {
       "added_at": null,
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 170346,
-      "name": "La Vernatelle",
-      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
+      "duration_ms": 202105,
+      "name": "Human Compassion",
+      "url": "https://open.spotify.com/track/61XRtaSvEcC52h4RAYP4hx"
     },
     {
       "added_at": null,
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 197573,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
+      "duration_ms": 170346,
+      "name": "La Vernatelle",
+      "url": "https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1"
     },
     {
       "added_at": null,
@@ -575,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meditation 432",
-        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 274458,
-      "name": "SAMADHI",
-      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -607,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le R\u00eave d'une note",
-        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -616,9 +584,25 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 1354080,
-      "name": "Meditation 22",
-      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
+      "duration_ms": 274458,
+      "name": "SAMADHI",
+      "url": "https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "[extended] BLISS",
+        "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 193133,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le R\u00eave d'une note",
+        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 1354080,
+      "name": "Meditation 22",
+      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
     },
     {
       "added_at": null,

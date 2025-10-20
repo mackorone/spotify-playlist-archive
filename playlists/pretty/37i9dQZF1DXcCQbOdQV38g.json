@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60159,
+  "num_followers": 60161,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Stiekem ft. Goldband",
         "url": "https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 203437,
       "name": "Stiekem",
       "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Aan het strand van Porto Rico",
-        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 195249,
-      "name": "Aan het strand van Porto Rico",
-      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Zomernacht In Griekenland",
         "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 167002,
       "name": "Zomernacht In Griekenland",
       "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Aan het strand van Porto Rico",
+        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 195249,
+      "name": "Aan het strand van Porto Rico",
+      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Un Chance",
-        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
-      },
-      "artists": [
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        }
-      ],
-      "duration_ms": 172385,
-      "name": "Un Chance",
-      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 196632,
       "name": "Sexy Lady",
       "url": "https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Un Chance",
+        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
+      },
+      "artists": [
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "duration_ms": 172385,
+      "name": "Un Chance",
+      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
+        "name": "Eiland",
+        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
       },
       "artists": [
         {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         }
       ],
-      "duration_ms": 185261,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
+      "duration_ms": 126239,
+      "name": "Eiland",
+      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Eiland",
-        "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
       },
       "artists": [
         {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
         }
       ],
-      "duration_ms": 126239,
-      "name": "Eiland",
-      "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
+      "duration_ms": 185261,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
     },
     {
       "added_at": "2025-10-16 22:00:34",

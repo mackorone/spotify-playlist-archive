@@ -8742,7 +8742,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 150442,
       "name": "Desocupa",
       "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
@@ -9766,7 +9766,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -11760,6 +11760,28 @@
       "duration_ms": 212184,
       "name": "Eu Te Amo Tanto Iguinho",
       "url": "https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo"
+    },
+    {
+      "album": {
+        "name": "Eu Te Seguro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148561,
+      "name": "Eu Te Seguro - Ao Vivo",
+      "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
     },
     {
       "album": {
@@ -33698,7 +33720,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 136367,
       "name": "Vacilona - Ao Vivo",
       "url": "https://open.spotify.com/track/1butVubqmo2gXoAgZiM7hY"

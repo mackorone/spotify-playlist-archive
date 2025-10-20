@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-94 songs - 7 hr 11 min
+95 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Make It Real](https://open.spotify.com/track/1yT2euhsWazs0WEnrqjXk9) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 3:49 | 2023-04-27 | 2023-04-29 |
 | [Maybe I Maybe You](https://open.spotify.com/track/1W95JRlpnOqFdEhPm3ja1h) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/6A7yMNb49roe3ENbpKDu4j) | 3:30 | 2023-12-13 |  |
 | [Maybe I Maybe You](https://open.spotify.com/track/6uQtaWpr6Z1gjFDfsZKXjl) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/2O3fcesMwLORDJZ8usRZuJ) | 3:30 | 2022-09-17 | 2023-12-14 |
-| [Mind Like A Tree](https://open.spotify.com/track/7MFsQkHjde91vjODjjuxnm) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Mind Like A Tree](https://open.spotify.com/album/37KMn1VVBiYrybluDL8EBw) | 5:34 | 2025-09-20 |  |
+| [Mind Like A Tree](https://open.spotify.com/track/7MFsQkHjde91vjODjjuxnm) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Mind Like A Tree](https://open.spotify.com/album/37KMn1VVBiYrybluDL8EBw) | 5:34 | 2025-09-20 | 2025-10-20 |
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2022-09-17 |  |
 | [No Pain No Gain](https://open.spotify.com/track/1sVtCOmdRKyXQZmoS5psN7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 3:54 | 2022-09-17 | 2024-06-16 |
 | [Out Go The Lights \- Japan Bonus Track](https://open.spotify.com/track/6xzsakuDEPnxppCtArUP4O) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Out Go The Lights \(Japan Bonus Track\)](https://open.spotify.com/album/6M7HhWsikfG3YKqrS4pB4e) | 3:39 | 2022-10-07 | 2023-01-01 |
@@ -102,5 +102,6 @@
 | [Wind Of Change \- On Stage](https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Wind Of Change \(On Stage\)](https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP) | 5:05 | 2025-10-05 |  |
 | [You & I](https://open.spotify.com/track/659lSEpj2x1hRdpLCSO5Wk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [You & I](https://open.spotify.com/album/3C7MMV9RWemgXyu2XAil6u) | 6:15 | 2025-09-28 |  |
 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 | 2022-09-17 | 2025-09-28 |
+| [You Give Me All I Need](https://open.spotify.com/track/4t2dUobtoXRlqxz2pIxp71) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:38 | 2025-10-20 |  |
 
 \*This playlist was first scraped on 2022-09-18. Prior content cannot be recovered.

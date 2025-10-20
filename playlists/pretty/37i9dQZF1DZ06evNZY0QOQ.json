@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23251,
+  "num_followers": 23253,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACZ2YH3+3cJEPrGZTBwDPHd",
+  "snapshot_id": "aPLYgAAAAAB/fzdN3M4hy0tNhK61DfEz",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Boy Blaq Re-Up",
+        "url": "https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "BOJ",
+          "url": "https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 251204,
+      "name": "Good Boy (feat. BOJ and Ckay)",
+      "url": "https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -475,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 122346,
+      "name": "Show My Side (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -499,26 +543,6 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 122346,
-      "name": "Show My Side (feat. Amaarae)",
-      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
     },
     {
       "added_at": null,
@@ -555,30 +579,6 @@
       "duration_ms": 172640,
       "name": "EGWU EJI",
       "url": "https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy Blaq Re-Up",
-        "url": "https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "BOJ",
-          "url": "https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 251204,
-      "name": "Good Boy (feat. BOJ and Ckay)",
-      "url": "https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-187 songs - 12 hr 37 min
+188 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ayikh’ Indaw’ Enjengekhaya](https://open.spotify.com/track/4gjiWULubKgWGUWWeFIOGj) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ikhaya Nothando](https://open.spotify.com/album/2FROh0s0wCaWvJ4yM2Ym3V) | 3:34 | 2022-10-04 | 2022-10-13 |
 | [Bamnqobile](https://open.spotify.com/track/3FTyDZ9W072Lqq31ZM8zys) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezinkulu](https://open.spotify.com/album/5w7fCN6djX1UXL1rTG9Rnh) | 4:51 | 2024-09-09 |  |
 | [Be Still My Child](https://open.spotify.com/track/3Olbr8WEJmtPmnreL3ZrJg) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Lullaby](https://open.spotify.com/album/0ZQc8ILggIjQY1y3dBUD76) | 3:03 | 2025-01-30 |  |
-| [Because I Love You](https://open.spotify.com/track/1YaRdbGk7YC5xKxtdkA5eF) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 4:06 | 2024-04-12 |  |
+| [Because I Love You](https://open.spotify.com/track/1YaRdbGk7YC5xKxtdkA5eF) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 4:06 | 2024-04-12 | 2025-10-20 |
 | [Because I Love You \(Wangithanda\)](https://open.spotify.com/track/2chiUXbH3MdDuX8zJXhLf7) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 4:42 | 2021-12-28 | 2023-06-21 |
 | [Bhambororo!](https://open.spotify.com/track/3AE8rjopEuiZqPXgJyg4t8) | [Andreas Vollenweider](https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp), [Joseph Shabalala](https://open.spotify.com/artist/6J5hjzVL89IrrgVYE50AmK), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Walter Keiser](https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX) | [Kryptos](https://open.spotify.com/album/2fuUjzLESnRRBubXfSiV4o) | 1:42 | 2022-10-12 | 2025-10-12 |
 | [Biko \(feat\. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema\)](https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Alex Brown](https://open.spotify.com/artist/1BG2BiAu02wXrhuMkEMxDM), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:08 | 2022-08-07 |  |
@@ -101,6 +101,7 @@
 | [Mbube \(Wimoweh\)](https://open.spotify.com/track/42puzIUfTXWBx5CBGIY07j) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:01 | 2022-10-01 | 2022-10-28 |
 | [Mhlangidinwa Ngikhathele](https://open.spotify.com/track/3rz3aI4jgUIPhM0Mz1FGr1) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Thandani](https://open.spotify.com/album/5CpTO5gyFU1s8NjWBdUIX1) | 4:01 | 2025-04-27 | 2025-05-10 |
 | [Mining Song](https://open.spotify.com/track/3daDQZZ0pbqL2UBhirffJs) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [World Music](https://open.spotify.com/album/1RZzCdUCiKDMwJFTl3WmSH) | 5:17 | 2021-12-28 | 2023-02-23 |
+| [Music Knows No Boundaries](https://open.spotify.com/track/0wE4Y07lPel0vWyU2puQKL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN) | 3:03 | 2025-10-20 |  |
 | [Music Knows No Boundaries](https://open.spotify.com/track/2ICJfwuwjtePkwgUE4tliT) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF) | 3:03 | 2022-10-28 | 2025-10-17 |
 | [Music Knows No Boundaries](https://open.spotify.com/track/2Qls7UNIdeX6Q8NsVjdRkW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/01mREYanm3BcYGkUlW8CeX) | 3:03 | 2021-12-28 | 2022-10-06 |
 | [Music Knows No Boundaries](https://open.spotify.com/track/3hNFU3wSvNgSENBnsfmp7u) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/762kiGdkfn4IAxwVrvs5Cw) | 3:03 | 2022-10-05 | 2022-10-21 |

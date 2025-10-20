@@ -18357,6 +18357,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
+    },
+    {
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/6ZGBCwQYjflgFEh42TFru0"
       },
@@ -28386,7 +28404,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 211500,
       "name": "R\u00f8j\u00f8 Latid\u00f8",
       "url": "https://open.spotify.com/track/7eAIySgz1OsYFZGPRvLCLj"
@@ -35512,7 +35530,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 230852,
       "name": "Tres",
       "url": "https://open.spotify.com/track/2xGt7oyNvPCt9I2XuhB33n"
@@ -35642,6 +35660,24 @@
       "duration_ms": 264000,
       "name": "Trying To Get That Sound",
       "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4frack",
+        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
+      },
+      "artists": [
+        {
+          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215375,
+      "name": "Tr\u00e4frack",
+      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
     },
     {
       "album": {

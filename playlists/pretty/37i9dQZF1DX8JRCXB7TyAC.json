@@ -1,6 +1,6 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 50036,
+  "num_followers": 50066,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,34 @@
     {
       "added_at": "2025-10-17 10:09:46",
       "album": {
+        "name": "One Man Army (feat. Prithviraj Pilania)",
+        "url": "https://open.spotify.com/album/0JHg5HFzkC2FCBqRZRJ9LH"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        },
+        {
+          "name": "Kaash Beniwal",
+          "url": "https://open.spotify.com/artist/5zZzEHPtvEMHec361gyby2"
+        },
+        {
+          "name": "Prithviraj Pilania",
+          "url": "https://open.spotify.com/artist/2Sw4dNokvWTGmDnrKL019k"
+        }
+      ],
+      "duration_ms": 167020,
+      "name": "One Man Army (feat. Prithviraj Pilania)",
+      "url": "https://open.spotify.com/track/12RK89LfoWt2i6hgW9Zjjf"
+    },
+    {
+      "added_at": "2025-10-17 10:09:46",
+      "album": {
         "name": "Jat Supremacy",
         "url": "https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl"
       },
@@ -707,34 +735,6 @@
       "duration_ms": 162787,
       "name": "Pistal Te Mehnga Lehnga",
       "url": "https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB"
-    },
-    {
-      "added_at": "2025-10-17 10:09:46",
-      "album": {
-        "name": "Gunde Te Pyaar",
-        "url": "https://open.spotify.com/album/2M6uGncIcmy5hpjlLqoQos"
-      },
-      "artists": [
-        {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Manisha Sharma",
-          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
-        },
-        {
-          "name": "Sweta Chauhan",
-          "url": "https://open.spotify.com/artist/4TsNgxbxmdUsKIFtqvzRPa"
-        },
-        {
-          "name": "Zameer Siddiqui",
-          "url": "https://open.spotify.com/artist/0MOHjZdv3gfJbXu4Lt7NL0"
-        }
-      ],
-      "duration_ms": 208909,
-      "name": "Gunde Te Pyaar",
-      "url": "https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy"
     },
     {
       "added_at": "2025-10-17 10:09:46",
@@ -843,22 +843,30 @@
     {
       "added_at": "2025-10-17 10:09:46",
       "album": {
-        "name": "Albedi",
-        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
+        "name": "SYSTEM PAAD",
+        "url": "https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z"
       },
       "artists": [
         {
-          "name": "Sangam Vigyaanik",
-          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+          "name": "Virat",
+          "url": "https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE"
         },
         {
-          "name": "Elvish Yadav",
-          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Ashu Twinkle",
+          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
+        },
+        {
+          "name": "Vaishali Chaudhary",
+          "url": "https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Albedi",
-      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
+      "duration_ms": 155306,
+      "name": "SYSTEM PAAD",
+      "url": "https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM"
     },
     {
       "added_at": "2025-10-17 10:09:46",
@@ -875,6 +883,26 @@
       "duration_ms": 181194,
       "name": "Dole Laadle",
       "url": "https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS"
+    },
+    {
+      "added_at": "2025-10-17 10:09:46",
+      "album": {
+        "name": "Albedi",
+        "url": "https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H"
+      },
+      "artists": [
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        },
+        {
+          "name": "Elvish Yadav",
+          "url": "https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Albedi",
+      "url": "https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ"
     },
     {
       "added_at": "2025-10-17 10:09:46",
@@ -939,30 +967,22 @@
     {
       "added_at": "2025-10-17 10:09:46",
       "album": {
-        "name": "SYSTEM PAAD",
-        "url": "https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z"
+        "name": "System",
+        "url": "https://open.spotify.com/album/4nMFvVARjlHbvnT3v4hxvG"
       },
       "artists": [
         {
-          "name": "Virat",
-          "url": "https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE"
+          "name": "Surender Romio",
+          "url": "https://open.spotify.com/artist/2HvRwVX1VLbmdhXy55LDbO"
         },
         {
-          "name": "Masoom Sharma",
-          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
-        },
-        {
-          "name": "Ashu Twinkle",
-          "url": "https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob"
-        },
-        {
-          "name": "Vaishali Chaudhary",
-          "url": "https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq"
+          "name": "Manisha Sharma",
+          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
         }
       ],
-      "duration_ms": 155306,
-      "name": "SYSTEM PAAD",
-      "url": "https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM"
+      "duration_ms": 151351,
+      "name": "System",
+      "url": "https://open.spotify.com/track/2YubJQ3VbHtwSvSed7837i"
     },
     {
       "added_at": "2025-10-17 10:09:46",
@@ -995,22 +1015,18 @@
     {
       "added_at": "2025-10-17 10:09:46",
       "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/4nMFvVARjlHbvnT3v4hxvG"
+        "name": "Dabke Na Chale",
+        "url": "https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3"
       },
       "artists": [
         {
-          "name": "Surender Romio",
-          "url": "https://open.spotify.com/artist/2HvRwVX1VLbmdhXy55LDbO"
-        },
-        {
-          "name": "Manisha Sharma",
-          "url": "https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf"
+          "name": "Raj Mawar",
+          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
         }
       ],
-      "duration_ms": 151351,
-      "name": "System",
-      "url": "https://open.spotify.com/track/2YubJQ3VbHtwSvSed7837i"
+      "duration_ms": 134399,
+      "name": "Dabke Na Chale",
+      "url": "https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3"
     },
     {
       "added_at": "2025-10-17 10:09:46",
@@ -1027,22 +1043,6 @@
       "duration_ms": 166285,
       "name": "Notorious Desi",
       "url": "https://open.spotify.com/track/7yCQyuIqzHtXBsIY0OiNti"
-    },
-    {
-      "added_at": "2025-10-17 10:09:46",
-      "album": {
-        "name": "Dabke Na Chale",
-        "url": "https://open.spotify.com/album/2iQNuAG6QWNQcCcJdxFzL3"
-      },
-      "artists": [
-        {
-          "name": "Raj Mawar",
-          "url": "https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf"
-        }
-      ],
-      "duration_ms": 134399,
-      "name": "Dabke Na Chale",
-      "url": "https://open.spotify.com/track/4VVqoi4F2GZg5EBnOGUAc3"
     }
   ],
   "unique_name": "Haryanvi Workout",

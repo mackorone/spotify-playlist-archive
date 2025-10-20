@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42250,
+  "num_followers": 42251,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAAPFBDs4pfqEI9l98IJUaDV",
+  "snapshot_id": "aPLYgAAAAABhGAylIa6BKQJD+UkPzMJu",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Fast (WSWF Original Vol.3)",
-        "url": "https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Shake It Fast (Prod. THE HUB)",
-      "url": "https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORINIAN",
         "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 222101,
       "name": "I Can't Stop Me",
       "url": "https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake It Fast (WSWF Original Vol.3)",
+        "url": "https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Shake It Fast (Prod. THE HUB)",
+      "url": "https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All She Wanna Do",
-        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 195715,
-      "name": "All She Wanna Do (with Saweetie)",
-      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immaculate",
         "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 154400,
       "name": "Immaculate",
       "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Girl (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 147386,
-      "name": "That Girl (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It For The Bay",
         "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Girl (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 147386,
+      "name": "That Girl (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP"
     },
     {
       "added_at": null,

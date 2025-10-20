@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 73474,
+  "num_followers": 73489,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "KONTRAST",
-        "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
+        "name": "Wkr\u0119ceni nie ufaj mi",
+        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
       },
       "artists": [
         {
-          "name": "Sobel",
-          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
-        },
-        {
-          "name": "Piotrek Lewandowski",
-          "url": "https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg"
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
         }
       ],
-      "duration_ms": 185714,
-      "name": "Ka\u017cdego Dnia",
-      "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
+      "duration_ms": 178725,
+      "name": "Wkr\u0119ceni nie ufaj mi",
+      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -943,18 +939,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Wkr\u0119ceni nie ufaj mi",
-        "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
+        "name": "KONTRAST",
+        "url": "https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry"
       },
       "artists": [
         {
-          "name": "Igor Herbut",
-          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "Piotrek Lewandowski",
+          "url": "https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg"
         }
       ],
-      "duration_ms": 178725,
-      "name": "Wkr\u0119ceni nie ufaj mi",
-      "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
+      "duration_ms": 185714,
+      "name": "Ka\u017cdego Dnia",
+      "url": "https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Z calych sil",
-        "url": "https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj"
-      },
-      "artists": [
-        {
-          "name": "Grzegorz Hy\u017cy",
-          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
-        },
-        {
-          "name": "Tabb",
-          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Na Chwile",
-      "url": "https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Wielki Odlot 2 - Najlepsze 80-te",
         "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 369200,
       "name": "Jedwab",
       "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Z calych sil",
+        "url": "https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj"
+      },
+      "artists": [
+        {
+          "name": "Grzegorz Hy\u017cy",
+          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Na Chwile",
+      "url": "https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Spis Rzeczy Ulubionych",
-        "url": "https://open.spotify.com/album/2h7ug91di7NKRe2gENYET7"
+        "name": "Tylko Mnie Kochaj",
+        "url": "https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR"
       },
       "artists": [
         {
-          "name": "Andrzej Piaseczny",
-          "url": "https://open.spotify.com/artist/3sYr49vFJ6BPZnV5Ky1PLH"
+          "name": "Goya",
+          "url": "https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB"
         }
       ],
-      "duration_ms": 286066,
-      "name": "Chodz, przytul, przebacz",
-      "url": "https://open.spotify.com/track/5eYQ4VtpaITG5fMmLBPYZi"
+      "duration_ms": 169813,
+      "name": "Tylko mnie kochaj",
+      "url": "https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk"
     },
     {
       "added_at": "2025-10-16 09:34:51",

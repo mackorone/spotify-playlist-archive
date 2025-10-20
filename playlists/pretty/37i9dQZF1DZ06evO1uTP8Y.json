@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 8326,
+  "num_followers": 8347,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAC/9EGuJkoNOOeRRiPB0lqA",
+  "snapshot_id": "aPLYgAAAAABsPOBtRNGhAy8fUwA9aMXq",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHOSDAT",
-        "url": "https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Fall In Love (feat. Odeal)",
-      "url": "https://open.spotify.com/track/5JV1b92v3C6Css76envcRx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WONDERLOVE +",
         "url": "https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 206222,
       "name": "i'm ready (feat. Odeal)",
       "url": "https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHOSDAT",
+        "url": "https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Fall In Love (feat. Odeal)",
+      "url": "https://open.spotify.com/track/5JV1b92v3C6Css76envcRx"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OVMBR: Roses",
+        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 161211,
+      "name": "24/48",
+      "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Life (Deluxe)",
         "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 225760,
       "name": "Nothing On You",
       "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OVMBR: Roses",
-        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 161211,
-      "name": "24/48",
-      "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kainji Dam",
+        "url": "https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 174010,
+      "name": "Kainji Dam",
+      "url": "https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Out the Blue",
         "url": "https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 209538,
       "name": "Azure",
       "url": "https://open.spotify.com/track/4M2LTxfMSZnyT51TsuTTF9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kainji Dam",
-        "url": "https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 174010,
-      "name": "Kainji Dam",
-      "url": "https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3"
     },
     {
       "added_at": null,

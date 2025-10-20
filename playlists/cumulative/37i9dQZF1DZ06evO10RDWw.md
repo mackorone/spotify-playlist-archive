@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 25 min
+47 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Deep Down](https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:25 | 2022-10-25 |  |
 | [Finding Home](https://open.spotify.com/track/6rOx8Ymk3bv7k7DBcxqjwp) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:09 | 2022-10-26 |  |
 | [Follow And Feel](https://open.spotify.com/track/66yzHUHNo6Rg1wbpFjJ1MH) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:19 | 2022-10-25 | 2022-10-27 |
-| [Hometown Feeling \- Live](https://open.spotify.com/track/7v9xCQpvXLvwPGBMwwxEFB) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 0:38 | 2024-07-21 |  |
+| [Hometown Feeling \- Live](https://open.spotify.com/track/24F7IKeSQuKr47xr5BsI1F) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 0:38 | 2025-10-20 |  |
+| [Hometown Feeling \- Live](https://open.spotify.com/track/7v9xCQpvXLvwPGBMwwxEFB) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 0:38 | 2024-07-21 | 2025-10-20 |
 | [I Can Tell There Was an Accident Here Earlier](https://open.spotify.com/track/5llAcLZpMCl8KmrcVUrE8d) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [I Can Tell There Was an Accident Here Earlier](https://open.spotify.com/album/1Q2ViPnZVbM8Seu1tkebNT) | 3:36 | 2022-10-25 |  |
 | [I Keep Secrets Safe](https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:54 | 2022-10-25 |  |
 | [I Wanna Hear Another Fast Song](https://open.spotify.com/track/0j5u3UNJIH1ZRouEyWO1TE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w) | 2:44 | 2022-10-25 |  |
@@ -34,7 +35,8 @@
 | [Nothing Is What It Seems](https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 4:25 | 2023-08-18 |  |
 | [On My Own](https://open.spotify.com/track/4V6qDAzkekP88eUeKKIeoI) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:17 | 2022-10-25 | 2023-05-01 |
 | [Only 20 Once \- Live](https://open.spotify.com/track/6xNsV8qqXn50yuBRysKn8q) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 1:41 | 2024-07-21 | 2025-10-19 |
-| [Pitiful \- Live](https://open.spotify.com/track/6ngQC7dBOI6WcFpnYWYB3V) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:17 | 2024-07-25 |  |
+| [Pitiful \- Live](https://open.spotify.com/track/5ebNBO5QrgmQLczRlp1rly) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:17 | 2025-10-20 |  |
+| [Pitiful \- Live](https://open.spotify.com/track/6ngQC7dBOI6WcFpnYWYB3V) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:17 | 2024-07-25 | 2025-10-20 |
 | [Pitiful \- Live](https://open.spotify.com/track/6vnDvxCPBSYVQvojqQGW9j) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Seven / Pitiful \(Live\)](https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu) | 3:17 | 2024-05-12 | 2024-07-25 |
 | [Racing Toward a Red Light](https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:54 | 2023-05-13 |  |
 | [Racing Towards A Red Light \- Live](https://open.spotify.com/track/3lid7nULU9rD9fyIJVzXGr) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:10 | 2024-07-22 |  |

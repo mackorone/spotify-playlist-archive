@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-777 songs - 1 day 13 hr 19 min
+778 songs - 1 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2023-03-31 | 2024-05-05 |
 | [Along](https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Along](https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1) | 2:45 | 2024-07-09 | 2025-06-08 |
 | [Alpenglow](https://open.spotify.com/track/6grm86LpYKOkPaAMLrKCiy) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Alpenglow](https://open.spotify.com/album/7x0m0uaxWgtrWQlfUhem8v) | 2:42 | 2025-07-17 |  |
+| [Alpha Fade](https://open.spotify.com/track/4SmBBEcWAQ29cHz7sf0SzE) | [Quantum Veil](https://open.spotify.com/artist/0hc3Z99zOxFF4uF8JUPit4) | [Alpha Fade](https://open.spotify.com/album/4ypy5JDtcC0jWeLJbYg9Gs) | 2:38 | 2025-10-08 |  |
 | [Alpha Lupi](https://open.spotify.com/track/1cL02nUAGcbSZFE8rJuK4I) | [Lake Melville](https://open.spotify.com/artist/2qZD20bVk0hgogpaDPbxmG) | [Alpha Lupi](https://open.spotify.com/album/7JwcCMKHFkPslad9qn6yy1) | 3:16 | 2024-05-04 | 2025-07-18 |
 | [Alterations](https://open.spotify.com/track/4IHpo5zDsNoT33clCtL24b) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Alterations](https://open.spotify.com/album/6CBggUkHr6HPMDMYvp0Xqm) | 2:31 | 2023-03-31 | 2024-03-21 |
 | [Alternate](https://open.spotify.com/track/2MhNUKofEWVAGA3CdiL6i7) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Alternate](https://open.spotify.com/album/0gItWf24uY8fPX9aGss4kT) | 3:15 | 2025-06-03 |  |
@@ -224,7 +225,7 @@
 | [Eloquence](https://open.spotify.com/track/0ORCs88ABmuctkBdkAWRwF) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Eloquence](https://open.spotify.com/album/7nhKY56BddXIBgih1EJrfy) | 2:21 | 2023-03-31 | 2024-02-09 |
 | [Elphine](https://open.spotify.com/track/7q0inA86Z78g6BIY06xwoz) | [O.A.S.](https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt) | [Elphine](https://open.spotify.com/album/4jl6RTcFr236YEhqs4s7EH) | 2:22 | 2023-03-31 | 2024-02-09 |
 | [Ember](https://open.spotify.com/track/6WnTT10Nv3U2rgNwQND5xD) | [Moon Whisperer](https://open.spotify.com/artist/774tcsKJmwutlxTuJ3buO4) | [Ember](https://open.spotify.com/album/3X4qsb6axSILhKVYUcp30F) | 2:21 | 2024-12-17 |  |
-| [Ember Bloom](https://open.spotify.com/track/5XUlEvDmDgZk30q2siHADj) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Ember Bloom](https://open.spotify.com/album/1QOZ1lLqmS4BTjKfoGwkz8) | 2:33 | 2025-03-19 |  |
+| [Ember Bloom](https://open.spotify.com/track/5XUlEvDmDgZk30q2siHADj) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Ember Bloom](https://open.spotify.com/album/1QOZ1lLqmS4BTjKfoGwkz8) | 2:33 | 2025-03-19 | 2025-10-20 |
 | [Embodied Awareness](https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Embodied Awareness](https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG) | 3:15 | 2024-03-06 | 2025-06-08 |
 | [Embrace](https://open.spotify.com/track/3RYIdSIZeNZMqCZznqOTO7) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Embrace](https://open.spotify.com/album/02JGBZ587xZoEGRkttOfM4) | 2:37 | 2024-07-09 | 2024-07-16 |
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2023-03-31 | 2024-02-09 |

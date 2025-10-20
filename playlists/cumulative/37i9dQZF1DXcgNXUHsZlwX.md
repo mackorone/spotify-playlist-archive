@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍂
 
-512 songs - 1 day 6 hr 27 min
+513 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2021-06-23 | 2022-01-08 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 |  |
 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 | 2021-12-17 | 2022-07-22 |
-| [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 |  |
+| [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 | 2025-10-20 |
 | [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 | 2024-03-08 | 2025-02-08 |
 | [Km Zéro](https://open.spotify.com/track/5i5Ukdzaq3UoXXhuinnWAi) | [Monsieur Raph](https://open.spotify.com/artist/3tCGkAQa2Q8ukkefsgrrYw) | [Le sens de la dérive](https://open.spotify.com/album/7mZATbXPGxVWhXROjmvIa6) | 3:25 | 2021-01-03\* | 2022-07-23 |
 | [L'alinéa](https://open.spotify.com/track/4rhW9OC2pFIqF5KRAWC10c) | [Émile Bourgault](https://open.spotify.com/artist/2TKKxcQSypO7QQK0A0a2Fi) | [L'alinéa](https://open.spotify.com/album/29dDpTCBFs9pHzCMT39VcU) | 4:36 | 2023-11-10 | 2025-04-11 |
@@ -504,6 +504,7 @@
 | [Vis sans regret](https://open.spotify.com/track/6CCnuRpzllSnEodJwJMCoN) | [Post Script](https://open.spotify.com/artist/2va0ED9WG7oEPT7ybPZP5i) | [Vis sans regret](https://open.spotify.com/album/2M4IwXtuXpXUqlMbEEM2dY) | 3:24 | 2021-01-15 | 2021-09-28 |
 | [Vive l'Amérique](https://open.spotify.com/track/4rpWFuyEOVCjKp655XI1Fw) | [Anaïs Constantin](https://open.spotify.com/artist/16rv4gKc1NU7DDlS9jYjKQ) | [Vive l'Amérique](https://open.spotify.com/album/5eJHsFJwhHlenTpZzlReww) | 3:34 | 2021-01-03\* | 2021-10-28 |
 | [Vol plané](https://open.spotify.com/track/1SaSWoU2n74qoGG4TXDWiz) | [Caterino](https://open.spotify.com/artist/3s0418td2b6GCfBhkJXTw5) | [Brume](https://open.spotify.com/album/2l58fr2QHImdt3Irw6UdlV) | 2:59 | 2021-01-16 | 2022-07-23 |
+| [Walk Away Wishing](https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH) | [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [Walk Away Wishing](https://open.spotify.com/album/2WcgHoUuXM6uQ7R6MHVXQS) | 2:45 | 2025-10-17 |  |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 3:42 | 2024-04-05 | 2025-01-07 |
 | [With You \(version française\)](https://open.spotify.com/track/4xdklKIbNKPkVuwKTiNsX0) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [With You \(version française\)](https://open.spotify.com/album/5Mh7kHXawmEifsim9jrn1A) | 3:18 | 2021-02-22 | 2021-05-27 |
 | [Wolves Don't Live by the Rules \(feat Joe Grass\)](https://open.spotify.com/track/79r3EaZ8M7kEGPy7Tc1KxA) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 2:38 | 2021-10-03 | 2025-03-20 |

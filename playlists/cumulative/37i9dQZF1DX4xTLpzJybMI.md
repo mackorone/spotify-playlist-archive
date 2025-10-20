@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4xTLpzJybMI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4xTLpzJybMI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4xTLpzJybMI)
 
-### [Seoul Sistas: Rap Queens](https://open.spotify.com/playlist/37i9dQZF1DX4xTLpzJybMI)
+### [SEOUL SISTAS: Rap Queens](https://open.spotify.com/playlist/37i9dQZF1DX4xTLpzJybMI)
 
 > Dive into the sounds of Korea’s bold and brilliant female rappers!
 

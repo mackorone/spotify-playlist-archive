@@ -2407,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "<Can You Entertain?>",
+        "url": "https://open.spotify.com/album/0at85Wc38V1VWs8z4GTJJr"
+      },
+      "artists": [
+        {
+          "name": "Kim Lip",
+          "url": "https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Can You Entertain?",
+      "url": "https://open.spotify.com/track/3VnY6q0HwCbRqXBCyzCJ9O"
+    },
+    {
+      "album": {
         "name": "Can't Control Myself",
         "url": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9"
       },
@@ -6194,7 +6212,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"

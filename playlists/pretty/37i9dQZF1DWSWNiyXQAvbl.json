@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 510786,
+  "num_followers": 510828,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo"
-      },
-      "artists": [
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Kiss You All Over",
-      "url": "https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Dancing In The Moonlight",
         "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 178045,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Kiss You All Over",
+      "url": "https://open.spotify.com/track/3FGcQkWQlkeB82RdZwlw8V"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "You Don't Bring Me Flowers",
+        "url": "https://open.spotify.com/album/765A5UZUav21YPHvo1ZBCB"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Forever In Blue Jeans",
+      "url": "https://open.spotify.com/track/1HNVGw472sKr3TeiECwmIH"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "The Very Best Of The Staple Singers",
         "url": "https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 193040,
       "name": "Afternoon Delight",
       "url": "https://open.spotify.com/track/5Yq58BC5k14EVUJ63cmg8g"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "You Don't Bring Me Flowers",
-        "url": "https://open.spotify.com/album/765A5UZUav21YPHvo1ZBCB"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Forever In Blue Jeans",
-      "url": "https://open.spotify.com/track/1HNVGw472sKr3TeiECwmIH"
     },
     {
       "added_at": "2024-06-03 14:45:23",

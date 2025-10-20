@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,090 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,096 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

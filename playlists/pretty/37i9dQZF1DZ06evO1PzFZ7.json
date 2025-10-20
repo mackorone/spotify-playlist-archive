@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152591,
+  "num_followers": 152588,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAD2D4P/LVPP60CzGHv5PCtT",
+  "snapshot_id": "aPLYgAAAAADuWwVr1tUzVa9swMJOYerJ",
   "tracks": [
     {
       "added_at": null,
@@ -818,15 +818,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 193773,
-      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
+      "duration_ms": 179226,
+      "name": "Solamente Una Vez",
+      "url": "https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch"
     },
     {
       "added_at": null,
@@ -894,11 +890,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Solamente Una Vez",
-      "url": "https://open.spotify.com/track/1kRvQGxP8fjgRgxOAMiHch"
+      "duration_ms": 193773,
+      "name": "Quiz\u00e1s Quiz\u00e1s Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2fHuEEJMbtXsw5BitInQzA"
     },
     {
       "added_at": null,
@@ -919,30 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Los Grandes Compositores",
-        "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
+        "name": "El Jinete",
+        "url": "https://open.spotify.com/album/1OdaWoKbUOD1HTf85M7lfF"
       },
       "artists": [
         {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 261133,
-      "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, \u00c1ngela Aguilar & Leonardo Aguilar)",
-      "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
+      "duration_ms": 192146,
+      "name": "El Jinete",
+      "url": "https://open.spotify.com/track/190VKP3lFhbQA2HvGQxosC"
     }
   ],
   "unique_name": "This Is \u00c1ngela Aguilar",

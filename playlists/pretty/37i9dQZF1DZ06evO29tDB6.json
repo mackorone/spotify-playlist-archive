@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143101,
+  "num_followers": 143117,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAB+tEMfAuwJhpvK4Dfhga4V",
+  "snapshot_id": "aPLYgAAAAAAAxbnkwtjl5IBERZAtQGZR",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "L\u00e1grimas en la lluvia",
+      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 209578,
       "name": "Chavo De Onda",
       "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "L\u00e1grimas en la lluvia",
-      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
     },
     {
       "added_at": null,
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Violencia, drogas y sexo",
-      "url": "https://open.spotify.com/track/645QyPDX8aZDuzheODCpBL"
+      "duration_ms": 273400,
+      "name": "S\u00f3pleme usted primero",
+      "url": "https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp"
     }
   ],
   "unique_name": "This Is El Tri",

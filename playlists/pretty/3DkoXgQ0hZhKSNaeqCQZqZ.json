@@ -1,13 +1,45 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 759,
+  "num_followers": 761,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEJYCyr8kS+yIcjbVeLmTiH4LgalbA",
+  "snapshot_id": "AAAEMzIYIaiaX5VEAzshFekAgcLrIhi/",
   "tracks": [
+    {
+      "added_at": "2025-10-19 07:23:48",
+      "album": {
+        "name": "TUMMY",
+        "url": "https://open.spotify.com/album/7rEnBD1bxnkN2pmQnWIvun"
+      },
+      "artists": [
+        {
+          "name": "passengerprincess",
+          "url": "https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3"
+        }
+      ],
+      "duration_ms": 138017,
+      "name": "TUMMY",
+      "url": "https://open.spotify.com/track/5knoabT77wyCXAq1dYGQco"
+    },
+    {
+      "added_at": "2025-10-20 04:11:23",
+      "album": {
+        "name": "Navigator",
+        "url": "https://open.spotify.com/album/2KnxoUvGsuTXBMIuBqfdfv"
+      },
+      "artists": [
+        {
+          "name": "Keep it Together",
+          "url": "https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8"
+        }
+      ],
+      "duration_ms": 263804,
+      "name": "Navigator",
+      "url": "https://open.spotify.com/track/5oZnpwPZW0jOpobzSG7l3O"
+    },
     {
       "added_at": "2025-10-04 14:37:06",
       "album": {
@@ -23,6 +55,130 @@
       "duration_ms": 120613,
       "name": "4K CARPET",
       "url": "https://open.spotify.com/track/284qRqsftKxNPWrejNEewL"
+    },
+    {
+      "added_at": "2023-06-14 17:34:16",
+      "album": {
+        "name": "russelbuck",
+        "url": "https://open.spotify.com/album/2bgUsX7DFr4VdUB35TMoUP"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "duration_ms": 159354,
+      "name": "Samoyed Song",
+      "url": "https://open.spotify.com/track/43NZSHrCTxb1Tm9he7BAox"
+    },
+    {
+      "added_at": "2025-10-20 04:06:19",
+      "album": {
+        "name": "MYRTLE BROADWAY & THE BIG BANG THEORY",
+        "url": "https://open.spotify.com/album/5pmFfSXbaShZPSwgUxkfGJ"
+      },
+      "artists": [
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "duration_ms": 173700,
+      "name": "petty debris",
+      "url": "https://open.spotify.com/track/37PJYlcKsnmemav4V0dMxa"
+    },
+    {
+      "added_at": "2025-10-20 04:07:16",
+      "album": {
+        "name": "INTERNET PROTOGEN",
+        "url": "https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        },
+        {
+          "name": "lil toasterz",
+          "url": "https://open.spotify.com/artist/5hjt5HNrrt6Op3RtETLJ2H"
+        },
+        {
+          "name": "Mek-9",
+          "url": "https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ"
+        }
+      ],
+      "duration_ms": 156750,
+      "name": "DISGUSTING - HYPER MIX",
+      "url": "https://open.spotify.com/track/5edTtWpuM6fz0zcQt8DVAp"
+    },
+    {
+      "added_at": "2025-10-20 04:06:49",
+      "album": {
+        "name": "INTERNET PROTOGEN",
+        "url": "https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        },
+        {
+          "name": "nigxl",
+          "url": "https://open.spotify.com/artist/1fTftE98CA2N63gDa8t4EG"
+        }
+      ],
+      "duration_ms": 101548,
+      "name": "Protogen.exe",
+      "url": "https://open.spotify.com/track/4v8SeYuq515RbNuhMEBE0r"
+    },
+    {
+      "added_at": "2025-10-20 04:04:33",
+      "album": {
+        "name": "Love Zombie",
+        "url": "https://open.spotify.com/album/0fRs84Ccz6y5rsWccdeqQg"
+      },
+      "artists": [
+        {
+          "name": "FEM&M",
+          "url": "https://open.spotify.com/artist/4vRAsoN6NRY7YDeX7zx8dq"
+        }
+      ],
+      "duration_ms": 156648,
+      "name": "Love Zombie",
+      "url": "https://open.spotify.com/track/5xVEBzox5ua5YdACt3MRqd"
+    },
+    {
+      "added_at": "2025-10-20 04:03:44",
+      "album": {
+        "name": "fur:core VII (puppy radio 24/7)",
+        "url": "https://open.spotify.com/album/2QCOs35xx77fJEBvijbFhG"
+      },
+      "artists": [
+        {
+          "name": "Fur:Trash",
+          "url": "https://open.spotify.com/artist/1jp7cmyHDn5nuP3MMSwm1m"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "wanna fucking scream!!!",
+      "url": "https://open.spotify.com/track/0ijhbCAMw094d8DlTzjdzx"
+    },
+    {
+      "added_at": "2025-10-19 06:32:36",
+      "album": {
+        "name": "By The Pier",
+        "url": "https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ"
+      },
+      "artists": [
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        }
+      ],
+      "duration_ms": 125090,
+      "name": "By The Pier",
+      "url": "https://open.spotify.com/track/6bVFHWOAFqqOIGPrVv7c4i"
     },
     {
       "added_at": "2025-04-14 15:57:34",
@@ -5165,6 +5321,26 @@
       "url": "https://open.spotify.com/track/124urhdKEhZ6Fm3yft6SE8"
     },
     {
+      "added_at": "2024-03-06 09:53:01",
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4VOMEobaVteSEzw688Bkkj"
+      },
+      "artists": [
+        {
+          "name": "Eris Soundworks",
+          "url": "https://open.spotify.com/artist/5X1SwenxpH0EvoxYsQZNxz"
+        },
+        {
+          "name": "Aural Alliance",
+          "url": "https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu"
+        }
+      ],
+      "duration_ms": 305357,
+      "name": "That Spark",
+      "url": "https://open.spotify.com/track/124urhdKEhZ6Fm3yft6SE8"
+    },
+    {
       "added_at": "2024-11-19 16:58:51",
       "album": {
         "name": "ABSOLUTE (Murder Drones Song)",
@@ -5183,22 +5359,6 @@
       "duration_ms": 201600,
       "name": "ABSOLUTE (Murder Drones Song)",
       "url": "https://open.spotify.com/track/5hVTCFrS5yS6U982lBLN4P"
-    },
-    {
-      "added_at": "2023-06-14 17:34:16",
-      "album": {
-        "name": "russelbuck",
-        "url": "https://open.spotify.com/album/2bgUsX7DFr4VdUB35TMoUP"
-      },
-      "artists": [
-        {
-          "name": "r u s s e l b u c k",
-          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
-        }
-      ],
-      "duration_ms": 159354,
-      "name": "Samoyed Song",
-      "url": "https://open.spotify.com/track/43NZSHrCTxb1Tm9he7BAox"
     },
     {
       "added_at": "2023-06-14 17:29:43",

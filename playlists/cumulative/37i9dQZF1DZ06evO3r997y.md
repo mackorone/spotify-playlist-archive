@@ -4,12 +4,12 @@
 
 > This is Akari Kito\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 39 min
+102 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [23時の春雷少女](https://open.spotify.com/track/1LL34cI74PJCGJq6i3o5s1) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:21 | 2022-06-09 |  |
-| [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 | 2022-06-09 | 2025-10-18 |
+| [23時の春雷少女 Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:18 | 2022-06-09 |  |
 | [Afterglow](https://open.spotify.com/track/4DvRFPXSsTkxZqwrCZPGly) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/501DWHpafy1a3ycR6TW3q4) | 4:04 | 2023-11-10 | 2024-01-12 |
 | [Always Going My Way](https://open.spotify.com/track/12qUwGKPv6SLq11EdyE4Zc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 3:54 | 2022-11-28 | 2022-12-13 |
 | [Always Going My Way](https://open.spotify.com/track/1E2hCcuow0owPXhYaMmvHr) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 3:54 | 2022-06-27 | 2025-01-15 |
@@ -45,8 +45,9 @@
 | [Eternally](https://open.spotify.com/track/3Qa4XkazoM3bHBo9635NWT) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [With a Wish](https://open.spotify.com/album/3SluHCkyfKF9wngEBOWT7M) | 4:16 | 2025-02-28 |  |
 | [FLAMES](https://open.spotify.com/track/1cHSVGrKm9sHjOlARY6l7Q) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/0jY5AnyprRBeYUabUXOSUH) | 3:29 | 2025-05-19 | 2025-05-21 |
 | [FLAMES](https://open.spotify.com/track/20sznSdCI0km5ZhZSLsKeI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:29 | 2024-08-30 |  |
+| [Fleeting Time](https://open.spotify.com/track/1geDmYNUUF5lYQz8NsJZtC) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Journey](https://open.spotify.com/album/0VN22nXaT5LlwS1cjOX8CC) | 3:56 | 2025-10-20 |  |
 | [Fleeting Time](https://open.spotify.com/track/6Wk3b3S9dwmYlNF3bCuHaO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/17Dj5oesL9DThjMDJ70vj4) | 3:56 | 2023-02-11 | 2025-08-28 |
-| [Fleeting Time](https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ) | 3:56 | 2023-02-10 |  |
+| [Fleeting Time](https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ) | 3:56 | 2023-02-10 | 2025-10-20 |
 | [Fly\-High\-Five!](https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:24 | 2022-06-09 |  |
 | [Follow me!](https://open.spotify.com/track/3zY59yGG3JzTUUr6657zd0) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n) | 4:22 | 2022-09-20 | 2024-07-01 |
 | [Follow me!](https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:22 | 2022-06-09 |  |
@@ -99,7 +100,7 @@
 | [グッドモーニング](https://open.spotify.com/track/1vzmw0eSU8IWoUp7VDxRIY) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:52 | 2022-10-13 | 2025-04-27 |
 | [トウメイナユメ](https://open.spotify.com/track/5oZ8xQwKZYIpowQvbpspj2) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 4:17 | 2022-11-13 |  |
 | [トウメイナユメ](https://open.spotify.com/track/6VNvK8OTmrrw4TJ3mKuEX5) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [キミのとなりで](https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm) | 4:18 | 2022-06-09 | 2025-03-14 |
-| [マンガ＝超ヴァイブル \(feat\. 緒方恵美 & 鬼頭明里\)](https://open.spotify.com/track/2Nfu4bapsMgcsaT0G8MgSv) | [ANCHOR](https://open.spotify.com/artist/2fviXTiNm3w2YSp6qYdnlh), [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [マンガ＝超ヴァイブル \(feat\. 緒方恵美 & 鬼頭明里\)](https://open.spotify.com/album/2zczWnJd08hK0nGsaoOHWA) | 3:52 | 2025-06-25 | 2025-10-17 |
+| [マンガ＝超ヴァイブル \(feat\. 緒方恵美 & 鬼頭明里\)](https://open.spotify.com/track/2Nfu4bapsMgcsaT0G8MgSv) | [ANCHOR](https://open.spotify.com/artist/2fviXTiNm3w2YSp6qYdnlh), [Megumi Ogata](https://open.spotify.com/artist/2j8sQGmlCNu84Hm1KzmUMH), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [マンガ＝超ヴァイブル \(feat\. 緒方恵美 & 鬼頭明里\)](https://open.spotify.com/album/2zczWnJd08hK0nGsaoOHWA) | 3:52 | 2025-06-25 |  |
 | [君の花を祈ろう](https://open.spotify.com/track/0ME3fGpjFjsZ1avHbZ2Lin) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:19 | 2022-06-09 |  |
 | [天の先 \~天下ボーナス\~](https://open.spotify.com/track/2V3D7fPsfVevU9PJJEdaNq) | [Yamasa Sound Team](https://open.spotify.com/artist/1sjvjSu4lhUwMWSA8zK8gV), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [パチスロ 真天下布武 オリジナルサウンドトラック](https://open.spotify.com/album/5Fr0vmW79GKI5yvgft4veA) | 2:25 | 2023-11-10 | 2023-12-14 |
 | [怪物 \- from CrosSing](https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [怪物 \- from CrosSing](https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0) | 3:28 | 2023-05-25 |  |

@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Vestidito Rojo",
+        "url": "https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ"
+      },
+      "artists": [
+        {
+          "name": "Esencia Noble",
+          "url": "https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Vestidito Rojo",
+      "url": "https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7"
+    },
+    {
+      "album": {
         "name": "Voy A Superarte (En Vivo)",
         "url": "https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx"
       },

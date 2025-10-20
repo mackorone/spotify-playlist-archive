@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 271500,
       "name": "DAY ONE",
       "url": "https://open.spotify.com/track/5QxNmQBXpLPemzpDvsuiLM"
@@ -10520,7 +10520,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 225410,
       "name": "Proud",
       "url": "https://open.spotify.com/track/4jyfcb5s4H3hKl0CJXjYei"
@@ -14818,7 +14818,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
@@ -14836,7 +14836,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
@@ -16754,7 +16754,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 334459,
       "name": "\u0e08\u0e14\u0e08\u0e33",
       "url": "https://open.spotify.com/track/4kvBebTWC2UmFevtoG0BXy"
@@ -16830,7 +16830,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25\u0e44\u0e2b\u0e19 (feat. MONICA)",
       "url": "https://open.spotify.com/track/6kUGR3mPqLwcnobMQA557r"
@@ -16848,7 +16848,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e30\u0e08\u0e30\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/2dhMTwg7O8n4kFYLpCaLC4"
@@ -19496,7 +19496,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 244577,
       "name": "\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01 (Talk Less)",
       "url": "https://open.spotify.com/track/1LV7y6Foa5JFMOUc0qyj4b"
@@ -21904,7 +21904,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 227000,
       "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21 (You Had Me At Hello)",
       "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
@@ -22136,6 +22136,24 @@
       "duration_ms": 200000,
       "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e01\u0e49\u0e1a\u0e19",
+        "url": "https://open.spotify.com/album/5fBqn3HW1usEd3Cl5Y5lq8"
+      },
+      "artists": [
+        {
+          "name": "Kantong Tungngern",
+          "url": "https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "\u0e41\u0e01\u0e49\u0e1a\u0e19",
+      "url": "https://open.spotify.com/track/1tBFg7D6aSmZb9KUl7FPbu"
     },
     {
       "album": {

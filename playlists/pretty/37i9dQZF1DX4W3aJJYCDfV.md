@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Last Dinner Party, Sam Fender, Tame Impala and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,033 likes - 115 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,987 likes - 115 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

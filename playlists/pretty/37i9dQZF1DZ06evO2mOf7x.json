@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46596,
+  "num_followers": 46597,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAABHKhJyiUEP6lE8YpQ+jxlK",
+  "snapshot_id": "aPLYgAAAAADCizwgH03Wz1LtlOaEjU51",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos Robados",
         "url": "https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn"
       },
@@ -583,22 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada de Ti",
-        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
         },
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 223578,
-      "name": "Nada de Ti",
-      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
       "duration_ms": 184426,
       "name": "Todo Lo Aprend\u00ed De Ti",
       "url": "https://open.spotify.com/track/7coeVuxvfdL9xM1gy2PfqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada de Ti",
+        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Nada de Ti",
+      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
     },
     {
       "added_at": null,

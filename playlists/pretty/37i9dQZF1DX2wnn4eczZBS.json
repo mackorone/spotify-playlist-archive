@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
-  "num_followers": 10942,
+  "num_followers": 10946,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "God Los",
+        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "God Los",
+      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "Aerobics",
         "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "Dansen met de dood",
-        "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 204770,
-      "name": "Dansen met de dood",
-      "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
         "name": "Schaduw",
         "url": "https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR"
       },
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "God Los",
-        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
+        "name": "Dansen met de dood",
+        "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
       },
       "artists": [
         {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
         }
       ],
-      "duration_ms": 223013,
-      "name": "God Los",
-      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
+      "duration_ms": 204770,
+      "name": "Dansen met de dood",
+      "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "Liefdesliedjes",
-        "url": "https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        },
-        {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
-        }
-      ],
-      "duration_ms": 133181,
-      "name": "Liefdesliedjes",
-      "url": "https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
         "name": "Voor Alles",
         "url": "https://open.spotify.com/album/3UlV5dLrM7tvIaXceGMUWp"
       },
@@ -663,6 +643,42 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "Liefdesliedjes",
+        "url": "https://open.spotify.com/album/2QtZT3JR3tOkPhdLtm3Juz"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        },
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 133181,
+      "name": "Liefdesliedjes",
+      "url": "https://open.spotify.com/track/4PzyPRTRkMB6JsDlVGjuNu"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
+        "name": "Partijtje (Deluxe)",
+        "url": "https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0"
+      },
+      "artists": [
+        {
+          "name": "Prins S. en De Geit",
+          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
+        }
+      ],
+      "duration_ms": 185547,
+      "name": "Disco Dip",
+      "url": "https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "v2.025",
         "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
       },
@@ -695,38 +711,6 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "Souvenir (met Pensioen)",
-        "url": "https://open.spotify.com/album/7rcSGIx6an8qnUeUhF5lcy"
-      },
-      "artists": [
-        {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 185062,
-      "name": "Souvenir (met Pensioen)",
-      "url": "https://open.spotify.com/track/3S3ErXJ5NIbI2QDYVzS4vq"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "Partijtje (Deluxe)",
-        "url": "https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0"
-      },
-      "artists": [
-        {
-          "name": "Prins S. en De Geit",
-          "url": "https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi"
-        }
-      ],
-      "duration_ms": 185547,
-      "name": "Disco Dip",
-      "url": "https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
         "name": "narcose",
         "url": "https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+        "name": "Souvenir (met Pensioen)",
+        "url": "https://open.spotify.com/album/7rcSGIx6an8qnUeUhF5lcy"
       },
       "artists": [
         {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
         }
       ],
-      "duration_ms": 144782,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
+      "duration_ms": 185062,
+      "name": "Souvenir (met Pensioen)",
+      "url": "https://open.spotify.com/track/3S3ErXJ5NIbI2QDYVzS4vq"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE"
+      },
+      "artists": [
+        {
+          "name": "IDA",
+          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
+        }
+      ],
+      "duration_ms": 144782,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "Drijfzand",
         "url": "https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc"
       },
@@ -787,38 +787,6 @@
       "duration_ms": 219130,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "Doe Het Voor Het Geld",
-        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
-      },
-      "artists": [
-        {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 190059,
-      "name": "Doe Het Voor Het Geld",
-      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "Krijt",
-        "url": "https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE"
-      },
-      "artists": [
-        {
-          "name": "ANNE",
-          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
-        }
-      ],
-      "duration_ms": 148534,
-      "name": "Krijt",
-      "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -839,22 +807,54 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "Vager!",
-        "url": "https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J"
+        "name": "Krijt",
+        "url": "https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE"
       },
       "artists": [
         {
-          "name": "IDA",
-          "url": "https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN"
-        },
-        {
-          "name": "MAZOO",
-          "url": "https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj"
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
         }
       ],
-      "duration_ms": 132727,
-      "name": "Vager!",
-      "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"
+      "duration_ms": 148534,
+      "name": "Krijt",
+      "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
+        "name": "Het Is Nog Niet Te Laat",
+        "url": "https://open.spotify.com/album/2JS9zAvexCRsygky4eo46n"
+      },
+      "artists": [
+        {
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
+        },
+        {
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
+        }
+      ],
+      "duration_ms": 239939,
+      "name": "Het Is Nog Niet Te Laat",
+      "url": "https://open.spotify.com/track/6NHoHofU4Hj5o0YscjmZk1"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
+        "name": "Wind In De Zeilen",
+        "url": "https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D"
+      },
+      "artists": [
+        {
+          "name": "Tienson",
+          "url": "https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8"
+        }
+      ],
+      "duration_ms": 215184,
+      "name": "Wind In De Zeilen",
+      "url": "https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y"
     }
   ],
   "unique_name": "indie.nl",

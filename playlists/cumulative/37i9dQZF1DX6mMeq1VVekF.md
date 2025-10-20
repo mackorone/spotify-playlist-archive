@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Tora\-i
 
-528 songs - 1 day 3 hr 12 min
+529 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Gold Chains](https://open.spotify.com/track/0T7PAJKN2k6k7kBSWIcw34) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Gold Chains](https://open.spotify.com/album/3IRr3MaG3mJQbrvMLhS3Zr) | 3:38 | 2022-06-24 | 2022-07-27 |
 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 | 2022-06-24 | 2024-10-04 |
 | [Gone Freestyle](https://open.spotify.com/track/3EqjgL04KrZF9BTIhRg0s1) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Gone Freestyle](https://open.spotify.com/album/7aVdh63LdUTVLNrS7L8qAv) | 3:15 | 2022-06-24 | 2022-07-21 |
+| [GOOD TIMES](https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [GOOD TIMES](https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7) | 2:55 | 2025-10-10 |  |
 | [Gorgeous](https://open.spotify.com/track/2E0yy9AslNvyvhBuF7sWqB) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [Gorgeous](https://open.spotify.com/album/2nnkbp4S1Rsctb7TjS1O5w) | 2:10 | 2022-06-24 | 2022-07-21 |
 | [Gotta Get U](https://open.spotify.com/track/3VsLdQ9MA9Tf316U50sN34) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Gotta Get U](https://open.spotify.com/album/6vVP6djBQD80GHolXulYXX) | 2:32 | 2024-05-03 | 2024-07-10 |
 | [Grateful](https://open.spotify.com/track/34SGK10UwQXbKsmh81LyLs) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Long Live Dylan](https://open.spotify.com/album/4EvkXeFRdf79GJQcpx7pBu) | 2:14 | 2024-10-25 | 2025-01-23 |
@@ -473,7 +474,7 @@
 | [Through The Eye](https://open.spotify.com/track/2pjdcojGW5N7ZquGtCRZRb) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Through The Eye](https://open.spotify.com/album/2f3mhv2i5fsGUspzFJqycd) | 3:21 | 2022-06-24 | 2022-07-25 |
 | [Tighter](https://open.spotify.com/track/2VGs3n8QRgshkR1G1s0pg3) | [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Tighter](https://open.spotify.com/album/5KrgemYQnXk5imEizOaFNz) | 4:09 | 2022-06-24 | 2022-07-29 |
 | [Time Is Precious](https://open.spotify.com/track/6hdFvWuFjmoxJjSeEjiJpg) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Air](https://open.spotify.com/album/7KR3GaBmiaydLWXrzHDKMt) | 7:03 | 2022-10-23 | 2023-05-16 |
-| [time to go](https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p) | 3:29 | 2025-06-19 |  |
+| [time to go](https://open.spotify.com/track/6nmaIMf8pxfhcis6ptgxGB) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [time to go](https://open.spotify.com/album/4wK1EeHH2tYFoBKffEKL6p) | 3:29 | 2025-06-19 | 2025-10-20 |
 | [Ting Tun Up](https://open.spotify.com/track/5zpakbmhNDSyu5Zej8DRbN) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [YAMA//SATO](https://open.spotify.com/artist/5tIuSHirkgRi7zN9s5YuY6) | [Ting Tun Up](https://open.spotify.com/album/2J9GEqXO1d7Bx8bVHZwsno) | 2:40 | 2022-06-24 | 2022-07-29 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-06-24 | 2022-07-29 |
 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-29 |  |

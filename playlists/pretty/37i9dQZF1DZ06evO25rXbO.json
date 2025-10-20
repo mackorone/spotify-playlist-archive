@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1207537,
+  "num_followers": 1207742,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAADi5W6HV470ppefoKlQTdPi",
+  "snapshot_id": "aPLYgAAAAAD8E/a+GYsptnUQCtCXIIaK",
   "tracks": [
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Got the Power (feat. Jehnny Beth) [Claptone Remix]",
-        "url": "https://open.spotify.com/album/06RqqeArD7wnwaNBZrY71a"
+        "name": "The Manifesto (feat. Trueno and Proof)",
+        "url": "https://open.spotify.com/album/7HBn6PIN42sUmSe6Ao694s"
       },
       "artists": [
         {
@@ -932,17 +932,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Jehnny Beth",
-          "url": "https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
         }
       ],
-      "duration_ms": 364917,
-      "name": "We Got the Power (feat. Jehnny Beth) - Claptone Remix",
-      "url": "https://open.spotify.com/track/68JZIPnGZxbExNeSb6KslW"
+      "duration_ms": 206516,
+      "name": "The Manifesto (feat. Trueno and Proof), Pt. 1",
+      "url": "https://open.spotify.com/track/4oZp2U3K7lxN1GWWYJbtbV"
     },
     {
       "added_at": null,
@@ -971,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Manifesto (feat. Trueno and Proof)",
-        "url": "https://open.spotify.com/album/7HBn6PIN42sUmSe6Ao694s"
+        "name": "We Got the Power (feat. Jehnny Beth) [Claptone Remix]",
+        "url": "https://open.spotify.com/album/06RqqeArD7wnwaNBZrY71a"
       },
       "artists": [
         {
@@ -980,17 +980,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Jehnny Beth",
+          "url": "https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta"
         },
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 206516,
-      "name": "The Manifesto (feat. Trueno and Proof), Pt. 1",
-      "url": "https://open.spotify.com/track/4oZp2U3K7lxN1GWWYJbtbV"
+      "duration_ms": 364917,
+      "name": "We Got the Power (feat. Jehnny Beth) - Claptone Remix",
+      "url": "https://open.spotify.com/track/68JZIPnGZxbExNeSb6KslW"
     }
   ],
   "unique_name": "This Is Gorillaz",

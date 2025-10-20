@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68609,
+  "num_followers": 68612,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAABFkE/f7rmofk7KRfqlfHSS",
+  "snapshot_id": "aPLYgAAAAAB4Y2x+bC35KFWfP61kwwMO",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcile",
-        "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
       "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Dif\u00edcile",
-      "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
+      "duration_ms": 70992,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+        "name": "Dif\u00edcile",
+        "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
       },
       "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 70992,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv"
+      "duration_ms": 152173,
+      "name": "Dif\u00edcile",
+      "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo Hasta El Final",
-        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
+        "name": "Le Hace Falta Un Beso (feat. Mike Bah\u00eda) [Versi\u00f3n Reggaeton]",
+        "url": "https://open.spotify.com/album/5jdcm1AstweMXm4HoTuVl8"
       },
       "artists": [
         {
-          "name": "Gian Marco",
-          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
         },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 168720,
-      "name": "Contigo Hasta El Final",
-      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
+      "duration_ms": 204533,
+      "name": "Le Hace Falta Un Beso (feat. Mike Bah\u00eda) - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2"
     },
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo Hasta El Final",
+        "url": "https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn"
+      },
+      "artists": [
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Contigo Hasta El Final",
+      "url": "https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mitad",
         "url": "https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 181866,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le Hace Falta Un Beso (feat. Mike Bah\u00eda) [Versi\u00f3n Reggaeton]",
-        "url": "https://open.spotify.com/album/5jdcm1AstweMXm4HoTuVl8"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Le Hace Falta Un Beso (feat. Mike Bah\u00eda) - Versi\u00f3n Reggaeton",
-      "url": "https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIEZ",
-        "url": "https://open.spotify.com/album/0djEi0YumLKVrLMQgY6hmC"
-      },
-      "artists": [
-        {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 201370,
-      "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
-      "url": "https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIEZ",
+        "url": "https://open.spotify.com/album/0djEi0YumLKVrLMQgY6hmC"
+      },
+      "artists": [
+        {
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 201370,
+      "name": "Pan y mantequilla (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Nombre",
         "url": "https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 164720,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,

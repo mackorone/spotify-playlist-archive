@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 8 hr 45 min
+167 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Day Dream](https://open.spotify.com/track/4O5NmwwKzpQkuUUUz0V3TN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:25 | 2022-05-25 | 2024-10-07 |
 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 | 2022-05-25 |  |
 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 | 2023-06-11 |  |
+| [Don't Blame Me](https://open.spotify.com/track/70AwlxR2BDTHVOZqEG9Q4M) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Don't Blame Me](https://open.spotify.com/album/6s9hNo5GBTTVkCjhYc0fbG) | 2:00 | 2025-10-19 |  |
 | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Don't Say Goodbye \(feat\. Tove Lo\)](https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX) | 3:06 | 2022-05-25 |  |
 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 | 2022-11-10 |  |
 | [Down with Me](https://open.spotify.com/track/16PYbLlyjjgGgnFbnr5yaT) | [NYAKI](https://open.spotify.com/artist/1hElvFQvJ9TtVzwyX50XWP) | [Down with Me](https://open.spotify.com/album/7izGbJdcUqe3h0CoqJ9UPj) | 3:25 | 2025-02-01 |  |

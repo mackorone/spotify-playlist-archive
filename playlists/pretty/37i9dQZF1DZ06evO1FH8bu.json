@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 71693,
+  "num_followers": 71699,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAB7zjLXvD6qMJXUm9FNAvmw",
+  "snapshot_id": "aPLYgAAAAABTzAH6IR/OYHJ1Woa8d6pk",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+        "name": "Neck Deep (Dumbfuck Edition)",
+        "url": "https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 189975,
-      "name": "Lowlife",
-      "url": "https://open.spotify.com/track/0Tw60ETiprzweU3AYHuTdq"
+      "duration_ms": 172480,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/5gzy2eJn42ED4WoKd9Gpsn"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neck Deep (Dumbfuck Edition)",
-        "url": "https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa"
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 172480,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/5gzy2eJn42ED4WoKd9Gpsn"
+      "duration_ms": 189975,
+      "name": "Lowlife",
+      "url": "https://open.spotify.com/track/0Tw60ETiprzweU3AYHuTdq"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
       "duration_ms": 228600,
       "name": "We Need More Bricks",
       "url": "https://open.spotify.com/track/3HT0SJA32BW7c83sxpq3SF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neck Deep (Dumbfuck Edition)",
+        "url": "https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "This Is All My Fault",
+      "url": "https://open.spotify.com/track/5wF7Ky4CU42fI1cjTpqkHx"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
       "duration_ms": 214922,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4SMRrkuRFwqociFBA2N122"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neck Deep (Dumbfuck Edition)",
-        "url": "https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "This Is All My Fault",
-      "url": "https://open.spotify.com/track/5wF7Ky4CU42fI1cjTpqkHx"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 219062,
-      "name": "Sonderland",
-      "url": "https://open.spotify.com/track/04XjMCR9EiZeKIrR0LZcjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197075,
       "name": "Candour",
       "url": "https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 219062,
+      "name": "Sonderland",
+      "url": "https://open.spotify.com/track/04XjMCR9EiZeKIrR0LZcjq"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 214422,
-      "name": "Empty House",
-      "url": "https://open.spotify.com/track/79XPSIrAIDsneJNGLxIm8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 176692,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/4mBCXW0d8WJ5KOVjbdWVni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 214422,
+      "name": "Empty House",
+      "url": "https://open.spotify.com/track/79XPSIrAIDsneJNGLxIm8Y"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Sick Joke",
-      "url": "https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 176470,
       "name": "Crushing Grief (No Remedy)",
       "url": "https://open.spotify.com/track/0OgP3aqNy7EySxfJxmdg5j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Sick Joke",
+      "url": "https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain In July",
-        "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/2dIqAytE9D0jL6VmlQHylS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rain In July",
+        "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/2dIqAytE9D0jL6VmlQHylS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rain In July / A History Of Bad Decisions",
         "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 42047,
       "name": "All Hype, No Heart",
       "url": "https://open.spotify.com/track/2aMm7yVRfx4VdPr6dRnsp7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rain In July",
-        "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 163005,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5thqWp5JUnjDrxhZhKt3ns"
     },
     {
       "added_at": null,
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 94145,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/54u8VbDveaKMQVTj0NDzrT"
+      "duration_ms": 163005,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5thqWp5JUnjDrxhZhKt3ns"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 202158,
       "name": "Damsel In Distress",
       "url": "https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rain In July",
+        "url": "https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 94145,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/54u8VbDveaKMQVTj0NDzrT"
     }
   ],
   "unique_name": "This Is Neck Deep",

@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-330 songs - 14 hr 41 min
+331 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Green Noise by the Ocean](https://open.spotify.com/track/4Bg9Zi8BW680FYiffjRuK4) | [Relaxation Labs](https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB) | [Green Noise for Sleep and Stress Relief](https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC) | 3:08 | 2023-03-24 | 2023-10-06 |
 | [Green Noise By The Sea](https://open.spotify.com/track/5YFy8UCaZx7Fls9fXkXSHb) | [Good Ear Noise](https://open.spotify.com/artist/0M5wxWoH4byI4kTvWQ6ISa) | [Green Slumber Noise](https://open.spotify.com/album/1Evu5xROYKHZjBANO4MUfY) | 1:49 | 2023-03-10 | 2023-06-17 |
 | [Green Noise by The Waterfall](https://open.spotify.com/track/5ZHzsDYbi4WWHPzrM0wQNR) | [Gentle Nature](https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4) | [Focus Green Noise](https://open.spotify.com/album/5OosOpXbAFgRquModHjs8q) | 2:24 | 2022-12-09 |  |
-| [Green Noise by the Waterfall](https://open.spotify.com/track/7Ki5WXfbWX68LVbTgFhmIH) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Green Noise](https://open.spotify.com/album/1uF37rhwXEWsOTQT9J8cSd) | 3:46 | 2023-03-24 |  |
+| [Green Noise by the Waterfall](https://open.spotify.com/track/7Ki5WXfbWX68LVbTgFhmIH) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Green Noise](https://open.spotify.com/album/1uF37rhwXEWsOTQT9J8cSd) | 3:46 | 2023-03-24 | 2025-10-20 |
 | [Green Noise Calm](https://open.spotify.com/track/0WxcfVuXESwWSdPTRYIEQx) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Healing](https://open.spotify.com/album/4L5cJcmF6kDoDDmYuM0oOe) | 2:52 | 2023-03-10 | 2023-07-08 |
 | [Green Noise Calming Seawaves](https://open.spotify.com/track/5mIpcAqJY7yCbUf9SmWgmz) | [Pinkertonal](https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73) | [Green Noise Calming Seawaves](https://open.spotify.com/album/2RBPXZIVhME69FEtjXzIO4) | 2:52 | 2023-03-10 | 2023-10-06 |
 | [Green Noise Chill](https://open.spotify.com/track/1AV45V7DkmrVlif3zeLqmg) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Green Noise Chill](https://open.spotify.com/album/7AaRdcEyWn7S8ZTnxv5yEM) | 2:53 | 2024-02-21 |  |
@@ -273,6 +273,7 @@
 | [Right Mind Noise](https://open.spotify.com/track/4Jwvt8ImF4ONUH1mf4dKB5) | [Naturaleza FX](https://open.spotify.com/artist/1Ga6UDeRSPIzrz72H0FITa) | [Fading Forest Green Noise](https://open.spotify.com/album/13Oxn0mlcUoDcCZJqR8eaS) | 2:12 | 2023-03-10 |  |
 | [River \- Green Noise](https://open.spotify.com/track/6cI3UOlAmSFMD3dS0iBQ3F) | [Blancouver](https://open.spotify.com/artist/4wEPu3pHPLFIRay8kVUn09) | [The Background Noise of the World](https://open.spotify.com/album/3kvQjpraGfaHgiyCwW9TVv) | 2:01 | 2022-12-09 |  |
 | [River Green Noise](https://open.spotify.com/track/4bU9LcQ6jRhTImPhpnn2Yu) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Ambience](https://open.spotify.com/album/4C190h0pKa73fARygNIjFN) | 2:52 | 2022-12-09 | 2025-10-19 |
+| [River Green Noise](https://open.spotify.com/track/31vr64oYnRDoTiD5Ayzyrd) | [Noise Advisor](https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1) | [River Green Noise](https://open.spotify.com/album/2V7FVKkQKASPI7gJx1a39c) | 2:40 | 2025-05-26 |  |
 | [River Green Noise](https://open.spotify.com/track/0SiUFr6UgLcl8bq6Le5qkg) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [Sleep: Green Noise](https://open.spotify.com/album/4fLpY9TFTwoGBbIoDFxEgC) | 2:27 | 2022-12-09 |  |
 | [River Green Noise \(BP 400Hz, 2.4kHz\)](https://open.spotify.com/track/4Jwrj69gcecUyT13C2uDGf) | [Oxford Deluxe Noise](https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG) | [Deluxe Green Noise](https://open.spotify.com/album/1PL6IGsV9kxngAVFhoSJdu) | 2:21 | 2023-03-10 |  |
 | [River Noise](https://open.spotify.com/track/2drZkN6yir30OnAcIuSNYG) | [Good Ear Noise](https://open.spotify.com/artist/0M5wxWoH4byI4kTvWQ6ISa) | [Green Slumber Noise](https://open.spotify.com/album/1Evu5xROYKHZjBANO4MUfY) | 1:51 | 2023-03-10 | 2023-06-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 
 > Sit back and relax by listening to guitar renditions of your favorite Disney songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,190 likes - 132 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,194 likes - 132 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5f7x9TU60w.md) - [plain]
 | 131 | [Circle of Life](https://open.spotify.com/track/70wuVXyYAAIMJYjPGKxa6m) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Self\-Care Day](https://open.spotify.com/album/2AWQhbb4GAH5zPhITUPPvJ) | 4:51 |
 | 132 | [Alice in Wonderland](https://open.spotify.com/track/5evAAnTbHb8aLiEnusTfS3) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Calm](https://open.spotify.com/album/156mQC6K3aOBBoPRJnURCX) | 2:54 |
 
-Snapshot ID: `AAAAAM3OWI21fepKnSCT6Spw50fhqmXs`
+Snapshot ID: `AAAAAGR9KgTzOSQ5vkZ5DJOq5sWlJLo/`

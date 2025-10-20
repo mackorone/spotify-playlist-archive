@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: CADU",
-  "num_followers": 52489,
+  "num_followers": 52492,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
+        "name": "SWEET LIKE SUGAR",
+        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 170723,
+      "name": "SWEET LIKE SUGAR",
+      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "SWEET LIKE SUGAR",
-        "url": "https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 170723,
-      "name": "SWEET LIKE SUGAR",
-      "url": "https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
         "name": "O Pr\u00f3prio",
         "url": "https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 242970,
       "name": "Dire\u00e7\u00e3o Paris",
       "url": "https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -547,22 +563,6 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
         "name": "FIM DA NOITE",
         "url": "https://open.spotify.com/album/3CqyVBp2IjCB9ZbhqPv4a1"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "Afro Fado",
-        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222427,
-      "name": "Ultimamente",
-      "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
         "name": "ALTA COSTURA",
         "url": "https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
+        "name": "Afro Fado",
+        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 222427,
+      "name": "Ultimamente",
+      "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
         "name": "Before I Lose My Voice",
         "url": "https://open.spotify.com/album/4oZm4sCOIFsWz41UgOu7r3"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 186483,
       "name": "Before I Lose My Voice",
       "url": "https://open.spotify.com/track/7frjoQg8cSUY0Pb7OpCvl5"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
+        "name": "ROSAS",
+        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        },
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "ROSAS",
+      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -671,26 +691,6 @@
       "duration_ms": 202280,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/3aml52yDe6ff32XOgZQ0Cb"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
-        "name": "ROSAS",
-        "url": "https://open.spotify.com/album/2R7iGYEwaSDTW68ucY9W4E"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        },
-        {
-          "name": "MUN",
-          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
-        }
-      ],
-      "duration_ms": 177272,
-      "name": "ROSAS",
-      "url": "https://open.spotify.com/track/0elz4WC9ZtAOzqP4fgt8T5"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
         "name": "MDID",
         "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR"
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
         }
       ],
-      "duration_ms": 187643,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng"
+      "duration_ms": 176425,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -803,6 +787,38 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/4ynwIbiazCYvjByvC6YnZR"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 187643,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/2V8ZoOYTqoYN9g4HZiMyng"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf"
-      },
-      "artists": [
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
-        }
-      ],
-      "duration_ms": 176425,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+        "name": "Olhar",
+        "url": "https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm"
       },
       "artists": [
         {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
         }
       ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
+      "duration_ms": 219106,
+      "name": "Olhar",
+      "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -1047,38 +1063,6 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "Sei-te de Cor",
-        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Sei-te de Cor",
-      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
-        "name": "Olhar",
-        "url": "https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Olhar",
-      "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
         "name": "XVIII",
         "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+        "name": "Sei-te de Cor",
+        "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
       },
       "artists": [
         {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
+      "duration_ms": 219692,
+      "name": "Sei-te de Cor",
+      "url": "https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -1127,6 +1111,22 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -1159,6 +1159,26 @@
       "duration_ms": 186155,
       "name": "Volta \u00e0 Cabe\u00e7a",
       "url": "https://open.spotify.com/track/2NEBYP6Vu29Ry96OuxOhs4"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
+        "name": "Perfume (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 174428,
+      "name": "Perfume - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -1223,6 +1243,26 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
+        "name": "N\u00e3o d\u00e1 pa parar",
+        "url": "https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 193700,
+      "name": "N\u00e3o d\u00e1 pa parar",
+      "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
+    },
+    {
+      "added_at": "2025-10-16 23:00:15",
+      "album": {
         "name": "Amar De Cor",
         "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
@@ -1235,26 +1275,6 @@
       "duration_ms": 165333,
       "name": "Amar De Cor",
       "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
-        "name": "Perfume (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5tE6GbtjP4htGoyrT5H78A"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 174428,
-      "name": "Perfume - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -1275,26 +1295,6 @@
       "duration_ms": 201600,
       "name": "Fica \u00c0 Espera",
       "url": "https://open.spotify.com/track/4n7NYDk3R0InjDTUMWyQ07"
-    },
-    {
-      "added_at": "2025-10-16 23:00:15",
-      "album": {
-        "name": "N\u00e3o d\u00e1 pa parar",
-        "url": "https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 193700,
-      "name": "N\u00e3o d\u00e1 pa parar",
-      "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "Ber\u00e7o de Ouro",
+        "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
         }
       ],
-      "duration_ms": 182876,
-      "name": "23:40",
-      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
+      "duration_ms": 177637,
+      "name": "Ber\u00e7o de Ouro",
+      "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
     },
     {
       "added_at": "2025-10-16 23:00:15",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-10-16 23:00:15",
       "album": {
-        "name": "Ber\u00e7o de Ouro",
-        "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Ber\u00e7o de Ouro",
-      "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
     }
   ],
   "unique_name": "Seda",

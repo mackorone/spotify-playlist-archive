@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1865008,
+  "num_followers": 1865230,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 257826,
-      "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -379,22 +363,6 @@
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
-        "name": "Three Cheers for Sweet Revenge",
-        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -415,22 +383,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "Miss Murder",
-      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "From Under The Cork Tree",
         "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
@@ -447,6 +399,38 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Miss Murder",
+      "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
         "name": "The All-American Rejects",
         "url": "https://open.spotify.com/album/0TvOeelcHQXYgPcyQiLhyR"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 233266,
       "name": "Swing, Swing",
       "url": "https://open.spotify.com/track/003FTlCpBTM4eSqYSWPv4H"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -527,38 +527,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "This Ain't A Scene, It's An Arms Race",
-      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Famous Last Words",
-      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 200226,
       "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
       "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "This Ain't A Scene, It's An Arms Race",
+      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -619,6 +603,22 @@
       "duration_ms": 216000,
       "name": "Jamie All Over",
       "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "Famous Last Words",
+      "url": "https://open.spotify.com/track/2d6m2F4I7wCuAKtSsdhh83"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 186493,
       "name": "Sic Transit Gloria ... Glory Fades",
       "url": "https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
         "name": "Tigers Jaw",
         "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 122680,
       "name": "Plane Vs. Tank Vs. Submarine",
       "url": "https://open.spotify.com/track/1JxUKhB7QGd082YGskroob"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "All That I've Got",
-      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Diary (Remastered and Expanded Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 475093,
       "name": "Transatlanticism",
       "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Diary (Remastered and Expanded Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Everything In Transit",
-        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "The Mixed Tape - 2015 Remastered",
-      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Never Hungover Again",
         "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
+        "name": "Everything In Transit",
+        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mannequin",
+          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "The Mixed Tape - 2015 Remastered",
+      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
         "name": "Decadence",
         "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 203733,
       "name": "Beating Heart Baby",
       "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/15n4p6R6Tuht5KAgK3g3IX"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "What To Do When You Are Dead",
         "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "The Albatross",
         "url": "https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "I Am The Movie",
-        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
       },
       "artists": [
         {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
         }
       ],
-      "duration_ms": 200200,
-      "name": "My Favorite Accident",
-      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1531,6 +1515,22 @@
       "duration_ms": 199959,
       "name": "I Just Wanna Run",
       "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "I Am The Movie",
+        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "My Favorite Accident",
+      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
     },
     {
       "added_at": "2025-08-05 14:57:44",

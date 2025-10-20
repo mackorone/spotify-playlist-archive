@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Mon Rovîa
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,935 likes - 161 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,942 likes - 161 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

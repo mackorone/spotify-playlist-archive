@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2756,
+  "num_followers": 2758,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAACxPdZK+2QucrY4ZxqM0WGE",
+  "snapshot_id": "aPLYgAAAAADERLLtCbjAcMDqAikC7iD0",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flor de la Ausencia",
-        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Flor De La Ausencia",
-      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 171895,
       "name": "D\u00e9jenme Si Estoy Llorando",
       "url": "https://open.spotify.com/track/6vi8gdPYPpGnmJZR8o5TLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flor de la Ausencia",
+        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Flor De La Ausencia",
+      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viva la Musica",
+        "url": "https://open.spotify.com/album/0V8FwwmPGOsax4t8QrfEiK"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Viva la Musica",
+      "url": "https://open.spotify.com/track/6kbKa94jYb9v1se9rixbme"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flor de la Ausencia",
         "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 168746,
       "name": "El se\u00f1or de las canas",
       "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva la Musica",
-        "url": "https://open.spotify.com/album/0V8FwwmPGOsax4t8QrfEiK"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Viva la Musica",
-      "url": "https://open.spotify.com/track/6kbKa94jYb9v1se9rixbme"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Manicomio",
-        "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 191574,
-      "name": "Amor De Manicomio",
-      "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Banda",
         "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 157866,
       "name": "La p\u00e1lida luz",
       "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Manicomio",
+        "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 191574,
+      "name": "Amor De Manicomio",
+      "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropicalandia",
-        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 220293,
-      "name": "Me Vas a Querer",
-      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charangas, Vol. 3",
         "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 245333,
       "name": "Llena de Amor",
       "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tropicalandia",
+        "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 220293,
+      "name": "Me Vas a Querer",
+      "url": "https://open.spotify.com/track/2K6Zx6HvAfzPj8ZEX1e1cz"
     },
     {
       "added_at": null,

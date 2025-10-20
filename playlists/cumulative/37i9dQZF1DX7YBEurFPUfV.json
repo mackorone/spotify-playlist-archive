@@ -2335,6 +2335,28 @@
     },
     {
       "album": {
+        "name": "Sout El Houma",
+        "url": "https://open.spotify.com/album/7M3i5MAk7lYAbAZGCj6mXE"
+      },
+      "artists": [
+        {
+          "name": "Stou",
+          "url": "https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt"
+        },
+        {
+          "name": "Junior Hassen",
+          "url": "https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Sout El Houma",
+      "url": "https://open.spotify.com/track/37TCnxoYBgjpb42OO0bYLG"
+    },
+    {
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/5wVVL0wIYIJT2k08l5ysQi"
       },
@@ -2516,7 +2538,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 180072,
       "name": "Ti Amo",
       "url": "https://open.spotify.com/track/7a2d5nTzGM6SfQwMk6lzM3"

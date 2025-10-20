@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFKKq2qpzAca4"> Tom Mann</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,874 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,902 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 49 | [High Ground](https://open.spotify.com/track/1o5j3WOJtAWBQaz3VMpD37) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [High Ground](https://open.spotify.com/album/2VeWyIFyf1VWIxZtsRKax9) | 2:27 |
 | 50 | [Like That](https://open.spotify.com/track/3568VPmvBoVC3Jb67JtWat) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [JAMES.](https://open.spotify.com/album/3iJKtRqFUIbu7s2jjwvoQR) | 2:49 |
 
-Snapshot ID: `AAAAABhez6oaYN0IO1k6gMeqQe1ZUtqs`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,083 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,098 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 74 | [Dear Santa](https://open.spotify.com/track/1ebvQ0gMIo3s5ABZYx642C) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Winter Wonderland](https://open.spotify.com/album/50d9xj5JPMSlRCupHK2IxK) | 3:46 |
 | 75 | [I Believe In Santa Claus](https://open.spotify.com/track/6w7Msb6AfJQz4iIyis9H7G) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:28 |
 | 76 | [Holly Jolly Christmas](https://open.spotify.com/track/4XWxLiqYW3Q78OuK5nvJRo) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Joy to the World!](https://open.spotify.com/album/1ufWN12kJj7YQR1PAfE4YB) | 2:18 |
-| 77 | [If We Make It Through December](https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Hag's Christmas](https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8) | 2:43 |
+| 77 | [If We Make It Through December](https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Hag's Christmas](https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8) | 2:43 |
 | 78 | [Winter Wonderland](https://open.spotify.com/track/2VjzNrJ8pyo5tMVVfPzZxs) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [It's The Holiday Season](https://open.spotify.com/album/7jRR92rBDxjnrjs3rRkC7F) | 2:56 |
 | 79 | [Pretty Paper](https://open.spotify.com/track/6vw0fFogTD5yIE5TWjZ0gM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Pretty Paper](https://open.spotify.com/album/5Vdf8rMX6hBLQ0AQPunYQx) | 2:24 |
 | 80 | [O Holy Night](https://open.spotify.com/track/1Sx2LlAejMVQhdRyeK9PvY) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:53 |

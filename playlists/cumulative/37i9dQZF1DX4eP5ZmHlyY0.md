@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: TWS
 
-751 songs - 1 day 17 hr 15 min
+752 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [BA BA BYE](https://open.spotify.com/track/142pVQPToEYbjWwxpJMpM0) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [BA BA BYE](https://open.spotify.com/album/0pROa7KeXHCdolbjAi3wLp) | 3:15 | 2025-03-24 | 2025-05-26 |
 | [Baby don't cry](https://open.spotify.com/track/4mF2kmGmate4BDgNdDDBOU) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Baby don't cry](https://open.spotify.com/album/1z4tn0beVw7pRjRRkKtFs0) | 3:28 | 2024-09-24 | 2024-10-16 |
 | [Backbeat](https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'／IMP.](https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT) | 3:20 | 2024-03-12 | 2024-04-24 |
-| [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 |  |
+| [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 | 2025-10-20 |
 | [Bad Influence \(Prod\. by Pharrell Williams\)](https://open.spotify.com/track/6uJlw4VHZulMvz6s3J2bO2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:47 | 2025-06-12 | 2025-08-25 |
 | [BAM\-BOO](https://open.spotify.com/track/4rRUH7C2JRGOJf8u3aIDJt) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO](https://open.spotify.com/album/0j6prwqcnjEWs7w9WRAT8d) | 2:34 | 2024-11-12 | 2025-01-13 |
 | [BANANA](https://open.spotify.com/track/0TX8pkIb7yJrMAx5hMacxh) | [KEIGO](https://open.spotify.com/artist/2R3B9TCBBnvAEoCu5KpecB) | [BANANA](https://open.spotify.com/album/5rM3gYVTRkvg4MdSNFu5Hx) | 3:29 | 2025-05-06 | 2025-08-01 |
@@ -108,6 +108,7 @@
 | [Butterfly](https://open.spotify.com/track/6EX2u3rBDR606W9N37iglB) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Butterfly](https://open.spotify.com/album/4yi5BI3qDbbMKo4hbaEwv7) | 3:00 | 2025-03-06 | 2025-04-24 |
 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 | 2023-12-19 | 2024-01-17 |
 | [Call Me](https://open.spotify.com/track/6lmEozWswCzaSr6SS3Klsq) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [FREQUENCY \- The 6th Mini Album](https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K) | 3:40 | 2025-03-06 | 2025-04-05 |
+| [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 | 2025-10-20 |  |
 | [Candle](https://open.spotify.com/track/74lbuos2VK1VChqCTkaSx8) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [KAIRYU](https://open.spotify.com/artist/7HEUaKo6XaZ3UZtD9TuWi9), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [TYOISM Vol.1 \(Deluxe Edition\)](https://open.spotify.com/album/7J24SqIYUkolU56WoIOwTM) | 2:51 | 2025-04-29 | 2025-05-28 |
 | [Candy House](https://open.spotify.com/track/4w91Af7ajtaWaKBFEzs9eE) | [SW:C](https://open.spotify.com/artist/17kzjtrmZ96anZT250z1Nr) | [1st Single album : Sweet Day](https://open.spotify.com/album/5hcOx3fLiB7gc8DJvQ4DzJ) | 2:58 | 2025-04-21 | 2025-07-23 |
 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 | 2023-11-23 | 2024-01-23 |
@@ -475,7 +476,7 @@
 | [Put Your Hearts Up \- feat\. PKCZ\(R\)](https://open.spotify.com/track/3RIRAC776wec7SjwOVbylT) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [HBZ](https://open.spotify.com/album/31jRGQGhvoWErr4unFo1jL) | 2:29 | 2024-03-19 | 2024-04-03 |
 | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/track/5e3JBCj1pGvJ9RumYIAbx9) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/5Ip66t8ULaYtxfEPWZAteE) | 2:42 | 2024-05-28 | 2024-06-05 |
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-03-06 | 2025-05-16 |
-| [R&B ME](https://open.spotify.com/track/4a3IJKPfJLG8JulXasAKU5) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin of Stray Kids](https://open.spotify.com/artist/1Ocr2yc1gR3a2a16yqNqal) | [Dear my muse](https://open.spotify.com/album/6w2g6hQzeb5OBJmpIip5ir) | 2:38 | 2025-09-01 |  |
+| [R&B ME](https://open.spotify.com/track/4a3IJKPfJLG8JulXasAKU5) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin of Stray Kids](https://open.spotify.com/artist/1Ocr2yc1gR3a2a16yqNqal) | [Dear my muse](https://open.spotify.com/album/6w2g6hQzeb5OBJmpIip5ir) | 2:38 | 2025-09-01 | 2025-10-20 |
 | [RAINBOWxPATROL](https://open.spotify.com/track/3XIbyNrlsz7pUvGSmP62sH) | [AMPTAKxCOLORS](https://open.spotify.com/artist/2ZdbtKGxrjGGn8xFp5V5e8) | [RAINBOWxPATROL \(Special Edition\)](https://open.spotify.com/album/7ibYbymQeDEPORP2mq1nK2) | 3:36 | 2024-03-19 | 2024-03-27 |
 | [READY 2 RUMBLE](https://open.spotify.com/track/1Vj1oP3Z1PJXsU2HpgEPvO) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [VCF](https://open.spotify.com/album/3mNJ0XCdr6TbY3TPN0k0tn) | 2:54 | 2025-09-09 |  |
 | [Ready to Jump](https://open.spotify.com/track/1pATsjibjLcbIZEYQjB11j) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 3:21 | 2023-11-23 | 2023-11-29 |

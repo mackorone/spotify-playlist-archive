@@ -4,7 +4,7 @@
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-107 songs - 7 hr 52 min
+108 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Let Me Into Your World \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/1ysq5K2FOAwX61rsUJA18V) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 2:39 | 2022-05-25 |  |
 | [Love Is Like A Baseball Game \- Live](https://open.spotify.com/track/76oOHuxPuW0FZ1q0CbWsak) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 3:25 | 2022-05-25 | 2025-04-04 |
 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 |  |
-| [My Girl](https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15) | 2:58 | 2024-04-02 |  |
+| [My Girl](https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG) | 2:58 | 2025-10-20 |  |
+| [My Girl](https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15) | 2:58 | 2024-04-02 | 2025-10-20 |
 | [My Girl](https://open.spotify.com/track/5FTMgPrAk6rgxUtRixquXB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Back To Back With Love](https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk) | 3:00 | 2023-12-15 | 2024-03-17 |
 | [My Girl \- Rerecorded](https://open.spotify.com/track/76rIRdlNl0W04EZl3P8YZA) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/album/3mfHEkuBkfqNzHsgVNybOr) | 2:58 | 2022-06-03 | 2023-09-10 |
 | [My Hero](https://open.spotify.com/track/6fjTzzc7pe2d60RIzEr0fG) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Too Hot to Handle](https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz) | 2:41 | 2022-07-23 |  |

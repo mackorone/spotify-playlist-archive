@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Zoé
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,079 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,098 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 11 | [Risk It All](https://open.spotify.com/track/6YqIL8y2yetofQGOKbaDJ6) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Risk It All](https://open.spotify.com/album/74lzPSkK7N52JYJwOcT9rq) | 3:12 |
 | 12 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 13 | [IS EK MAL](https://open.spotify.com/track/6AuttC8mNCudvb2cJSCjaZ) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e) | [IS EK MAL](https://open.spotify.com/album/5h0lgiFStqF6GAZRE8FpAz) | 3:45 |
-| 14 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
+| 14 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
 | 15 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 16 | [Life in a Jar](https://open.spotify.com/track/36dFarjsr2hllyeJX2XN2n) | [The Parlotones](https://open.spotify.com/artist/6kdqDRORMlysnNj2eIOsGs) | [Forgotten Songs: E.P\. 4 \- Fresh Takes and Forgotten Tapes](https://open.spotify.com/album/5oOWKaqihT8atWiXUXbNf5) | 4:00 |
 | 17 | [Stem uit die Noorde](https://open.spotify.com/track/7mDUU8xUjmxwBKefes3w6l) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Stem uit die Noorde](https://open.spotify.com/album/7nWJzSFDoQkaa8vSNPjce6) | 3:58 |
-| 18 | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb), [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Stellies \(feat\. Rooksein\)](https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK) | 2:47 |
+| 18 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 19 | [Hoe Was Jou Jaar?](https://open.spotify.com/track/2rOTTsCF3EUFdhzGnBnmv1) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Pretoria](https://open.spotify.com/album/3q3LTH5VGq6fDxOJfVZkjU) | 3:28 |
 | 20 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 21 | [Kies](https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Kies](https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs) | 3:28 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 40 | [Soet September](https://open.spotify.com/track/7sIrZNxGzIVlTdiJKLW5Qh) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Soet September](https://open.spotify.com/album/6julF0zqWUkXXfZWmm6GEy) | 2:23 |
 | 41 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
 | 42 | [Ons swerwe saam](https://open.spotify.com/track/5IkiMW0R6Xv0Kz92sEhCZS) | [Riku Lätti](https://open.spotify.com/artist/4E3S8voohPSw4En4DYX130) | [Ons swerwe saam](https://open.spotify.com/album/5kmMZtFSYZoNiZv092Wd5b) | 2:44 |
-| 43 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
+| 43 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 44 | [Arcade Machine](https://open.spotify.com/track/3Zf3455UeonFfMJV21pPV5) | [CJ Jonker](https://open.spotify.com/artist/2SvvK78Gnc0Re7Ucg4vrC1) | [Songs from my apartment](https://open.spotify.com/album/6yxlNrLWCX9kel8DjfApva) | 2:30 |
-| 45 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
+| 45 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
 | 46 | [Na Twaalf](https://open.spotify.com/track/3FRsEtGAtsp9PXc7HXA7Qa) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Na Twaalf](https://open.spotify.com/album/2UzZ1DukLP3oeYVb9QxXZf) | 3:32 |
 | 47 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 48 | [Dans Kans](https://open.spotify.com/track/6SHY3tPKFGJhNJFMeMKzsG) | [Ouderdoos](https://open.spotify.com/artist/3ul7KWGY5Vh7MbbiEDYwDo) | [Dans Kans](https://open.spotify.com/album/3flVIHnoIdDoZWF4fRkNyB) | 3:08 |

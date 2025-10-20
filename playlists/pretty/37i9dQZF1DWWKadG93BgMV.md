@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKadG93BgMV.md) - [plain]
 
 > Sonic the Hedgehog here! Start your engines! Fast beats, retro vibes, and a little bit of chaos—This playlist is a high\-octane ride through pure sound and speed\. Buckle up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,930 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,214 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275842,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/47rCs1JJXC6AG20WKbyOUR"
+    },
+    {
+      "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
       },
@@ -1086,7 +1104,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 193031,
       "name": "Moves",
       "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"

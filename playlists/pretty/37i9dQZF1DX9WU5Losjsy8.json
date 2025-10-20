@@ -1,6 +1,6 @@
 {
   "description": "Megapark bis Bierk\u00f6nig - Malle ist nur einmal im Jahr!",
-  "num_followers": 477426,
+  "num_followers": 477444,
   "original_name": "Malle Party 2025",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "Hey Macarena!",
         "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 164769,
       "name": "Hey Macarena!",
       "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
         "name": "OHNE DICH",
         "url": "https://open.spotify.com/album/4ojhahjUoeEdcbCaFVygXE"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 181000,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
-        "name": "3er",
-        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
-      },
-      "artists": [
-        {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        }
-      ],
-      "duration_ms": 144021,
-      "name": "3er",
-      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Chaos im Kopf",
-        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Chaos im Kopf",
-      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 180157,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "Chaos im Kopf",
+        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Chaos im Kopf",
+      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Du Bist Mein Gl\u00fcck",
-        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Du bist mein Gl\u00fcck",
-      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "Hallo kleine Maus",
         "url": "https://open.spotify.com/album/6ZlW7A0pfGWDUTnisoOri5"
       },
@@ -1315,26 +1299,18 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "MALLE BEREIT",
-        "url": "https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH"
+        "name": "Du Bist Mein Gl\u00fcck",
+        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "MAKZ 38",
-          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
-        },
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
         }
       ],
-      "duration_ms": 169885,
-      "name": "MALLE BEREIT",
-      "url": "https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O"
+      "duration_ms": 216706,
+      "name": "Du bist mein Gl\u00fcck",
+      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1359,6 +1335,30 @@
       "duration_ms": 184160,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "MALLE BEREIT",
+        "url": "https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        }
+      ],
+      "duration_ms": 169885,
+      "name": "MALLE BEREIT",
+      "url": "https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O"
     },
     {
       "added_at": "2025-10-16 22:00:27",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-10-16 22:00:27",
       "album": {
-        "name": "Mut zur Katastrophe (Gold Edition)",
-        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ott",
-          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Regenbogenfarben",
-      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
-    },
-    {
-      "added_at": "2025-10-16 22:00:27",
-      "album": {
         "name": "Saufi saufi",
         "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 206302,
       "name": "Saufi saufi",
       "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2025-10-16 22:00:27",
+      "album": {
+        "name": "Mut zur Katastrophe (Gold Edition)",
+        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ott",
+          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "Regenbogenfarben",
+      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
     },
     {
       "added_at": "2025-10-16 22:00:27",

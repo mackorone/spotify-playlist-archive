@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Novak808",
+          "url": "https://open.spotify.com/artist/2HGlCBbHAKPNPinyrObkFQ"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143878,
+      "name": "(p)atika",
+      "url": "https://open.spotify.com/track/7t2v3ZEtR6HqkdOsNEaAgd"
+    },
+    {
+      "album": {
         "name": "BARBATULA BARBATULA",
         "url": "https://open.spotify.com/album/6shv3bmIBOtB1hoGURDBuA"
       },
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
@@ -1814,7 +1836,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 211670,
       "name": "ANGYALOK",
       "url": "https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw"
@@ -3102,7 +3124,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 277912,
       "name": "Barna Szofi",
       "url": "https://open.spotify.com/track/7L8Hk6KIBjbkD0IzQOBkyn"
@@ -4340,6 +4362,24 @@
       "duration_ms": 125825,
       "name": "bulbaba",
       "url": "https://open.spotify.com/track/7xdiiqtQPUXrKcd6BoFyYd"
+    },
+    {
+      "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "bunker",
+      "url": "https://open.spotify.com/track/5n9ManSbDwRf4fO83attSq"
     },
     {
       "album": {
@@ -6066,7 +6106,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "Csurran, cseppen",
       "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
@@ -7541,6 +7581,24 @@
     },
     {
       "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77692,
+      "name": "drrr\u00e1gap\u00e1lesz - Bonus",
+      "url": "https://open.spotify.com/track/0rQtIW6MQQwNsf3wmh63AB"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -8304,7 +8362,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 173100,
       "name": "Entit\u00e1s",
       "url": "https://open.spotify.com/track/07laYuqY1DjvMgp5HNXyF2"
@@ -10739,6 +10797,24 @@
     },
     {
       "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122301,
+      "name": "gungnir",
+      "url": "https://open.spotify.com/track/1fmtXCaFCPeC8JtGDj2dM1"
+    },
+    {
+      "album": {
         "name": "Gurulgatok",
         "url": "https://open.spotify.com/album/4MXiWo5vhU1I3N9k72bu7F"
       },
@@ -11552,10 +11628,28 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 194375,
       "name": "her\u00f3t",
       "url": "https://open.spotify.com/track/4mFHpUfQG5U3xXOubtyGZP"
+    },
+    {
+      "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194375,
+      "name": "her\u00f3t",
+      "url": "https://open.spotify.com/track/6UhzrLYF8h9yrCSAtwJ2Qy"
     },
     {
       "album": {
@@ -12786,6 +12880,24 @@
       "duration_ms": 199253,
       "name": "Ice Attack",
       "url": "https://open.spotify.com/track/70ToiXlzl8N1EgfC07ZcZE"
+    },
+    {
+      "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136124,
+      "name": "ice.and.lemon",
+      "url": "https://open.spotify.com/track/6gmrLSx9Vtsa1Ujh8Y0ySV"
     },
     {
       "album": {
@@ -14236,6 +14348,24 @@
       "duration_ms": 170498,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/5P03xImM2uFukzoty7NDw7"
+    },
+    {
+      "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194746,
+      "name": "kif.lee",
+      "url": "https://open.spotify.com/track/27ku2bPgLSoGNyaCORu2NK"
     },
     {
       "album": {
@@ -18837,6 +18967,24 @@
     },
     {
       "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156971,
+      "name": "nanecsi",
+      "url": "https://open.spotify.com/track/5hGcA5x7UfbpBoerYpDuBr"
+    },
+    {
+      "album": {
         "name": "Origins (Deluxe)",
         "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
       },
@@ -20168,7 +20316,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -22308,7 +22456,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 130679,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
@@ -22580,7 +22728,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 171875,
       "name": "p\u00f6rk\u00f6lt",
       "url": "https://open.spotify.com/track/0M1CutPz25funLH08wHAL1"
@@ -24601,6 +24749,24 @@
     },
     {
       "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73750,
+      "name": "shiburub\u00e1",
+      "url": "https://open.spotify.com/track/6NpVLmtCP0hUGXTx38rN3l"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -25810,7 +25976,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 168738,
       "name": "STRESSZ",
       "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
@@ -27284,6 +27450,24 @@
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "templi",
+      "url": "https://open.spotify.com/track/3SwL553LdfJOag8j967Kr8"
     },
     {
       "album": {
@@ -29997,6 +30181,28 @@
     },
     {
       "album": {
+        "name": "Skatulya II.",
+        "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183931,
+      "name": "vemzavr!",
+      "url": "https://open.spotify.com/track/59a91dqXiVbY4zUuvqgZ4W"
+    },
+    {
+      "album": {
         "name": "vemzavr!",
         "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
       },
@@ -30012,7 +30218,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 183931,
       "name": "vemzavr!",
       "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
@@ -30128,7 +30334,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 189714,
       "name": "VID\u00c9KI CSAJSZI",
       "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
@@ -31230,7 +31436,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 65517,
+  "num_followers": 65539,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Contagious",
+        "url": "https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx"
+      },
+      "artists": [
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "In The Streets To Africa",
         "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 254866,
       "name": "Soul Provider",
       "url": "https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Contagious",
-        "url": "https://open.spotify.com/album/46fXrRFxFf1L5LycVoOetx"
-      },
-      "artists": [
-        {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
     },
     {
       "added_at": "2020-10-19 09:02:25",

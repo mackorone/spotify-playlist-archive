@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Anywhere But Home (Live)",
+        "url": "https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257506,
+      "name": "Tourniquet - Live From Le Z\u00e9nith,France/2004",
+      "url": "https://open.spotify.com/track/2IR6jzSjOjp8X3Ib4SYDI8"
+    },
+    {
+      "album": {
         "name": "The Bitter Truth",
         "url": "https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY"
       },

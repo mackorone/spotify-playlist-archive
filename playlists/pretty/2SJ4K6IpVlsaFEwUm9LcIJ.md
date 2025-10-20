@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,450 likes - 63 songs - 3 hr 32 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,449 likes - 64 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 61 | [Phish Pepsi](https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 2:29 |
 | 62 | [As You Turn to Go](https://open.spotify.com/track/2qmg9WhT7nhPe0OwvPQ9ax) | [The 6ths](https://open.spotify.com/artist/7HzHgQO5cFieqjoINahKkm), [Momus](https://open.spotify.com/artist/0Uuw1MHNH56xL76bTOVJE8) | [Hyacinths and Thistles](https://open.spotify.com/album/0qU0P83XUlRE0KO0DaRhYM) | 1:59 |
 | 63 | [Victor, Fly Me to Stafford](https://open.spotify.com/track/3MNFiVcKOPlcvXcx9EHdpE) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 2:14 |
+| 64 | [Golden Fall](https://open.spotify.com/track/1MxBaWWTu4RRh7edgHExVb) | [Ooberman](https://open.spotify.com/artist/0QEF9qRSTtRUV6leWVPhQt) | [Shorley Wall](https://open.spotify.com/album/24V0ER59SFtczhNhoqOYMq) | 4:55 |
 
-Snapshot ID: `AAANSEkFDKZljVgyVaQADVjSZZvRTUO1`
+Snapshot ID: `AAANScd1UJjhHB80rL5zm9kP8sS1HIhR`

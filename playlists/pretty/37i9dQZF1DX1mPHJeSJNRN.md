@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,337 likes - 97 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,336 likes - 97 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 26 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
 | 27 | [I'm In The Mood For Love \- Take 3 / Alternate Take](https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:34 |
 | 28 | [There'll Be Another Spring](https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [The Lost Tapes](https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi) | 3:40 |
-| 29 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 |
-| 30 | [April Come She Will](https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 3:14 |
+| 29 | [April Come She Will](https://open.spotify.com/track/1VpjU6LnYh3IPH5et04Vj3) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/4xwaeLH44zzZQdxWUZPg3V) | 3:14 |
+| 30 | [Omission](https://open.spotify.com/track/3k5DKMMsGADkmtIVa72D7p) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Omission](https://open.spotify.com/album/593q9vEn6lZFiooIkdGWgm) | 3:26 |
 | 31 | [When the Sun Comes Out](https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Nothing Standard](https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH) | 4:07 |
 | 32 | [Here I'll Stay](https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jeru](https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP) | 5:00 |
 | 33 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 |

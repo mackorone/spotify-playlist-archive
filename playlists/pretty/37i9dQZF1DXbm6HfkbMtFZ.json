@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 827241,
+  "num_followers": 827365,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 229573,
       "name": "Can We Pretend",
       "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "The Miraculous Hump Returns From The Moon",
-        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
-      },
-      "artists": [
-        {
-          "name": "Sopwith Camel",
-          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Fazon",
-      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "A Strange Arrangement",
         "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "The Miraculous Hump Returns From The Moon",
+        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+      },
+      "artists": [
+        {
+          "name": "Sopwith Camel",
+          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Fazon",
+      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Dark Days [Feat. Sylvan Esso]",
-        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Dark Days [Feat. Sylvan Esso]",
-      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
@@ -1239,6 +1219,42 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
+        "name": "My Conversation",
+        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
+      },
+      "artists": [
+        {
+          "name": "Silas Short",
+          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "My Conversation",
+      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Dark Days [Feat. Sylvan Esso]",
+        "url": "https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Dark Days [Feat. Sylvan Esso]",
+      "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
         "name": "Tomorrow Again",
         "url": "https://open.spotify.com/album/5TVlqKjhOfn0mfjDLreXvG"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 238500,
       "name": "Rock Pools",
       "url": "https://open.spotify.com/track/3BwZ3EGwspNwvzcKUwqOoj"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "My Conversation",
-        "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
-      },
-      "artists": [
-        {
-          "name": "Silas Short",
-          "url": "https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "My Conversation",
-      "url": "https://open.spotify.com/track/3HaXlnLbvkmdZN401glSoE"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
       },
       "artists": [
         {
-          "name": "Yenkee",
-          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 226162,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Yenkee",
+          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
         }
       ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+      "duration_ms": 226162,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Grapetooth",
-        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
-      },
-      "artists": [
-        {
-          "name": "Grapetooth",
-          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Red Wine",
-      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 202720,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Grapetooth",
+        "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
+      },
+      "artists": [
+        {
+          "name": "Grapetooth",
+          "url": "https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Turn The World On",
         "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 215986,
       "name": "Diving (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+        "name": "Solutions",
+        "url": "https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh"
       },
       "artists": [
         {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+          "name": "Greenflow",
+          "url": "https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N"
         }
       ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
+      "duration_ms": 278320,
+      "name": "No Other Life Without You",
+      "url": "https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Solutions",
-        "url": "https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh"
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
       },
       "artists": [
         {
-          "name": "Greenflow",
-          "url": "https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N"
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
         }
       ],
-      "duration_ms": 278320,
-      "name": "No Other Life Without You",
-      "url": "https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ"
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2025-08-29 04:23:56",

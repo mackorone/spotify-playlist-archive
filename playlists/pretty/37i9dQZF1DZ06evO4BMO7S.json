@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 23188,
+  "num_followers": 23197,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAAWmNiPKCbtdPFaqHUNrbLr",
+  "snapshot_id": "aPLYgAAAAABlcfpHNUoy9lXepmLbb0TK",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NamgungFEFERE",
-        "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
       "artists": [
-        {
-          "name": "Silica Gel",
-          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
-        },
         {
           "name": "Japanese Breakfast",
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 228544,
-      "name": "NamgungFEFERE (feat. Japanese Breakfast)",
-      "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
+      "duration_ms": 171000,
+      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
+      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+        "name": "NamgungFEFERE",
+        "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
       },
       "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
         {
           "name": "Japanese Breakfast",
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
-      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
+      "duration_ms": 228544,
+      "name": "NamgungFEFERE (feat. Japanese Breakfast)",
+      "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Over Heels b/w Essentially",
-        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 196214,
-      "name": "Essentially",
-      "url": "https://open.spotify.com/track/3fIwfLKOf7bVMPMxPSITtE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Sees Me Like You Do",
         "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 211635,
       "name": "Nobody Sees Me Like You Do",
       "url": "https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head Over Heels b/w Essentially",
+        "url": "https://open.spotify.com/album/6A6tq2zXunbYJqXIHNGwMQ"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 196214,
+      "name": "Essentially",
+      "url": "https://open.spotify.com/track/3fIwfLKOf7bVMPMxPSITtE"
     },
     {
       "added_at": null,

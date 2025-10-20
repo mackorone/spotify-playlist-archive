@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,027 songs - 4 day 9 hr 2 min
+2,028 songs - 4 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
 | [Hate You So Much](https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hate You So Much](https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U) | 2:36 | 2025-02-27 | 2025-06-20 |
 | [Hateless](https://open.spotify.com/track/26qUR3n6e4qFIDJUgTdTjw) | [Margaux Flavet](https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV) | [Hateless](https://open.spotify.com/album/6OzjCWx2IHhVH9Rg6gJoem) | 3:05 | 2025-09-01 | 2025-09-19 |
+| [Haunted Disco](https://open.spotify.com/track/3rb03cQotAdhTuM4wHMojD) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN), [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Haunted Disco](https://open.spotify.com/album/1n9r7bEikcyEqGbMenMySZ) | 3:07 | 2025-10-16 |  |
 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 | 2021-12-16 | 2022-03-10 |
 | [Headed North](https://open.spotify.com/track/6JnGmZTooUN8UW37syo8mV) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Headed North](https://open.spotify.com/album/3h9JCAbfodHxKpFVT5oXiL) | 2:56 | 2023-10-13 | 2024-01-26 |
 | [Hear Me Out](https://open.spotify.com/track/2DPvoJDAidOfXnB0QuFQiy) | [San Sebastian](https://open.spotify.com/artist/3i5CinvLDgkzioyuI1oa1E) | [Hear Me Out](https://open.spotify.com/album/1WRUI0cnE0LH0J9TJkNeQa) | 3:04 | 2024-06-13 | 2024-08-16 |
@@ -1691,7 +1692,7 @@
 | [Swishers](https://open.spotify.com/track/7zIwP1iP2CdyEeP3PB8ie9) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Swishers](https://open.spotify.com/album/0pOCk5fpyULfYKqDbpCOtC) | 3:24 | 2021-12-16 | 2022-01-06 |
 | [Symfoni](https://open.spotify.com/track/38MnFblJDWzj85GVosVhVX) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F), [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Symfoni](https://open.spotify.com/album/2dYBO9CDVhABuAuX8lynWI) | 2:58 | 2023-03-23 | 2023-10-06 |
 | [Synd om dig](https://open.spotify.com/track/0CbWynA3BNPIwapjEdqXu5) | [Malin Christin](https://open.spotify.com/artist/7yf7WsRvoRDq5va1SKGgBa) | [Synd om dig](https://open.spotify.com/album/3k2w8Li8JZC47hql6XnLSs) | 2:58 | 2022-02-26 | 2022-07-24 |
-| [Syrener \- Nause Remix](https://open.spotify.com/track/369jYkX3u8z5s97xeqNIdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Syrener \(Nause Remix\)](https://open.spotify.com/album/1PD8dXZaYiobzaAj9QiHmx) | 2:57 | 2025-06-19 |  |
+| [Syrener \- Nause Remix](https://open.spotify.com/track/369jYkX3u8z5s97xeqNIdU) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Syrener \(Nause Remix\)](https://open.spotify.com/album/1PD8dXZaYiobzaAj9QiHmx) | 2:57 | 2025-06-19 | 2025-10-20 |
 | [Säg det](https://open.spotify.com/track/6R6ZXK8m5JyJWrQCakbwjH) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Säg det](https://open.spotify.com/album/0a2rtVARvImwnhf4DLRQaL) | 3:16 | 2025-03-07 | 2025-04-26 |
 | [Säg det som du menar det](https://open.spotify.com/track/1ZYsXA05ID62zPpnxlMPHj) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Säg det som du menar det](https://open.spotify.com/album/2khYdwNQ1tuRDQOOtleqst) | 2:20 | 2022-04-07 | 2023-01-29 |
 | [Säg förlåt](https://open.spotify.com/track/5foAcyMDMeFa4mMDwJUmqh) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Säg förlåt](https://open.spotify.com/album/2XGRSqqJKWNQn7KIgwSMdU) | 4:02 | 2024-03-07 | 2024-04-19 |

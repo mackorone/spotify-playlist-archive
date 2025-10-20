@@ -4,7 +4,7 @@
 
 > NSWER! Change up!
 
-120 songs - 4 hr 44 min
+123 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,9 @@
 | [ADORE U](https://open.spotify.com/track/0mPYjKXaHYMPhtq0hCIkgn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB) | 2:30 | 2025-10-14 |  |
 | [BEAT BEAT](https://open.spotify.com/track/3P8l7sbL5dxKlS4gcJ1qJI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2) | 2:48 | 2024-10-08 |  |
 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 | 2025-10-14 |  |
+| [Blue Valentine \(A Cappella Ver.\)](https://open.spotify.com/track/6ZO7KaFkeMbl45q6UpPTBr) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i) | 3:06 | 2025-10-20 |  |
+| [Blue Valentine \(English Ver.\)](https://open.spotify.com/track/4J2toEhFzQlGomsnJJNia5) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i) | 3:06 | 2025-10-20 |  |
+| [Blue Valentine \(Sped Up Ver.\)](https://open.spotify.com/track/6TuDKfuFwpmYDj3z4OgD6n) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine \(MIXX Ver.\)](https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i) | 2:30 | 2025-10-20 |  |
 | [BOOM](https://open.spotify.com/track/4UEXKi06Ykkx52mme7VvoH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:55 | 2024-01-15 |  |
 | [Break The Wall](https://open.spotify.com/track/1SmJafjGG3oM3sflmcZRXU) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 3:24 | 2024-01-15 |  |
 | [Come On](https://open.spotify.com/track/52qhCExC8StLsHWJB7QqQN) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Come On](https://open.spotify.com/album/34389PjcqI6aPBjPgpYTTW) | 2:26 | 2024-10-08 |  |

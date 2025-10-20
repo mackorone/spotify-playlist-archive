@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Tame Impala, Russo & Ronnie Flex, Mart Hoogkamer & Miss Montreal en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,577 likes - 93 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,559 likes - 93 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

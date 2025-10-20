@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 802818,
+  "num_followers": 802924,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 281200,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 428240,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 281200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL"
     },
     {
       "added_at": "2024-07-02 22:47:47",

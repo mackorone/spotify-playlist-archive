@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Jabbar ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,302 likes - 141 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,283 likes - 141 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 46 | [KOKU](https://open.spotify.com/track/6sBVXHgacix2TzZACuAaM0) | [AGAB](https://open.spotify.com/artist/3QKeYTHlgDrec7FDej6XiN) | [KOKU](https://open.spotify.com/album/6vNLCuQmsPRkVeahllBnII) | 3:10 |
 | 47 | [Galata](https://open.spotify.com/track/694yqIsuLtrh3CsFxohjsn) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso) | [Galata & Karaköy](https://open.spotify.com/album/5MZ4mnI9w8hp8GtahEyE2g) | 4:38 |
 | 48 | [The Vision \(Song For Memo\)](https://open.spotify.com/track/0FQAI46lflNvtUjs2sKKFQ) | [Burhan Öçal](https://open.spotify.com/artist/4wOEkf10AAMKx0yCGEEnxm), [Jamaaladeen Tacuma](https://open.spotify.com/artist/4Q6rJWmXt75wi3OemnrbYd), [The Trakya All Stars](https://open.spotify.com/artist/6dzOaE9U1b5X6NrbPhEjhj) | [Trakya Funk](https://open.spotify.com/album/6UHYieeFmxbMfnrPo9nyXS) | 4:12 |
-| 49 | [çek kopar](https://open.spotify.com/track/1K8QVKN7kijQzM8Bw21UNV) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [kasis](https://open.spotify.com/artist/4Fd3fnWjOORDhjpeOp2Gpi), [Eren Erkman](https://open.spotify.com/artist/0uXwLG4jtinRCVK62RT2CH) | [çek kopar](https://open.spotify.com/album/0lBUzezxyMSfUT3szXEtWH) | 3:01 |
+| 49 | [çek kopar](https://open.spotify.com/track/1K8QVKN7kijQzM8Bw21UNV) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [kasis](https://open.spotify.com/artist/4Fd3fnWjOORDhjpeOp2Gpi), [Eren Erkman](https://open.spotify.com/artist/5fXsOMCZo4dhoUma2sxSq7) | [çek kopar](https://open.spotify.com/album/0lBUzezxyMSfUT3szXEtWH) | 3:01 |
 | 50 | [Moonshine](https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Moonshine](https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN) | 2:40 |
 | 51 | [bing bong](https://open.spotify.com/track/0nwygFtUBQiDA9iFIrZGR9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [VNLLA](https://open.spotify.com/artist/5IvjzD21lPQIO842GrDejr) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:10 |
 | 52 | [Bleu](https://open.spotify.com/track/07olHZDS7WSIJh7lzQKgXX) | [Ko Shin Moon](https://open.spotify.com/artist/36KTxdXw3fGNuraJZKOvw3) | [Sîn](https://open.spotify.com/album/3kfzMRXlCX6q4uvEjR5Ong) | 5:44 |

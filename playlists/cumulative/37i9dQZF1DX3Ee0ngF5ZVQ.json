@@ -2051,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
+      },
+      "artists": [
+        {
+          "name": "Graham St. Clair Band",
+          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212346,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
+    },
+    {
+      "album": {
         "name": "Change the Game",
         "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
       },
@@ -12920,7 +12938,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 167520,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"

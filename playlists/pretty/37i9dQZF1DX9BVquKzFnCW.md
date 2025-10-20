@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,587 likes - 100 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,616 likes - 100 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 18 | [Easy Does It](https://open.spotify.com/track/3MYHx9zvj9NVXNEGXpBcXT) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/2Od5gIW3c3szwoTxl0Hhu7) | 5:23 |
 | 19 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/48VD2hFqAloMuDn9fLRp43) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Rollins Plays For Bird](https://open.spotify.com/album/7xdC42wA0bImc44aPgC6GW) | 4:52 |
 | 20 | [Body And Soul](https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ballads](https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x) | 6:29 |
-| 21 | [It Never Entered My Mind](https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Vol.1](https://open.spotify.com/album/6g4tw8mwge2gJKqJQxE5r3) | 6:42 |
+| 21 | [It Never Entered My Mind](https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards Vol.1](https://open.spotify.com/album/6g4tw8mwge2gJKqJQxE5r3) | 6:42 |
 | 22 | [Heartaches](https://open.spotify.com/track/6JtGvHxC6mW8aVy6ZEnWIA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:47 |
 | 23 | [Two Left Feet](https://open.spotify.com/track/1USso5XOEXTvwWTwW5zS2V) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Jump For Joy](https://open.spotify.com/album/0A5J6BzWSkpp8l4ju04hCu) | 3:15 |
 | 24 | [Blue Monk](https://open.spotify.com/track/1nkyovFpEVgNnHWXrnuGun) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/5TX0e0FtiEaDcgXar0mgAT) | 5:19 |

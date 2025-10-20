@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 
 > El sonido de la nueva canción latinoamericana\. Foto: Mónica Giraldo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,630 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,631 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 | 20 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 |
 | 21 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 |
 | 22 | [Castigo](https://open.spotify.com/track/3skkwCGUuoygFrkw7BNyNM) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Castigo](https://open.spotify.com/album/3WBO4pkzmwu2Tak01iy8vo) | 4:36 |
-| 23 | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/track/5sPyYzdKLMjWeGSB3ZKVlT) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/album/3Xq3Zg46E7TG71GZbg1lgX) | 3:42 |
+| 23 | [Mailof \- Sesión en Vivo](https://open.spotify.com/track/5sPyYzdKLMjWeGSB3ZKVlT) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/album/3Xq3Zg46E7TG71GZbg1lgX) | 3:42 |
 | 24 | [Señor Tiempo](https://open.spotify.com/track/2peeEyNr3VL1nmc3y25kVs) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm) | [Señor Tiempo](https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U) | 5:40 |
 | 25 | [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 |
 | 26 | [Ermitaño](https://open.spotify.com/track/2gh9CRUf2GNmN4Cs3QDXyZ) | [Mulato Bantú](https://open.spotify.com/artist/5LlAvjBzOsTKiGsb9r3sHe) | [Ermitaño](https://open.spotify.com/album/11nf3Ijjc2OWyLfmuH449K) | 2:49 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 | 30 | [Mi Propio Lago](https://open.spotify.com/track/4Xktlj4EcbwmjdrTKmrlWu) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Mi Propio Lago](https://open.spotify.com/album/4asixMg1KsVDnmYPoDZ7MG) | 3:28 |
 | 31 | [Mis Hijos](https://open.spotify.com/track/7mkgFb0fr5w8pH7RJmmgQI) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1), [Micorriza](https://open.spotify.com/artist/1R6yci68ME6gkTPEtTee8U) | [Mis Hijos](https://open.spotify.com/album/43xhrCppfKm3cKjkigaRJy) | 2:51 |
 | 32 | [Perdido](https://open.spotify.com/track/5buZqedSR0olgt0xUlFiJW) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Perdido](https://open.spotify.com/album/4uGnO4nlb3mrVT8INc0IJW) | 4:01 |
-| 33 | [Quiero Que Seas Tú \(Remix\)](https://open.spotify.com/track/4QhOsi6XJMPuslhD2ltlro) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Quiero Que Seas Tú \(Remix\)](https://open.spotify.com/album/2FtdAZMEPgtBlSDtJUABcg) | 2:35 |
+| 33 | [Quiero Que Seas Tú \- Remix](https://open.spotify.com/track/4QhOsi6XJMPuslhD2ltlro) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Quiero Que Seas Tú \(Remix\)](https://open.spotify.com/album/2FtdAZMEPgtBlSDtJUABcg) | 2:35 |
 | 34 | [Paz](https://open.spotify.com/track/28mhI37mVmow7pE4PGNIN6) | [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Paz](https://open.spotify.com/album/36DAX4NIHRTDVCHRpPG6Mk) | 3:25 |
 | 35 | [Como el Río](https://open.spotify.com/track/2E5hbTch0i7I2PKCJyseuc) | [Katie James](https://open.spotify.com/artist/22CvgjvwICkeXjcYWLykD3), [Victoria Sur](https://open.spotify.com/artist/4woBlhdgnf74gmnKU7dZF0) | [Como el Río](https://open.spotify.com/album/7uJK8mEmU7bbdi1AwkOmyi) | 3:23 |
 | 36 | [Avisarás](https://open.spotify.com/track/2J6HbyxY6CENgWplG3LfrJ) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Avisarás](https://open.spotify.com/album/5cswaSE9pnLtoUbKJ4SXLj) | 4:17 |

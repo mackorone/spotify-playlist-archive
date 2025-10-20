@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > 💛 giovane pop\-Z  💛 Cover: Trigno
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,587 likes - 99 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,562 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

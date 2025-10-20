@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: <br/>Venna
 
-753 songs - 2 day 4 hr 28 min
+754 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-28 | 2024-04-19 |
 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-02-04 | 2023-04-30 |
 | [Be Myself](https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [Be Myself](https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW) | 3:47 | 2024-02-02 | 2024-10-16 |
-| [Beautiful Sunday](https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg) | [SwanNek](https://open.spotify.com/artist/1ywBtmKTo6pI92wFJiJHii), [Ras Tex](https://open.spotify.com/artist/6CEiVua8xVV3bJ8fuGGBk1) | [Beautiful Sunday](https://open.spotify.com/album/5IsHRQl6KKpRh9zMz9SQ8Z) | 4:36 | 2024-08-29 |  |
+| [Beautiful Sunday](https://open.spotify.com/track/3LAL1nIrnaJGAQmN7cJutg) | [SwanNek](https://open.spotify.com/artist/1ywBtmKTo6pI92wFJiJHii), [Ras Tex](https://open.spotify.com/artist/6CEiVua8xVV3bJ8fuGGBk1) | [Beautiful Sunday](https://open.spotify.com/album/5IsHRQl6KKpRh9zMz9SQ8Z) | 4:36 | 2024-08-29 | 2025-10-20 |
 | [Beetle Juice](https://open.spotify.com/track/5bXfImRd5EX482Gc3bdarK) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt) | [Beetle Juice](https://open.spotify.com/album/0BBeS3P56yDZnQEbB6RjaI) | 3:51 | 2021-12-17 | 2022-05-11 |
 | [BEG](https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [BEG](https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T) | 2:40 | 2024-09-05 | 2024-11-03 |
 | [Beggin' Man](https://open.spotify.com/track/5xb5LmpDzZqvthEfwX7uwU) | [Evil Genius](https://open.spotify.com/artist/60BHUa95k7tplx1kHjHfhF), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Beggin' Man](https://open.spotify.com/album/3ruRVM6PyTJ0uwBXkxoQD3) | 3:22 | 2022-11-11 | 2023-09-02 |
@@ -128,6 +128,7 @@
 | [Clashing Colours](https://open.spotify.com/track/1WSNR8LyG3QTWAA1MaRsCq) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Clashing Colours](https://open.spotify.com/album/4mkPcQDRD7pWVgY2cy8hmp) | 4:44 | 2022-03-31 | 2023-02-17 |
 | [Close To You](https://open.spotify.com/track/5fGjThnj0fj4zjWfqIYAcz) | [Emily Luke\-Taylor](https://open.spotify.com/artist/2VlXnWyGXcuSHkIrFbkcqd) | [Close To You](https://open.spotify.com/album/7nCZImynFUsJbsV030ulRo) | 3:44 | 2023-03-08 | 2023-03-09 |
 | [Closer \(feat\. Andreya Triana\)](https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Closer \(feat\. Andreya Triana\)](https://open.spotify.com/album/7tE9gx7J5h4NKc4K3hVcmt) | 4:18 | 2023-12-01 | 2023-12-26 |
+| [Coastal Highway](https://open.spotify.com/track/4LJA38YNSHtYKcdIt6REgl) | [Saiga Tracks](https://open.spotify.com/artist/0SLqRYBLu20labjVJEoYTM), [Josh Short](https://open.spotify.com/artist/4a2hA36UETzIWXoiUvyO58), [Mike Anning](https://open.spotify.com/artist/5wLl437we8yn8wwdJu0Z6b), [Joabe Reis](https://open.spotify.com/artist/1JiLPWNdWWRYIkMfh4m2PK) | [Coastal Highway](https://open.spotify.com/album/0MVRf0bD6dp8LMMEBszZCy) | 3:43 | 2025-10-16 |  |
 | [Coasting](https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:49 | 2021-12-17 | 2023-03-11 |
 | [CODE](https://open.spotify.com/track/7mf1jqnFX2jgZg9bgK8V6r) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Hyper\-Dimensional Expansion Beam](https://open.spotify.com/album/1XPsJnIVMjOt04rczMWVO4) | 4:15 | 2023-01-06 | 2023-11-03 |
 | [Coffee in the Rain](https://open.spotify.com/track/37Q5AiW8wTADD8fZekJzoD) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Coffee in the Rain](https://open.spotify.com/album/5hEctCvqvj9P4nohAsh6Gf) | 2:24 | 2022-03-24 | 2022-04-21 |

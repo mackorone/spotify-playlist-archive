@@ -474,7 +474,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 232622,
       "name": "Dance In The Flames",
       "url": "https://open.spotify.com/track/6pE9MTpAKQ4nkV5ASQHAmi"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 286720,
       "name": "God Given Shine",
       "url": "https://open.spotify.com/track/6Ip94IBEVfOxlJCEDy4nh6"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-20",
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
@@ -1493,6 +1493,32 @@
     },
     {
       "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/3N7Og743HnTDJ9qWk0E5u2"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        },
+        {
+          "name": "EDIDON",
+          "url": "https://open.spotify.com/artist/2xjuM26BSMnQb2LE20tdUR"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303119,
+      "name": "Pain into Champagne (feat. EDIDON)",
+      "url": "https://open.spotify.com/track/5EaFZvtn2nCOAOMPeXibn4"
+    },
+    {
+      "album": {
         "name": "The Lost Songs Volume One",
         "url": "https://open.spotify.com/album/2ovI8sgpte18SCSuhhlzZd"
       },
@@ -1638,6 +1664,32 @@
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
+    },
+    {
+      "album": {
+        "name": "Purpose",
+        "url": "https://open.spotify.com/album/0LoLLKMlLm2nO0lcSVJWp8"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        },
+        {
+          "name": "Stump Gets",
+          "url": "https://open.spotify.com/artist/2htgS34aH7JMnD6VIH6FMD"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255792,
+      "name": "Revolution (feat. Stumpgets)",
+      "url": "https://open.spotify.com/track/4dtR7Ehj8jzXcQxqQBnKfb"
     },
     {
       "album": {
@@ -1988,6 +2040,24 @@
       "duration_ms": 209361,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/0kRaNB7pA0PdHI3HPG3WfY"
+    },
+    {
+      "album": {
+        "name": "3rd Eye View",
+        "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166378,
+      "name": "The Maze",
+      "url": "https://open.spotify.com/track/528oZyQe4wFh08smlXn1Xy"
     },
     {
       "album": {

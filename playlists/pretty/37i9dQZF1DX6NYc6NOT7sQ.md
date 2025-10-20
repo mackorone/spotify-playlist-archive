@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,113 likes - 100 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,129 likes - 100 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 3 | [Mr\. Midnight](https://open.spotify.com/track/6oF6X503WoGvie6uXiGBzo) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW) | [Rise and Fall](https://open.spotify.com/album/5DgditlNT66DjPbrqsoAAM) | 6:39 |
 | 4 | [Coco Classico](https://open.spotify.com/track/4YQKm0p2s7vEYzOJTmqz6h) | [Masomenos](https://open.spotify.com/artist/720Je3zIeXsRIWUcWRO8uX) | [Balloons](https://open.spotify.com/album/1jSr21Kfg6bUjtYVt1S5Q7) | 3:54 |
 | 5 | [Himmelfahrten](https://open.spotify.com/track/1B5NjcWM5GtV1k6eZ7zguH) | [Die Wilde Jagd](https://open.spotify.com/artist/6jLJRdVrrcyikxCiZimcqd) | [Haut](https://open.spotify.com/album/6CQeHQug44wz9YiyP8k4QM) | 10:04 |
-| 6 | [Se Essa Rua Fosse Minha \(Goyanu Remix\)](https://open.spotify.com/track/476v8bK66rwRv3r6dLV0sH) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [reple](https://open.spotify.com/artist/0kHbe0OXs3qWW3T2uclNFt), [Íria](https://open.spotify.com/artist/6VgLtLLPvz5yACKODlOwU4), [Goyanu](https://open.spotify.com/artist/5sPMTZypbBMh5mAdIFcuMA) | [Se Essa Rua Fosse Minha \(Deluxe\)](https://open.spotify.com/album/1bzDa2y7eeDmcRskOpmbtl) | 8:08 |
+| 6 | [Se Essa Rua Fosse Minha \- Goyanu Remix](https://open.spotify.com/track/476v8bK66rwRv3r6dLV0sH) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [reple](https://open.spotify.com/artist/0kHbe0OXs3qWW3T2uclNFt), [Íria](https://open.spotify.com/artist/6VgLtLLPvz5yACKODlOwU4), [Goyanu](https://open.spotify.com/artist/5sPMTZypbBMh5mAdIFcuMA) | [Se Essa Rua Fosse Minha \(Deluxe\)](https://open.spotify.com/album/1bzDa2y7eeDmcRskOpmbtl) | 8:08 |
 | 7 | [Snow](https://open.spotify.com/track/1cIumFsbwRNIH8QBbbIvHQ) | [Seba](https://open.spotify.com/artist/3ac1UBV3aHTPZ94T0PhfvS) | [Sick Music](https://open.spotify.com/album/5XURKVwvLzvpebY0MwMYrg) | 5:10 |
 | 8 | [Run Run Run \(Calibre Remix\)](https://open.spotify.com/track/4SrS0LdOu9yBfCcXnmhkQ4) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [The Journey Man Remixes, Pt\. 2](https://open.spotify.com/album/3voI4kAa8IhPzj5sAXwZkz) | 5:46 |
 | 9 | [Inta](https://open.spotify.com/track/4cCR7W2Lgwj5R2hDyq2jzQ) | [Aloka](https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt) | [Inta](https://open.spotify.com/album/2fY3RTv687YL1mRwqafvQk) | 3:59 |

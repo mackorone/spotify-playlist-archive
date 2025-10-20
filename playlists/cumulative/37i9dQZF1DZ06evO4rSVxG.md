@@ -4,7 +4,7 @@
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-43 songs - 3 hr 21 min
+44 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,11 +45,12 @@
 | [Still A Man](https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 7:18 | 2025-03-11 |  |
 | [The Blues](https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:13 | 2025-03-11 |  |
 | [Thinking Of You](https://open.spotify.com/track/2kp0HkwA1v8WcmCwYqm7DO) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 3:58 | 2025-03-11 |  |
-| [Tossin' & Turnin'](https://open.spotify.com/track/1FhB7G89CAjBBSKw8k2wOS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:50 | 2025-03-11 |  |
+| [Tossin' & Turnin'](https://open.spotify.com/track/1FhB7G89CAjBBSKw8k2wOS) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:50 | 2025-03-11 | 2025-10-20 |
 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 | 2025-03-11 |  |
 | [Weather 42](https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Mi Vida Loca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA) | 5:21 | 2025-03-11 |  |
 | [Whatever U Want](https://open.spotify.com/track/6bITSikk8EJ3CQaXf7ohEv) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Thump's Hottest Party Hits](https://open.spotify.com/album/6WSbtX9qFTK4LiiOWogV1S) | 3:58 | 2025-03-11 | 2025-05-18 |
 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 | 2025-03-11 |  |
 | [Who's Lovin You](https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:21 | 2025-03-11 |  |
+| [Wild Child](https://open.spotify.com/track/3ZrEVZGGTNWtQMEW9xXkJU) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:35 | 2025-10-20 |  |
 
 \*This playlist was first scraped on 2025-03-11. Prior content cannot be recovered.

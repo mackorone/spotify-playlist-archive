@@ -4,7 +4,7 @@
 
 > 
 
-7,821 songs - 20 day 4 hr 26 min
+7,825 songs - 20 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2762,6 +2762,7 @@
 | [I Feel Best When I'm Alone](https://open.spotify.com/track/3OYejGbGSMijzWFTdCd8sy) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Bad Bonez](https://open.spotify.com/album/5p3gsTRh2rd4cZfNjyVgln) | 3:10 | 2025-01-04 |  |
 | [I Feel It Coming](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:29 | 2025-01-15 |  |
 | [I Feel You](https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:25 | 2025-01-15 |  |
+| [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2025-10-19 |  |
 | [I Got Love](https://open.spotify.com/track/52riputZ4Vo5PG9MOSy6r5) | [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Music and Me](https://open.spotify.com/album/1MCA50GzswxscAouRWnrES) | 3:56 | 2025-01-04 |  |
 | [I Got My Smile Back](https://open.spotify.com/track/1A8NxKmueblf1ke06vv8ZR) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [This Is What I Mean](https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb) | 4:11 | 2025-01-15 |  |
 | [I GOT YOU \(Original\)](https://open.spotify.com/track/4RXsi1oTj3uaqoRC9UrwGA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 2:53 | 2025-04-12 |  |
@@ -5737,6 +5738,7 @@
 | [Take A Slice](https://open.spotify.com/track/37adYGaYaAWTGhBaOzX4Fh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:49 | 2025-01-03 |  |
 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 | 2024-12-10 |  |
 | [Take Care](https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:37 | 2025-01-03 |  |
+| [Take Five](https://open.spotify.com/track/3A4qEIrWDUtAfmR8DdtLpT) | [Minoru Muraoka](https://open.spotify.com/artist/11VO1wQDn3dec4bk3epXr4) | [Bamboo](https://open.spotify.com/album/3q4PfaZLuRApEjGT7Mm2N1) | 4:58 | 2025-10-19 |  |
 | [Take It or Leave It](https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:27 | 2024-12-14 |  |
 | [Take Kare \(feat\. Rich Gang & Lil Wayne\)](https://open.spotify.com/track/6vjmAbHHdXDSGz3Di6RmVC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 4:28 | 2025-01-15 |  |
 | [Take Me Back To LA](https://open.spotify.com/track/7rVmzyFA7f4rNGl9onF21E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:13 | 2025-04-22 |  |
@@ -6005,6 +6007,7 @@
 | [Therapy](https://open.spotify.com/track/1GrnyQe1SFOb1T5vb5T54q) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 4:08 | 2025-01-04 |  |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2025-04-20 |  |
 | [There He Go](https://open.spotify.com/track/58YBY8OiX56vQhcHUgul9m) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Habits & Contradictions](https://open.spotify.com/album/6Xz8eKy8TeAyzwGr8QSOAS) | 3:20 | 2025-01-15 |  |
+| [There Will Never Be Another You](https://open.spotify.com/track/1eghoZLe436O2AHiZaoGVQ) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Young With The Oscar Peterson Trio](https://open.spotify.com/album/1RGYFu40MzvQGoVD8qhmLu) | 3:28 | 2025-10-19 |  |
 | [There's A Place](https://open.spotify.com/track/1twDCOi0Qi28Vxu4v6K0WC) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/6pSCibqEHlM0iunF7PufNU) | 2:49 | 2025-06-07 |  |
 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2025-01-15 |  |
 | [These Days](https://open.spotify.com/track/3u0s2L2nv0gUuDwLlVi4qH) | [Manwolves](https://open.spotify.com/artist/6RCI4WXRwG9jnRHZgzBYFr) | [These Days](https://open.spotify.com/album/0tgZwo1Li7rgLBzSEF2eIh) | 3:59 | 2025-01-04 |  |
@@ -6575,6 +6578,7 @@
 | [When I Was Broke](https://open.spotify.com/track/7Co6yOkvI0GvijiYcMuT84) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:05 | 2025-01-03 |  |
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2024-12-10 |  |
 | [When Mother Was There](https://open.spotify.com/track/1h8ZdxSacDTM1BoZGTGJcK) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 3:59 | 2024-12-07 |  |
+| [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2025-10-19 |  |
 | [When The Moon's Reaching Out Stars \-Reload\-](https://open.spotify.com/track/7pc3hxGf3xLsYXGKitStzP) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:27 | 2025-04-20 |  |
 | [When the Sakura Bloom](https://open.spotify.com/track/7AlaeOUUdJqBvVytXAjiL0) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Footprints of the Traveler \(Original Game Soundtrack\)](https://open.spotify.com/album/6GEWGyHgEn7lGPXXiYJAmF) | 2:57 | 2025-07-28 |  |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2025-01-15 |  |

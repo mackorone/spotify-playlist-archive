@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Relaxing sounds for a pampering spa experience
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,012 likes - 210 songs - 10 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,046 likes - 210 songs - 10 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 209 | [Canvas Of Dreams](https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD) | [Lamente](https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq) | [Canvas Of Dreams](https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8) | 3:02 |
 | 210 | [Let Go](https://open.spotify.com/track/34f1o7dGsjDbYZloJ5d5zM) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:14 |
 
-Snapshot ID: `AAAAAIjOSkSv5cnSqmxPQnc678yuuIfs`
+Snapshot ID: `AAAAAKppuBFvRceHpI9obTVqEteoBxAq`

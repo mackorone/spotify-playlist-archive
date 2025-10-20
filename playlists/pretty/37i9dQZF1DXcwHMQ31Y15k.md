@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Esa Risty
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,924 likes - 106 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,010 likes - 106 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

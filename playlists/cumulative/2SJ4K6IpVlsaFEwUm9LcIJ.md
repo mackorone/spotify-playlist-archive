@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-770 songs - 1 day 21 hr 18 min
+771 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Go Away](https://open.spotify.com/track/5g4Rl4yS1rVySYuKQrXqRL) | [nahdoitagain](https://open.spotify.com/artist/6p8Cvz3YgNqalY8aFtjB4b), [Strawberry Switchblade](https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e) | [Go Away](https://open.spotify.com/album/1y4AdwWMnAPSqrpRd5UOhE) | 1:56 | 2024-11-13 | 2025-01-12 |
 | [Goat House Blues](https://open.spotify.com/track/0prDfMF6Yl9POBvEFTeP79) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Big Ugly](https://open.spotify.com/album/6jNbLon7QmLGibekT6RFOa) | 4:01 | 2025-07-09 | 2025-09-11 |
 | [Golden Crown](https://open.spotify.com/track/3qQjTYIMfjcVCy6gzorgAx) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Getaway \(Deluxe 2016 Remaster\)](https://open.spotify.com/album/04dY16TGKjm8gvgKwcQI0C) | 1:39 | 2024-09-27 | 2024-11-14 |
+| [Golden Fall](https://open.spotify.com/track/1MxBaWWTu4RRh7edgHExVb) | [Ooberman](https://open.spotify.com/artist/0QEF9qRSTtRUV6leWVPhQt) | [Shorley Wall](https://open.spotify.com/album/24V0ER59SFtczhNhoqOYMq) | 4:55 | 2025-10-19 |  |
 | [Golden Strings](https://open.spotify.com/track/4UZ2MsSsWkC4OVBEtqDN8g) | [Randall Stephens](https://open.spotify.com/artist/01BmrzkVMRWt1E1cz9XFZ7) | [The Music I Love Is Gospel](https://open.spotify.com/album/6JGJnMmSSKer4cE5H2Rsbs) | 3:26 | 2025-05-08 | 2025-07-04 |
 | [Good For Me](https://open.spotify.com/track/0la9WOK8JlpmfDEJiFsVCl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU) | 5:42 | 2024-06-14 | 2024-07-12 |
 | [Good House](https://open.spotify.com/track/3lVJWIGigp1gP69EAY24Ts) | [Deakin](https://open.spotify.com/artist/6JSybS5o47NUTNFQauvxUY) | [Sleep Cycle](https://open.spotify.com/album/3koPfjNNoh3JJ0AD6WnKtT) | 7:01 | 2025-08-25 | 2025-09-11 |

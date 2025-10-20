@@ -407,6 +407,28 @@
     },
     {
       "album": {
+        "name": "TORI. (+ a lil more)",
+        "url": "https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "date_added": "2025-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "bottomline (feat. JoJo)",
+      "url": "https://open.spotify.com/track/1lKFDImYTHzIGPtiQQZSwu"
+    },
+    {
+      "album": {
         "name": "Harmony City",
         "url": "https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL"
       },

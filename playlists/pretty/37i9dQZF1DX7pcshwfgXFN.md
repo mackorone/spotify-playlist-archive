@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,321 likes - 35 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,320 likes - 35 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 6 | [اللهم لك الحمد](https://open.spotify.com/track/3LKzgDkTRGv6nElg4ralEW) | [وديع اليمني](https://open.spotify.com/artist/5vKv13hIVUoKBsiwbBgUrd) | [اللهم لك الحمد](https://open.spotify.com/album/5Tovi4UU8d0t3VMybgVech) | 5:24 |
 | 7 | [اللهم يا الله](https://open.spotify.com/track/1hrizEky1eZy0XS6GgjOCm) | [Edres Abkar](https://open.spotify.com/artist/37MfCJQQ9aE323lqRTIgju) | [اللهم يا الله](https://open.spotify.com/album/08yJU7z39Quf8CQbVaP9gI) | 5:16 |
 | 8 | [دوما لك الحمد](https://open.spotify.com/track/4WBYfXVsxOzY6YLB1SgwTM) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دوما لك الحمد](https://open.spotify.com/album/1xVT0Cj6Rg6I5TARzwb7kJ) | 0:59 |
-| 9 | [Allahoma Eny Asalok Alafia](https://open.spotify.com/track/1hZyGewLBDK4YHiFDQGrNp) | [Haroon Al Rasheed](https://open.spotify.com/artist/2nniJ5inYBrjj4v1VzFalt) | [Duaa Sayed Al Estegfaar](https://open.spotify.com/album/5Lw1gg3Vn3W4ChUnqEoOZr) | 0:48 |
+| 9 | [دعاء ختم القران ١](https://open.spotify.com/track/5wa6Xknf6waXXlLcf13jOn) | [احمد السعيد مندور](https://open.spotify.com/artist/1sni2CLdOh54hNoDnNJyIr) | [ادعية اسلامية](https://open.spotify.com/album/25d8GxHD0iumD0INN9T4Tf) | 5:45 |
 | 10 | [رب أدخلني مدخل صدق](https://open.spotify.com/track/6yq5Ykmww6QRDgrPbMDCXT) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية العشر الأواخر من رمضان](https://open.spotify.com/album/1abl7fBsl4zDaRmRUHstBS) | 1:06 |
-| 11 | [دعاء ختم القران ١](https://open.spotify.com/track/5wa6Xknf6waXXlLcf13jOn) | [احمد السعيد مندور](https://open.spotify.com/artist/1sni2CLdOh54hNoDnNJyIr) | [ادعية اسلامية](https://open.spotify.com/album/25d8GxHD0iumD0INN9T4Tf) | 5:45 |
+| 11 | [Allahoma Eny Asalok Alafia](https://open.spotify.com/track/1hZyGewLBDK4YHiFDQGrNp) | [Haroon Al Rasheed](https://open.spotify.com/artist/2nniJ5inYBrjj4v1VzFalt) | [Duaa Sayed Al Estegfaar](https://open.spotify.com/album/5Lw1gg3Vn3W4ChUnqEoOZr) | 0:48 |
 | 12 | [سبحان من بكت من خشيته العيون](https://open.spotify.com/track/7gyj5EGikfdWa2Waygjocc) | [Edres Abkar](https://open.spotify.com/artist/37MfCJQQ9aE323lqRTIgju) | [سبحان من بكت من خشيته العيون](https://open.spotify.com/album/3B33Pn8l3w6EMDlHydn4wj) | 3:28 |
 | 13 | [اعينا على طاعتك](https://open.spotify.com/track/4b9ePeY7n2SSPUqU2hVXqI) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:41 |
 | 14 | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/track/2ple70bGnZPJh2sppFGYby) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/album/0c8Kbb1MTtLsvwaZc2BuBj) | 0:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Dillom, Airbag, Marilina Bertoldi y Juliana Gattas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,298 likes - 87 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,302 likes - 87 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

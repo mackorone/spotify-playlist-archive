@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 91862,
+  "num_followers": 91916,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2025-09-09 11:24:16",
       "album": {
+        "name": "Party Mode",
+        "url": "https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08"
+      },
+      "artists": [
+        {
+          "name": "Ordio O2",
+          "url": "https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok"
+        },
+        {
+          "name": "Kukzer wadi piano_012",
+          "url": "https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh"
+        },
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y"
+        }
+      ],
+      "duration_ms": 361400,
+      "name": "Party Mode",
+      "url": "https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ"
+    },
+    {
+      "added_at": "2025-09-09 11:24:16",
+      "album": {
         "name": "Sanitizer",
         "url": "https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 416404,
       "name": "Sanitizer",
       "url": "https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU"
-    },
-    {
-      "added_at": "2025-09-09 11:24:16",
-      "album": {
-        "name": "Party Mode",
-        "url": "https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08"
-      },
-      "artists": [
-        {
-          "name": "Ordio O2",
-          "url": "https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok"
-        },
-        {
-          "name": "Kukzer wadi piano_012",
-          "url": "https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh"
-        },
-        {
-          "name": "Ross",
-          "url": "https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y"
-        }
-      ],
-      "duration_ms": 361400,
-      "name": "Party Mode",
-      "url": "https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ"
     },
     {
       "added_at": "2025-09-09 11:24:16",
@@ -1131,34 +1131,6 @@
     {
       "added_at": "2025-09-09 11:24:16",
       "album": {
-        "name": "Vanhu",
-        "url": "https://open.spotify.com/album/1xkHOiJizPkdNZhAYzBmjT"
-      },
-      "artists": [
-        {
-          "name": "De Mogul SA",
-          "url": "https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC"
-        },
-        {
-          "name": "Afrikayla",
-          "url": "https://open.spotify.com/artist/2F9X3CybO4nJ2DgmeAfa6k"
-        },
-        {
-          "name": "Vutomi",
-          "url": "https://open.spotify.com/artist/1laGt6Q7rQk16Ya5mpooxA"
-        },
-        {
-          "name": "SwooshMafia",
-          "url": "https://open.spotify.com/artist/6yD2BwDz48rTuqHTGYCReA"
-        }
-      ],
-      "duration_ms": 271858,
-      "name": "Vanhu",
-      "url": "https://open.spotify.com/track/4f54S9iJuUDeAd72x7Fe2w"
-    },
-    {
-      "added_at": "2025-09-09 11:24:16",
-      "album": {
         "name": "Groove",
         "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
       },
@@ -1183,6 +1155,34 @@
       "duration_ms": 351450,
       "name": "Groove",
       "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
+    },
+    {
+      "added_at": "2025-09-09 11:24:16",
+      "album": {
+        "name": "Vanhu",
+        "url": "https://open.spotify.com/album/1xkHOiJizPkdNZhAYzBmjT"
+      },
+      "artists": [
+        {
+          "name": "De Mogul SA",
+          "url": "https://open.spotify.com/artist/0QkYGHzYrh3PM5EjcvHfqC"
+        },
+        {
+          "name": "Afrikayla",
+          "url": "https://open.spotify.com/artist/2F9X3CybO4nJ2DgmeAfa6k"
+        },
+        {
+          "name": "Vutomi",
+          "url": "https://open.spotify.com/artist/1laGt6Q7rQk16Ya5mpooxA"
+        },
+        {
+          "name": "SwooshMafia",
+          "url": "https://open.spotify.com/artist/6yD2BwDz48rTuqHTGYCReA"
+        }
+      ],
+      "duration_ms": 271858,
+      "name": "Vanhu",
+      "url": "https://open.spotify.com/track/4f54S9iJuUDeAd72x7Fe2w"
     },
     {
       "added_at": "2025-09-09 11:24:16",

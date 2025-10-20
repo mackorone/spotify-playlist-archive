@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 984133,
+  "num_followers": 984301,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPGHAAAAAAC4gBbK1KQ1+EoE3tlNABdT",
+  "snapshot_id": "aPLYgAAAAAC+Gs3YiOid0MD3+gQ0M4nb",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 178607,
+      "name": "No Le Tengas Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Mejor De Joan Sebastian",
         "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 173786,
       "name": "Voy A Conquistarte",
       "url": "https://open.spotify.com/track/4hTgRXA7Zp7wxPcKmMLNzc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 178607,
-      "name": "No Le Tengas Compasi\u00f3n",
-      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 139691,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 133120,
       "name": "Muchachita De Ojos Claros",
       "url": "https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 139691,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Me La Escondieron Sus Padres",
+      "url": "https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 169691,
       "name": "La Prietita Que Yo Quiero",
       "url": "https://open.spotify.com/track/69O3Bdh6vBYY3cN3BwTH2Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Me La Escondieron Sus Padres",
-      "url": "https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 154749,
-      "name": "En Un Jaripeo",
-      "url": "https://open.spotify.com/track/3gshXrjB7upvVYgyQo5R4l"
+      "duration_ms": 166480,
+      "name": "Hoy Empieza Mi Tristeza",
+      "url": "https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK"
     }
   ],
   "unique_name": "This Is Joan Sebastian",

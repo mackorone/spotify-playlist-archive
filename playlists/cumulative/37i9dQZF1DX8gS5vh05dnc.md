@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-395 songs - 21 hr 5 min
+396 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 | 2023-11-06 | 2024-04-19 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-07-25 | 2023-10-25 |
 | [matters of the heart](https://open.spotify.com/track/2TnwiwXe4ktgHJ5sv53Zhu) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [matters of the heart](https://open.spotify.com/album/1UbN4K1Lyl81gPo92g7uK4) | 3:24 | 2024-04-22 | 2024-04-29 |
+| [McDreamy](https://open.spotify.com/track/2B4F5wlsQkuIclBSykgyG2) | [Ployé](https://open.spotify.com/artist/0zPfjHRfLOlqXABqNNJyZh) | [McDreamy](https://open.spotify.com/album/5YzPEIQeEkKG48sI0LRCkD) | 3:04 | 2025-10-19 |  |
 | [Me & You](https://open.spotify.com/track/0p5Mn82abOsrwtuZzLLbUD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Me & You](https://open.spotify.com/album/2bASjA1zJwXPCs3ytsi3Pk) | 2:33 | 2025-07-27 | 2025-08-11 |
 | [Mean It](https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 | 2022-07-25 | 2022-11-18 |
@@ -269,7 +270,7 @@
 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 | 2023-09-11 | 2023-09-18 |
 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 | 2023-02-13 |  |
 | [Past](https://open.spotify.com/track/5mP43567lDj2gnYd7i6BDY) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Past](https://open.spotify.com/album/2jJoOuyXfPorWCpRAKyv1C) | 2:57 | 2023-01-03 | 2023-01-17 |
-| [Patient](https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:10 | 2025-09-14 | 2025-10-13 |
+| [Patient](https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Voicenotes](https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR) | 3:10 | 2025-09-14 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-07-25 |  |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-07-25 | 2024-04-19 |
 | [Pillow](https://open.spotify.com/track/5sPCkfro9nUpKLM04LX7jp) | [POP MONEY WORLDWIDE](https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj), [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [Carrot Mayor](https://open.spotify.com/artist/5s7aEasAPVKh5b7kwRiykk) | [Pillow](https://open.spotify.com/album/055Hvov2rOVus107OstKMO) | 2:31 | 2024-07-22 | 2024-07-29 |
@@ -372,7 +373,7 @@
 | [Tip Of The Flame](https://open.spotify.com/track/6mfHVG0xInB0QpESBnVUwi) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La](https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx) | 4:33 | 2022-10-25 | 2022-11-08 |
 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-17 | 2023-07-25 |
 | [To the Moon](https://open.spotify.com/track/2stihimvRIhZHr5m7McSku) | [RYAN ANDERS](https://open.spotify.com/artist/3iYsK6Jqr2MxPcUvcFt478) | [To the Moon](https://open.spotify.com/album/3MsdARcsBo02leLqVMPxJw) | 2:50 | 2022-06-06 | 2022-07-29 |
-| [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 | 2025-10-12 |  |
+| [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 | 2025-10-12 | 2025-10-20 |
 | [Tokyo](https://open.spotify.com/track/78scp8RmPk3Ove8b5qrhw2) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Tokyo](https://open.spotify.com/album/3nh5xJdRaQTBqNRcyeXrMT) | 2:32 | 2025-05-25 | 2025-06-09 |
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-29 | 2022-12-06 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-22 | 2024-05-19 |
@@ -385,7 +386,7 @@
 | [Under the Sea feat\. Max Jenmana](https://open.spotify.com/track/4YVcZ2a0bA6wwvalSynEKK) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [Max Jenmana](https://open.spotify.com/artist/5nkD00FEf53rM9s4v33uFx) | [Under the Sea feat\. Max Jenmana](https://open.spotify.com/album/5wVWGLXpuJ7JcNARUzSsLt) | 4:02 | 2022-06-06 | 2022-06-13 |
 | [Unless We Try](https://open.spotify.com/track/0vXHyEyJDEVGGPssnhmsgn) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [Hyperlnk](https://open.spotify.com/artist/4hCOz7uKIaWamRdtryWXW1) | [Unless We Try](https://open.spotify.com/album/53Ev9gXUcanBW1mFgj7lkZ) | 2:49 | 2024-01-22 | 2024-01-29 |
 | [Vacation](https://open.spotify.com/track/7n99sQC9Y4OyCGMjXPRe0r) | [Aaron Yan](https://open.spotify.com/artist/3rRfC7TqmIAjmSxLcadqe1) | [Vacation](https://open.spotify.com/album/5qgdOjFd9iCObeRtZaKShw) | 3:24 | 2022-06-06 | 2022-07-27 |
-| [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 | 2025-10-12 |  |
+| [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 | 2025-10-12 | 2025-10-20 |
 | [Vibin'](https://open.spotify.com/track/1JNyTBzuW5boU3PltBjTzp) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Vibin'](https://open.spotify.com/album/7A3GYpyF6MMplyxgKMo1nL) | 3:02 | 2024-08-19 | 2024-08-26 |
 | [Vitamin](https://open.spotify.com/track/5qAh2ElE046joY1b6XkVeN) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Vitamin](https://open.spotify.com/album/1NQBKkiuqfxbFxakaX72XK) | 2:27 | 2025-07-27 | 2025-08-11 |
 | [Vulnerable](https://open.spotify.com/track/5G6sPdp9sDuvlJ62o98g12) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Vulnerable](https://open.spotify.com/album/5DLmQNebQS21OXsSK14ocV) | 3:26 | 2025-05-11 | 2025-05-19 |

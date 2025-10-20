@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: üçkuruş
 
-319 songs - 16 hr 3 min
+320 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Bu Yangın](https://open.spotify.com/track/3IQpvbZ2ziQLdZ6muToMb7) | [merhababensokak](https://open.spotify.com/artist/3G9IfSbpM10wK68aNR9k4Y) | [Bu Yangın](https://open.spotify.com/album/0Q2PPmruCGGiTnVthScLtt) | 3:02 | 2025-02-13 | 2025-04-20 |
 | [Böylesi Güzel](https://open.spotify.com/track/5VcQzVAwGJbCY8Aha6udxz) | [Düşgezer](https://open.spotify.com/artist/4ocqexTJMtJOJ0IEytggmJ), [Zeki Dizdar](https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26) | [Böylesi Güzel](https://open.spotify.com/album/1C4T1wO4TPEvpElQUx93K0) | 4:37 | 2025-05-15 | 2025-05-30 |
 | [Bırak Yağsın Üstümüze](https://open.spotify.com/track/5PNjTV9IaVXBwM62tnlvas) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Bırak Yağsın Üstümüze](https://open.spotify.com/album/66b0VdRWG80fxAxkwYUysu) | 3:20 | 2025-09-25 |  |
+| [Bıraktım Kendimi](https://open.spotify.com/track/7korBCTdbsKmVODaL0HZbe) | [Büşra Targan](https://open.spotify.com/artist/3B7KIZNV69En8cYOMQhGHg) | [Bıraktım Kendimi](https://open.spotify.com/album/13ej0ETDvXuyZb9yXGB18Y) | 3:02 | 2025-09-25 |  |
 | [Bıraktığın Gibi](https://open.spotify.com/track/6xbGuKshqxhGvECYXF2hD9) | [Ege Sel](https://open.spotify.com/artist/3ppamONbm5lz6Ho7wSWzVy) | [Bıraktığın Gibi](https://open.spotify.com/album/5SmRlGzV4wXUFrVcEoyfFJ) | 2:33 | 2025-01-23 | 2025-02-08 |
 | [Cehennem](https://open.spotify.com/track/6ehRO2mp6xhudE2d9AnZZ5) | [Ozthewiz](https://open.spotify.com/artist/2ANKUXtknFmV4EKgoix3kC) | [Cehennem](https://open.spotify.com/album/6Iyv9RjR6T2OcEV2EK8Uu1) | 2:25 | 2024-06-20 | 2024-08-09 |
 | [Cehennemin 7\. Katı](https://open.spotify.com/track/0qY5UficufBBTbaz4ws4mU) | [Klor](https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7) | [Cehennemin 7\. Katı](https://open.spotify.com/album/3lKnbBidabZqQawdK1cG4Y) | 3:08 | 2025-09-12 | 2025-10-15 |
@@ -164,7 +165,7 @@
 | [kelepçe](https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W), [Reflectionz](https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo) | [kelepçe](https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w) | 2:19 | 2024-06-20 |  |
 | [KERVAN](https://open.spotify.com/track/3E5H8RQtUBF2Czhyj62Xw9) | [Deli Dünya](https://open.spotify.com/artist/2qEQduFpnIytlnQzkPozTA) | [KERVAN](https://open.spotify.com/album/7zTJBS6s2YuhyHGIdl0N2n) | 4:10 | 2025-05-08 |  |
 | [Keşke](https://open.spotify.com/track/77H6MdwOXiDFNZHSgQgRZD) | [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71), [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO) | [Keşke](https://open.spotify.com/album/0AR8NqHIqblQXnedF3sOaD) | 3:22 | 2025-05-08 | 2025-05-30 |
-| [Kol Kola](https://open.spotify.com/track/1kI9z9swAwbuTzQv3IgXz2) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Kol Kola](https://open.spotify.com/album/43L7GZ1lz1RzsT89OtW2Qp) | 3:25 | 2025-07-24 |  |
+| [Kol Kola](https://open.spotify.com/track/1kI9z9swAwbuTzQv3IgXz2) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Kol Kola](https://open.spotify.com/album/43L7GZ1lz1RzsT89OtW2Qp) | 3:25 | 2025-07-24 | 2025-10-20 |
 | [Konstantinopolis](https://open.spotify.com/track/0vyeBHAowqHWGY67I0APGZ) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Konstantinopolis](https://open.spotify.com/album/74TJrtvcCD4EFJfXJSje2f) | 3:16 | 2024-06-20 |  |
 | [Kovala](https://open.spotify.com/track/3TCFp65VyHzokRlMFmVXKV) | [Musty](https://open.spotify.com/artist/4t6H2WAXEn9dFDbEA9s6fc) | [Kovala](https://open.spotify.com/album/49arFnLlGiGS1Wb0kbPfEC) | 2:51 | 2025-09-18 |  |
 | [Koştum Sana](https://open.spotify.com/track/4mzA94C3c4CSpkvZLd8TUu) | [Fiza](https://open.spotify.com/artist/5cuYII7uDbqFawTP02f2yB) | [Koştum Sana](https://open.spotify.com/album/72oHd7HZwtfBNj6Dm43YBC) | 2:42 | 2024-06-20 | 2024-08-02 |

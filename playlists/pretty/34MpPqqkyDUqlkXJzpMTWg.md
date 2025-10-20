@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Spooky season is begonnen! Luister hier naar de meest griezelige halloween hits.👻
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,062 likes - 56 songs - 3 hr 30 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,060 likes - 56 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

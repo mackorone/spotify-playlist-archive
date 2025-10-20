@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-773 songs - 1 day 10 hr 2 min
+777 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Dungeon Crawler](https://open.spotify.com/track/67dUcpcrz6NQrJlAu19pla) | [Snaggletooth](https://open.spotify.com/artist/2TvEvt2sS7JKqcZTkoWFGd) | [Dungeon Crawler](https://open.spotify.com/album/4sc3lvnSCsLsKWjsrVEiJV) | 3:58 | 2024-02-06 | 2024-03-09 |
 | [Duro Pa Duro](https://open.spotify.com/track/5MjVtn80QCd3Pt1glCFLt7) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX), [REDIX](https://open.spotify.com/artist/4j32Ck6YTzyr3tU9LPwkUF), [Inverted](https://open.spotify.com/artist/2ErypZXqwS0kVUfqqd0MRx) | [Duro Pa Duro](https://open.spotify.com/album/6od5TBG7oA5mQ0NvEFiGKx) | 2:29 | 2023-12-08 | 2024-01-13 |
 | [DXNAMITE](https://open.spotify.com/track/1tWuZiRwEgr0ajAzeK59sx) | [BCMP](https://open.spotify.com/artist/21LJD2uYWRm9v5Klx1qDRR) | [DXNAMITE](https://open.spotify.com/album/2s2Ny8PZ2IsAkV8feYQuZF) | 2:04 | 2023-09-05 | 2024-03-09 |
+| [Dying On The Inside](https://open.spotify.com/track/2KNdPA3qilLo9skfY8Bfg6) | [azi](https://open.spotify.com/artist/6cDwx7w1XLMaYVe0gS1btA), [frailty](https://open.spotify.com/artist/4BrY7O6ooTJJB9vShnM50Y) | [Dying On The Inside](https://open.spotify.com/album/5d6XBWemwHmPxiph4Q3J7x) | 1:58 | 2025-10-19 |  |
 | [ECLIPSE](https://open.spotify.com/track/2dYqaLPJVMxxEI6rDMk4of) | [Dead Weight](https://open.spotify.com/artist/5sP19DbFYKk7g9EuCJAlDq) | [ECLIPSE](https://open.spotify.com/album/3APtLfjZz5S9k10UFexqLf) | 4:12 | 2025-06-17 | 2025-10-09 |
 | [ECSTASY](https://open.spotify.com/track/2KD9czprFfRftJ0tPJq0bD) | [$ubRosa](https://open.spotify.com/artist/06WoXV6MZbiAEyjA7q37QM) | [ECSTASY](https://open.spotify.com/album/26s9hu1W8xrnlsJQ4ygCGc) | 1:52 | 2023-07-03 | 2024-08-29 |
 | [EGO TALKS](https://open.spotify.com/track/3QWiE9TfT8eHgKRVK7JPWw) | [ER3DIN](https://open.spotify.com/artist/4Rej45AFOUzSLlhX8eq675), [Gorn](https://open.spotify.com/artist/2eNnI5jDaQoqBeZ0wrAUdf) | [EGO TALKS](https://open.spotify.com/album/7hjGjquK6wp28TMoHxlqAc) | 2:30 | 2023-12-08 | 2024-04-08 |
@@ -357,6 +358,7 @@
 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 | 2023-06-12 | 2023-09-26 |
 | [In The End](https://open.spotify.com/track/0ry62QA95mn0I47TcTsU1q) | [Celarity](https://open.spotify.com/artist/0aKGERj6PO4FzqYqZF1RWP), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [In The End](https://open.spotify.com/album/4Mktc8lsrYoveJ6hzsH4zT) | 2:04 | 2023-06-12 | 2023-07-04 |
 | [IN THE END](https://open.spotify.com/track/5cRYL7w9PxnHYeEPkW1ECG) | [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [IN THE END](https://open.spotify.com/album/2FjIV3lGlm2F9nkugnuTYw) | 2:53 | 2023-07-03 | 2023-07-19 |
+| [in your eyes](https://open.spotify.com/track/3bX08vmwAQrR295yzx60VJ) | [azi](https://open.spotify.com/artist/6cDwx7w1XLMaYVe0gS1btA) | [in your eyes](https://open.spotify.com/album/7baAk6m3FAavX9bo7kFaNB) | 2:18 | 2025-10-19 |  |
 | [Inferno](https://open.spotify.com/track/5XEGODwFn9QH5Z4CeZMCmb) | [Lorenzo Mariani](https://open.spotify.com/artist/7uxjXi3T9RXc0E2bPK6vHk) | [Inferno](https://open.spotify.com/album/4mrk0iKPRmBtkHlrrPJpfj) | 2:29 | 2024-12-04 | 2025-03-25 |
 | [Infinite Torus](https://open.spotify.com/track/2QrohTiD4xToviZFmzx5c2) | [Momu](https://open.spotify.com/artist/773lqwv6VeD29M4yCkArJA) | [Moment](https://open.spotify.com/album/6LFvSZzONeexBEvz9z78uP) | 3:02 | 2024-09-19 | 2025-03-25 |
 | [INTERMINABLE](https://open.spotify.com/track/7k5zzsljBgNXAmzW10Mq3r) | [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [INTERMINABLE](https://open.spotify.com/album/7htAdYsWXC7ooHEPY2czoc) | 2:35 | 2023-08-21 | 2023-09-26 |
@@ -369,6 +371,7 @@
 | [IV Hearts](https://open.spotify.com/track/2SccSQAPoK27nUg6nh5jRg) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2), [qori.](https://open.spotify.com/artist/7C8EeuCECRY3gIL5mNBppc) | [IV Hearts](https://open.spotify.com/album/64Dp9H1jYyRgWAPnDl1ieg) | 2:22 | 2025-06-26 |  |
 | [Jealous](https://open.spotify.com/track/5s2zbxZI4Ym5LTKwjZHS2V) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/2HgcXoqKJbuPX2clDpwxA5) | 2:02 | 2023-06-12 |  |
 | [Jeepers Creepers](https://open.spotify.com/track/57wxf2l2H1isSRVLf5JjN0) | [Slayloverboy](https://open.spotify.com/artist/03v1lj3scVQgZT2j60MtKN) | [Jeepers Creepers](https://open.spotify.com/album/5JZFCoN3UgZqrPItBeELe6) | 2:40 | 2023-06-12 | 2023-12-14 |
+| [Jenny](https://open.spotify.com/track/2RR0S58Q7jv7uvFKKfZmtL) | [azi](https://open.spotify.com/artist/6cDwx7w1XLMaYVe0gS1btA), [hornja](https://open.spotify.com/artist/2QfmZBn2BlzdxlZUU7haeH) | [Jenny](https://open.spotify.com/album/7JmmkJo40iw4RahopvzVCH) | 2:20 | 2025-10-19 |  |
 | [Jump](https://open.spotify.com/track/15eRqPcU5fljo3m8tLkyfV) | [MNDLB5](https://open.spotify.com/artist/4dLZTad0O8DMQJTjUorTqk) | [Jump](https://open.spotify.com/album/3MEfKyZl5vDX7kvS3mM6n3) | 2:18 | 2024-04-01 | 2024-05-08 |
 | [Jump \- RAIZHELL Remix](https://open.spotify.com/track/1fAbs1JfTyC9jkEjlqLBj9) | [MNDLB5](https://open.spotify.com/artist/4dLZTad0O8DMQJTjUorTqk), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Jump \(RAIZHELL Remix\)](https://open.spotify.com/album/6oztQqhJZT5oGeOzWDriY6) | 2:18 | 2025-07-07 |  |
 | [JUNBI](https://open.spotify.com/track/6XlA9l2mv5czqDrMkR9wp2) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Anar](https://open.spotify.com/artist/4C5EDmZfgkkSwUVFSvuUNP) | [JUNBI](https://open.spotify.com/album/4EMSvqstx2Dwo1Fe9HCjJK) | 1:36 | 2024-06-08 | 2024-07-12 |
@@ -541,6 +544,7 @@
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2023-06-12 |  |
 | [PISTOL RAIN](https://open.spotify.com/track/34dBMbDtfplWWCLFkOGU7S) | [Burgos](https://open.spotify.com/artist/3chqU15yLP7B3XRQpILQY2) | [PISTOL RAIN](https://open.spotify.com/album/1aRwdtXo8iFghwZiH88yW4) | 2:41 | 2023-09-05 | 2023-12-14 |
 | [Piztol](https://open.spotify.com/track/6S94JvWt1KwQlOIJxTmmey) | [PDX](https://open.spotify.com/artist/3HcOnCJezaaZX57fGilReE) | [Piztol](https://open.spotify.com/album/77WwDSTFEpngYb3cY3lbhJ) | 1:59 | 2024-01-28 | 2024-02-21 |
+| [Plastic Jesus](https://open.spotify.com/track/5fYULkLk8YtYayLbuQO0IK) | [Paul Maxwell](https://open.spotify.com/artist/6BYc2LukpoHK13KVqA5lkb) | [Year of the Dog](https://open.spotify.com/album/3fzGDR0c74TtGd4Fm8pX7i) | 2:46 | 2025-10-19 |  |
 | [Play Human](https://open.spotify.com/track/7L5gLRyJkN9sRwuLBDYxaU) | [10 Billion Lost](https://open.spotify.com/artist/0Vpifn5xbAZlgZxxwi9hkq) | [Play Human](https://open.spotify.com/album/3CJndxqwuFYw7GNu3jRKQQ) | 4:35 | 2024-12-17 | 2025-04-18 |
 | [Please Leave](https://open.spotify.com/track/2isrUMb1HgRyruhVpecl8l) | [Ryan Morrissette](https://open.spotify.com/artist/4kXkSWe5yixpvcgzekRCO6), [David July](https://open.spotify.com/artist/3q40bLJsFjDFF8o5FE0vRJ) | [Please Leave](https://open.spotify.com/album/7FDxH7FXfdM50cEWtis4Pc) | 2:55 | 2023-06-26 | 2023-07-21 |
 | [PLUS VIBE](https://open.spotify.com/track/2tYFO2XyxoHkimTJ9AQsM6) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [Skorde](https://open.spotify.com/artist/3voCipmmrW5uF4EMA6aSbj) | [PLUS VIBE](https://open.spotify.com/album/514moM4LlO4shbYdRXNRrl) | 1:42 | 2024-03-17 | 2024-12-18 |

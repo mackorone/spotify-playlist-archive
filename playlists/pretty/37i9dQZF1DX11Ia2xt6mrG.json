@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. VV Brujo en portada.",
-  "num_followers": 68052,
+  "num_followers": 68074,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
+        "name": "FFM",
+        "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "FFM",
+      "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 194645,
       "name": "Quemando Papel",
       "url": "https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
-        "name": "FFM",
-        "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "FFM",
-      "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -859,6 +859,26 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
+        "name": "LABUBU",
+        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "LABUBU",
+      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
-        "name": "LABUBU",
-        "url": "https://open.spotify.com/album/65LcBLGwlYrEIovIEDmGpR"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "LABUBU",
-      "url": "https://open.spotify.com/track/6TEs4Kri5thloLzTmOVk8G"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -975,38 +975,6 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "Corrupted",
-        "url": "https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Corrupted",
-      "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -1027,6 +995,38 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
+        "name": "Corrupted",
+        "url": "https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Corrupted",
+      "url": "https://open.spotify.com/track/70KbdYzwNiSd8sayMqa687"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+        "name": "me estoy volviendo loca",
+        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
         }
       ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
+      "duration_ms": 139034,
+      "name": "la jefa del triple 4",
+      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "me estoy volviendo loca",
-        "url": "https://open.spotify.com/album/0ipLSjp0E8sNY1EkyWg54s"
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
       "artists": [
         {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
         }
       ],
-      "duration_ms": 139034,
-      "name": "la jefa del triple 4",
-      "url": "https://open.spotify.com/track/0ux6hoQqTirvL5yNWhoXaZ"
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "Ushua\u00efa",
-        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Ushua\u00efa",
-      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/2yAk2MMYwNiQnI9iBGHsTB"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 150306,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/45oj9RdqbdJjgZzV776NkY"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
+        "name": "Ushua\u00efa",
+        "url": "https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Ushua\u00efa",
+      "url": "https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "steles",
-        "url": "https://open.spotify.com/album/31jNMVOxzrX9XghglLW1BL"
-      },
-      "artists": [
-        {
-          "name": "Navjaxx",
-          "url": "https://open.spotify.com/artist/2TULVw2MOCScHpvEomVP4s"
-        },
-        {
-          "name": "KREZUS",
-          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "steles",
-      "url": "https://open.spotify.com/track/44y0RiAOGgydaTZm1epkiw"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 105703,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
+        "name": "steles",
+        "url": "https://open.spotify.com/album/31jNMVOxzrX9XghglLW1BL"
+      },
+      "artists": [
+        {
+          "name": "Navjaxx",
+          "url": "https://open.spotify.com/artist/2TULVw2MOCScHpvEomVP4s"
+        },
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "steles",
+      "url": "https://open.spotify.com/track/44y0RiAOGgydaTZm1epkiw"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
         "name": "Nada Falta Como Me Faltas",
         "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 142677,
       "name": "RAYBEN CAP 6: EL DANZ\u00d3N",
       "url": "https://open.spotify.com/track/4n6JiKIrQ6ORMMYurmU2mr"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     }
   ],
   "unique_name": "electro mx ",
