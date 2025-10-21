@@ -4,7 +4,7 @@
 
 > A new world of alternative electronic music.
 
-1,079 songs - 3 day 5 hr 5 min
+1,080 songs - 3 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 | 2024-07-26 | 2025-02-07 |
 | [Jungle City](https://open.spotify.com/track/1soAhifV2nFE6don2XMWbX) | [AUSMAX](https://open.spotify.com/artist/3AflwtZig4N638X8CoAztJ) | [Jungle City](https://open.spotify.com/album/0XnTgfuWGzF0yLQ4lmMUg2) | 3:36 | 2023-05-25 | 2023-07-21 |
 | [Juniper](https://open.spotify.com/track/4PRVnpNShPqjANUE5GC7Dx) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Juniper](https://open.spotify.com/album/56TKvJC3uylhbaC8N6jhn1) | 5:00 | 2023-03-16 | 2023-06-02 |
+| [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 | 2025-10-16 |  |
 | [Just Give Me Time](https://open.spotify.com/track/7a4dqxJ01GP2vsnHUAleew) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y) | [The Ancient Truth](https://open.spotify.com/album/5STK4lk9JLkQOCadRoNKQR) | 4:46 | 2023-05-11 | 2023-07-07 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-05 | 2024-10-25 |
 | [kamakiri](https://open.spotify.com/track/2HQs2UrM7rK1h1bFWgPX2P) | [feline fine](https://open.spotify.com/artist/3lzCYScyf7SrkF8Xq22hwE) | [mankai](https://open.spotify.com/album/5y8KaRiU3PvO5rUMH3c7rP) | 6:38 | 2022-12-08 | 2023-01-20 |
@@ -1051,7 +1052,7 @@
 | [Whispering](https://open.spotify.com/track/6HdgO8F81kPNjhk9O5ic1F) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [Whispering](https://open.spotify.com/album/5ImXv8MXMUQxjWZzVL4WIZ) | 4:40 | 2023-03-16 | 2023-05-12 |
 | [Who I Am](https://open.spotify.com/track/5o0wpcuSRIkz43Hq6C10j1) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Bubbledance](https://open.spotify.com/album/29hl2y4GClVz3ROaGrOl2E) | 5:02 | 2025-06-26 | 2025-10-13 |
 | [WICKED \(WOAH\)](https://open.spotify.com/track/3ooEmXQnBUtR39lgXLYYCx) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [VARVIE WORLD](https://open.spotify.com/album/5SfPi8CFzgVotVJUW4GQMJ) | 3:07 | 2025-05-08 | 2025-10-13 |
-| [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [seKTa](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 | 2025-02-14 |  |
+| [Wicked Sound](https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U) | [seKTa](https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD) | [Wicked Rhythm EP](https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj) | 2:53 | 2025-02-14 | 2025-10-21 |
 | [Wildfire](https://open.spotify.com/track/4jGVld5PpMBfIUqc5eOWPw) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Wildfire](https://open.spotify.com/album/0fboWMJea94CfwHwDLMrh8) | 3:20 | 2023-09-28 | 2024-02-10 |
 | [Wildfire \(Eartheater Remix\)](https://open.spotify.com/track/2kKgy9pifqkA82JZYO9Cvn) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:58 | 2023-04-13 | 2023-05-26 |
 | [With Love](https://open.spotify.com/track/62Su2yhkWvhgAtFhZ552kO) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [With Love](https://open.spotify.com/album/72zB4slx8DL4YkUG69p0m3) | 3:57 | 2024-05-09 | 2024-08-23 |

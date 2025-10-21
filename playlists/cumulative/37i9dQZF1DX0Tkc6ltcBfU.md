@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Rod Wave
 
-2,335 songs - 4 day 13 hr 26 min
+2,336 songs - 4 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1754,7 +1754,7 @@
 | [Running This Shit](https://open.spotify.com/track/7fBA3pzHJTqR5i1IF69fxF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 2:23 | 2025-01-10 | 2025-01-18 |
 | [S/O to Me](https://open.spotify.com/track/3xQgy8EH51cP7FfzgnptND) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 4:02 | 2024-08-09 | 2024-08-17 |
 | [Sad Song \(with Spinabenz\)](https://open.spotify.com/track/4aPRR0I9gIDJGJxlez3WE0) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Rae Rae's Son](https://open.spotify.com/album/5GptyXvoJ2Zg260GOvmsJy) | 3:15 | 2022-05-20 | 2022-06-04 |
-| [Safe](https://open.spotify.com/track/3HHTSCqsfizIEzqrRX0X9w) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UY SCUTI \(Supernova Edition\)](https://open.spotify.com/album/4bLO8JECYAZCzdAY4iy0ZO) | 4:17 | 2025-10-03 |  |
+| [Safe](https://open.spotify.com/track/3HHTSCqsfizIEzqrRX0X9w) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UY SCUTI \(Supernova Edition\)](https://open.spotify.com/album/4bLO8JECYAZCzdAY4iy0ZO) | 4:17 | 2025-10-03 | 2025-10-21 |
 | [Safe Space](https://open.spotify.com/track/4NmETXpgmpmbfueMVksKL3) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [Safe Space](https://open.spotify.com/album/30LSGIk5KOAKGEZR6c2Eu9) | 2:38 | 2024-08-09 | 2024-08-17 |
 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 | 2022-09-23 | 2022-10-29 |
 | [Safety](https://open.spotify.com/track/1XrGUwFR45EivSPc0VgaAh) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Safety](https://open.spotify.com/album/4KBlyHOpN6XNszRZycsyxK) | 2:41 | 2025-10-03 | 2025-10-11 |
@@ -1798,6 +1798,7 @@
 | [Shake Em Off \(feat\. Babyface Ray\)](https://open.spotify.com/track/7JkFYCGtKLrpXMkLuzGCfh) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Truth Season: The United Streets of America](https://open.spotify.com/album/2fdB12wI8rq06FOkwz2YRc) | 3:22 | 2022-02-11 | 2022-03-26 |
 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 | 2023-05-05 | 2023-07-29 |
 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 | 2023-07-28 | 2023-08-12 |
+| [SHAKE.](https://open.spotify.com/track/2SGdOH2u6uqqAe8fWMXspc) | [Yves!](https://open.spotify.com/artist/0nYLdRhYC1rJA92ulnyB74) | [SHAKE.](https://open.spotify.com/album/3zAoyMQX4M5Zdq2PfLREh1) | 1:40 | 2025-10-20 |  |
 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 | 2024-02-23 | 2024-11-30 |
 | [SHAQ & KOBE](https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [SHAQ & KOBE](https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA) | 3:39 | 2023-09-29 | 2024-01-27 |
 | [Shawty](https://open.spotify.com/track/6jlBIo4lam4ZFso2PciGwU) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shawty](https://open.spotify.com/album/4Nq3jfA6ZwxT6KZ17F3kyC) | 2:58 | 2023-11-24 | 2023-12-09 |

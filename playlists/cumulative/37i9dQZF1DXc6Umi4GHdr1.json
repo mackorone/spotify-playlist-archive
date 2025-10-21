@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 154467,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/0w9Qy3FUtdZMCdlXJQNVFo"
@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Dreamtails",
+        "url": "https://open.spotify.com/album/4coqVK5nU71454qOX8zSCy"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149687,
+      "name": "Dreamtails",
+      "url": "https://open.spotify.com/track/33i0zBKt0lfRQIdbqQ6Ku5"
+    },
+    {
+      "album": {
         "name": "Drifting Into Dusk",
         "url": "https://open.spotify.com/album/6mfgd9Sehm6Xm2WWAx1lIv"
       },
@@ -2512,7 +2530,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 152472,
       "name": "Free in Spirit",
       "url": "https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV"
@@ -6294,6 +6312,24 @@
       "duration_ms": 155827,
       "name": "Strawberry Dreams",
       "url": "https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF"
+    },
+    {
+      "album": {
+        "name": "Stretch Through",
+        "url": "https://open.spotify.com/album/5GN2Ge30Mptqc9hpVCmZZH"
+      },
+      "artists": [
+        {
+          "name": "Blythe Davidson",
+          "url": "https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138324,
+      "name": "Stretch Through",
+      "url": "https://open.spotify.com/track/5lwzLUn70mmFyHmX28Lfte"
     },
     {
       "album": {

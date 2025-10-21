@@ -2439,7 +2439,7 @@
     },
     {
       "album": {
-        "name": "Body Go (with Tyla)",
+        "name": "Body Go",
         "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
       },
       "artists": [
@@ -2456,7 +2456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165000,
-      "name": "Body Go (with Tyla)",
+      "name": "Body Go",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
     },
     {
@@ -3116,6 +3116,24 @@
       "duration_ms": 196000,
       "name": "Cameras",
       "url": "https://open.spotify.com/track/3GKP5FZ3p29o082QOwIEiu"
+    },
+    {
+      "album": {
+        "name": "WINGS CAN GROW ANYWHERE",
+        "url": "https://open.spotify.com/album/0VVdUmeJducDFoKMxNjr6z"
+      },
+      "artists": [
+        {
+          "name": "UZUAZO",
+          "url": "https://open.spotify.com/artist/2eWQApP8OBlD7X7YOUXjYQ"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215181,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/4bFhZLFW1wa8TdYYKgF0PF"
     },
     {
       "album": {
@@ -12936,7 +12954,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 141912,
       "name": "Onji",
       "url": "https://open.spotify.com/track/7rAaSPUwRJ79wMw19391tU"

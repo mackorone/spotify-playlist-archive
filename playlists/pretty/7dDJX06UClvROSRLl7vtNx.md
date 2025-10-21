@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 100,979 likes - 210 songs - 9 hr 0 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,003 likes - 210 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,7 +199,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 189 | [Golden Hour](https://open.spotify.com/track/5hsOpbjgHD0dsFPLxxAAyM) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Golden Hour](https://open.spotify.com/album/2bBd0JDFKOoy55VRnr5Lmm) | 3:30 |
 | 190 | [Bring You Home](https://open.spotify.com/track/21oIDfYSErDhelcDcjfouI) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Bring You Home](https://open.spotify.com/album/29ZQwiy435FFkiPh9HNsAx) | 2:25 |
 | 191 | [Symphony](https://open.spotify.com/track/09H6t4arQwwtZSx6l01iHp) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Stangen](https://open.spotify.com/artist/1EuUknnWCMEWRlVImWTpJe) | [Symphony](https://open.spotify.com/album/0Hcdfx34DnuGHDlq1dHdVm) | 2:25 |
-| 192 | [Not Lonely](https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Finley Brückner](https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0), [Ella X](https://open.spotify.com/artist/4g9KPFeiibtNmCsnuBcK2H) | [Not Lonely](https://open.spotify.com/album/7olVebo6iIcqKo46m7uV6Q) | 3:03 |
+| 192 | [Not Lonely](https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Finley Brückner](https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0), [Ella XO](https://open.spotify.com/artist/40TaxYEQCZ7OQVby4MaQUP) | [Not Lonely](https://open.spotify.com/album/7olVebo6iIcqKo46m7uV6Q) | 3:03 |
 | 193 | [Ocean Quiet](https://open.spotify.com/track/6zFCci00787rGrLkWDwog8) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Ocean Quiet](https://open.spotify.com/album/4KrSgkyrBWUG4fS3N1CgZ9) | 2:47 |
 | 194 | [Stop Playing With My Heart](https://open.spotify.com/track/4riplbh3UAhvXpffohPDkr) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy) | [Stop Playing With My Heart](https://open.spotify.com/album/0TOmU57oHqUBDBTnCnjFnr) | 3:01 |
 | 195 | [House On The Beach](https://open.spotify.com/track/6kPChG0xYqbKXvDcSlqYWJ) | [SEIDS](https://open.spotify.com/artist/2Eipav5ZNY6ON1FReIYpKE), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [House On The Beach](https://open.spotify.com/album/4oEQdcixkeDBHuwcsvTsNN) | 2:21 |

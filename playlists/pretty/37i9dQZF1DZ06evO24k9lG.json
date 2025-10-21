@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 62607,
+  "num_followers": 62609,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAADECtFDKsE/DPe9urfHVYav",
+  "snapshot_id": "aPQqAAAAAACM7oZ0RXipo1bUPET6Ziy+",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 304117,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 310306,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 304117,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 292333,
       "name": "Dejate Atrapar",
       "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7"
     },
     {
       "added_at": null,

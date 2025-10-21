@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 42 min
+64 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | ['Till the Morning Comes](https://open.spotify.com/track/2X3UiNArfXY8ggFS0vDHpM) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:44 | 2025-02-26 | 2025-05-21 |
 | [25th of Last December](https://open.spotify.com/track/1RjYDpM9xgBu78817nruxS) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 4:33 | 2025-03-30 | 2025-03-31 |
 | [After You](https://open.spotify.com/track/4h6zTXHpPwq11aqE6IpyRw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Blue Lights in the Basement](https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN) | 3:53 | 2025-02-25 | 2025-10-04 |
-| [And so It Goes](https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:36 | 2025-02-25 |  |
+| [And so It Goes](https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Oasis](https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4) | 3:32 | 2025-10-21 |  |
+| [And so It Goes](https://open.spotify.com/track/6Rxq0mpz3LpjSrxniarD9c) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 3:36 | 2025-02-25 | 2025-10-21 |
 | [Angelitos Negros](https://open.spotify.com/track/3LZyurIWMyzsZgsaM8kuco) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 6:56 | 2025-02-26 | 2025-04-18 |
 | [Back Together Again \(feat\. Donny Hathaway\)](https://open.spotify.com/track/065o5Vhiq7Dx6JXF0e33S8) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:50 | 2025-02-25 |  |
 | [Ballad of the Sad Young Men](https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 7:00 | 2025-02-25 |  |

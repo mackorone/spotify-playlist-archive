@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: NandaTsunami
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,728 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,700 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu) | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY) | 2:20 |
-| 2 | [Desigualdade Social](https://open.spotify.com/track/65Hn8e8XKKs0rs7VKALJsJ) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [DJ Murillo](https://open.spotify.com/artist/3oo4KrgV0t3uqQ4e7jHHNs), [LT no Beat](https://open.spotify.com/artist/2zZ8ZlWL4PZpPAFtmq4cwr), [LUDV1C](https://open.spotify.com/artist/4UyMYD3bP7dsBWJtRXZp6o) | [Desigualdade Social](https://open.spotify.com/album/4YZ3AaIXDWOcefLMZHaCeZ) | 2:50 |
+| 2 | [Desigualdade Social](https://open.spotify.com/track/65Hn8e8XKKs0rs7VKALJsJ) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [LUDV1C](https://open.spotify.com/artist/4UyMYD3bP7dsBWJtRXZp6o) | [Desigualdade Social](https://open.spotify.com/album/4YZ3AaIXDWOcefLMZHaCeZ) | 2:50 |
 | 3 | [BIGMAMA](https://open.spotify.com/track/5szt47hhoNY9RUMsqsVbcY) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq) | [BIGMAMA](https://open.spotify.com/album/7vs6UQHM7VNNn9rHMNXRIj) | 2:03 |
 | 4 | [CONTRAMÃO](https://open.spotify.com/track/0WwHYa72F94eI7HYr0F4sS) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [LPT Zlatan](https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX), [P.L.K](https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf) | [CRÔNICAS](https://open.spotify.com/album/4MId32a3619pi8cFydwvFZ) | 2:59 |
 | 5 | [Quem É Você ?](https://open.spotify.com/track/0XLbjpLEfZmvF0rTl51plG) | [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [Quem É Você ?](https://open.spotify.com/album/2PAOTuYYVflDdkiQ7HNf2H) | 2:01 |

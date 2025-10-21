@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/0bw1pGrUrSeGrDu3MXDGra"
+      },
+      "artists": [
+        {
+          "name": "Merry Pines",
+          "url": "https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166061,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/61dZswZwFXBKWXqite4lfv"
+    },
+    {
+      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4"
       },

@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa ABREU.
 
-781 songs - 1 day 15 hr 0 min
+782 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,6 +608,7 @@
 | [SRR](https://open.spotify.com/track/4vDIYUPebV425O9fXMmikx) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [SRR](https://open.spotify.com/album/3GW5a1LAFUscAFWiMov8Fj) | 2:10 | 2024-11-21 | 2024-12-06 |
 | [Stadi \(Alicia\)](https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Stadi \(Alicia\)](https://open.spotify.com/album/1Q3cD40iLszO4uvmc0kH87) | 2:22 | 2024-07-02 | 2024-10-04 |
 | [Stunttaa](https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Stunttaa](https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ) | 2:58 | 2024-07-02 | 2024-07-12 |
+| [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 | 2025-10-20 |  |
 | [Suljettu sydän \(Vain elämää kausi 16\)](https://open.spotify.com/track/3Q34SUXygIBEqycxs0jgDo) | [Pelle Miljoona](https://open.spotify.com/artist/7Gi708Ix6cns0SGJiZ4tvo) | [Suljettu sydän \(Vain elämää kausi 16\)](https://open.spotify.com/album/5dx338fSMUsO3x1PUSIumv) | 2:29 | 2025-09-18 | 2025-09-27 |
 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 | 2024-09-26 | 2025-06-06 |
 | [Sun takii](https://open.spotify.com/track/7yTQcZYQ4ynDIY63x3A9df) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [luke](https://open.spotify.com/artist/6trWS3LhQbIXgDZaubTvTB) | [Sun takii](https://open.spotify.com/album/1CmD0tLoEtXEjtNbAZKzBv) | 2:53 | 2025-07-10 | 2025-08-13 |
@@ -735,7 +736,7 @@
 | [Vielki kentil](https://open.spotify.com/track/3vXmC0auELL4TiSdcEeLcC) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Vielki kentil](https://open.spotify.com/album/3R18RGuJLRLmLHpqdqS5Iq) | 3:02 | 2024-09-05 | 2024-09-20 |
 | [Vielä jossakin kohdataan \(Vain elämää kausi 15\)](https://open.spotify.com/track/246fvzs8QH8cpQ3L759mJK) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Vielä jossakin kohdataan \(Vain elämää kausi 15\)](https://open.spotify.com/album/2rlByOAlXO6ktUSsCGgP7s) | 3:07 | 2024-09-19 | 2024-09-27 |
 | [Vieläkin vähän sun](https://open.spotify.com/track/3kd551rnbJrodncKYiJcgN) | [Reettabitch](https://open.spotify.com/artist/5XYFXTCJPZ9ZdvuJdEfUcQ) | [Vieläkin vähän sun](https://open.spotify.com/album/6VdKhk0pzGS3T5IXO8ERRI) | 2:46 | 2024-11-07 | 2025-01-31 |
-| [Vihaa mua](https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 2:48 | 2025-06-12 |  |
+| [Vihaa mua](https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 2:48 | 2025-06-12 | 2025-10-21 |
 | [Vihaajat vihaa](https://open.spotify.com/track/0eSQ3lbfVY9MgPD7lGsGSq) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Vihaajat vihaa](https://open.spotify.com/album/4oMcUFaqqJHu4mCR0NxHbX) | 2:32 | 2025-05-29 | 2025-08-29 |
 | [Viikatemies \(feat\. costee\)](https://open.spotify.com/track/5EfVIWZF36J5ktLPcOcTSG) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Viikatemies \(feat\. costee\)](https://open.spotify.com/album/2QnpWEQFnGEIj4C8xpQECH) | 2:44 | 2024-07-18 | 2024-08-23 |
 | [Viikonloppusoturit \(feat\. Lili & Luna\)](https://open.spotify.com/track/45FgNdTmbJij07wH3Gjs2O) | [Brädi](https://open.spotify.com/artist/7sffd21zAdar6cigY9A1b7), [Lili & Luna](https://open.spotify.com/artist/5K10NuCY4qVWSgk3kGsQTZ) | [Viikonloppusoturit \(feat\. Lili & Luna\)](https://open.spotify.com/album/0OHcCXVDnRfvrcuJhxMEK4) | 3:00 | 2025-05-01 | 2025-05-23 |

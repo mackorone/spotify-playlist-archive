@@ -2,7 +2,7 @@
 
 ### [magmuni\-muni](https://open.spotify.com/playlist/37i9dQZF1DX0DrBh4sbMhw)
 
-> Limang silid, limang yugto ng Silakbo, isang paglalakbay ni Laya.
+> ang lalim
 
 259 songs - 16 hr 1 min
 
@@ -36,7 +36,7 @@
 | [Biyahe](https://open.spotify.com/track/6M87p4JZBHlZboqD0dhQix) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Biyahe](https://open.spotify.com/album/4MfB3PBqb5FKbE7w9UnIZy) | 3:13 | 2023-11-10 | 2024-06-06 |
 | [Blade Of Grass](https://open.spotify.com/track/7xIoinMSiwIp5BWR7toO1O) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:17 | 2025-05-09 | 2025-06-07 |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-10 | 2024-06-06 |
-| [Bubog](https://open.spotify.com/track/7n1BbFCtHq4cRA5rXaWOaD) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:16 | 2025-10-10 |  |
+| [Bubog](https://open.spotify.com/track/7n1BbFCtHq4cRA5rXaWOaD) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:16 | 2025-10-10 | 2025-10-21 |
 | [Bugambilya](https://open.spotify.com/track/5V1UJ03fQBUIdmFUy9CKVR) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Somber](https://open.spotify.com/album/3NnuuyP11cyqfqH4nOXuEH) | 4:35 | 2023-10-18 | 2024-11-06 |
 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 | 2025-06-02 |  |
 | [castle](https://open.spotify.com/track/27iZAhkSm6AHLf65pxvQBz) | [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [castle](https://open.spotify.com/album/4Ezj9rf825Qgnr7mheGVsR) | 2:48 | 2023-10-18 | 2024-11-05 |
@@ -112,7 +112,7 @@
 | [i know you know](https://open.spotify.com/track/61FGR56QJ94BHIkfh755s4) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/2nNQOtUsfNhwJguQorQmNK) | 4:24 | 2023-10-18 | 2024-04-19 |
 | [i know you know](https://open.spotify.com/track/7IU4F6KiGpjwy5cEBKof8L) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/4k74ZuiE1LHukoVXgOztv1) | 4:24 | 2024-03-04 | 2024-11-05 |
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-09-17 |  |
-| [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-14 | 2025-10-20 |
+| [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-14 |  |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-07-17 | 2025-10-12 |
 | [in another life](https://open.spotify.com/track/2OcsYbiC1s7hXyhRZirf3K) | [Zion Aguirre](https://open.spotify.com/artist/5U09RsRxa8IQ9GYtIsxY3d) | [in another life](https://open.spotify.com/album/5cvdRWWh28Uh6ZprLNUici) | 3:12 | 2023-10-18 | 2024-07-19 |
 | [IN YOUR EYES](https://open.spotify.com/track/1wjDFBUOMuZKm1eJ8GzRBX) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:34 | 2025-04-14 | 2025-09-04 |

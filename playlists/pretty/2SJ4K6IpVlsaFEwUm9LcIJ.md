@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,449 likes - 64 songs - 3 hr 37 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,454 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 62 | [As You Turn to Go](https://open.spotify.com/track/2qmg9WhT7nhPe0OwvPQ9ax) | [The 6ths](https://open.spotify.com/artist/7HzHgQO5cFieqjoINahKkm), [Momus](https://open.spotify.com/artist/0Uuw1MHNH56xL76bTOVJE8) | [Hyacinths and Thistles](https://open.spotify.com/album/0qU0P83XUlRE0KO0DaRhYM) | 1:59 |
 | 63 | [Victor, Fly Me to Stafford](https://open.spotify.com/track/3MNFiVcKOPlcvXcx9EHdpE) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 2:14 |
 | 64 | [Golden Fall](https://open.spotify.com/track/1MxBaWWTu4RRh7edgHExVb) | [Ooberman](https://open.spotify.com/artist/0QEF9qRSTtRUV6leWVPhQt) | [Shorley Wall](https://open.spotify.com/album/24V0ER59SFtczhNhoqOYMq) | 4:55 |
+| 65 | [Stars](https://open.spotify.com/track/7AD1EjsHB0ynpJ1LCkcz2X) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 2:31 |
 
-Snapshot ID: `AAANScd1UJjhHB80rL5zm9kP8sS1HIhR`
+Snapshot ID: `AAANS7q0HDBE0eKHYLmUawdsGQTcqcVW`

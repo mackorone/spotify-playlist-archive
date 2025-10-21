@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 150000,
       "name": "Astralyn",
       "url": "https://open.spotify.com/track/1NelHOEkrDhxokRNN5JO5l"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 154434,
       "name": "Candescent",
       "url": "https://open.spotify.com/track/5wJmaU8KKuAsHXa0aM7fQW"
@@ -6935,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "Long Drive",
+        "url": "https://open.spotify.com/album/1RxAO4XIbiJP73YRf45x79"
+      },
+      "artists": [
+        {
+          "name": "Noah Moon",
+          "url": "https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150290,
+      "name": "Long Drive",
+      "url": "https://open.spotify.com/track/2sWJQnlTi2YMNNtzcsqFxC"
+    },
+    {
+      "album": {
         "name": "Longevity",
         "url": "https://open.spotify.com/album/3JL7WAKFG5v94whFka9GxF"
       },
@@ -7234,7 +7252,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 143024,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/5iW98p3r3bR9N7JGHlMCI0"
@@ -13327,6 +13345,24 @@
     },
     {
       "album": {
+        "name": "Vespera",
+        "url": "https://open.spotify.com/album/7jBqT6wsgVL6Ia52EFgahR"
+      },
+      "artists": [
+        {
+          "name": "Elio Vane",
+          "url": "https://open.spotify.com/artist/3KdplR6fQigF6Octm8lqOV"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160750,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/2c8z7wq9HJEwZToAg95DfH"
+    },
+    {
+      "album": {
         "name": "Vespers",
         "url": "https://open.spotify.com/album/6r2xNpVGI01U4w2M3e0CfL"
       },
@@ -13594,6 +13630,24 @@
       "duration_ms": 206769,
       "name": "Whispering Wind",
       "url": "https://open.spotify.com/track/34OU5mx0WLo18srNdK3mr0"
+    },
+    {
+      "album": {
+        "name": "White Mist",
+        "url": "https://open.spotify.com/album/5Pm9Q853Bhwe3qyHal42i0"
+      },
+      "artists": [
+        {
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "White Mist",
+      "url": "https://open.spotify.com/track/2y5hF6IeXqWkCfPbR4dVP3"
     },
     {
       "album": {

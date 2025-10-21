@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Stephon Castle
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Kevin Durant and Shai Gilgeous\-Alexander
 
 853 songs - 1 day 19 hr 40 min
 

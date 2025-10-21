@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Turi in cover.",
-  "num_followers": 47837,
+  "num_followers": 47847,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,22 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "PALAZZINE",
-        "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
+        "name": "Tropico Del Capricorno",
+        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
       },
       "artists": [
         {
-          "name": "Jamil",
-          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
         }
       ],
-      "duration_ms": 151999,
-      "name": "PALAZZINE",
-      "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
+      "duration_ms": 150769,
+      "name": "Gazelle (feat. Ele A)",
+      "url": "https://open.spotify.com/track/4vqY8SB6XArs7IkEpWHTw9"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -379,22 +383,22 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "Tropico Del Capricorno",
-        "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
+        "name": "FoglieMorte (feat. Fabri Fibra)",
+        "url": "https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         },
         {
-          "name": "Ele A",
-          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
         }
       ],
-      "duration_ms": 150769,
-      "name": "Gazelle (feat. Ele A)",
-      "url": "https://open.spotify.com/track/4vqY8SB6XArs7IkEpWHTw9"
+      "duration_ms": 177333,
+      "name": "FoglieMorte (feat. Fabri Fibra)",
+      "url": "https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -451,6 +455,22 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
+        "name": "PALAZZINE",
+        "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
+      },
+      "artists": [
+        {
+          "name": "Jamil",
+          "url": "https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2"
+        }
+      ],
+      "duration_ms": 151999,
+      "name": "PALAZZINE",
+      "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
         "name": "Vile Denaro",
         "url": "https://open.spotify.com/album/57LDZpXD1nSl88hpUGwtNe"
       },
@@ -475,22 +495,6 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "Bugiardo",
-        "url": "https://open.spotify.com/album/3XuRONbq5BSjqMWI2A5Zud"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "La Soluzione",
-      "url": "https://open.spotify.com/track/5pkNGtOsW7CpOUCrsBDZpa"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
         "name": "PARTO NATURALE",
         "url": "https://open.spotify.com/album/7jogdPB6uAARTKOoygqpom"
       },
@@ -503,6 +507,22 @@
       "duration_ms": 136445,
       "name": "PARTO NATURALE",
       "url": "https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
+        "name": "Bugiardo",
+        "url": "https://open.spotify.com/album/3XuRONbq5BSjqMWI2A5Zud"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "La Soluzione",
+      "url": "https://open.spotify.com/track/5pkNGtOsW7CpOUCrsBDZpa"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -583,26 +603,6 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "FoglieMorte (feat. Fabri Fibra)",
-        "url": "https://open.spotify.com/album/2f0iQLwfF18nPfxFOKkcsb"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "FoglieMorte (feat. Fabri Fibra)",
-      "url": "https://open.spotify.com/track/6MVM9wjGUT7OFbAnDAtIEm"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
         "name": "Non Dormire",
         "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 240080,
       "name": "King Del Rap",
       "url": "https://open.spotify.com/track/7iyfSIHYEZx9zDSMJO39EE"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
-        "name": "Mr. Simpatia",
-        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Momenti no",
-      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -747,6 +731,22 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
+        "name": "Mr. Simpatia",
+        "url": "https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Momenti no",
+      "url": "https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
         "name": "Acqua",
         "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
       },
@@ -787,18 +787,22 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "Turbe Giovanili",
-        "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
+        "name": "Viscerale",
+        "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Scattano Le Indagini",
-      "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"
+      "duration_ms": 163000,
+      "name": "Idiocracy (feat. Gemitaiz)",
+      "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -819,26 +823,6 @@
       "duration_ms": 220960,
       "name": "Verano Zombie",
       "url": "https://open.spotify.com/track/5yZhi50rWPgavFhPbFW0x8"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
-        "name": "Viscerale",
-        "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Idiocracy (feat. Gemitaiz)",
-      "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -919,6 +903,38 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
+        "name": "Faccio Quello Che Voglio",
+        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
+      },
+      "artists": [
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        }
+      ],
+      "duration_ms": 270293,
+      "name": "Non Piove",
+      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
+        "name": "Turbe Giovanili",
+        "url": "https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Scattano Le Indagini",
+      "url": "https://open.spotify.com/track/0FeJBn5QuPRTuWyaSNu2aE"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
         "name": "VIRUS",
         "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "Faccio Quello Che Voglio",
-        "url": "https://open.spotify.com/album/1oWGtd7XBEhBHW00NnKV1f"
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
       "artists": [
         {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
         }
       ],
-      "duration_ms": 270293,
-      "name": "Non Piove",
-      "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
+      "duration_ms": 281333,
+      "name": "In Linea",
+      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -971,22 +987,6 @@
       "duration_ms": 132919,
       "name": "Hip Hop Snippet (feat. Dj Shocca)",
       "url": "https://open.spotify.com/track/4XvOoyOmHrE9RwwTWNBh5Y"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 281333,
-      "name": "In Linea",
-      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Un mestiere qualunque",
-      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
         "name": "L'amico degli amici",
         "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 242880,
       "name": "Cosa vuoi da me",
       "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f"
+      },
+      "artists": [
+        {
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Un mestiere qualunque",
+      "url": "https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "Il Battesimo (feat. Inoki)",
-        "url": "https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs"
-      },
-      "artists": [
-        {
-          "name": "Kres",
-          "url": "https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 147357,
-      "name": "Il Battesimo (feat. Inoki)",
-      "url": "https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
         "name": "Penna Capitale",
         "url": "https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 152000,
       "name": "Coppa Italia (feat. Ensi & Nerone)",
       "url": "https://open.spotify.com/track/7dWbTK0WbZQm1LQLURFF5S"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
+        "name": "Il Battesimo (feat. Inoki)",
+        "url": "https://open.spotify.com/album/3JblzSFeepGWBtXHyL81fs"
+      },
+      "artists": [
+        {
+          "name": "Kres",
+          "url": "https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 147357,
+      "name": "Il Battesimo (feat. Inoki)",
+      "url": "https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -1575,30 +1575,6 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "IncrEdible Freestyle, Pt. III",
-        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
-      },
-      "artists": [
-        {
-          "name": "W.edy Wonders",
-          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
-        },
-        {
-          "name": "DJ Fastcut",
-          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        }
-      ],
-      "duration_ms": 85500,
-      "name": "IncrEdible Freestyle, Pt. III",
-      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
         "name": "Musica Cicatrene",
         "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
       },
@@ -1639,6 +1615,30 @@
       "duration_ms": 219053,
       "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
       "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
+        "name": "IncrEdible Freestyle, Pt. III",
+        "url": "https://open.spotify.com/album/7CsUSjNzWJBwzh6LN7rcrT"
+      },
+      "artists": [
+        {
+          "name": "W.edy Wonders",
+          "url": "https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR"
+        },
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        }
+      ],
+      "duration_ms": 85500,
+      "name": "IncrEdible Freestyle, Pt. III",
+      "url": "https://open.spotify.com/track/7jOOYmUaBGw6ukA3KLaOhl"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
         "name": "CHIODI",
         "url": "https://open.spotify.com/album/5D0ENA1yOxEQHl5995qVr9"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 248791,
       "name": "L'uomo dei sogni",
       "url": "https://open.spotify.com/track/6nkJT8b4WTTCoV2GwvIU2k"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2025-10-17 08:02:47",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2025-10-17 08:02:47",
       "album": {
-        "name": "Non fa per me",
-        "url": "https://open.spotify.com/album/6F5d1CTCdtxZpLfNChI8hh"
-      },
-      "artists": [
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Non fa per me",
-      "url": "https://open.spotify.com/track/27chHteHE6ESsppvrTrO54"
-    },
-    {
-      "added_at": "2025-10-17 08:02:47",
-      "album": {
         "name": "Mambo del Diablo",
         "url": "https://open.spotify.com/album/0rc6kCEVH7X6DICSMG8Xgk"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 166530,
       "name": "Mambo del Diablo",
       "url": "https://open.spotify.com/track/46AUcpztyMKpHcCm0a7CNi"
+    },
+    {
+      "added_at": "2025-10-17 08:02:47",
+      "album": {
+        "name": "Non fa per me",
+        "url": "https://open.spotify.com/album/6F5d1CTCdtxZpLfNChI8hh"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Non fa per me",
+      "url": "https://open.spotify.com/track/27chHteHE6ESsppvrTrO54"
     },
     {
       "added_at": "2025-10-17 08:02:47",

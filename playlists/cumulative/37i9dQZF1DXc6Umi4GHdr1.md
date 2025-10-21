@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-452 songs - 20 hr 0 min
+454 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Barcelona Sunrise](https://open.spotify.com/track/4MGhkZ6FM6jvW4REJvJaVN) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Barcelona Sunrise](https://open.spotify.com/album/278KHG4sDOO9Bv2ACj0YsM) | 2:45 | 2024-03-08 | 2024-06-15 |
 | [Barre des Écrins](https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x) | [Rex Lopes](https://open.spotify.com/artist/45X82ZBJp4VUU6UkCXNm54) | [Saludo](https://open.spotify.com/album/6ZWaw4NPpuBF57v0ap05Ug) | 3:09 | 2021-12-10 | 2022-07-22 |
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-03-10 | 2023-08-26 |
-| [Beach House](https://open.spotify.com/track/0w9Qy3FUtdZMCdlXJQNVFo) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Beach House](https://open.spotify.com/album/4oKwhOJN4dOtl6tivRY5HV) | 2:34 | 2024-01-12 |  |
+| [Beach House](https://open.spotify.com/track/0w9Qy3FUtdZMCdlXJQNVFo) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Beach House](https://open.spotify.com/album/4oKwhOJN4dOtl6tivRY5HV) | 2:34 | 2024-01-12 | 2025-10-21 |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2021-12-10 | 2023-08-25 |
 | [Before You go](https://open.spotify.com/track/3m4gh0NRsAwzyGjPoL2o3s) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Before You Go](https://open.spotify.com/album/3PdwBttSdtSzCa9hktsYxf) | 2:52 | 2023-03-10 | 2023-09-20 |
 | [Bennie And The Jets](https://open.spotify.com/track/3FiFSEZe57AAeQe2hPznXs) | [Tato Isaac](https://open.spotify.com/artist/3zwvnI5xyM632CM2nz1IuR) | [Bennie And The Jets](https://open.spotify.com/album/3phxTCqzyvEqFrksliJIOO) | 2:58 | 2022-07-29 | 2023-03-10 |
@@ -107,6 +107,7 @@
 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 | 2024-03-08 | 2025-09-13 |
 | [Dorival](https://open.spotify.com/track/1sgihll2tdAfRm3ko1Bay3) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Dorival](https://open.spotify.com/album/460T3DYQguwcbXb5M97nr6) | 2:46 | 2022-12-09 | 2024-07-30 |
 | [Dreaming of You](https://open.spotify.com/track/2Kc5cRMOGRwUHmUWCK6dtp) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Dreaming of You](https://open.spotify.com/album/7jCgSYBykgShmN0fqPq5K6) | 3:45 | 2024-05-10 | 2025-09-13 |
+| [Dreamtails](https://open.spotify.com/track/33i0zBKt0lfRQIdbqQ6Ku5) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Dreamtails](https://open.spotify.com/album/4coqVK5nU71454qOX8zSCy) | 2:29 | 2025-10-20 |  |
 | [Drifting Into Dusk](https://open.spotify.com/track/22fbNUersaC8uZBUaHSwv8) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Drifting Into Dusk](https://open.spotify.com/album/6mfgd9Sehm6Xm2WWAx1lIv) | 2:54 | 2025-05-13 |  |
 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 | 2023-12-15 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 |  |
@@ -146,7 +147,7 @@
 | [For Far Too Long](https://open.spotify.com/track/4bxljmuDdjLpfXRM98FFl3) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [For Far Too Long](https://open.spotify.com/album/5MwHzCqgiHv2Pue2ov9y6z) | 4:56 | 2021-12-10 | 2024-04-06 |
 | [For You](https://open.spotify.com/track/3bgNNSsVySCFBmvOMpgUIK) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [For You](https://open.spotify.com/album/0LTWIcd5hJCY4EqIPudXyZ) | 2:38 | 2025-01-13 |  |
 | [Fortified Heart](https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Fortified Heart](https://open.spotify.com/album/6QluqiIXnhbDfhsNd44AGk) | 3:21 | 2021-12-10 | 2023-05-27 |
-| [Free in Spirit](https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Free in Spirit](https://open.spotify.com/album/2A91Ozy0QhTwYdJUOj4mOc) | 2:32 | 2024-11-06 |  |
+| [Free in Spirit](https://open.spotify.com/track/6VaX2PNwrctPcGr8hgXYyV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Free in Spirit](https://open.spotify.com/album/2A91Ozy0QhTwYdJUOj4mOc) | 2:32 | 2024-11-06 | 2025-10-21 |
 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 |  |
 | [From the quiet of morning](https://open.spotify.com/track/2d0WQKmbTMN8vmed05V9zj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [From the quiet of morning](https://open.spotify.com/album/5DtoqlQ7kshpTlcHhwD9z3) | 2:25 | 2025-02-19 |  |
 | [Full Bloom](https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Soul Odyssey](https://open.spotify.com/album/655DVNIphpZShWuF9Ejmfc) | 2:42 | 2021-12-10 | 2023-03-10 |
@@ -356,6 +357,7 @@
 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 | 2022-05-27 | 2024-04-06 |
 | [Stonelight](https://open.spotify.com/track/3TkA188dRyATyUIGQrKfwv) | [Jesse Rostad](https://open.spotify.com/artist/1A4uhZo28pk8VoTEHrMQlg) | [Stonelight](https://open.spotify.com/album/217NoXrdFVkyNxkkRSbLnF) | 2:30 | 2025-02-24 |  |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-26 | 2023-06-16 |
+| [Stretch Through](https://open.spotify.com/track/5lwzLUn70mmFyHmX28Lfte) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Stretch Through](https://open.spotify.com/album/5GN2Ge30Mptqc9hpVCmZZH) | 2:18 | 2025-10-20 |  |
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-03-10 | 2023-08-26 |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-04-22 | 2022-07-22 |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-11 |  |

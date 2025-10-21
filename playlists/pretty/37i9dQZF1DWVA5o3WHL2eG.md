@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,850 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,847 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
 | 18 | [Solang wir](https://open.spotify.com/track/2iCwGZ3jyU2BLBk12AZGur) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Solang wir](https://open.spotify.com/album/7kKY2ZJfBLpcsNfW2i2evA) | 2:57 |
 | 19 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
-| 20 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
-| 21 | [4 akkorde](https://open.spotify.com/track/6TzlxYCPjUAs0f2dbgWAiy) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [darf ich bitten?](https://open.spotify.com/album/5w9Hlxd4S1g1RgGWn0cZcX) | 2:29 |
+| 20 | [4 akkorde](https://open.spotify.com/track/6TzlxYCPjUAs0f2dbgWAiy) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [darf ich bitten?](https://open.spotify.com/album/5w9Hlxd4S1g1RgGWn0cZcX) | 2:29 |
+| 21 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
 | 22 | [1500 km](https://open.spotify.com/track/44yo6y9qPGldiP6RQZzfdP) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [1500 km](https://open.spotify.com/album/4CI1WgOgHtQfTdJiO7fSds) | 2:06 |
 | 23 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
 | 24 | [wo & wann](https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [wo & wann](https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E) | 2:32 |

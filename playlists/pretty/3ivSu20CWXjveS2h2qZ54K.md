@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,839 likes - 82 songs - 4 hr 28 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,839 likes - 82 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 10 | [Flores](https://open.spotify.com/track/2xN77uzvD2MI7YAsloyLfX) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Flores](https://open.spotify.com/album/3dbyvlMLXxaAtvZLKRSiJz) | 4:43 |
 | 11 | [Dime que piensas en mí](https://open.spotify.com/track/2F9UnK5FyGdl9hLcjJKBvH) | [cosas bien cosas mal](https://open.spotify.com/artist/1bIaGb6mjCnE0sTOKR0hj7) | [Dime que piensas en mí](https://open.spotify.com/album/305rWdWzAt5Ij4An2U2afv) | 2:46 |
 | 12 | [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 |
-| 13 | [Aspas Contrarias](https://open.spotify.com/track/0vZJySOVPZKUBCJsi2DX04) | [Germán Salto](https://open.spotify.com/artist/7ujKUm3M5ejAHgcYzpmCVR) | [Ojo de bife](https://open.spotify.com/album/13d7eTVXfdRv05EB6ppUOu) | 2:29 |
+| 13 | [Aspas Contrarias](https://open.spotify.com/track/0vZJySOVPZKUBCJsi2DX04) | [Germán Salto](https://open.spotify.com/artist/7ujKUm3M5ejAHgcYzpmCVR) | [Ojo de bife](https://open.spotify.com/album/13d7eTVXfdRv05EB6ppUOu) | 3:08 |
 | 14 | [Telephone Games](https://open.spotify.com/track/6vyw66bRBPxQxHCKFQSyI5) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Telephone Games](https://open.spotify.com/album/1RdRnkN2bYAXsLOUIkAz3D) | 3:26 |
 | 15 | [Historias de mi madre](https://open.spotify.com/track/0KYPXalufEdTN32XRy7hHf) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Historias de mi madre](https://open.spotify.com/album/0HVLItjkoFLo6rAIhdPJQU) | 4:19 |
 | 16 | [Not in Your Mouth None of Your Business](https://open.spotify.com/track/6q6bauwUzbKhx4KM49kfgL) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Not in Your Mouth None of Your Business](https://open.spotify.com/album/26nGeDBDGw22HuBVMrX3og) | 2:03 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 66 | [Contigo](https://open.spotify.com/track/7jCKhYFz4NHrbrajity2eA) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Contigo](https://open.spotify.com/album/4Yl8mtPufYDfj9n4FWgN9C) | 2:32 |
 | 67 | [Hollow Noon](https://open.spotify.com/track/2OYoQkTfbPP40cJWA8Ixch) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:23 |
 | 68 | [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Human Happens / Paint Me A Picture](https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1) | 4:03 |
-| 69 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 69 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 70 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 71 | [Mieux que moi](https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mieux que moi](https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S) | 3:35 |
 | 72 | [Watch You Walk Away](https://open.spotify.com/track/6NgR889pWoAtrAPtUtwGFd) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Mortal Primetime \(Deluxe\)](https://open.spotify.com/album/02osO9I4Ouuvmwdz6wQ7W5) | 2:46 |

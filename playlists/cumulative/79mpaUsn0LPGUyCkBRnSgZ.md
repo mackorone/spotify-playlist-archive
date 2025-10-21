@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-941 songs - 2 day 14 hr 24 min
+942 songs - 2 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Dark Ear](https://open.spotify.com/track/4pzkDLgql51eVBPU0T0QMQ) | [Nevermen](https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq) | [Nevermen](https://open.spotify.com/album/6B2zFE8keFSYZkNlani62g) | 3:35 | 2024-03-25 |  |
 | [Dark Light](https://open.spotify.com/track/1o7oOkRLN3ORajw71WC0mx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [The Birds Outside Sang](https://open.spotify.com/album/336M91KDT5FewEOZI5SUJd) | 1:31 | 2024-01-18 | 2024-05-27 |
 | [De Selby \(Part 1\)](https://open.spotify.com/track/78x3oT0wyvcm9GRmuAP6Vq) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:39 | 2023-08-18 | 2023-08-28 |
-| [DEAD](https://open.spotify.com/track/1MRQ49rkgqahm7K51ZjtRf) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [THE BPM](https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg) | 4:08 | 2025-10-17 |  |
+| [DEAD](https://open.spotify.com/track/1MRQ49rkgqahm7K51ZjtRf) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [THE BPM](https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg) | 4:08 | 2025-10-17 | 2025-10-21 |
 | [Dead Leaves and the Dirty Ground](https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 3:02 | 2022-10-21 |  |
 | [Death Parade](https://open.spotify.com/track/4IIdH7tHoikvvr0twQtCBI) | [Open Mike Eagle](https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX) | [Anime, Trauma and Divorce](https://open.spotify.com/album/23SV7P5U8oF3EJfkdW08wO) | 2:24 | 2023-06-29 | 2023-07-02 |
 | [Debaser](https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO) | 2:51 | 2023-11-30 | 2024-01-17 |
@@ -721,6 +721,7 @@
 | [Silhouette](https://open.spotify.com/track/4GIHwigKlA5TweoUppHRxk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 6:13 | 2023-01-11 |  |
 | [Sillycone Valley](https://open.spotify.com/track/23R59LUKKvATvII3orFxCS) | [Lene Alexandra](https://open.spotify.com/artist/1g3WGig4QyMUUl6Iq9Euex) | [Welcome to Sillycone Valley](https://open.spotify.com/album/0Z1hMwSO1ejYo4MnJCbPVv) | 3:01 | 2024-02-06 | 2024-02-17 |
 | [Silver](https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 | 2024-11-22 |  |
+| [Simmer](https://open.spotify.com/track/2moHnkHTSXBe9KjvPSQJvg) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 4:26 | 2025-10-20 |  |
 | [Sincerely](https://open.spotify.com/track/1Y1iDBe3Q1rPn44DcvCdzH) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY) | 2:06 | 2025-04-28 | 2025-05-16 |
 | [Singing Winds, Crying Beasts](https://open.spotify.com/track/0vBCQeiEKRy6eJmrf5zz4H) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:50 | 2024-05-27 | 2024-06-01 |
 | [Sir Benni Miles](https://open.spotify.com/track/0JA4GtolOVxzFttdnMCwuJ) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Haram](https://open.spotify.com/album/0RPanQrJXRyTJoiq2trm7k) | 2:59 | 2022-01-02 |  |

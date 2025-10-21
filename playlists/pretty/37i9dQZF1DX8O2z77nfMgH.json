@@ -1,29 +1,13 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Rawayana",
-  "num_followers": 865486,
+  "num_followers": 865332,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANK5Kl/8wFbhY6/4Kd8KZeUJNes1",
+  "snapshot_id": "AAAAALKWoXLPqwJ+OIusjeidkUAdBks/",
   "tracks": [
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "La Noche Que No Hab\u00eda Uber",
-        "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "La Noche Que No Hab\u00eda Uber",
-      "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
-    },
     {
       "added_at": "2025-10-17 04:00:35",
       "album": {
@@ -43,38 +27,6 @@
       "duration_ms": 214742,
       "name": "Un Polvito +",
       "url": "https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Kiriki",
-        "url": "https://open.spotify.com/album/7eLwzopvFrjiPWWG4gve9f"
-      },
-      "artists": [
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 204447,
-      "name": "Kiriki",
-      "url": "https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "MALPORTADA",
-        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 200112,
-      "name": "A CABALLO",
-      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -99,6 +51,38 @@
     {
       "added_at": "2025-10-17 04:00:35",
       "album": {
+        "name": "La Noche Que No Hab\u00eda Uber",
+        "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "La Noche Que No Hab\u00eda Uber",
+      "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Flow Diferente",
+        "url": "https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Flow Diferente",
+      "url": "https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
         "name": "Los M\u00e1gicos",
         "url": "https://open.spotify.com/album/1qQmiMijIXD2v7WIEekNLb"
       },
@@ -119,6 +103,22 @@
     {
       "added_at": "2025-10-17 04:00:35",
       "album": {
+        "name": "Kiriki",
+        "url": "https://open.spotify.com/album/7eLwzopvFrjiPWWG4gve9f"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 204447,
+      "name": "Kiriki",
+      "url": "https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
         "name": "Melanc\u00f3lico",
         "url": "https://open.spotify.com/album/4NBQW40rKJhYHAVjMuVanS"
       },
@@ -131,38 +131,6 @@
       "duration_ms": 178794,
       "name": "Melanc\u00f3lico",
       "url": "https://open.spotify.com/track/2h20jZvxaF4qcJUiOatO2W"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "LAMENTO EN BAILE",
-        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 168217,
-      "name": "EL TOQUE",
-      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Balada Malvada",
-        "url": "https://open.spotify.com/album/2F3IJ128ygML2oAGFMyU6d"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 262338,
-      "name": "Balada Malvada",
-      "url": "https://open.spotify.com/track/1HSPVwhWDnu1PYl1GwA9s0"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -187,18 +155,58 @@
     {
       "added_at": "2025-10-17 04:00:35",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
+        "name": "LAMENTO EN BAILE",
+        "url": "https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t"
       },
       "artists": [
         {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 172800,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
+      "duration_ms": 168217,
+      "name": "EL TOQUE",
+      "url": "https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Conmigo Sin Ti",
+        "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Conmigo Sin Ti",
+      "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Una Vaina Bien",
+        "url": "https://open.spotify.com/album/5ZElLGCCIw82vO1yM3P7WH"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 198194,
+      "name": "Una Vaina Bien",
+      "url": "https://open.spotify.com/track/7zqKOV2UZtiiUBzbXXNsj3"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -219,6 +227,22 @@
       "duration_ms": 199846,
       "name": "la vuelta",
       "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -247,18 +271,50 @@
     {
       "added_at": "2025-10-17 04:00:35",
       "album": {
-        "name": "Flow Diferente",
-        "url": "https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n"
+        "name": "No te borro",
+        "url": "https://open.spotify.com/album/1Im92diWqS7VCqSBp0SCVG"
       },
       "artists": [
         {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
         }
       ],
-      "duration_ms": 138352,
-      "name": "Flow Diferente",
-      "url": "https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen"
+      "duration_ms": 134400,
+      "name": "No te borro",
+      "url": "https://open.spotify.com/track/26OVAK5iwyUF0a5jnxdZBd"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "Balada Malvada",
+        "url": "https://open.spotify.com/album/2F3IJ128ygML2oAGFMyU6d"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 262338,
+      "name": "Balada Malvada",
+      "url": "https://open.spotify.com/track/1HSPVwhWDnu1PYl1GwA9s0"
+    },
+    {
+      "added_at": "2025-10-17 04:00:35",
+      "album": {
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 200112,
+      "name": "A CABALLO",
+      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -323,22 +379,6 @@
     {
       "added_at": "2025-10-17 04:00:35",
       "album": {
-        "name": "No te borro",
-        "url": "https://open.spotify.com/album/1Im92diWqS7VCqSBp0SCVG"
-      },
-      "artists": [
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "No te borro",
-      "url": "https://open.spotify.com/track/26OVAK5iwyUF0a5jnxdZBd"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
         "name": "TU CON ELLA",
         "url": "https://open.spotify.com/album/1JDIEZPdXVFwSaTCDR2inj"
       },
@@ -355,26 +395,6 @@
       "duration_ms": 156312,
       "name": "TU CON ELLA",
       "url": "https://open.spotify.com/track/5cbyN5kR4O6TJqHos33VP5"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Conmigo Sin Ti",
-        "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Conmigo Sin Ti",
-      "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -615,26 +635,6 @@
       "duration_ms": 193426,
       "name": "Grande",
       "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Una Vaina Bien",
-        "url": "https://open.spotify.com/album/5ZElLGCCIw82vO1yM3P7WH"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 198194,
-      "name": "Una Vaina Bien",
-      "url": "https://open.spotify.com/track/7zqKOV2UZtiiUBzbXXNsj3"
     },
     {
       "added_at": "2025-10-17 04:00:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: yowha
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,306 likes - 89 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,308 likes - 89 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

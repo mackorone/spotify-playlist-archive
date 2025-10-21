@@ -1,15 +1,31 @@
 {
   "description": "\u0623\u063a\u0627\u0646\u064a \u0645\u0646 \u0641\u0644\u0633\u0637\u064a\u0646 \u0648\u0625\u0644\u064a\u0647\u0627",
-  "num_followers": 83550,
+  "num_followers": 83589,
   "original_name": "Hit Falastini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACi9fcbJyu3dsj6wL8aO3WEaK3wo",
+  "snapshot_id": "AAAAAHwsRHzjAG1vj1EUgHMYOmlDXxke",
   "tracks": [
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
+      "album": {
+        "name": "AWDA - \u0639\u0648\u062f\u0629",
+        "url": "https://open.spotify.com/album/3hXBH2apQYcgAzJ4abv5Aj"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "kollo lena - \u0643\u0644\u0647 \u0644\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/5jeSen7p7VP3x7x7ZrLUME"
+    },
+    {
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "DEIRA",
         "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/6FS0BYsjoCqgwg8azaRGlx"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
-      "album": {
-        "name": "Yamma Mweil il Hawa",
-        "url": "https://open.spotify.com/album/5cWUVGBjL1F0SYg8Mh8Vvo"
-      },
-      "artists": [
-        {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
-        }
-      ],
-      "duration_ms": 105763,
-      "name": "Yamma Mweil il Hawa",
-      "url": "https://open.spotify.com/track/1WD4wFa701ptHHbcNVyXwA"
-    },
-    {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Dammi Falastini",
         "url": "https://open.spotify.com/album/6UX1P1XSu0TQXnp0SNQQI0"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1ktQqi6cHDbNnFvuyfIQ3t"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Lazim Ahkeelak",
         "url": "https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG"
@@ -81,23 +81,7 @@
       "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
-      "album": {
-        "name": "Ya Habiba Ya Falastin (Beloved Palestine)",
-        "url": "https://open.spotify.com/album/0eoRZ6QOgbP412ptnEogfE"
-      },
-      "artists": [
-        {
-          "name": "Maher Zain",
-          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
-        }
-      ],
-      "duration_ms": 262190,
-      "name": "Ya Habiba Ya Falastin (Beloved Palestine)",
-      "url": "https://open.spotify.com/track/3K501vZZRtXlxzxVKemGDr"
-    },
-    {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Ya Tal3een",
         "url": "https://open.spotify.com/album/1P4QHZ8SJmX3ZXYP4w4E5F"
@@ -113,7 +97,39 @@
       "url": "https://open.spotify.com/track/1lUBzm6GAUlY9kovZifP9G"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
+      "album": {
+        "name": "Ya Habiba Ya Falastin (Beloved Palestine)",
+        "url": "https://open.spotify.com/album/0eoRZ6QOgbP412ptnEogfE"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        }
+      ],
+      "duration_ms": 262190,
+      "name": "Ya Habiba Ya Falastin (Beloved Palestine)",
+      "url": "https://open.spotify.com/track/3K501vZZRtXlxzxVKemGDr"
+    },
+    {
+      "added_at": "2025-10-20 10:58:53",
+      "album": {
+        "name": "Yamma Mweil il Hawa",
+        "url": "https://open.spotify.com/album/5cWUVGBjL1F0SYg8Mh8Vvo"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 105763,
+      "name": "Yamma Mweil il Hawa",
+      "url": "https://open.spotify.com/track/1WD4wFa701ptHHbcNVyXwA"
+    },
+    {
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
         "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Olive Branch (Ghosn Zeytoun)",
         "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Ishraq Reminiscence",
         "url": "https://open.spotify.com/album/6rzYqrYs4bcbxgKAE9ILhs"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "7arrir 3aqlak / Asli Ana",
         "url": "https://open.spotify.com/album/1JDKhvGNRFZSPXm1uVzTME"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/0eqH5SceGkvfbxDXu7KaNZ"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Zajel",
         "url": "https://open.spotify.com/album/7xGzgL3s8YWHnqqIDoTpro"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/4TaK7UsTGX6hExOaF7cEPC"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
         "url": "https://open.spotify.com/album/5P2ypwyHbXRZat8f5bD0la"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/5XVJRGIoMGf2wp0oL3JNFw"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0633\u0644\u0627\u0645 \u0644\u063a\u0632\u0629",
         "url": "https://open.spotify.com/album/0SmNSigHgjszyYYywxCaH7"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/3c5p7TOw0z7Q6Udhwz4e9e"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0647\u064a \u0647\u064a \u064a\u0627 \u0641\u0644\u0633\u0637\u064a\u0646",
         "url": "https://open.spotify.com/album/5Mb9scc6xbyCcmOlAFCCcn"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/1zsKbHOR6lSDw8dpJayCOK"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Helwa Ya Baladi \u062d\u0644\u0648\u0629 \u064a\u0627 \u0628\u0644\u062f\u064a (Cover)",
         "url": "https://open.spotify.com/album/3DkQKBXouCLFM1xrl3R667"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/3WVU8Hqnp45QfgtVZu36He"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u062f\u0628\u0643\u062a\u0646\u0627 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
         "url": "https://open.spotify.com/album/1wv0KO8pIHd8Fb1H1fyERz"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/3ybO2gZVOKWCC0YckaPV21"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Alyi El Kofiya (\u0639\u0644\u064a \u0627\u0644\u0643\u0648\u0641\u064a\u0629)",
         "url": "https://open.spotify.com/album/3cK94klWwlCe4rGu4IyUFK"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/6Zxyz6lCVj37TBtS9LCsBh"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0639\u0633\u0627\u0641",
         "url": "https://open.spotify.com/album/4hLQnN3M5nTYN4NU4NG6NM"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/4IlVp3aRJjFaXJN1CuHNnV"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Falastin Taj 3al Rass",
         "url": "https://open.spotify.com/album/1xXtdNvp2ILwyr1Pc3SrON"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/14OYhSOWxVYipT1JcezpfS"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Weino",
         "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Gaza - Tradition musicale palestinienne",
         "url": "https://open.spotify.com/album/6MXT3YX1QwNWXxmKfKNHzt"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/5yV5kOWEoYWwmhcET8BCc9"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u064a\u0627\u0644\u0644\u064a \u0639\u0644\u064a\u0643 \u0627\u0644\u0642\u0644\u0628 \u062d\u0632\u064a\u0646",
         "url": "https://open.spotify.com/album/54sr8G4AwxaKtGirZRbJ2U"
@@ -373,7 +389,7 @@
       "url": "https://open.spotify.com/track/5vhY6zmiAiHDdcvXkV8PeI"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Nasak",
         "url": "https://open.spotify.com/album/5PZti0oVuqqSDuw7LfUOGL"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/6gJmOH7JzlQ3mNZFR91HgQ"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Yma Zawjini",
         "url": "https://open.spotify.com/album/6glaC0frlwyKMNbyYtiJyP"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/7G1mjKf2QkjWBj7IzyNhwG"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0633\u0628\u0639 \u0623\u0631\u0648\u0627\u062d",
         "url": "https://open.spotify.com/album/1UzIxfKGKhqEtSBgRI3DWX"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/6tWRPppMbXLol7oUDDQ6qs"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "The Beat Never Goes Off",
         "url": "https://open.spotify.com/album/5GLmvO7Q8nbYW6yIjt7cJZ"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/0h6GjlAJrHLL3mhiLiTBK9"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Um Alward Dabkeh",
         "url": "https://open.spotify.com/album/2IsDnQMdGmPOspTd2wQOTJ"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/1LflHwBDZkqxLLxfPnU7x7"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Palestine",
         "url": "https://open.spotify.com/album/2eooDNLp2PrOMFoycky58Y"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/2B0qYQAvkkzdi8hgT3aHrH"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "RADIYA / \u0631\u0627\u0636\u064a\u0629",
         "url": "https://open.spotify.com/album/6WPibtkSnGrh4gh5nV0KBZ"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/3HDXLgxFp8RKoGXd17F5WM"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0642\u0627\u0644\u0648\u0644\u064a \u0623\u0635\u0644\u0643 \u0645\u0646 \u0648\u064a\u0646",
         "url": "https://open.spotify.com/album/3t6uM2kbEywMvdLHAuiile"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/5zMrkgLEFEj6iNeP0UgcZH"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "WOLEDTO",
         "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/1bSspJxJRjA5w05kq1QFvS"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Drej Ya Ghezaleh",
         "url": "https://open.spotify.com/album/06QhsabHHjbS9stz4cL1pw"
@@ -545,23 +561,7 @@
       "url": "https://open.spotify.com/track/1t3bHUpvhQrEGJX5fbudrZ"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
-      "album": {
-        "name": "Farhetna El-Lieleh",
-        "url": "https://open.spotify.com/album/3jqGfwpnFLmsZs7XfNZOt0"
-      },
-      "artists": [
-        {
-          "name": "Diana Karazon",
-          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
-        }
-      ],
-      "duration_ms": 286998,
-      "name": "Farhetna El-Lieleh",
-      "url": "https://open.spotify.com/track/6NantgNTzHg1yUTRujLQ68"
-    },
-    {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Remix Season 1",
         "url": "https://open.spotify.com/album/4gUAewIO42p6koKTUV0Iy8"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/4d3o5bV5wgbmQpVuGacCYv"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "DEIRA",
         "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "DALOONA",
         "url": "https://open.spotify.com/album/2NdKMb8NdKebxSf4S5Nb75"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/3T3Adrn9WH7Y4cQWzu5JlM"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Ya Jabal Ma Yhezak Reeh",
         "url": "https://open.spotify.com/album/0DEi4PcVnH1h0ru4LTuCV5"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/5XFUBHR0UH955h6LOb6MsB"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u0627\u0644\u0644\u0647 \u064a\u0645\u0633\u064a\u0643\u0645 \u0628\u0627\u0644\u062e\u064a\u0631",
         "url": "https://open.spotify.com/album/5xezbmxE5Vzeo1bQdG0BlE"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/3ZiF41dt4apzv5HVC2cQ6n"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "96 Miles From Bethlehem",
         "url": "https://open.spotify.com/album/5n7u0Fwf8gE54F9rwPrz2O"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/7kdHCa0m0ZycuAELmeyMB4"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Shamyat",
         "url": "https://open.spotify.com/album/4z9zJi5x3i5Nb28vgNH41R"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/43eHSEgb8hTjGsKeOWqRWB"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Mouthakerti",
         "url": "https://open.spotify.com/album/4bS80nF6fc85gq8MBsWLGW"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/4lc5YWcDJhk4hFTc00jino"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Zareef",
         "url": "https://open.spotify.com/album/03beKyCJj4cvUXPe87rnKb"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/5f3ErFPwyg3ZKzugPexh6c"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Aateny El Nay",
         "url": "https://open.spotify.com/album/4G5q99jmnjU3bAbAVFYzrG"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/4f9Vsl8hAlOOno4JMGuwcM"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Rahu",
         "url": "https://open.spotify.com/album/4Ehxcy35Pdohej9aJO6roS"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/7JdtjJxhTPcfDZWu1RfdlB"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Ya Yuma Wen",
         "url": "https://open.spotify.com/album/2YmPvDgmwlsaYtzCqV1CXY"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/7Em61oh4mRlCrT0TgWvHjb"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Falasteen Biladi",
         "url": "https://open.spotify.com/album/0lipqQa237rW9LEJrGOiMG"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/3DQd65qIsTcxZfWtvIlxii"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Fil Sayara",
         "url": "https://open.spotify.com/album/1b4v0ng1qWyAIzlA5NViuc"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/4c9gDRmjE6lOYeQicSsiMP"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "\u062f\u0628\u0631\u0647\u0627",
         "url": "https://open.spotify.com/album/56RwJOvWAxa6afeJYoWBwx"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/1aFTIheXpBAbSf6ag1AfDl"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Ll Abad",
         "url": "https://open.spotify.com/album/4ShkzqUhBTAiPYj4bEaWEL"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/3qvSGDv3FfrAMIaCEO2p0y"
     },
     {
-      "added_at": "2025-10-12 11:17:38",
+      "added_at": "2025-10-20 10:58:53",
       "album": {
         "name": "Amal",
         "url": "https://open.spotify.com/album/5Lx6Qo1efOKGYOLRc5u76S"

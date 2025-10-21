@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 49977,
+  "num_followers": 50000,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAAAPuG7ZM2ajxmbaI1CWCJkX",
+  "snapshot_id": "aPQqAAAAAADw+3N2fEsq9SVLIk4AjlvM",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
       "duration_ms": 81363,
       "name": "Chattermax",
       "url": "https://open.spotify.com/track/2fjzQBE5mdrkmjYI3WkAWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 64311,
-      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
     },
     {
       "added_at": null,

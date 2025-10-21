@@ -1,6 +1,6 @@
 {
   "description": "Tremendo vacil\u00f3n. Los \u00e9xitos del merengue de todos los tiempos.",
-  "num_followers": 33712,
+  "num_followers": 33739,
   "original_name": "Radio Merengue",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-08-22 15:49:49",
       "album": {
+        "name": "Con Arena Nueva",
+        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "Ella es Tan Bella",
+      "url": "https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF"
+    },
+    {
+      "added_at": "2025-08-22 15:49:49",
+      "album": {
         "name": "Mi Propuesta 1996",
         "url": "https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 268426,
       "name": "Este Ritmo Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/5562EZVkcwO43I03C29RuK"
-    },
-    {
-      "added_at": "2025-08-22 15:49:49",
-      "album": {
-        "name": "Con Arena Nueva",
-        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "Ella es Tan Bella",
-      "url": "https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF"
     },
     {
       "added_at": "2025-08-22 15:49:49",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-08-22 15:49:49",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
-    },
-    {
-      "added_at": "2025-08-22 15:49:49",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0WPfdodeO7qCvBXGKpU2B9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 293306,
       "name": "El Baile del Sua Sua",
       "url": "https://open.spotify.com/track/6VCAUpeKXJrvcpV93RIGne"
+    },
+    {
+      "added_at": "2025-08-22 15:49:49",
+      "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
     },
     {
       "added_at": "2025-08-22 15:49:49",

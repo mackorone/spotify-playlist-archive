@@ -4,7 +4,7 @@
 
 > Regaz indie qui sono benvenut\* 💘 Cover: Fulminacci
 
-380 songs - 20 hr 12 min
+381 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [MARCIA INDIETRO \(feat\. ARIETE\)](https://open.spotify.com/track/0GAXeiEXGHjQl4clO17FRg) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA VACANZA](https://open.spotify.com/album/3feilFBJs9Sth0r4BwizKX) | 2:32 | 2025-06-19 | 2025-10-04 |
 | [Marco](https://open.spotify.com/track/2YywWE5M9C6vn5KmXH8D9u) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Marco](https://open.spotify.com/album/07HKCzahOB4OhaZseqGVSP) | 2:59 | 2025-07-24 | 2025-08-29 |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 | 2024-10-25 |
-| [Meglio di niente](https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Il Male](https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB) | 3:43 | 2025-09-25 |  |
+| [Meglio di niente](https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Il Male](https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB) | 3:43 | 2025-09-25 | 2025-10-21 |
 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 | 2024-06-27 | 2025-05-30 |
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-06-27 | 2025-03-07 |
 | [MEZZ’ORA D’AMORE \(S1 E3\)](https://open.spotify.com/track/3RwhBeek2bz0mrGHbgl5Q8) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [FINO ALL'ULTIMO RESPIRO](https://open.spotify.com/album/37kkhjamTEmKobW3xX1OGU) | 2:54 | 2024-11-21 | 2025-01-17 |
@@ -285,6 +285,7 @@
 | [Puoi](https://open.spotify.com/track/7woxXKezUmdjGuHtR75nCT) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Infinito +1](https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM) | 2:46 | 2024-06-27 | 2025-06-06 |
 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 | 2024-11-28 |  |
 | [Qualcosa di grande](https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 2:41 | 2025-06-12 |  |
+| [Quando](https://open.spotify.com/track/3T1XJ2cBr4IGquCpnEiHre) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Una Lunghissima Ombra](https://open.spotify.com/album/52jbKu3RrMapCDLWlHY97M) | 7:57 | 2025-10-20 |  |
 | [Quando](https://open.spotify.com/track/4EoQ9ceurNc1aVtdLCgYi2) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Quando](https://open.spotify.com/album/2SLe2XImYjuXKF8h2BslTg) | 7:57 | 2025-08-28 | 2025-10-10 |
 | [Quante Lacrime](https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Quante Lacrime](https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59) | 3:13 | 2025-09-25 |  |
 | [QUANTO TI IMPORTA](https://open.spotify.com/track/4Ot6ndhBUMfsgeJoawYxWX) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [QUANTO TI IMPORTA](https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY) | 3:07 | 2025-03-20 | 2025-06-20 |

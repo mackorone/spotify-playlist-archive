@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-873 songs - 1 day 22 hr 55 min
+874 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Champagne Affection](https://open.spotify.com/track/5reUpAmA1f62EVf5jRHbwP) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Champagne Affection](https://open.spotify.com/album/4b4UT70OLamcHX91Om0F4O) | 3:48 | 2019-12-02 | 2021-05-12 |
 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 | 2021-06-05 | 2025-07-17 |
 | [Chances Are](https://open.spotify.com/track/73vlVDlp4rSd8SaiccnbtN) | [Forenzics](https://open.spotify.com/artist/2h7NTTkRJls7myYtPUZcG3) | [Chances Are](https://open.spotify.com/album/6YegMkVMKI8lJIOk7ynY6h) | 3:19 | 2021-12-08 | 2025-08-27 |
+| [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 | 2025-10-20 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/6NbaSIWPpZ1b914pRY1R0W) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Chasing A Feeling](https://open.spotify.com/album/0tey4A2rY0o6g2j1BeXnaJ) | 3:51 | 2020-08-07 | 2021-05-12 |
 | [Chasing Parties](https://open.spotify.com/track/6HspvxNi6wRqeZLPShEa5W) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Chasing Parties](https://open.spotify.com/album/6Sk7DuhjwpTKr00fbdQBQP) | 2:44 | 2019-08-27\* | 2019-11-11 |
 | [Cheap Queen](https://open.spotify.com/track/2U5Q0eGC03syuUie76vROa) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/3IbecwxaNaaP9lt5sDTxAH) | 2:41 | 2019-08-27\* | 2020-02-12 |

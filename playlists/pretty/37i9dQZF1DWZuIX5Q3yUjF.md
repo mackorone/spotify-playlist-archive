@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Sara Gioielli in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,215 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,218 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 7 | [canibeyourfavorite](https://open.spotify.com/track/32JEdrheUfAVZ8noyF4g5M) | [Vanegas](https://open.spotify.com/artist/5PbGXiwDFSQSMmzQ3pP5Jj) | [canibeyourfavorite](https://open.spotify.com/album/2bZEL6VJTC8llHXrCavZQW) | 2:29 |
 | 8 | [alta marea](https://open.spotify.com/track/2s2l1nnWgeDFGoBU2jYVIO) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb) | [alta marea](https://open.spotify.com/album/5UQJsVIVesdaly18hPgz3D) | 2:54 |
 | 9 | [La tête](https://open.spotify.com/track/5LYL9HgmjhYCLZviKkHapy) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG), [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [La tête](https://open.spotify.com/album/041xiEWdbxKjnK0oAsgsF2) | 2:34 |
-| 10 | [Coriandoli](https://open.spotify.com/track/3JJdscXcKjrUYkezmqdNsP) | [Estro Large](https://open.spotify.com/artist/4exYe62DrtinMLsAKNzGHH) | [Coriandoli](https://open.spotify.com/album/3WZssMej8OanF7j45EUNbM) | 3:33 |
+| 10 | [Coriandoli](https://open.spotify.com/track/3JJdscXcKjrUYkezmqdNsP) | [Estro Large](https://open.spotify.com/artist/4exYe62DrtinMLsAKNzGHH), [Joe Candela](https://open.spotify.com/artist/2VM7BENCFq9g1UKrLOa0xM) | [Coriandoli](https://open.spotify.com/album/3WZssMej8OanF7j45EUNbM) | 3:33 |
 | 11 | [Destino](https://open.spotify.com/track/2RCIO4gT6eIumbcZSBoDZG) | [Subconscio](https://open.spotify.com/artist/1QrrQzYzB6iWHcJee809Zh) | [DAIMON](https://open.spotify.com/album/0knAreyhItw8swikZyl7Jb) | 3:12 |
 | 12 | [ONE NIGHT](https://open.spotify.com/track/6uN13i3dompUrPtHPX4iD7) | [Bl4ir](https://open.spotify.com/artist/75be7XA6WPIE5UWcBzEYIx), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [ONE NIGHT](https://open.spotify.com/album/7MqgPHECGGpzCvpTKic7lA) | 2:26 |
 | 13 | [Lo faccio per te](https://open.spotify.com/track/1eTsbml8oBPnQlDlGLyza5) | [Bouganville](https://open.spotify.com/artist/5wcaCE2ZVnSUamt3lzm3uI), [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Lo faccio per te](https://open.spotify.com/album/30MfEYZzA8BPlYvmvd5QYT) | 4:17 |

@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Megan Moroney
 
-214 songs - 15 hr 5 min
+215 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Cue Country Roads \- Live From The Steel City](https://open.spotify.com/track/4Ujz3Y8BmoOo1FE0YbtuQc) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Live From The Steel City \(Sampler\)](https://open.spotify.com/album/06SeJ79Zgn0ZnOht8LyhoE) | 3:53 | 2025-09-12 |  |
 | [D.I.V.O.R.C.E](https://open.spotify.com/track/6Rmg5joHkL2dRrXa8m1oGq) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Live at Church Street Station](https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9) | 2:29 | 2024-05-04 | 2025-02-23 |
 | [Dancing in the Sky \- Live](https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Live EP 001](https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe) | 3:04 | 2024-01-05 |  |
+| [Desperate Man \- Live At The Pinnacle, Nashville, TN / May 24, 2025](https://open.spotify.com/track/1TjDu4qBQa4korUP1PK4eA) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Desperate Man \(Live At The Pinnacle, Nashville, TN / May 24, 2025\)](https://open.spotify.com/album/0DCzjqVvLeioGvAcl4vjVW) | 4:52 | 2025-10-17 |  |
 | [Different ‘Round Here \- Live](https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 3:36 | 2022-03-25 |  |
 | [Don't Come Lookin' \- Live](https://open.spotify.com/track/2A8qDQF7hWDZo8ueroFu52) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live\)](https://open.spotify.com/album/7sM0nVCmKgUpaj8GyNxVMr) | 3:19 | 2022-09-30 | 2024-05-05 |
 | [Don't Take The Girl \- Live From N.Y\. / Acoustic](https://open.spotify.com/track/4ioXeATIefvluey7lVUNxq) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live From N.Y\. \(Acoustic\)](https://open.spotify.com/album/5WxpO6GGZq7RSKl3Y0tg2c) | 4:42 | 2024-02-09 | 2025-07-12 |
@@ -186,7 +187,7 @@
 | [The Cross \- Live](https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(Live From Lexington\)](https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1) | 3:42 | 2024-10-25 |  |
 | [The Devil I Know \- Live](https://open.spotify.com/track/6T8YqasfO5nRHXyoGc2mr3) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know \(Live\)](https://open.spotify.com/album/1zEc1DnGhkXQDfgc3AoSmE) | 4:08 | 2024-08-02 | 2024-09-22 |
 | [The First Cut Is The Deepest \- Live from the Ryman/2019](https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live From the Ryman And More](https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U) | 4:04 | 2021-08-13 | 2024-05-05 |
-| [These Boots \- Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017](https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 3](https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3) | 4:00 | 2021-07-22 |  |
+| [These Boots \- Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017](https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 3](https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3) | 4:00 | 2021-07-22 | 2025-10-21 |
 | [This Too Shall Pass](https://open.spotify.com/track/69hYzcgd827dKhwSMCsedv) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Larry Fleet \- The Live Sessions \[Vol\. 1\]](https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM) | 3:38 | 2022-10-28 | 2024-09-07 |
 | [Till I Can Make It on My Own](https://open.spotify.com/track/6PJT7CSPoEtAfcRkfkesLk) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Live at Church Street Station](https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9) | 3:13 | 2024-05-04 | 2025-03-03 |
 | [Tip It Back \- Live From Joe's Bar, Chicago / 2012](https://open.spotify.com/track/5hX0uwl11QAC4B8p0xpV5e) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Tip It Back \(Live From Joe's Bar, Chicago / 2012\)](https://open.spotify.com/album/75MdNkW9rEjw6fOKjmgF0o) | 3:47 | 2022-07-29 | 2024-06-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 
 > <a href="spotify:artist:6AaLiQRx5xSWLWZFSOcItq">dameeeela's </a> favourite tracks\.  Updated regularly\. Curated by dameeeela\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,244 likes - 46 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,251 likes - 46 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jWqyNRNjZV.md) - [plain]
 | 34 | [NIKE STORE](https://open.spotify.com/track/5SO3RJ1mG5PBzKSoWEhcjv) | [Denim](https://open.spotify.com/artist/5mZUJaSVgVoQicmv4b42YQ) | [NIKE STORE](https://open.spotify.com/album/5xCgcyh4JlABiQZvzzCW9x) | 3:21 |
 | 35 | [ROLLING DEEP](https://open.spotify.com/track/6NcuyDA2ik0BhClEKDyZX6) | [HYPNA](https://open.spotify.com/artist/5KsXKqJHFflJ42A3x3jy3K), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [ROLLING DEEP](https://open.spotify.com/album/3ThmJ5HzNferaEiVwM86NN) | 3:52 |
 | 36 | [Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:37 |
-| 37 | [B1](https://open.spotify.com/track/6VIeWFNibPufzCcTChn8qG) | [Kolorit](https://open.spotify.com/artist/2EllwX17RHAhurMjLvIn3r) | [Untitled](https://open.spotify.com/album/3Zk14j8kjrZYJXDTvUabo0) | 9:56 |
+| 37 | [B1](https://open.spotify.com/track/6VIeWFNibPufzCcTChn8qG) | [Kolorit](https://open.spotify.com/artist/2EllwX17RHAhurMjLvIn3r), [Lowtec](https://open.spotify.com/artist/6IW76sJ0SzZo0iXZTqwt5o), [Kassem Mosse](https://open.spotify.com/artist/3PHjnk1kF1jGGUzhubUfjx) | [Untitled](https://open.spotify.com/album/3Zk14j8kjrZYJXDTvUabo0) | 9:56 |
 | 38 | [BATE SO MUCH](https://open.spotify.com/track/1wVCtSEyOsY7LgLijSOhdM) | [DANDARONA](https://open.spotify.com/artist/3pmow93CwNmN7GFNHbo8mB), [Found a Job](https://open.spotify.com/artist/7nWBKEPi7OzXYM0lMxPiZO) | [BATE SO MUCH](https://open.spotify.com/album/3rJHZBTfl0Qk9oAcjxma6w) | 3:00 |
 | 39 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 40 | [Assistance](https://open.spotify.com/track/15SGMIdqOdewCESJP42q7J) | [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1), [Reckz'Capo](https://open.spotify.com/artist/0mmIDGCcblwYtZgsNPGDlo) | [Assistance](https://open.spotify.com/album/2GOah6foepf7dJl3ICOLIk) | 3:23 |

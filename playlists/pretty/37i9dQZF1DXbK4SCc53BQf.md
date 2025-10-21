@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,684 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,700 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 14 | [BAJALE](https://open.spotify.com/track/4ByrXojPhe3MLymta2rjGK) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [BAJALE](https://open.spotify.com/album/5m1xQXMeyO26kZbNlbed0U) | 2:01 |
 | 15 | [Mi Creador](https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Mi Creador](https://open.spotify.com/album/16X429nrjpTB4Slqplq98d) | 2:56 |
 | 16 | [Todo Se Lo Debo a El](https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m) | [Ezequiel Colón](https://open.spotify.com/artist/44V8q3JGpAcyDho7d3dPvJ) | [Sólo Éxitos Tropicales](https://open.spotify.com/album/3WcAFQZcY6hVCbO4CiKNPH) | 4:32 |
-| 17 | [LONELY](https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [LONELY](https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz) | 2:39 |
-| 18 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
+| 17 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
+| 18 | [LONELY](https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [LONELY](https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz) | 2:39 |
 | 19 | [Gozo Yo Quería](https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo Yo Quería](https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7) | 3:15 |
 | 20 | [NADA](https://open.spotify.com/track/4ErCYpaLhbYdLmRdtWLrEn) | [Obyone](https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa) | [NADA](https://open.spotify.com/album/4MbQSQu6wFLCU3x1wZFbY3) | 2:56 |
 | 21 | [Waymaker \(Español\)](https://open.spotify.com/track/3zuzfS5hHgSTzTUW6bw6Z8) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Waymaker \(Español\)](https://open.spotify.com/album/1oTCGEEJlZXPaSQFoO45c1) | 6:33 |
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 24 | [Van God](https://open.spotify.com/track/7cwLfPL6X8Bjv6PzcTBG33) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap) | [Van God](https://open.spotify.com/album/5240FbxLwtPcwsNGdGeJNw) | 4:17 |
 | 25 | [Digan Lo Que Diga](https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3) | [Richard Cepeda](https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq) | [Vivo Enamorado](https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5) | 4:04 |
 | 26 | [Nada Sin Ti](https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Buenas Noticias](https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F) | 3:05 |
-| 27 | [Subiendo](https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Envero](https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13) | 3:39 |
-| 28 | [Esposa Mía](https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Esposa Mía](https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S) | 3:30 |
-| 29 | [Prende La Moto](https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Prende La Moto](https://open.spotify.com/album/124x29480ASQ28sibsSykf) | 2:46 |
+| 27 | [Prende La Moto](https://open.spotify.com/track/149fDWoj2wnxg7eKxBc5yd) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Prende La Moto](https://open.spotify.com/album/124x29480ASQ28sibsSykf) | 2:46 |
+| 28 | [Subiendo](https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Envero](https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13) | 3:39 |
+| 29 | [Esposa Mía](https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Esposa Mía](https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S) | 3:30 |
 | 30 | [Tus Planes](https://open.spotify.com/track/0h5tuSnIQx4wQR34ohExuM) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Samuel lonzoy](https://open.spotify.com/artist/2p2UqHWUZaWmyClCbL2YAO), [Dabid Thomas](https://open.spotify.com/artist/6KoIvIn6MdHInLfcWc2MG9) | [Tus Planes](https://open.spotify.com/album/6HXnKD6egQWcHc3MbPfJPk) | 2:50 |
 | 31 | [Lejos](https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4) | [Tommy Bueno](https://open.spotify.com/artist/5bQOdNLAjlUqoiNHbvfknR), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi) | [Lejos](https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A) | 2:59 |
-| 32 | [Bye Bye](https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Bye Bye](https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3) | 3:03 |
-| 33 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
+| 32 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 |
+| 33 | [Bye Bye](https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Bye Bye](https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3) | 3:03 |
 | 34 | [Todo Y Nada \- En Vivo](https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Todo Y Nada / Seguir Vale La Pena \(Live\)](https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs) | 3:31 |
 | 35 | [Río](https://open.spotify.com/track/4thwYNk2KbaNq8Dv70T9lP) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Río](https://open.spotify.com/album/3Vffp6zBqad0Lvs73NvXmj) | 2:27 |
 | 36 | [Abrázame Más](https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Abrázame Más](https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M) | 2:52 |

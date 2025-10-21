@@ -4819,6 +4819,24 @@
     },
     {
       "album": {
+        "name": "The Bagpiper",
+        "url": "https://open.spotify.com/album/13E0YP2I2aEf4w6a7UqymH"
+      },
+      "artists": [
+        {
+          "name": "Jasper Lynx",
+          "url": "https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "The Bagpiper",
+      "url": "https://open.spotify.com/track/0IPBTVB6VHKIbibo58dx58"
+    },
+    {
+      "album": {
         "name": "The Conjurer",
         "url": "https://open.spotify.com/album/7bSOJbMphI7xdhCmTAzv2V"
       },

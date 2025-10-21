@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tq7CPNyNEM.md) - [plain]
 
 > "Remember who we are." Music from and inspired by Black Panther and Black Panther: Wakanda Forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,475 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,476 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

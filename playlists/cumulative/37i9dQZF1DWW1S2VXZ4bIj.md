@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: WANYAi, Z9
 
-556 songs - 1 day 9 hr 46 min
+557 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Time Flies](https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Time Flies](https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX) | 4:01 | 2025-09-19 |  |
 | [TingRingTing](https://open.spotify.com/track/69yjhR1ut8dwqO1Z3fpAtD) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [TingRingTing](https://open.spotify.com/album/40CxGssUWiluLR49W4IIeA) | 3:23 | 2024-11-01 | 2024-11-09 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2024-06-27 | 2024-08-03 |
-| [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 | 2025-10-10 |  |
+| [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 | 2025-10-10 | 2025-10-21 |
 | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/track/4XpxNZcQdqRk6MC6JtG1US) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/album/4LQh1EYtYbml9sNKr7lq4M) | 3:06 | 2025-09-11 | 2025-09-27 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-06-27 | 2024-09-20 |
 | [Touch](https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Touch](https://open.spotify.com/album/095xs3mn4Liu7EqDc8HeUO) | 2:54 | 2025-07-03 | 2025-08-09 |
@@ -355,6 +355,7 @@
 | [นอนไม่หลับ](https://open.spotify.com/track/2nk6mEDigfwM5bZsK4dkaH) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [นอนไม่หลับ](https://open.spotify.com/album/4kxMUpAWrrw3ARcCJbe5M6) | 3:42 | 2025-09-19 | 2025-10-11 |
 | [นักกล้าม \(Weigh Mother\)](https://open.spotify.com/track/0OMF7FDvsX9VBm7YpB5EVe) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [นักกล้าม \(Weigh Mother\)](https://open.spotify.com/album/5zIY8GVi6GthEApLibs7s7) | 2:53 | 2025-06-25 | 2025-07-12 |
 | [นักศึกษา](https://open.spotify.com/track/2X4c3TPBqmao4v69tpn7OC) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [นักศึกษา](https://open.spotify.com/album/0UvEI70n7JYXDmnalLeyCz) | 3:13 | 2024-10-18 | 2024-11-02 |
+| [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 | 2025-10-20 |  |
 | [นิดหน่อย](https://open.spotify.com/track/77KOIam0nJwyQkzdjEiQdL) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [นิดหน่อย \- Single](https://open.spotify.com/album/75frqsXPuQjEIYt5qPFfo6) | 5:02 | 2024-10-25 | 2024-12-07 |
 | [นิยายรัก](https://open.spotify.com/track/2KamxVTJOgSU1bNuXFg6fY) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [นิยายรัก](https://open.spotify.com/album/03ikDaxZmsqF8mM2Jj9wKM) | 5:20 | 2025-08-21 | 2025-09-20 |
 | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/track/2FrrpvhvuPfmbM4X958MvV) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/album/0UYXu27MRbyudK3NNIByWo) | 3:06 | 2025-06-06 | 2025-07-19 |

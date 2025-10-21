@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: LYKN
 
-785 songs - 1 day 22 hr 13 min
+786 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [VROOM VROOM](https://open.spotify.com/track/0VMIePtO3EfeOFuXwmCw9B) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [VROOM VROOM](https://open.spotify.com/album/3Bg6d7V4gj1NzrriVw9fDH) | 2:54 | 2023-12-07 | 2024-02-16 |
 | [WALK WALK](https://open.spotify.com/track/4AlJtmiBLtD2g6VGKhx6xF) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [WALK WALK](https://open.spotify.com/album/0zL56tDbTcYXWzXRoJDEEH) | 3:02 | 2024-06-27 | 2024-07-05 |
 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 | 2025-08-21 |  |
-| [WANT IT NOW](https://open.spotify.com/track/2O6duQLOzI7q3KF5X2JVkK) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [WANT IT NOW](https://open.spotify.com/album/6Y9PckHtG0j12ZbO564iMY) | 3:27 | 2025-10-09 |  |
+| [WANT IT NOW](https://open.spotify.com/track/2O6duQLOzI7q3KF5X2JVkK) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [WANT IT NOW](https://open.spotify.com/album/6Y9PckHtG0j12ZbO564iMY) | 3:27 | 2025-10-09 | 2025-10-21 |
 | [WATCH YOUR STEP](https://open.spotify.com/track/6N1ZqtABCgsqotshwnvEk1) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [WATCH YOUR STEP](https://open.spotify.com/album/347v2CFOheG1u8zXZrex32) | 3:50 | 2024-02-15 | 2024-04-12 |
 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 | 2025-09-04 |  |
 | [What's Zabb \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/64URwmo2yZyqsXGB0LznJS) | [Off Jumpol](https://open.spotify.com/artist/0bKOBYaUDBZVgdimYPdZpp), [Gun Atthaphan](https://open.spotify.com/artist/0XBt4tNqmoaIqYR5qMEC0k) | [What's Zabb \- Single](https://open.spotify.com/album/5esCxXigd1S4maoJlducVq) | 3:24 | 2023-11-23 | 2023-12-08 |
@@ -419,6 +419,7 @@
 | [นะหน้าทอง](https://open.spotify.com/track/4iA3PrcsOt6bmoXTaDXhf3) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [นะหน้าทอง](https://open.spotify.com/album/2uNIKROQ7h7ZxBgO8PtGXA) | 4:48 | 2022-07-23 | 2022-08-12 |
 | [นักศึกษา](https://open.spotify.com/track/2X4c3TPBqmao4v69tpn7OC) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [นักศึกษา](https://open.spotify.com/album/0UvEI70n7JYXDmnalLeyCz) | 3:13 | 2024-10-17 | 2024-12-06 |
 | [นักแสดงท่านหนึ่ง](https://open.spotify.com/track/1bOp9fTreRtgduisx31YZc) | [WHAWHA](https://open.spotify.com/artist/5UxAoeg42uFHbc9mrnHGa2), [Quang Hùng MasterD](https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP) | [นักแสดงท่านหนึ่ง](https://open.spotify.com/album/1pKxGewGwSeGm5GWraCDoi) | 3:02 | 2022-10-26 | 2022-12-09 |
+| [นับหนึ่ง \(From now on\)](https://open.spotify.com/track/0hWzDHF10kCJFQ2hMg6FYX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [นับหนึ่ง \(From now on\)](https://open.spotify.com/album/3uaKrwbP5XZOEBPFYzDoLY) | 3:48 | 2025-10-20 |  |
 | [นินจา](https://open.spotify.com/track/6MySIb6kDy1Qedt2sANIYW) | [เอ้ย จิรัช](https://open.spotify.com/artist/57LTnxDtihPVR9HlkAN3OY) | [นินจา](https://open.spotify.com/album/2HYlo3paB7Tb3dBeFPVuA2) | 3:46 | 2022-10-26 | 2022-11-12 |
 | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/track/2FrrpvhvuPfmbM4X958MvV) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [นิราศรักเอย \(Farewell\)](https://open.spotify.com/album/0UYXu27MRbyudK3NNIByWo) | 3:06 | 2025-06-13 | 2025-07-18 |
 | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/track/6I3Y2cxdvLVZeLRVoB3aVG) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [น่ารักชิบปุ๋ง Feat.SPRITE](https://open.spotify.com/album/2bAeenjgVDSwCpEWEcnsbJ) | 3:36 | 2022-12-15 | 2023-04-01 |

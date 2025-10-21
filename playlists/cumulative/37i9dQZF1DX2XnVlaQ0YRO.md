@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2XnVlaQ0YRO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2XnVlaQ0YRO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2XnVlaQ0YRO)
 
-### [lofi christmas chill🎄❄️](https://open.spotify.com/playlist/37i9dQZF1DX2XnVlaQ0YRO)
+### [lofi christmas study🎄📚](https://open.spotify.com/playlist/37i9dQZF1DX2XnVlaQ0YRO)
 
-> shop, wrap, bake, study or just chill to these cozy christmas beats.
+> chill christmas beats to keep you cozy and focused
 
 175 songs - 6 hr 43 min
 

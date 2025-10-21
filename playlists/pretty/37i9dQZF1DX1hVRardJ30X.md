@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Silvana Estrada, Rawayana, Daddy Yankee, Maluma and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,342 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,347 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 11 | [Balada Malvada](https://open.spotify.com/track/1HSPVwhWDnu1PYl1GwA9s0) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Balada Malvada](https://open.spotify.com/album/2F3IJ128ygML2oAGFMyU6d) | 4:22 |
 | 12 | [Kiriki](https://open.spotify.com/track/1S5lFLTOwraf98S5jOxuZO) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Kiriki](https://open.spotify.com/album/7eLwzopvFrjiPWWG4gve9f) | 3:24 |
 | 13 | [TBP](https://open.spotify.com/track/1RAgA3Y68zphCy0TJWk4NP) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [TBP](https://open.spotify.com/album/6kS6kkaVJQPNDuJ4aX3Phy) | 3:19 |
-| 14 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
+| 14 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/7zDviMQuAnKf3LLY5P2REL), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
 | 15 | [Una Vaina Bien](https://open.spotify.com/track/7zqKOV2UZtiiUBzbXXNsj3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Vaina Bien](https://open.spotify.com/album/5ZElLGCCIw82vO1yM3P7WH) | 3:18 |
 | 16 | [Tocando Madera](https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Tocando Madera](https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6) | 2:39 |
 | 17 | [LOVE](https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [LOVE](https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29) | 2:52 |

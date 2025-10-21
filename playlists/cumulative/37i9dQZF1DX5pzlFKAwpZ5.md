@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-331 songs - 1 day 0 hr 22 min
+332 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [raitenn](https://open.spotify.com/track/6TN0dfPDwMchr4wrVYmc63) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kingen](https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf) | 3:02 | 2023-03-11 | 2023-08-19 |
 | [Rear View](https://open.spotify.com/track/1zlOiXXQostUPBPinAuW8A) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Crépuscule I & II](https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs) | 3:22 | 2023-01-13 | 2025-05-07 |
 | [Refu](https://open.spotify.com/track/0nr7iWQZW0bHDeK4SiuZnD) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Lu](https://open.spotify.com/album/5siMengKn4MqakEPyEv2sI) | 7:28 | 2025-03-21 |  |
+| [Remain Radiant \-ambient](https://open.spotify.com/track/0UyFZbBpuRbysRftjbIJQF) | [★STAR GUiTAR](https://open.spotify.com/artist/2c2u1DQ1MHOkHL1tVMV3n6), [Akiyoshi Yasuda](https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW) | [Everything gold can stay](https://open.spotify.com/album/4f7gVQcQCO68BqyeLDKLNA) | 2:44 | 2025-10-03 |  |
 | [Resurrection](https://open.spotify.com/track/3MxQrZEQwypKCEGsv9eGgh) | [Makoto Nagata](https://open.spotify.com/artist/5JV3x2QqxVu41zI33U6Bx0) | [In The Mists of Time](https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn) | 4:48 | 2024-07-26 |  |
 | [rings of saturn](https://open.spotify.com/track/7efaQLKB2gUcxA3YLsTQKP) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:44 | 2022-02-18 | 2025-09-24 |
 | [S\_lowl Melancolic](https://open.spotify.com/track/37Jy5BoONDGV5sv7CZl5AN) | [Taeji Sawai](https://open.spotify.com/artist/36rvY7yVojHB2246EG0LV5) | [As Planetary Dreams](https://open.spotify.com/album/6i9E09MCJ0M3v5oxFFzms6) | 3:15 | 2024-08-08 |  |
@@ -331,7 +332,7 @@
 | [内観](https://open.spotify.com/track/04uCBal0XPvgFWMMAcQEUI) | [GOMA](https://open.spotify.com/artist/7fssmrQMryjWNuCLB7f3xg) | [ひかりの世界](https://open.spotify.com/album/7FZWjBCdsqHsvG7oazvHmN) | 20:12 | 2025-02-21 |  |
 | [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 | 2024-11-30 | 2024-12-15 |
 | [森のざわめき](https://open.spotify.com/track/13Qy7Tjeiwv8lHK6zI8Bpj) | [CROIX HEALING](https://open.spotify.com/artist/39HJmpxQWml7ofyV5jxluG) | [メンタルトレーナーがすすめる不安解消、安眠ヒーリング 〜自然とつながる音楽〜](https://open.spotify.com/album/2ybjutfqiEx8u3QZ5XfJ17) | 5:12 | 2022-03-25 |  |
-| [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 | 2022-01-07 |  |
+| [氷雨](https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Rain Studies](https://open.spotify.com/album/074za5MLXcINIJSOlIxLpn) | 5:56 | 2022-01-07 | 2025-10-21 |
 | [漂失](https://open.spotify.com/track/5Jc7G1wCxHexeZmiYiixle) | [Yasutaka Okada](https://open.spotify.com/artist/0zusZBbK9iV4XdhC77Ai8S) | [漂失](https://open.spotify.com/album/6S0HAqS4jFeTbvwwS7AjCh) | 5:45 | 2025-02-11 |  |
 | [甘い塊](https://open.spotify.com/track/0mx3zg2cSgmkl85lxrj5G7) | [Naohito Uchiyama](https://open.spotify.com/artist/04uIs0KHmV0KwDUalfwXpb) | [雪と電気](https://open.spotify.com/album/4oGm40jnKa42r3IsCZW7M3) | 5:57 | 2022-01-07 | 2023-07-07 |
 | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/track/6RLy01kjD0u0s71VsepdKS) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [精霊の踊り \(Dance of Spirits\)](https://open.spotify.com/album/0EnqLksnO1ri2diRxUXeSm) | 6:12 | 2025-03-06 |  |

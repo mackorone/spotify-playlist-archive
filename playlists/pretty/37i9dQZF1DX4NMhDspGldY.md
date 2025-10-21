@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 27 | [Tagliatelle](https://open.spotify.com/track/3TWRsylgFQJo01jpa46pwn) | [Bert](https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00), [Swifty Blu](https://open.spotify.com/artist/0F4JiG2pd75jzRVimScHoP) | [It's all gd, dw](https://open.spotify.com/album/0z5H8Ykg2sD8FPuCMZnz62) | 2:19 |
 | 28 | [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 |
 | 29 | [Closer](https://open.spotify.com/track/7lHNiN7bI3mi6bYFpnOau7) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Closer / Strangers](https://open.spotify.com/album/7KedalFRqXcnAEl66Q83tC) | 3:42 |
-| 30 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
-| 31 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
+| 30 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
+| 31 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
 | 32 | [In My Hotel Room](https://open.spotify.com/track/708QZVZQnDjxcIwAEsXGg1) | [The Shits](https://open.spotify.com/artist/1ykSM4nl6xDykW1YDNJQwk) | [You're A Mess](https://open.spotify.com/album/45vceMZrTmIyHyBNzPiOBe) | 7:14 |
 | 33 | [OK](https://open.spotify.com/track/6XApBfbLYtkgAarv4Ksswu) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [OK](https://open.spotify.com/album/7JZk2zHgVvYU7X2urOVkTX) | 2:23 |
 | 34 | [Don't Waste Time](https://open.spotify.com/track/3SYt7ldup2V59p6pKQv4FY) | [D5](https://open.spotify.com/artist/3RC5R8xEmJ2RId5tixXeSu) | [Don't Waste Time](https://open.spotify.com/album/4sNrLRcr3mzgWKY8VpIGoC) | 2:31 |
-| 35 | [Show & Tell](https://open.spotify.com/track/4jtimiQsByqnyV2SKX7Cog) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/117aeeewwU94p25MrFch09) | 3:31 |
-| 36 | [Clap Your Hands](https://open.spotify.com/track/232hMTuYjbxrM85Fqe5zBN) | [Habbo Foxx](https://open.spotify.com/artist/6ClthkuzNdg6RTOlO9OBQH), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Clap Your Hands](https://open.spotify.com/album/0ZZnuqxWle81KLfzQ65h7M) | 2:27 |
+| 35 | [Clap Your Hands](https://open.spotify.com/track/232hMTuYjbxrM85Fqe5zBN) | [Habbo Foxx](https://open.spotify.com/artist/6ClthkuzNdg6RTOlO9OBQH), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Clap Your Hands](https://open.spotify.com/album/0ZZnuqxWle81KLfzQ65h7M) | 2:27 |
+| 36 | [Show & Tell](https://open.spotify.com/track/4jtimiQsByqnyV2SKX7Cog) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/117aeeewwU94p25MrFch09) | 3:31 |
 | 37 | [Midnight Mass](https://open.spotify.com/track/5pSJTwM7xnTcjAus8yilY3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Natural Habitat](https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd) | 3:54 |
 | 38 | [Breezeblocks](https://open.spotify.com/track/7v9VgPcjy7gPRsHZjKPUhU) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/01WnXszeMvaUaEp3NaQGFt) | 3:47 |
 | 39 | [Bff](https://open.spotify.com/track/6NvH9j53XhLJq3G5ucuI10) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Bff](https://open.spotify.com/album/7jPIgC4AJtuCtwCE1EHwvs) | 2:31 |

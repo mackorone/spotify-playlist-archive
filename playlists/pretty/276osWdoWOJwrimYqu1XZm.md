@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 130 songs - 14 hr 2 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 131 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,6 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 | 128 | [Conflict](https://open.spotify.com/track/52NB4f71xepo93DrRtoFFk) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Kriptika records 004A](https://open.spotify.com/album/4Fq95fQ2Rj0Ygt09Tnga8t) | 5:17 |
 | 129 | [Anderswelt](https://open.spotify.com/track/42jTsCLNaBG2o9N01DPiI4) | [Roman Gehrecke](https://open.spotify.com/artist/7g2FnYwHfBBbE7YihQcG1O) | [Schutt und Asche](https://open.spotify.com/album/39idKqpFh8Ft41yM8tFgpv) | 5:58 |
 | 130 | [Trouble](https://open.spotify.com/track/3BWwcNKgJMf0Kpzij48Oj0) | [Amstra](https://open.spotify.com/artist/22hoWqtS82DDN3jJqxjqH7) | [Trouble](https://open.spotify.com/album/6wbkwZOtHOvaaNLn47dRNy) | 6:57 |
+| 131 | [BR3ATH3](https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [BR3ATH3](https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR) | 4:49 |
 
-Snapshot ID: `AAAAjyYvfKjxHob3/RdJUtIG9TGmnkuE`
+Snapshot ID: `AAAAkLajA+ePa2ulWqe5U2ScoKl7rRmY`

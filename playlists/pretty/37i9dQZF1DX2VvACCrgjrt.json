@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 473515,
+  "num_followers": 473579,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1190,6 +1190,10 @@
         {
           "name": "Gold Lemonade",
           "url": "https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD"
+        },
+        {
+          "name": "Flowfly",
+          "url": "https://open.spotify.com/artist/7vB7RRZlbK2cVdoBMSJTSG"
         }
       ],
       "duration_ms": 150461,
@@ -1373,6 +1377,42 @@
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
+      "added_at": "2025-10-10 04:00:35",
+      "album": {
+        "name": "BABYLON",
+        "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 200712,
+      "name": "BABYLON",
+      "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
       "added_at": "2025-08-08 04:00:44",
       "album": {
         "name": "Night In Detroit (feat. Fedde Le Grand)",
@@ -1395,42 +1435,6 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
-      "added_at": "2025-10-10 04:00:35",
-      "album": {
-        "name": "BABYLON",
-        "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 200712,
-      "name": "BABYLON",
-      "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1837,22 +1841,6 @@
       "url": "https://open.spotify.com/track/4Tkv9VdNUyHm86TNlnl7Xy"
     },
     {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "No Matter",
-        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "No Matter",
-      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
-    },
-    {
       "added_at": "2025-08-08 04:00:44",
       "album": {
         "name": "Deeper Underground",
@@ -1871,6 +1859,22 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2135,22 +2139,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Red Velvet",
-        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Red Velvet",
-      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "License To Be Bad",
         "url": "https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g"
       },
@@ -2171,6 +2159,22 @@
       "duration_ms": 186461,
       "name": "License To Be Bad",
       "url": "https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Red Velvet",
+        "url": "https://open.spotify.com/album/4z9i6Q7C98sselGw7R2XKP"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Red Velvet",
+      "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -2221,22 +2225,6 @@
       "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
     },
     {
-      "added_at": "2025-09-12 04:00:12",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/1B1b2kNN2saZUroZT93qUE"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 148183,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/6Rxp1YTcngUkDoYoJpNJl3"
-    },
-    {
       "added_at": "2025-08-08 04:00:44",
       "album": {
         "name": "Good Girls",
@@ -2271,6 +2259,22 @@
       "duration_ms": 185952,
       "name": "Late Night Secrets",
       "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
+    },
+    {
+      "added_at": "2025-09-12 04:00:12",
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/1B1b2kNN2saZUroZT93qUE"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 148183,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/6Rxp1YTcngUkDoYoJpNJl3"
     },
     {
       "added_at": "2025-08-08 04:00:44",

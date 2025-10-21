@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: Lauren Daigle",
-  "num_followers": 147840,
+  "num_followers": 147860,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
-      },
-      "artists": [
-        {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
-    },
-    {
-      "added_at": "2025-09-14 08:39:15",
-      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 480546,
       "name": "You Know My Name",
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": "2025-09-14 08:39:15",
+      "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
     },
     {
       "added_at": "2025-09-14 08:39:15",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
+        "name": "Triumphant",
+        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "duration_ms": 369160,
+      "name": "Nobody Greater",
+      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
+    },
+    {
+      "added_at": "2025-09-14 08:39:15",
+      "album": {
         "name": "Love Theory",
         "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 366319,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
-    },
-    {
-      "added_at": "2025-09-14 08:39:15",
-      "album": {
-        "name": "Triumphant",
-        "url": "https://open.spotify.com/album/2WV2VbUUUSVRbjONFfWz1Y"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        }
-      ],
-      "duration_ms": 369160,
-      "name": "Nobody Greater",
-      "url": "https://open.spotify.com/track/0njT9NV9xsV4hLkgZ8yOUD"
     },
     {
       "added_at": "2025-09-14 08:39:15",
@@ -1515,6 +1515,42 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf"
+    },
+    {
+      "added_at": "2025-09-14 08:39:15",
+      "album": {
+        "name": "Death Was Arrested",
+        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 293331,
+      "name": "Death Was Arrested",
+      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+    },
+    {
+      "added_at": "2025-09-14 08:39:15",
+      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC"
       },
@@ -1555,22 +1591,18 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
-        "name": "Death Was Arrested",
-        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
+        "name": "The Generous Mr. Lovewell",
+        "url": "https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 293331,
-      "name": "Death Was Arrested",
-      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+      "duration_ms": 178066,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P"
     },
     {
       "added_at": "2025-09-14 08:39:15",
@@ -1591,22 +1623,6 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
-        "name": "The Generous Mr. Lovewell",
-        "url": "https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P"
-    },
-    {
-      "added_at": "2025-09-14 08:39:15",
-      "album": {
         "name": "Light Up the Sky",
         "url": "https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 218840,
       "name": "Light Up the Sky",
       "url": "https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9"
-    },
-    {
-      "added_at": "2025-09-14 08:39:15",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf"
     },
     {
       "added_at": "2025-09-14 08:39:15",

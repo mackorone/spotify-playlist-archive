@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-403 songs - 21 hr 17 min
+406 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [broke.exe](https://open.spotify.com/track/6UwZDT9FztV3QdwlSd5Pdf) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [INTERNET PROTOGEN](https://open.spotify.com/album/71CIaayjmPOL03eRUNVzjw) | 2:00 | 2025-07-03 |  |
 | [broken bottles](https://open.spotify.com/track/3BSoT0FpJcehfxxGZIdxxM) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [broken bottles](https://open.spotify.com/album/5ol4vdyNW2TTu299hJZ1xL) | 4:44 | 2025-01-08 |  |
 | [Burn](https://open.spotify.com/track/3M9zCSQGRBgvLAdmyrkznh) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Burn](https://open.spotify.com/album/40dj6oGJyFyeeYiklY4dgK) | 3:31 | 2024-07-22 | 2025-10-05 |
-| [By The Pier](https://open.spotify.com/track/6bVFHWOAFqqOIGPrVv7c4i) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [By The Pier](https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ) | 2:05 | 2025-10-19 |  |
+| [By The Pier](https://open.spotify.com/track/6bVFHWOAFqqOIGPrVv7c4i) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [By The Pier](https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ) | 2:05 | 2025-10-19 | 2025-10-21 |
 | [Campfire Song](https://open.spotify.com/track/5ZK9bDniZfEkc0sjthyKSo) | [fish eat cat](https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa) | [Campfire Song](https://open.spotify.com/album/0P9Ui8VhxgD5v8A3f681rU) | 4:05 | 2024-05-28 |  |
 | [CAN'T STOP](https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [CAN'T STOP](https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT) | 2:58 | 2024-11-03 |  |
 | [Candy Heaven](https://open.spotify.com/track/6Gn1p6UBqBHRvIlK8rmPTp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Candy Heaven](https://open.spotify.com/album/4CaJy3M7jYKZmuygaN6PWt) | 3:28 | 2023-06-14 |  |
@@ -105,6 +105,7 @@
 | [EAT YOU UP](https://open.spotify.com/track/0MeybRC4lyCjjYRAWDd2Ht) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:00 | 2024-03-24 |  |
 | [EAT YOU UP \- Single Version](https://open.spotify.com/track/0PYguVkr2AQZBqWoCUgDLd) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:41 | 2024-02-20 |  |
 | [Ecstasy](https://open.spotify.com/track/3LbpWLzCv8FycJaAqHthdi) | [ZephyrInTheWind](https://open.spotify.com/artist/2lqQ3jGN37e45ZjxAvRT1E), [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Back On Top](https://open.spotify.com/album/6NYYBa0pcmhh6yrD9iYo5V) | 3:52 | 2025-01-08 |  |
+| [edge of time](https://open.spotify.com/track/6gB9Aawe3IJG17x1gjONev) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:26 | 2025-10-20 |  |
 | [EDGE PLAY \- theSpackster Remix](https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [theSpackster](https://open.spotify.com/artist/7lxDzdUasFvfuMwNGU55Sg) | [EDGE PLAY \(FURRY RAVER REMIX\)](https://open.spotify.com/album/0KM1JlCbomdxUyMCwEv31M) | 1:37 | 2024-06-09 |  |
 | [ember](https://open.spotify.com/track/12ItWZIjCZ62hZJEtow1YT) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [mutt county](https://open.spotify.com/album/4Jc4ExxRw4sMNLJWfgRzZr) | 1:39 | 2025-01-25 |  |
 | [EM⓪CEANS](https://open.spotify.com/track/6yHqbAh2nYOTJFsS5cgEKE) | [ZeWei](https://open.spotify.com/artist/5Lo7AznRQVZur2qhDwg2OA) | [⎳fliCkERiNG⎲](https://open.spotify.com/album/2gZWvlmFnQ9TTGeVGeXkOQ) | 2:48 | 2024-05-28 |  |
@@ -194,6 +195,7 @@
 | [Korrent City Streets](https://open.spotify.com/track/4GDi16UNFP1jxo5hTjQvMu) | [JAMIEvx](https://open.spotify.com/artist/0gL0yv87B01UdAXjrkjSIP) | [In Flux](https://open.spotify.com/album/0UyM7Rn7PZNt1UghxPvnWE) | 4:33 | 2025-04-03 |  |
 | [Last Knight \(Final Girl\)](https://open.spotify.com/track/4KgcyoJSoDq8FuQsewrvNi) | [Sergeant Hare Apollo](https://open.spotify.com/artist/0KsMGLqXgzIqQp9QWg1PRQ) | [Last Knight \(Final Girl\)](https://open.spotify.com/album/53IpGt3nY72iJFneRIdpJB) | 3:52 | 2024-11-18 |  |
 | [LDR](https://open.spotify.com/track/4cX5v8mjtmvMJivWTJlQE5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:02 | 2024-06-15 |  |
+| [let's touch grass together](https://open.spotify.com/track/3XBWgopNs7PPK5e7MG8hxv) | [flower.puppy](https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM) | [outside time](https://open.spotify.com/album/7IMIrH52yvx2lQmcrKQtSu) | 3:26 | 2025-10-20 |  |
 | [liar, liar](https://open.spotify.com/track/65fE7bg2WdZZAxHt4A8JEn) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 4:17 | 2025-05-10 |  |
 | [LIFE](https://open.spotify.com/track/23Hhl3U1b2FxRMc2zo6IR8) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU), [Filterocity](https://open.spotify.com/artist/3raEjNj1yydwtfhnkJ9PkJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [EQUINOX](https://open.spotify.com/album/2HcUhzatJKAn13ejeI1idU) | 3:37 | 2024-02-09 |  |
 | [LIKE ME](https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [LIKE ME](https://open.spotify.com/album/2jUiht1H8BaASTN3NzxObc) | 2:23 | 2025-09-15 |  |
@@ -304,6 +306,7 @@
 | [Road Kill](https://open.spotify.com/track/7gOG5mzKRrjTAQgyU1KAFP) | [Rhythm Bastard](https://open.spotify.com/artist/54yG5HnJWjSbO8VAfbmY64) | [Road Kill](https://open.spotify.com/album/5BoqrMvG5TafdTPb5RhUdr) | 3:06 | 2024-03-06 |  |
 | [Robin Hood](https://open.spotify.com/track/6K9smrlakXex53vhl5r5dC) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [Robin Hood](https://open.spotify.com/album/5lx5UeqilTSBCzoPh6v87E) | 3:19 | 2025-01-25 |  |
 | [Rose\-Tinted Glasses](https://open.spotify.com/track/71ykIZT3YrrA4tCc1rGFng) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 3:24 | 2023-12-15 |  |
+| [Royalty](https://open.spotify.com/track/3luIPCWax6JFzBN0BIGRHH) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [Another](https://open.spotify.com/album/4ku6hiP8aiueGRUtaDzwT0) | 3:05 | 2025-10-20 |  |
 | [ROYALTY](https://open.spotify.com/track/7km3vpKM3z7Febi2p69ij3) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [ROYALTY](https://open.spotify.com/album/7x8QpxqMPfoN2rOYP50QGx) | 3:05 | 2025-03-01 |  |
 | [rubicon](https://open.spotify.com/track/4la9cJckhhANFdSIMlycTw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:46 | 2024-12-06 |  |
 | [run amok!](https://open.spotify.com/track/2j1Wv50igdxKp2JTsqzkdd) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [run amok!](https://open.spotify.com/album/1GuaHRa0owkz2jxmqh3Q4J) | 3:03 | 2025-06-05 |  |

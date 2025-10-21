@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,256 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,253 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 61 | [Falo Demais](https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Falo Demais](https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy) | 2:51 |
 | 62 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
 | 63 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
-| 64 | [ÁGUA DE COCO](https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [ÁGUA DE COCO](https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE) | 2:14 |
-| 65 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
+| 64 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
+| 65 | [ÁGUA DE COCO](https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [ÁGUA DE COCO](https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE) | 2:14 |
 | 66 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
 | 67 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
 | 68 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |

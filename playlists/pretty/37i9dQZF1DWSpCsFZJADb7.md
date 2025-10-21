@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpCsFZJADb7.md) - [plain]
 
 > Listen to stories from your friends on Sesame Street.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,621 likes - 38 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,627 likes - 39 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpCsFZJADb7.md) - [plain]
 | 36 | [Family Forever: A Julia Storybook](https://open.spotify.com/track/4SN0phSOhBzUqxUAj9ZoTv) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Family Forever: A Julia Storybook](https://open.spotify.com/album/5T9HzHbMW0nh4CPAvVi1bP) | 4:47 |
 | 37 | [The Ugly Duckling](https://open.spotify.com/track/1OmPXh5zRpwdojQhkXF2ie) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE) | [Sesame Street: Big Bird's Birdtime Stories](https://open.spotify.com/album/0VtvMBiPF3xR8GueFuXVaU) | 5:53 |
 | 38 | [Rosita and Elmo Read a Recipe](https://open.spotify.com/track/4qyaLmPUo0mDY7Wc9hZQQE) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [Rosita and Elmo Read a Recipe](https://open.spotify.com/album/3bQp3jOm1movpHyYgFBd9m) | 7:44 |
+| 39 | [My Baby Brother Is a Little Monster](https://open.spotify.com/track/4mW2QZQatoHag1c66pIzJD) | [Sesame Street Storytime](https://open.spotify.com/artist/6ZeDryVizTyTHzJnzPm8yw) | [My Baby Brother Is a Little Monster](https://open.spotify.com/album/7c61hteCsdSXQPQISMEyov) | 5:51 |
 
-Snapshot ID: `AAAAAOkk3baRD6hA4ld701dmkG8kiiUR`
+Snapshot ID: `AAAAAD5TtpLHbY8Gb/Q+QU69CKi46IZn`

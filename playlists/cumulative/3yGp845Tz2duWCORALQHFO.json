@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1OLuFXNklaLAxDI2YI3hSB"
+      },
+      "artists": [
+        {
+          "name": "Uncle Ciao",
+          "url": "https://open.spotify.com/artist/7EOdI3hqzSbiq00OHH3JX4"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/63mAu5OVvtvqJWb3T2Ipq5"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/6vw857JTY2A31y09p0qpgf"
       },
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "All Night",
       "url": "https://open.spotify.com/track/4Oh9Cpe5z9PkhoeUgbCw57"
@@ -5342,6 +5360,24 @@
       "duration_ms": 139285,
       "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/69akic9gR26niltxBY8pFm"
+    },
+    {
+      "album": {
+        "name": "Ayhee",
+        "url": "https://open.spotify.com/album/6nyS7rDeDVTHlIyPg3pMpT"
+      },
+      "artists": [
+        {
+          "name": "Fabyan",
+          "url": "https://open.spotify.com/artist/2GAHTXOwYqkOh0AvVbnGle"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Ayhee",
+      "url": "https://open.spotify.com/track/46WOcw3w62e9Bunoc40UaK"
     },
     {
       "album": {
@@ -38818,7 +38854,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 135957,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/2h8Us5BGjc5sEUxdoYqixc"
@@ -49591,6 +49627,28 @@
     },
     {
       "album": {
+        "name": "Meet Me In The Sky",
+        "url": "https://open.spotify.com/album/6vMrJr4TROow5Ax7R7Itj7"
+      },
+      "artists": [
+        {
+          "name": "MELOPHANTS",
+          "url": "https://open.spotify.com/artist/31vTdUTqmKypzgh8RiCdG0"
+        },
+        {
+          "name": "Valery Lua",
+          "url": "https://open.spotify.com/artist/0vNfKnAkh1mgDe9aTm25H2"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Meet Me In The Sky",
+      "url": "https://open.spotify.com/track/5fgNGAXtYcR4mj5DnIxEBg"
+    },
+    {
+      "album": {
         "name": "Meet Me on the Dancefloor",
         "url": "https://open.spotify.com/album/3ME8PiURz7Y0po2nbokEzV"
       },
@@ -59832,6 +59890,24 @@
       "duration_ms": 211510,
       "name": "Pick Up The Phone",
       "url": "https://open.spotify.com/track/1bcZHf64xOalMif12Fy7jc"
+    },
+    {
+      "album": {
+        "name": "Picking Up The Pieces",
+        "url": "https://open.spotify.com/album/0FBuBKTxFHQyjE6jM2TEdd"
+      },
+      "artists": [
+        {
+          "name": "AMARE",
+          "url": "https://open.spotify.com/artist/5SC4WWl6u36FNroN3F0ixI"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272920,
+      "name": "Picking Up The Pieces",
+      "url": "https://open.spotify.com/track/3v5lP8RGTBniX8WjqmCXvI"
     },
     {
       "album": {

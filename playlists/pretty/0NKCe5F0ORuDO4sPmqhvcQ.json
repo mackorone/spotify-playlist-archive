@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArA7ztx8TSb6xQ4WTtNTSqiYySaDnn",
+  "snapshot_id": "AAArB6JaWDf6tMZRwPnZX+5bGeHmjRzM",
   "tracks": [
     {
       "added_at": "2025-10-10 15:21:06",
@@ -27,6 +27,22 @@
       "duration_ms": 200712,
       "name": "BABYLON",
       "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
+    },
+    {
+      "added_at": "2025-10-20 14:26:34",
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/4SvqWdh1i0UceZLnCzg8m2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 214488,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237"
     },
     {
       "added_at": "2025-10-10 15:22:01",
@@ -1343,6 +1359,22 @@
       "duration_ms": 155200,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
+    },
+    {
+      "added_at": "2025-10-20 14:27:13",
+      "album": {
+        "name": "LIMERENCE",
+        "url": "https://open.spotify.com/album/4iKMecARl9jUolLXdjO6QS"
+      },
+      "artists": [
+        {
+          "name": "Beauvois",
+          "url": "https://open.spotify.com/artist/6AbXJxYckXHpMDApmUyP8A"
+        }
+      ],
+      "duration_ms": 179557,
+      "name": "LIMERENCE",
+      "url": "https://open.spotify.com/track/5nITzteXAc5fXDtiQmhIBI"
     }
   ],
   "unique_name": "Moving Castle Monthly",

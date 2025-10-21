@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,211 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,230 likes - 44 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 21 | [Entry into the Great Hall and the Banquet](https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:42 |
 | 22 | [Introducing Colin](https://open.spotify.com/track/4kwclHRtcMJLza1W39BSMB) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 1:49 |
 | 23 | [The Patronus Light](https://open.spotify.com/track/59xohjlL8uhdil8UEMIN76) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:12 |
-| 24 | [Love Theme \(From "Cinema Paradiso"\)](https://open.spotify.com/track/7BHX4FX2hfw14gnvcQVJPO) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Pittsburgh Symphony Orchestra](https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9) | [The Essential Itzhak Perlman](https://open.spotify.com/album/6WB0uSzP87B9k4Qr3uvGdU) | 3:17 |
-| 25 | [Raiders March](https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Kingdom of the Crystal Skull \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5) | 5:05 |
+| 24 | [Raiders March](https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Kingdom of the Crystal Skull \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5) | 5:05 |
+| 25 | [Love Theme \(From "Cinema Paradiso"\)](https://open.spotify.com/track/7BHX4FX2hfw14gnvcQVJPO) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Pittsburgh Symphony Orchestra](https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9) | [The Essential Itzhak Perlman](https://open.spotify.com/album/6WB0uSzP87B9k4Qr3uvGdU) | 3:17 |
 | 26 | [Gilderoy Lockhart](https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 2:05 |
 | 27 | [The Chairman's Waltz](https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Memoirs of a Geisha \(Remastered\)](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C) | 2:39 |
 | 28 | [Anakin vs\. Obi\-Wan](https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 3:56 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 43 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
 | 44 | [Theme from Superman \- Concert Version](https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 4:24 |
 
-Snapshot ID: `aPLYgAAAAABylAXmC93UCnRpjMMuom7M`
+Snapshot ID: `aPQqAAAAAAD2vRChaCXPX3MTiqL7a9Zl`

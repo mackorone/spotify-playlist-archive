@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19183,
+  "num_followers": 19185,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 225682,
-      "name": "BITE BACK",
-      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "The Great Escape",
         "url": "https://open.spotify.com/album/6FFK9dODdAHQuxCaldqIhb"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 256799,
       "name": "Concubine",
       "url": "https://open.spotify.com/track/044xTtECAue47UQ8kxnvfL"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 225682,
+      "name": "BITE BACK",
+      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
         }
       ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+      "duration_ms": 165925,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "PLEASER",
-        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
       "artists": [
         {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 165925,
-      "name": "PLEASER",
-      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+        "name": "What Was That",
+        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+      "duration_ms": 209286,
+      "name": "What Was That",
+      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
     },
     {
-      "added_at": "2025-09-11 14:00:34",
-      "album": {
-        "name": "Rosie's Friend",
-        "url": "https://open.spotify.com/album/651wz2jR4mTOT1wuJmSyxY"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 196547,
-      "name": "Rosie's Friend",
-      "url": "https://open.spotify.com/track/0oBAbUchoN02dIccY8oZh6"
-    },
-    {
       "added_at": "2025-08-14 14:00:42",
       "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
@@ -651,6 +635,22 @@
       "duration_ms": 152415,
       "name": "STALKER (feat. Ramirez)",
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
+    },
+    {
+      "added_at": "2025-09-11 14:00:34",
+      "album": {
+        "name": "Rosie's Friend",
+        "url": "https://open.spotify.com/album/651wz2jR4mTOT1wuJmSyxY"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 196547,
+      "name": "Rosie's Friend",
+      "url": "https://open.spotify.com/track/0oBAbUchoN02dIccY8oZh6"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+        "name": "Leisurevision",
+        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Leisurevision",
-        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-10-09 13:00:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
-        "name": "Red Dirt Romeo",
-        "url": "https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R"
-      },
-      "artists": [
-        {
-          "name": "Kaylee Bell",
-          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
-        }
-      ],
-      "duration_ms": 225685,
-      "name": "Red Dirt Romeo",
-      "url": "https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
         "name": "thought of you",
         "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 225295,
       "name": "thought of you",
       "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
+        "name": "Red Dirt Romeo",
+        "url": "https://open.spotify.com/album/4efAnZiWIGbf6sklc5JQ2R"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "duration_ms": 225685,
+      "name": "Red Dirt Romeo",
+      "url": "https://open.spotify.com/track/3XqmFDMszpOQ6fh2YssOEo"
     },
     {
       "added_at": "2025-08-14 14:00:42",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-08-14 14:00:42",
       "album": {
+        "name": "distance",
+        "url": "https://open.spotify.com/album/1VmLlJTGhcSMXHfdI8o4OI"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "distance",
+      "url": "https://open.spotify.com/track/2OhPmJmI7GGQhtQ6u96oz2"
+    },
+    {
+      "added_at": "2025-08-14 14:00:42",
+      "album": {
         "name": "Russian Roulette",
         "url": "https://open.spotify.com/album/1D0knXchRfzVXkQWc6fSZs"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 279746,
       "name": "Russian Roulette",
       "url": "https://open.spotify.com/track/15FlGj5TdFqPgKFwEnKDOm"
-    },
-    {
-      "added_at": "2025-08-14 14:00:42",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
-      },
-      "artists": [
-        {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
-        }
-      ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     }
   ],
   "unique_name": "The Local List Aotearoa",

@@ -4,7 +4,7 @@
 
 > All the of punk rock that you need in your life.
 
-175 songs - 8 hr 56 min
+176 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bro Hymn \- 2005 Remaster](https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 3:00 | 2021-10-05 | 2024-04-19 |
 | [Came Out Swinging](https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Suburbia I've Given You All and Now I'm Nothing](https://open.spotify.com/album/1btRG8xZArmr42owTFNkuJ) | 4:04 | 2021-10-05 | 2024-02-07 |
 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 | 2021-10-05 |  |
-| [Celebration Song](https://open.spotify.com/track/1uDhHTNIBF5BJQWTjKnCoa) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Here's To The Mourning](https://open.spotify.com/album/1RfWXKUSOPbeggQ04lXABC) | 3:40 | 2024-02-06 |  |
+| [Celebration Song](https://open.spotify.com/track/1uDhHTNIBF5BJQWTjKnCoa) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Here's To The Mourning](https://open.spotify.com/album/1RfWXKUSOPbeggQ04lXABC) | 3:40 | 2024-02-06 | 2025-10-21 |
 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 | 2021-10-05 | 2024-04-08 |
 | [Chip](https://open.spotify.com/track/2SnZayZg4eTZ4592TmK6CN) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off The Leash](https://open.spotify.com/album/3nIof6pCfhhWAmK8LykMJ1) | 3:14 | 2021-10-05 | 2022-05-29 |
 | [City Of Angels](https://open.spotify.com/track/0sAIljILdEo8Ku4tPLQ7dF) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/4VrINRcJyLcENNLiDbCoBi) | 3:29 | 2022-08-31 | 2024-02-07 |
@@ -114,6 +114,7 @@
 | [My Girlfriend's Dead](https://open.spotify.com/track/2JzI278tX8YUCelGMZjPO8) | [The Vandals](https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6) | [Hitler Bad, Vandals Good](https://open.spotify.com/album/1VDzkX1kHYOhlnHWQjqy05) | 2:40 | 2021-10-05 | 2022-11-13 |
 | [Never Had So Much Fun](https://open.spotify.com/track/7gWl1Sk38uPG6mj1sbsjnP) | [Frenzal Rhomb](https://open.spotify.com/artist/4cxBQR2C44tnfQ74lpFN7N) | [A Man's Not A Camel](https://open.spotify.com/album/0Ab3GzmU5BArUIwDfS6DLc) | 2:00 | 2021-10-05 | 2022-06-06 |
 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 | 2021-10-05 | 2025-02-08 |
+| [Nightclubbing](https://open.spotify.com/track/6WPGAupim73K9XQL4iIefZ) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:15 | 2024-02-06 |  |
 | [Nightlife](https://open.spotify.com/track/2gAJ6xYuJ2N6DdtDOhsL3y) | [Off With Their Heads](https://open.spotify.com/artist/5oPflNEIhaZ8pFJWxMZtDv) | [Home](https://open.spotify.com/album/0n7W9yIDvgDXcuipMStl0S) | 2:29 | 2021-10-05 | 2022-07-28 |
 | [No Cigar](https://open.spotify.com/track/22klU94r0NFtx4cPO8KqHk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/6s6ieD2MMDUSvXgiQThLwy) | 2:43 | 2021-10-05 | 2022-07-29 |
 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 | 2021-10-05 | 2024-04-19 |

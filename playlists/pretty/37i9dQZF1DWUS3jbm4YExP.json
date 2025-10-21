@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 850839,
+  "num_followers": 850966,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Earthology",
-        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
-      },
-      "artists": [
-        {
-          "name": "Whitefield Brothers",
-          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
-        }
-      ],
-      "duration_ms": 199572,
-      "name": "Safari Strut",
-      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
         "name": "Azulejos",
         "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 206895,
       "name": "Azul Oro",
       "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
+        "name": "Earthology",
+        "url": "https://open.spotify.com/album/4FXD1pVdJ5G690V7mRAFEL"
+      },
+      "artists": [
+        {
+          "name": "Whitefield Brothers",
+          "url": "https://open.spotify.com/artist/1ynl48Y4KflTXf1alW9g1L"
+        }
+      ],
+      "duration_ms": 199572,
+      "name": "Safari Strut",
+      "url": "https://open.spotify.com/track/1lDELORqnHLLTe1bYmHLq7"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1099,26 +1099,22 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Suco de Sol",
-        "url": "https://open.spotify.com/album/6i0GabOxJdPoUrtUQGKGDh"
+        "name": "Beyond Our Shores",
+        "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
       },
       "artists": [
         {
-          "name": "Juando",
-          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
+          "name": "Valvetronic",
+          "url": "https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1"
         },
         {
-          "name": "Aguava",
-          "url": "https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid"
-        },
-        {
-          "name": "NINA J",
-          "url": "https://open.spotify.com/artist/6juGmBHeZZXJlyuFT8FGjw"
+          "name": "Ntjam Rosie",
+          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Suco de Sol",
-      "url": "https://open.spotify.com/track/3h7A9Ei5Qk07femqoyW6lw"
+      "duration_ms": 170483,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1139,22 +1135,26 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Beyond Our Shores",
-        "url": "https://open.spotify.com/album/3hpJyiPBMya8b1FKhyj75e"
+        "name": "Suco de Sol",
+        "url": "https://open.spotify.com/album/6i0GabOxJdPoUrtUQGKGDh"
       },
       "artists": [
         {
-          "name": "Valvetronic",
-          "url": "https://open.spotify.com/artist/0XbLVjYVNnVmy5mwjfI5i1"
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
         },
         {
-          "name": "Ntjam Rosie",
-          "url": "https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R"
+          "name": "Aguava",
+          "url": "https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid"
+        },
+        {
+          "name": "NINA J",
+          "url": "https://open.spotify.com/artist/6juGmBHeZZXJlyuFT8FGjw"
         }
       ],
-      "duration_ms": 170483,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/2h2aS5GMCPRNLE0xvgci9j"
+      "duration_ms": 228000,
+      "name": "Suco de Sol",
+      "url": "https://open.spotify.com/track/3h7A9Ei5Qk07femqoyW6lw"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
+        "name": "Killa's on da Loose",
+        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
+      },
+      "artists": [
+        {
+          "name": "LUNA MAKI",
+          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Killa's on da Loose",
+      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
         "name": "Compilation",
         "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Killa's on da Loose",
-        "url": "https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8"
-      },
-      "artists": [
-        {
-          "name": "LUNA MAKI",
-          "url": "https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Killa's on da Loose",
-      "url": "https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
+        "name": "Ride Forever",
+        "url": "https://open.spotify.com/album/28vl5Y84Y1XyrCtxmfXs95"
+      },
+      "artists": [
+        {
+          "name": "Warbaby",
+          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
+        }
+      ],
+      "duration_ms": 228336,
+      "name": "Ride Forever",
+      "url": "https://open.spotify.com/track/7F9irGnw8W6s2S9bO5vilx"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Ride Forever",
-        "url": "https://open.spotify.com/album/28vl5Y84Y1XyrCtxmfXs95"
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
       "artists": [
         {
-          "name": "Warbaby",
-          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
         }
       ],
-      "duration_ms": 228336,
-      "name": "Ride Forever",
-      "url": "https://open.spotify.com/track/7F9irGnw8W6s2S9bO5vilx"
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
       },
       "artists": [
         {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
         }
       ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+        "name": "Perak",
+        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
         }
       ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+      "duration_ms": 172777,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1615,22 +1631,6 @@
       "duration_ms": 218466,
       "name": "Road Of The Lonely Ones",
       "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
-        "name": "Perak",
-        "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3lNXj5FX51jm3jqqWVUpXM"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Eros",
-        "url": "https://open.spotify.com/album/56z5vMeB7s7DiDegg3E9FY"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 375238,
-      "name": "Eros",
-      "url": "https://open.spotify.com/track/0NT9sgRGk62Fc0UrdruThX"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
         "name": "Jamais Cal\u00e9",
         "url": "https://open.spotify.com/album/2M6gByDMC8pjO9VhFJrVCW"
       },
@@ -1835,22 +1819,18 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "M\u00e1gica",
-        "url": "https://open.spotify.com/album/2h8rlqyVT4tmC5ytcrGuAR"
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/56z5vMeB7s7DiDegg3E9FY"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 155150,
-      "name": "M\u00e1gica",
-      "url": "https://open.spotify.com/track/1TWz6EODmucHiVAt9nT1JX"
+      "duration_ms": 375238,
+      "name": "Eros",
+      "url": "https://open.spotify.com/track/0NT9sgRGk62Fc0UrdruThX"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1867,6 +1847,26 @@
       "duration_ms": 246386,
       "name": "Play by Play",
       "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
+        "name": "M\u00e1gica",
+        "url": "https://open.spotify.com/album/2h8rlqyVT4tmC5ytcrGuAR"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 155150,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/1TWz6EODmucHiVAt9nT1JX"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
         "name": "Faut Pas F\u00e2cher",
         "url": "https://open.spotify.com/album/0iXngKfoH4fVxCLDuA7BYr"
       },
@@ -1927,18 +1943,18 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+        "name": "R\u00fczgar",
+        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
       },
       "artists": [
         {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+      "duration_ms": 357558,
+      "name": "R\u00fczgar",
+      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -1959,22 +1975,6 @@
       "duration_ms": 226568,
       "name": "Flames to Feed - Dr Rubberfunk Remix",
       "url": "https://open.spotify.com/track/2fgh5ZPeZbQ9y8b7AWC4iZ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
-        "name": "R\u00fczgar",
-        "url": "https://open.spotify.com/album/30gfjBaiFtcI7dNyIfZSfg"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 357558,
-      "name": "R\u00fczgar",
-      "url": "https://open.spotify.com/track/3IHlJONdK3miGAHWG1Bahg"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 343841,
-      "name": "Silence is Golden",
-      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
         "name": "Every Trick in the Book",
         "url": "https://open.spotify.com/album/6jrEt6AdBe2mGDLg8iI4Dl"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 190229,
       "name": "Every Trick in the Book",
       "url": "https://open.spotify.com/track/3SZ0veqxOxbVZrZxtHzSG0"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 343841,
+      "name": "Silence is Golden",
+      "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
+        "name": "Bassa Bassa",
+        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+      },
+      "artists": [
+        {
+          "name": "Jembaa Groove",
+          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+        }
+      ],
+      "duration_ms": 301647,
+      "name": "Bassa Bassa",
+      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
         "name": "KB's Mixtape No. 2",
         "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
       },
@@ -2339,18 +2355,34 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Bassa Bassa",
-        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
+        "name": "Chica de Favela",
+        "url": "https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd"
       },
       "artists": [
         {
-          "name": "Jembaa Groove",
-          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
+          "name": "Beyond Music",
+          "url": "https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Pesa Bazz",
+          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
+        },
+        {
+          "name": "Siddhartha El Primero",
+          "url": "https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE"
+        },
+        {
+          "name": "Shocktraderz",
+          "url": "https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS"
         }
       ],
-      "duration_ms": 301647,
-      "name": "Bassa Bassa",
-      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
+      "duration_ms": 177068,
+      "name": "Chica de Favela - Radio Edit",
+      "url": "https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -2403,26 +2435,6 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 301723,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ"
       },
@@ -2443,6 +2455,26 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
         "name": "Under No Nation (Radio Edit)",
         "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
       },
@@ -2455,26 +2487,6 @@
       "duration_ms": 184256,
       "name": "Under No Nation - Radio Edit",
       "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
-        "name": "No Be Today",
-        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
-      },
-      "artists": [
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Os\u00e8",
-      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -2499,6 +2511,26 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
+        "name": "No Be Today",
+        "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
+      },
+      "artists": [
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Os\u00e8",
+      "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
         "name": "Back To Bahia",
         "url": "https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd"
       },
@@ -2511,22 +2543,6 @@
       "duration_ms": 326986,
       "name": "Entardecer",
       "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
-        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
-        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
-      },
-      "artists": [
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
-        }
-      ],
-      "duration_ms": 223764,
-      "name": "Guzelim Benim",
-      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -2551,34 +2567,18 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Chica de Favela",
-        "url": "https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd"
+        "name": "G\u200b\u00fc\u200ble G\u200b\u00fc\u200ble",
+        "url": "https://open.spotify.com/album/1NrRCrYOOOZNDSEUBFo6yW"
       },
       "artists": [
         {
-          "name": "Beyond Music",
-          "url": "https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Pesa Bazz",
-          "url": "https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp"
-        },
-        {
-          "name": "Siddhartha El Primero",
-          "url": "https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE"
-        },
-        {
-          "name": "Shocktraderz",
-          "url": "https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS"
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/6u3f9mIm9CziqD1NzHr2Fl"
         }
       ],
-      "duration_ms": 177068,
-      "name": "Chica de Favela - Radio Edit",
-      "url": "https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc"
+      "duration_ms": 223764,
+      "name": "Guzelim Benim",
+      "url": "https://open.spotify.com/track/0FZQmNyOCR69n1KOAhpPbl"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -2599,26 +2599,6 @@
       "duration_ms": 249982,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev"
-    },
-    {
-      "added_at": "2025-10-17 04:00:58",
-      "album": {
-        "name": "Afande",
-        "url": "https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 323163,
-      "name": "Afande",
-      "url": "https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI"
     },
     {
       "added_at": "2025-10-17 04:00:58",
@@ -2655,18 +2635,42 @@
     {
       "added_at": "2025-10-17 04:00:58",
       "album": {
-        "name": "Felony / Rile 'Em Up",
-        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
+        "name": "Afande",
+        "url": "https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F"
       },
       "artists": [
         {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "duration_ms": 197172,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
+      "duration_ms": 323163,
+      "name": "Afande",
+      "url": "https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI"
+    },
+    {
+      "added_at": "2025-10-17 04:00:58",
+      "album": {
+        "name": "Tropical Man",
+        "url": "https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Tropical Man",
+      "url": "https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK"
     }
   ],
   "unique_name": "Global Groove",

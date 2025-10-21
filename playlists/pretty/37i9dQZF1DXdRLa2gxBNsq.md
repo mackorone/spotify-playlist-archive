@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non servium
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,978 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,009 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 46 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
 | 47 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
 | 48 | [En Tierra de Nadie](https://open.spotify.com/track/2pQdxVXSdyDmwE55w72WB9) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Trilogía ¡Vamos Afuera!](https://open.spotify.com/album/7Gd4UmQBSPGJFkatH9f5fr) | 3:34 |
-| 49 | [Los Mismos Errores](https://open.spotify.com/track/1G7Ym21UZbZJLJmp8gJaNb) | [Mal Pasar](https://open.spotify.com/artist/3rFOwSVu18ny0UBce3HUy0), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [Los Mismos Errores](https://open.spotify.com/album/3o1ChvLE5qMuiNj0qHUYog) | 3:03 |
-| 50 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
+| 49 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
+| 50 | [Los Mismos Errores](https://open.spotify.com/track/1G7Ym21UZbZJLJmp8gJaNb) | [Mal Pasar](https://open.spotify.com/artist/3rFOwSVu18ny0UBce3HUy0), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [Los Mismos Errores](https://open.spotify.com/album/3o1ChvLE5qMuiNj0qHUYog) | 3:03 |
 | 51 | [Corona de espinas](https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL) | [Bihotza](https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Corona de espinas](https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB) | 3:37 |
 | 52 | [Ya No Me Divierto](https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ya No Me Divierto](https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL) | 3:43 |
 | 53 | [Enemigo a las Puertas](https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:15 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 78 | [Borratxos y Orgullosos](https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc) | [Josetxu Piperrak & The Riber Rock Band](https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG) | [Borratxos y Orgullosos](https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE) | 3:43 |
 | 79 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |
 | 80 | [Control de Masas](https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Control de Masas](https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm) | 3:41 |
-| 81 | [Al Alba](https://open.spotify.com/track/15G1DnvFXxAt5mYwIISc1x) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Al Alba](https://open.spotify.com/album/0xidFHHUmSCG259a3MuJnv) | 1:45 |
-| 82 | [Profetas](https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm) | [Fatiga](https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp) | [Profetas](https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8) | 2:58 |
+| 81 | [Profetas](https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm) | [Fatiga](https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp) | [Profetas](https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8) | 2:58 |
+| 82 | [Al Alba](https://open.spotify.com/track/15G1DnvFXxAt5mYwIISc1x) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Al Alba](https://open.spotify.com/album/0xidFHHUmSCG259a3MuJnv) | 1:45 |
 | 83 | [Canciones Para No Volver a Ver El Sol, Pt\. 1](https://open.spotify.com/track/2xf2vYKkVDBBRGQS7pcaZR) | [NUBE NARANJA](https://open.spotify.com/artist/3NnkwzpBaHdvWQmCBhrOmi) | [Canciones Para No Volver a Ver El Sol](https://open.spotify.com/album/6aE1phcKcOpCSwVQwgKq3C) | 3:00 |
 | 84 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
 | 85 | [Ciudadano periodista](https://open.spotify.com/track/74GxS1s5mX7DRRD3CdOMk3) | [Colapso](https://open.spotify.com/artist/1OxK8rUG1jNXdFo1XW0V1e) | [Ciudadano periodista](https://open.spotify.com/album/2FPJXNXLpush0YMcUVVpJw) | 2:56 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 87 | [La Doloritas o la Incongruencia](https://open.spotify.com/track/1SPug4CXRnPeknVAtopLhK) | [La Doloritas](https://open.spotify.com/artist/3523teAdM8GO0bPlQAyAzd) | [Me Escupió la Lumbre](https://open.spotify.com/album/72XkJBzWKdcx4f40c3xytx) | 1:54 |
 | 88 | [Vaya semanita](https://open.spotify.com/track/4w8TbXB3frLjrHgUT7gmDI) | [Er Tabardillo](https://open.spotify.com/artist/6edzea6vZ4X4LkcACnOAW2) | [Manual de supervivencia extrema](https://open.spotify.com/album/2w6v7xVczkW4iq2UPOoQCL) | 3:06 |
 | 89 | [Mi Primer Amor](https://open.spotify.com/track/2oRmhBSPhWNScSkwR7x8xi) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 2:50 |
-| 90 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
-| 91 | [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 |
-| 92 | [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 |
+| 90 | [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 |
+| 91 | [Escupiré Jodidos](https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm) | [El Último Ke Zierre](https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC) | [A Cara de Perro](https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN) | 2:45 |
+| 92 | [Mi Mejor Colega \- original](https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 2:04 |
 | 93 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/5I1ldD90ymu5m41CjABLUX) | 1:31 |
 | 94 | [La locura \- original](https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace falta…?](https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY) | 3:53 |
 | 95 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 |
 | 96 | [Kualkier Día](https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B) | [Piperrak](https://open.spotify.com/artist/0kya4eL7YgduZ1RAbO6Uou) | [Arde Ribera](https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s) | 4:09 |
 | 97 | [Herida de guerra](https://open.spotify.com/track/16MDTJlQK8LcZW9IkladLD) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora que se ha ido el sol](https://open.spotify.com/album/1uM5thAotEBcFCuF0G4eJl) | 4:00 |
-| 98 | [Por ti](https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Escapa!](https://open.spotify.com/album/6MQUQgI1RKD4wHu2Qc16iU) | 2:43 |
-| 99 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 |
-| 100 | [Así Es la Vida](https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI) | 3:53 |
+| 98 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 |
+| 99 | [Así Es la Vida](https://open.spotify.com/track/12obLt5jLRqJTWwbV7HywQ) | [Los De Marras](https://open.spotify.com/artist/0E1P5uNgbD11POIDxFROHh) | [Vulnerable](https://open.spotify.com/album/7hL5n61zepkS2WQ1MCTpCI) | 3:53 |
+| 100 | [Por ti](https://open.spotify.com/track/7tbmPVO7BOZ3uBTkQ4lwFV) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Escapa!](https://open.spotify.com/album/6MQUQgI1RKD4wHu2Qc16iU) | 2:43 |
 
 Snapshot ID: `AAAAAAfj7lYyNmsazGHwI2tlyYzHmLFs`

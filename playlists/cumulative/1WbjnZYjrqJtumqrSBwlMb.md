@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,201 songs - 3 day 1 hr 45 min
+1,202 songs - 3 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:26 | 2023-12-07 |  |
 | [Conversations with my Wife \- Acoustic](https://open.spotify.com/track/0EvkKZkNeH8Ss87xH7Z0iM) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Conversations with my Wife \(Acoustic\)](https://open.spotify.com/album/4mJEklBcEfzHPiH54Ba8NZ) | 3:54 | 2023-12-07 |  |
 | [Copy](https://open.spotify.com/track/4ly7pb1pKnHlfb25G7mLgH) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [E Bleu](https://open.spotify.com/artist/5iFK29ta4wFeMTSqxc4CMt), [SoGone SoFlexy](https://open.spotify.com/artist/59TV2OX3lSIlALY4zlFPh4), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:43 | 2025-06-26 |  |
+| [Copycats](https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Copycats](https://open.spotify.com/album/0KJ0nrsNiDP2bAbW0OBgmd) | 2:51 | 2025-10-20 |  |
 | [Corduroy](https://open.spotify.com/track/0t5MrCPX2y4pIeCxw5yY6t) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 3:14 | 2023-11-30 | 2025-01-15 |
 | [Cornerstone](https://open.spotify.com/track/5bsnLiT00hG37qd8p2jdVl) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:17 | 2020-01-15 |  |
 | [CORSO](https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 | 2022-07-14 |  |

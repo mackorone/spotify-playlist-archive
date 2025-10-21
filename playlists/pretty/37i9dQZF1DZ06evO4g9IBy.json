@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171328,
+  "num_followers": 171340,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAADELb4aE4+Xm5own8fdZkVA",
+  "snapshot_id": "aPQqAAAAAAAvW4bNUl7TMlFJ0FmKhmsw",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 291595,
-      "name": "Long Distance Winner",
-      "url": "https://open.spotify.com/track/4s1NQx5SmakDcTEfItAg3K"
+      "duration_ms": 62485,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/7fAXIDhI8ZZ0toKSQnjkCO"
     },
     {
       "added_at": null,
@@ -711,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
-        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
+        "name": "Music From Party of Five",
+        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 228546,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
+      "duration_ms": 336560,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
     },
     {
       "added_at": null,
@@ -747,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From Party of Five",
-        "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
+        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
+        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
       },
       "artists": [
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 336560,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
+      "duration_ms": 228546,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
     },
     {
       "added_at": null,

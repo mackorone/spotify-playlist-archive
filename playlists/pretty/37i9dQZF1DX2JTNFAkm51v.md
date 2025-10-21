@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【全セットリスト公開】5月10日\(土\)\~11日\(日\)に開催された「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストのセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,378 likes - 333 songs - 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,380 likes - 333 songs - 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 252 | [ヤミー](https://open.spotify.com/track/13xGAQfZ4xB6Kx9c0WsaAY) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [ヤミー](https://open.spotify.com/album/1TYiQCvUtkpBq0SZ1otSNx) | 2:19 |
 | 253 | [アツい](https://open.spotify.com/track/4P4AK5lOzivUbmtTjPHTmy) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:30 |
 | 254 | [平気](https://open.spotify.com/track/76P0yVvbDoPzktecTT4FfX) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [SUKI](https://open.spotify.com/album/469LH4DSFOSZ1HjkrqxxF4) | 2:49 |
-| 255 | [Don’t want you to be too famous \- Sped Up](https://open.spotify.com/track/7fojyzLXbe93WEBCUeDCyx) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [SUKI \(Sped Up\)](https://open.spotify.com/album/20D0WwCPrA9o3Uqb13tpen) | 2:02 |
+| 255 | [Don’t want you to be too famous \(Sped Up\)](https://open.spotify.com/track/7fojyzLXbe93WEBCUeDCyx) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [SUKI \(Sped Up\)](https://open.spotify.com/album/20D0WwCPrA9o3Uqb13tpen) | 2:02 |
 | 256 | [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 |
 | 257 | [GOKU VIBES \(feat\. Tohji, Elle Teresa, UNEDUCATED KID & Futuristic Swaver\)](https://open.spotify.com/track/51GoV9wH57anm60ll5u5bS) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [UNEDUCATED KID](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Futuristic Swaver](https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF) | [GOKU VIBES \(feat\. Tohji, Elle Teresa, UNEDUCATED KID & Futuristic Swaver\)](https://open.spotify.com/album/4EKjwL06SUJy6RlBmxE17x) | 4:08 |
 | 258 | [Bubble](https://open.spotify.com/track/5IwSX4pNPwL7FnWCJjZnbb) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Bubble](https://open.spotify.com/album/7LdXdBZb9SpMu0yBfaVw4O) | 1:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Johnny Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,199 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,203 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 48 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 |
 | 49 | [si tu veux on va voir la mer](https://open.spotify.com/track/50oYuuu1dN4Ld47YkO6SVP) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [si tu veux on va voir la mer](https://open.spotify.com/album/165OtpCQM1BgC6TPnaiMQx) | 2:32 |
 
-Snapshot ID: `AAAAAIyqNvDLnGjgz1dTDiMK4/NCW800`
+Snapshot ID: `AAAAAO/+vhqbshkZEuvqaxvMvF7ccQr7`

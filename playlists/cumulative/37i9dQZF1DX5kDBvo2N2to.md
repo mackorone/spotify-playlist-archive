@@ -4,10 +4,11 @@
 
 > låtarna som inte går att få nog av.
 
-429 songs - 22 hr 54 min
+430 songs - 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [...being mad bad sad \(DSM\-5\)](https://open.spotify.com/track/2u2WAcPmcpZ1WwtqSI2K0x) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...being mad bad sad \(DSM\-5\)](https://open.spotify.com/album/3Z76JHYpa1PC8sIVLhqnmA) | 3:03 | 2025-10-16 |  |
 | [...blondie\(s\)](https://open.spotify.com/track/3ajCgdGbPvGYOwG9eEOjaS) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...blondie\(s\)](https://open.spotify.com/album/6YTP3VnM1PbSWYWuJIcH3y) | 2:33 | 2025-04-10 | 2025-05-30 |
 | [...Japanese pancakes](https://open.spotify.com/track/0a0EM7KSt1fHRSmfCN8stf) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [...Japanese pancakes](https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9) | 2:13 | 2025-05-22 | 2025-07-10 |
 | [00:00:01](https://open.spotify.com/track/5F7WaBrdKaut4IaswkN3be) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [00:00:01](https://open.spotify.com/album/1TVr5v1JZ2Ux1mqXytRxyW) | 2:10 | 2025-07-03 | 2025-08-08 |
@@ -298,7 +299,7 @@
 | [OKEJ](https://open.spotify.com/track/7c2lgsV1U2bWUoNMmctf0A) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [OKEJ](https://open.spotify.com/album/6fah1g2OizBaCkgx4NbZBj) | 3:02 | 2025-03-27 | 2025-04-04 |
 | [Old Memories](https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Old Memories](https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5) | 2:30 | 2024-09-13 | 2025-03-28 |
 | [om vi försvann](https://open.spotify.com/track/3qXI8V60dPVh8f7KRYY9lt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [om vi försvann](https://open.spotify.com/album/7aimWcWRBmFxuS9vvqFoeQ) | 2:43 | 2025-10-16 |  |
-| [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 | 2025-09-25 |  |
+| [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 | 2025-09-25 | 2025-10-21 |
 | [Ord som lämnats kvar](https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Ord som lämnats kvar](https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji) | 6:35 | 2024-06-28 | 2024-08-30 |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-28 | 2025-03-14 |
 | [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 | 2024-06-28 | 2025-04-18 |

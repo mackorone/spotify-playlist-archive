@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2120,
+  "num_followers": 2121,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAAAlNjK9yIdHxMU5GvBJEppH",
+  "snapshot_id": "aPQqAAAAAACjVp6xskHwSfKJ4qwWA1Ab",
   "tracks": [
     {
       "added_at": null,
@@ -447,34 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prendo Un Gallo",
-        "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 142138,
-      "name": "Prendo Un Gallo",
-      "url": "https://open.spotify.com/track/272dYrwFE76Io6riUpLugS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
       },
@@ -499,6 +471,34 @@
       "duration_ms": 146779,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prendo Un Gallo",
+        "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 142138,
+      "name": "Prendo Un Gallo",
+      "url": "https://open.spotify.com/track/272dYrwFE76Io6riUpLugS"
     },
     {
       "added_at": null,
@@ -771,6 +771,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Licuado",
+        "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 134583,
+      "name": "Licuado",
+      "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
         "url": "https://open.spotify.com/album/1O3ptaojQeRH0YrSZm6R14"
       },
@@ -811,38 +843,6 @@
       "duration_ms": 259333,
       "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
       "url": "https://open.spotify.com/track/5DpXwDeOTcMyGE5GZBW9SG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Licuado",
-        "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 134583,
-      "name": "Licuado",
-      "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
     },
     {
       "added_at": null,

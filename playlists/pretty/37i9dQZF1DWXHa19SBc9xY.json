@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 117752,
+  "num_followers": 117796,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
+    },
+    {
+      "added_at": "2025-09-19 14:11:35",
+      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
-    },
-    {
-      "added_at": "2025-09-19 14:11:35",
-      "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2025-09-19 14:11:35",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
-        "name": "Gente",
-        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Que Sorte",
-      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
-    },
-    {
-      "added_at": "2025-09-19 14:11:35",
-      "album": {
         "name": "Minha Preta",
         "url": "https://open.spotify.com/album/6wvxib67l7wYhW7T27bnqu"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
+        "name": "Praia do Flamengo",
+        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
+      },
+      "artists": [
+        {
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        }
+      ],
+      "duration_ms": 271728,
+      "name": "Praia do Flamengo",
+      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
+    },
+    {
+      "added_at": "2025-09-19 14:11:35",
+      "album": {
         "name": "Vou Me Banhar",
         "url": "https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-09-19 14:11:35",
       "album": {
-        "name": "Praia do Flamengo",
-        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
+        "name": "Gente",
+        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
       },
       "artists": [
         {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
         }
       ],
-      "duration_ms": 271728,
-      "name": "Praia do Flamengo",
-      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
+      "duration_ms": 196546,
+      "name": "Que Sorte",
+      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
     },
     {
       "added_at": "2025-09-19 14:11:35",

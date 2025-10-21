@@ -215,22 +215,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 241146,
       "name": "Every Time I Hear That Song",
       "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Shape & Destroy",
         "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Not Healthy Anymore",
-        "url": "https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
       },
       "artists": [
         {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju"
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -879,6 +863,22 @@
       "duration_ms": 266693,
       "name": "Let The Mermaids Flirt With Me",
       "url": "https://open.spotify.com/track/3Y6PWmeriyVFzfrwVFIyOJ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Not Healthy Anymore",
+        "url": "https://open.spotify.com/album/5HdIXMRyrkXYM7nbHxTuE5"
+      },
+      "artists": [
+        {
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/49tGNQ6BWoAeji0sQo68ju"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Wildwood Flower",
-        "url": "https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Out of My Province",
         "url": "https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 249213,
       "name": "Heart To Ride",
       "url": "https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Wildwood Flower",
+        "url": "https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Look Up & Fly Away",
-        "url": "https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 149327,
-      "name": "Paradise Bay",
-      "url": "https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Family Tapes",
         "url": "https://open.spotify.com/album/30skCuUg5LtMV2xodFxvnp"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 263573,
       "name": "Family Tapes",
       "url": "https://open.spotify.com/track/0wl2rHiiQRHAW41UHYOI1u"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Look Up & Fly Away",
+        "url": "https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 149327,
+      "name": "Paradise Bay",
+      "url": "https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/5mwGuX0mEvujy15okrpkYd"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 282746,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0fNyvb7q10dKobpb3PruR6"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2023-09-15 04:00:00",

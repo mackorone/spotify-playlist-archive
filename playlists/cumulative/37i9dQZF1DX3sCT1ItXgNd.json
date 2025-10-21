@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena, Abraham Mateo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "MALPORTADA",
+        "url": "https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200112,
+      "name": "A CABALLO",
+      "url": "https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy"
+    },
+    {
+      "album": {
         "name": "A D\u00f3nde Ir",
         "url": "https://open.spotify.com/album/3jyb034ATiCQU6IT0G3irN"
       },
@@ -554,7 +572,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Akureyri",
       "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 188597,
       "name": "Amor Prestado",
       "url": "https://open.spotify.com/track/4Z3zYeaJabDAnk9zI5TaQm"
@@ -1862,7 +1880,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 171111,
       "name": "Camila",
       "url": "https://open.spotify.com/track/7Cm5tjS184tqmc2IcoRpvY"
@@ -3205,6 +3223,28 @@
     },
     {
       "album": {
+        "name": "Culpita del Amor",
+        "url": "https://open.spotify.com/album/6mDx7OC8rp6PHsQwCGV1ZU"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        },
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "Culpita del Amor",
+      "url": "https://open.spotify.com/track/0xH74lqY87kzzCFodO10kZ"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/04Vn7ycGWmtrf9j2xXPN8E"
       },
@@ -3238,6 +3278,28 @@
       "duration_ms": 174369,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2xVcCDRgG3TrH69TatsUxp"
+    },
+    {
+      "album": {
+        "name": "CU\u00c1L NOSOTROS",
+        "url": "https://open.spotify.com/album/2BwYpORlB5jVQguE6VMomC"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164280,
+      "name": "CU\u00c1L NOSOTROS",
+      "url": "https://open.spotify.com/track/74jGIxaHC0z3AAvItuHmU2"
     },
     {
       "album": {
@@ -4054,7 +4116,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 222626,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
@@ -8072,7 +8134,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 222650,
       "name": "Luz",
       "url": "https://open.spotify.com/track/7bGprclEwRfcsiNOisHpJ1"
@@ -8536,7 +8598,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 209999,
       "name": "MA\u00d1ACA",
       "url": "https://open.spotify.com/track/0zNtF8pDnnw7sSH7xZq8xx"
@@ -9384,7 +9446,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 144230,
       "name": "MOJA1TA",
       "url": "https://open.spotify.com/track/63rH77IJhmuQsNIxpCxaJ5"
@@ -9838,7 +9900,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 164298,
       "name": "NEXO 08. Ha pasado algo",
       "url": "https://open.spotify.com/track/25Em5XUehkOqgaM3qSjmxu"
@@ -11874,7 +11936,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 171664,
       "name": "Pub Irland\u00e9s",
       "url": "https://open.spotify.com/track/7wns2inkb2y0B0ROLeIYBN"
@@ -12220,6 +12282,28 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
     },
     {
       "album": {
@@ -13140,7 +13224,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 205923,
       "name": "Si hubiera sido algo menos idiota",
       "url": "https://open.spotify.com/track/5GIOFgWXT81gYWnQ2nDO4a"
@@ -13972,7 +14056,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 157539,
       "name": "S\u00c9PTIMO SENTIDO",
       "url": "https://open.spotify.com/track/2C0pKSrGBCP4CZHzzAYDIk"

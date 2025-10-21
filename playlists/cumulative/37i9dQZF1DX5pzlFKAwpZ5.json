@@ -3865,6 +3865,28 @@
     },
     {
       "album": {
+        "name": "Everything gold can stay",
+        "url": "https://open.spotify.com/album/4f7gVQcQCO68BqyeLDKLNA"
+      },
+      "artists": [
+        {
+          "name": "\u2605STAR GUiTAR",
+          "url": "https://open.spotify.com/artist/2c2u1DQ1MHOkHL1tVMV3n6"
+        },
+        {
+          "name": "Akiyoshi Yasuda",
+          "url": "https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Remain Radiant -ambient",
+      "url": "https://open.spotify.com/track/0UyFZbBpuRbysRftjbIJQF"
+    },
+    {
+      "album": {
         "name": "In The Mists of Time",
         "url": "https://open.spotify.com/album/3ae6LKSL28JtEMhuReJHZn"
       },
@@ -5970,7 +5992,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 356500,
       "name": "\u6c37\u96e8",
       "url": "https://open.spotify.com/track/76dAXmTFhZtxPP1ncZGzJM"

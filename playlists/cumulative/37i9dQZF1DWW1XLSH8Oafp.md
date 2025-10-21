@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring KI/KI
 
-1,184 songs - 2 day 16 hr 31 min
+1,187 songs - 2 day 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [losing control \(can't escape\)](https://open.spotify.com/track/461QXcP6tY0DsFvpJddP9j) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [losing control](https://open.spotify.com/album/49nlNcQttSS80CyRhlD57A) | 4:41 | 2024-03-01 | 2024-11-22 |
 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light EP](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 | 2025-08-07 |  |
 | [Losing my mind <3](https://open.spotify.com/track/3S9zQDwOt2SWxvMwdxRt1a) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [Losing my mind <3](https://open.spotify.com/album/22wkwu6ew3HcIN7rZlhIgp) | 2:14 | 2025-03-07 |  |
+| [Lotus](https://open.spotify.com/track/5MS7BCBeZ8FdXhiFMYBKWT) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Lotus](https://open.spotify.com/album/09mqnSBXKIcaCs0TUFv0Ca) | 3:34 | 2025-10-20 |  |
 | [Love](https://open.spotify.com/track/4hriybgE67pyiH6yz7J8R5) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Love](https://open.spotify.com/album/3wd9XQoU36zD1K6xWlRtw5) | 3:59 | 2023-09-08 | 2024-06-15 |
 | [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 | 2023-07-27 | 2024-05-04 |
 | [Love Me](https://open.spotify.com/track/6Tf0wFn9JqSvjmSGUuM4ng) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Love Me](https://open.spotify.com/album/4yBMmSErU2Qy5A9Pd54VVd) | 2:20 | 2022-10-14 | 2023-05-19 |
@@ -750,6 +751,7 @@
 | [Nobody](https://open.spotify.com/track/0WPSjmMi6MQ31mYhJ97z1L) | [FiFi Zhang](https://open.spotify.com/artist/059v3EegVz2AonSh0Ro75Y) | [Nobody](https://open.spotify.com/album/1bHSGOjvw6r65EyP7Mq5Od) | 3:02 | 2023-03-03 | 2023-10-27 |
 | [Nobody Will Love You](https://open.spotify.com/track/3XPhAWvew0t2bKo8lN2Iof) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [Nobody Will Love You](https://open.spotify.com/album/3VBIC4ZGoal7zLBcEPnDmk) | 3:50 | 2024-06-21 | 2025-03-21 |
 | [noise reduction](https://open.spotify.com/track/0sAUU1Ah3BWwNH3013NPL2) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh) | [dialogue tree](https://open.spotify.com/album/3sONtkjvho6UJmu2jZ0GSF) | 2:40 | 2022-11-18 | 2023-02-04 |
+| [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 | 2025-10-20 |  |
 | [nome](https://open.spotify.com/track/2tpkpCZjxJ4fRtruR6mfGR) | [Karo](https://open.spotify.com/artist/4t8Wy4slFXJK31m7WpiIB4), [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [nome](https://open.spotify.com/album/2w2F0lqhVsp8xVREfFsoem) | 2:26 | 2024-01-29 | 2024-08-17 |
 | [Non\-Fungible Memory](https://open.spotify.com/track/5NHSjW8cnpzK6gEIA2pWn1) | [Broosnica](https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m) | [Non\-Fungible Memory](https://open.spotify.com/album/7Ei4jGZgktpTI1bbIFmiXO) | 3:56 | 2022-12-23 | 2023-06-08 |
 | [None of That](https://open.spotify.com/track/0apyhAiGCKHDyUPrTvbOs2) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [None of That](https://open.spotify.com/album/1P8LzZx7SoLPkmkxCxNNWE) | 3:13 | 2025-07-03 |  |
@@ -1141,6 +1143,7 @@
 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 | 2025-09-11 |  |
 | [what's on your mind? \(feat\. funeral\)](https://open.spotify.com/track/0QEQlPt2mFmzV52PGB5ZLg) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [earcandy](https://open.spotify.com/album/4WHDYlEmaJFXGCEZOfgCeT) | 3:28 | 2022-04-01 | 2022-05-07 |
 | [What’s on Your Mind?](https://open.spotify.com/track/4W2c3LX6S00WBhqUpdTy1A) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [What’s on Your Mind?](https://open.spotify.com/album/5Mb8GVBFQNPoLtiLHBGCTF) | 2:07 | 2022-11-25 | 2023-01-14 |
+| [When I Lie](https://open.spotify.com/track/1tgAEtdl35za8a3Vc8gNyD) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [When I Lie](https://open.spotify.com/album/3kTu3zQPkZMuUkDR2fGpue) | 2:27 | 2025-10-20 |  |
 | [WHEN I LOOK AT U](https://open.spotify.com/track/3sqkxVyh8cACstoTDw8LVA) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [WHEN I LOOK AT U](https://open.spotify.com/album/4iQ53FsfehMGUQ8pxCiBsR) | 6:05 | 2022-04-01 | 2022-05-14 |
 | [When U Wanna \- Radio Edit](https://open.spotify.com/track/531BHzs9olH9jjnLvpbeex) | [FVLCRVM](https://open.spotify.com/artist/7AjItKsRnEYRSiBt2OxK1y) | [When U Wanna](https://open.spotify.com/album/3Ndvrq8HIqSSstLyhYvmOm) | 3:24 | 2022-10-28 | 2022-11-19 |
 | [When You're Up I'm Down](https://open.spotify.com/track/6LAaHqiKWlGJz1DWL60AXI) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Good Times](https://open.spotify.com/album/47KnE5LgFbToT7mWVyvGIO) | 2:55 | 2024-09-26 | 2025-06-20 |

@@ -2707,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Coming of Age",
+        "url": "https://open.spotify.com/album/4dRihrJQp5OVcJQvNr5W4Y"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163747,
+      "name": "Coming of Age",
+      "url": "https://open.spotify.com/track/2uXxdJ7LhDAO4W1z8ud9TD"
+    },
+    {
+      "album": {
         "name": "Compelling Voice",
         "url": "https://open.spotify.com/album/4Ieb0qbrj9v18DW9lHlNir"
       },
@@ -4576,7 +4594,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 184412,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/5xLTKLhaWvLmCix32pqia0"
@@ -7100,7 +7118,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 140986,
       "name": "Le Marais",
       "url": "https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn"
@@ -10510,7 +10528,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 145695,
       "name": "Rialto",
       "url": "https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt"

@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-392 songs - 1 day 0 hr 7 min
+394 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Any Call \(Call Me Any Time\)](https://open.spotify.com/track/2pDBR4VKRNFmwUCj7zQmC8) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Any Call \(Call Me Any Time\)](https://open.spotify.com/album/2XuLnqS5yuSXq0tydgUD2u) | 3:28 | 2022-05-11 | 2022-07-26 |
 | [Apologize](https://open.spotify.com/track/5a8Cw8cj9j3lSIQ21i72p0) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [COSMOS](https://open.spotify.com/album/6z8ufyHFN5J1EKG6wiAMLu) | 4:12 | 2022-05-11 | 2022-07-29 |
 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 | 2022-05-11 |  |
-| [Asteroid](https://open.spotify.com/track/6mQ30ewPGJlJpex3sawe3h) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:35 | 2025-06-12 |  |
+| [Asteroid](https://open.spotify.com/track/6mQ30ewPGJlJpex3sawe3h) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:35 | 2025-06-12 | 2025-10-21 |
 | [Asteroid 소행성](https://open.spotify.com/track/4vODFC2HQEVCJABkba6eKM) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Asteroid 소행성](https://open.spotify.com/album/7ytsVClk3q5bbVFVM5hyBM) | 3:35 | 2022-05-11 | 2022-07-27 |
 | [Awake But Dreaming \(Feat\. KIMMUSEUM\)](https://open.spotify.com/track/0fWD1NsspeuahId2EktTBG) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [New Edition 27](https://open.spotify.com/album/7mE6Va4hXeo6UNPn01tu19) | 3:23 | 2022-05-11 | 2022-07-28 |
 | [Baby Don't Play](https://open.spotify.com/track/0fscOpcaHzivo321QxAfAo) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:31 | 2023-07-13 | 2024-04-19 |
@@ -66,6 +66,7 @@
 | [Button \- Remastered](https://open.spotify.com/track/4FSxhl9bOTmzcMKAypj7Bb) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Animation](https://open.spotify.com/album/678QsdsjapDnh9N9iCeFyp) | 4:02 | 2022-05-11 | 2022-06-28 |
 | [Caffeine](https://open.spotify.com/track/0mkvgFOolIEphzPjRN1xgN) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7EjK4oHHAV8v7hvYAMqfLo) | 3:15 | 2022-05-11 | 2022-07-29 |
 | [Caffeine](https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR) | [Eyedi](https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN) | [Caffeine](https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki) | 3:15 | 2022-07-22 | 2024-04-19 |
+| [Can You Entertain?](https://open.spotify.com/track/2KgjPTCmg3UlXh7382NnTY) | [Kim Lip](https://open.spotify.com/artist/1fsR8q6ObgP7rLBYdZZD7i) | [<Can You Entertain?>](https://open.spotify.com/album/4zDXtQ8yhL07JYcXIG4gsI) | 2:49 | 2025-10-20 |  |
 | [Candy Crush](https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Dall>](https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS) | 3:00 | 2024-06-05 |  |
 | [Cherries Jubiles](https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:05 | 2022-07-22 | 2024-04-19 |
 | [Cherries Jubiles](https://open.spotify.com/track/5JQeqAohyUPvxTY9cM1SN3) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 4:05 | 2022-05-11 | 2022-07-29 |
@@ -82,7 +83,7 @@
 | [City Girl City Boy](https://open.spotify.com/track/6mWRDboiaEyDHFehyjEAPX) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [City Girl City Boy](https://open.spotify.com/album/3cvNrNF9w8NfFbGF4gPw4x) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [City Light](https://open.spotify.com/track/4pVqvBttw55NmUSqishQXH) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [City Light](https://open.spotify.com/album/1tDEBYIEhLQiaru9SQ7S15) | 3:19 | 2022-05-11 | 2022-07-29 |
 | [City light](https://open.spotify.com/track/1tLIU48UtU6AWg2NLyUUeV) | [Jeong Jinwoon](https://open.spotify.com/artist/0TP4BhbuNVvO5aIPJlTFjh) | [City light](https://open.spotify.com/album/4xynt37Ufrv0VGhymWidGW) | 4:23 | 2025-06-26 | 2025-09-17 |
-| [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 |  |
+| [City Night \(feat\. Jisun\)](https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [EGO 90'S PART 3](https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ) | 3:40 | 2024-08-01 | 2025-10-21 |
 | [City View](https://open.spotify.com/track/4di5ecJU8Rl40CgNvsV98Z) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD) | [City View / Her](https://open.spotify.com/album/1nVJNJhvhnTZGUlDKQDyfW) | 3:28 | 2025-06-17 |  |
 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 | 2024-09-13 |  |
 | [Coconut Love](https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K) | [Seoulmoon](https://open.spotify.com/artist/0xsCXMIcnrXhRiNL11HlxP) | [Coconut Love](https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx) | 3:14 | 2022-07-22 | 2022-11-04 |
@@ -135,6 +136,7 @@
 | [First Winter](https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [First Winter](https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA) | 4:00 | 2022-05-11 |  |
 | [Flight](https://open.spotify.com/track/6XXqH3KcRkpDNJYf2kRhBA) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [SURFING](https://open.spotify.com/album/4gjhFa54JUgELzHmQoR4J1) | 3:32 | 2022-05-11 | 2022-06-28 |
 | [FLIGHT](https://open.spotify.com/track/1pvBm1ydKLXorYDdlIAeuj) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [FLIGHT](https://open.spotify.com/album/079CeHOeWqD0AUwmPUIhXv) | 2:47 | 2023-10-19 |  |
+| [Flutter](https://open.spotify.com/track/1lP4paUU6RuyAmK06jLT4K) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 3:05 | 2025-10-20 |  |
 | [Forget You \(feat\. Rainbow note & Louie\)](https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC) | [Aliven](https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E), [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17), [moonseophwang](https://open.spotify.com/artist/3ES08oFSlb8a1M0b1QDEgv) | [Forget You](https://open.spotify.com/album/60zXXx58lbLisnStPn442S) | 4:38 | 2022-07-04 | 2025-05-02 |
 | [Full Moon](https://open.spotify.com/track/1omaEeFsC0a5rCvEp6QTDC) | [KIMSAN 김산](https://open.spotify.com/artist/4PiqWnfbWGcCFT2UDxKCf1) | [Headlights](https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS) | 4:17 | 2022-05-11 | 2022-07-13 |
 | [Funny \(feat\. Grizzly\)](https://open.spotify.com/track/7guQtXNYn2E9LMyjUyiywZ) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1), [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Funny](https://open.spotify.com/album/5K09zjcvZTSsZU3UnBILvf) | 3:37 | 2022-06-09 | 2022-06-29 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Svart Ridå.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,913 likes - 152 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,920 likes - 152 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Ögats Ljus](https://open.spotify.com/track/09SFbnSumIiYo69krgCBTH) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [I Ögats Ljus](https://open.spotify.com/album/3nqSFrfKMXWni7kua8Q7Z3) | 5:18 |
-| 2 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
-| 3 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 |
-| 4 | [Same Kids](https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Same Kids](https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE) | 3:31 |
-| 5 | [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 |
-| 6 | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/track/7wfUH6O0XKQ1xrnhm0n6MV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/album/4gSb0ZRAzte16ttpJk70zU) | 4:32 |
+| 2 | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/track/7wfUH6O0XKQ1xrnhm0n6MV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [I'll Find My Way Home \(Original Soundtrack of Little Did I Know\)](https://open.spotify.com/album/4gSb0ZRAzte16ttpJk70zU) | 4:32 |
+| 3 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 4 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 |
+| 5 | [Same Kids](https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Same Kids](https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE) | 3:31 |
+| 6 | [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 |
 | 7 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
 | 8 | [Ge mig allt du har](https://open.spotify.com/track/0FuvQXwIIiSSJJKfsvSJmh) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Ge mig allt du har](https://open.spotify.com/album/4ze5bjFV8sPKTeYnllQQcB) | 3:13 |
 | 9 | [Illusion](https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [The Inner City](https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI) | 3:00 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 151 | [overthinking](https://open.spotify.com/track/5gv5WYrIhVCUDeXjo60AWb) | [Riley From Earth](https://open.spotify.com/artist/1b3TTtQOOT6oVnL4e8dtF3) | [overthinking](https://open.spotify.com/album/6iSr1R777BVfVQNnpqH9ia) | 2:46 |
 | 152 | [Emilie's Song \- From the TV series "Tordyveln flyger i skymningen"](https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Emilie's Song \(From the TV series "Tordyveln flyger i skymningen"\)](https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd) | 4:24 |
 
-Snapshot ID: `AAAAAPFHIQ/rkmhmKj5S1RbbbkANF4qO`
+Snapshot ID: `AAAAAJUp75mn81qDg384pe6XdEEYYAOY`

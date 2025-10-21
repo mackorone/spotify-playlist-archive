@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-596 songs - 1 day 1 hr 12 min
+598 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [passing memories](https://open.spotify.com/track/3AGayCmS2tutGPmmCkNY1k) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [passing memories](https://open.spotify.com/album/2Mxaff7EkFAZtFDu3QtkUs) | 1:58 | 2022-09-09 | 2023-09-14 |
 | [Past encounters](https://open.spotify.com/track/3ZHXP7TCdWAcHUOqafq2Cw) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Past encounters](https://open.spotify.com/album/3CH7PyvDReNm3sKOZxPa3x) | 2:30 | 2024-02-02 |  |
 | [Path](https://open.spotify.com/track/1Wz9by58bwMopMC2QPN8Z8) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Chris Embers](https://open.spotify.com/artist/78YcYzYQFoC44mT1rL0dsB) | [Path](https://open.spotify.com/album/0DKq6qtvTHmsJPU1OzyAZK) | 2:36 | 2022-06-17 | 2022-12-24 |
+| [Peaceful Return](https://open.spotify.com/track/3CkQEF6uprf58gOeLe3Mdj) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Peaceful Return](https://open.spotify.com/album/0cfeRbS106R8lu6MBZaEbW) | 2:34 | 2025-10-20 |  |
 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 | 2025-03-05 |  |
 | [Pellegrino](https://open.spotify.com/track/0mNMNk8NPcay74AHyFwzfX) | [Marega](https://open.spotify.com/artist/0Q9yTuKnZnnCAdOpAMmTjl) | [Pro Noel](https://open.spotify.com/album/0gPbklN0zJ4cZZbT0LjeAK) | 2:51 | 2022-06-17 | 2023-10-13 |
 | [Pillow Hymn](https://open.spotify.com/track/2Etxnz6V6sZTsgaa8W6w7g) | [Laurent Ruaud](https://open.spotify.com/artist/0vCWZOklQJPdWDIMiYwP6z) | [Pillow Hymn](https://open.spotify.com/album/740VMPcRZ0LCxILPwzsPXy) | 1:29 | 2022-12-09 | 2023-09-14 |
@@ -490,6 +491,7 @@
 | [Stones](https://open.spotify.com/track/3YKRLvwTVd61lcgM1En09p) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Stones](https://open.spotify.com/album/1ejYgT85tPxlEWBYn5jjpP) | 2:24 | 2022-06-17 | 2024-07-18 |
 | [Strange Encounter](https://open.spotify.com/track/0wy7FZ340c8LFHbbu07od2) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Strange Encounter](https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m) | 2:20 | 2023-03-24 | 2023-06-23 |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-05-19 |  |
+| [Stretch Through](https://open.spotify.com/track/5lwzLUn70mmFyHmX28Lfte) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Stretch Through](https://open.spotify.com/album/5GN2Ge30Mptqc9hpVCmZZH) | 2:18 | 2025-10-20 |  |
 | [Strolling in the park](https://open.spotify.com/track/1FUzID0Dks61wkJMYv8XJO) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Strolling in the park](https://open.spotify.com/album/5ifEiF8AMwRCRpK66JNwUI) | 2:58 | 2025-05-28 | 2025-06-17 |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Summer Rain](https://open.spotify.com/track/3M2tYT2LyJi8tISX7j1pbI) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Summer Rain](https://open.spotify.com/album/7wvfO96xIIFvY8ShoZjatX) | 3:02 | 2024-10-09 |  |
@@ -515,7 +517,7 @@
 | [Telémaco](https://open.spotify.com/track/3qvKQpE2OLPDqho3DM19N1) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Telémaco](https://open.spotify.com/album/6kKjlOBuPfKXQicsIZUmgw) | 2:45 | 2022-06-17 | 2023-05-20 |
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-08 |  |
 | [The Bird's Nest](https://open.spotify.com/track/1tY1E5TeQj4kcZVQQZLUqx) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Bird's Nest](https://open.spotify.com/album/1rFbbm5Ms87iwZR8gVgkUw) | 2:48 | 2022-07-01 | 2023-06-03 |
-| [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
+| [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 | 2025-10-21 |
 | [The Collection](https://open.spotify.com/track/3Ya03j53tWkhHhj1yGdcsk) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Collection](https://open.spotify.com/album/0RzE3dGwanDWLdbtBRSjv5) | 2:38 | 2024-01-12 | 2025-08-19 |
 | [The Day After](https://open.spotify.com/track/0SEbc1pZvxe1TxlSKYkaVa) | [René Aubry](https://open.spotify.com/artist/1dyZDfHcTtUJjx0DFBcOvc) | [The Day After](https://open.spotify.com/album/1jB9O7iadLZAsX27KBYnfu) | 2:03 | 2022-06-17 | 2023-01-20 |
 | [The Day We Met](https://open.spotify.com/track/2jkeX1SMWAkMTHeigflbjh) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Deep Blue Sea](https://open.spotify.com/album/44rNLzjZt8NJYwrfOv5dO8) | 2:41 | 2022-06-17 | 2024-05-10 |
@@ -585,7 +587,7 @@
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 | 2023-06-23 |
 | [Whispered words](https://open.spotify.com/track/4V4lgyWWYZlZB8GtqCwhE9) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Whispered words](https://open.spotify.com/album/3ty7RAPKAWVWv9LVweZsFn) | 2:55 | 2025-02-24 | 2025-04-17 |
 | [Whispers](https://open.spotify.com/track/2c4ViERSzhgBtLW65P61T3) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers](https://open.spotify.com/album/1MteMNxsPxEDfUizlPAefA) | 2:13 | 2025-07-08 |  |
-| [Whispers of Fondne](https://open.spotify.com/track/4IjwqZl1db3DsrO7RtZKJh) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers of Fondne](https://open.spotify.com/album/6lrs71ikfFEAIPB7m4bnoJ) | 2:55 | 2024-02-23 |  |
+| [Whispers of Fondne](https://open.spotify.com/track/4IjwqZl1db3DsrO7RtZKJh) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers of Fondne](https://open.spotify.com/album/6lrs71ikfFEAIPB7m4bnoJ) | 2:55 | 2024-02-23 | 2025-10-21 |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2023-02-25 |
 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-19 | 2023-10-27 |
 | [Wilderness Exit](https://open.spotify.com/track/7MXTBwqSyx2pUURMAT1k7e) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Wilderness Exit](https://open.spotify.com/album/1BblbjzdUHX86Ir6rQTu78) | 4:24 | 2022-07-29 | 2023-04-29 |

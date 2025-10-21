@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Huan62
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,724 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,824 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 47 | [Jordan](https://open.spotify.com/track/01lBbwfpFzwaPE1UA5PBCO) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Jordan](https://open.spotify.com/album/26DlMNvl4XJqWZMxdeaftH) | 2:27 |
 | 48 | [Que Arrebate](https://open.spotify.com/track/35SYYvWMpHSBxbJUv3Md0L) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Que Arrebate](https://open.spotify.com/album/5hvzQKasYaXtHIxCt1VysV) | 3:20 |
 | 49 | [PANTI](https://open.spotify.com/track/1BNzMJ3cpGleoMeDsSZ6p2) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [PANTI](https://open.spotify.com/album/3e2XuMqaMvLP3qIGU7Ha3y) | 2:47 |
-| 50 | [En Nadie Confio](https://open.spotify.com/track/4XbMQcSByOFGC344zOX5f7) | [Yutta](https://open.spotify.com/artist/2fa423JZ6J2wEpJRo92hoO), [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [Bendeta](https://open.spotify.com/artist/2sAjLrZqQTQ1vk7d3oMnZk), [KEPI Publishing LLC](https://open.spotify.com/artist/57wTEXzFHic4hHuKzSL7Gl) | [En Nadie Confio](https://open.spotify.com/album/7qRriMSykoUMLgWj5ylO4m) | 3:21 |
+| 50 | [En Nadie Confio](https://open.spotify.com/track/4XbMQcSByOFGC344zOX5f7) | [Yutta](https://open.spotify.com/artist/2fa423JZ6J2wEpJRo92hoO), [Kiry Curu](https://open.spotify.com/artist/3nb8360gVWO9vWGE16bE9A), [Vendeta](https://open.spotify.com/artist/7r2wRvzjL4bfBXLmebImud), [KEPI Publishing LLC](https://open.spotify.com/artist/57wTEXzFHic4hHuKzSL7Gl) | [En Nadie Confio](https://open.spotify.com/album/7qRriMSykoUMLgWj5ylO4m) | 3:21 |
 | 51 | [BMW](https://open.spotify.com/track/0anUN5hO584TVu17CDRmLW) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L) | [BMW](https://open.spotify.com/album/5UfMKC5dJ4AIAR6WPkAngY) | 1:47 |
 | 52 | [Gano](https://open.spotify.com/track/3MOi9NIVSjF1EMOW64EZ4m) | [GOOD GASOLINA](https://open.spotify.com/artist/3a3dxmEJq9sGLpy2nPGoiF), [FKi 1st](https://open.spotify.com/artist/53ixqKNKVTgtSx3m3DGMA2), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Gano](https://open.spotify.com/album/0pQnXMpSW2GbRmzYFMJnMj) | 2:22 |
 | 53 | [MI Mundo](https://open.spotify.com/track/1t2cIq09tjwpelfwwVfy3v) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Dowel King](https://open.spotify.com/artist/3URdxPH9cqMtltHKf4aPcg) | [MI Mundo](https://open.spotify.com/album/63P1FYlBaJ1uhCds8I9Hcy) | 2:08 |

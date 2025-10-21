@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 140782,
       "name": "Baila de Gasolina",
       "url": "https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY"
@@ -5036,7 +5036,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 245321,
       "name": "Black Box",
       "url": "https://open.spotify.com/track/45c2puZgmaC23MaKgeHda2"
@@ -8458,7 +8458,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 264056,
       "name": "Cloudy Eyes (Dance Tonight)",
       "url": "https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB"
@@ -10797,6 +10797,28 @@
     },
     {
       "album": {
+        "name": "Do You Mind (Crazy Cousins Remix)",
+        "url": "https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx"
+      },
+      "artists": [
+        {
+          "name": "Paleface",
+          "url": "https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8"
+        },
+        {
+          "name": "Crazy Cousins",
+          "url": "https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Do You Mind - Crazy Cousinz Remix",
+      "url": "https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN"
+    },
+    {
+      "album": {
         "name": "Ya Ya Yippee",
         "url": "https://open.spotify.com/album/69cWHRDLRwr6yIzSjoQKTB"
       },
@@ -11346,6 +11368,24 @@
       "duration_ms": 140273,
       "name": "Drink in Moderation",
       "url": "https://open.spotify.com/track/13vW2uIXG0H3IpL4faoPNZ"
+    },
+    {
+      "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/1GbYYljOS6zphPyjcaeyff"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/2K7W7iXlIa6mt5XO479vzy"
     },
     {
       "album": {
@@ -17246,7 +17286,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 194946,
       "name": "How Beautiful This Life Is",
       "url": "https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k"
@@ -24456,6 +24496,24 @@
       "duration_ms": 144466,
       "name": "MATUSHKA ULTRAFUNK",
       "url": "https://open.spotify.com/track/0C3D5rWlsc3u3ElG5ev0xS"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Flew To The Moon (Vol. 1)",
+        "url": "https://open.spotify.com/album/4AOuaSsHC7Y0R7ovt98aEo"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Maui Wowie",
+      "url": "https://open.spotify.com/track/7uJUDd92ZfawO5clVSY0dq"
     },
     {
       "album": {
@@ -33756,7 +33814,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/1bofHa2E6mPWgILo9SmDTG"
@@ -38508,7 +38566,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -38526,7 +38584,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"

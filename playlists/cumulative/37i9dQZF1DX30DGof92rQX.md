@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- NAYEL
 
-334 songs - 17 hr 37 min
+335 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [chaar din](https://open.spotify.com/track/5dS4MpBlfhGzlGCG44khTj) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [political pollution](https://open.spotify.com/album/6DvoAkju3axxF6zsEWOvhU) | 2:27 | 2024-09-09 | 2024-09-14 |
 | [Chal Koi Na](https://open.spotify.com/track/4KvLJRRqcyjqbsuYKYdmnM) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ), [Sabri Sisters](https://open.spotify.com/artist/5LBIpDf0NQMSYa6O42d9Mn) | [Chal Koi Na](https://open.spotify.com/album/0CG5KDe91y7K6nmQhwuglZ) | 4:53 | 2025-07-25 | 2025-10-18 |
 | [Challeya](https://open.spotify.com/track/4SrnLielKwQmBq6rVSfcac) | [Rizwan Anwar](https://open.spotify.com/artist/06ACrU1xT9S6tPcT2junyQ) | [Challeya](https://open.spotify.com/album/0IRTY2JShfDtlA9tHavr3s) | 2:23 | 2024-08-09 | 2024-08-17 |
+| [Chalo Door Kahin](https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Chalo Door Kahin](https://open.spotify.com/album/65sQMiosPhNePUKN2KKlL0) | 2:38 | 2025-10-20 |  |
 | [CHAN MAHIYA](https://open.spotify.com/track/5oln63FrKz5uhd6EQt07Es) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [CHAN MAHIYA](https://open.spotify.com/album/3OqPMuRZBTqCfSGh4oUBuM) | 2:21 | 2025-06-19 | 2025-10-18 |
 | [Chan Mahiya](https://open.spotify.com/track/1iqOIvVu9KWPUgvT5Ky56o) | [Raafay Israr](https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57) | [Chan Mahiya](https://open.spotify.com/album/3e5j4WoJbLcfWSUosoOR9X) | 2:35 | 2025-07-25 |  |
 | [Chan Sajna](https://open.spotify.com/track/6k4HmsQJtOmYuG6SYdKUEw) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Roshaan](https://open.spotify.com/artist/1lrhdYficIOHq2CtRyKci3) | [Chan Sajna](https://open.spotify.com/album/770LrCbg29jIjAqg6O1AfX) | 3:10 | 2024-10-04 | 2024-11-08 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-773 songs - 1 day 14 hr 46 min
+776 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Karma](https://open.spotify.com/track/010b8IrP1Yvs9RvafHRylH) | [Ariadne](https://open.spotify.com/artist/5MTn6h662oQm25nnTVhpnK) | [Karma](https://open.spotify.com/album/1qoOg8XtIGRIUsbbr8rzyI) | 2:53 | 2024-03-08 | 2024-09-29 |
 | [Keep You](https://open.spotify.com/track/0NHGqculuy8Aa1bEerrGtS) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Keep You](https://open.spotify.com/album/5dunVmIKUec2zaq5rJeFe5) | 2:42 | 2024-01-26 | 2024-12-09 |
 | [KHARMA](https://open.spotify.com/track/2GMWUfoFmwy5KO4XZCcW3R) | [Christopher Damas](https://open.spotify.com/artist/03sZi1EjCnl0b3Irnqa9NJ) | [KHARMA](https://open.spotify.com/album/0wNUgo1LK6wv3R0Ot4imWF) | 1:38 | 2024-03-27 | 2024-05-23 |
+| [KILL ZONE](https://open.spotify.com/track/10QQjmucQgBlrKc0RPh2i2) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [KILL ZONE](https://open.spotify.com/album/2p2T64NBnD9KObNPGmeLZP) | 2:03 | 2025-10-20 |  |
 | [La Manera De Vivir](https://open.spotify.com/track/7C2OMLPtQsbQgcOiyFytzA) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [ÆSTRØ](https://open.spotify.com/artist/4JXD4saaiFlOBWXhDPtj4F) | [La Manera De Vivir](https://open.spotify.com/album/2cfbzv0R430XWmjtKPSQ7Q) | 2:06 | 2023-02-02 | 2023-08-10 |
 | [LA VIBE](https://open.spotify.com/track/4pgmtdYruqcV7gcT1uky56) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [LA VIBE](https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7) | 2:12 | 2023-02-03 | 2023-08-10 |
 | [Lachrymose](https://open.spotify.com/track/6NIoYuKRXmbklQdh6uPryZ) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 3:29 | 2023-06-23 | 2023-08-10 |
@@ -516,6 +517,7 @@
 | [Only The Fallen](https://open.spotify.com/track/7pZ4Ry6amHpyDyyIa79HAl) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Only The Fallen](https://open.spotify.com/album/5ceqUHXf2JdrWOzqaZcz2t) | 3:15 | 2024-03-07 | 2024-09-29 |
 | [ordinary / horrifying](https://open.spotify.com/track/6q4tuFgBe7g1bcxKblLhz3) | [updog](https://open.spotify.com/artist/1s5ZfyjywLsAr7PY4pmldn) | [ordinary / horrifying](https://open.spotify.com/album/7uE7ZmDrsJN4ImAjrXBoS2) | 3:44 | 2023-07-07 | 2023-08-10 |
 | [Orphic Night](https://open.spotify.com/track/2pHUAHfX7hSoLdBZ8wALnP) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Orphic Night](https://open.spotify.com/album/4rrzK0Cbp95qcjH0p9oPsc) | 2:56 | 2023-06-08 | 2023-08-10 |
+| [Out Loud](https://open.spotify.com/track/3ZzzMP3Uvr3SQu6aFKmTbb) | [Xaron](https://open.spotify.com/artist/7MS6GFUsSbDdEvh9VMzgfD) | [Out Loud](https://open.spotify.com/album/1OH5LYKKTmZkwHoTR8Dd41) | 2:19 | 2025-10-20 |  |
 | [Out Of Here](https://open.spotify.com/track/1RpmCnc7AjpDYqacXYRLZY) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Out Of Here](https://open.spotify.com/album/6WL6RJfNBi89mntTBIvKua) | 2:14 | 2022-08-30 | 2023-04-28 |
 | [Outlaw](https://open.spotify.com/track/5awR3rcKJQL6SVlGZyf4Hp) | [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Miss Mary](https://open.spotify.com/artist/20Nu1SnynFyv0kzuPmaqxP) | [Outlaw](https://open.spotify.com/album/3D9ILKGMsIp3lFGsUjX14X) | 4:20 | 2023-12-13 | 2024-04-17 |
 | [Over The Sun \(Pt\. 2\)](https://open.spotify.com/track/5am1Z9nOgSjMqpQiFpl9zh) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [Over The Sun](https://open.spotify.com/album/0510k3Jl4VjegKyNqUw3Fq) | 2:41 | 2023-07-14 | 2023-08-10 |
@@ -730,6 +732,7 @@
 | [Want Your Body](https://open.spotify.com/track/4BVdyQn5EMDxHNlTQXOOMy) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Want Your Body](https://open.spotify.com/album/35RnRZJVg3gttpOsVE3v4d) | 2:48 | 2025-08-08 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 | 2023-08-10 |
 | [War Zone](https://open.spotify.com/track/134KuDqugUFSbDUk0kZmLk) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [War Zone](https://open.spotify.com/album/7rlRz6xYkbFHIGGxMOvuB2) | 3:03 | 2023-08-08 | 2023-12-14 |
+| [Warrior](https://open.spotify.com/track/1vdBgZHuVCTG7YJZdY2FGr) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Warrior](https://open.spotify.com/album/2opw2lG8l1NSCREhRzT7U7) | 2:42 | 2025-10-20 |  |
 | [Warzone](https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Warzone](https://open.spotify.com/album/5aRklPNMfncol1femV9Meq) | 2:42 | 2024-07-03 |  |
 | [Waves](https://open.spotify.com/track/6qp33z152vB5FvAcjRhqvw) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Waves](https://open.spotify.com/album/2XcoOnNaaDZ86i5F3RdP2g) | 4:27 | 2023-12-13 | 2024-02-28 |
 | [We Are](https://open.spotify.com/track/5sMEi6i03q7JUh2xRTL02D) | [Jo Cohen](https://open.spotify.com/artist/0Szh8DhUXEL2iujQ9cdS4q), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [NCS: The Best of 2016](https://open.spotify.com/album/2PbNOsRy7jYiiljcig1xeQ) | 3:56 | 2023-08-08 | 2023-12-14 |

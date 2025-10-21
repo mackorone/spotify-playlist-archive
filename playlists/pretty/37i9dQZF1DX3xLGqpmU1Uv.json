@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 177559,
+  "num_followers": 177594,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
-        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 132933,
-      "name": "La Plaga (Good Golly, Miss Molly)",
-      "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
         "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 155480,
       "name": "Hey Paula - Dueto con Arturo",
       "url": "https://open.spotify.com/track/3pay7GhZw0W6rJKej4Lz0C"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 132933,
+      "name": "La Plaga (Good Golly, Miss Molly)",
+      "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
-        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Popotitos (Bonie Moroni)",
-      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/2eEwURlPtjbdcA9z4Peru1"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 114106,
       "name": "Aburrida y Sola (Si Je Chante)",
       "url": "https://open.spotify.com/track/3Lk23aMjEWyoALysLnQmjz"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Los Teen Tops",
+        "url": "https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Popotitos (Bonie Moroni)",
+      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -720,13 +720,13 @@
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
         }
       ],
-      "duration_ms": 166603,
-      "name": "Tumbaloflesicodelicomicoso",
-      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
+      "duration_ms": 111211,
+      "name": "Tema Del Elefantito",
+      "url": "https://open.spotify.com/track/58sFSHe9jClg9giSmlG1rH"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -736,13 +736,13 @@
       },
       "artists": [
         {
-          "name": "Gustavo Pimentel",
-          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 111211,
-      "name": "Tema Del Elefantito",
-      "url": "https://open.spotify.com/track/58sFSHe9jClg9giSmlG1rH"
+      "duration_ms": 166603,
+      "name": "Tumbaloflesicodelicomicoso",
+      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
     },
     {
       "added_at": "2024-07-12 13:46:41",

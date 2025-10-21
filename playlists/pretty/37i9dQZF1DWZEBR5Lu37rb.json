@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 109333,
+  "num_followers": 109435,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -615,30 +615,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
-        "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
-      },
-      "artists": [
-        {
-          "name": "Sha Sha",
-          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 444474,
-      "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Ogechi",
         "url": "https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 152133,
       "name": "Ogechi",
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
+        "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
+      },
+      "artists": [
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 444474,
+      "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Densu",
+        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
+      },
+      "artists": [
+        {
+          "name": "Kojo Antwi",
+          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
+        }
+      ],
+      "duration_ms": 367186,
+      "name": "Ammrika",
+      "url": "https://open.spotify.com/track/6b97eun6nbpKF6YGo3CxbT"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Asante",
         "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 261250,
       "name": "Unajua (feat. Wendy Kimani)",
       "url": "https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Densu",
-        "url": "https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c"
-      },
-      "artists": [
-        {
-          "name": "Kojo Antwi",
-          "url": "https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D"
-        }
-      ],
-      "duration_ms": 367186,
-      "name": "Ammrika",
-      "url": "https://open.spotify.com/track/6b97eun6nbpKF6YGo3CxbT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "ODO",
-        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "ODO",
-      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Wena",
         "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 270652,
       "name": "Wena",
       "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "ODO",
+        "url": "https://open.spotify.com/album/767cvHiLzCJBzufXLwZg7i"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "ODO",
+      "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ"
+      },
+      "artists": [
+        {
+          "name": "Presss",
+          "url": "https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354"
+        }
+      ],
+      "duration_ms": 293711,
+      "name": "Thojana Ya Thesele",
+      "url": "https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 191893,
       "name": "Number One",
       "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/0CxWCMOQE9Cqtq90rLLsCJ"
-      },
-      "artists": [
-        {
-          "name": "Presss",
-          "url": "https://open.spotify.com/artist/4zvrxiTj59PqL9vRzQI354"
-        }
-      ],
-      "duration_ms": 293711,
-      "name": "Thojana Ya Thesele",
-      "url": "https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1811,22 +1811,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "ndi a mufuna",
-        "url": "https://open.spotify.com/album/6eNg5XolUtAnDvjErz443m"
+        "name": "Give You Love",
+        "url": "https://open.spotify.com/album/26m3VR0pkxErF4DFGu95bl"
       },
       "artists": [
         {
-          "name": "Una Rams",
-          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
         },
         {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 230220,
-      "name": "ndi a mufuna",
-      "url": "https://open.spotify.com/track/77tYFh2yrMXaaycbWyw2o2"
+      "duration_ms": 234605,
+      "name": "Give You Love",
+      "url": "https://open.spotify.com/track/2nDZqi7S7CtFmwFXw5V8V5"
     }
   ],
   "unique_name": "100 Best African Love Songs ",

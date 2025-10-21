@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-898 songs - 1 day 14 hr 43 min
+900 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Sirius](https://open.spotify.com/track/0SeZxemKR9G0OZ9peDOMjK) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Sirius](https://open.spotify.com/album/6uhWaOInvJrT8zV8YbGiN6) | 1:52 | 2023-01-06 | 2023-08-19 |
 | [Situatie](https://open.spotify.com/track/6gppQeAHYa7eary500daO1) | [Elle Vorink](https://open.spotify.com/artist/1qY54CD9iY4Y5yKywqCYqG) | [Situatie](https://open.spotify.com/album/398miCQf8mAmxGt7agtqGI) | 3:09 | 2021-12-08 | 2023-05-13 |
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 | 2024-06-01 |
+| [Slow Return](https://open.spotify.com/track/5VTYBHbwlbIk6bIeZaJR15) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Slow Return](https://open.spotify.com/album/0TwF3XFncWiSPJEKUcsrr7) | 2:54 | 2025-10-20 |  |
 | [Slowly Moments](https://open.spotify.com/track/0mnj0mPIYL05zr8WAHS9MN) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Slowly Moments](https://open.spotify.com/album/3as2aYAMd8ZPbo4WZI5UgG) | 2:06 | 2025-08-11 |  |
 | [Smile](https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Smile](https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k) | 2:20 | 2025-01-07 |  |
 | [Snowbound](https://open.spotify.com/track/1qcfNVwh2pXCbXYMkzLw8l) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Snowbound](https://open.spotify.com/album/2pDaJIUSykL55ow4EzScl0) | 2:40 | 2022-11-18 | 2023-05-13 |
@@ -857,6 +858,7 @@
 | [Vineyard romance](https://open.spotify.com/track/0hrERSWlhyvqO1hb6EvDCS) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Vineyard romance](https://open.spotify.com/album/7jXnSO5CjtNIYU6e7g3hfa) | 2:02 | 2023-03-10 | 2025-06-17 |
 | [Vintervisa](https://open.spotify.com/track/6qFynggiuKEUNZrzjuuzWQ) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Vintervisa](https://open.spotify.com/album/4LVE0PGhIdMkOmfch01eKl) | 1:44 | 2022-12-09 | 2023-08-19 |
 | [Viola](https://open.spotify.com/track/5RV00BhineeA8Pridv87II) | [R.J\. Smith](https://open.spotify.com/artist/0ViPLqxFKIDH5MH3YaTN28) | [Viola](https://open.spotify.com/album/2lWNoK5SqMEQw5DmmohMr9) | 3:09 | 2021-12-08 | 2022-09-09 |
+| [Violetta](https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Violetta](https://open.spotify.com/album/17n0FEGM4SbdV0cRQ8OeTN) | 2:42 | 2025-10-20 |  |
 | [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
 | [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 | 2025-03-10 | 2025-07-09 |
 | [Volar con el viento](https://open.spotify.com/track/22LSqWnEYxqZeJOSOMlp4C) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Volar con el viento](https://open.spotify.com/album/7quiaEPm1wVGreNGivVaeK) | 2:37 | 2021-12-08 | 2022-09-03 |

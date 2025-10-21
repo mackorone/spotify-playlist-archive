@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124872,
+  "num_followers": 124862,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUslnet2PeXC3tMX4+OFdZ4te7cLYY",
+  "snapshot_id": "AAAUtAlqY8jI36fvDpMOUt13JlJzS10e",
   "tracks": [
+    {
+      "added_at": "2025-10-20 17:34:03",
+      "album": {
+        "name": "Cultus",
+        "url": "https://open.spotify.com/album/1ZzyEhGp8NFbLR9ZaCYfap"
+      },
+      "artists": [
+        {
+          "name": "Screamarts",
+          "url": "https://open.spotify.com/artist/2WLKRiOp43XLwVhRdt46mH"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "Cultus",
+      "url": "https://open.spotify.com/track/606HUTqRzUBZfaKbQE2A4n"
+    },
     {
       "added_at": "2025-10-17 14:41:38",
       "album": {

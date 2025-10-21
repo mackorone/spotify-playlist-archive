@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 345 songs - 19 hr 51 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 349 songs - 20 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -353,5 +353,9 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 343 | [Glaciers of Ice \(feat\. Ghostface Killah & Masta Killa\)](https://open.spotify.com/track/0qldEqAtjaDY4Gfl4h8oS7) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 5:20 |
 | 344 | [Car Thief](https://open.spotify.com/track/6z6ug1DvIzTdel6vW8rHVu) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 3:39 |
 | 345 | [Apostle's Warning](https://open.spotify.com/track/1rkCDpUKvtVToCIwwPetBZ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:01 |
+| 346 | [Up North Trip](https://open.spotify.com/track/7KQvT4YuzcmyogWg7Gq4Z5) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 4:58 |
+| 347 | [Stay Cool](https://open.spotify.com/track/268FMyd9ACqcOoItVvaukp) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [The Tipping Point](https://open.spotify.com/album/2fw2PxmN6epMmz6qZXXNLn) | 3:34 |
+| 348 | [Escapism \(Gettin' Free\)](https://open.spotify.com/track/0zU1YeSFKtFx9lh7y05giH) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 3:24 |
+| 349 | [Think Twice](https://open.spotify.com/track/1Fi4hB1McCYFJeG1Q6jpNg) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/7BWhIFnxTALf0r3HWRiupG) | 3:28 |
 
-Snapshot ID: `AAAfImpMWtFIPG++9A7sfwx5cua0nYdr`
+Snapshot ID: `AAAfJuXVuDmVJeSmQ8XchGFcD24SL93Z`

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 44177,
+  "num_followers": 44199,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Charkha Chanan Da - Single",
-        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
-      },
-      "artists": [
-        {
-          "name": "Vanitaa Pande",
-          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
-        }
-      ],
-      "duration_ms": 161359,
-      "name": "Charkha Chanan Da",
-      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
         "name": "Wedding Songs Of Punjab Volume 2",
         "url": "https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2"
       },
@@ -835,22 +819,18 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Laung Gawacha",
-        "url": "https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa"
+        "name": "Charkha Chanan Da - Single",
+        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
       },
       "artists": [
         {
-          "name": "Japleen Kaur",
-          "url": "https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK"
-        },
-        {
-          "name": "Insane Muzik",
-          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+          "name": "Vanitaa Pande",
+          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Laung Gawacha",
-      "url": "https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2"
+      "duration_ms": 161359,
+      "name": "Charkha Chanan Da",
+      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -883,6 +863,26 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
+        "name": "Laung Gawacha",
+        "url": "https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa"
+      },
+      "artists": [
+        {
+          "name": "Japleen Kaur",
+          "url": "https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Laung Gawacha",
+      "url": "https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
         "name": "Pher Auna Hai",
         "url": "https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 506831,
       "name": "Pher Auna Hai",
       "url": "https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
+        "name": "Mehndi (Punjabi Wedding Songs)",
+        "url": "https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S"
+      },
+      "artists": [
+        {
+          "name": "Madan Bala Sindhu",
+          "url": "https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv"
+        }
+      ],
+      "duration_ms": 261378,
+      "name": "Punjabi Wedding Boliyan",
+      "url": "https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -919,22 +935,6 @@
       "duration_ms": 147500,
       "name": "Suhe Ve Cheere Waliya Chill Flip",
       "url": "https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
-        "name": "Mehndi (Punjabi Wedding Songs)",
-        "url": "https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S"
-      },
-      "artists": [
-        {
-          "name": "Madan Bala Sindhu",
-          "url": "https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv"
-        }
-      ],
-      "duration_ms": 261378,
-      "name": "Punjabi Wedding Boliyan",
-      "url": "https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j"
     }
   ],
   "unique_name": "Folk Punjabi",

@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-196 songs - 9 hr 43 min
+198 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Perfidia](https://open.spotify.com/track/5WQ5a7ixw5DJ5uyQZGD8FP) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:58 | 2022-03-03 | 2025-01-14 |
 | [Popurri Revolucionario](https://open.spotify.com/track/3IoOITvmTADnF8t8alXoWP) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Guitarras Mexicanas](https://open.spotify.com/album/69KhYjVvtpMvTH0bf0rlPv) | 7:12 | 2022-03-03 | 2022-05-27 |
 | [Por Mi Algun Dia Vendras](https://open.spotify.com/track/51FyeJufmEKsnAvs0UXfpw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Por Mi Algun Dia Vendras](https://open.spotify.com/album/6W9Mi99vA15orWdmxqptJu) | 3:03 | 2022-03-03 |  |
+| [Portinari](https://open.spotify.com/track/35USnhAKetfjiZ21ywcU8a) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Portinari](https://open.spotify.com/album/7yeFLW7Tdz9if068I3nWEn) | 2:15 | 2025-10-20 |  |
 | [Preciosa](https://open.spotify.com/track/0QCxaAab6D7LfafCUEKgzb) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Preciosa](https://open.spotify.com/album/0pglYJR5nQuBRyBjYiNfgN) | 2:34 | 2025-10-01 |  |
 | [Prelude No\. 1 in C Major, WTC Book 1, BWV 846](https://open.spotify.com/track/5ePhbFerpWhHshbjjMjwGQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [Prelude No\. 1 in C Major, WTC Book 1, BWV 846](https://open.spotify.com/album/0c4fPYpn8VLYE6lUdKeIVW) | 2:13 | 2022-09-17 | 2023-09-01 |
 | [Preludio No\. 3](https://open.spotify.com/track/2VCUwRLBHxqTscPd3NfOCP) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: Preludio No\. 3](https://open.spotify.com/album/3X1sZmEBYuVDwutGnrUm7D) | 0:36 | 2022-06-24 | 2022-07-22 |
@@ -168,6 +169,7 @@
 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 | 2022-03-03 |  |
 | [Somewhere In Between](https://open.spotify.com/track/6LQycnoIFwhHV30LJE4Q8G) | [Anila Mirela](https://open.spotify.com/artist/5ZyBxKhm8yMw8HCMWE5u3b) | [Somewhere In Between](https://open.spotify.com/album/19wUyXRjqtW5VcOqoiTMSd) | 2:23 | 2022-03-03 | 2022-07-15 |
 | [Sonata Bwv 1001 \- \(Siciliano\)](https://open.spotify.com/track/0m2bd4V456cYNWWM1AIW0g) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Adrián Montero](https://open.spotify.com/artist/081MBszlzVJ1QTxXrlotY3) | [Sonatas & Partita](https://open.spotify.com/album/4CI2y9jPflgEFP9FXdgy2d) | 3:04 | 2022-05-27 | 2024-07-18 |
+| [Stars](https://open.spotify.com/track/1vF22s3CRpZRbOuplV9jql) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Stars](https://open.spotify.com/album/020pJe0xdiidQg4fW2oHRU) | 2:15 | 2025-10-20 |  |
 | [Straight Through My Heart](https://open.spotify.com/track/0LBN0uMXR5sJ7WSxFF8c3A) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Straight Through My Heart](https://open.spotify.com/album/5ozSncuInN9MHvJ6LPJ6I2) | 3:01 | 2024-06-07 |  |
 | [Suave](https://open.spotify.com/track/4MTpIFPmOhMuasTQLHoEtm) | [Roman Ticker](https://open.spotify.com/artist/2N3alU1QULBStjDC38TldG) | [Ipanema Dreams](https://open.spotify.com/album/5t9rpIS1nZA3QUu0WezT4X) | 2:08 | 2022-03-03 | 2022-07-22 |
 | [Summer Bolero](https://open.spotify.com/track/2TpnRrHffsh7aeYgPWrGdK) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Summer Bolero](https://open.spotify.com/album/5FOX3HXCU2JH47vrNSUnAy) | 3:19 | 2022-03-03 | 2025-02-25 |

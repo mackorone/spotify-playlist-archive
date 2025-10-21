@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103625,
+  "num_followers": 103627,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAAAsMYF/imChH+ZbnPoGeXdj",
+  "snapshot_id": "aPQqAAAAAAB4oa2gjTq2wo18FLydjRF3",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 210319,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Greatest Showman: Reimagined",
         "url": "https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 227226,
       "name": "Come Alive - Bonus Track",
       "url": "https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 210319,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
     },
     {
       "added_at": null,
@@ -615,22 +615,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra (feat. Craig David)",
-        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
       "artists": [
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Kirsten Joy",
+          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Abracadabra (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
+      "duration_ms": 209133,
+      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
+      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
     },
     {
       "added_at": null,
@@ -655,26 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Is Love? (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+        "name": "Abracadabra (feat. Craig David)",
+        "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         },
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Kirsten Joy",
-          "url": "https://open.spotify.com/artist/3B7EiiOFeFjX4MuvV7QQil"
         }
       ],
-      "duration_ms": 209133,
-      "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
-      "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
+      "duration_ms": 155076,
+      "name": "Abracadabra (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
     },
     {
       "added_at": null,

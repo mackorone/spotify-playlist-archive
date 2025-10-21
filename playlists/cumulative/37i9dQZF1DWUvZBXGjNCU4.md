@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-412 songs - 18 hr 30 min
+415 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-05-13 | 2024-04-06 |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-05-13 | 2023-03-11 |
 | [Echoes of the Past](https://open.spotify.com/track/2St2TvHIluz7NkdgTcEMEv) | [Xavier Carrington](https://open.spotify.com/artist/0JDZapKabh58jXFvcSqZRB) | [Echoes of the Past](https://open.spotify.com/album/6EZc29CJCqoxrDqMUzxVBQ) | 2:36 | 2024-06-14 |  |
+| [Eckford](https://open.spotify.com/track/2DYAGD7F0dtmSfXJyJbjVH) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Eckford](https://open.spotify.com/album/3MWclRCQpSpo0fwyEntFy1) | 2:23 | 2025-10-20 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 | 2023-04-28 |
 | [Electric Bell](https://open.spotify.com/track/73Dn5KXykn7zPlwN41u8sl) | [Flynn Simmons](https://open.spotify.com/artist/50KiISa7MC3LSlXZmn30Go) | [Electric Bell](https://open.spotify.com/album/7L7ZULdyivBdSeHQHbcTq9) | 1:56 | 2022-05-13 | 2022-06-10 |
 | [Elise's Autumn](https://open.spotify.com/track/03sZBPPuTTAYBvGv2jWw6L) | [Cassian Haines](https://open.spotify.com/artist/6q2o3TWKwqqVzVO9aGstM7) | [Elise's Autumn](https://open.spotify.com/album/2euPNgFzRFotvaAP4jWzUU) | 2:42 | 2024-11-26 | 2025-04-03 |
@@ -128,6 +129,7 @@
 | [Fields](https://open.spotify.com/track/6iXzzfVie4I5FvTU2XYRij) | [Eric Nilson](https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd) | [Fields](https://open.spotify.com/album/6eRatVkktAPBJPEZJHGRC6) | 2:25 | 2025-08-26 |  |
 | [Fields Of Gold](https://open.spotify.com/track/303Xdw0tJcUWO9fMxDQL7v) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Fields Of Gold](https://open.spotify.com/album/59HJhRBvQLAL9qFodslbBm) | 2:34 | 2023-03-10 | 2023-06-23 |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-05-13 | 2024-04-20 |
+| [Filled with Doubts](https://open.spotify.com/track/42RK9yQ4FpnPYPxb1GgzZ8) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Filled with Doubts](https://open.spotify.com/album/2gInFv5SSmSw745kUVhgx9) | 2:21 | 2025-10-20 |  |
 | [Fireflies](https://open.spotify.com/track/2D5hOoRVyJ4xH0RIgA1zdV) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Fireflies](https://open.spotify.com/album/76DkXVXBRZytK2M86SMOSe) | 2:25 | 2025-08-06 |  |
 | [Fireside Advice](https://open.spotify.com/track/7iTdFFyKwyyXilahbjI7y2) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Fireside Advice](https://open.spotify.com/album/27H173Ifhecw83QcLkdreV) | 3:03 | 2022-05-13 | 2024-12-18 |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-05-13 | 2024-04-06 |
@@ -414,6 +416,7 @@
 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 | 2022-05-13 | 2023-02-25 |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 |  |
 | [Wooden Ships](https://open.spotify.com/track/3mVD4qVdm9PP5iQCO2kCUF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Wooden Ships](https://open.spotify.com/album/4Ti9pNgFaj6CeGESu1f2ld) | 2:48 | 2022-10-07 |  |
+| [Woodlands](https://open.spotify.com/track/47FXbGZeRxDTW7nKHQ7f4a) | [Ralph Couvert](https://open.spotify.com/artist/2rM55HuW8Su40glESzyjoa) | [Woodlands](https://open.spotify.com/album/34ib1KFCwy42QKfMncr47Z) | 2:44 | 2025-10-20 |  |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-06-10 |
 | [You And I](https://open.spotify.com/track/5O4RUMAcxxW5wp2xSZgJGA) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [You And I](https://open.spotify.com/album/52j0T9y4wXx64YmnUCMGSK) | 2:33 | 2024-05-10 |  |
 | [You Will Never Understand](https://open.spotify.com/track/2c5HAbpl8XOnc4a5LybluN) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [You Will Never Understand](https://open.spotify.com/album/3br5iGGaBreqQ9OjcT9osL) | 4:32 | 2022-05-13 | 2023-04-28 |

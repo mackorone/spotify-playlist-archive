@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-351 songs - 1 day 8 hr 42 min
+352 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Distance](https://open.spotify.com/track/2c3TM6Zp1IHd3insEzf9ar) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj) | [New Electronic Folk and the Floor](https://open.spotify.com/album/5pROYlIuHsXwxFV6PWRtnW) | 5:38 | 2023-02-10 | 2023-03-04 |
 | [Distant Love](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 | 2023-10-27 |  |
 | [DJ Made My Day](https://open.spotify.com/track/4zbglHXk900LOnyiYjE5E0) | [Cores](https://open.spotify.com/artist/7cPTd41SGeifvTvz4DmK9M) | [DJ Made my Day](https://open.spotify.com/album/3MZ6b7jejIQC4NxGdlYmYm) | 3:40 | 2023-12-08 | 2024-11-09 |
+| [do or die](https://open.spotify.com/track/6JjCSWys9okuJOZjuKs4oP) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [do or die](https://open.spotify.com/album/7LQHvrifx6A0oDIdmeQyBm) | 6:12 | 2025-10-20 |  |
 | [Dogma](https://open.spotify.com/track/28kaib03MtXJvmteD4AJXc) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Dogma](https://open.spotify.com/album/0Ae7fSikzEg1JR1JHx46og) | 3:09 | 2024-01-26 | 2024-02-17 |
 | [Dominator \- Rebūke Remix](https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP) | [Human Resource](https://open.spotify.com/artist/28LgRKFEN8GXeORbdViP7t), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dominator \(Rebūke Remix\)](https://open.spotify.com/album/7n6n1dLOtrxPa3HV29b1Vr) | 3:59 | 2022-09-16 | 2024-01-27 |
 | [Don't Tell Me What To Do](https://open.spotify.com/track/2dbaQq1LoOyNbCKYAfInGR) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Don't Tell Me What To Do](https://open.spotify.com/album/46NY1vRxqvzKgryniof1iJ) | 5:41 | 2023-07-14 | 2023-10-07 |

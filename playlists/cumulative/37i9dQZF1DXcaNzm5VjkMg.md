@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-182 songs - 12 hr 16 min
+183 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Bila Kau Tak Disampingku](https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:16 | 2025-05-06 |  |
 | [Bila Memang Kamu](https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr) | [Betrand Putra Onsu](https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c) | [Bila Memang Kamu](https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB) | 3:51 | 2025-01-07 |  |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2024-02-13 | 2025-07-01 |
+| [Bola Mata Sayu](https://open.spotify.com/track/5nMAuxzQxAb4k5FYFKkSYt) | [DNANDA](https://open.spotify.com/artist/45llK0vUDYIrW1vz7fv1Ti) | [Bola Mata Sayu](https://open.spotify.com/album/7bn897QnFkuEBJDv3IF73s) | 3:43 | 2025-10-20 |  |
 | [Bunga Jiwaku](https://open.spotify.com/track/2edAglJ6sNF8MmLkV8Dp0R) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Bunga Jiwaku](https://open.spotify.com/album/5zp9TCY4Nb0bhXbcEl5WsF) | 3:17 | 2025-03-05 |  |
 | [Candu](https://open.spotify.com/track/4kDBfrFG8jktvEku2lQFEH) | [giring ganesha](https://open.spotify.com/artist/6nmlDBlWRpZq98um38LuEW) | [Serigala](https://open.spotify.com/album/7kGXgXNlQLhpGjv8VLo1RV) | 3:55 | 2024-09-27 | 2025-07-01 |
 | [Caraku, Caramu](https://open.spotify.com/track/5VvU0BRvnOvnedAjZodsKQ) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:39 | 2023-09-20 | 2024-02-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Håkan Hellström, Molly Sandén, Tame Impala med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,769 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,756 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 30 | [Mötte en majorna blomma](https://open.spotify.com/track/2d6Y32fxlkcrTr2W0VzKIY) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svensk Rost](https://open.spotify.com/album/4WajYbYTC43tWcQx6E0OOu) | 3:49 |
 | 31 | [Only a Cloud](https://open.spotify.com/track/1Dtt5DvQXCUn7oyHbUsBlF) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Funny Weather](https://open.spotify.com/album/23JGOUVZWY6hPFjRcOyQkS) | 3:42 |
 | 32 | [dollar signs](https://open.spotify.com/track/3g6PIFCw7VYqNmEVjvFMpT) | [Linda Bugatti](https://open.spotify.com/artist/4LabL0cr3Mywm4XkLUpgan) | [dollar signs](https://open.spotify.com/album/0bz4nPn56mOeu5b6D6U0BP) | 2:41 |
-| 33 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 33 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 34 | [MURDA TOWN](https://open.spotify.com/track/4e5R2JMhJ7v6U3KAxwk4uC) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [MURDA TOWN](https://open.spotify.com/album/5v0S0iwX2oCmjIEJiY3aaT) | 1:52 |
 | 35 | [T MAX](https://open.spotify.com/track/5y5OF08jOC9lptdKmbXaTD) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [T MAX](https://open.spotify.com/album/0owmoCnBWbv1RD9oMhhLXV) | 2:42 |
 | 36 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |

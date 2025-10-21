@@ -4,7 +4,7 @@
 
 > أغاني من فلسطين وإليها
 
-153 songs - 9 hr 42 min
+154 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Everyland](https://open.spotify.com/track/6kdczMJQLiW7DD6sQ66QpC) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Shamstep](https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM) | 5:11 | 2021-08-29 | 2025-10-13 |
 | [Falasteen Biladi](https://open.spotify.com/track/3DQd65qIsTcxZfWtvIlxii) | [Humood AlKhudher](https://open.spotify.com/artist/0m5YepvtZWhXhNhAqrc50S) | [Falasteen Biladi](https://open.spotify.com/album/0lipqQa237rW9LEJrGOiMG) | 3:21 | 2025-10-12 |  |
 | [Falastin Taj 3al Rass](https://open.spotify.com/track/14OYhSOWxVYipT1JcezpfS) | [Muhannad Khalaf](https://open.spotify.com/artist/7dhc5bHorRHHPuM5SvCKIt), [Maher Halabi](https://open.spotify.com/artist/71IwshggZ6W2w83V1b0rTC) | [Falastin Taj 3al Rass](https://open.spotify.com/album/1xXtdNvp2ILwyr1Pc3SrON) | 4:37 | 2025-10-12 |  |
-| [Farhetna El\-Lieleh](https://open.spotify.com/track/6NantgNTzHg1yUTRujLQ68) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Farhetna El\-Lieleh](https://open.spotify.com/album/3jqGfwpnFLmsZs7XfNZOt0) | 4:46 | 2025-10-12 |  |
+| [Farhetna El\-Lieleh](https://open.spotify.com/track/6NantgNTzHg1yUTRujLQ68) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Farhetna El\-Lieleh](https://open.spotify.com/album/3jqGfwpnFLmsZs7XfNZOt0) | 4:46 | 2025-10-12 | 2025-10-21 |
 | [Fi Balad](https://open.spotify.com/track/6UfojkByhQd6xk8OKKtFA4) | [Shadi Zaqtan](https://open.spotify.com/artist/5HRVCmuBf5fJhNsuxho0Uj) | [Rough Guide To Palestine](https://open.spotify.com/album/6KqivdlFFRzj6KmAVSGL0I) | 5:15 | 2021-08-29 | 2025-01-20 |
 | [Fil Sayara](https://open.spotify.com/track/4c9gDRmjE6lOYeQicSsiMP) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH), [RTGAL](https://open.spotify.com/artist/1g4EDvkU7vH8Z3jNTTm2rL) | [Fil Sayara](https://open.spotify.com/album/1b4v0ng1qWyAIzlA5NViuc) | 2:49 | 2025-10-12 |  |
 | [Free Palestine](https://open.spotify.com/track/64q1CGvo0Xy2zcIY3P3Y5N) | [Abe Batshon](https://open.spotify.com/artist/7L9recBwKoPNkkdVZcri4M) | [Free Palestine](https://open.spotify.com/album/1Vtr06ZXiHa1N8URiFKjuk) | 2:45 | 2021-08-29 | 2022-01-21 |
@@ -70,6 +70,7 @@
 | [Ibn Gaza](https://open.spotify.com/track/4QCpIFfyrpHuIICOGYpN2J) | [Laith Abu Joda](https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m) | [Ibn Gaza](https://open.spotify.com/album/3Rp6oJKIE5zQrMptdWzrgh) | 1:21 | 2024-05-28 | 2025-10-13 |
 | [Inn Ann](https://open.spotify.com/track/4FTGTibd0V8qZOTMwx7lG7) | [Daboor](https://open.spotify.com/artist/7kYd4AxupgMona77xBcxXy), [Shabjdeed](https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95), [Al Nather](https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl) | [El Gad3ana](https://open.spotify.com/album/2ObAguu7dgbrezv0oK0492) | 3:13 | 2021-08-29 | 2025-10-13 |
 | [Killing The Game](https://open.spotify.com/track/4ly0Ru87w8fphGaHiL4LIv) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Killing The Game](https://open.spotify.com/album/49uleJjxcPQ1cxQU1HzsZ1) | 2:21 | 2023-09-06 | 2025-10-13 |
+| [kollo lena \- كله لينا](https://open.spotify.com/track/5jeSen7p7VP3x7x7ZrLUME) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [AWDA \- عودة](https://open.spotify.com/album/3hXBH2apQYcgAzJ4abv5Aj) | 3:42 | 2025-10-20 |  |
 | [Kounili El Musica](https://open.spotify.com/track/4UcpiWGup7TKr1NkqaBrQ7) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Kounili El Musica](https://open.spotify.com/album/77e5W1q40rJcSAJjt7GA1p) | 2:55 | 2021-08-29 | 2025-10-13 |
 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 | 2021-08-29 | 2025-10-13 |
 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 | 2025-10-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚  Grupo Frontera y Ozuna en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,972 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,013 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 79 | [Patrullon](https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Clase Personal](https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg) | [Patrullon](https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP) | 2:38 |
 | 80 | [MI CHAPARRITA](https://open.spotify.com/track/6pjHjg49rOhtd7exEXNANR) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [MI CHAPARRITA](https://open.spotify.com/album/0IGx5BV3eDjpin3rBbEOw0) | 2:35 |
 
-Snapshot ID: `AAAAAI86uQ74OiX3nU+2SKxVZnG3yLVU`
+Snapshot ID: `AAAAAC1ly5FD3voUiZQ1p6JY1W3Z9cYv`

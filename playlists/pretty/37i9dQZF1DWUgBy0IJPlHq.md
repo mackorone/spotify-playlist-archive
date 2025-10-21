@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,721 likes - 96 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,703 likes - 96 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

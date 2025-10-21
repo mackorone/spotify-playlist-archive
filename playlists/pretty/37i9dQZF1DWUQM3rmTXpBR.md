@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: Jadal
+> Alternative Arabic songs\. Cover: Autostrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,303 likes - 40 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,311 likes - 40 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yumain O Leila](https://open.spotify.com/track/08NqxhwtQzKtRdPtRSBuTR) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Malyoun](https://open.spotify.com/album/1Sxmi03WJhcGlccCwPXSDM) | 7:53 |
-| 2 | [Bas7ab Kalami بسحب كلامي](https://open.spotify.com/track/30Bkjnh9HaUgxAF6SBb1fP) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Bas7ab Kalami بسحب كلامي](https://open.spotify.com/album/5oFTSkuZ3KzhrQfZr3oSTi) | 3:41 |
+| 1 | [Bas7ab Kalami بسحب كلامي](https://open.spotify.com/track/30Bkjnh9HaUgxAF6SBb1fP) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Bas7ab Kalami بسحب كلامي](https://open.spotify.com/album/5oFTSkuZ3KzhrQfZr3oSTi) | 3:41 |
+| 2 | [Yumain O Leila](https://open.spotify.com/track/08NqxhwtQzKtRdPtRSBuTR) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Malyoun](https://open.spotify.com/album/1Sxmi03WJhcGlccCwPXSDM) | 7:53 |
 | 3 | [Tayer](https://open.spotify.com/track/0NmkoiRoMdCjJgDB3f6AuD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Tayer](https://open.spotify.com/album/1OYkpatYdj2FS7cvAW4aHy) | 2:54 |
 | 4 | [Fasateen](https://open.spotify.com/track/5tpNaf6YHv1pxv6WJba1GA) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [Mashrou' Leila](https://open.spotify.com/album/4bOxUbTKHcHrkEJqNjeJir) | 3:02 |
 | 5 | [Wainek Min Zaman](https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS) | [Yazan Haifawi](https://open.spotify.com/artist/1XNUjQOaJHx64HU5plUCdO) | [Wahad](https://open.spotify.com/album/50h20MwAWGy4qMiA1eueuV) | 3:13 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 39 | [Akherto Lahen Hazeen](https://open.spotify.com/track/5ICwSVcHQYL0PWHjrU1noZ) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Converse Culture](https://open.spotify.com/album/2DbMSYmjCEbNwXk3WpXgr0) | 4:14 |
 | 40 | [Bekya](https://open.spotify.com/track/635XgbgINyBrET4Wn460mD) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Bekya](https://open.spotify.com/album/2qkoYNbpKaahlMilC3749B) | 2:51 |
 
-Snapshot ID: `AAAAAI8NX6DzWGkmlI/vtVyZ6Fo+ezhg`
+Snapshot ID: `AAAAAOOq9mgPTepW2LKmUvmN+sgrygvs`

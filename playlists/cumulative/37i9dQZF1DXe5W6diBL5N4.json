@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: TWS) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: Hearts2Hearts) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 166000,
       "name": "5, 4, 3 (Pretty woman) (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq"
@@ -20381,6 +20381,24 @@
     },
     {
       "album": {
+        "name": "Human Eclipse",
+        "url": "https://open.spotify.com/album/286nF6tCYa5QvWPiDYuUjj"
+      },
+      "artists": [
+        {
+          "name": "Hebi",
+          "url": "https://open.spotify.com/artist/0hJZEIh0mcRY6wl5LAlpDv"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Be I",
+      "url": "https://open.spotify.com/track/11vDBdkojRlrrvAjuuOx6j"
+    },
+    {
+      "album": {
         "name": "Love Your Enemy OST Part 5",
         "url": "https://open.spotify.com/album/1PBN1fQvVPWWWtxq72Cl4t"
       },
@@ -22736,6 +22754,24 @@
       "duration_ms": 192543,
       "name": "Before I Met You",
       "url": "https://open.spotify.com/track/05YWcAQiLkA88HTz5QHtY7"
+    },
+    {
+      "album": {
+        "name": "Before Love",
+        "url": "https://open.spotify.com/album/12NS4M30oqznlTJPmBWMC0"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Before Love",
+      "url": "https://open.spotify.com/track/2lKrSfIqw1HKPZt8SMSk14"
     },
     {
       "album": {
@@ -72903,6 +72939,24 @@
     },
     {
       "album": {
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+    },
+    {
+      "album": {
         "name": "MUSIC FOR WAITING ROOMS Vol.1",
         "url": "https://open.spotify.com/album/4M3JlJA3T13e6fWk3Yz7SB"
       },
@@ -75148,6 +75202,28 @@
       "duration_ms": 169973,
       "name": "Freak",
       "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
+    },
+    {
+      "album": {
+        "name": "BM 2nd EP 'PO:INT'",
+        "url": "https://open.spotify.com/album/7ipLXUuM0bH6x0KqgVf5hG"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152598,
+      "name": "Freak (feat. B.I)",
+      "url": "https://open.spotify.com/track/5GdoKcuSrMMbj2vhR9hWwR"
     },
     {
       "album": {
@@ -77628,7 +77704,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 213066,
       "name": "GENIE",
       "url": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V"
@@ -90484,7 +90560,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 408375,
       "name": "Highlife",
       "url": "https://open.spotify.com/track/2Dgx4vP98hJoWRTtEUwqOO"
@@ -91267,6 +91343,24 @@
     },
     {
       "album": {
+        "name": "Music Flip Book Page.1 Hold Me",
+        "url": "https://open.spotify.com/album/3aS5HkAjUSHyygOXcY12PB"
+      },
+      "artists": [
+        {
+          "name": "LEE BORAM",
+          "url": "https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194085,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/2cBRTCWWpW0TBDMCryRoAG"
+    },
+    {
+      "album": {
         "name": "Hold me Kiss me Love me",
         "url": "https://open.spotify.com/album/3Z1f1a238dmmG3kG36F6A3"
       },
@@ -91660,6 +91754,24 @@
       "duration_ms": 427140,
       "name": "Hollow Season (Feat. INE, C JAMM, YUNHWAY)",
       "url": "https://open.spotify.com/track/19ED83SfC8QW8MJhy9Gxsh"
+    },
+    {
+      "album": {
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Hollywood Action",
+      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
     },
     {
       "album": {
@@ -107268,7 +107380,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 195531,
       "name": "IFall",
       "url": "https://open.spotify.com/track/6PxIy5w30O0noEkOs4BrxG"
@@ -116168,7 +116280,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 237352,
       "name": "Just One More Day With You",
       "url": "https://open.spotify.com/track/55qTqSQDBLtMaF4d3WNkOu"
@@ -128528,7 +128640,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 218000,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/4fwOzaIOJV36WL00HLm4gZ"
@@ -135248,7 +135360,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 190333,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7fCIUW8du1T2rVtIvi4UVl"
@@ -141134,7 +141246,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 147352,
       "name": "MIDNIGHT CALL",
       "url": "https://open.spotify.com/track/3DDcAWAKPIYb6qQH71XFMf"
@@ -149316,6 +149428,24 @@
       "duration_ms": 235333,
       "name": "My Star",
       "url": "https://open.spotify.com/track/5RlY9uV6pWC8HWTUy8HBbA"
+    },
+    {
+      "album": {
+        "name": "My star",
+        "url": "https://open.spotify.com/album/1qlznH1GRH7VBXxd1AZ9Xs"
+      },
+      "artists": [
+        {
+          "name": "O.WHEN",
+          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194261,
+      "name": "My star",
+      "url": "https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU"
     },
     {
       "album": {
@@ -159983,6 +160113,24 @@
     },
     {
       "album": {
+        "name": "Ms. Incognito, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/60T71YohZmrn0ibsHHFc8W"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw"
+    },
+    {
+      "album": {
         "name": "Bravo, My Life OST Part.22",
         "url": "https://open.spotify.com/album/6fO2QlYj99BKEMsO51qX64"
       },
@@ -164578,6 +164726,24 @@
       "duration_ms": 195146,
       "name": "OVERDRIVE (English Ver.)",
       "url": "https://open.spotify.com/track/52RU9Lvg66w5Jg9ENBdfpf"
+    },
+    {
+      "album": {
+        "name": "Overdrop",
+        "url": "https://open.spotify.com/album/325EKa2TySalGhdEW189DI"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Overdrop",
+      "url": "https://open.spotify.com/track/13o6UaRfD4OO1hkWy4ZcWC"
     },
     {
       "album": {
@@ -171676,7 +171842,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 204322,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
@@ -174343,6 +174509,24 @@
     },
     {
       "album": {
+        "name": "Rain in Love",
+        "url": "https://open.spotify.com/album/5YwnhGagaTAIQBZ7r06ASA"
+      },
+      "artists": [
+        {
+          "name": "Celine",
+          "url": "https://open.spotify.com/artist/3J7tZnIqjKIVt3p1NGpy1Q"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264725,
+      "name": "Rain in Love",
+      "url": "https://open.spotify.com/track/1cgPX52SGqCVa7aNAgZUpN"
+    },
+    {
+      "album": {
         "name": "Rain Like You",
         "url": "https://open.spotify.com/album/5bBzHMAjh5L3UPZsl6TuOL"
       },
@@ -174856,6 +175040,24 @@
       "duration_ms": 228000,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/1M6C1J4oiKAPYIIQyIviuS"
+    },
+    {
+      "album": {
+        "name": "Project Weather Forecast \u2169 7th",
+        "url": "https://open.spotify.com/album/5WOexkyaHu75qQ8l8MrLBs"
+      },
+      "artists": [
+        {
+          "name": "KIM YOUNGHEUM",
+          "url": "https://open.spotify.com/artist/4aIJgOMlBlNDc7pxXKGJeW"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/0rX74bZo4y2pdUZ01LmYoA"
     },
     {
       "album": {
@@ -178397,6 +178599,44 @@
     },
     {
       "album": {
+        "name": "Rhyme time remix",
+        "url": "https://open.spotify.com/album/7gY6nZo76KRpEFtKyBzLbl"
+      },
+      "artists": [
+        {
+          "name": "Brown Tigger",
+          "url": "https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH"
+        },
+        {
+          "name": "Olltii",
+          "url": "https://open.spotify.com/artist/1l1VfoWjli9N3MJH2tAWCA"
+        },
+        {
+          "name": "\uc815\uc0c1\uc218",
+          "url": "https://open.spotify.com/artist/5r3uAJ7gBuc6i0eyMR3Lx4"
+        },
+        {
+          "name": "CHERRY BOY 17",
+          "url": "https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc"
+        },
+        {
+          "name": "Yumewanaii",
+          "url": "https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8"
+        },
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301463,
+      "name": "Rhyme time remix (feat. Olltii, Jeong Sang su, Cherry boy 17, Yumewanaii, Jo Gwang il)",
+      "url": "https://open.spotify.com/track/6qdEcXhaBuww6IqE0vNQNo"
+    },
+    {
+      "album": {
         "name": "RHYMING",
         "url": "https://open.spotify.com/album/4dv7zcF9l7r6WdbB3pPXuX"
       },
@@ -181296,7 +181536,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 185000,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
@@ -190446,7 +190686,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 248611,
       "name": "Sigh",
       "url": "https://open.spotify.com/track/0fRve1sUUxoddzywGaS1xt"
@@ -209970,7 +210210,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 161071,
       "name": "take it anymore",
       "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
@@ -221258,6 +221498,24 @@
       "duration_ms": 204184,
       "name": "Tiki-taka of Love",
       "url": "https://open.spotify.com/track/26klCY10W3wlfDFbQpCLkN"
+    },
+    {
+      "album": {
+        "name": "Rise Into You \u2013 LUVITA 1st Single",
+        "url": "https://open.spotify.com/album/2SiRBjGFyqoWtKFyaVfWBd"
+      },
+      "artists": [
+        {
+          "name": "LUVITA",
+          "url": "https://open.spotify.com/artist/2bchPFXohBAJulvPYCDCth"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192462,
+      "name": "TIKITA",
+      "url": "https://open.spotify.com/track/3x4iGHcWBa2lSvo5JdRMtg"
     },
     {
       "album": {
@@ -233003,6 +233261,24 @@
     },
     {
       "album": {
+        "name": "waiting for you",
+        "url": "https://open.spotify.com/album/7DzixkEBQqW3O8mY0U7uiD"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197843,
+      "name": "waiting for you",
+      "url": "https://open.spotify.com/track/7BhfKoeEjLYYyWFkFHe1Tu"
+    },
+    {
+      "album": {
         "name": "Waiting Fou You (CURTAIN CALL OST Part.1)",
         "url": "https://open.spotify.com/album/3XwhlL7dKkT3PaTBlqLRZf"
       },
@@ -242228,7 +242504,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 184000,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/3p2pmzfh1NPvJhbYcGZHqo"
@@ -263013,6 +263289,24 @@
     },
     {
       "album": {
+        "name": "\ucc2c\ub780(\u71e6\u721b)",
+        "url": "https://open.spotify.com/album/2buOB4Dk2YEX8ndYlhW51K"
+      },
+      "artists": [
+        {
+          "name": "Lee Chanwon",
+          "url": "https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\uc624\ub298\uc740 \uc660\uc9c0",
+      "url": "https://open.spotify.com/track/49RNeK0atHxpgYniFXAQYE"
+    },
+    {
+      "album": {
         "name": "\uc624\ub298\uc758 \uc6f9\ud230 (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk"
       },
@@ -264162,7 +264456,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 189251,
       "name": "\uc774\ubcc4\uc77c \uc904 \ubab0\ub790\uc5b4",
       "url": "https://open.spotify.com/track/1JupMPIoMs9wfbvZfrKO0B"
@@ -265480,7 +265774,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 164000,
       "name": "\ucc98\uc74c \ubd88\ub7ec\ubcf4\ub294 \ub178\ub798 (My First Love Song)",
       "url": "https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm"

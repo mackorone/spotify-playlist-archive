@@ -4,12 +4,13 @@
 
 > All in us! ITZY is back!
 
-197 songs - 10 hr 18 min
+201 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Twenty](https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 2:54 | 2022-07-22 | 2024-04-19 |
 | [\#Twenty](https://open.spotify.com/track/3CTZlHDyGpbzNyRCsPbdMK) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 2:54 | 2022-04-20 |  |
+| [21](https://open.spotify.com/track/2PPWmaG3n3r0CO42zfpBsd) | [CHAERYEONG \(ITZY\)](https://open.spotify.com/artist/73nPXEFs9tGCNmSOcqFHPs) | [Who Is She OST Part.1](https://open.spotify.com/album/5AqjwQPTDMDQMux3k7zC9P) | 2:56 | 2025-10-21 |  |
 | [24HRS](https://open.spotify.com/track/14TxLhdCi8gfO49n7RT2W6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 2:07 | 2022-04-20 |  |
 | [24HRS](https://open.spotify.com/track/5aNuBrqbdJ8r9qFZHliWxR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 2:07 | 2022-07-22 | 2024-04-19 |
 | [365](https://open.spotify.com/track/0nV75BOrSyRuU11DtIhv0U) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:05 | 2022-07-15 |  |
@@ -132,6 +133,7 @@
 | [Not Shy \- English Ver.](https://open.spotify.com/track/2p0WmvGmzE3mKr3lc6ZB9g) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) | 2:57 | 2022-07-22 | 2024-04-19 |
 | [Not Shy \- English Ver.](https://open.spotify.com/track/7tEE2ICgZzdrCblRl7eLdV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL) | 2:57 | 2022-04-20 |  |
 | [Not Shy \- Japanese ver.](https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 2:57 | 2022-04-20 |  |
+| [One Day](https://open.spotify.com/track/1TmUlYvtxNvj8jFEoRsHzw) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Ms\. Incognito, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/60T71YohZmrn0ibsHHFc8W) | 3:29 | 2025-10-21 |  |
 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 | 2023-05-28 |  |
 | [Out of season](https://open.spotify.com/track/2122bKUfRdsUUsEM9jOD9Y) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 2:15 | 2025-10-10 |  |
 | [Playlist](https://open.spotify.com/track/0fDeofONl8z64x8zlrLgWR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:44 | 2023-10-17 |  |
@@ -196,10 +198,12 @@
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-04-20 |  |
 | [WHAT I WANT](https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:23 | 2022-07-22 | 2024-04-19 |
 | [WHAT I WANT](https://open.spotify.com/track/2zs9JUIjwWkveqL7el19Aq) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:23 | 2022-07-15 |  |
+| [Why Not](https://open.spotify.com/track/3UglLo3ovkcEgGgOqIL6xb) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\)](https://open.spotify.com/album/1uIS3JdcmAvXplOIQGSFKK) | 2:58 | 2025-10-21 |  |
 | [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 | 2024-12-05 |  |
 | [Wild Wild West](https://open.spotify.com/track/3mRcVmaJlodmb7eensMMfZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:23 | 2022-07-22 | 2024-04-19 |
 | [Wild Wild West](https://open.spotify.com/track/6oN3gPWl6ULGgq8EkslcBk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:23 | 2022-04-20 |  |
 | [Wind Ride](https://open.spotify.com/track/46Mzt7BTfI8ptSNLaxBVA0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:08 | 2025-10-10 |  |
+| [WOODAHE](https://open.spotify.com/track/5zqwFI0qVuC5sDN5v96hLp) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5), [Choo young woo](https://open.spotify.com/artist/46ALFLjuto4s9T9TA6HJi2) | [The Tale of Lady Ok \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4bn8lLRe75VygKRdJ9zA3L) | 3:30 | 2025-10-21 |  |
 | [Yet, but \(YUNA\)](https://open.spotify.com/track/4GHHnfAZlbftjqy4YB69J3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:25 | 2024-01-08 |  |
 | [Yet, but \(YUNA\)](https://open.spotify.com/track/5xvvYrp0VcaigWP088jybs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:25 | 2024-01-08 | 2024-04-19 |
 | [YOU MAKE ME](https://open.spotify.com/track/3ehpqyAGlcbI6Qx2bbawcx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:03 | 2022-07-22 | 2024-04-19 |

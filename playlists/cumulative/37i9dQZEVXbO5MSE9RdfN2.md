@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-2,142 songs - 4 day 18 hr 14 min
+2,143 songs - 4 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2025-06-16 | 2025-06-25 |
 | [Club classics](https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:33 | 2024-06-13 | 2024-06-23 |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-01-29 | 2024-01-31 |
-| [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-10-14 |  |
+| [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-10-14 | 2025-10-21 |
 | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/track/597xDoReZvNnlEoN0IVpVk) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:28 | 2024-12-06 | 2024-12-18 |
 | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4zSeX6VgtIZHLgIz2hJT3p) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Cocktail Molotov \(from the series Arcane League of Legends\)](https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA) | 2:28 | 2024-12-03 | 2024-12-07 |
 | [Cocky Little Kid](https://open.spotify.com/track/16FDQMsiJhgv9jtxay6tMb) | [Young LS](https://open.spotify.com/artist/0ZErOUYhX8mr0KT0SA8zOE) | [Cocky Little Kid](https://open.spotify.com/album/62VayEyUAZU03Uk4SOQvzS) | 2:14 | 2025-04-20 | 2025-05-17 |
@@ -857,6 +857,7 @@
 | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu) | 2:41 | 2024-11-26 | 2024-12-06 |
 | [I Can't Hear It Now \- from the series Arcane League of Legends](https://open.spotify.com/track/4l4J1USPK4D1yTdMtOifQ2) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:41 | 2024-12-01 | 2024-12-05 |
 | [I Feel Alive \(from “A Minecraft Movie”\)](https://open.spotify.com/track/1b0glc1z1S4pDyU9WCKohN) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [I Feel Alive \(from "A Minecraft Movie"\)](https://open.spotify.com/album/06GP0d361nDvlMMr8FDSM1) | 4:06 | 2025-04-11 | 2025-04-20 |
+| [I Found My Smile Again \(Radio Edit\)](https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [I Found My Smile Again](https://open.spotify.com/album/2DuxNAsjra84Q3zYu1LG6I) | 4:00 | 2025-10-20 |  |
 | [I Got A New One](https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [I Got A New One](https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922) | 2:25 | 2024-12-24 | 2025-01-15 |
 | [I Got A New One](https://open.spotify.com/track/6Xl0Nn4PXWkF6lKTbjBCNb) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [I Got A New One](https://open.spotify.com/album/30gEIiNcA58YBYHUPr2eFo) | 2:25 | 2025-06-02 | 2025-06-09 |
 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 | 2025-03-04 | 2025-03-09 |

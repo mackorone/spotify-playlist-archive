@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 157435,
+  "num_followers": 157512,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "808:88:98",
-        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
-      },
-      "artists": [
-        {
-          "name": "808 State",
-          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Pacific 707",
-      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "9 PM (Till I Come)",
         "url": "https://open.spotify.com/album/428Ab5xsfGFbb1wnxofCHz"
       },
@@ -903,8 +887,24 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Halfway Between The Gutter And The Stars",
-        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
+        "name": "808:88:98",
+        "url": "https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3"
+      },
+      "artists": [
+        {
+          "name": "808 State",
+          "url": "https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Pacific 707",
+      "url": "https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "You've Come A Long Way Baby",
+        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 345893,
-      "name": "Weapon Of Choice",
-      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
+      "duration_ms": 413880,
+      "name": "Rockafeller Skank",
+      "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -987,8 +987,8 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "You've Come A Long Way Baby",
-        "url": "https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L"
+        "name": "Halfway Between The Gutter And The Stars",
+        "url": "https://open.spotify.com/album/3Y4bIqSYLUyyLO0ZxIGpst"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 413880,
-      "name": "Rockafeller Skank",
-      "url": "https://open.spotify.com/track/5KgBcFl3sjhGTa5PStoHMp"
+      "duration_ms": 345893,
+      "name": "Weapon Of Choice",
+      "url": "https://open.spotify.com/track/3ozrQkhWEaiDUNcjuguoja"
     },
     {
       "added_at": "2021-07-14 17:36:34",

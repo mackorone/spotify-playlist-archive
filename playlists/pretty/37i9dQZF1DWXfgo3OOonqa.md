@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,313 likes - 147 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,310 likes - 147 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Narco Corrido](https://open.spotify.com/track/5PqJODSNsHfTtdpQyAYud2) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Narco Corrido](https://open.spotify.com/album/7GtkZHbsUyn5HQ5ssEtYfI) | 1:53 |
-| 2 | [EURO & KRONOR](https://open.spotify.com/track/0L37clseWYmcdXsAvuCAb1) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [EURO & KRONOR](https://open.spotify.com/album/4dTsPKpxGRtnkuOAdSenfe) | 2:05 |
-| 3 | [Content](https://open.spotify.com/track/1vXsEIE4S8wsRGm2V8YO1L) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Content](https://open.spotify.com/album/37Kh4LJdPQl3gwqk3V5klw) | 2:20 |
-| 4 | [SANTA](https://open.spotify.com/track/7s7viVLB8ydWFoeKa8p5pF) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SANTA](https://open.spotify.com/album/3RAx4RXxOvgi4TPzkXWXpc) | 2:41 |
-| 5 | [MURDA TOWN](https://open.spotify.com/track/4e5R2JMhJ7v6U3KAxwk4uC) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [MURDA TOWN](https://open.spotify.com/album/5v0S0iwX2oCmjIEJiY3aaT) | 1:52 |
-| 6 | [Hatkärlek](https://open.spotify.com/track/2MnUjcTRzfZSHLTf4idZgz) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [DÄR & DÅ](https://open.spotify.com/album/6OtxYr8OdGDHOdJrBdzpE4) | 2:44 |
-| 7 | [Fall in love](https://open.spotify.com/track/3UF5eebbLooD8OAKFqu1hO) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 2:47 |
-| 8 | [T MAX](https://open.spotify.com/track/5y5OF08jOC9lptdKmbXaTD) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [T MAX](https://open.spotify.com/album/0owmoCnBWbv1RD9oMhhLXV) | 2:42 |
+| 2 | [Content](https://open.spotify.com/track/1vXsEIE4S8wsRGm2V8YO1L) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Content](https://open.spotify.com/album/37Kh4LJdPQl3gwqk3V5klw) | 2:20 |
+| 3 | [MURDA TOWN](https://open.spotify.com/track/4e5R2JMhJ7v6U3KAxwk4uC) | [Mukki](https://open.spotify.com/artist/3ajzLIlWCy0ypXarTE871Y) | [MURDA TOWN](https://open.spotify.com/album/5v0S0iwX2oCmjIEJiY3aaT) | 1:52 |
+| 4 | [EURO & KRONOR](https://open.spotify.com/track/0L37clseWYmcdXsAvuCAb1) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [EURO & KRONOR](https://open.spotify.com/album/4dTsPKpxGRtnkuOAdSenfe) | 2:05 |
+| 5 | [SANTA](https://open.spotify.com/track/7s7viVLB8ydWFoeKa8p5pF) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SANTA](https://open.spotify.com/album/3RAx4RXxOvgi4TPzkXWXpc) | 2:41 |
+| 6 | [T MAX](https://open.spotify.com/track/5y5OF08jOC9lptdKmbXaTD) | [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [T MAX](https://open.spotify.com/album/0owmoCnBWbv1RD9oMhhLXV) | 2:42 |
+| 7 | [Hatkärlek](https://open.spotify.com/track/2MnUjcTRzfZSHLTf4idZgz) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13), [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [DÄR & DÅ](https://open.spotify.com/album/6OtxYr8OdGDHOdJrBdzpE4) | 2:44 |
+| 8 | [Fall in love](https://open.spotify.com/track/3UF5eebbLooD8OAKFqu1hO) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 2:47 |
 | 9 | [Mama](https://open.spotify.com/track/4ZxtZdrci2m0gODoRIbVzc) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Mama](https://open.spotify.com/album/4b6z4aF15XG89yRgmfkgcI) | 2:01 |
-| 10 | [Run It Up](https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Run It Up](https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1) | 2:03 |
-| 11 | [Säkerhet](https://open.spotify.com/track/1oqftNDvC9Jyp7ieMER9Gk) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Säkerhet](https://open.spotify.com/album/7xVt3KOOuXTwrrulftN94u) | 2:02 |
-| 12 | [Afterlove](https://open.spotify.com/track/5XaN8E7tWye1DLFd64sPPT) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 1:56 |
-| 13 | [Minns Du?](https://open.spotify.com/track/0GBnih92Ya1rWLwAT6YQFm) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW), [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Minns Du?](https://open.spotify.com/album/19M4dY8q81Dr9QIg5HSQGF) | 2:24 |
-| 14 | [Ambulance](https://open.spotify.com/track/3gwe30ICIhG6jDWrivneQr) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Ambulance](https://open.spotify.com/album/4mMuFChzAYkRRqs7KT8Erd) | 2:35 |
-| 15 | [Parallella Världar](https://open.spotify.com/track/3JNPZzPHZk9Fnu9dQgbXhU) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [Parallella Världar](https://open.spotify.com/album/29IjrUrKQ9mWproeAb7T6J) | 2:14 |
+| 10 | [Parallella Världar](https://open.spotify.com/track/3JNPZzPHZk9Fnu9dQgbXhU) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [Parallella Världar](https://open.spotify.com/album/29IjrUrKQ9mWproeAb7T6J) | 2:14 |
+| 11 | [Run It Up](https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Run It Up](https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1) | 2:03 |
+| 12 | [Säkerhet](https://open.spotify.com/track/1oqftNDvC9Jyp7ieMER9Gk) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Säkerhet](https://open.spotify.com/album/7xVt3KOOuXTwrrulftN94u) | 2:02 |
+| 13 | [Afterlove](https://open.spotify.com/track/5XaN8E7tWye1DLFd64sPPT) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 1:56 |
+| 14 | [Minns Du?](https://open.spotify.com/track/0GBnih92Ya1rWLwAT6YQFm) | [Joel Nordenberg](https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW), [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Minns Du?](https://open.spotify.com/album/19M4dY8q81Dr9QIg5HSQGF) | 2:24 |
+| 15 | [Ambulance](https://open.spotify.com/track/3gwe30ICIhG6jDWrivneQr) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Ambulance](https://open.spotify.com/album/4mMuFChzAYkRRqs7KT8Erd) | 2:35 |
 | 16 | [Company](https://open.spotify.com/track/0I9cramjRY1fpCA4DMh7nO) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Company](https://open.spotify.com/album/2KZIwIytMJJS07thxsHtZw) | 2:24 |
 | 17 | [Like Me](https://open.spotify.com/track/5CUPWlYqRnEgC3h5a0qw3l) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Lélé](https://open.spotify.com/artist/71awvpNTodNScyQQYMELrl), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Like Me](https://open.spotify.com/album/1srvlevZZsU35tVwqTKst3) | 2:36 |
 | 18 | [RÄDDA MIG](https://open.spotify.com/track/1xwdqewVV9KauB0xprlrZw) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [RÄDDA MIG](https://open.spotify.com/album/23uO6xT5yvDElMC0ddJEUW) | 2:56 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 146 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
 | 147 | [OBAMA](https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [OBAMA](https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp) | 2:10 |
 
-Snapshot ID: `AAAAADX/nOu9OV3jXkqHZyRI0qzd9KnP`
+Snapshot ID: `AAAAAEoQ/58Dq2LPjzDtBujQAtE/zXB/`

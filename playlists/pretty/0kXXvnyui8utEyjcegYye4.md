@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 333 songs - 19 hr 47 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 335 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -341,5 +341,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 331 | [Jerk It Out](https://open.spotify.com/track/1bx7OUl2UmAnA5oZkm9If7) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Jerk It Out](https://open.spotify.com/album/1D5ebxOCFrG8U6p98zZHCi) | 3:15 |
 | 332 | [MONTAGEM UNFOUND 2 \- Slowed](https://open.spotify.com/track/213q21omFjVGHe09HPtowq) | [DJ FallThox](https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN), [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K) | [MONTAGEM UNFOUND 2](https://open.spotify.com/album/5tk8LYvJPWmP989IfZU3dn) | 1:58 |
 | 333 | [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 |
+| 334 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 |
+| 335 | [Papaoutai](https://open.spotify.com/track/34dx8DACTJsc3rsJdaEIQw) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [racine carrée](https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM) | 3:52 |
 
-Snapshot ID: `AAADfl5NRSnJDX/de14EIsbaCLfNN21z`
+Snapshot ID: `AAADgBrSYuP4wA5Mgdm9tfIRd+ZsnBj5`

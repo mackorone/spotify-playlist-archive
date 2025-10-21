@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,148 songs - 2 day 22 hr 44 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,149 songs - 2 day 22 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1156,5 +1156,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1146 | [See You On Monday \(You're Lost\)](https://open.spotify.com/track/4dReLsqSqYhrC83Qgg7Lyx) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:34 |
 | 1147 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
 | 1148 | [End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:12 |
+| 1149 | [Copycats](https://open.spotify.com/track/0N8aH4DmGUEZWJMo6WVPbY) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Copycats](https://open.spotify.com/album/0KJ0nrsNiDP2bAbW0OBgmd) | 2:51 |
 
-Snapshot ID: `AAAJYvfpReo33aiRW894dDbPf+F2tDlb`
+Snapshot ID: `AAAJY3heIwaYNr1yPYu0og7+zF2rAikG`

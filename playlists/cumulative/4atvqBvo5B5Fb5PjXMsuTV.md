@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 Oct 18:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 21 Oct 03:05 UTC.
 
-5,690 songs - 13 day 4 hr 49 min
+5,691 songs - 13 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [7 Horses](https://open.spotify.com/track/6Y6zRzq4Vu01TiEvp0cIcI) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [7 Horses](https://open.spotify.com/album/4wPS9o2EKkC3fX1q1Zhynd) | 4:22 | 2024-09-17 | 2024-09-20 |
 | [70 De Grade](https://open.spotify.com/track/290VWceE1PQqfj3tIqHbEZ) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [70 De Grade](https://open.spotify.com/album/5mqTP2YNFlsAKwxvH9BFUa) | 2:33 | 2024-06-04 | 2024-06-06 |
 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 | 2024-07-12 | 2024-07-16 |
+| [8](https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [8](https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe) | 4:50 | 2025-10-21 |  |
 | [8.6 BLACKOUT](https://open.spotify.com/track/7iO63Uh5PncPAneiyITz7R) | [Disembodied Tyrant](https://open.spotify.com/artist/6Mik5bw5uqwmpwjvc5PGYk) | [8.6 BLACKOUT](https://open.spotify.com/album/6JqgKZZqJ7DMOL9HKi6c3b) | 4:50 | 2025-03-13 | 2025-03-22 |
 | [808mafia](https://open.spotify.com/track/7k5pY9KttW463wLTUosWKN) | [Mlody Korden](https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE) | [808mafia](https://open.spotify.com/album/3yTpZT6DEFeXcCN8FsKntd) | 2:57 | 2024-08-27 | 2024-08-30 |
 | [80qm](https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [80qm](https://open.spotify.com/album/5nNXcTFibANjNbLye2jMLU) | 2:19 | 2024-05-24 | 2024-05-26 |
@@ -4305,7 +4306,7 @@
 | [Siamese](https://open.spotify.com/track/57cAezEiSowEg7WaCnmUec) | [Marlon DuBois](https://open.spotify.com/artist/74l7WkwYdR2NKr2pHXgkqm) | [Siamese](https://open.spotify.com/album/2IZkqCjYAmclSV4Od8zGOd) | 2:35 | 2024-08-06 | 2024-08-08 |
 | [Sick Dogs](https://open.spotify.com/track/4zSJjTUpERCuyfsTNJGyve) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Sick Dogs](https://open.spotify.com/album/1TRnUbi4ZhpAhEdmfMWjow) | 3:29 | 2024-11-29 | 2024-12-05 |
 | [Sick N Tied](https://open.spotify.com/track/3KrH0ie8p2l5ArQKJFCYTT) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [I'll Get Over It](https://open.spotify.com/album/0ENMF6rjyX4fyFmo3RxfXj) | 2:38 | 2024-12-06 | 2024-12-11 |
-| [Sick Sad World](https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Sick Sad World](https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9) | 2:53 | 2025-10-14 |  |
+| [Sick Sad World](https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Sick Sad World](https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9) | 2:53 | 2025-10-14 | 2025-10-21 |
 | [Siege Lord](https://open.spotify.com/track/4vmT3Rruzg7N0SCKJTI96u) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Siege Lord](https://open.spotify.com/album/3O1MrlUbcvMZgXlwbZKEuP) | 3:25 | 2024-05-02 | 2024-05-04 |
 | [SIGMA](https://open.spotify.com/track/4vfm50GzceHAl5bIN05vrM) | [Kollegah](https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y) | [SIGMA](https://open.spotify.com/album/6HfYRGgHEoPNvsDJhQOoAL) | 4:48 | 2024-06-14 | 2024-06-17 |
 | [Sign](https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p) | 3:35 | 2024-07-08 | 2024-07-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Tame Impala, Charlie Puth, Ayra Starr & Rema au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,372 likes - 95 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,353 likes - 95 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 20 | [Tell Me](https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Tell Me](https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP) | 2:49 |
 | 21 | [Shiver](https://open.spotify.com/track/7LELCG925qTk4tUUtA15QK) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Shiver](https://open.spotify.com/album/1T1vxDsOwkdzIIeabdcWDG) | 2:42 |
 | 22 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
-| 23 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 23 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 24 | [Dali \(feat\. Zamdane\)](https://open.spotify.com/track/3KxCw6J3i9Lxt8N9RAxz1U) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Dali \(feat\. Zamdane\)](https://open.spotify.com/album/23Eu8mk9m5d4iLwCvf6F7d) | 4:07 |
 | 25 | [Angoon](https://open.spotify.com/track/27NgYmhycKoSle3UnPoyWO) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Angoon](https://open.spotify.com/album/7qt0LK9fNoVez7gDTcY0V6) | 4:37 |
 | 26 | [I Don't Know](https://open.spotify.com/track/3VpsX3FQtzuT5disfvvA5x) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Erika](https://open.spotify.com/artist/5N9lpSK39RSCDkLxPNH4KC) | [I Don't Know](https://open.spotify.com/album/0zxrmP9YHEiryYUVlgseI8) | 2:36 |

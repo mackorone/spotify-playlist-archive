@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Tim Godfrey and Oxlade
 
-6,482 songs - 19 day 18 hr 46 min
+6,483 songs - 19 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Already Won \- Remix](https://open.spotify.com/track/58ESHcEBF0CCHpXyU7xGSL) | [Sydney Chris](https://open.spotify.com/artist/6QrYy3oTRYovXP3IT4Bv3s), [Feiboky](https://open.spotify.com/artist/54C7KuGlyN5e8WPyWUJYMw) | [Already Won \(Remix\)](https://open.spotify.com/album/3icSGIho17VAkneydjepOg) | 2:59 | 2024-08-16 | 2024-08-30 |
 | [Alright](https://open.spotify.com/track/5NEPLFHsKe8RSzwshmCavm) | [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32), [Enamor](https://open.spotify.com/artist/7u0pT8vOnJQ9HSSYppOaki) | [Alright](https://open.spotify.com/album/4qNapoJwWX0wshQbbw0Two) | 3:45 | 2023-06-30 | 2023-07-14 |
 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 | 2024-01-26 | 2024-02-09 |
+| [Altar of Grace](https://open.spotify.com/track/7giV3Mce11fogKDytZtVNe) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp) | [Altar Of Grace](https://open.spotify.com/album/14E9Idk7VScUrGAsv0PJ5A) | 4:23 | 2025-10-20 |  |
 | [Always](https://open.spotify.com/track/4n52JnyBjDMC2a5GoOiz11) | [RYT PATH](https://open.spotify.com/artist/4e9kAcO6FMhOgshwVbpNBu), [Peacestar](https://open.spotify.com/artist/7EEIMmHhi3ZtPU2OdqZHxO), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Always](https://open.spotify.com/album/0PY2pUTKz5BvUbsxtjBytL) | 3:02 | 2025-03-28 | 2025-04-04 |
 | [Always Coming Through](https://open.spotify.com/track/2EueEf9GMN9ppShrQYuhPk) | [Ugee Royalty](https://open.spotify.com/artist/1upKp4bI2MbgvvfVXTxakF) | [Always Coming Through](https://open.spotify.com/album/2F0azKEzn7ClTl91zdsFX5) | 5:00 | 2023-12-15 | 2023-12-30 |
 | [Always Enough](https://open.spotify.com/track/30oaeFV2k6xQqoYgjh3e4O) | [Ademola Makinde](https://open.spotify.com/artist/3rrYOlwYulExDCYiz1gf1k) | [Always Enough](https://open.spotify.com/album/3rQg8OxfAaIxX5F87SAFqp) | 1:26 | 2025-03-07 | 2025-03-14 |

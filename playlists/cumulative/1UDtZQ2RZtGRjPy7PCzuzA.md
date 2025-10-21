@@ -4,7 +4,7 @@
 
 > 
 
-1,042 songs - 2 day 11 hr 30 min
+1,043 songs - 2 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [I Hate U](https://open.spotify.com/track/4iN2sxWPPKU48NXyzLaXku) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:53 | 2024-12-30 |  |
 | [I Have A Dream \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/77bIDfQElFrLQjp2ZdTaam) | [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 4:22 | 2025-04-06 |  |
 | [I Hope You Find Your Way Home](https://open.spotify.com/track/0pvZCv4JOS5WBu7JITYef6) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-10-30 |  |
+| [I Just Don't Know You Yet](https://open.spotify.com/track/2kkBKBjHt4mCmgtx3FPCyH) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet \(Live\)](https://open.spotify.com/album/2X6jiccyMdJbgEtEiZXWMk) | 3:21 | 2025-10-20 |  |
 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 | 2025-10-10 |  |
 | [I Killed You](https://open.spotify.com/track/3GdwjAsCsoE79ObhsJFyYb) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:48 | 2024-10-30 |  |
 | [I Knew It, I Know You](https://open.spotify.com/track/7zVDbw7EEqN1FMTQOfLS2p) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 4:12 | 2024-10-19 |  |

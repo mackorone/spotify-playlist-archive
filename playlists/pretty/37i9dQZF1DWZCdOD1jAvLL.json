@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: TyriqueOrDie",
-  "num_followers": 267650,
+  "num_followers": 267662,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "I Don't Trust A Soul",
-        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 146059,
-      "name": "I Don't Trust A Soul",
-      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "Boost Up",
         "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "I Don't Trust A Soul",
+        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 146059,
+      "name": "I Don't Trust A Soul",
+      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1072,12 +1072,12 @@
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
           "name": "DJ Snake",
           "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
           "name": "TRXGGX",
@@ -1519,6 +1519,38 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "BLIND (RAVE MIX)",
+        "url": "https://open.spotify.com/album/5OSrUzKnsdPWbOpmE25gXy"
+      },
+      "artists": [
+        {
+          "name": "ISOKNOCK",
+          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
+        },
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+        },
+        {
+          "name": "Sur Back",
+          "url": "https://open.spotify.com/artist/1mGtVmdBSR8eOlQfA61W8V"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "BLIND (RAVE MIX)",
+      "url": "https://open.spotify.com/track/6zDkk2KqakCMWhLPZBDVPQ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Stay With The Tempo",
         "url": "https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8"
       },
@@ -1551,38 +1583,6 @@
       "duration_ms": 172901,
       "name": "Again? Fuck.",
       "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "BLIND (RAVE MIX)",
-        "url": "https://open.spotify.com/album/5OSrUzKnsdPWbOpmE25gXy"
-      },
-      "artists": [
-        {
-          "name": "ISOKNOCK",
-          "url": "https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37"
-        },
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Araya",
-          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
-        },
-        {
-          "name": "Sur Back",
-          "url": "https://open.spotify.com/artist/1mGtVmdBSR8eOlQfA61W8V"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "BLIND (RAVE MIX)",
-      "url": "https://open.spotify.com/track/6zDkk2KqakCMWhLPZBDVPQ"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1819,30 +1819,6 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Party After Party",
-        "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Azooland",
-          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
-        },
-        {
-          "name": "Tim Bell",
-          "url": "https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Party After Party",
-      "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
         "name": "gImmE gImmE",
         "url": "https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82"
       },
@@ -1863,6 +1839,30 @@
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
+        "name": "Party After Party",
+        "url": "https://open.spotify.com/album/26FYs9Ps8SnNuwJLJrFeUd"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+        },
+        {
+          "name": "Tim Bell",
+          "url": "https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Party After Party",
+      "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "Take It All",
+        "url": "https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 171207,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "Everybody Knows (feat. IRAH)",
         "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 168000,
       "name": "Everybody Knows - feat. IRAH",
       "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "Take It All",
-        "url": "https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 171207,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2067,22 +2067,26 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
-        "name": "Erased",
-        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
+        "name": "Torch",
+        "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
       },
       "artists": [
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Bekon",
+          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Erased",
-      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
+      "duration_ms": 173793,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
     },
     {
       "added_at": "2025-10-17 04:00:41",
@@ -2111,6 +2115,26 @@
     {
       "added_at": "2025-10-17 04:00:41",
       "album": {
+        "name": "Erased",
+        "url": "https://open.spotify.com/album/0Pd0xUoBSx6MsRMNJmmKPs"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Erased",
+      "url": "https://open.spotify.com/track/3ug5IXh3CC4keJp0zNEWrq"
+    },
+    {
+      "added_at": "2025-10-17 04:00:41",
+      "album": {
         "name": "AUTOBAHN",
         "url": "https://open.spotify.com/album/5flItG4w6QQs7mdUheOAwq"
       },
@@ -2123,30 +2147,6 @@
       "duration_ms": 191108,
       "name": "AUTOBAHN",
       "url": "https://open.spotify.com/track/64pEJ9PB0iB2NfAb8R2GOf"
-    },
-    {
-      "added_at": "2025-10-17 04:00:41",
-      "album": {
-        "name": "Torch",
-        "url": "https://open.spotify.com/album/1MYRKX0bxL5FIXIqTakkNX"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Bekon",
-          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Torch",
-      "url": "https://open.spotify.com/track/7EvgoFkWT1kVtOIhqGwZUm"
     },
     {
       "added_at": "2025-10-17 04:00:41",

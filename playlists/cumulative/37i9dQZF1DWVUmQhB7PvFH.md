@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-276 songs - 20 hr 6 min
+277 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,8 +158,9 @@
 | [我很好](https://open.spotify.com/track/3ahdLlgladMWy2zwSDW57T) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [我很好](https://open.spotify.com/album/5F0Y2eFhEYEHROowOaoP5M) | 4:32 | 2024-03-04 | 2024-04-02 |
 | [我心動了 \(feat\. 阿Ben\)](https://open.spotify.com/track/3aVcueovkHVAEXFkq9MS0J) | [Shunza](https://open.spotify.com/artist/2zXcyd0DsDOxZc1nSGepMb), [阿Ben](https://open.spotify.com/artist/4UClVidUVBALbLRhcumSqv) | [日日夜夜…我最愛的順子](https://open.spotify.com/album/6Hfk6RNO9AR42UG2gfuw25) | 4:56 | 2024-07-08 | 2024-08-06 |
 | [我想要說](https://open.spotify.com/track/4laqZlxlNBvOUEKITWRr7K) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [蔡旻佑首張創作專輯 19](https://open.spotify.com/album/3cyDc8JHTIUizviL48vrbf) | 3:48 | 2024-06-24 | 2024-07-23 |
-| [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 | 2024-05-27 |  |
+| [我愛他](https://open.spotify.com/track/2qOitAAyMgHOs0cMilqf8k) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [夜貓](https://open.spotify.com/album/1cw2qn3JtkIhDYJMCexYLs) | 4:42 | 2024-05-27 | 2025-10-21 |
 | [我相信](https://open.spotify.com/track/5Vno9JgXecYMq0HeCiuDos) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [午夜兩點半的我](https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM) | 4:07 | 2024-04-01 | 2024-04-30 |
+| [我知道](https://open.spotify.com/track/7iXPSlDdL0EQwPFtUR8ye1) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [TWINS](https://open.spotify.com/album/5F52Aeei95YaoFa7yai2Rr) | 4:10 | 2025-10-20 |  |
 | [我要的只是愛](https://open.spotify.com/track/52S3iijs5gstMqPu9rURtp) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [心口不一](https://open.spotify.com/album/7eILUICAAnjuai7b7pNtcM) | 4:21 | 2024-09-02 | 2024-09-30 |
 | [我難過](https://open.spotify.com/track/1CLch4OLZQAG8NkdGNKEXd) | [5566](https://open.spotify.com/artist/4vRnvRld46Z0TyLZ9xi5xE) | [5566 1st Album](https://open.spotify.com/album/0InD0gNAW4LkwpIVPF3Qbd) | 4:44 | 2024-05-13 | 2025-02-17 |
 | [手心](https://open.spotify.com/track/33C2zzM845egVxDaLm4qli) | [卓文萱](https://open.spotify.com/artist/5XHBjJm3bCgQCjpnInCxfT) | [幸福氧氣](https://open.spotify.com/album/5l1x7He69remjcsKirT9pX) | 4:13 | 2024-06-24 | 2024-07-09 |
@@ -167,7 +168,7 @@
 | [拋物線](https://open.spotify.com/track/2oZJWtQZ6CLPHHsnUhC3IY) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [若你碰到他](https://open.spotify.com/album/60ibi7DcLi7LDZSgq4KQfF) | 5:07 | 2025-06-09 | 2025-06-23 |
 | [捨得](https://open.spotify.com/track/7aPLvqzqum6JU5XvwTMF9t) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [捨得](https://open.spotify.com/album/4G4eftynKC5F78pDdoVRjb) | 4:11 | 2024-09-16 | 2024-10-14 |
 | [掉了](https://open.spotify.com/track/39tpfLHvnzXk4f8iD0htkn) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [阿密特意識專輯](https://open.spotify.com/album/54VlS75YgBFZXq7Ng1Ue3c) | 3:57 | 2024-12-23 | 2025-09-10 |
-| [擦肩而過](https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [收放自如](https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4) | 4:49 | 2025-05-26 |  |
+| [擦肩而過](https://open.spotify.com/track/484E5ggbqCUi4wYO5SMfHD) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [收放自如](https://open.spotify.com/album/3Op0pkji5hAjXuyzOCvPP4) | 4:49 | 2025-05-26 | 2025-10-21 |
 | [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-02-19 | 2024-04-19 |
 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 | 2024-04-15 |  |
 | [放手](https://open.spotify.com/track/1Ol3u2KdyfuKb7RvsoGQ6c) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [Energy! Come On!](https://open.spotify.com/album/1KIrULDf8oCDGH3AmNohDC) | 4:42 | 2024-05-13 | 2024-06-10 |
@@ -179,7 +180,7 @@
 | [晴天](https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v) | 4:29 | 2024-04-29 |  |
 | [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 | 2024-01-15 | 2024-02-06 |
 | [暗號](https://open.spotify.com/track/0Tugyy24LgpJV5L3LA7PJ9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [八度空間](https://open.spotify.com/album/73TuSaNd471d1A8k5sqax1) | 4:29 | 2024-07-08 | 2024-10-14 |
-| [最近](https://open.spotify.com/track/0ONg8VCxzW3CCNDxDY0DNe) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2VEZhEzyWxxW23wlpt9FBv) | 4:03 | 2025-09-15 | 2025-10-13 |
+| [最近](https://open.spotify.com/track/0ONg8VCxzW3CCNDxDY0DNe) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2VEZhEzyWxxW23wlpt9FBv) | 4:03 | 2025-09-15 |  |
 | [最近](https://open.spotify.com/track/57pUHpCltt09b5w1W6m9qb) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [關於妳的歌](https://open.spotify.com/album/2YWoaXXwYeCEUbKw4AgQ6z) | 4:03 | 2024-06-24 | 2025-06-10 |
 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 | 2025-02-17 |  |
 | [月光](https://open.spotify.com/track/3zITNHUKVAnfpHQIHi7mUZ) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Red Cyndi](https://open.spotify.com/album/0SJfNYYj5PlGBcPzyYOBzn) | 4:05 | 2024-04-29 | 2024-05-28 |

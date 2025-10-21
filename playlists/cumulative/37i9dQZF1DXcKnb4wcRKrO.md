@@ -4,7 +4,7 @@
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-121 songs - 6 hr 22 min
+126 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All Blues](https://open.spotify.com/track/6bDe6IMM7ek4p9rBsRCdpr) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Broken Soul](https://open.spotify.com/album/75EsVTVDReGGSw2uPs9w78) | 3:01 | 2025-04-28 |  |
 | [All Together](https://open.spotify.com/track/7lsQ5xKT9mxtmhgJyKUfKm) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [All Together](https://open.spotify.com/album/6eMwp4EudeSkr9gOBS2JyN) | 2:07 | 2025-09-19 |  |
 | [amber](https://open.spotify.com/track/600oQJ0EL0L1WoxQQ8Mq8s) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [amber](https://open.spotify.com/album/0k3nJYuhQ0qQAfPpgv2dyN) | 3:08 | 2025-04-28 |  |
+| [Ambrosia](https://open.spotify.com/track/7ibIRUtuqPL0PkWlaQgdgC) | [Sombra Azul](https://open.spotify.com/artist/4EYXyORAJ8gvI1cZVeSEoc) | [Ambrosia](https://open.spotify.com/album/7no7G8lC0uwgYkb3AeoEAK) | 2:16 | 2025-10-20 |  |
 | [Amour](https://open.spotify.com/track/5vAZSctNrlHsbR3vsGEzE7) | [Meladonica](https://open.spotify.com/artist/0CKBzB3A5cgDZhbdtbhQXv) | [Amour](https://open.spotify.com/album/6sAnmQzjKqAN0nJmobdUra) | 2:24 | 2025-09-12 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-04-28 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-04-28 |  |
@@ -40,6 +41,7 @@
 | [De Vere](https://open.spotify.com/track/5QBuldX6YpnOtKfuQPlamh) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [De Vere](https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM) | 2:27 | 2025-07-02 |  |
 | [Detour](https://open.spotify.com/track/3by9FL229vI2ofAhvlsh8w) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Detour](https://open.spotify.com/album/6wgHlnjiA6cJ1E4ifmewgC) | 3:56 | 2025-04-28 |  |
 | [devious](https://open.spotify.com/track/2N7pJgapWS9Ws86koONAu8) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [devious](https://open.spotify.com/album/2PlAY1Wbs65utKH6u7Ahi3) | 2:14 | 2025-07-02 |  |
+| [Dimmed Lights](https://open.spotify.com/track/2W95IQmxs3PBkHJgXcM7AI) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Dimmed Lights](https://open.spotify.com/album/0fZZbVN5wsAJb7Fc22lDQs) | 2:16 | 2025-10-20 |  |
 | [Don't Worry](https://open.spotify.com/track/2xiGIym6L3C987k7wIP1nU) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [Don't Worry](https://open.spotify.com/album/7KFG2x2Ts82qohnEncS6Y8) | 2:15 | 2025-04-28 |  |
 | [Drifting On](https://open.spotify.com/track/0OCT3zd8kEYOUU1gjRBVo2) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Doble Espresso](https://open.spotify.com/album/2Ub48SgCtdDBsf1ZatJpXY) | 6:41 | 2025-06-20 |  |
 | [Dusk Bop](https://open.spotify.com/track/4F67lc8Zc1IX9DfbGlgJXV) | [Robinson Roe](https://open.spotify.com/artist/5IjUr7lUdZ1mOUluaYpKZE) | [Dusk Bop](https://open.spotify.com/album/66JdeDGRQpJQzy5U0YG2Oo) | 4:16 | 2025-07-11 |  |
@@ -59,6 +61,7 @@
 | [Gettin Started](https://open.spotify.com/track/715fosVt2qqIze1oDJ4C7Y) | [Nebulae Waves](https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2), [Moryla](https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0) | [Gettin Started](https://open.spotify.com/album/103v4OJOb5py4u7awyQcfp) | 2:43 | 2025-04-28 |  |
 | [Gone](https://open.spotify.com/track/2IqmeyoyM1Do3tm5amPBQU) | [Astrovox](https://open.spotify.com/artist/1zDQ4Lyy4QK1MKFaysBLqx) | [Gone](https://open.spotify.com/album/2bcpErha58tO1MWwnP8RQg) | 2:10 | 2025-06-13 |  |
 | [Got It](https://open.spotify.com/track/2WEFQ6Kzv5xYESusk6ep6U) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Got It](https://open.spotify.com/album/5TgsDWAcxaDr8cMBJGdtFE) | 2:47 | 2025-04-28 |  |
+| [Heal](https://open.spotify.com/track/2Hvjrpsts297K6ymNEggAf) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Heal](https://open.spotify.com/album/7gaxDMKBKIeTbvXzlxUjY8) | 1:58 | 2025-10-20 |  |
 | [Heaven](https://open.spotify.com/track/5sDlKM21xZl44uULQRadnX) | [Jordan Moon](https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1) | [Heaven](https://open.spotify.com/album/6lkBEX7Ti4Qxs2BOuYO2U2) | 1:55 | 2025-04-28 |  |
 | [Highway \- Teuteu Remix](https://open.spotify.com/track/6roW4lfkqGDImLNcDyeVLC) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Highway \(Teuteu Remix\)](https://open.spotify.com/album/3P4NlDbWunICUGKBvDVzlJ) | 2:33 | 2025-05-15 |  |
 | [Ibiza](https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Ibiza](https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw) | 4:16 | 2025-04-28 |  |
@@ -103,6 +106,7 @@
 | [Sleeping Norboo \- Moods Remix](https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [ALEXANDER](https://open.spotify.com/artist/62sf9c1XbjW0Jv8ON57xor), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sleeping Norboo \(Moods Remix\)](https://open.spotify.com/album/0UU34hknNlE4KRogR8aVda) | 3:50 | 2025-04-28 |  |
 | [Slow Rush](https://open.spotify.com/track/45ar5FIcFDN1LWVDBuvxOo) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r), [Nonois](https://open.spotify.com/artist/3DpsnXYRbeFke4gpYMGUiK) | [Slow Rush](https://open.spotify.com/album/7IcFdzx0CH4l88ASsn3EA8) | 2:28 | 2025-07-02 |  |
 | [Soirée](https://open.spotify.com/track/3NurLcZ7kl1VluRwFPKwbw) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Soirée](https://open.spotify.com/album/1EEBrONueq8y5eIWW7gAH3) | 2:44 | 2025-04-28 |  |
+| [Something Else](https://open.spotify.com/track/71mtIO6zZnGBkjaFxrjOKf) | [Half Tone](https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8) | [Something Else](https://open.spotify.com/album/0YqbrXhaQGCEtBLJwE7xVd) | 2:33 | 2025-10-20 |  |
 | [Something for Nothing](https://open.spotify.com/track/55mPgbttpZRgmbSyo5UXbq) | [King Bøb](https://open.spotify.com/artist/41zvJbIz0wTbdM8KBB6vRy) | [Something for Nothing](https://open.spotify.com/album/5OQKbS0L0muBKMxaDLiwvV) | 2:36 | 2025-04-28 |  |
 | [Soulful Sides \- ColorJaxx Remix](https://open.spotify.com/track/4b7NxG0hQYeRCIOSjrsasE) | [Marc Cotterell](https://open.spotify.com/artist/56rB5otSSzWdlQAJGAEo8q), [ColorJaxx](https://open.spotify.com/artist/3DkArjD2UZemk7QCbvXpQm) | [Soulful Sides](https://open.spotify.com/album/0OI9nODfcDQ4kNie6HSRXC) | 6:36 | 2025-04-28 | 2025-07-26 |
 | [Spritz](https://open.spotify.com/track/1MwInBfuiRYxPuNsz5COXT) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [Spritz](https://open.spotify.com/album/1MlqyyvFnAqom7n0irGASM) | 2:48 | 2025-04-28 |  |
@@ -129,5 +133,6 @@
 | [Yep \- Remix](https://open.spotify.com/track/1vo4xDh9KxJ0teH07caG9y) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Yep \(Remix\)](https://open.spotify.com/album/7iPQ0KRncC2peLg7TwqZwT) | 2:06 | 2025-04-28 |  |
 | [Yeux Vers l'Invisible](https://open.spotify.com/track/2c5b39NN4gbasuj73Ceszb) | [Izzy Wise](https://open.spotify.com/artist/4y1N04Xki70z0ipxEJKtw2) | [Yeux Vers l'Invisible](https://open.spotify.com/album/4Duofj1AMiwc3A3J6iiDj7) | 4:03 | 2025-04-28 |  |
 | [You Do You](https://open.spotify.com/track/6YoNh7HiardYLs9qfIGMJB) | [Lukas Hiraeth](https://open.spotify.com/artist/0e6m03hmu9HNYQBaeFkn8D) | [You Do You](https://open.spotify.com/album/0D7kjNyYLWwZizudRPpUuV) | 2:21 | 2025-07-02 |  |
+| [⁠Apt To Sidewalk Stand](https://open.spotify.com/track/5deJC7o86gjJoPobebQohn) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [How To Dance Freely Without Social Anxiety](https://open.spotify.com/album/0eTVJWgSKXud0nj1yDWan0) | 3:24 | 2025-10-20 |  |
 
 \*This playlist was first scraped on 2025-05-02. Prior content cannot be recovered.

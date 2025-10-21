@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,737 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,802 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 59 | [When Last \- Remix](https://open.spotify.com/track/06ZEPQuntYP0MAC4D1nztv) | [GBM Nutron](https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V), [Grateful Co](https://open.spotify.com/artist/13nrySUFCJn8q7RIaSmtb2) | [When Last \(Remix\)](https://open.spotify.com/album/30Z7WKAvQtL56OViOk44de) | 3:14 |
 | 60 | [Jab Decisions](https://open.spotify.com/track/22fFQtquJgXlte3RuXYYt7) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Decisions](https://open.spotify.com/album/41AdbCyGOATIjgPBJTQQDF) | 3:17 |
 
-Snapshot ID: `AAAAAGCmZV2Sl7OJjYPLHsV8B8t1TRQU`
+Snapshot ID: `AAAAAPTS8yzdSAATQKLyKUf2r4d46V86`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,247 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,251 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 48 | [Deixa Queimar](https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf) | [Gabi Terreiro](https://open.spotify.com/artist/47h0ARjXa0XT33CgBF0o2G), [Theus Terreiro](https://open.spotify.com/artist/20lXAO0WbrxNENfAnsj1wg), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Elementar](https://open.spotify.com/album/5ovrFL7jWNeZo4G60HlOAq) | 2:50 |
 | 49 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [DoisZ](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 |
 | 50 | [Madrugada](https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Madrugada](https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP) | 2:16 |
-| 51 | [Jam \#02 \- Tudo do Melhor/Prosperidade](https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk) | [Jam \#2](https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ) | 3:34 |
-| 52 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [Kaê](https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 |
+| 51 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [Kaê](https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 |
+| 52 | [Jam \#02 \- Tudo do Melhor/Prosperidade](https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr) | [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk) | [Jam \#2](https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ) | 3:34 |
 | 53 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 |
 | 54 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |
 | 55 | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Mc Orelha](https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [MC FAEL](https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H), [NK da Grota](https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7) | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw) | 4:08 |

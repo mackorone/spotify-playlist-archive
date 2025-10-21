@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 153102,
+  "num_followers": 153120,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,42 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
+        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 153527,
+      "name": "Duurt Te Lang",
+      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Vannacht Slaap Jij Bij Mij",
         "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
       },
@@ -263,42 +299,6 @@
       "duration_ms": 148704,
       "name": "Vannacht Slaap Jij Bij Mij",
       "url": "https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Duurt Te Lang (Beste Zangers Seizoen 2018)",
-        "url": "https://open.spotify.com/album/4F7ekZ78rrfhl9GvTYXQYB"
-      },
-      "artists": [
-        {
-          "name": "Davina Michelle",
-          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 153527,
-      "name": "Duurt Te Lang",
-      "url": "https://open.spotify.com/track/2rzZ0IGxgrGUAPwrWn80z7"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Live In Het Philips Stadion",
-        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Geef Mij Je Angst",
-      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Mij Niet Bellen",
-        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
-      },
-      "artists": [
-        {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
-        }
-      ],
-      "duration_ms": 161484,
-      "name": "Mij Niet Bellen",
-      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
         "name": "Vandaag",
         "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 159866,
       "name": "Rosanne",
       "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "Mij Niet Bellen",
+        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
+      },
+      "artists": [
+        {
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "Mij Niet Bellen",
+      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Bieber Van De Kroeg",
-        "url": "https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bieber Van De Kroeg",
-      "url": "https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 190553,
       "name": "Mijn Stad",
       "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "Bieber Van De Kroeg",
+        "url": "https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Bieber Van De Kroeg",
+      "url": "https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef"
-      },
-      "artists": [
-        {
-          "name": "Justen de Wildt",
-          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/04I59pMKCdNbLlSIJNAExH"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
         "name": "'n Rondje van mij",
         "url": "https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 219533,
       "name": "Laat ze maar lullen",
       "url": "https://open.spotify.com/track/3GUZqZgP7dnmWamPGUnkBM"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef"
+      },
+      "artists": [
+        {
+          "name": "Justen de Wildt",
+          "url": "https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/04I59pMKCdNbLlSIJNAExH"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
-        "name": "We Dansen Op De Mambo",
-        "url": "https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3"
-      },
-      "artists": [
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 166543,
-      "name": "We Dansen Op De Mambo",
-      "url": "https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
         "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
         "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 230203,
       "name": "Ik Laat Je Nooit Meer Gaan",
       "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
+        "name": "We Dansen Op De Mambo",
+        "url": "https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3"
+      },
+      "artists": [
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 166543,
+      "name": "We Dansen Op De Mambo",
+      "url": "https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK"
     },
     {
       "added_at": "2025-09-04 22:00:28",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "5 In De Klok",
+        "url": "https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "5 In De Klok",
+      "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Nog Geen Si\u00ebsta",
         "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 159843,
       "name": "Nog Geen Si\u00ebsta",
       "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "5 In De Klok",
-        "url": "https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 187611,
-      "name": "5 In De Klok",
-      "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
     },
     {
       "added_at": "2025-09-04 22:00:28",

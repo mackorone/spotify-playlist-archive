@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35121,
+  "num_followers": 35126,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAADnKQmAA0EugLOfizIJlfDR",
+  "snapshot_id": "aPQqAAAAAAA8DzPuexAkLoWaEeuRdQPt",
   "tracks": [
     {
       "added_at": null,
@@ -907,6 +907,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinhardt, Django: Swingin' With Django (1937)",
+        "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
+      },
+      "artists": [
+        {
+          "name": "Ted Snyder",
+          "url": "https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Hot Club de France Quintet",
+          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "The Sheik of Araby",
+      "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "European Swing Giants, Vol.9: Django Reinhardt, Vol. 2,The HMV / Electrola Sessions (Recorded 1936-1937 in Paris) and Django in Brussels (The RhythmeSessions Part 2, Recorded 1942)",
         "url": "https://open.spotify.com/album/0NORmBz3eeTDS57d8wIvGU"
       },
@@ -931,30 +955,6 @@
       "duration_ms": 193573,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/1CXMkdwJV9TL20PBIUiWHE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinhardt, Django: Swingin' With Django (1937)",
-        "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
-      },
-      "artists": [
-        {
-          "name": "Ted Snyder",
-          "url": "https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Hot Club de France Quintet",
-          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "The Sheik of Araby",
-      "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
     },
     {
       "added_at": null,

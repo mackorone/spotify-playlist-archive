@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women who open up the pit. Cover: Courtney LaPlante of Spiritbox",
-  "num_followers": 760231,
+  "num_followers": 760323,
   "original_name": "Women of Metal",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
+        "name": "Sorrowbreaker",
+        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 231186,
       "name": "Blood Dynasty",
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x"
     },
     {
       "added_at": "2025-04-25 04:00:54",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-04-25 04:00:54",
       "album": {
-        "name": "One Foot In The Grave",
-        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 222153,
-      "name": "One Foot In The Grave",
-      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
-    },
-    {
-      "added_at": "2025-04-25 04:00:54",
-      "album": {
         "name": "Consequences Of Disobedience",
         "url": "https://open.spotify.com/album/7MfZVpjjsT61PNIcz8F3z3"
       },
@@ -1643,6 +1627,30 @@
       "duration_ms": 201693,
       "name": "My Law",
       "url": "https://open.spotify.com/track/3ia8r68JAcaGez0E0WW8Xb"
+    },
+    {
+      "added_at": "2025-04-25 04:00:54",
+      "album": {
+        "name": "Do Or Die (feat. Nathan James)",
+        "url": "https://open.spotify.com/album/4VZkuF5QWDCbgdtjy4N4fI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3"
+        },
+        {
+          "name": "Inglorious",
+          "url": "https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/61ZNvjxuVnqNtdxzLLUVyp"
+        }
+      ],
+      "duration_ms": 193068,
+      "name": "Do Or Die (feat. Nathan James)",
+      "url": "https://open.spotify.com/track/3LghS5iipA13F5iOJ8j0Gi"
     }
   ],
   "unique_name": "Women of Metal",

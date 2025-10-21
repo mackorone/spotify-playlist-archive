@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -2876,7 +2876,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 127179,
       "name": "A\u0161 Tik \u017dmogus",
       "url": "https://open.spotify.com/track/070dsZFWXM5P1TsA966lta"
@@ -4402,7 +4402,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -18088,7 +18088,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 226053,
       "name": "Karina",
       "url": "https://open.spotify.com/track/6SXeHsHcPjJ5Q9F1IoI5XE"
@@ -19446,7 +19446,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 256693,
       "name": "Laikas Keistis",
       "url": "https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8"
@@ -19948,7 +19948,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 317293,
       "name": "Les",
       "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
@@ -21960,7 +21960,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 183636,
       "name": "Man Patinka Taip Gyvent",
       "url": "https://open.spotify.com/track/4Sutb29y41vsYKsMdmMbXu"
@@ -28760,7 +28760,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 234000,
       "name": "Perlai",
       "url": "https://open.spotify.com/track/2riBo7Y0x7MoFCN6fv5yue"
@@ -43281,6 +43281,24 @@
     },
     {
       "album": {
+        "name": "\u010cempionai",
+        "url": "https://open.spotify.com/album/1Sj0Suv7FnwpB0f5iY71Rw"
+      },
+      "artists": [
+        {
+          "name": "Evgenya Redko",
+          "url": "https://open.spotify.com/artist/7o4wZjVHHWe4gw4oenPmcK"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210589,
+      "name": "\u010cempionai",
+      "url": "https://open.spotify.com/track/10aLKcJYApACR1vMUKBBRG"
+    },
+    {
+      "album": {
         "name": "KOD\u0116L TU \u010cIA?",
         "url": "https://open.spotify.com/album/3AG71CU4i34I2Mj3xsKqvM"
       },
@@ -43494,7 +43512,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 156000,
       "name": "\u0160okam L\u0117tai",
       "url": "https://open.spotify.com/track/0woi2knxQucSRKtrX6a7eC"

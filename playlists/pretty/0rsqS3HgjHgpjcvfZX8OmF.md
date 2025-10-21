@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  Sloan
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,719 likes - 95 songs - 5 hr 51 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,718 likes - 95 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-849 songs - 1 day 12 hr 54 min
+850 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Come With Me](https://open.spotify.com/track/0RafPtjiIYR2VcS9JortFA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Used To Be You](https://open.spotify.com/album/2lcIAj5uXylIb7Lz8QRIdW) | 2:56 | 2022-10-07 | 2024-05-04 |
 | [Comfort Me](https://open.spotify.com/track/3VR78tnaSa1owd7xP9hA2K) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Comfort Me](https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2) | 2:12 | 2024-02-02 |  |
 | [Coming home to someone](https://open.spotify.com/track/33jEJgoSbewTinFfmhsBLZ) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Coming home to someone](https://open.spotify.com/album/6GSi2ihzkIvHQggLoUxvzp) | 2:45 | 2021-12-08 | 2024-06-15 |
+| [Coming of Age](https://open.spotify.com/track/2uXxdJ7LhDAO4W1z8ud9TD) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Coming of Age](https://open.spotify.com/album/4dRihrJQp5OVcJQvNr5W4Y) | 2:43 | 2025-10-20 |  |
 | [Compelling Voice](https://open.spotify.com/track/26aHSPwNdXTeFe3o9dOFgZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Compelling Voice](https://open.spotify.com/album/4Ieb0qbrj9v18DW9lHlNir) | 2:15 | 2024-02-02 |  |
 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 | 2023-06-02 |  |
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-21 | 2024-12-11 |
@@ -260,7 +261,7 @@
 | [Flickering](https://open.spotify.com/track/626xcRaDQa8wTLniVI14dY) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Flickering](https://open.spotify.com/album/4wSMizTu9VA7nDu1iZZGwx) | 1:41 | 2023-05-12 | 2023-08-19 |
 | [Floating Star](https://open.spotify.com/track/24Y0FyOArWgcILnOXWLCPS) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Floating Star](https://open.spotify.com/album/1ZwL8QEmLiEGO3meFav9th) | 2:24 | 2025-10-01 |  |
 | [Floreio](https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Floreio](https://open.spotify.com/album/3BeHMO8k913Cci8qpbitgu) | 2:37 | 2023-10-27 | 2025-08-07 |
-| [Flutuar](https://open.spotify.com/track/5xLTKLhaWvLmCix32pqia0) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Flutuar](https://open.spotify.com/album/38GesdrKsOotrRglt30vK5) | 3:04 | 2024-08-07 |  |
+| [Flutuar](https://open.spotify.com/track/5xLTKLhaWvLmCix32pqia0) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Flutuar](https://open.spotify.com/album/38GesdrKsOotrRglt30vK5) | 3:04 | 2024-08-07 | 2025-10-21 |
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-24 |  |
 | [Follow Me](https://open.spotify.com/track/60q1MEc0pXjOhCV1pHoPpf) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Follow Me](https://open.spotify.com/album/2SCPE6W9kz3Om5tlbCpY9i) | 2:39 | 2024-06-14 |  |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2021-12-08 | 2022-04-06 |
@@ -400,7 +401,7 @@
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-08-10 |  |
 | [Last Fall](https://open.spotify.com/track/7cJxIvDCtQ42oQDmnqw7bP) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Last Fall](https://open.spotify.com/album/12UyG4b6DjNB3KT7bEsl6i) | 2:31 | 2025-01-20 |  |
 | [Last Light](https://open.spotify.com/track/0uaPSyka3LHsbwWyENj4pZ) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Last Light](https://open.spotify.com/album/0SRaNgW2jcWKEVBpFvUqhp) | 2:24 | 2023-01-06 | 2024-11-21 |
-| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
+| [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 | 2025-10-21 |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 | 2023-10-27 |
 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 | 2021-12-08 | 2022-06-10 |
 | [Leben](https://open.spotify.com/track/64Fui69wRsnb7DGj00asBt) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Leben](https://open.spotify.com/album/7uzp1YQSlqHwlFOzjxRwoS) | 2:38 | 2025-03-18 |  |
@@ -589,7 +590,7 @@
 | [Remembrance](https://open.spotify.com/track/7C92YbwWfe1HfpA2bBvBsI) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [St John's Wood](https://open.spotify.com/album/1Zp1UDQDXVio09Bj1ScwO4) | 3:05 | 2022-06-17 | 2023-05-13 |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-03-24 | 2024-11-21 |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2021-12-08 | 2022-07-22 |
-| [Rialto](https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Rialto](https://open.spotify.com/album/5IdiH14XYSAeS7DC33wFtO) | 2:25 | 2024-05-24 |  |
+| [Rialto](https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Rialto](https://open.spotify.com/album/5IdiH14XYSAeS7DC33wFtO) | 2:25 | 2024-05-24 | 2025-10-21 |
 | [Rising](https://open.spotify.com/track/7f7P35fclxpRqu19lDCMRi) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Rising](https://open.spotify.com/album/4sfK2xdbOgXf5MWYY20C9W) | 2:22 | 2021-12-08 | 2024-05-24 |
 | [Ritmo De Tus Ojos](https://open.spotify.com/track/7x1lfGAzTCLM40YIIFAExB) | [Julian Mari](https://open.spotify.com/artist/4F0VCWk7SLkuBevjKJEw8e) | [Ritmo De Tus Ojos](https://open.spotify.com/album/2deI5kt579S6ibj0aoR8V5) | 2:05 | 2022-07-08 | 2022-12-10 |
 | [Riviera Moon](https://open.spotify.com/track/437RdHmPqM2MC6DfmpGCxJ) | [Jessica Grange](https://open.spotify.com/artist/7xuui1WSiqWO67RrcHAGJh) | [Riviera Moon](https://open.spotify.com/album/3THNjZKsobzny5qV1XY8mR) | 1:58 | 2021-12-22 | 2023-08-19 |

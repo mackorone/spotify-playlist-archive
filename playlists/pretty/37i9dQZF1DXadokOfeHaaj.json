@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Me Blue",
-  "num_followers": 38681,
+  "num_followers": 38707,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
         "name": "Turn Up The Love",
         "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 186728,
       "name": "Turn Up The Love",
       "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "She Waits",
+      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "She Waits",
-      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Song for You / The Wizard",
-        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Song for You",
-      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "Ask That God",
         "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
+        "name": "Song for You / The Wizard",
+        "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Song for You",
+      "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
         "name": "To Survive",
         "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 238316,
       "name": "To Survive",
       "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 212201,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "Notorious",
         "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
+      "duration_ms": 212201,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "24h In A Disco",
         "url": "https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS"
       },
@@ -1251,22 +1231,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Mutual Feelings",
-        "url": "https://open.spotify.com/album/2L6nVuLBjJcFK6YU01RyBT"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 208147,
-      "name": "Mutual Feelings",
-      "url": "https://open.spotify.com/track/1cYNx8Ots8mUPzOAwmiKm7"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "So Low",
         "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
       },
@@ -1279,6 +1243,42 @@
       "duration_ms": 165454,
       "name": "So Low",
       "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/0uhQ4KqKPF3DQip9sIQ2UC"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/0OEv3Mpw7qkunUIengDJU3"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Mutual Feelings",
+        "url": "https://open.spotify.com/album/2L6nVuLBjJcFK6YU01RyBT"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 208147,
+      "name": "Mutual Feelings",
+      "url": "https://open.spotify.com/track/1cYNx8Ots8mUPzOAwmiKm7"
     },
     {
       "added_at": "2025-10-16 23:00:12",

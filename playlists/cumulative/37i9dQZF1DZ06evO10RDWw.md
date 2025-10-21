@@ -4,7 +4,7 @@
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 29 min
+48 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Pitiful \- Live](https://open.spotify.com/track/6ngQC7dBOI6WcFpnYWYB3V) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:17 | 2024-07-25 | 2025-10-20 |
 | [Pitiful \- Live](https://open.spotify.com/track/6vnDvxCPBSYVQvojqQGW9j) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Seven / Pitiful \(Live\)](https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu) | 3:17 | 2024-05-12 | 2024-07-25 |
 | [Racing Toward a Red Light](https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:54 | 2023-05-13 |  |
-| [Racing Towards A Red Light \- Live](https://open.spotify.com/track/3lid7nULU9rD9fyIJVzXGr) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:10 | 2024-07-22 |  |
+| [Racing Towards A Red Light \- Live](https://open.spotify.com/track/3gDekUyuYKGXTvpGkpiU8i) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:10 | 2025-10-21 |  |
+| [Racing Towards A Red Light \- Live](https://open.spotify.com/track/3lid7nULU9rD9fyIJVzXGr) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:10 | 2024-07-22 | 2025-10-21 |
 | [Say Goodbye](https://open.spotify.com/track/4v27q8gqCrira7ffcjnNGq) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 5:04 | 2022-10-25 | 2023-08-19 |
 | [Second Guesses](https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 4:08 | 2022-10-25 |  |
 | [Seven \- Live](https://open.spotify.com/track/01Qou0Jb4jUyCRfBhDSa74) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Seven / Pitiful \(Live\)](https://open.spotify.com/album/0juD5oBhlYYbiK1y62xasu) | 5:12 | 2024-05-12 | 2024-07-27 |

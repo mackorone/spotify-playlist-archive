@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,009 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,022 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 25 | [DMR \(Drink Meh Rum\)](https://open.spotify.com/track/4vQXm47LMMUaBeqdLU3zdK) | [M1 aka Menace](https://open.spotify.com/artist/0AHSB80KwafVJAMKH2PsXh), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [DMR \(Drink Meh Rum\)](https://open.spotify.com/album/3372WUhOaaZFLza7Tzb8UE) | 2:18 |
 | 26 | [Sweet Music](https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Sweet Music](https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa) | 3:07 |
 | 27 | [Take Me Higher](https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe) | [Savita Singh](https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp) | [Take Me Higher](https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ) | 3:05 |
-| 28 | [Blessed](https://open.spotify.com/track/4VyDFKj5icaZCzXncBgDIE) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Blessed](https://open.spotify.com/album/0v4CzWYukhcYMp4GRCt5AZ) | 3:30 |
-| 29 | [Hot Up \- Marc Farfan Roadmix](https://open.spotify.com/track/434mGAieof1vAHaiKmOCKr) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Marc Marfan](https://open.spotify.com/artist/0BnTr459qNonFoeEOsCEmS) | [Hot Up \(Marc Farfan Roadmix\)](https://open.spotify.com/album/5KtPF2i3l4FjLoIIeKlAQe) | 3:00 |
+| 28 | [Hot Up \- Marc Farfan Roadmix](https://open.spotify.com/track/434mGAieof1vAHaiKmOCKr) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Marc Marfan](https://open.spotify.com/artist/0BnTr459qNonFoeEOsCEmS) | [Hot Up \(Marc Farfan Roadmix\)](https://open.spotify.com/album/5KtPF2i3l4FjLoIIeKlAQe) | 3:00 |
+| 29 | [Blessed](https://open.spotify.com/track/4VyDFKj5icaZCzXncBgDIE) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Blessed](https://open.spotify.com/album/0v4CzWYukhcYMp4GRCt5AZ) | 3:30 |
 | 30 | [Bholo Bholo](https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq), [Fojo](https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft), [Fiona Singh](https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:56 |
 | 31 | [I will never](https://open.spotify.com/track/1Z52ZHbHD6jFaDyMHdnXiH) | [Tony Cuttz](https://open.spotify.com/artist/1RKtqg73XAszkc4ueaWLKU) | [I will never](https://open.spotify.com/album/6D6iPF4XKRayqMGV4W5qrN) | 3:29 |
 | 32 | [I Had a Dream](https://open.spotify.com/track/1qBPnv40Y1PeNHGotuFdEE) | [Richard](https://open.spotify.com/artist/5O5pBb0lDnZFEhycNbIykZ) | [I Had a Dream](https://open.spotify.com/album/3W3PN2lVM0mQF5vgm250d2) | 3:47 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 36 | [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 |
 | 37 | [Kariaiyan Na Toro](https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX) | [Ameena Ramsaran](https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:39 |
 | 38 | [Nana & Nani](https://open.spotify.com/track/6KCWJcmmtYMjZMgi4kAiyD) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [The Ultimate Sundar Popo](https://open.spotify.com/album/4LIBROVNLxLDZo4s32GiEC) | 5:54 |
-| 39 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
-| 40 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
+| 39 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
+| 40 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
 | 41 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 |
 | 42 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
 | 43 | [Caroni Gyul](https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Dance Party King](https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03) | 3:00 |

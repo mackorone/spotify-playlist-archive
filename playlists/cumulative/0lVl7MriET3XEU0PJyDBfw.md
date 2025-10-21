@@ -2,9 +2,9 @@
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Only the best Tech House 🔥 Submit: https:&\#x2F;&\#x2F;tstack.app&\#x2F;bassline\-therapy
+> Only the best Tech House 🔥 Submit: tstack.app&\#x2F;bassline\-therapy
 
-881 songs - 1 day 22 hr 34 min
+882 songs - 1 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -878,6 +878,7 @@
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2024-01-08 | 2024-01-22 |
 | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a) | 2:33 | 2024-09-29 | 2024-11-12 |
 | [Yes I Think](https://open.spotify.com/track/5DbsTx09Ogp2v5aGXGBMIY) | [KOCHAM](https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu) | [Yes I Think](https://open.spotify.com/album/00AMcalcSxR6TiKfxMJU2A) | 2:11 | 2024-01-08 | 2024-01-22 |
+| [You & Me](https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [You & Me](https://open.spotify.com/album/4SvqWdh1i0UceZLnCzg8m2) | 3:34 | 2025-10-20 |  |
 | [You Better Come Get It](https://open.spotify.com/track/2VOd1uhT48gaSkGwjdMagy) | [RJW](https://open.spotify.com/artist/3ueaQgitKcF81dASV6U6Zx) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:21 | 2024-12-19 | 2024-12-21 |
 | [You Don't Want This](https://open.spotify.com/track/361oezwj8CXRHJHRDoaCM4) | [Mirage](https://open.spotify.com/artist/1t7EIjSsW1qmSwU3d10Aiy) | [Off The Grid](https://open.spotify.com/album/5dk6ax11T6s3QmwBUQPSod) | 3:23 | 2024-08-19 | 2024-09-29 |
 | [You Feel](https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [You Feel](https://open.spotify.com/album/00le7WzuiUjS7C6zl5lzdu) | 3:00 | 2023-12-31 | 2024-01-09 |

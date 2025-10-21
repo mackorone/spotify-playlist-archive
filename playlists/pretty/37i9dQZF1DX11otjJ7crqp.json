@@ -1,12 +1,12 @@
 {
   "description": "All this week's best new pop releases. Cover: Charlie Puth",
-  "num_followers": 242021,
+  "num_followers": 242647,
   "original_name": "All New Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAwaj+Tb6fPI5f+Gexv4haAFqrgc",
+  "snapshot_id": "AAAAADAQ4TS+b0cnG7Jm/cWTXJMlIAgS",
   "tracks": [
     {
       "added_at": "2025-10-17 04:00:54",
@@ -55,6 +55,22 @@
       "duration_ms": 171014,
       "name": "So Sad So Hot",
       "url": "https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY"
+    },
+    {
+      "added_at": "2025-10-20 21:41:03",
+      "album": {
+        "name": "Boyband",
+        "url": "https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Boyband",
+      "url": "https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA"
     },
     {
       "added_at": "2025-10-17 04:00:54",
@@ -163,7 +179,7 @@
     {
       "added_at": "2025-10-17 04:00:54",
       "album": {
-        "name": "Body Go (with Tyla)",
+        "name": "Body Go",
         "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
       },
       "artists": [
@@ -177,7 +193,7 @@
         }
       ],
       "duration_ms": 165000,
-      "name": "Body Go (with Tyla)",
+      "name": "Body Go",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
     },
     {

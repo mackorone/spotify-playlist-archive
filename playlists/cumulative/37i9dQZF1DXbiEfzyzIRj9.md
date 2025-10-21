@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Skin On Skin
 
-1,711 songs - 5 day 5 hr 19 min
+1,712 songs - 5 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [CHROMA 007 STEALL](https://open.spotify.com/track/4O6j6Dzz2M7Y0qf6hDMWrt) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Hammer](https://open.spotify.com/artist/3KtaBB3asBs44O4h3xx2V0) | [CHROMA 007](https://open.spotify.com/album/2HSmpeyuel16OScotn2RDF) | 5:40 | 2024-10-11 | 2024-12-06 |
 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 | 2025-01-16 | 2025-03-30 |
 | [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 | 2025-06-05 | 2025-08-10 |
+| [CHROMA 012 TANGZ II](https://open.spotify.com/track/03Y8fcQB5esucnR1CiG1Vh) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 012 TANGZ II](https://open.spotify.com/album/63NzSW7kCDtPjes17viCxU) | 4:42 | 2025-10-16 |  |
 | [Cigarette](https://open.spotify.com/track/0RQmlqEtYB7fqDvLHgAIjI) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Cigarette](https://open.spotify.com/album/5Oxe4hv91gpBQOSDROFhK7) | 3:34 | 2025-05-16 | 2025-07-18 |
 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 | 2023-03-16 | 2023-04-28 |
 | [Circle Back Around](https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Circle Back Around](https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33) | 3:15 | 2023-03-16 | 2023-06-30 |

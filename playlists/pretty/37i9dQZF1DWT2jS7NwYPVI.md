@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: They Are Gutting a Body of Water
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,323 likes - 109 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,313 likes - 109 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

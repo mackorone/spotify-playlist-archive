@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Likeboss
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,747 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,745 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TIFFANY](https://open.spotify.com/track/1zMpE11xADKpXzvnpkcS7M) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [GANG LAND](https://open.spotify.com/album/1hJsQbtlkPmI3yqr1vXJLZ) | 3:09 |
 | 2 | [Non Stop](https://open.spotify.com/track/2yy5z25y213U4NiSrCs0tW) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [MUNEYLXRD](https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [Non Stop](https://open.spotify.com/album/3oMrx0MbZAI3J7zF2DxqlL) | 3:19 |
 | 3 | [Prezi](https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Prezi](https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn) | 2:49 |
-| 4 | [Rave](https://open.spotify.com/track/4T3LCaLsX9m7A0w5crzfD1) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Donn](https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv), [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Rave](https://open.spotify.com/album/3X8uHLAdvebDF5mdtL0H5Y) | 2:50 |
+| 4 | [Rave](https://open.spotify.com/track/4T3LCaLsX9m7A0w5crzfD1) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Donn](https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv), [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Rave](https://open.spotify.com/album/3X8uHLAdvebDF5mdtL0H5Y) | 2:49 |
 | 5 | [ALEPOU](https://open.spotify.com/track/6tVxDRTL0EnSL4ITFbv97R) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [ALEPOU](https://open.spotify.com/album/03PfdPihxPMUX3HC8qcojr) | 3:34 |
 | 6 | [CAIRO 2](https://open.spotify.com/track/3Z2wrkY5yDg9Qx30jnlrpe) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q) | [CAIRO 2](https://open.spotify.com/album/1M9cJUcjUW63QmG6ZNJrLM) | 3:24 |
 | 7 | [PATEK](https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Omar](https://open.spotify.com/artist/2BdbmgQDvk6Sk8mRH1B47g) | [PATEK](https://open.spotify.com/album/0FWFzZwAFVmfyuev4tv0Km) | 2:35 |

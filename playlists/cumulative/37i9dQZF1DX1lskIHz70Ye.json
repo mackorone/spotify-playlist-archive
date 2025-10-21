@@ -2503,6 +2503,24 @@
     },
     {
       "album": {
+        "name": "Portinari",
+        "url": "https://open.spotify.com/album/7yeFLW7Tdz9if068I3nWEn"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135987,
+      "name": "Portinari",
+      "url": "https://open.spotify.com/track/35USnhAKetfjiZ21ywcU8a"
+    },
+    {
+      "album": {
         "name": "Preciosa",
         "url": "https://open.spotify.com/album/0pglYJR5nQuBRyBjYiNfgN"
       },
@@ -3014,6 +3032,24 @@
       "duration_ms": 184571,
       "name": "Sonata Bwv 1001 - (Siciliano)",
       "url": "https://open.spotify.com/track/0m2bd4V456cYNWWM1AIW0g"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/020pJe0xdiidQg4fW2oHRU"
+      },
+      "artists": [
+        {
+          "name": "David Sereno",
+          "url": "https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135124,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1vF22s3CRpZRbOuplV9jql"
     },
     {
       "album": {

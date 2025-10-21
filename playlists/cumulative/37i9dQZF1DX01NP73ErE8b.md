@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Annalisa in cover
 
-410 songs - 20 hr 55 min
+412 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [brutti ricordi\. \(con Bresh\)](https://open.spotify.com/track/2TVcSNKvETspMwQq24K9hR) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [decrescendo.](https://open.spotify.com/album/2oV2fJQbYBswcOptTNAKpd) | 2:37 | 2025-05-22 | 2025-09-24 |
 | [Bubble Gum \(버블검\)](https://open.spotify.com/track/7KMYf7i5JwMCCeHbL8fC7S) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bubble Gum \(버블검\)](https://open.spotify.com/album/0cMJ5tzbMwfZqNevuAI6he) | 2:49 | 2025-06-05 | 2025-08-29 |
 | [buia](https://open.spotify.com/track/3wcWAwF5Rw7SdTYWN7EV8k) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [buia](https://open.spotify.com/album/4RFfOBgfwHeIbf4k99PTOd) | 2:49 | 2025-09-18 | 2025-10-17 |
+| [Buio \(feat\. Giorgia\)](https://open.spotify.com/track/6NtsVuYgkSMDVuvA16IB5n) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Antologia Della Vita e Della Morte](https://open.spotify.com/album/7uHhBNrQ4PR4121dBMddIm) | 3:05 | 2025-10-20 |  |
 | [BUIO DAVANTI](https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:09 | 2024-09-19 | 2025-06-20 |
 | [Buon trasloco](https://open.spotify.com/track/3QLMlVX2QydtebrLV5vK2G) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 4:20 | 2025-09-29 |  |
 | [CABARET](https://open.spotify.com/track/3gY37Od3abC7qOZoWHbsur) | [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E), [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ) | [CABARET](https://open.spotify.com/album/7ysUidKVotdITc3h65MTAa) | 2:57 | 2025-06-26 | 2025-08-15 |
@@ -182,6 +183,7 @@
 | [Incoscienti Giovani](https://open.spotify.com/track/25VdEndwyUDs0DbpfCMfKD) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Incoscienti Giovani](https://open.spotify.com/album/1Qp7zFISJ3UoIZ86inShdW) | 3:24 | 2025-02-12 | 2025-06-13 |
 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 | 2025-06-05 |  |
 | [IO X LEI](https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ), [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [IO X LEI](https://open.spotify.com/album/1wFNbu08aXhGpJsJ8d845K) | 2:14 | 2024-08-08 | 2024-09-03 |
+| [ioeio](https://open.spotify.com/track/1rOcxaBilVIV0Nigg1YKKS) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 3:24 | 2025-10-20 |  |
 | [Islanda](https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Islanda](https://open.spotify.com/album/0awzpRHpQcLl76a8SRJ50R) | 3:37 | 2024-11-14 | 2025-06-20 |
 | [KARMA](https://open.spotify.com/track/3Tk7eEuh7bMDIAdYfSG3tb) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [KARMA](https://open.spotify.com/album/0NciSOteTA2J2Wp8v4jrJl) | 3:21 | 2024-07-01 | 2024-09-24 |
 | [L'albero delle noci](https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [L'albero delle noci](https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv) | 3:56 | 2025-02-12 | 2025-04-25 |
@@ -198,7 +200,7 @@
 | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl) | 3:19 | 2024-11-26 | 2025-01-17 |
 | [LA STESSA CANZONE](https://open.spotify.com/track/5Wkb7ahMx0TGohZWShBSD4) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [LA STESSA CANZONE](https://open.spotify.com/album/2T4bGFAsZYjhN4s2MEKsFj) | 3:41 | 2025-10-16 |  |
 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 | 2025-02-12 | 2025-06-13 |
-| [LA VOCE CHE CREDEVO DI AVER PERSO](https://open.spotify.com/track/2xQMUqcxDKrhpGtLYbXVs7) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [ANIME](https://open.spotify.com/album/0ox8dkBzXmmV7cgfstXdcu) | 3:03 | 2025-10-02 |  |
+| [LA VOCE CHE CREDEVO DI AVER PERSO](https://open.spotify.com/track/2xQMUqcxDKrhpGtLYbXVs7) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [ANIME](https://open.spotify.com/album/0ox8dkBzXmmV7cgfstXdcu) | 3:03 | 2025-10-02 | 2025-10-21 |
 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 | 2025-01-16 | 2025-02-18 |
 | [Lampo](https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lampo](https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv) | 3:27 | 2025-06-19 | 2025-08-23 |
 | [Lasciamene un po'](https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Lasciamene un po'](https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco) | 3:27 | 2025-09-11 |  |
@@ -330,7 +332,7 @@
 | [ROMANTICA](https://open.spotify.com/track/0P69lzMez4EK81zNq2zx6b) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [ROMANTICA](https://open.spotify.com/album/1515R9PDJhpiwKSuO8cnrK) | 2:21 | 2025-04-03 | 2025-05-27 |
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-12 | 2025-05-09 |
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-07-25 | 2025-01-31 |
-| [Sahbi](https://open.spotify.com/track/28smSIt8hqDgpbmARHyM9Z) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sahbi](https://open.spotify.com/album/2Wab0blxuuagyiQ7EdXVNK) | 2:22 | 2025-10-02 |  |
+| [Sahbi](https://open.spotify.com/track/28smSIt8hqDgpbmARHyM9Z) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Sahbi](https://open.spotify.com/album/2Wab0blxuuagyiQ7EdXVNK) | 2:22 | 2025-10-02 | 2025-10-21 |
 | [San Junipero](https://open.spotify.com/track/5Kjfb10pZKI62LidBmezYW) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [San Junipero](https://open.spotify.com/album/1fb2b1t5tMkdGAJeufs7mb) | 2:31 | 2025-04-17 | 2025-05-23 |
 | [San Luca \(feat\. Luca Carboni\)](https://open.spotify.com/track/4elAiEgBssziHLfCrBoEA2) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Luca Carboni](https://open.spotify.com/artist/1wmD3O9TEeshZVuFVgpm0g) | [ALASKA BABY](https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq) | 5:33 | 2024-12-13 | 2025-03-21 |
 | [Sant'allegria \- Jack Sani Remix](https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Jack Sani](https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN) | [Sant'allegria \(Jack Sani Remix\)](https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w) | 2:27 | 2024-09-02 | 2025-02-15 |

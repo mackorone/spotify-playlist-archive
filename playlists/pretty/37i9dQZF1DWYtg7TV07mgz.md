@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtg7TV07mgz.md) - [plain]
 
 > Floorfillers galore from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,200 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,187 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

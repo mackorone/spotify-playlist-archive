@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwI9xDkwMFb.md) - [plain]
 
 > The official playlist for” Blue Orchestra” ©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,252 likes - 38 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,277 likes - 38 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwI9xDkwMFb.md) - [plain]
 | 37 | [Think/Consider](https://open.spotify.com/track/386Ob32WB8Vp3995dRtXjN) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Blue Orchestra \(Original Soundtrack\)](https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ) | 2:05 |
 | 38 | [Beyond The Fears](https://open.spotify.com/track/2svgP8qZaIaDJVBKjQmxwd) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Blue Orchestra \(Original Soundtrack\)](https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ) | 2:08 |
 
-Snapshot ID: `AAAAAHTLSBVzXjACsWLMySfV6tGziFIe`
+Snapshot ID: `AAAAAMdwgAsmkfpWUtlO6/NktoENzQSo`

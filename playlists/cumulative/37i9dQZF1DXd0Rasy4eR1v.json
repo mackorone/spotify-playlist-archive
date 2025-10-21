@@ -4645,6 +4645,28 @@
     },
     {
       "album": {
+        "name": "Darzi",
+        "url": "https://open.spotify.com/album/4Wdy4cNnejL0CoHE1hJor7"
+      },
+      "artists": [
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        },
+        {
+          "name": "DeryAala",
+          "url": "https://open.spotify.com/artist/2I5pgCixkzLJj8jb2R0hvt"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Darzi",
+      "url": "https://open.spotify.com/track/4C76mOA1PKLYLgM30GHLuv"
+    },
+    {
+      "album": {
         "name": "Dass Dey",
         "url": "https://open.spotify.com/album/6eBKrOMwlOze45ym4uEth6"
       },
@@ -11904,7 +11926,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 204545,
       "name": "Lapata",
       "url": "https://open.spotify.com/track/7eYv4X3UbJzCp3OSNV87O0"
@@ -17947,6 +17969,24 @@
     },
     {
       "album": {
+        "name": "Sajan Ghar Aayaa",
+        "url": "https://open.spotify.com/album/4IZ2wVgaOIQdoFlAjwFu94"
+      },
+      "artists": [
+        {
+          "name": "Ghayas Haider",
+          "url": "https://open.spotify.com/artist/2tkZLbhG41sN7Kf4MsiNrw"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380055,
+      "name": "Sajan Ghar Aayaa",
+      "url": "https://open.spotify.com/track/3HF5K8pRVyIN4EGteQwwnK"
+    },
+    {
+      "album": {
         "name": "Sajna",
         "url": "https://open.spotify.com/album/6QGPeNH7T4FfHolYRQmuxI"
       },
@@ -21270,7 +21310,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 169392,
       "name": "Tittar Bittar",
       "url": "https://open.spotify.com/track/1IEqKWSF7CIPAOG8fsBdi7"

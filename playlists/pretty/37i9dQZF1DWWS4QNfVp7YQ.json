@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 95425,
+  "num_followers": 95466,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 212097,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "The Virus (Alan Rosales Remix)",
         "url": "https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 271259,
       "name": "The Virus - Alan Rosales Remix",
       "url": "https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 212097,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
     },
     {
       "added_at": "2024-07-05 22:41:57",

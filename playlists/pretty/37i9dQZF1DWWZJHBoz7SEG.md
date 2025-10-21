@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Llegó tu dotación de rolitas nuevas con sabor a pumpkin spice en compañía de Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,045 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,061 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 60 | [CUL8R](https://open.spotify.com/track/4xAYAJzhXvn9RCI27EpPjM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [CUL8R](https://open.spotify.com/album/76NAIsy3cTG6wNXkKValAq) | 2:18 |
 | 61 | [otravezmepusemal](https://open.spotify.com/track/5ZFKptR2zvSWsdULKgkRSU) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [otravezmepusemal](https://open.spotify.com/album/7M9VI5fEgbOCfuPZHDjyAN) | 2:46 |
 | 62 | [Flashing Lights](https://open.spotify.com/track/7vTkeUEwAW5BiOOvwTwu8W) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Jay Oc](https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS) | [Flashing Lights](https://open.spotify.com/album/3zh3pDdopN6xrftjHi6SzB) | 3:04 |
-| 63 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
+| 63 | [Lento \- Remix](https://open.spotify.com/track/3eF8AutNBEZ7ZbYPOCyOef) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL), [Easykid](https://open.spotify.com/artist/7zDviMQuAnKf3LLY5P2REL), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Lento \(Remix\)](https://open.spotify.com/album/4g8tFbfbuSW3ETTKfSnUJg) | 3:16 |
 | 64 | [nueveonceamarillo](https://open.spotify.com/track/1zJs0zwqadmFbh0zFflvAp) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L) | [nueveonceamarillo](https://open.spotify.com/album/16khlP9Sq4I2Ksg7FpOv2s) | 3:32 |
 | 65 | [tqm <3](https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG) | [ZTVZ](https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs) | [tqm <3](https://open.spotify.com/album/20BjmopTQQu5ZnbOF2vZhZ) | 2:36 |
 | 66 | [Tal Vez](https://open.spotify.com/track/6J5CJS1fFVJRlkVil5t9Z0) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Tal Vez](https://open.spotify.com/album/7aNC4dqtdKAUgbioBibkFV) | 2:57 |

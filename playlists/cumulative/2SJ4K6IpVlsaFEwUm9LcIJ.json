@@ -11405,6 +11405,24 @@
     },
     {
       "album": {
+        "name": "Geek the Girl",
+        "url": "https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Germano",
+          "url": "https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151960,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/7AD1EjsHB0ynpJ1LCkcz2X"
+    },
+    {
+      "album": {
         "name": "Thank God For Mental Illness",
         "url": "https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r"
       },

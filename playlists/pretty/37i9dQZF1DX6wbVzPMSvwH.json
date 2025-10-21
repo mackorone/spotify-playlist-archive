@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu positif untuk mengawali harimu.",
-  "num_followers": 253276,
+  "num_followers": 253284,
   "original_name": "Semangat Pagi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAVQT+TBkmfqkS7jOCyokcQvdD8",
+  "snapshot_id": "AAAAAKFeKtMUINO9X1QJzJy0P+CCKEKn",
   "tracks": [
     {
       "added_at": "2025-09-25 10:34:58",
@@ -73,22 +73,6 @@
       "url": "https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX"
     },
     {
-      "added_at": "2025-09-29 06:20:31",
-      "album": {
-        "name": "Well, dadah",
-        "url": "https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI"
-      },
-      "artists": [
-        {
-          "name": "Aya Anjani",
-          "url": "https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "Well, dadah",
-      "url": "https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp"
-    },
-    {
       "added_at": "2025-06-23 05:08:05",
       "album": {
         "name": "Lesung Pipi",
@@ -121,6 +105,22 @@
       "url": "https://open.spotify.com/track/7wsle0lIudoJaGDAXfwHjm"
     },
     {
+      "added_at": "2025-10-20 04:49:23",
+      "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M"
+      },
+      "artists": [
+        {
+          "name": "Showbiz",
+          "url": "https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC"
+        }
+      ],
+      "duration_ms": 203096,
+      "name": "Precious Time",
+      "url": "https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm"
+    },
+    {
       "added_at": "2025-10-15 02:54:13",
       "album": {
         "name": "Kacamata",
@@ -151,6 +151,22 @@
       "duration_ms": 195703,
       "name": "Now I'm a Diplomat",
       "url": "https://open.spotify.com/track/56kY65WwSloQlO3WJGfVRK"
+    },
+    {
+      "added_at": "2025-09-29 06:20:31",
+      "album": {
+        "name": "Well, dadah",
+        "url": "https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI"
+      },
+      "artists": [
+        {
+          "name": "Aya Anjani",
+          "url": "https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf"
+        }
+      ],
+      "duration_ms": 197963,
+      "name": "Well, dadah",
+      "url": "https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp"
     },
     {
       "added_at": "2025-09-29 06:20:31",

@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7533,
+  "num_followers": 7535,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "A Complete Unknown (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Leash (Babygirl Original Soundtrack)",
         "url": "https://open.spotify.com/album/7eNb8Hx6Ozf6Ed8WbPo3LG"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 261306,
       "name": "Leash (Babygirl Original Soundtrack)",
       "url": "https://open.spotify.com/track/3UURgDYcbOzELx4jVyKbwA"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "A Complete Unknown (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3N9jRXi3lfZ87POLY1pBO4"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/4Cm4dyJisFcySVbAIPAgvF"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -724,6 +724,22 @@
       },
       "artists": [
         {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
           "name": "Adriana Paz",
           "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
         },
@@ -735,22 +751,6 @@
       "duration_ms": 247186,
       "name": "Las Damas que Pasan",
       "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ"
     }
   ],
   "unique_name": "Golden Globes Official Playlist",

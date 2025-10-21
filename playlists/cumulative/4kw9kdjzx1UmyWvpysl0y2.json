@@ -4381,6 +4381,24 @@
     },
     {
       "album": {
+        "name": "Cultus",
+        "url": "https://open.spotify.com/album/1ZzyEhGp8NFbLR9ZaCYfap"
+      },
+      "artists": [
+        {
+          "name": "Screamarts",
+          "url": "https://open.spotify.com/artist/2WLKRiOp43XLwVhRdt46mH"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Cultus",
+      "url": "https://open.spotify.com/track/606HUTqRzUBZfaKbQE2A4n"
+    },
+    {
+      "album": {
         "name": "Curry Goat",
         "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
       },

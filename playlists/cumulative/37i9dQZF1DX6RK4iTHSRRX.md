@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-145 songs - 5 hr 56 min
+146 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [I Saw Three Ships](https://open.spotify.com/track/5GsWzzGYFaw1mrW3WwkGlk) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [I Saw Three Ships](https://open.spotify.com/album/2yhYfuNKEbUqWzmuZHnclf) | 1:44 | 2022-11-11 | 2025-09-03 |
 | [I Want A Hippopotamus For Christmas](https://open.spotify.com/track/1WZfN51Ppajwbb1CHb7ymQ) | [Nylah Read](https://open.spotify.com/artist/1t57FjgpJN2vjPRo3WS9LZ) | [I Want A Hippopotamus For Christmas](https://open.spotify.com/album/1OK1lQUpD4Hqy9tgJDwoFF) | 2:13 | 2023-10-06 |  |
 | [I Wonder as I Wander](https://open.spotify.com/track/4TYBwJ5fGKnPqin8qozC8A) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 1:04 | 2021-12-22 |  |
+| [I'll Be Home for Christmas](https://open.spotify.com/track/61dZswZwFXBKWXqite4lfv) | [Merry Pines](https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW) | [I'll Be Home for Christmas](https://open.spotify.com/album/0bw1pGrUrSeGrDu3MXDGra) | 2:46 | 2025-10-20 |  |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5YvgKMgdZrx1Ey4zdieQj1) | [Olivier Dernier](https://open.spotify.com/artist/3P2YIrQS0MGBnBUsenITLp) | [I'll Be Home For Christmas](https://open.spotify.com/album/5op9V5kvT225OgvhHdb0J4) | 1:14 | 2021-12-22 | 2025-09-03 |
 | [In Dulci Jubilo](https://open.spotify.com/track/4CgMcRtgYkkB2vxMVh21Cs) | [Sølvin Refvik](https://open.spotify.com/artist/0fUAVgLdki5UCCEbaKfX0L) | [Silent Night \- Christmas Songs for Guitar](https://open.spotify.com/album/56RQXXZgczxNDHoUzuybAT) | 2:15 | 2024-06-10 |  |
 | [In The Bleak Midwinter](https://open.spotify.com/track/1OqSragbUUlPg7WKF01prY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Blue Christmas](https://open.spotify.com/album/21w7OtjUD2N02608s1pYNE) | 2:12 | 2023-10-27 |  |

@@ -2,7 +2,7 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: Jadal
+> Alternative Arabic songs\. Cover: Autostrad
 
 245 songs - 14 hr 59 min
 

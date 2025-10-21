@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,725 likes - 74 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,745 likes - 74 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 2 | [España, Op\. 165: No\. 2, Tango \(Transcr\. for Guitar by Andrés Segovia\) \- Live at the Fundación Juan March](https://open.spotify.com/track/7ec7NpnONAYDLF3O1WHIPh) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Ricardo Gallén](https://open.spotify.com/artist/1XlKgZWAWycE0gjpzMk4JT) | [Albéniz: España, Op\. 165: No\. 2, Tango](https://open.spotify.com/album/337JY60SklzcRsh9XSIoN9) | 2:45 |
 | 3 | [Who](https://open.spotify.com/track/4NDPR97nB1PuQ7773VK5WK) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Who](https://open.spotify.com/album/4mV8P8lGIWFFlrYlPc94Wz) | 2:57 |
 | 4 | [Day of the Dead](https://open.spotify.com/track/6xKZtSbSn7QQLROYGwIO8T) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Day of the Dead](https://open.spotify.com/album/5e492cFRPmZDkqkV70KEJp) | 2:12 |
-| 5 | [I Found the Day](https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE) | [Carl Fletcher](https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK) | [I Found the Day](https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs) | 2:27 |
-| 6 | [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 |
+| 5 | [Onyx](https://open.spotify.com/track/5vPIHZrhWQV4bJvEvMOdwa) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Onyx](https://open.spotify.com/album/3xxdEs2WfbfsP14dXWdzEN) | 2:45 |
+| 6 | [I Found the Day](https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE) | [Carl Fletcher](https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK) | [I Found the Day](https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs) | 2:27 |
 | 7 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
-| 8 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
-| 9 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 |
-| 10 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
-| 11 | [Summer Soon](https://open.spotify.com/track/4VZ2YB3Gt6EhYE7uTmMuBy) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Summer Soon](https://open.spotify.com/album/7GeHByUQuBxbAkUZuvHsxg) | 2:34 |
+| 8 | [Summer Soon](https://open.spotify.com/track/4VZ2YB3Gt6EhYE7uTmMuBy) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Summer Soon](https://open.spotify.com/album/7GeHByUQuBxbAkUZuvHsxg) | 2:34 |
+| 9 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
+| 10 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 |
+| 11 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
 | 12 | [Barranquilla](https://open.spotify.com/track/1PHfOJSTE5nDbLl82HF4Vj) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Barranquilla](https://open.spotify.com/album/3oTQSSQPFnYtbPk494Y5Cx) | 2:38 |
 | 13 | [Dos Guitarras](https://open.spotify.com/track/4UjQ5fG1YrscY9Q6FmQnIf) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Dos Guitarras](https://open.spotify.com/album/55mPNeVnlH2BQSSCzJLXu2) | 2:16 |
 | 14 | [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 73 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 |
 | 74 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `AAAAAPjM3qOWJcLjyqbkeAnJIxerfLZC`
+Snapshot ID: `AAAAAHOBDoUkVGzR3bxGQKLbwV5RdvWt`

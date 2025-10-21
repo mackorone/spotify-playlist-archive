@@ -2,9 +2,9 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIXn4nNygqQeX>d4vd</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIW0gmEV4Vhyx>Chappell Roan</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a>, <a href=spotify:playlist:37i9dQZF1EIX3vr6UVonYQ>Sabrina Carpenter</a> and more
 
-811 songs - 1 day 22 hr 8 min
+812 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 | 2025-09-22 | 2025-09-23 |
 | [Dime si tú me quieres ver? \- Part 2](https://open.spotify.com/track/5Uz5WvNiUyAsAr0grkasfE) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Anti Social Cool Kid](https://open.spotify.com/album/6pisGd3CugRqlclq4yp308) | 2:36 | 2025-08-26 | 2025-08-27 |
 | [Djon maya maï \(feat\. Victor Démé\)](https://open.spotify.com/track/3hxRKXzZS0XRYGZ123JDNH) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [Convergence](https://open.spotify.com/album/6i3wEWPHYHA9LcJpEZ8gc3) | 3:14 | 2024-01-11 | 2024-04-19 |
-| [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2025-10-03 |  |
+| [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2025-10-03 | 2025-10-21 |
 | [Do Ya Like X Resonance](https://open.spotify.com/track/3QntMmPocNqnLoUGbVG5Jp) | [noturgf](https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS) | [Do Ya Like X Resonance](https://open.spotify.com/album/6Jaut5V6mmUuDbQ8GEb4eF) | 3:39 | 2024-01-08 | 2024-01-09 |
 | [Do You Remember](https://open.spotify.com/track/1EZJBB6bvCcrvYRlOyoHuf) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 2:24 | 2024-01-27 | 2024-03-27 |
 | [Don't Copy My Flow \- slowed](https://open.spotify.com/track/3HAd2qqLS4MGL3GV93rjpJ) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU), [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR) | [Don't Copy My Flow](https://open.spotify.com/album/28IvSlIgoZPSSHdLdn52NT) | 3:01 | 2025-08-18 | 2025-08-19 |
@@ -567,7 +567,7 @@
 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 | 2024-01-02 | 2024-10-02 |
 | [Rohan](https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Rohan](https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF) | 2:42 | 2024-04-10 | 2024-04-19 |
 | [ROLLING STONE](https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2024-01-02 | 2024-03-03 |
-| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2025-09-29 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2025-09-29 | 2025-10-21 |
 | [Rum Rage](https://open.spotify.com/track/3OwsQhfC9eJdOlD3IO74l4) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Land Of Pleasure](https://open.spotify.com/album/60syJlVPj5DcTyxfw4GK0f) | 4:12 | 2024-01-04 | 2024-01-24 |
 | [Runaway](https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc) | 4:32 | 2023-12-29 | 2024-02-01 |
 | [Sail Away](https://open.spotify.com/track/1cjouR9u8UPbvBc6vIwktF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder](https://open.spotify.com/album/27h98zEMf4R8Q25uOkumGe) | 5:15 | 2024-01-05 | 2024-03-21 |
@@ -712,6 +712,7 @@
 | [The Sea](https://open.spotify.com/track/0xjkgYSzHjBZNvyUaC9cXX) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP) | 5:47 | 2024-01-04 | 2025-08-16 |
 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 | 2024-02-09 | 2024-03-17 |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2024-02-01 | 2024-02-02 |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-10-21 |  |
 | [The Sun](https://open.spotify.com/track/5xy8yHtC2E9mbVT45Z1VpO) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [The Sun](https://open.spotify.com/album/1HGkSAFdttjLD5s1LXWOm0) | 2:37 | 2024-01-02 | 2024-01-06 |
 | [The Weight Is Gone \- The Purgatory Sessions](https://open.spotify.com/track/0kExggaYmBEq5RGfmf8GZp) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [The Purgatory Sessions](https://open.spotify.com/album/4DDLyEMT3Dv6VCzDXmDaf0) | 3:06 | 2024-01-13 | 2024-01-14 |
 | [Things We Lost In The Fire](https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 4:00 | 2025-09-06 | 2025-09-07 |
@@ -776,7 +777,7 @@
 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 | 2025-09-02 | 2025-09-07 |
 | [Water Flow](https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr) | [Klyne](https://open.spotify.com/artist/3q4qbeWVDpN7LcwU6db2a7) | [Klyne](https://open.spotify.com/album/4WUzT9TZGfU5sGsAXXjyaG) | 3:43 | 2024-01-11 | 2024-04-05 |
 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2024-01-02 | 2024-02-04 |
-| [We Almost Broke Up Again Last Night](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:23 | 2025-10-04 | 2025-10-05 |
+| [We Almost Broke Up Again Last Night](https://open.spotify.com/track/6wkYQMrFfb0huLB5Qn19Iv) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:23 | 2025-10-04 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2025-10-09 | 2025-10-19 |
 | [We Don't Have To Take Our Clothes Off \- Remastered 2015](https://open.spotify.com/track/49GpGYGli1xcxovgYf0k4c) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Feline \(Deluxe\)](https://open.spotify.com/album/3LfVVimEZr5YefjHZvlDzP) | 3:56 | 2024-01-03 | 2024-01-04 |
 | [We Find Love](https://open.spotify.com/track/1TPLsNVlofwX1txcE9gZZF) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:14 | 2024-01-09 | 2024-03-20 |

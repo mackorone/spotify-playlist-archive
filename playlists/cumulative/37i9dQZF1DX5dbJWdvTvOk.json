@@ -902,7 +902,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 159516,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 166683,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn"
@@ -5479,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/3GHDOyyxzgRtxuLMex0l4I"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188016,
+      "name": "Haze",
+      "url": "https://open.spotify.com/track/4UPMz9K7zjY8THQ5MPBUEA"
+    },
+    {
+      "album": {
         "name": "Hearst Castle",
         "url": "https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN"
       },
@@ -6300,7 +6318,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 157659,
       "name": "Into Motion",
       "url": "https://open.spotify.com/track/0bu1XZGQadPRJLf8F7hv6p"
@@ -8123,6 +8141,24 @@
     },
     {
       "album": {
+        "name": "Measure the world",
+        "url": "https://open.spotify.com/album/4P7nfxiMLMCl7cciW40uvo"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156011,
+      "name": "Measure the world",
+      "url": "https://open.spotify.com/track/6mzkc5gh5xXm0xPQbmA9aE"
+    },
+    {
+      "album": {
         "name": "Melhor Coisa",
         "url": "https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ"
       },
@@ -9142,7 +9178,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 173408,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/5q5otSq5s8JRENndQRisZJ"
@@ -11619,6 +11655,24 @@
     },
     {
       "album": {
+        "name": "Slow Return",
+        "url": "https://open.spotify.com/album/0TwF3XFncWiSPJEKUcsrr7"
+      },
+      "artists": [
+        {
+          "name": "Hayden Phoenix",
+          "url": "https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174099,
+      "name": "Slow Return",
+      "url": "https://open.spotify.com/track/5VTYBHbwlbIk6bIeZaJR15"
+    },
+    {
+      "album": {
         "name": "Slowly Moments",
         "url": "https://open.spotify.com/album/3as2aYAMd8ZPbo4WZI5UgG"
       },
@@ -11706,6 +11760,24 @@
       "duration_ms": 219000,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1"
+    },
+    {
+      "album": {
+        "name": "Sofi",
+        "url": "https://open.spotify.com/album/6CFdDRsZbvWZGWC42iQ9wb"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173619,
+      "name": "Sofi",
+      "url": "https://open.spotify.com/track/1E63PT29zZUjwssWUudCIX"
     },
     {
       "album": {
@@ -13257,6 +13329,24 @@
     },
     {
       "album": {
+        "name": "The Winding Road",
+        "url": "https://open.spotify.com/album/6QbrSgrvymEB6KfUVyZKQV"
+      },
+      "artists": [
+        {
+          "name": "Dorian Skye",
+          "url": "https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "The Winding Road",
+      "url": "https://open.spotify.com/track/68uofB3G5C257zDFVJSgL1"
+    },
+    {
+      "album": {
         "name": "Thing Of Beauty",
         "url": "https://open.spotify.com/album/6xq6nBH8XUmiBRhDEBSi7y"
       },
@@ -14180,6 +14270,24 @@
       "duration_ms": 104784,
       "name": "Vintervisa",
       "url": "https://open.spotify.com/track/6qFynggiuKEUNZrzjuuzWQ"
+    },
+    {
+      "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/17n0FEGM4SbdV0cRQ8OeTN"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162308,
+      "name": "Violetta",
+      "url": "https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ"
     },
     {
       "album": {

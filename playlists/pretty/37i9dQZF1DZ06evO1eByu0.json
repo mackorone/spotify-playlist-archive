@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162458,
+  "num_followers": 162459,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAAApfmbOU+aPdNKx0x0mYTc+",
+  "snapshot_id": "aPQqAAAAAABJVEysy3/7rFFx43F4pVdc",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia Tim- Tim por Tim- Tim",
+        "url": "https://open.spotify.com/album/7gLii9nd4WFKyj5MIarXka"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "ImaginAline",
+          "url": "https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN"
+        },
+        {
+          "name": "Maria Catherine",
+          "url": "https://open.spotify.com/artist/6NpFsyKn2cKsz0ClJIrwIA"
+        }
+      ],
+      "duration_ms": 216608,
+      "name": "Casinha de Jesus (feat. Maria Catherine)",
+      "url": "https://open.spotify.com/track/1125p0Bk6yVijF1eV4Q8wo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
       },
@@ -855,22 +879,6 @@
       "duration_ms": 236840,
       "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
       "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Louvar \u00e9 Bom Demais",
-      "url": "https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh"
     }
   ],
   "unique_name": "This Is Aline Barros",

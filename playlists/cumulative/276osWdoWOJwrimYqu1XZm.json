@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "BR3ATH3",
+        "url": "https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR"
+      },
+      "artists": [
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "BR3ATH3",
+      "url": "https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J"
+    },
+    {
+      "album": {
         "name": "Exhale VA001",
         "url": "https://open.spotify.com/album/0po0rc9aEPhTZG6yTgmHgn"
       },

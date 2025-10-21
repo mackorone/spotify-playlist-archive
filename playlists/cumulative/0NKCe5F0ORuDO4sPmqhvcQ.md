@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-701 songs - 1 day 15 hr 17 min
+703 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Like I Said \- CHROMEBODIED](https://open.spotify.com/track/2ckXnHXoecAhSgmLWP4mNP) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [Like I Said \(CHROMEBODIED\)](https://open.spotify.com/album/7nkDEtlQncBRQLfa8aXqnn) | 5:04 | 2024-10-11 | 2025-06-07 |
 | [Like Me \(feat\. Hooli\)](https://open.spotify.com/track/5NIRCmno5NeeDl8Bu5z0M9) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Hooli](https://open.spotify.com/artist/2WyNeweHZJAuEy3Mrtj0iW) | [Like Me \(feat\. Hooli\)](https://open.spotify.com/album/0rpyBk3C7Ttr7AyzlSyULH) | 2:23 | 2022-10-09 | 2023-01-20 |
 | [Like That](https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Like That](https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER) | 2:30 | 2022-07-15 | 2022-11-23 |
+| [LIMERENCE](https://open.spotify.com/track/5nITzteXAc5fXDtiQmhIBI) | [Beauvois](https://open.spotify.com/artist/6AbXJxYckXHpMDApmUyP8A) | [LIMERENCE](https://open.spotify.com/album/4iKMecARl9jUolLXdjO6QS) | 2:59 | 2025-10-20 |  |
 | [Liminal Spaces](https://open.spotify.com/track/4o46hDiC5c1ZLJ8vh9Wjee) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:52 | 2022-07-21 | 2022-07-23 |
 | [Limosina](https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Limosina](https://open.spotify.com/album/3bgPVDYyNQYmGDCARiVH0O) | 2:03 | 2024-05-12 | 2024-08-07 |
 | [Little League](https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Little League](https://open.spotify.com/album/26WqHeLHlv0Dde7RPYVw9G) | 2:49 | 2022-02-28 | 2022-03-31 |
@@ -703,6 +704,7 @@
 | [You](https://open.spotify.com/track/2jn2xXESbqEL8HAfNN9VH8) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You Stay High](https://open.spotify.com/album/7nB5MqLrLkwjmf8fhfmcAN) | 2:48 | 2023-02-23 | 2023-06-23 |
 | [You](https://open.spotify.com/track/7mGMjDKyFiEvBReptdRyeG) | [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [You](https://open.spotify.com/album/5QQq7rHmsOgNnFvWYpslmW) | 2:48 | 2023-01-12 | 2023-01-30 |
 | [YOU & I](https://open.spotify.com/track/6cgOdelOyLpjdcOl811Z9t) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [YOU & I](https://open.spotify.com/album/29MLRMFFGmRPxHJ93JeHhZ) | 3:51 | 2025-04-14 |  |
+| [You & Me](https://open.spotify.com/track/6atTrGB6eK8NOT6nniI237) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [You & Me](https://open.spotify.com/album/4SvqWdh1i0UceZLnCzg8m2) | 3:34 | 2025-10-20 |  |
 | [YOU AND ME](https://open.spotify.com/track/1VyRpTEE3InYTwUGcjsHJm) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [YOU AND ME](https://open.spotify.com/album/1ltwxGR8bbmlFMprZmF9pH) | 3:40 | 2023-03-15 | 2023-04-01 |
 | [Younger \- BARDZ Remix](https://open.spotify.com/track/4RkEXZ8eXEYHzoGuZIOohL) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [BARDZ](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:22 | 2021-12-01 | 2022-02-05 |
 | [Younger \- Blookah Remix](https://open.spotify.com/track/5bROtKOIFUxZkma5LeFbXa) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR) | [Younger \(The Remixes\)](https://open.spotify.com/album/2R5F1MQ1GZk1GFUHB3mLVI) | 3:15 | 2021-12-01 | 2022-02-05 |

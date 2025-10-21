@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 9694,
+  "num_followers": 9702,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01\u97f3\u697d\u96c6",
-        "url": "https://open.spotify.com/album/7o9sfg1C31MdFhv1QBpizb"
-      },
-      "artists": [
-        {
-          "name": "\u65e5\u9ad8\u306e\u308a\u5b50",
-          "url": "https://open.spotify.com/artist/34OA8bEaKKjRCn9qAMmvL7"
-        },
-        {
-          "name": "Rei Sakuma",
-          "url": "https://open.spotify.com/artist/1KWnkbFpSMuSsAh1frfIjf"
-        }
-      ],
-      "duration_ms": 268233,
-      "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01 \uff5eFLY HIGH\uff5e",
-      "url": "https://open.spotify.com/track/6AhRUa69AONqcxZ3Mt9J9h"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u653e\u900140\u5468\u5e74\u8a18\u5ff5\u30c9\u30e9\u3048\u3082\u3093 \u3046\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 137880,
       "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
       "url": "https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01\u97f3\u697d\u96c6",
+        "url": "https://open.spotify.com/album/7o9sfg1C31MdFhv1QBpizb"
+      },
+      "artists": [
+        {
+          "name": "\u65e5\u9ad8\u306e\u308a\u5b50",
+          "url": "https://open.spotify.com/artist/34OA8bEaKKjRCn9qAMmvL7"
+        },
+        {
+          "name": "Rei Sakuma",
+          "url": "https://open.spotify.com/artist/1KWnkbFpSMuSsAh1frfIjf"
+        }
+      ],
+      "duration_ms": 268233,
+      "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01 \uff5eFLY HIGH\uff5e",
+      "url": "https://open.spotify.com/track/6AhRUa69AONqcxZ3Mt9J9h"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "2000BEST\uff08\u30df\u30ec\u30cb\u30a2\u30e0\u30d9\u30b9\u30c8\uff09\u4e2d\u539f\u3081\u3044\u3053\u3000\u30d9\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3"
-      },
-      "artists": [
-        {
-          "name": "Meiko Nakahara",
-          "url": "https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "\u30ed\u30fb\u30ed\u30fb\u30ed\u30fb\u30ed\u30b7\u30a2\u30f3\u30fb\u30eb\u30fc\u30ec\u30c3\u30c8 - \u30ec\u30b3\u30fc\u30c9\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/0Zxy0ruSsqpKy948m4b4Qw"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u6226\u95d8\u30e1\u30ab \u30b6\u30d6\u30f3\u30b0\u30eb \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Vol.1",
         "url": "https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224893,
       "name": "\u75be\u98a8\u30b6\u30d6\u30f3\u30b0\u30eb",
       "url": "https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "2000BEST\uff08\u30df\u30ec\u30cb\u30a2\u30e0\u30d9\u30b9\u30c8\uff09\u4e2d\u539f\u3081\u3044\u3053\u3000\u30d9\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3"
+      },
+      "artists": [
+        {
+          "name": "Meiko Nakahara",
+          "url": "https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "\u30ed\u30fb\u30ed\u30fb\u30ed\u30fb\u30ed\u30b7\u30a2\u30f3\u30fb\u30eb\u30fc\u30ec\u30c3\u30c8 - \u30ec\u30b3\u30fc\u30c9\u30fb\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/0Zxy0ruSsqpKy948m4b4Qw"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/1LfeYAb1OmWYI12f180QJd"
+        "name": "\u71b1\u70c8\uff01\u30a2\u30cb\u30bd\u30f3\u9b42 THE ARTIST SELECTION \u4e32\u7530\u30a2\u30ad\u30e9 SELFCOVER COLLECTION",
+        "url": "https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH"
       },
       "artists": [
         {
-          "name": "a\u30fbchi-a\u30fbchi",
-          "url": "https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi"
+          "name": "Akira Kushida",
+          "url": "https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD"
         }
       ],
-      "duration_ms": 259433,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA"
+      "duration_ms": 217546,
+      "name": "\u30ad\u30f3\u8089\u30de\u30f3 Go Fight! (\u30ad\u30f3\u8089\u30de\u30f3)",
+      "url": "https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM"
     }
   ],
   "unique_name": "\u662d\u548c\u30a2\u30cb\u30e1",

@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-865 songs - 1 day 17 hr 52 min
+866 songs - 1 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Messi](https://open.spotify.com/track/18PbcGonKcBN61OU7vdPt7) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [7 SEAS](https://open.spotify.com/album/3iOGCPhPYsNTpgtfjFnhOc) | 3:06 | 2023-10-13 | 2023-10-27 |
 | [Metaverse](https://open.spotify.com/track/126kx7xYD916WUTMdvyJho) | [Oniisha](https://open.spotify.com/artist/5QjMLsuHSXIyF9GbWoVky1) | [Metaverse](https://open.spotify.com/album/7FSfXLshwfkcoJyCqj926E) | 2:37 | 2024-06-14 | 2024-07-13 |
 | [MI AMOR](https://open.spotify.com/track/0OzPsBQnK0MLUFVat8ueSE) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp) | [MI AMOR](https://open.spotify.com/album/7lRBRgmbbGJpTh7CoSdxD7) | 3:07 | 2024-02-16 | 2024-03-15 |
+| [MILLIONS](https://open.spotify.com/track/7EJspXo2FwdCxeFvQ1noaP) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [MILLIONS](https://open.spotify.com/album/3UTDZIfRoaqXQ78ClTfT0l) | 2:33 | 2025-10-17 |  |
 | [Mine Alone](https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:07 | 2022-09-30 | 2023-02-26 |
 | [MISS UNIVERSE](https://open.spotify.com/track/6rOY9kHJxwJCNMqsqd2LUO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Dumey](https://open.spotify.com/artist/0OEKjS8wv0c1cdc9ogqjFz) | [MISS UNIVERSE](https://open.spotify.com/album/2F4eqhwtKRJtq4B8slZoTO) | 4:14 | 2022-09-15 | 2022-10-14 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-08 | 2024-06-28 |
@@ -568,7 +569,7 @@
 | [No Love in Lagos](https://open.spotify.com/track/4chodBBB3GGkZ9J5E1Aned) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [1DA SHALL NEVER END](https://open.spotify.com/album/71DBsdMhCN3FgBRM1YicpT) | 3:14 | 2023-06-09 | 2023-06-23 |
 | [No Money](https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [OmoAkin](https://open.spotify.com/artist/1JNn0khn6hvlOZacF7VVUh) | [Global Party](https://open.spotify.com/album/1NJRIStQQb5jBuoQVdcJ6y) | 2:57 | 2023-05-04 | 2023-05-12 |
 | [No Way \- Remix](https://open.spotify.com/track/2DioKnZNxHU1RoThrtFMCX) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Beyond a Guitarist \[B.A.G\]](https://open.spotify.com/album/2vR2Ch3Al6Rd3U0vxv7z00) | 2:48 | 2024-09-06 | 2024-09-28 |
-| [NOBODY KNOW](https://open.spotify.com/track/5Dg5iu5kzOP7Cdp6DT9jCF) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [ODABO](https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR) | 3:17 | 2025-02-14 |  |
+| [NOBODY KNOW](https://open.spotify.com/track/5Dg5iu5kzOP7Cdp6DT9jCF) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [ODABO](https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR) | 3:17 | 2025-02-14 | 2025-10-21 |
 | [Not Today](https://open.spotify.com/track/7bOGIPpwqj0USnIgOiasil) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb), [Emmyzain](https://open.spotify.com/artist/4guSmoI7enA2IiJzxgxKWa), [Reinna](https://open.spotify.com/artist/3DQvr4jxZCbGY8yjT3JsiL) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:50 | 2024-03-15 | 2024-05-03 |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-21 | 2023-02-26 |
 | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/1uOd46FEiW7ritNBNgNdBK) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/album/7qsbzgt7rxG82wr7qi0v6T) | 4:03 | 2025-04-04 | 2025-08-26 |

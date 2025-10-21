@@ -366,6 +366,24 @@
     {
       "album": {
         "name": "Fire",
+        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237776,
+      "name": "Falter",
+      "url": "https://open.spotify.com/track/4IagfZ1d6DDMYj5HNnfbfW"
+    },
+    {
+      "album": {
+        "name": "Fire",
         "url": "https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE"
       },
       "artists": [
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 177348,
       "name": "Wound",
       "url": "https://open.spotify.com/track/2eA6jO82QNQQnI74aOFvyZ"

@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34232,
+  "num_followers": 34235,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,22 @@
     {
       "added_at": "2025-09-30 08:03:04",
       "album": {
-        "name": "Wait On Me - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
+        "name": "NA",
+        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
       "artists": [
         {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 143360,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
+      "duration_ms": 186773,
+      "name": "Heaven (Feat. Sam Kim)",
+      "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
     },
     {
       "added_at": "2025-09-30 08:03:04",
@@ -371,22 +375,18 @@
     {
       "added_at": "2025-09-30 08:03:04",
       "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
+        "name": "Wait On Me - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
         }
       ],
-      "duration_ms": 186773,
-      "name": "Heaven (Feat. Sam Kim)",
-      "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
+      "duration_ms": 143360,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
     },
     {
       "added_at": "2025-09-30 08:03:04",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-09-30 08:03:04",
       "album": {
-        "name": "Lost (Feat. Chan)",
-        "url": "https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR"
-      },
-      "artists": [
-        {
-          "name": "Giwon",
-          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
-        },
-        {
-          "name": "Chan (\ucc2c)",
-          "url": "https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Lost (Feat. Chan)",
-      "url": "https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6"
-    },
-    {
-      "added_at": "2025-09-30 08:03:04",
-      "album": {
         "name": "MaRz&B",
         "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 213282,
       "name": "Down (Feat. DUT2)",
       "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
+    },
+    {
+      "added_at": "2025-09-30 08:03:04",
+      "album": {
+        "name": "Lost (Feat. Chan)",
+        "url": "https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR"
+      },
+      "artists": [
+        {
+          "name": "Giwon",
+          "url": "https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV"
+        },
+        {
+          "name": "Chan (\ucc2c)",
+          "url": "https://open.spotify.com/artist/6u58RtKuPesaAnsSybhP5u"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Lost (Feat. Chan)",
+      "url": "https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6"
     },
     {
       "added_at": "2025-09-30 08:03:04",

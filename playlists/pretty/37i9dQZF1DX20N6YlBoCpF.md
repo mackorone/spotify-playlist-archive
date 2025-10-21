@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Leah, Brendan Peyper, Lianie May, Andriette, Herman Kleinhans en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,371 likes - 123 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,379 likes - 123 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 34 | [Kasteel Op Die Sand](https://open.spotify.com/track/2ftufkfxDRLGSzzIYpqO6R) | [Landman](https://open.spotify.com/artist/6KqbSdyUWXbo3HpBFFjq6O) | [Kasteel Op Die Sand](https://open.spotify.com/album/3v7MQKPIQVpXsoDY0ntafV) | 3:38 |
 | 35 | [Sibanyoni](https://open.spotify.com/track/0F4j9GOrf3NaOdzsJMymte) | [Dozi](https://open.spotify.com/artist/46hYfC7ROSU1sxGMK0pKXf) | [Sibanyoni](https://open.spotify.com/album/6RIfz0dTIQyExJqjDfdryS) | 3:33 |
 | 36 | [Ek Bly Jou Taal](https://open.spotify.com/track/49Lh2AgUnFdzog9LZLmSX8) | [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4), [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Ek Bly Jou Taal](https://open.spotify.com/album/1cKQ94L4y6ayQCxRTxG6bm) | 3:18 |
-| 37 | [Alien mode](https://open.spotify.com/track/3YJilbknnXYVhj9evmasZD) | [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [Alien mode \(Original\)](https://open.spotify.com/album/3doXco0SkoGtjyVBnLIKLX) | 3:02 |
+| 37 | [Alien mode](https://open.spotify.com/track/3YJilbknnXYVhj9evmasZD) | [Slamma D](https://open.spotify.com/artist/4fRD6JB528hNdAVikqKvHb) | [Alien mode](https://open.spotify.com/album/3doXco0SkoGtjyVBnLIKLX) | 3:02 |
 | 38 | [Almal Weet](https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq) | [Ichnus](https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT) | [Almal Weet](https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg) | 3:18 |
 | 39 | [Ons swerwe saam](https://open.spotify.com/track/5IkiMW0R6Xv0Kz92sEhCZS) | [Riku Lätti](https://open.spotify.com/artist/4E3S8voohPSw4En4DYX130) | [Ons swerwe saam](https://open.spotify.com/album/5kmMZtFSYZoNiZv092Wd5b) | 2:44 |
 | 40 | [Sterretjie Ligte](https://open.spotify.com/track/0fPF3ASklyJmcfi3DBa3H8) | [Vince](https://open.spotify.com/artist/5zylcEY5owXfhZPKp0Hiv7) | [Sterretjie Ligte](https://open.spotify.com/album/1KkRiKbQGxNXFqyCJ5tQIg) | 3:07 |

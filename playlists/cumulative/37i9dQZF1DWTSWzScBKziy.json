@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "All new Contemporary Christian songs on the rise! Cover: Stephen Stanley",
+  "description": "All new Contemporary Christian songs on the rise! Cover: Megan Woods",
   "name": "Christian Rising",
   "tracks": [
     {
@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "All That I Am",
+        "url": "https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        },
+        {
+          "name": "Hannah Boesen",
+          "url": "https://open.spotify.com/artist/0d7nS7ib9mUoByL6PyBEMx"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "All That I Am",
+      "url": "https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh"
+    },
+    {
+      "album": {
         "name": "All That I Need",
         "url": "https://open.spotify.com/album/2QsAwF0l3ftb6qInTKlXls"
       },
@@ -338,7 +360,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 184000,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/4qRGQCvqygDcfVw8REV2Fz"
@@ -664,6 +686,28 @@
       "duration_ms": 296200,
       "name": "At the heart of it",
       "url": "https://open.spotify.com/track/6qRPgq6TvimU60qNnmVnpG"
+    },
+    {
+      "album": {
+        "name": "At The Table",
+        "url": "https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94783,
+      "name": "At The Table",
+      "url": "https://open.spotify.com/track/0bKJZa5lv1KsL6UKiDAdJK"
     },
     {
       "album": {
@@ -1329,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Broken Forever",
+        "url": "https://open.spotify.com/album/089rB9ny40kWwr8Zeffm32"
+      },
+      "artists": [
+        {
+          "name": "MATTHEWS",
+          "url": "https://open.spotify.com/artist/6axjcGbkcunMPd8fOZCiDw"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245211,
+      "name": "Broken Forever",
+      "url": "https://open.spotify.com/track/6UrkkGhHr9c95PkoAPwteM"
+    },
+    {
+      "album": {
         "name": "Love Who I Am",
         "url": "https://open.spotify.com/album/5UIgdBGKJHRsYgUh44vno1"
       },
@@ -1936,10 +1998,28 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 177950,
       "name": "Cloud And Fire",
       "url": "https://open.spotify.com/track/4zfdqSebLcLay9LHLBypKf"
+    },
+    {
+      "album": {
+        "name": "Cold Of The Night",
+        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
+      },
+      "artists": [
+        {
+          "name": "Ivan Castro",
+          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223858,
+      "name": "Cold Of The Night",
+      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
     },
     {
       "album": {
@@ -2212,6 +2292,24 @@
       "duration_ms": 270924,
       "name": "Daddy's DNA",
       "url": "https://open.spotify.com/track/0pdrnY9GVHue97lansRFiw"
+    },
+    {
+      "album": {
+        "name": "Dance Upon The Storm",
+        "url": "https://open.spotify.com/album/3ZX9XstBeO64xtWMxqdUxl"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239829,
+      "name": "Dance Upon The Storm",
+      "url": "https://open.spotify.com/track/1CXNpvmnljxFJQqkr4Fn7e"
     },
     {
       "album": {
@@ -2823,6 +2921,32 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/0rW9TIMpD9p9bo86ktsXh7"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169952,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4fpTJoUZwwt16CuKPahUsK"
+    },
+    {
+      "album": {
         "name": "everything and more",
         "url": "https://open.spotify.com/album/1lDmfpUzTkpkxSCboC6ht8"
       },
@@ -3140,7 +3264,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 181851,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5cPZop4TWt0LaDKXZK3axt"
@@ -3468,7 +3592,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 137858,
       "name": "FOG",
       "url": "https://open.spotify.com/track/7uUEafji6W1u6qmaZi0bEz"
@@ -3785,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Ghost In The Graveyard",
+        "url": "https://open.spotify.com/album/6JcsXlAkt86iTMkQLSsNxO"
+      },
+      "artists": [
+        {
+          "name": "Caleb & John",
+          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171723,
+      "name": "Ghost In The Graveyard",
+      "url": "https://open.spotify.com/track/1WDdUGEtoKS4N7mUoFyayE"
+    },
+    {
+      "album": {
         "name": "give & take",
         "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
       },
@@ -3919,6 +4061,28 @@
     },
     {
       "album": {
+        "name": "God Is Faithful",
+        "url": "https://open.spotify.com/album/4RXLV7wKchzluzCd0BELnU"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        },
+        {
+          "name": "Katie Torwalt",
+          "url": "https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231083,
+      "name": "God Is Faithful",
+      "url": "https://open.spotify.com/track/2dkTLhgtsYewiUMCOzJlBH"
+    },
+    {
+      "album": {
         "name": "God Is For Me",
         "url": "https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU"
       },
@@ -4032,7 +4196,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 216346,
       "name": "God Of My Restoration",
       "url": "https://open.spotify.com/track/3iCdTATf6K7ZN16DQlxKQD"
@@ -4310,7 +4474,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 164881,
       "name": "Good Lord (God's Been Good)",
       "url": "https://open.spotify.com/track/0Lt2PKNLSAGUTbTYZbAX92"
@@ -4690,7 +4854,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 201243,
       "name": "Have Church",
       "url": "https://open.spotify.com/track/0JluplHZMaZqlutmFMUXKp"
@@ -5127,6 +5291,24 @@
     },
     {
       "album": {
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/2XhsRXdwWT7qPW6WtJGUXf"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153237,
+      "name": "Higher Places",
+      "url": "https://open.spotify.com/track/2NncdfXTfnluYyhaep7AXI"
+    },
+    {
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q"
       },
@@ -5167,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/7lDIdFyF3lcX0OYKfJ2G4j"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181864,
+      "name": "History",
+      "url": "https://open.spotify.com/track/1K4mkirXUaZ0cT75JFVMty"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/6OKYLvwDv9IW8wvkvEKKoB"
       },
@@ -5182,6 +5382,24 @@
       "duration_ms": 200357,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/6PxIGrqOlGUc5aQjqIsdG5"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Hold Your Horses",
+      "url": "https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V"
     },
     {
       "album": {
@@ -5858,6 +6076,28 @@
       "duration_ms": 204878,
       "name": "I Found Rest",
       "url": "https://open.spotify.com/track/2yZWgnbKFW3JRc1cII6Sra"
+    },
+    {
+      "album": {
+        "name": "I Got Saved",
+        "url": "https://open.spotify.com/album/5Eg4TBsuBE04YyOHhJ3Y2j"
+      },
+      "artists": [
+        {
+          "name": "TrueSong",
+          "url": "https://open.spotify.com/artist/4SH48CCV1H166tZxYd0tIj"
+        },
+        {
+          "name": "Todd Tilghman",
+          "url": "https://open.spotify.com/artist/5k73v1si3UFBqtVQciw7RQ"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221623,
+      "name": "I Got Saved",
+      "url": "https://open.spotify.com/track/43TAruEvss1VoLQp9I0P2S"
     },
     {
       "album": {
@@ -7670,7 +7910,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 178190,
       "name": "Left It In The River",
       "url": "https://open.spotify.com/track/12UlWZFRx4feuHwmy5CN2a"
@@ -7728,7 +7968,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 238000,
       "name": "Let It Be A Hallelujah",
       "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
@@ -7852,6 +8092,24 @@
       "duration_ms": 129886,
       "name": "Let's Build A House",
       "url": "https://open.spotify.com/track/6rDA22IVMyv0t2knSa4ROE"
+    },
+    {
+      "album": {
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/0QjeghvE34mmEBpby2n4Lf"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226064,
+      "name": "Let's Hope Again",
+      "url": "https://open.spotify.com/track/6hHuoltYpCPEbwerV3ROEV"
     },
     {
       "album": {
@@ -8086,7 +8344,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 139605,
       "name": "LIKE YOU DO",
       "url": "https://open.spotify.com/track/0ydvpPuVOqQJZOcF9eHFHp"
@@ -8314,7 +8572,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 195716,
       "name": "Love In Reverse",
       "url": "https://open.spotify.com/track/6FPnsCkwX4TZDX4WjUdpwk"
@@ -8652,6 +8910,24 @@
       "duration_ms": 280067,
       "name": "Meantime",
       "url": "https://open.spotify.com/track/3ACT3d5wshvm1nclHVwkGi"
+    },
+    {
+      "album": {
+        "name": "Life In Me",
+        "url": "https://open.spotify.com/album/7FIfXj0dEP5zf4Kl7KwcyC"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266573,
+      "name": "Meet Me In The Valley",
+      "url": "https://open.spotify.com/track/4DEidL01X20LpYZI288hG2"
     },
     {
       "album": {
@@ -9412,7 +9688,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 226265,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU"
@@ -9448,7 +9724,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 190350,
       "name": "NO SKIPS",
       "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
@@ -9488,6 +9764,24 @@
       "duration_ms": 151276,
       "name": "NOT ALONE",
       "url": "https://open.spotify.com/track/1UBgJ4krMOhlMwtUv8P6JB"
+    },
+    {
+      "album": {
+        "name": "not alone",
+        "url": "https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137250,
+      "name": "not alone",
+      "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
     },
     {
       "album": {
@@ -9756,6 +10050,24 @@
       "duration_ms": 262520,
       "name": "One Heart at a Time",
       "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "album": {
+        "name": "one step",
+        "url": "https://open.spotify.com/album/4opmUne3YMplksSGfP2y5f"
+      },
+      "artists": [
+        {
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "one step",
+      "url": "https://open.spotify.com/track/535zZ7cD7PF4zKi8YZJx81"
     },
     {
       "album": {
@@ -10307,6 +10619,24 @@
     },
     {
       "album": {
+        "name": "Prepare The Ground",
+        "url": "https://open.spotify.com/album/1r4DC6VhUIU2YyqJxn1m72"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288623,
+      "name": "Prepare The Ground",
+      "url": "https://open.spotify.com/track/297yMGaviWf0jiMJTU1wWT"
+    },
+    {
+      "album": {
         "name": "Prepare The Way",
         "url": "https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ"
       },
@@ -10340,6 +10670,28 @@
       "duration_ms": 231428,
       "name": "Proud Of You",
       "url": "https://open.spotify.com/track/3Mix9WqvN7SzDYdUUjZlAl"
+    },
+    {
+      "album": {
+        "name": "Walk Through Fire: Songs From The Smoke",
+        "url": "https://open.spotify.com/album/434BMwbP3CR0o877jfHBZG"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198716,
+      "name": "Prove A Thing",
+      "url": "https://open.spotify.com/track/1eW1cvfacSaQyI6mCkEqQO"
     },
     {
       "album": {
@@ -11007,6 +11359,24 @@
     },
     {
       "album": {
+        "name": "m us eum",
+        "url": "https://open.spotify.com/album/0YK6l5Aewg08BqpuC8W5S3"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201093,
+      "name": "Scales",
+      "url": "https://open.spotify.com/track/6sxUl1pvN1EUD1fSVyEu7Y"
+    },
+    {
+      "album": {
         "name": "Twenty Something",
         "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
       },
@@ -11250,7 +11620,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 256127,
       "name": "Sing My Way",
       "url": "https://open.spotify.com/track/4VTvvQI4QeSJk8p677SduB"
@@ -11450,6 +11820,24 @@
       "duration_ms": 250197,
       "name": "Song of My Love for You",
       "url": "https://open.spotify.com/track/7ruBxUIqQaTgHNaKX4VK5K"
+    },
+    {
+      "album": {
+        "name": "Song Of My Soul",
+        "url": "https://open.spotify.com/album/2i2gd91rUyrkHwiaHGV98g"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211599,
+      "name": "Song Of My Soul",
+      "url": "https://open.spotify.com/track/7wRQktGAKukB8vNxhShnx6"
     },
     {
       "album": {
@@ -12673,6 +13061,24 @@
     },
     {
       "album": {
+        "name": "IT NEEDS TO BE SAID",
+        "url": "https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297866,
+      "name": "THE NAME ABOVE ALL NAMES",
+      "url": "https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr"
+    },
+    {
+      "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp"
       },
@@ -12706,7 +13112,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 168058,
       "name": "THE ROCK",
       "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
@@ -13663,6 +14069,24 @@
     },
     {
       "album": {
+        "name": "What You're Worth",
+        "url": "https://open.spotify.com/album/6KHrCWJuoylbDsK9F0JvjA"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217125,
+      "name": "What You're Worth",
+      "url": "https://open.spotify.com/track/10Vmn3TNbRPGxSBdUd1Gyw"
+    },
+    {
+      "album": {
         "name": "When I Found You",
         "url": "https://open.spotify.com/album/0PfwHpCfZz0gELEcTOsfbd"
       },
@@ -13927,6 +14351,24 @@
     },
     {
       "album": {
+        "name": "Why Do You Love Me?",
+        "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248820,
+      "name": "Why Do You Love Me?",
+      "url": "https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe"
+    },
+    {
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/68V8xLeZJHQHqRFHKqsjjk"
       },
@@ -14000,6 +14442,24 @@
       "duration_ms": 210000,
       "name": "WILD!",
       "url": "https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah"
+    },
+    {
+      "album": {
+        "name": "Will You Let Me",
+        "url": "https://open.spotify.com/album/2gtI3hI7XHNxZEw7FcApnA"
+      },
+      "artists": [
+        {
+          "name": "Kylie Odetta",
+          "url": "https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281249,
+      "name": "Will You Let Me",
+      "url": "https://open.spotify.com/track/78I0X3v4gdZvFxn7hVTFlI"
     },
     {
       "album": {
@@ -14432,6 +14892,24 @@
       "duration_ms": 192204,
       "name": "You Never Let Go",
       "url": "https://open.spotify.com/track/21h586y5qWLuZH3OlmZfNO"
+    },
+    {
+      "album": {
+        "name": "You Started Fires",
+        "url": "https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169002,
+      "name": "You Started Fires",
+      "url": "https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh"
     },
     {
       "album": {

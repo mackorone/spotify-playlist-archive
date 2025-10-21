@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidxs haciendo música chida\. ANASOF en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,006 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,005 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 11 | [Claro](https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Claro](https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn) | 1:43 |
 | 12 | [Cuestión de Fe](https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Cuestión de Fe](https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN) | 2:23 |
 | 13 | [Él Nunca Existió](https://open.spotify.com/track/3f5F3yvyJOXx0aKNzSJ4xN) | [Mecánica Nacional](https://open.spotify.com/artist/1NkJFc1TlKF2w1w6wjR753) | [Él Nunca Existió](https://open.spotify.com/album/7HQoDMaMZGKFkemZDlaQ4W) | 3:06 |
-| 14 | [Claroscuro](https://open.spotify.com/track/5pKBW0LCUcnfEj3NcgpYaK) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Claroscuro](https://open.spotify.com/album/4s1wqrNzhzzihwAK1QeySq) | 4:06 |
+| 14 | [Claroscuro](https://open.spotify.com/track/5pKBW0LCUcnfEj3NcgpYaK) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Claroscuro](https://open.spotify.com/album/4s1wqrNzhzzihwAK1QeySq) | 4:09 |
 | 15 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
 | 16 | [Ya No Soy Tan Cool](https://open.spotify.com/track/3snPX7CoHWvANWN8La4GxY) | [Andie Gago](https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ) | [Ya No Soy Tan Cool](https://open.spotify.com/album/1ENW3ZbGkAhuzXg2sqgmNr) | 3:13 |
 | 17 | [Cuatrociegos](https://open.spotify.com/track/1Z5jm4nyZWHADrTXgI2VqX) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [MÁSCARAS](https://open.spotify.com/album/6F1DoIdwmtFnujLZLLZ8PB) | 3:04 |

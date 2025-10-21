@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: P T K
+> 50 nejžhavějších hitů v České republice\. Cover: GUFRAU, Victor Kal., Rohony
 
-170 songs - 8 hr 21 min
+171 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Na Očiach Vyryté](https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc) | [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [S.A.M.O.](https://open.spotify.com/album/03QrrM2ielwT7oZ2VsGjQX) | 3:40 | 2025-01-27 | 2025-05-30 |
 | [Na Plech](https://open.spotify.com/track/10FpZHj5BXgW31Tc2MtVnh) | [Na Plech](https://open.spotify.com/artist/0oDviw1ESfQmS6MAe2XaV6), [Churaq Sputnik](https://open.spotify.com/artist/1JGV8HjQdiDM9I1nPJdoPi), [Hoftyk](https://open.spotify.com/artist/498bveYyEqDFNvfJSnRHKL), [NAUME](https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv) | [Na Plech \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3hG3ALJoXrjnKNc4x1cO1H) | 3:03 | 2025-02-10 | 2025-03-25 |
 | [Narcos](https://open.spotify.com/track/1OWQtElgSSmAcIT6fZLJ6R) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Narcos](https://open.spotify.com/album/5RFUeH46MDwQ1PSIPJM6s5) | 3:11 | 2024-07-01 | 2025-09-23 |
+| [NAVŽDYCKY BLÁZEN](https://open.spotify.com/track/0FvV3lYeJ5xiqhsFDT0rzI) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio) | [NAVŽDYCKY BLÁZEN](https://open.spotify.com/album/0oNaM84SO3IYlkDwLypnRD) | 2:45 | 2025-10-20 |  |
 | [Nehaj tak](https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [SpecialBeatz](https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:31 | 2025-04-14 |  |
 | [nehledá lásku](https://open.spotify.com/track/3SDPxc5VPZu05EtU2UhxEX) | [Renne Dang](https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i) | [nehledá lásku](https://open.spotify.com/album/7Cd1hKXCgCiv0ErYNO0WLW) | 2:36 | 2024-07-01 | 2024-10-29 |
 | [Nemohl říct](https://open.spotify.com/track/1b2VxV0XkMzqOGPpmZxe8V) | [juli koli](https://open.spotify.com/artist/3F4MshW2XrEex8rNOrrU4w), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Nemohl říct](https://open.spotify.com/album/6Ge3LrbiVP9OmhxhrOgu5S) | 2:20 | 2025-09-01 | 2025-10-14 |
@@ -143,7 +144,7 @@
 | [STFU \(feat\. Calin & SIMILIVINLIFE\)](https://open.spotify.com/track/1ipAABlNuyDxSeaeTvjbVc) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [PRESIDENT OF SEXICO](https://open.spotify.com/album/3nkaxDNhc38JqBWqvHQACD) | 2:32 | 2024-07-01 | 2024-12-17 |
 | [studené srdce](https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Karlo](https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC), [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [brat](https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp) | 3:56 | 2025-06-09 |  |
 | [Stále som](https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:38 | 2025-04-28 | 2025-05-02 |
-| [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 | 2024-07-01 |  |
+| [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 | 2024-07-01 | 2025-10-21 |
 | [Sunset](https://open.spotify.com/track/4URDQWhb7ylkhuTY2W6hfG) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Jerry Lee](https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Sunset](https://open.spotify.com/album/3UhqPWwNPWA6uAB6eVUYOd) | 2:35 | 2024-07-01 | 2025-04-15 |
 | [Swagsucks](https://open.spotify.com/track/3kGZG7KKmJmJV85JtDAUwn) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 2:42 | 2025-04-07 | 2025-05-13 |
 | [Syndrom](https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:46 | 2024-11-18 |  |

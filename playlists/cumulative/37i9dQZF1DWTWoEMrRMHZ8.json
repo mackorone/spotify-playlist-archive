@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Chico Chico",
+  "description": "As belas novidades da MPB. Foto: Roberto Menescal, Cris Delanno",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -5307,6 +5307,28 @@
     },
     {
       "album": {
+        "name": "O Lado B da Bossa",
+        "url": "https://open.spotify.com/album/3kfyrMCj2u0kKDUEPFAIVW"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148762,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2ild5fklegAwRY8nxfb4ot"
+    },
+    {
+      "album": {
         "name": "Deixa de Brincadeira",
         "url": "https://open.spotify.com/album/53aSk8NUasHQ3ySnO4FriS"
       },
@@ -7156,6 +7178,24 @@
       "duration_ms": 142080,
       "name": "eu j\u00e1 n\u00e3o falo de amor",
       "url": "https://open.spotify.com/track/1tPvz44w6JfROTBwRpUKhp"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f5es do Velho Mundo",
+        "url": "https://open.spotify.com/album/7p7mpxc8y8SWZFDuXhoENq"
+      },
+      "artists": [
+        {
+          "name": "Teago Oliveira",
+          "url": "https://open.spotify.com/artist/02MYQC9MXXfOcrIwvc4dIS"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216658,
+      "name": "Eu Nasci Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/06vVPyS7i9LBu6eoBgCBqf"
     },
     {
       "album": {
@@ -15124,7 +15164,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 117646,
       "name": "Pra voc\u00ea poder chegar",
       "url": "https://open.spotify.com/track/1cj41zF5DVY9hwLFpPhPNB"
@@ -15620,7 +15660,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 267448,
       "name": "Pr\u00f3xima",
       "url": "https://open.spotify.com/track/6QAphFOhQzdC4nW2F775Jf"
@@ -17190,7 +17230,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 198081,
       "name": "Saudade dobra o tempo",
       "url": "https://open.spotify.com/track/2vi38vrAlFiSrTBD3vDEPr"
@@ -18450,6 +18490,24 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe"
+    },
+    {
+      "album": {
+        "name": "Sua Onda",
+        "url": "https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216410,
+      "name": "Sua Onda",
+      "url": "https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE"
     },
     {
       "album": {

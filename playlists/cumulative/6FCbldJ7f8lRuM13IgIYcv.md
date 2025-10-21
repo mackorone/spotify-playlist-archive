@@ -4,7 +4,7 @@
 
 > 
 
-63 songs - 5 hr 36 min
+64 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alice](https://open.spotify.com/track/0LjXgnlxCEyOEY1VqRGnzm) | [Viper Diva](https://open.spotify.com/artist/6QEPkk8Hz5cKSfkemPS6Xz) | [Alice](https://open.spotify.com/album/5U8j9DYsi6bkat7rFMKlUs) | 6:58 | 2021-02-09 |  |
 | [Astral Talk](https://open.spotify.com/track/5rPEVJlL4x5hOGttmxnkF8) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Road to Nowhere](https://open.spotify.com/album/6E965scR4udFDoAnUgQjNC) | 9:00 | 2022-02-04 |  |
 | [Born In 1968](https://open.spotify.com/track/6faLXLiju97d1y3d72piKa) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [Rk4](https://open.spotify.com/album/54wnjcC3dJNRbibmwqAsJB) | 5:07 | 2019-10-26 |  |
+| [BR3ATH3](https://open.spotify.com/track/55mBen1aWkKJC9W3Mzjo5J) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [BR3ATH3](https://open.spotify.com/album/4IjgjKh1QcQyx1K7xr2MKR) | 4:49 | 2025-10-20 |  |
 | [Broodje Bakpao](https://open.spotify.com/track/3Fr6KveeuBJcJUFpJHJgUX) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Broodje Bakpao](https://open.spotify.com/album/0ivm0EqI06etiLgOBoZZ3a) | 3:15 | 2019-09-24 |  |
 | [Chant Rush \- Dave Sinner Remix](https://open.spotify.com/track/2fvSehcoOX5pTSfeWpC5Gx) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Dave Sinner](https://open.spotify.com/artist/6ZR2XILLJ6y4cP6ttuBaRC) | [Chant Rush](https://open.spotify.com/album/4JIwIyc5U91KsfsQ6EozmZ) | 7:07 | 2020-02-17 |  |
 | [Close Your Eyes \- Original Mix](https://open.spotify.com/track/05UqkgVIeVjd6OovUCQaqE) | [Spartaque](https://open.spotify.com/artist/2OpUrUeIF1sqWHwSbMPNkB) | [Close Your Eyes](https://open.spotify.com/album/1u25tHkjKgif5SA7grgPAW) | 4:09 | 2021-05-20 |  |

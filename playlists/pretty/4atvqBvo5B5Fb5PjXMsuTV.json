@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Oct 18:05 UTC.",
-  "num_followers": 100,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Oct 03:05 UTC.",
+  "num_followers": 101,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVgQXX1kr3exiXUhu2dQH+MbPPyAED",
+  "snapshot_id": "AAAVgyl6XwsdQczybKDE7cBT20pn1gJE",
   "tracks": [
+    {
+      "added_at": "2025-10-21 03:05:14",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
+    },
     {
       "added_at": "2025-10-19 18:05:09",
       "album": {
@@ -827,22 +843,6 @@
       "duration_ms": 171049,
       "name": "Wall",
       "url": "https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX"
-    },
-    {
-      "added_at": "2025-10-14 03:10:10",
-      "album": {
-        "name": "Sick Sad World",
-        "url": "https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 173128,
-      "name": "Sick Sad World",
-      "url": "https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9"
     }
   ],
   "unique_name": "New Singles Now",

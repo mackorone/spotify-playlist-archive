@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Dude",
-  "num_followers": 724092,
+  "num_followers": 724174,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwRAv2HhV2lk6pftCr3I/ymJyJX",
+  "snapshot_id": "AAAAALV5GfXxO+DtqQ7ch3HzesKfGaAt",
   "tracks": [
     {
       "added_at": "2025-10-04 15:18:38",
@@ -35,6 +35,30 @@
       "duration_ms": 208000,
       "name": "Singari - From \"Dude\"",
       "url": "https://open.spotify.com/track/2iG9pZ6bkfVqXzjuax7J8Z"
+    },
+    {
+      "added_at": "2025-10-20 10:51:25",
+      "album": {
+        "name": "God Mode (From \"Karuppu\")",
+        "url": "https://open.spotify.com/album/2otqmzy8iRSHbeE4atgUY9"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        },
+        {
+          "name": "Vishnu Edavan",
+          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
+        }
+      ],
+      "duration_ms": 240281,
+      "name": "God Mode - From \"Karuppu\"",
+      "url": "https://open.spotify.com/track/1KT8UcTXHJVOLuRFZmRxtA"
     },
     {
       "added_at": "2025-07-28 09:54:01",
@@ -1123,30 +1147,6 @@
       "duration_ms": 207567,
       "name": "Ennile Ennile",
       "url": "https://open.spotify.com/track/52ItniXVg91NTxNIiiPhpm"
-    },
-    {
-      "added_at": "2025-09-29 07:01:51",
-      "album": {
-        "name": "En Swasamo (From\"Madhupriyan\")",
-        "url": "https://open.spotify.com/album/6gcnqHvjexhqOzkbHHzomb"
-      },
-      "artists": [
-        {
-          "name": "MS Mani",
-          "url": "https://open.spotify.com/artist/5yYpfdlCp4mxRLZbiMl1z7"
-        },
-        {
-          "name": "Mohanramkumar P",
-          "url": "https://open.spotify.com/artist/3Fns2vKu1LksmNxn4Mk8dk"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 187682,
-      "name": "En Swasamo (From\"Madhupriyan\")",
-      "url": "https://open.spotify.com/track/6JV0DN3ap1gcNEkn2hNkJS"
     },
     {
       "added_at": "2025-08-02 11:46:37",

@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-183 songs - 1 day 19 hr 9 min
+184 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Om Chanting](https://open.spotify.com/track/5JuFkSsuadASsHKgKtFLl8) | [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Tochi Mantras](https://open.spotify.com/album/6VUJesvxQBUsMrF09NO0tN) | 21:58 | 2022-01-24 | 2022-07-29 |
 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 | 2024-09-30 |  |
 | [Om Chants For Morning Meditation](https://open.spotify.com/track/3TuRqTxSGWrMhpSxkbzO3E) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Divine Om](https://open.spotify.com/album/2OywSmkN76dA4SWaNm7X6p) | 31:10 | 2025-07-24 |  |
-| [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 | 2023-12-26 |  |
+| [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 | 2023-12-26 | 2025-10-21 |
 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 | 2023-02-10 |  |
 | [Om Gum Ganapatayei Namaha \(Removing of Obstacles\)](https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 8:12 | 2022-01-24 |  |
 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 | 2023-05-23 |  |
@@ -142,6 +142,7 @@
 | [Resonance Meditation with Omkaar \- at 432 Hz](https://open.spotify.com/track/0MuPr9td6KGDdOSK660vcM) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p), [Rupa Tiwary](https://open.spotify.com/artist/6dwI4WlkGItwJ7bwDNeLzm) | [Chants of Moksha \- Omkaar \- at 432 Hz](https://open.spotify.com/album/1qp14fQUPcdOoadYpYZ27s) | 9:57 | 2022-01-24 | 2024-02-28 |
 | [Restorative Mantras](https://open.spotify.com/track/6Mp8hiNPzsvsCXxAmmUK2d) | [Morpheus Ascending](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0OZgLEU0uhjVxIPpNlrIfL) | 1:39 | 2022-08-05 | 2023-09-15 |
 | [Restorative Mantras](https://open.spotify.com/track/7jB2WjGFOiaH5zk6XijoYp) | [Zen Healing Music Collective](https://open.spotify.com/artist/40VM3yuQwPc2smHc4vvtok) | [Healing Mantras: Gentle Rhythms for Yoga, Relaxation and Calm in an Anxious World](https://open.spotify.com/album/0sHBRGUwClkWlEDadjt0eo) | 1:39 | 2022-01-24 | 2022-10-09 |
+| [Rudra Mantra](https://open.spotify.com/track/1RyjrVBee8sK11gO9aEeqJ) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Rudra Mantra](https://open.spotify.com/album/3MtxV01IRpaJ44vEumlsf4) | 9:13 | 2025-10-16 |  |
 | [Rudrashtakam](https://open.spotify.com/track/3CBzlr1rjztpKFurMbQizE) | [Rahul Vellal](https://open.spotify.com/artist/2UuXiT0l9zWMGwuz1dhyFw) | [Rudrashtakam](https://open.spotify.com/album/005iCBmS1Vhh7IzRW0j2rO) | 5:02 | 2024-02-29 | 2024-04-06 |
 | [Rudrashtakam](https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [In The Lap Of The Master](https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa) | 6:15 | 2024-12-30 |  |
 | [Rudrashtakam \- The Manifestation Of Shiva](https://open.spotify.com/track/64CiB4K6eabg8UK5pmlv6B) | [Vikram Hazra](https://open.spotify.com/artist/4tNu5NPtqLbnG90ew6QUpb) | [Rudrashtakam \- The Manifestation Of Shiva](https://open.spotify.com/album/6QJa1dUs1jgj1NRbQjzrvq) | 7:52 | 2025-02-21 |  |

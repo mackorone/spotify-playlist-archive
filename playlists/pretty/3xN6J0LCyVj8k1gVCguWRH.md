@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,963 likes - 168 songs - 9 hr 57 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,963 likes - 163 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,10 +171,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 161 | [Whine for Me Baby](https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ) | [Moneymarkhot](https://open.spotify.com/artist/09LFlcexm5a9KlybGUv1vR), [Eazi Money](https://open.spotify.com/artist/7JxdiR4AQ6TDKzHPRRaEL6) | [Whine for Me Baby](https://open.spotify.com/album/0qzwhEJ8iCDdfjYUfsh8mD) | 2:44 |
 | 162 | [Morocco, Japan](https://open.spotify.com/track/6Y8ZkYA3v9RQph1OzX934f) | [NESSERI](https://open.spotify.com/artist/3s5cJdioc0V9H9uDvmdj5m) | [Morocco, Japan](https://open.spotify.com/album/2UxM39wr0AJ6xUXlSWxSXF) | 2:03 |
 | 163 | [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 |
-| 164 | [cud me](https://open.spotify.com/track/2TwznLLXSKMdyXthgZqAyH) | [Sandia](https://open.spotify.com/artist/7pnGQvCihtaDCWHG3bQzIV) | [cud me](https://open.spotify.com/album/5oYfgIUdfiHE4H0l6DrmY8) | 3:04 |
-| 165 | [Kiss Cam Gone Wild](https://open.spotify.com/track/3yoiVlsIs2rgLzQXiCFi0Z) | [Chill in Brazil](https://open.spotify.com/artist/5x4E8m5rKeuj0WTerae8n2) | [Kiss Cam](https://open.spotify.com/album/2p3BKhbApuC0jn1PyWk4np) | 3:29 |
-| 166 | [Best Ride](https://open.spotify.com/track/1rFddXA4UcwLu5g4FdpuvC) | [JAM☆ONE](https://open.spotify.com/artist/02EZvsQ5QfzpqC2poRVRDL) | [JAMONE VOL 3](https://open.spotify.com/album/0A4uZsI19pmluhnQyo7vnu) | 3:07 |
-| 167 | [lost me where you found me](https://open.spotify.com/track/03xdIuR52GK0UQW8KHJhuy) | [Israel Wilson](https://open.spotify.com/artist/4xfk20sRrdkcWDg56jkXnS) | [Too Little Too Late II](https://open.spotify.com/album/2nsqGFWu8hqRlNcFjTVFPd) | 2:13 |
-| 168 | [Through the valley.](https://open.spotify.com/track/1xfzYCEu8nwQfp1Qfpii9U) | [Flyingboy Bobby](https://open.spotify.com/artist/1Elez1wU4It82utXDD9Bkh) | [Through the valley.](https://open.spotify.com/album/1cXWCdk3tNp7zoGpx7Zl4C) | 3:37 |
 
-Snapshot ID: `AAA1ACsvhBHF1CIBh76F52WGxi49uns+`
+Snapshot ID: `AAA1AdeJ1qiJHDFoCNXuWwk0VgoiuWUk`

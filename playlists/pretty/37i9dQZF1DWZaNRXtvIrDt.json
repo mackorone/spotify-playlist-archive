@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 131246,
+  "num_followers": 131239,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 136406,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 462304,
       "name": "Ethereal Connection",
       "url": "https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 136406,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "SPRINTER",
-        "url": "https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj"
-      },
-      "artists": [
-        {
-          "name": "KARMA",
-          "url": "https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9"
-        }
-      ],
-      "duration_ms": 187744,
-      "name": "SPRINTER",
-      "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "SPRINTER",
+        "url": "https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj"
+      },
+      "artists": [
+        {
+          "name": "KARMA",
+          "url": "https://open.spotify.com/artist/2CbSXiRcLCT8xjNeoebez9"
+        }
+      ],
+      "duration_ms": 187744,
+      "name": "SPRINTER",
+      "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -487,6 +487,30 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "the floor",
+        "url": "https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 234428,
+      "name": "the floor - skin on skin remix",
+      "url": "https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "What You Like (feat. yun\u00e8 pinku)",
         "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
       },
@@ -559,30 +583,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "the floor",
-        "url": "https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        },
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 234428,
-      "name": "the floor - skin on skin remix",
-      "url": "https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "play it again",
-        "url": "https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "play it again",
-      "url": "https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Safe In My Arms / YourLove",
         "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "play it again",
+        "url": "https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "play it again",
+      "url": "https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -699,6 +699,26 @@
       "duration_ms": 229107,
       "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "I Want You To Know",
+        "url": "https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        },
+        {
+          "name": "Kyle Starkey",
+          "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
+        }
+      ],
+      "duration_ms": 190302,
+      "name": "I Want You To Know",
+      "url": "https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -731,26 +751,6 @@
       "duration_ms": 228500,
       "name": "Desire to Stay",
       "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "I Want You To Know",
-        "url": "https://open.spotify.com/album/2zAwgvpAckW8rG7vgiDCZS"
-      },
-      "artists": [
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        },
-        {
-          "name": "Kyle Starkey",
-          "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
-        }
-      ],
-      "duration_ms": 190302,
-      "name": "I Want You To Know",
-      "url": "https://open.spotify.com/track/3lXC7mTOd15oE6nmrG0HLW"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 286274,
+      "name": "Birth4000",
+      "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Yosemite",
         "url": "https://open.spotify.com/album/5fDFirEEe5owUhblkIy23d"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 266375,
       "name": "Yosemite",
       "url": "https://open.spotify.com/track/2I7Ph7hRkjOMgy9WCsE4F3"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 286274,
-      "name": "Birth4000",
-      "url": "https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -915,18 +915,26 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Wicked Rhythm EP",
-        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
+        "name": "JUST A BEAT",
+        "url": "https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ"
       },
       "artists": [
         {
-          "name": "seKTa",
-          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
+          "name": "weirdtechnogirlfriend",
+          "url": "https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC"
+        },
+        {
+          "name": "PAUL LE B\u00c1Y",
+          "url": "https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn"
+        },
+        {
+          "name": "WTG & PLB",
+          "url": "https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq"
         }
       ],
-      "duration_ms": 173801,
-      "name": "Wicked Sound",
-      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
+      "duration_ms": 223714,
+      "name": "JUST A BEAT",
+      "url": "https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3"
     }
   ],
   "unique_name": "Portal",

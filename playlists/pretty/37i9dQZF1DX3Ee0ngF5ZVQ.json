@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jake Worthington",
-  "num_followers": 405764,
+  "num_followers": 405744,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Another Man",
         "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Start at the End",
         "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 317226,
-      "name": "A Cat in the Rain",
-      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Worry is a Sickness",
         "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 254836,
       "name": "Worry is a Sickness",
       "url": "https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 317226,
+      "name": "A Cat in the Rain",
+      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1495,18 +1495,22 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Live From Cheatham Street",
-        "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
         }
       ],
-      "duration_ms": 254013,
-      "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
-      "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1523,6 +1527,22 @@
       "duration_ms": 255159,
       "name": "The Greys Between",
       "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Live From Cheatham Street",
+        "url": "https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "All Of My Exes (Still Make Me Breakfast) - Live From Cheatham Street",
+      "url": "https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1555,26 +1575,6 @@
       "duration_ms": 212720,
       "name": "Horseback",
       "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Never Again One More Time",
-        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
-      },
-      "artists": [
-        {
-          "name": "Walker Montgomery",
-          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        }
-      ],
-      "duration_ms": 178284,
-      "name": "Never Again One More Time",
-      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
     },
     {
       "added_at": "2025-10-17 04:00:45",

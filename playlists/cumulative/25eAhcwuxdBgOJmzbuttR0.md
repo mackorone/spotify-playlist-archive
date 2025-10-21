@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-407 songs - 1 day 3 hr 57 min
+408 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 | 2023-09-09 |  |
 | [Itch For The Cure \(When Will We Be Free?\)](https://open.spotify.com/track/2VJ8DjdaOC5G3deIAefhq3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 1:26 | 2023-03-28 |  |
 | [Jet Pilot](https://open.spotify.com/track/0a2kVvbCbk52gmeFQFHNaG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 2:06 | 2023-03-28 |  |
+| [Karma Police \- Live In Denver](https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 3:25 | 2025-10-20 |  |
 | [KEEP DREAMING](https://open.spotify.com/track/7okj4XJ79OThXLfzCGUByT) | [Bunny Mimi](https://open.spotify.com/artist/09wXv9Adm9JViu28oyCC08), [Asterr](https://open.spotify.com/artist/79baYpVN5bf0u38KkcG2LM) | [KEEP DREAMING](https://open.spotify.com/album/1LgfXtwe4MdWxnZwR6wCa0) | 3:44 | 2024-06-08 |  |
 | [Kickapoo](https://open.spotify.com/track/7lFgli7y2vo7sjgynHZzBP) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [The Pick Of Destiny](https://open.spotify.com/album/3tYcwViLCWsT1ssa5p7V7A) | 4:14 | 2023-03-28 |  |
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/0AnicM6dcA18BIa9X2rOLM) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:37 | 2023-03-28 |  |

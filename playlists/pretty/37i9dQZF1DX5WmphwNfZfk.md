@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 30 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Bells Larsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,044 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,045 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 29 | [Control Me](https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq) | [TANAEYA](https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa) | [Control Me](https://open.spotify.com/album/7xORJMu524kyp9rGj2VuMy) | 3:11 |
 | 30 | [BPM](https://open.spotify.com/track/6MylOVUwvc62SMlvJEJ6CX) | [MADRiiNA](https://open.spotify.com/artist/71hlGt1GyQq0HOXC12ZGQ7), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [BPM](https://open.spotify.com/album/1Zu2yHizxzJxTHMvodRx0T) | 2:01 |
 
-Snapshot ID: `AAAAADeNdE0ip+4HxOZUA07PEINqsOjs`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

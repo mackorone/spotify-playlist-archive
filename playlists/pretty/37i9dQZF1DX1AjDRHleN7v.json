@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 395797,
+  "num_followers": 395880,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
+        "name": "Que Seja de Alegria",
+        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Que Seja de Alegria",
+      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
-        "name": "Que Seja de Alegria",
-        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Que Seja de Alegria",
-      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -643,18 +643,22 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+        "name": "Revolvendo as Raizes",
+        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
       "artists": [
         {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        },
+        {
+          "name": "Jo\u00e3o Beydoun",
+          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
         }
       ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+      "duration_ms": 230896,
+      "name": "Bora Chamegar",
+      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -679,22 +683,18 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Revolvendo as Raizes",
-        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
       "artists": [
         {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        },
-        {
-          "name": "Jo\u00e3o Beydoun",
-          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         }
       ],
-      "duration_ms": 230896,
-      "name": "Bora Chamegar",
-      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
-      },
-      "artists": [
-        {
-          "name": "Patr\u00edcia Ahmaral",
-          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
+      },
+      "artists": [
+        {
+          "name": "Patr\u00edcia Ahmaral",
+          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
     },
     {
       "added_at": "2025-09-12 17:34:26",

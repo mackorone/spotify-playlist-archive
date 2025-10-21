@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,163 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,112 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 70 | [Stuck](https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Stuck](https://open.spotify.com/album/2ztpreZhc7wJd1c5MKorZv) | 3:11 |
 | 71 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 72 | [FEVER](https://open.spotify.com/track/6vgtAqnANqEZ8tUWGDSyjt) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [FEVER](https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F) | 3:39 |
-| 73 | [Hyperpop Killed My Dog](https://open.spotify.com/track/1nBN5F1NbH5cq8wtTBcZ56) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Hyperpop Killed My Dog](https://open.spotify.com/album/675h9RsyoZUx8lWpulipzu) | 2:02 |
-| 74 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
+| 73 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
+| 74 | [Hyperpop Killed My Dog](https://open.spotify.com/track/1nBN5F1NbH5cq8wtTBcZ56) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Hyperpop Killed My Dog](https://open.spotify.com/album/675h9RsyoZUx8lWpulipzu) | 2:02 |
 | 75 | [Pity Party](https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Dark Magic](https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev) | 2:24 |
 | 76 | [Lay Down and Die](https://open.spotify.com/track/6SB6jP1Ua8LG3RrGW3NsZg) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Joyride The Pale Horse](https://open.spotify.com/album/2fnVa51C8t5osOJXc9DkWT) | 2:35 |
 | 77 | [High Stakes](https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [High Stakes](https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2) | 3:25 |
@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 84 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
 | 85 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |
 | 86 | [saturate](https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [saturate](https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE) | 3:14 |
-| 87 | [Get Your Ass To Mars](https://open.spotify.com/track/66OzlSp5sPkJOoeWXCh9r8) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Get Your Ass To Mars](https://open.spotify.com/album/41kUIzh1ng3MqRIH83oxyC) | 4:30 |
-| 88 | [Candy Mouth](https://open.spotify.com/track/19wtuLFeO7sIXHTxaW5l4H) | [SoSo](https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0) | [Candy Mouth](https://open.spotify.com/album/7BrRpfGIJqjIu9KQ7rsiRd) | 2:59 |
+| 87 | [Candy Mouth](https://open.spotify.com/track/19wtuLFeO7sIXHTxaW5l4H) | [SoSo](https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0) | [Candy Mouth](https://open.spotify.com/album/7BrRpfGIJqjIu9KQ7rsiRd) | 2:59 |
+| 88 | [Get Your Ass To Mars](https://open.spotify.com/track/66OzlSp5sPkJOoeWXCh9r8) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Get Your Ass To Mars](https://open.spotify.com/album/41kUIzh1ng3MqRIH83oxyC) | 4:30 |
 | 89 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
-| 90 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 |
-| 91 | [Hotel Lights](https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Hotel Lights](https://open.spotify.com/album/1xpHz8TOVagUG0KZzqTxX3) | 2:59 |
-| 92 | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
+| 90 | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail \(with Charlotte Sands\)](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
+| 91 | [Goodbye For Now \(feat\. Julien Baker\)](https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 4:20 |
+| 92 | [Hotel Lights](https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Hotel Lights](https://open.spotify.com/album/1xpHz8TOVagUG0KZzqTxX3) | 2:59 |
 | 93 | [PIN\-EYE](https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [PIN\-EYE](https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp) | 4:32 |
 | 94 | [Day By Day](https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Liminal](https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk) | 3:44 |
 | 95 | [Different \(feat\. Alex Gaskarth\)](https://open.spotify.com/track/7DW93g5FY4SAPCq7jUsgWF) | [Acceptance](https://open.spotify.com/artist/4zCbNayYzorqdzd9mPrghW), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5) | [Phantoms/Twenty](https://open.spotify.com/album/3kI3OWrB6LKdH7HwVI8X6o) | 4:31 |

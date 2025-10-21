@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "Amiri (Trumpet)",
+        "url": "https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Amiri (Trumpet)",
+      "url": "https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa"
+    },
+    {
+      "album": {
         "name": "Anabella",
         "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
@@ -8836,7 +8854,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"

@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139426,
+  "num_followers": 139431,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPLYgAAAAAA9Fq6l13yEuGj/Jfm8Uf5W",
+  "snapshot_id": "aPQqAAAAAAABgzDanVs0SDTRv9YdSJMw",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parallel Lines: Deluxe Collector's Edition",
         "url": "https://open.spotify.com/album/6raionWfBxaJphE3mc8Y4h"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 249733,
       "name": "Heart Of Glass - Remix",
       "url": "https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Do The Dark - Remastered 2001",
+      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pollinator",
         "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 174639,
       "name": "Doom or Destiny",
       "url": "https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Here's Looking At You - Remastered 2001",
-      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "Here's Looking At You - Remastered 2001",
+      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 380480,
       "name": "Ll\u00e1mame (Call Me)",
       "url": "https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Do The Dark - Remastered 2001",
-      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Girl",
-        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Sunday Girl - French Version",
-      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 227666,
       "name": "Angels On The Balcony - Remastered 2001",
       "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Girl",
+        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Sunday Girl - French Version",
+      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
     },
     {
       "added_at": null,

@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Aperitivo",
+        "url": "https://open.spotify.com/album/2sPf3cNCZnUQTladr4uPP8"
+      },
+      "artists": [
+        {
+          "name": "Jaake Alsonn",
+          "url": "https://open.spotify.com/artist/3cr5nXuwKwo9nPl2TF5X9f"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Aperitivo",
+      "url": "https://open.spotify.com/track/6TGTsXN0pXGxyVIL7XK6SD"
+    },
+    {
+      "album": {
         "name": "Apollo 13",
         "url": "https://open.spotify.com/album/0hfUVzIay4A8qzDh9jbScq"
       },
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 200875,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/6EY8GTREw2nQWUR6rkZMqJ"
@@ -2533,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "Daze",
+        "url": "https://open.spotify.com/album/5MV3dLx8iFn5G8b8vang5M"
+      },
+      "artists": [
+        {
+          "name": "Goland",
+          "url": "https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Daze",
+      "url": "https://open.spotify.com/track/09fJJLT8e20Ji5Z67rOSlC"
+    },
+    {
+      "album": {
         "name": "Radiance",
         "url": "https://open.spotify.com/album/3bU4iy7ozrDdFKvxehO0me"
       },
@@ -2598,7 +2634,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 180000,
       "name": "Deep Meaning",
       "url": "https://open.spotify.com/track/5PLhPQX56pD9C21PoPFJG7"
@@ -4132,7 +4168,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 139990,
       "name": "Fluffy Flakes",
       "url": "https://open.spotify.com/track/0kXUvcu0ljACNgP9sAclkT"
@@ -7623,6 +7659,42 @@
     },
     {
       "album": {
+        "name": "Mount Seymour",
+        "url": "https://open.spotify.com/album/1xx1gTbJglBKuV2GuFZFcN"
+      },
+      "artists": [
+        {
+          "name": "Deep Cove",
+          "url": "https://open.spotify.com/artist/769jCbfRT86Ysfwg1Jiagd"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Mount Seymour",
+      "url": "https://open.spotify.com/track/77gQmuygWFPTokQvDOnvZh"
+    },
+    {
+      "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/1xMKVl5RNRRH4Ud7h2EKBc"
+      },
+      "artists": [
+        {
+          "name": "Friends in Soho",
+          "url": "https://open.spotify.com/artist/5PUS2iMlYDL7yix2zsfQO6"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/60KpP4nUiYkR8HObEO75bn"
+    },
+    {
+      "album": {
         "name": "Moving Sidewalks",
         "url": "https://open.spotify.com/album/4w6kOiFn2YqnH22UwL5ivc"
       },
@@ -8128,7 +8200,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 154800,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/5Ta751OhMtN2F0IR9fJRFL"
@@ -8780,7 +8852,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 128823,
       "name": "Patient",
       "url": "https://open.spotify.com/track/0JiC3KyAo384rat8Jr94fP"
@@ -8892,7 +8964,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 140748,
       "name": "Pine away",
       "url": "https://open.spotify.com/track/7db2BY8DDmk3TCtrqucwLJ"
@@ -9468,7 +9540,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 149866,
       "name": "Rent",
       "url": "https://open.spotify.com/track/19iugsWjMy6wDD225VT35E"
@@ -9814,6 +9886,24 @@
       "duration_ms": 159706,
       "name": "runAway",
       "url": "https://open.spotify.com/track/7DR8XmrCVMCvjg6LYSoLLG"
+    },
+    {
+      "album": {
+        "name": "Running Low",
+        "url": "https://open.spotify.com/album/4klQC9NrU0G2eJUkvk9rOU"
+      },
+      "artists": [
+        {
+          "name": "Kim Chee",
+          "url": "https://open.spotify.com/artist/3DtAik5iqWq1T26oOhJkwJ"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122264,
+      "name": "Running Low",
+      "url": "https://open.spotify.com/track/4CcMhWf38IOeMjSMDhYmKQ"
     },
     {
       "album": {
@@ -12145,6 +12235,24 @@
     },
     {
       "album": {
+        "name": "think slow",
+        "url": "https://open.spotify.com/album/26dPjfZCULmC85DKAVNWbV"
+      },
+      "artists": [
+        {
+          "name": "MayDance",
+          "url": "https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "think slow",
+      "url": "https://open.spotify.com/track/2gFFA4WiUydQyd6aAQFM6y"
+    },
+    {
+      "album": {
         "name": "Fulton St Brunch Club",
         "url": "https://open.spotify.com/album/6MXluQZL5j8X5IBv8bj24Z"
       },
@@ -13292,6 +13400,24 @@
       "duration_ms": 138857,
       "name": "When in Rome",
       "url": "https://open.spotify.com/track/5gG8n4ZPxAF7W0G65rZzld"
+    },
+    {
+      "album": {
+        "name": "When the Air Feels Light Again",
+        "url": "https://open.spotify.com/album/0l5u2sjemcvNazh5jqPvnF"
+      },
+      "artists": [
+        {
+          "name": "Closest Cloud",
+          "url": "https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157531,
+      "name": "When the Air Feels Light Again",
+      "url": "https://open.spotify.com/track/4FZuNhELDM1YFQ3vHBHnsv"
     },
     {
       "album": {

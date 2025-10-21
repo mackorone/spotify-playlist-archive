@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from  Ms\* Gloom and Car Culture plus the latest cuts from Bennett Coast, ATRIP,  and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,689 likes - 100 songs - 5 hr 51 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,687 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

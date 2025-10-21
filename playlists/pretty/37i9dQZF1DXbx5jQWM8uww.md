@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbx5jQWM8uww.md) - [plain]
 
 > Step into the ring with the Official Playlist for The Smashing Machine\. Listen to the music from the film, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308 likes - 30 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335 likes - 30 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbx5jQWM8uww.md) - [plain]
 | 29 | [Make The World Go Away](https://open.spotify.com/track/5ZyV6v7aBOMEY39VbREblS) | [Timi Yuro](https://open.spotify.com/artist/2JyxVsEiD9HVRM7CtFaLCK) | [The Best Of Timi Yuro](https://open.spotify.com/album/18UaMS0uVYtzsIoDIS5v3P) | 2:38 |
 | 30 | [Limelight](https://open.spotify.com/track/1qVEtpM3m04SV6qjKJa9EM) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Stereotomy \(Expanded Edition\)](https://open.spotify.com/album/75CvRnbzfWYBzlMt9mmQXU) | 4:38 |
 
-Snapshot ID: `AAAAAAEXeUuxBW1r7qyJ64UFXi/lkD96`
+Snapshot ID: `AAAAALHXUqyN9kInpoGz7Tee66nQvKC+`

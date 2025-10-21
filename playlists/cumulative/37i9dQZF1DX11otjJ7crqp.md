@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Charlie Puth
 
-9,730 songs - 20 day 6 hr 39 min
+9,731 songs - 20 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1086,7 +1086,7 @@
 | [body bag](https://open.spotify.com/track/1q1F1zcjti3Ymg5PE1PH8c) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [body bag](https://open.spotify.com/album/3T6SV9CFVzyheMmCduMf4i) | 3:34 | 2024-12-27 | 2025-01-18 |
 | [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-01-27 | 2023-02-11 |
 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 | 2023-08-25 | 2023-09-16 |
-| [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-17 |  |
+| [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-17 |  |
 | [Body Language](https://open.spotify.com/track/07ubAt43hun1eLEacA47Ew) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Body Language](https://open.spotify.com/album/3RN5zcotxToQqV0q0m50Kg) | 2:22 | 2022-03-04 | 2022-03-18 |
 | [body language](https://open.spotify.com/track/6xs1WkRjbCHuYrfsCWT7ap) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [body language](https://open.spotify.com/album/5UyYQgjEMqHNX7EqUZ28cb) | 3:01 | 2025-05-23 | 2025-06-07 |
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-17 | 2023-12-09 |
@@ -1160,6 +1160,7 @@
 | [Boy Problems \- feat\. Cloudy June](https://open.spotify.com/track/4kApsVd9XGyO31gG5ahI6i) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Boy Problems \(feat\. Cloudy June\)](https://open.spotify.com/album/4CpEWtknVVYCD88k8yrL1O) | 2:48 | 2024-02-23 | 2024-03-02 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-03 | 2023-02-18 |
 | [BOY2DO](https://open.spotify.com/track/0iykHXC6iZjbGav2Pc3yMP) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [CHAOTIC EROTICA XXX](https://open.spotify.com/album/2nL3M7YGEDiF8M76qeNPR9) | 2:51 | 2025-03-07 | 2025-03-22 |
+| [Boyband](https://open.spotify.com/track/5wPwqVdBFCVGcQKyFXZgcA) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Boyband](https://open.spotify.com/album/5BTKTmmNjQ2cQRhVhrOEFl) | 2:57 | 2025-10-20 |  |
 | [Boyfriend](https://open.spotify.com/track/7r7RrAfvDiPYXm844DOSYT) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [Boyfriend](https://open.spotify.com/album/55HcEdFWzWzsWkhOH5fU8B) | 3:00 | 2025-03-21 | 2025-03-29 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-11 | 2022-03-05 |
 | [boyfriend](https://open.spotify.com/track/2MOqRMjE5MDnnwJrIWEpcn) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [boyfriend](https://open.spotify.com/album/1QQMzq2GMrCEtOwk6CNxpb) | 1:57 | 2025-09-19 | 2025-10-04 |

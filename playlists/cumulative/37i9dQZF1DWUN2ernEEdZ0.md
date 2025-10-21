@@ -2,7 +2,7 @@
 
 ### [Classical Bangers 2025](https://open.spotify.com/playlist/37i9dQZF1DWUN2ernEEdZ0)
 
-> Introducing the hottest new classical music of 2025🔥<br/>Cover: Aimi Kobayashi.
+> Introducing the hottest classical music of 2025🔥
 
 201 songs - 13 hr 37 min
 

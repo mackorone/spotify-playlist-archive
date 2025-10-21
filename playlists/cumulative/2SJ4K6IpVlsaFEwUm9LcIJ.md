@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-771 songs - 1 day 21 hr 23 min
+772 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [Stan Is Lowe](https://open.spotify.com/track/2E3h67GZuG6NQ9jDQpV24t) | [Geoffrey Landers](https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc) | [The Ever Decimal Pulse](https://open.spotify.com/album/2q4XZHhXycsAejrdhMCVkP) | 5:43 | 2025-01-15 | 2025-03-02 |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2024-03-09 | 2024-05-16 |
 | [Starless and Bible Black](https://open.spotify.com/track/7Hizduyb2lA3NVIhhnTRVb) | [The Stan Tracey Quartet](https://open.spotify.com/artist/5tfoctRy4j9HuRXGcwFMs2) | [Under Milk Wood: Jazz Suite](https://open.spotify.com/album/5x5htFCZYqtOd7skJYAsNd) | 3:51 | 2025-09-10 |  |
+| [Stars](https://open.spotify.com/track/7AD1EjsHB0ynpJ1LCkcz2X) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 2:31 | 2025-10-20 |  |
 | [Stars](https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Thank God For Mental Illness](https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r) | 3:15 | 2024-10-02 | 2024-11-14 |
 | [Starshy](https://open.spotify.com/track/4lHPPwYzahtsG46xE2idb5) | [Heavenly](https://open.spotify.com/artist/1sDWIdL18InXgES9TwvsL2) | [Le Jardin De Heavenly](https://open.spotify.com/album/0InB1oG08YUmJuztRRoHvK) | 4:09 | 2025-04-23 | 2025-05-09 |
 | [Stella](https://open.spotify.com/track/0zzk2I2yDc1320lyrH5Dvh) | [Ultramarine](https://open.spotify.com/artist/7dWvlbbAJ7penJUnxOtUJF) | [Every Man and Woman Is a Star](https://open.spotify.com/album/2yu1jtGNrYsVvTqycc4oh6) | 4:25 | 2025-04-23 | 2025-05-09 |

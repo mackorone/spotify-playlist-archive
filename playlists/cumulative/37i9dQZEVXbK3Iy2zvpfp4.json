@@ -9467,6 +9467,24 @@
     },
     {
       "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE"
+    },
+    {
+      "album": {
         "name": "BRR BRR PATAPIM FUNK",
         "url": "https://open.spotify.com/album/1nvshTiznmq89dOyEtvr54"
       },
@@ -46866,7 +46884,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
@@ -55052,6 +55070,28 @@
       "duration_ms": 156781,
       "name": "S tebou",
       "url": "https://open.spotify.com/track/3hEkAArF6wAyQEWuR80YRr"
+    },
+    {
+      "album": {
+        "name": "Dobre Rano",
+        "url": "https://open.spotify.com/album/5AiZnniVJpKCxx89iZmME8"
+      },
+      "artists": [
+        {
+          "name": "Vec",
+          "url": "https://open.spotify.com/artist/2EXuVM16OVBrlvkB3xrhaL"
+        },
+        {
+          "name": "H16",
+          "url": "https://open.spotify.com/artist/1itXAnp2giHFQSzcvdN7xg"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313253,
+      "name": "S vlkmi \u017eijem s vlkmi vyjem (feat. H16)",
+      "url": "https://open.spotify.com/track/6P5ks8GNWqaK9lex5cY7E6"
     },
     {
       "album": {
@@ -70546,7 +70586,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-21",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

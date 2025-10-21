@@ -1469,6 +1469,24 @@
     },
     {
       "album": {
+        "name": "do or die",
+        "url": "https://open.spotify.com/album/7LQHvrifx6A0oDIdmeQyBm"
+      },
+      "artists": [
+        {
+          "name": "shot by stanley",
+          "url": "https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ"
+        }
+      ],
+      "date_added": "2025-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372700,
+      "name": "do or die",
+      "url": "https://open.spotify.com/track/6JjCSWys9okuJOZjuKs4oP"
+    },
+    {
+      "album": {
         "name": "Dogma",
         "url": "https://open.spotify.com/album/0Ae7fSikzEg1JR1JHx46og"
       },

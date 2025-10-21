@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,317 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,443 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 2 | [Dead](https://open.spotify.com/track/3ruUNrY3Vr7D84QnvNrcGt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Dead](https://open.spotify.com/album/4eOTSkwqPH3cXTlDZQZUKW) | 4:04 |
 | 3 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 |
 | 4 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 |
-| 5 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
-| 6 | [The End \(feat\. BABYMETAL\) \- 2025 VERSION](https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:42 |
-| 7 | [Conquer \(feat\. Josh Mowery of Catch Your Breath\)](https://open.spotify.com/track/2f0CzQtErjDiiSL5kW3SQE) | [Arankai](https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX), [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Conquer \(feat\. Josh Mowery of Catch Your Breath\)](https://open.spotify.com/album/7HP7X98DvRPXW0CtImpsEX) | 2:59 |
-| 8 | [bad luck](https://open.spotify.com/track/4l6m1x05ChXrZA7GEoQtO6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu), [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [bad luck](https://open.spotify.com/album/78DHgUcHMwtvfQuXBolNWt) | 4:12 |
+| 5 | [bad luck](https://open.spotify.com/track/4l6m1x05ChXrZA7GEoQtO6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu), [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [bad luck](https://open.spotify.com/album/78DHgUcHMwtvfQuXBolNWt) | 4:12 |
+| 6 | [Shelter](https://open.spotify.com/track/53ricdihmEjTUBtBGRWK5b) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Lonely God](https://open.spotify.com/album/2Xxkietvt0COre6jAvs6OW) | 3:26 |
+| 7 | [The End \(feat\. BABYMETAL\) \- 2025 VERSION](https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:42 |
+| 8 | [Conquer \(feat\. Josh Mowery of Catch Your Breath\)](https://open.spotify.com/track/2f0CzQtErjDiiSL5kW3SQE) | [Arankai](https://open.spotify.com/artist/1KVSyARbnZN9IGoISqxSDX), [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Conquer \(feat\. Josh Mowery of Catch Your Breath\)](https://open.spotify.com/album/7HP7X98DvRPXW0CtImpsEX) | 2:59 |
 | 9 | [What Lies Within](https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [What Lies Within](https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY) | 5:06 |
 | 10 | [AD ASTRA](https://open.spotify.com/track/1dcywVLqlThchSWBGtXcpV) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [SILOS](https://open.spotify.com/album/5OvVvOZpu1OH1SzcYYgvry) | 4:35 |
 | 11 | [Black Hole](https://open.spotify.com/track/0P61vpmBIZNm3T2KgvB6GS) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Ascend](https://open.spotify.com/album/04ilbtJjDrLaNGsr6BBe6I) | 4:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 74 | [God Terror](https://open.spotify.com/track/1wlikY9neDeNwPvVFETOod) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Blue Nowhere](https://open.spotify.com/album/7qy9gnX5SXAeW9fO6pzwTh) | 6:41 |
 | 75 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 |
 
-Snapshot ID: `AAAAAJZ3UKSOjBqYkhMdN0dJkCCqq4kE`
+Snapshot ID: `AAAAAJFFKmbdjtStZnhHfOnglH3hUCwl`

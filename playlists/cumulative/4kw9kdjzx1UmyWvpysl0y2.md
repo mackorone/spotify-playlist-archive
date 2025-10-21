@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,096 songs - 2 day 13 hr 14 min
+1,097 songs - 2 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-10 | 2022-05-21 |
 | [CRY \- Borgore Remix](https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Someone You Can Count On \(The Remixes\)](https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l) | 4:18 | 2023-07-17 | 2023-12-14 |
 | [Crystal Cave](https://open.spotify.com/track/5Vu7U8dOSZFfWlLTyPXhUS) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Crystal Cave](https://open.spotify.com/album/1pdQbefpBh3GisI3fDW59T) | 2:29 | 2025-04-29 | 2025-07-24 |
+| [Cultus](https://open.spotify.com/track/606HUTqRzUBZfaKbQE2A4n) | [Screamarts](https://open.spotify.com/artist/2WLKRiOp43XLwVhRdt46mH) | [Cultus](https://open.spotify.com/album/1ZzyEhGp8NFbLR9ZaCYfap) | 4:13 | 2025-10-20 |  |
 | [Curry Goat](https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Solesky](https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw) | [Curry Goat](https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV) | 2:19 | 2025-10-14 |  |
 | [Cyan](https://open.spotify.com/track/0o4GFEcDdhbfGruMLIPOKV) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Malva](https://open.spotify.com/album/5cqyzitY6IgCLjOsRpILx2) | 3:39 | 2022-11-14 | 2023-02-02 |
 | [Cycles](https://open.spotify.com/track/6m5nyZ7HsnNJ5C1XvkY6Ga) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Cycles](https://open.spotify.com/album/56Z8kjqUaZ5qfq7sW9h9CJ) | 3:14 | 2025-03-18 | 2025-06-13 |
