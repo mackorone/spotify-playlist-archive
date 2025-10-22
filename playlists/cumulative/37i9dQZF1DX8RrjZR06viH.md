@@ -4,7 +4,7 @@
 
 > Høsten er her! 🍂
 
-267 songs - 13 hr 50 min
+268 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Kyssa noken andre](https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO) | [Kyssa noken andre](https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3) | 2:32 | 2025-06-05 | 2025-06-29 |
 | [la meg ligge](https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [la meg ligge](https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI) | 3:30 | 2024-06-27 | 2024-10-28 |
 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 | 2024-06-27 | 2024-10-25 |
+| [Late Bloomer](https://open.spotify.com/track/2O5HmTtJOZaRQ6TMOKf4Gg) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg vil ikke stå i ro lenger](https://open.spotify.com/album/5tOX3r3JMbo4tCYOuExN8A) | 2:53 | 2025-10-16 |  |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2025-03-01 |
 | [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-02 | 2025-06-02 |
 | [Learning as I go](https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5) | [Kristina Moe Hals](https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj) | [Learning as I go](https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG) | 2:47 | 2024-11-28 |  |
@@ -208,7 +209,7 @@
 | [Rød cabriolet](https://open.spotify.com/track/2aFUqqRsbBBC7Bt58xRE9j) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Rød cabriolet](https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg) | 3:43 | 2024-09-16 | 2024-10-11 |
 | [Second Nature](https://open.spotify.com/track/1Y98awUOuPdheqh0cnDLHw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/3PGsOrW90ABHRIuv4zG9la) | 2:33 | 2025-06-26 | 2025-07-18 |
 | [Sent](https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Sent](https://open.spotify.com/album/2qMklbVaUEqHxL4PgpKEy3) | 2:15 | 2024-06-27 | 2024-07-16 |
-| [Serpentine](https://open.spotify.com/track/4nP2wX1FKSWIlhORPF74uI) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Serpentine](https://open.spotify.com/album/16DaTWFm1J0WH5Ba0I7Rfs) | 2:48 | 2025-10-02 |  |
+| [Serpentine](https://open.spotify.com/track/4nP2wX1FKSWIlhORPF74uI) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Serpentine](https://open.spotify.com/album/16DaTWFm1J0WH5Ba0I7Rfs) | 2:48 | 2025-10-02 | 2025-10-22 |
 | [shine.](https://open.spotify.com/track/1kyOeRkWXzq13WDDKXElvW) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [reasons why u should text me\. \(+1 \(818\) 643\-6885\)](https://open.spotify.com/album/6Lwgk9PczqxtJjjhM2XvFi) | 2:27 | 2024-11-28 | 2025-01-10 |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-27 | 2025-06-02 |
 | [Sjå på oss nå](https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sjå på oss nå](https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ) | 3:15 | 2024-06-27 | 2024-09-30 |

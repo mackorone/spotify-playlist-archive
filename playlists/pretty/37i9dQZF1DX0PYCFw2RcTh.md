@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 
 > Poddar att ha på din RADAR\. Omslag: Inte pojkvänner
 
-[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 10 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 10 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYCFw2RcTh.md) - [plain]
 | 9 | [1\. Blattetjejer är the original tradwives](https://open.spotify.com/episode/2xDKQMHfoC24OwfnNJaqy4) | [Lanas podd](https://open.spotify.com/show/33udL6c6lNBHjHwHdQ7fbs) | [Lanas podd](https://open.spotify.com/album/33udL6c6lNBHjHwHdQ7fbs) | 49:09 |
 | 10 | [30\. Grottmänniskor och kokosnöts\-bikini](https://open.spotify.com/episode/6yaqVeFniBUd1fywxB1yxc) | [Hälsa morsan](https://open.spotify.com/show/5jCWf83Z27IKpp5DxGHWNU) | [Hälsa morsan](https://open.spotify.com/album/5jCWf83Z27IKpp5DxGHWNU) | 1:00:31 |
 
-Snapshot ID: `AAAAABM4Dac+JUmjeSP8dPNvXqQEoxM3`
+Snapshot ID: `AAAAABDm0T5L+kGPDVJM9vspC4gfU2Dd`

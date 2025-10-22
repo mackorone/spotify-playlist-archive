@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,675 likes - 48 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,677 likes - 48 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 27 | [JÁLATE CONMIGO](https://open.spotify.com/track/1ReSEvrls62oUS82Lrjked) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:58 |
 | 28 | [Contigo](https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Contigo](https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm) | 2:50 |
 | 29 | [Esta Noche \(Version Norteña\)](https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 2:21 |
-| 30 | [Mi Vicio Mi Adicción](https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mi Vicio Mi Adicción](https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ) | 2:19 |
+| 30 | [La Fiesta De Mi Rancho \- Remix](https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Fiesta De Mi Rancho \(Remix\)](https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg) | 2:38 |
 | 31 | [NO TE ENAMORES DE NADIE](https://open.spotify.com/track/58O1moT1L8wKUZPspLCDeM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 3:09 |
-| 32 | [La Fiesta De Mi Rancho \- Remix](https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh) | [Monir Bautista](https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [La Fiesta De Mi Rancho \(Remix\)](https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg) | 2:38 |
+| 32 | [Mi Vicio Mi Adicción](https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mi Vicio Mi Adicción](https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ) | 2:19 |
 | 33 | [Esto Avanza](https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:23 |
 | 34 | [NTPD Recordar](https://open.spotify.com/track/6D8D4OY5Hp52frnZayENqQ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 3:16 |
 | 35 | [HASTA EL FONDO](https://open.spotify.com/track/6Dj96onw1xh18NAsc8l3GY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:23 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 47 | [Duele Saber](https://open.spotify.com/track/608OACwyp4GJodMOxdEMsF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:39 |
 | 48 | [Una Rosa Blanca](https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Una Rosa Blanca](https://open.spotify.com/album/6ZrH3aoxhVjBWZu0Cjj49o) | 3:20 |
 
-Snapshot ID: `aPQqAAAAAAC6EP6FZPLo2uITtr3Zetub`
+Snapshot ID: `aPV7gAAAAADE4FXVHH6RlBXey15tt80D`

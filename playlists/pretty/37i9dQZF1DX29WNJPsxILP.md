@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,553 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,613 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sad Gaana](https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:29 |
-| 2 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
+| 2 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
 | 3 | [Tantrums](https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN) | 2:22 |
 | 4 | [Chai Party](https://open.spotify.com/track/7uzRugU1xCkDTpw8fQJK1H) | [SARTHAK BIJALWAN](https://open.spotify.com/artist/4BtjODiWrEDj3VJxK1jA01) | [Chai Party](https://open.spotify.com/album/03sMOkvFos2LO24apEKrvd) | 2:12 |
 | 5 | [Joota Japani](https://open.spotify.com/track/3G0gdqt4LTreFwBYaymUhp) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Joota Japani](https://open.spotify.com/album/4wGScOi2a1xEpmHNaOii3D) | 2:35 |

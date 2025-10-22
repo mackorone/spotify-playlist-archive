@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Diogo Piçarra, Bandidos do Cante
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,185 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,188 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu e Eu \(com Bandidos do Cante\)](https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [D≡Z](https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne) | 3:23 |
 | 2 | [Casar É pra Esquecer](https://open.spotify.com/track/5zA1oOmQh2v32sij1Whsms) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Casar É pra Esquecer](https://open.spotify.com/album/0zHXkr6XD0iQEHYM8b35or) | 2:57 |
 | 3 | [Tu na Tua](https://open.spotify.com/track/0dKgbCUSt2Ig01fWrPriHk) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Buba Espinho](https://open.spotify.com/artist/3B6lsop4CFEdGzlCksiL6R) | [Tu na Tua](https://open.spotify.com/album/1LWWdusOyQN5J3BfpXtFeO) | 2:48 |
-| 4 | [Dancemos Um Slow](https://open.spotify.com/track/0FfRzV2SWi46X02Hi8dO4P) | [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi), [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Recantigas \- As Canções de Miguel Araújo](https://open.spotify.com/album/39eVM72MnmYcyNIiDVLmwj) | 3:46 |
+| 4 | [Dancemos Um Slow](https://open.spotify.com/track/0FfRzV2SWi46X02Hi8dO4P) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi) | [Recantigas \- As Canções de Miguel Araújo](https://open.spotify.com/album/39eVM72MnmYcyNIiDVLmwj) | 3:46 |
 | 5 | [Pobre Ex\-Namorado](https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pobre Ex\-Namorado](https://open.spotify.com/album/0SsVu6tQmkA4wo97kMivgc) | 2:53 |
 | 6 | [Porta 43](https://open.spotify.com/track/5AaxgkscZPjOR9kQr0QAUf) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [Porta 43](https://open.spotify.com/album/50OKNeNLgVWU6VmiQ1zkeD) | 2:45 |
 | 7 | [Beijo](https://open.spotify.com/track/3303s19agScDaCsPYdCu7i) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Toy](https://open.spotify.com/artist/3ggsRmBGV01RYdNu8pRWJd), [Tony Carreira](https://open.spotify.com/artist/6w7nHPNj2BIGTEbRrefVyu) | [Beijo](https://open.spotify.com/album/2KnncUYSx94xd8rox89Rrw) | 3:29 |

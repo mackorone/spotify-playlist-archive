@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35192,
+  "num_followers": 35193,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAABob9VLk1KDlqNLyh8onn0L",
+  "snapshot_id": "aPV7gAAAAADVlUsqmskPUf/lSjt+X+WL",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 327400,
+      "name": "Jesus Paid It All",
+      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/6ePNBkM6M9YXH7R34eJOZp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 327400,
-      "name": "Jesus Paid It All",
-      "url": "https://open.spotify.com/track/73EIpn5AcedCWPOmxWMxH9"
     },
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs That Changed The Church - Worship",
+        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Breathe - Live",
+      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call On Heaven (Come, Lord Jesus) - Live",
         "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 362680,
       "name": "The Lamb's Book of Life - Live From Passion 2025",
       "url": "https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs That Changed The Church - Worship",
-        "url": "https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Breathe - Live",
-      "url": "https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97"
     },
     {
       "added_at": null,
@@ -947,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Heart (Live)",
-        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
+        "name": "I've Witnessed It (Live)",
+        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         },
         {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         }
       ],
-      "duration_ms": 343320,
-      "name": "Reckless Love - Live",
-      "url": "https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi"
+      "duration_ms": 378412,
+      "name": "Gratitude - Live From Passion 2023",
+      "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Witnessed It (Live)",
-        "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
+        "name": "Whole Heart (Live)",
+        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
           "name": "Passion",
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
         }
       ],
-      "duration_ms": 378412,
-      "name": "Gratitude - Live From Passion 2023",
-      "url": "https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7"
+      "duration_ms": 343320,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi"
     },
     {
       "added_at": null,

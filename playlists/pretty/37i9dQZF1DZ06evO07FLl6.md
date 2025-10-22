@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,206 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,226 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 45 | [The Pan Piper](https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Sketches of Spain](https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD) | 3:56 |
 | 46 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 |
 | 47 | [What's New](https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [A Day In Paris](https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU) | 3:39 |
-| 48 | [Human Nature \(2022 Remaster\)](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
-| 49 | [Dune Mosse](https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Zu & Co.](https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt) | 5:44 |
+| 48 | [Dune Mosse](https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Zu & Co.](https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt) | 5:44 |
+| 49 | [Human Nature \(2022 Remaster\)](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
 | 50 | [Oleo \- RVG Remaster](https://open.spotify.com/track/6xPwn3TDhmKr2LWwg15a3i) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 5:12 |
 
-Snapshot ID: `aPQqAAAAAADlML+J7H6cEwcW/Ac7xzat`
+Snapshot ID: `aPV7gAAAAABerVImu7tn/DcWkT/50Q//`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Elias Rønnenfelt  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,962 likes - 238 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,966 likes - 238 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 34 | [Run It](https://open.spotify.com/track/113RFsE4pPm8SjDHpVUNDi) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Run It](https://open.spotify.com/album/1blwBeuknRb6ZWUNuVvmXA) | 3:07 |
 | 35 | [Stressed Out](https://open.spotify.com/track/2hPjodk3uO452PXj93V7GU) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Got Shit On My Pants Act II](https://open.spotify.com/album/44uUN2EvFMzgD0LnU373q5) | 3:13 |
 | 36 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
-| 37 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 |
+| 37 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 |
 | 38 | [Naive](https://open.spotify.com/track/0XYjFOhn4vchGIuDkQdk4D) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Naive](https://open.spotify.com/album/3jH5zIsuqxMJ4DZqq2CcGI) | 3:00 |
 | 39 | [DJ Carpenter's Lovesong](https://open.spotify.com/track/7a78wGtjGBzcQJ49hKPn5E) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [DJ Carpenter's Lovesong](https://open.spotify.com/album/14x8YWiS5PFCtitIVLih1V) | 3:01 |
 | 40 | [ruined for me](https://open.spotify.com/track/0tYhqTUD5RVRQrB26wZrYO) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [ruined for me](https://open.spotify.com/album/4STWINy6qyrPq9k7uQe4Nt) | 1:59 |

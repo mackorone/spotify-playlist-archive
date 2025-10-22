@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,374 songs - 3 day 11 hr 56 min
+1,376 songs - 3 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,6 +573,7 @@
 | [helium](https://open.spotify.com/track/2N8djHgfdViWfGSxJpJO0c) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [helium](https://open.spotify.com/album/5WjiWOcFguju9bZkfXk2DR) | 3:35 | 2025-05-09 | 2025-06-22 |
 | [Hell is Other People](https://open.spotify.com/track/7q7ZgeTsfhCDewBSb5tIim) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Hell is Other People](https://open.spotify.com/album/4RWvDCNII3onIm2bZvjzdy) | 3:39 | 2022-07-13 | 2022-07-19 |
 | [Hell Is Where The Heart Is](https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. III: Clarity](https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG) | 3:53 | 2022-11-25 | 2023-08-28 |
+| [Hellbound](https://open.spotify.com/track/3eJSJwvXZhlSmXnjwoKFhz) | [Gaerea](https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw) | [Hellbound](https://open.spotify.com/album/7IEbw0XUFwM20tXrveBpep) | 5:23 | 2025-10-21 |  |
 | [Hellmouth](https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Hellmouth](https://open.spotify.com/album/42xWOp9Wymj0Wh21YKLkqD) | 3:41 | 2022-07-13 | 2022-07-22 |
 | [Hellstar](https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Hellstar](https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv) | 3:12 | 2024-03-08 | 2024-12-19 |
 | [Heretic](https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:22 | 2022-11-18 | 2023-07-15 |
@@ -775,7 +776,7 @@
 | [Monster](https://open.spotify.com/track/6sq2FStQI6nEw7NiSWTgTu) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Monster](https://open.spotify.com/album/5JaW7zptptjNILAtgA0sxD) | 2:52 | 2024-08-12 | 2024-08-26 |
 | [Monster](https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY) | [Take The Name](https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf) | [Monster](https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX) | 3:37 | 2024-08-12 | 2025-06-18 |
 | [MONSTER](https://open.spotify.com/track/4uBMTjCHwPhOtpKnt6fevp) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MONSTER](https://open.spotify.com/album/4h5jqDmfuHoTXSBS6vKAC9) | 3:24 | 2022-02-11 | 2022-04-23 |
-| [Moonlight](https://open.spotify.com/track/0S87zqCQPHOAD0yQFvTBeX) | [STORM](https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ) | [Join the Storm](https://open.spotify.com/album/27Mu44xPwORQTI7ZM9qq7J) | 3:04 | 2025-08-22 |  |
+| [Moonlight](https://open.spotify.com/track/0S87zqCQPHOAD0yQFvTBeX) | [STORM](https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ) | [Join the Storm](https://open.spotify.com/album/27Mu44xPwORQTI7ZM9qq7J) | 3:04 | 2025-08-22 | 2025-10-22 |
 | [Moonshine](https://open.spotify.com/track/1JdCU2PonLp9f9XMXGyTMU) | [STESY](https://open.spotify.com/artist/10InLsi9iNzEaKN0L1e4eG), [The Butcher Sisters](https://open.spotify.com/artist/6j8vGWE3wKAFEn0ngreusM) | [Moonshine](https://open.spotify.com/album/6qynTCtOR66aMQtqcDub2S) | 3:23 | 2025-05-16 | 2025-07-05 |
 | [Mother's Repine](https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD) | [Jackson Rose](https://open.spotify.com/artist/0P1li4GURXaPNnFwVSZzHx), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Mother's Repine](https://open.spotify.com/album/3L1lsCwUm2rIXFhh36Tx5n) | 3:34 | 2022-07-13 | 2022-07-16 |
 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2023-12-15 | 2024-12-19 |
@@ -827,7 +828,7 @@
 | [No More Sorrow](https://open.spotify.com/track/2yInTIIIQQ1sYLJIFefzff) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [No More Sorrow](https://open.spotify.com/album/6h7gZv6v0tqGC6Q54v6VY1) | 3:45 | 2023-01-20 | 2024-01-13 |
 | [No One's Above](https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [No One's Above](https://open.spotify.com/album/3KUNHE5rZUUSLnLIcudqbH) | 3:33 | 2022-07-13 | 2022-07-23 |
 | [No Place](https://open.spotify.com/track/7KtrNVhBwDTyjXmajuy2CM) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [No Place](https://open.spotify.com/album/1yeVyimts1V78yYwxLyyPt) | 3:46 | 2024-02-09 | 2024-08-13 |
-| [no rest for the dreamer](https://open.spotify.com/track/0qCdxP1pLL3a5qdOBTasDT) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [no rest for the dreamer](https://open.spotify.com/album/4XdijybRm85vm6RZZGNg3v) | 3:08 | 2025-05-23 |  |
+| [no rest for the dreamer](https://open.spotify.com/track/0qCdxP1pLL3a5qdOBTasDT) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [no rest for the dreamer](https://open.spotify.com/album/4XdijybRm85vm6RZZGNg3v) | 3:08 | 2025-05-23 | 2025-10-22 |
 | [No Time To Suffer](https://open.spotify.com/track/3a4afK7qfkQyhZbjxHHuXE) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [No Time To Suffer](https://open.spotify.com/album/0cIFoaXSemx7TYiqC6EI9n) | 3:55 | 2022-07-13 | 2022-07-16 |
 | [No Tomorrow](https://open.spotify.com/track/0UZjd32VSW5KuI8kSHOVhK) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [No Tomorrow](https://open.spotify.com/album/3azc3Qbax6qScIY3OevTNJ) | 4:11 | 2025-04-25 |  |
 | [No Vacancy](https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [No Vacancy](https://open.spotify.com/album/0RQf8be7RCvMrRCL9aVYJ2) | 3:23 | 2022-01-07 | 2022-07-23 |
@@ -913,6 +914,7 @@
 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 | 2022-06-24 | 2022-10-20 |
 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 | 2022-01-28 | 2022-04-23 |
 | [Play Time](https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U) | [October Ends](https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc) | [Play Time](https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K) | 3:36 | 2022-06-10 | 2022-10-19 |
+| [Pleasure](https://open.spotify.com/track/0O38AaaLcWmf0B6x6JCaO2) | [Mirrorcell](https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j), [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Pleasure](https://open.spotify.com/album/5auFZJk9A9CGnLq2NnLG3U) | 3:17 | 2025-10-21 |  |
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2022-07-13 | 2022-07-19 |
 | [Pray for Silence](https://open.spotify.com/track/4ogYowx5kuosdKxpc3JyQK) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Pray For Silence](https://open.spotify.com/album/11rrk0NEcUl5JWGS7uOfrS) | 3:53 | 2025-08-29 |  |
 | [PRIMITIVE \(feat\. Point North\)](https://open.spotify.com/track/4pBzqinnI6xQvz0eNp8j9W) | [Comastatic](https://open.spotify.com/artist/4KValadymb1TlvrjeHYLXF), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [PRIMITIVE \(feat\. Point North\)](https://open.spotify.com/album/4ohGX6aggLH8NlAsEb0uQr) | 3:12 | 2025-09-19 |  |

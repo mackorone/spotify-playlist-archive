@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47107,
+  "num_followers": 47101,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAABrkwD1YYitA7fx55giMz0N",
+  "snapshot_id": "aPV7gAAAAACmXt2tnZ3e7B7lOhCUeheo",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 169453,
-      "name": "Pride (with mxmtoon)",
-      "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Line Without a Hook (feat. mxmtoon)",
         "url": "https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 169453,
+      "name": "Pride (with mxmtoon)",
+      "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
     },
     {
       "added_at": null,
@@ -575,38 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 187243,
-      "name": "temporary nothing",
-      "url": "https://open.spotify.com/track/2agOl2NGF3uhBe2RGIMYF9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 230178,
-      "name": "number one boy",
-      "url": "https://open.spotify.com/track/3Oc5KQsiJlwEFtMvDeIvl1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the masquerade",
         "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
@@ -619,6 +587,42 @@
       "duration_ms": 209413,
       "name": "blame game",
       "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 182423,
+      "name": "now's not the time",
+      "url": "https://open.spotify.com/track/1xVOsRTyj1M3YApAS4Xj67"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 187243,
+      "name": "temporary nothing",
+      "url": "https://open.spotify.com/track/2agOl2NGF3uhBe2RGIMYF9"
     },
     {
       "added_at": null,
@@ -643,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
+        "name": "rising (the deluxe)",
+        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
       "artists": [
         {
@@ -652,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 271914,
-      "name": "porcelain",
-      "url": "https://open.spotify.com/track/480dcljP2jOjTKLYpbQllC"
+      "duration_ms": 142573,
+      "name": "plastic pony",
+      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
     },
     {
       "added_at": null,
@@ -675,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising (the deluxe)",
-        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
       "artists": [
         {
@@ -684,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 142573,
-      "name": "plastic pony",
-      "url": "https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG"
+      "duration_ms": 271914,
+      "name": "porcelain",
+      "url": "https://open.spotify.com/track/480dcljP2jOjTKLYpbQllC"
     },
     {
       "added_at": null,
@@ -707,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
+        "name": "rising (the deluxe)",
+        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
       "artists": [
         {
@@ -716,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 183242,
-      "name": "i feel like chet",
-      "url": "https://open.spotify.com/track/6OF60E8ejsKq76SWf2ae9b"
+      "duration_ms": 185346,
+      "name": "kaleidoscope",
+      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
     },
     {
       "added_at": null,
@@ -739,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising (the deluxe)",
-        "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
       "artists": [
         {
@@ -748,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 185346,
-      "name": "kaleidoscope",
-      "url": "https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps"
+      "duration_ms": 183242,
+      "name": "i feel like chet",
+      "url": "https://open.spotify.com/track/6OF60E8ejsKq76SWf2ae9b"
     },
     {
       "added_at": null,
@@ -819,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom (revisited)",
-        "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 253467,
-      "name": "stuck - revisited",
-      "url": "https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rising",
         "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
@@ -847,6 +835,22 @@
       "duration_ms": 156906,
       "name": "victim of nostalgia",
       "url": "https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "plum blossom (revisited)",
+        "url": "https://open.spotify.com/album/38O1U2iGT6aSvXFIrFB5eN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 253467,
+      "name": "stuck - revisited",
+      "url": "https://open.spotify.com/track/3t1bStEBG5YeLOLisxemoN"
     }
   ],
   "unique_name": "This Is mxmtoon",

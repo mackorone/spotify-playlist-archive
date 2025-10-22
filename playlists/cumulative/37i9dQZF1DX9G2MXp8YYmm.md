@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Melis Fis
 
-406 songs - 20 hr 18 min
+408 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 | 2025-07-18 |
 | [Bir Gün Ölürsem](https://open.spotify.com/track/5dotbwu3G11fvSwpwltLGy) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Gün Ölürsem](https://open.spotify.com/album/0IESWsxuJ693yBZ3ZRf075) | 2:36 | 2024-12-19 | 2025-05-26 |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-27 | 2025-08-01 |
-| [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 | 2025-07-03 |  |
+| [Bir Yol](https://open.spotify.com/track/5vqwKZgZjyhVLHMnzhQX6y) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bir Yol](https://open.spotify.com/album/0vkUpL4dSKdLFvcvTt1JbG) | 2:28 | 2025-07-03 | 2025-10-22 |
 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 | 2025-06-26 |  |
 | [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2024-06-27 | 2024-12-22 |
 | [Bitti](https://open.spotify.com/track/3UZH755lCjb6DY1hJq8RA4) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Kırlar](https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc) | 3:01 | 2025-08-21 |  |
@@ -95,6 +95,7 @@
 | [Boş Şişeler](https://open.spotify.com/track/3esm1rSFlCsORZIXanv5je) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Seda Tripkolic](https://open.spotify.com/artist/2aNkBNOpoEwJlRpDLzJ6hZ) | [Boş Şişeler](https://open.spotify.com/album/3xOsXdaxLXOiFg2r9kAvOY) | 2:15 | 2025-08-07 | 2025-10-19 |
 | [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 | 2024-11-29 |
 | [Bu Aşk](https://open.spotify.com/track/04IZuGEpJ6u1CZfwzGnGtj) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Bu Aşk](https://open.spotify.com/album/42LQvEF6eV6CPVQDuy9t5V) | 2:21 | 2025-01-23 | 2025-02-11 |
+| [Bu Defa Başka](https://open.spotify.com/track/6EVr51QfMgxOPHRU7EAxyC) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bu Defa Başka](https://open.spotify.com/album/5C0S20dqu127a97KCXKzvQ) | 3:37 | 2025-10-16 |  |
 | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/track/3X9TAWJhrQtpQHqDoCLv76) | [Rober Hatemo](https://open.spotify.com/artist/3aYxHPDvu8SETLVJBEUqld), [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Bu Delikanlıyı Unutamazsın \(feat\. Yıldız Tilbe\)](https://open.spotify.com/album/7BgY2YD3RX33jCY6LYqWD4) | 3:05 | 2024-12-19 | 2025-01-14 |
 | [Bu Ne Bela](https://open.spotify.com/track/3oWagFbYIZ7kvJy7niOCi5) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Bu Ne Bela](https://open.spotify.com/album/4uZKjVzHBK4xa91rQYdvrT) | 2:35 | 2025-01-23 |  |
 | [Bu Sana Son Bakışım](https://open.spotify.com/track/6rB0I00lYuWOYeW1ljBaoE) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Bu Sana Son Bakışım](https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit) | 2:30 | 2024-06-27 | 2024-10-25 |
@@ -224,6 +225,7 @@
 | [Kaybolsam](https://open.spotify.com/track/3Qr4C2suSijySxbehezuNB) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Kaybolsam](https://open.spotify.com/album/6Yo1LuAKJTzBZJxNdPQ4dv) | 1:40 | 2025-09-25 | 2025-10-10 |
 | [Kaç Kez Öldüm?](https://open.spotify.com/track/4tXNPXBd4nzSi99XDqSjA8) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Kaç Kez Öldüm?](https://open.spotify.com/album/0sPKsSl0p5igQFbppBng3t) | 3:34 | 2025-10-09 |  |
 | [Kaçak Göçek](https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Kaçak Göçek](https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5) | 3:43 | 2024-09-05 | 2025-07-29 |
+| [Kaçsana Bana \(Deli Kız Part II\)](https://open.spotify.com/track/6pz4uHZAKUawz4uj6c6GYk) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kaçsana Bana \(Deli Kız Part II\)](https://open.spotify.com/album/1DdPAxtLx4Y27W4CMQ0HOM) | 2:56 | 2025-10-16 |  |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 | 2025-07-18 |
 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 | 2025-01-16 |  |
 | [KOCA ADAM](https://open.spotify.com/track/6OpuGG0tsOHaxkmoMEnrkq) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa) | 2:44 | 2024-12-19 | 2025-03-30 |
@@ -263,7 +265,7 @@
 | [N'olur Anla](https://open.spotify.com/track/6qqJLxM3RLQvdINY39LFlr) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW), [Aynur Aydın](https://open.spotify.com/artist/27TH57uXZezzxdlmbbyWQU) | [N'olur Anla](https://open.spotify.com/album/6CEmCMIgMRC8xpscUgE8if) | 3:40 | 2025-02-06 | 2025-02-14 |
 | [Nadide](https://open.spotify.com/track/5qhr709zn63OZeb4y73vEI) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Nadide](https://open.spotify.com/album/3j5e1mWKw37259eLdXPJYh) | 2:49 | 2024-07-04 | 2024-08-16 |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-08-10 |
-| [Nanik](https://open.spotify.com/track/6OodgbaFCaBejPQo4RjOtm) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:31 | 2025-07-10 |  |
+| [Nanik](https://open.spotify.com/track/6OodgbaFCaBejPQo4RjOtm) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:31 | 2025-07-10 | 2025-10-22 |
 | [Nazar](https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Nazar](https://open.spotify.com/album/67EfUSy8Lo2Q53J4aBPtaS) | 2:35 | 2025-07-03 | 2025-08-27 |
 | [Ne Gereği Var](https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ne Gereği Var](https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6) | 2:11 | 2024-06-27 | 2025-02-26 |
 | [Ne Güzel](https://open.spotify.com/track/0Vu3Qi8DdS7lQGgy7v0QR2) | [Fettah Can](https://open.spotify.com/artist/17fJCykpa2EqIioh0zamN9) | [Ne Güzel](https://open.spotify.com/album/53mJVJzgF3hso0VqW1A9Ur) | 3:17 | 2025-09-18 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-462 songs - 1 day 6 hr 36 min
+463 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Ancestral Future Now \- KMRU Rework](https://open.spotify.com/track/53o9V6ERr9euyGcX9uZDoF) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Reworks: Vol2](https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3) | 3:29 | 2023-11-03 | 2023-11-25 |
 | [And We Go Gentle](https://open.spotify.com/track/5e7ZCWH5cXrGcm8QmpqgIH) | [Tres Leches](https://open.spotify.com/artist/2xjYjo0XaziIp1rq3MewJd), [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [The Smooth Sounds of Tres Leches, LHCC Mart Vol\. 1](https://open.spotify.com/album/2Dn0m6g80esmI4HJ9URGOR) | 4:10 | 2025-08-15 | 2025-09-18 |
 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 | 2022-10-07 | 2023-04-14 |
+| [APRIL](https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [APRIL](https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS) | 2:58 | 2025-10-21 |  |
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2022-09-06 | 2023-06-08 |
 | [Atlantis \- Model Man Remix](https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN), [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [The Learning of Urgency Remixes](https://open.spotify.com/album/4L8TNvxjxdOdwb79oBWupO) | 4:31 | 2024-08-30 | 2024-11-30 |
 | [AZD SURF](https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [AZD SURF](https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR) | 4:11 | 2022-08-03 | 2023-03-02 |

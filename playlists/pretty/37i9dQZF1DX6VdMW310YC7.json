@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3914069,
+  "num_followers": 3914386,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 275010,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "On A Clear Day, You Can See Forever",
         "url": "https://open.spotify.com/album/3FoFmPO5kxgqonzSGWQ8IW"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 219041,
       "name": "On A Clear Day, You Can See Forever - Edit",
       "url": "https://open.spotify.com/track/7fR7zOZyrIHUvP1zMOcLbk"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 275010,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Teahupoo",
-        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 202926,
-      "name": "Teahupoo",
-      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 230487,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Teahupoo",
+        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Teahupoo",
+      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1171,6 +1171,30 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "i don't know what to say",
+        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Hana Fatur",
+          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
+        }
+      ],
+      "duration_ms": 209839,
+      "name": "i don't know what to say",
+      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "Kids of the Sun",
         "url": "https://open.spotify.com/album/5Zc30hxnYShaLQ9FcDQEgA"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "i don't know what to say",
-        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Hana Fatur",
-          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
-        }
-      ],
-      "duration_ms": 209839,
-      "name": "i don't know what to say",
-      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Diamonds (Further Than I Ever Was)",
-        "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 296597,
-      "name": "Diamonds (Further Than I Ever Was)",
-      "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Diamonds (Further Than I Ever Was)",
+        "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "duration_ms": 296597,
+      "name": "Diamonds (Further Than I Ever Was)",
+      "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
       "artists": [
         {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 238065,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1371,34 +1371,18 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
         }
       ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
+      "duration_ms": 238065,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1423,6 +1407,22 @@
       "duration_ms": 313064,
       "name": "Sunrise (feat. Madeline Megery)",
       "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "1973",
         "url": "https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV"
       },
@@ -1487,22 +1507,18 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
       "artists": [
         {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1527,22 +1543,6 @@
       "duration_ms": 230035,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Postcards / All Access",
-        "url": "https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Postcards",
-      "url": "https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "Another Touch",
         "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 225301,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Postcards / All Access",
+        "url": "https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Postcards",
+      "url": "https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0LjOwDYvZGhQ6qcjy49ijr"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 259512,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2025-10-17 04:00:39",

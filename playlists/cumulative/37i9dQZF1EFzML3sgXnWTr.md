@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-106 songs - 5 hr 25 min
+107 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [DIAMANTI GREZZI](https://open.spotify.com/track/3To8zpX92dTdhtORefjgyV) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [DIAMANTI GREZZI](https://open.spotify.com/album/11KJdw9RyMJwFABzPBaALV) | 3:12 | 2024-02-09 | 2024-02-19 |
 | [DIAMANTI GREZZI](https://open.spotify.com/track/6KM80DJGk9gehJMDmKuzfv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:12 | 2024-02-18 | 2025-01-06 |
 | [DIAMANTI GREZZI](https://open.spotify.com/track/6QOOmjpEGrnlLRqy0WpuGv) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:12 | 2025-01-05 |  |
+| [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 | 2025-10-21 |  |
 | [farfalle](https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 2:44 | 2022-09-16 |  |
 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 | 2022-09-16 |  |
 | [finché le stelle non brillano](https://open.spotify.com/track/7y0zSVEiBDAFJ5ea2poaIV) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [finché le stelle non brillano](https://open.spotify.com/album/70KWscv56jX5G9GBmwigAx) | 3:21 | 2022-09-16 |  |

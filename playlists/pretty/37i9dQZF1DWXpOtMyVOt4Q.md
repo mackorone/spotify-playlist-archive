@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,287 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,298 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 14 | [numb](https://open.spotify.com/track/69pHMM7biztKZHCTnxnzFI) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [ambient vol 3](https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7) | 1:41 |
 | 15 | [i could be the one \- Ambient](https://open.spotify.com/track/1EcReGfESece5aPkprId13) | [Inan](https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [i could be the one \(Ambient\)](https://open.spotify.com/album/04xShgHPjKfr6pxfKcVpGW) | 1:24 |
 | 16 | [fading](https://open.spotify.com/track/3iNqSjrurD6LjMg973V8bx) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [fading](https://open.spotify.com/album/7caWk9V1eGdZfaXm9ZnKjk) | 1:41 |
-| 17 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 |
-| 18 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
+| 17 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
+| 18 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 |
 | 19 | [It feels like I've forgotten something](https://open.spotify.com/track/3zaFQTIBcEjLKuh2E2CX6X) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [It feels like I've forgotten something](https://open.spotify.com/album/29bbl8fqzfY2Xi7RIuuhUH) | 2:12 |
 | 20 | [this feeling](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling](https://open.spotify.com/album/4pxgrlu74Sk31RrGRH8FjL) | 1:34 |
 | 21 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 |
 | 22 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
 | 23 | [i was only temporary 2 u](https://open.spotify.com/track/1xyN0kSLjNWV1n9aSpia2m) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary 2 u](https://open.spotify.com/album/4hWU6zvJs0p0eUdUmjQHBj) | 1:36 |
 | 24 | [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 |
-| 25 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
-| 26 | [Pebbles](https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Pebbles](https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U) | 1:36 |
+| 25 | [Pebbles](https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Pebbles](https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U) | 1:36 |
+| 26 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
 | 27 | [rescue](https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [ashess](https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow) | [rescue](https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA) | 2:16 |
 | 28 | [5.50 Am](https://open.spotify.com/track/0e7GJUcTnb1HQZn73goySz) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [5.50 Am](https://open.spotify.com/album/5OoxfVdEtJacEbZcNeV68r) | 2:02 |
 | 29 | [constellations](https://open.spotify.com/track/6Tmhesk2tLiJtJ52Al3nQ1) | [butterfli](https://open.spotify.com/artist/6A3Fdu30Vz62jf3XP5pLy5) | [constellations](https://open.spotify.com/album/2atTpuP3z27zonfsOSU52f) | 2:24 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 46 | [requiem](https://open.spotify.com/track/3gXDFlnam4GzGwYqtA2KZS) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [requiem](https://open.spotify.com/album/0o5zePNJzfWgFGNLwynGl3) | 2:06 |
 | 47 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
 | 48 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
-| 49 | [Setsunai](https://open.spotify.com/track/24wAolXLDbi80kKrNh60HI) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Setsunai](https://open.spotify.com/album/2rsfHZjyuVClDvBXWcm4P1) | 2:12 |
-| 50 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
+| 49 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
+| 50 | [Setsunai](https://open.spotify.com/track/24wAolXLDbi80kKrNh60HI) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Setsunai](https://open.spotify.com/album/2rsfHZjyuVClDvBXWcm4P1) | 2:12 |
 
 Snapshot ID: `AAAAAGwh/tRzTIuWvubg/hA+o7rM8MzH`

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Amber Mark",
-  "num_followers": 64605,
+  "num_followers": 64603,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-10-10 04:00:43",
       "album": {
-        "name": "Perfect Person (feat. coop)",
-        "url": "https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "coop",
-          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Perfect Person (feat. coop)",
-      "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
-    },
-    {
-      "added_at": "2025-10-10 04:00:43",
-      "album": {
         "name": "Jesus Over Everything (Live In Las Vegas)",
         "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 361120,
       "name": "Always Been You (with Anike) - Live",
       "url": "https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
+        "name": "Perfect Person (feat. coop)",
+        "url": "https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Perfect Person (feat. coop)",
+      "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
     },
     {
       "added_at": "2025-10-10 04:00:43",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-10-10 04:00:43",
       "album": {
-        "name": "Sweet Tea",
-        "url": "https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1"
-      },
-      "artists": [
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "Sweet Tea",
-      "url": "https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N"
-    },
-    {
-      "added_at": "2025-10-10 04:00:43",
-      "album": {
         "name": "City Woman",
         "url": "https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 196480,
       "name": "Piece Of My Heart",
       "url": "https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq"
+    },
+    {
+      "added_at": "2025-10-10 04:00:43",
+      "album": {
+        "name": "Sweet Tea",
+        "url": "https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1"
+      },
+      "artists": [
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "Sweet Tea",
+      "url": "https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N"
     },
     {
       "added_at": "2025-10-10 04:00:43",

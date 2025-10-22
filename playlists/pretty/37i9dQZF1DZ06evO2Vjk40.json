@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 701805,
+  "num_followers": 701946,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAACECPPvGr+2TGhXjBoNE9Rl",
+  "snapshot_id": "aPV7gAAAAAAJNXfKSwJvkihBBGa7mfE2",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
       },
@@ -79,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From A Room: Volume 1",
         "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
       },
@@ -107,6 +107,22 @@
       "duration_ms": 180906,
       "name": "Broken Halos",
       "url": "https://open.spotify.com/track/06gD2ZtK3Dzc1BYqWExQJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
       "added_at": null,
@@ -143,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 210133,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Fire Away",
+      "url": "https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT"
     },
     {
       "added_at": null,
@@ -207,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Fire Away",
-      "url": "https://open.spotify.com/track/5j4hSQH0KaAc8f6cimnXIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From A Room: Volume 1",
         "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 191480,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/7dUdMZqfGSIt0ZkmTOgRLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Traveller",
+      "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
     },
     {
       "added_at": null,
@@ -275,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Traveller",
-      "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 200213,
       "name": "Scarecrow In The Garden",
       "url": "https://open.spotify.com/track/2heBToLEB7odACQ3xwb32A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 309853,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB"
     },
     {
       "added_at": null,
@@ -343,28 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Song To Sing",
-        "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 179928,
-      "name": "A Song To Sing",
-      "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
@@ -372,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 216013,
-      "name": "A Simple Song",
-      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
+      "duration_ms": 309853,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB"
     },
     {
       "added_at": null,
@@ -395,6 +359,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "A Simple Song",
+      "url": "https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Song To Sing",
+        "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 179928,
+      "name": "A Song To Sing",
+      "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From A Room: Volume 1",
         "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
       },
@@ -411,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
       },
       "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 285106,
-      "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
+      "duration_ms": 234160,
+      "name": "Weight Of Your World",
+      "url": "https://open.spotify.com/track/2Kk1Dce84X3oRILM1tL0WX"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
       "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "Chris Stapleton",
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Weight Of Your World",
-      "url": "https://open.spotify.com/track/2Kk1Dce84X3oRILM1tL0WX"
+      "duration_ms": 285106,
+      "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
     },
     {
       "added_at": null,

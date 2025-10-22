@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 120386,
+  "num_followers": 120395,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADQXGhc56kDK8pAyTrBXe+m",
+  "snapshot_id": "aPV7gAAAAAApNq4BRwU4rVEEM1cTPKRU",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 149066,
       "name": "Jimmy the Exploder",
       "url": "https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 132511,
-      "name": "Cool Drink Of Water Blues - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
     }
   ],
   "unique_name": "This Is The White Stripes",

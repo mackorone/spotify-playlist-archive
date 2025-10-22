@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,427,863 likes - 200 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,428,003 likes - 200 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 199 | [pistachios forever](https://open.spotify.com/track/0fs6IBGLB7LfiZZ2avlJUF) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [pistachios forever](https://open.spotify.com/album/0K2AeWTHKIEQSBq0oPbIF4) | 3:03 |
 | 200 | [trail running](https://open.spotify.com/track/3596EdDGZEzM9UPr9w2I0w) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [trail running](https://open.spotify.com/album/114QRu5RtFb6ckOjLI3LGP) | 2:41 |
 
-Snapshot ID: `AAAAAMdaJ68Z/am6Veo3um2R/+Dcdm9d`
+Snapshot ID: `AAAAAL2q3Hkv7k0vz0lUXhmIU273vZeQ`

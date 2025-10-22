@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,003 likes - 210 songs - 9 hr 0 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,045 likes - 211 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,5 +218,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 208 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 |
 | 209 | [Get You The Moon](https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Get You The Moon](https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO) | 2:36 |
 | 210 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
+| 211 | [Till It Goes Dark](https://open.spotify.com/track/1g2YP9yUaq7ZfNxvJrPT5K) | [TIANBO](https://open.spotify.com/artist/3pnulfzomHoIuDdauRBnzv), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Till It Goes Dark](https://open.spotify.com/album/3McVstSYnp1jUG1pKYaGR1) | 2:34 |
 
-Snapshot ID: `AABNiVjZarPm7yV0iyMl9MV3tkdy52D1`
+Snapshot ID: `AABNislUm7fIdPkHXSQSXFLsL17l/hDT`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
+  "description": "indie & indiepop in het Nederlands. Cover: ISA\u00cf",
   "name": "indie.nl",
   "tracks": [
     {
@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Nachttarief",
+        "url": "https://open.spotify.com/album/7AgqovNQYhxzDxp9k4B6wS"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95181,
+      "name": "Even Offline",
+      "url": "https://open.spotify.com/track/4SMkHRkwYl3bblqG0LyfQ0"
+    },
+    {
+      "album": {
         "name": "Het Moment Supr\u00eame",
         "url": "https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ"
       },
@@ -1496,7 +1514,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 239939,
       "name": "Het Is Nog Niet Te Laat",
       "url": "https://open.spotify.com/track/6NHoHofU4Hj5o0YscjmZk1"
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 148534,
       "name": "Krijt",
       "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 182826,
       "name": "Leegte",
       "url": "https://open.spotify.com/track/528JJrCFO1zthYu3gLhu9j"
@@ -2669,6 +2687,28 @@
     },
     {
       "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182301,
+      "name": "Misschien",
+      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
+    },
+    {
+      "album": {
         "name": "HIGH SOCIETY SWAGGERBOY",
         "url": "https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v"
       },
@@ -2774,6 +2814,24 @@
       "duration_ms": 120000,
       "name": "Nachtblind",
       "url": "https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3"
+    },
+    {
+      "album": {
+        "name": "Nachttarief",
+        "url": "https://open.spotify.com/album/7AgqovNQYhxzDxp9k4B6wS"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Nachttarief",
+      "url": "https://open.spotify.com/track/2zQMVuZqeNhWcjI8sIUNSn"
     },
     {
       "album": {
@@ -2900,7 +2958,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 214029,
       "name": "niet meer zo",
       "url": "https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU"
@@ -3016,6 +3074,28 @@
       "duration_ms": 200921,
       "name": "oeps",
       "url": "https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu"
+    },
+    {
+      "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149767,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
     },
     {
       "album": {
@@ -3146,6 +3226,24 @@
       "duration_ms": 189000,
       "name": "Opslaan",
       "url": "https://open.spotify.com/track/0TPR59Vp9iwjsX5AUMOUik"
+    },
+    {
+      "album": {
+        "name": "Oude Mannen Muziek",
+        "url": "https://open.spotify.com/album/5czlAocF4vseTQ9hnkDvCA"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174812,
+      "name": "Oude Mannen Muziek",
+      "url": "https://open.spotify.com/track/35hLow4b3sAwyafeqk3OAA"
     },
     {
       "album": {
@@ -3508,7 +3606,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 185062,
       "name": "Souvenir (met Pensioen)",
       "url": "https://open.spotify.com/track/3S3ErXJ5NIbI2QDYVzS4vq"
@@ -3999,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "Vlijmscherp",
+        "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271717,
+      "name": "Vlijmscherp",
+      "url": "https://open.spotify.com/track/2z8ic05oQ1YZgV3nWE6f2a"
+    },
+    {
+      "album": {
         "name": "Vlinder",
         "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
       },
@@ -4332,7 +4448,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 215184,
       "name": "Wind In De Zeilen",
       "url": "https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y"

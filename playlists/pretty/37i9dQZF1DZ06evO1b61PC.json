@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11319,
+  "num_followers": 11321,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADsCWngaUKTIIYeOg9Mo+YH",
+  "snapshot_id": "aPV7gAAAAABDZbBX+6ZY8wIzdlyg6PMn",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "eye2eye (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "eye2eye - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 298666,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "eye2eye (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "eye2eye - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3"
     },
     {
       "added_at": null,

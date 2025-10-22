@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Me Blue
 
-374 songs - 23 hr 21 min
+375 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [in the dark](https://open.spotify.com/track/6hl5oxHiN9771h3n1f8PAN) | [pecq](https://open.spotify.com/artist/7dtoq4U0UlyvMomL00qPDf) | [red moon, rare night](https://open.spotify.com/album/39aQVK7oDxSSd3OkUznsb1) | 2:56 | 2024-03-22 | 2025-02-14 |
 | [In The Dark](https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [In The Dark](https://open.spotify.com/album/0zuZ4JU7RnSpe5fCQfzozl) | 4:18 | 2024-08-15 | 2025-05-09 |
 | [IN YOUR EYES](https://open.spotify.com/track/0UTTnRPIlgoJEq9D7i6gW6) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [IN YOUR EYES](https://open.spotify.com/album/4f9lLOAQsQIH9JwanNAV24) | 3:16 | 2024-07-03 | 2025-04-05 |
+| [Insomnia](https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Insomnia](https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq) | 2:45 | 2025-10-16 |  |
 | [Is This Where It Ends](https://open.spotify.com/track/12R5ERZn0WzOR7wyv6cT3T) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Is This Where It Ends](https://open.spotify.com/album/4hqkpfmYaKlX4sq2GLyVdq) | 4:02 | 2021-10-28 | 2024-03-01 |
 | [It Feels Much Better](https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Soul Speech](https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Keep Me On The Dancefloor](https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU) | 3:01 | 2025-07-03 |  |
 | [It's Over \- Edit](https://open.spotify.com/track/1RLeNp25m5qaGCtF97p5r1) | [Extra Credit](https://open.spotify.com/artist/0eBplsuM9uqqqXMjn2ZsoA) | [It's Over](https://open.spotify.com/album/0q9YXpClk2bSqJYgAryoQJ) | 4:16 | 2021-10-28 | 2024-03-02 |
@@ -300,7 +301,7 @@
 | [So High](https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [So High](https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA) | 5:39 | 2025-06-26 | 2025-08-06 |
 | [So Late \(Goldteeth Remix\)](https://open.spotify.com/track/5FXXRLw5EpDFRrPzAifM8t) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Goldteeth](https://open.spotify.com/artist/0npO8yNUPxsLaomZudHo8w) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/6SVRd1EYyIbnGjojfjXY8K) | 2:57 | 2021-10-28 | 2023-08-10 |
 | [So Late \- Goldteeth Remix](https://open.spotify.com/track/6W8xk66YHob4Yloy8aArZy) | [Patawawa](https://open.spotify.com/artist/5D65DHzw4qysvKA2VJzOtC), [Gold Teeth](https://open.spotify.com/artist/2xmfCofOQt2Pqcv8Whg6ay) | [So Late \(Goldteeth Remix\)](https://open.spotify.com/album/3bISjcvWbNhblILoMOmVvG) | 2:57 | 2021-10-28 | 2024-03-22 |
-| [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 | 2024-10-24 |  |
+| [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 | 2024-10-24 | 2025-10-22 |
 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 | 2025-03-14 |  |
 | [Sort It Out](https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Sort It Out](https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK) | 4:31 | 2025-10-03 |  |
 | [Space Between Us](https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Space Between Us](https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9) | 3:45 | 2025-01-31 | 2025-05-01 |

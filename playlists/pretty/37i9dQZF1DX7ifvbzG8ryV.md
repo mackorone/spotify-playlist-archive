@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:playlist:37i9dQZF1EFyc6Dzxvb74b">Jesse Saint John</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,550 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,554 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

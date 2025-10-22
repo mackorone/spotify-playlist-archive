@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 31409,
+  "num_followers": 31414,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Running on Empty (Remastered)",
-        "url": "https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "Stay - Remastered",
-      "url": "https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 198706,
       "name": "Love Gun",
       "url": "https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Running on Empty (Remastered)",
+        "url": "https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "Stay - Remastered",
+      "url": "https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Let's Stick Together",
-        "url": "https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Let's Stick Together",
-      "url": "https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Smashes Thrashes & Hits",
         "url": "https://open.spotify.com/album/2TrudRaCE8XYG56z1Xbmh6"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228560,
       "name": "Detroit Rock City",
       "url": "https://open.spotify.com/track/3uz0O62HqYoyRiWZjS61KK"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Let's Stick Together",
+        "url": "https://open.spotify.com/album/7q7RBiiadKQR4DCbs7OMbd"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Let's Stick Together",
+      "url": "https://open.spotify.com/track/6y4FVJwf09ssxuRnlEgXkp"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
+      "duration_ms": 274133,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 380080,
-      "name": "Money - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO"
+      "duration_ms": 422853,
+      "name": "Time - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1420,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 274133,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr"
+      "duration_ms": 220400,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 422853,
-      "name": "Time - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
+      "duration_ms": 380080,
+      "name": "Money - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Houses of the Holy (1994 Remaster)",
-        "url": "https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "D'yer Mak'er - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 192133,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/4SXU3lUZ1eb4JWWbkQw43Y"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Houses of the Holy (1994 Remaster)",
+        "url": "https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "D'yer Mak'er - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
     },
     {
       "added_at": "2024-07-12 14:53:15",

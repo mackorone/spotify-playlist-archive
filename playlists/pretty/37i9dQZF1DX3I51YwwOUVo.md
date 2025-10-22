@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2025 Artists to Watch.<br/><br/>Cover: JADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,765 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,767 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 20 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 |
 | 21 | [House Again](https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY) | 3:22 |
 | 22 | [Media Hora](https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Media Hora](https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg) | 2:03 |
-| 23 | [Los Fin De](https://open.spotify.com/track/0DfkS7yqoFniOUDOcpPVCR) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Los Fin De](https://open.spotify.com/album/2mKKlq0CCG1EbSCDpwFc84) | 2:42 |
+| 23 | [LOS FIN DE](https://open.spotify.com/track/0DfkS7yqoFniOUDOcpPVCR) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [LOS FIN DE](https://open.spotify.com/album/2mKKlq0CCG1EbSCDpwFc84) | 2:42 |
 | 24 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
 | 25 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
 | 26 | [Opps On Deck](https://open.spotify.com/track/5DTfAQZLAJgpFEVvQI3nYO) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Opps On Deck](https://open.spotify.com/album/0JGYrX36vuaaBLJ1yHaB8E) | 1:42 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAP3ARKCj+PiDi2eyLJ8vI+",
+  "snapshot_id": "aPV7gAAAAAB+c2mB8ug228dtgMMqa7FH",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00edtame ese Hombre",
-        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 196874,
-      "name": "Qu\u00edtame Ese Hombre",
-      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Hablamos en Tijuana",
         "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 167223,
       "name": "Asi Hablamos en Tijuana",
       "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00edtame ese Hombre",
+        "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 196874,
+      "name": "Qu\u00edtame Ese Hombre",
+      "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
     },
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Suena con Tequila",
-        "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
+        "name": "Si Ya Sabemos",
+        "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
       },
       "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 164272,
-      "name": "El que Quiero que Me Quiera",
-      "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
+      "duration_ms": 216132,
+      "name": "Si Ya Sabemos",
+      "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
     },
     {
       "added_at": null,
@@ -355,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Asi Suena con Tequila",
+        "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 164272,
+      "name": "El que Quiero que Me Quiera",
+      "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin \u00c9l",
         "url": "https://open.spotify.com/album/5IXf6mhhYXL9Pv51E3DAMJ"
       },
@@ -371,28 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ya Sabemos",
-        "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 216132,
-      "name": "Si Ya Sabemos",
-      "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Cigarra",
-        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 241726,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
+      "duration_ms": 254003,
+      "name": "Lo Que No Me Gusta",
+      "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+        "name": "La Cigarra",
+        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 254003,
-      "name": "Lo Que No Me Gusta",
-      "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
+      "duration_ms": 241726,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
     },
     {
       "added_at": null,
@@ -484,25 +484,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 200728,
-      "name": "Yo soy Buena Mujer",
-      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 192818,
       "name": "Sentimientos de Cart\u00f3n",
       "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
     },
     {
       "added_at": null,
@@ -548,25 +548,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+      "duration_ms": 200728,
+      "name": "Yo soy Buena Mujer",
+      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 214954,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 201286,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
+      "duration_ms": 231971,
+      "name": "Empiezo a Recordarte - En Vivo",
+      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 231971,
-      "name": "Empiezo a Recordarte - En Vivo",
-      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
+      "duration_ms": 201286,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
     },
     {
       "added_at": null,

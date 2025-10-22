@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 296435,
+  "num_followers": 296559,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAA3EpUfTQzhM2GsY0pbX3/4",
+  "snapshot_id": "aPV7gAAAAADs+4LEuxbwKx9SPIVGSnpB",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Danzando Con Demonios",
+        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Y la Verdad",
+      "url": "https://open.spotify.com/track/4QXfUoHXNWTDMtNsxoak42"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Danzando Con Demonios",
-        "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Y la Verdad",
-      "url": "https://open.spotify.com/track/4QXfUoHXNWTDMtNsxoak42"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 315419,
+      "name": "Mi Necesidad",
+      "url": "https://open.spotify.com/track/63bxC1JHzLGAlWfTSnnCPH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santos Grifos, Vol. 1",
         "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 293900,
       "name": "Cagapalos",
       "url": "https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 315419,
-      "name": "Mi Necesidad",
-      "url": "https://open.spotify.com/track/63bxC1JHzLGAlWfTSnnCPH"
     },
     {
       "added_at": null,

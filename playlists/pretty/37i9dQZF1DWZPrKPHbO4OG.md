@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,672 likes - 43 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,681 likes - 43 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Galavar Khali \- Remix](https://open.spotify.com/track/6vaP1f4kGH0Pp7PYrg3IFb) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy), [Philip Larsen](https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws) | [Galavar Khali \- Single](https://open.spotify.com/album/4RH0XzRqLlC3GHDNGrL9SY) | 5:11 |
 | 43 | [Mast Challay Amcha](https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Marathi Dance Hits](https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA) | 4:56 |
 
-Snapshot ID: `AAAAAIUMEtquk84CojeKQ6B0mFUhVkPD`
+Snapshot ID: `AAAAAKOrAIxKk9bPGPHTSf5TKDGvNdyW`

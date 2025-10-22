@@ -580,7 +580,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 275969,
       "name": "El Condimento (feat. MEIKO&\u91cd\u97f3\u30c6\u30c8&\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9&\u5bae\u821e\u30e2\u30ab&\u6c37\u5c71\u30ad\u30e8\u30c6\u30eb)",
       "url": "https://open.spotify.com/track/3RhdtejMLcglGNeppVAS9K"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 325714,
       "name": "Espresso (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/253vXHuMcsEVLw6gccL0vi"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 288153,
       "name": "KALEIDO (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1312r2ILOQa3nI3kE59D9o"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 211084,
       "name": "Laundry (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1b7lGIZZoA0czDl1Ycribj"
@@ -2314,7 +2314,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 205000,
       "name": "\u305d\u308c\u3060\u3051 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6hxQkiu9WNoxITD8IMIq5J"
@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "\u30af\u30a9\u30fc\u30c4\u30a1\u30b9",
+        "url": "https://open.spotify.com/album/6Iy2i5ByWHzmiJvbkBwTXa"
+      },
+      "artists": [
+        {
+          "name": "ryuryu",
+          "url": "https://open.spotify.com/artist/7dfblDi88zLmvIt9f5sRXc"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366360,
+      "name": "\u30af\u30a9\u30fc\u30c4\u30a1\u30b9",
+      "url": "https://open.spotify.com/track/16ysnBNaMTKGaRjiSoMIun"
+    },
+    {
+      "album": {
         "name": "A Brief History of Us",
         "url": "https://open.spotify.com/album/1jL0XxHhRsf0LJafJ6ZerH"
       },
@@ -3465,6 +3483,28 @@
     },
     {
       "album": {
+        "name": "\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8",
+        "url": "https://open.spotify.com/album/2vOqQ6bYgKZUiMaViWRqht"
+      },
+      "artists": [
+        {
+          "name": "\u3061\u304b\u308b\u3068\u3075",
+          "url": "https://open.spotify.com/artist/5oIVtZdjacYptHdRSGkU5z"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194799,
+      "name": "\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8 (feat. \u91cd\u97f3\u30c6\u30c8&Ryo)",
+      "url": "https://open.spotify.com/track/4RjriKgz4HVoDNv23kJYJ3"
+    },
+    {
+      "album": {
         "name": "\u3042\u305f\u3089\u306f\u306a",
         "url": "https://open.spotify.com/album/3FvTF7FG7yvlWOurUTOAYx"
       },
@@ -3546,7 +3586,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 228656,
       "name": "\u30cd\u30e0\u30a4\u3000\u30cd\u30eb\u30ab (feat. \u5de1\u97f3\u30eb\u30ab&\u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/132ew5PbijjGiqXuEl8gmm"
@@ -4916,7 +4956,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 90352,
       "name": "\u590f\u67af\u306b\u6b69\u304f\u9053 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6uCkENDtHJ0saZMATQXKHH"
@@ -5490,6 +5530,24 @@
       "duration_ms": 271370,
       "name": "\u661f\u304f\u305a\u30ec\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/75MXaIRgZqIV2HBvvFJzi4"
+    },
+    {
+      "album": {
+        "name": "\u661f\u5b99\u306e\u4e94\u7dda\u8b5c",
+        "url": "https://open.spotify.com/album/6XesG5ZZvwCoT8rgdIsQee"
+      },
+      "artists": [
+        {
+          "name": "DAISUKE-P",
+          "url": "https://open.spotify.com/artist/4PP9U6kcGYrfExuVaq3R2D"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361284,
+      "name": "\u661f\u5b99\u306e\u4e94\u7dda\u8b5c",
+      "url": "https://open.spotify.com/track/4fAGkMTVD19IHw5v3RJMUf"
     },
     {
       "album": {

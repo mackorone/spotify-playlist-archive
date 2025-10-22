@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Håkan Hellström, Molly Sandén, Tame Impala med flera\. Happy New Music Friday!
 
-21,330 songs - 46 day 0 hr 22 min
+21,331 songs - 46 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2446,8 +2446,8 @@
 | [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-01-26 | 2023-02-03 |
 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 | 2023-08-24 | 2023-09-01 |
 | [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-24 | 2023-03-31 |
-| [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-16 |  |
 | [Body Go \(feat\. Sophie Stray\)](https://open.spotify.com/track/1BGTVySDixRJqppRTb479s) | [Richello](https://open.spotify.com/artist/6DWVgFfHyhUISYq0lzYYu6), [Sophie Stray](https://open.spotify.com/artist/3N5ClJMyntW9ol6wR1ZI1X) | [Body Go \(feat\. Sophie Stray\)](https://open.spotify.com/album/7a8kbOg8hoBzvdeNOW7ujv) | 2:10 | 2024-02-01 | 2024-02-09 |
+| [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-16 |  |
 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 | 2025-02-20 | 2025-02-28 |
 | [Body Like Goddess](https://open.spotify.com/track/6YAwY0BdG4Gn5mSWG1XVnr) | [Bleonah](https://open.spotify.com/artist/7nYlGLSEE4RVlYa4kTybWe) | [Body Like Goddess](https://open.spotify.com/album/5v1OANCNFLCFQ7Xk3Zx3u0) | 2:27 | 2021-12-23 | 2021-12-31 |
 | [Body Mind Soul \(with Benny Benassi feat\. Kyle Reynolds\)](https://open.spotify.com/track/4eaEUmyOmuIkDslaf7xw0f) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Body Mind Soul \(with Benny Benassi feat\. Kyle Reynolds\)](https://open.spotify.com/album/3WQ4N49TK1nT2YLV5kNgpD) | 2:00 | 2021-12-23 | 2021-12-31 |
@@ -13294,6 +13294,7 @@
 | [Not Forever](https://open.spotify.com/track/61TCNOEwfa6hANnUEZkHmu) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Not Forever](https://open.spotify.com/album/7x33oE1DfBtV8vipvmowlr) | 3:00 | 2025-04-03 | 2025-04-11 |
 | [Not Go Home](https://open.spotify.com/track/4SvperJdb5xr7pkL6ldr6s) | [Aves](https://open.spotify.com/artist/3VlNh0S8sOYterGEDMX0He), [Lake Jons](https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB) | [Transformations](https://open.spotify.com/album/08RPp3jHcORBX3gJCbSSz0) | 4:39 | 2024-03-21 | 2024-03-29 |
 | [Not Going Anywhere](https://open.spotify.com/track/2xawDSDpOeTSi45sKtSwSZ) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Not Going Anywhere](https://open.spotify.com/album/2m01wy7UZxqCGtpi65l7tw) | 2:54 | 2024-09-12 | 2024-09-20 |
+| [Not Going Home](https://open.spotify.com/track/3gcal3m4oUwDxWauWJQMvy) | [Nelly Moar](https://open.spotify.com/artist/5oNyGm52m8QxqV8EjA23Gk) | [](https://open.spotify.com/album/null) | 2:43 | 2025-10-16 |  |
 | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 | 2025-08-01 | 2025-08-08 |
 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 | 2025-06-19 | 2025-06-27 |
 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 | 2022-07-21 | 2022-07-29 |

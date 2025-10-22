@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47027,
+  "num_followers": 47031,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAA36S4sq2p02KxBsJ6Erhlo",
+  "snapshot_id": "aPV7gAAAAACwuJPtjr4z8WlEcR+mAXHk",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA REINA",
-        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "LA REINA",
-      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1000COSAS",
         "url": "https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 239482,
       "name": "1000COSAS",
       "url": "https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "La Plazuela",
+          "url": "https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB"
+        }
+      ],
+      "duration_ms": 175784,
+      "name": "LA PRIMAVERA",
+      "url": "https://open.spotify.com/track/4cuPBlZB9PBKIyiZAifjU9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUPERPOP",
         "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
       },
@@ -603,22 +623,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
       },
       "artists": [
         {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "La Plazuela",
-          "url": "https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB"
         }
       ],
-      "duration_ms": 175784,
-      "name": "LA PRIMAVERA",
-      "url": "https://open.spotify.com/track/4cuPBlZB9PBKIyiZAifjU9"
+      "duration_ms": 189731,
+      "name": "MISSION005",
+      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "DRAG\u00d3N",
+      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
     },
     {
       "added_at": null,
@@ -643,38 +675,6 @@
       "duration_ms": 197760,
       "name": "Caramello",
       "url": "https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "DRAG\u00d3N",
-      "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 189731,
-      "name": "MISSION005",
-      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
     },
     {
       "added_at": null,

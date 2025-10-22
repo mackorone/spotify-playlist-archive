@@ -1,13 +1,29 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7051,
+  "num_followers": 7066,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAACcYKgkA9qJb0UI9ZYNY2W1",
+  "snapshot_id": "aPV7gAAAAABQmy618GCI5TwuCs6B+miR",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Beamer",
+      "url": "https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 157538,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Beamer",
-      "url": "https://open.spotify.com/track/4i3wDQa5VBDPUiREGaS44Z"
     },
     {
       "added_at": null,
@@ -79,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 141674,
-      "name": "Run from God",
-      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 141674,
+      "name": "Run from God",
+      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -187,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porsche",
-        "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
         {
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 172035,
-      "name": "Porsche",
-      "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
     },
     {
       "added_at": null,
@@ -219,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+        "name": "Porsche",
+        "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
       },
       "artists": [
         {
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 144065,
-      "name": "Wire",
-      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
+      "duration_ms": 172035,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
     },
     {
       "added_at": null,
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
+      "duration_ms": 144065,
+      "name": "Wire",
+      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
     },
     {
       "added_at": null,
@@ -283,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul (feat. T.I BLAZE)",
-        "url": "https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
-        {
-          "name": "Salle",
-          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 144509,
-      "name": "Soul (feat. T.I BLAZE)",
-      "url": "https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ"
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
     },
     {
       "added_at": null,
@@ -315,6 +295,26 @@
       "duration_ms": 151408,
       "name": "Eko",
       "url": "https://open.spotify.com/track/34THJ2Fhw8dgLBCb1fMyvG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul (feat. T.I BLAZE)",
+        "url": "https://open.spotify.com/album/4XZ3ZB1G7Oo9KTqLgK5whG"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 144509,
+      "name": "Soul (feat. T.I BLAZE)",
+      "url": "https://open.spotify.com/track/2rTwsc2SNBUWAUabnlIwsQ"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okanlawon, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 212871,
       "name": "The Way (Remix)",
       "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shakur",
-        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x"
     },
     {
       "added_at": null,

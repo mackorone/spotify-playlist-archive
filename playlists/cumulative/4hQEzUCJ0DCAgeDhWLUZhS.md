@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-529 songs - 1 day 6 hr 59 min
+530 songs - 1 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2020-10-10\* | 2021-05-13 |
 | [Flash Burns From Flashbacks](https://open.spotify.com/track/1SjA9fHunPkoeTgYMM4XnU) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [The Mars Volta](https://open.spotify.com/album/6teekrqj0fRPceftGFToBR) | 2:38 | 2022-09-16 | 2025-06-04 |
 | [Flowers](https://open.spotify.com/track/7asY5GsK5NqAVh3Ux7ZkKG) | [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Flowers](https://open.spotify.com/album/4FXXzYJ9t5xVfwxslPUIWd) | 4:17 | 2021-09-17 | 2025-05-28 |
+| [Fools Gold](https://open.spotify.com/track/5NfCzuMNjPDaKzASoXOInr) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [The Fool](https://open.spotify.com/album/5XyWEswDsNcqwbcfSxXVNt) | 3:26 | 2025-10-22 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-13 | 2025-06-04 |
 | [Forever](https://open.spotify.com/track/1H5cXvRnzHb6gl2RUwrHmg) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Everyone Loves You… Once You Leave Them](https://open.spotify.com/album/0e4UoB6RvG4UyAnsyuKD4m) | 3:10 | 2020-10-10\* | 2021-05-13 |
 | [Forgiveness I + II](https://open.spotify.com/track/2NgM0Rr5uLzSR4WOVR9XW9) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Forgiveness I + II](https://open.spotify.com/album/3grI8WQrfW64ibvBALiZav) | 6:41 | 2020-10-10\* | 2021-05-13 |

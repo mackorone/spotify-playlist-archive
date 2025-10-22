@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,368 songs - 12 day 11 hr 59 min
+5,371 songs - 12 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1293,6 +1293,7 @@
 | [Dr\. Feelgood \(Love Is a Serious Business\)](https://open.spotify.com/track/0xGcAq56TXf3RnSHkCiL9k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 3:23 | 2023-07-20 |  |
 | [Dragon](https://open.spotify.com/track/7xLxdaz63ENJmmOGU6MRL3) | [Aris James](https://open.spotify.com/artist/0Q2bXEEKo1VJ7RFGfKDPhw) | [Dragon](https://open.spotify.com/album/0KAmbCdW0Dkwo2rN07OpuQ) | 3:20 | 2022-09-23 | 2022-10-09 |
 | [Drank Your Shot](https://open.spotify.com/track/3IrBhYOlu2ZuUXptjSLorn) | [August Roads](https://open.spotify.com/artist/53k9djwQ9znUGcpa7zof27) | [Drank Your Shot](https://open.spotify.com/album/7ilOlXtqaPRDV8Cry6cR9X) | 2:55 | 2023-08-05 | 2023-08-28 |
+| [Drawn 2 you](https://open.spotify.com/track/1qGxdmbdr9KJsexsEKIp92) | [Boukmanflow](https://open.spotify.com/artist/0pMNcq4OeQy6afIqsQkFT3) | [Sankofa \(spotify version\)](https://open.spotify.com/album/3NbOCbmI6s0WZrSBWSfxYe) | 2:12 | 2025-10-21 |  |
 | [Dream](https://open.spotify.com/track/37CdCdasQ8YPSzs0tAWqeQ) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Dream](https://open.spotify.com/album/5EjNnUjVvOjijI81s37aUh) | 4:23 | 2022-05-31 | 2022-06-18 |
 | [Dream Anthem](https://open.spotify.com/track/2RuY8gcyPushMXOc5mTDec) | [ATELLER](https://open.spotify.com/artist/4Lo6X5XvC17kXkibcqpHNi) | [Dream Anthem](https://open.spotify.com/album/5W0xdULVsNvNflVYo2OarI) | 3:14 | 2024-06-02 | 2024-06-14 |
 | [Dream Girl](https://open.spotify.com/track/2Gew97fJbolz5D9jiwPqCz) | [Lenny Gazebo](https://open.spotify.com/artist/6xieypSypSPfO5qdlZFMXG), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Dream Girl](https://open.spotify.com/album/2PpBVhQoVv2kf33Ysot9G6) | 2:10 | 2024-06-08 | 2024-06-20 |
@@ -1764,6 +1765,7 @@
 | [Genki Dane](https://open.spotify.com/track/2yYiGo3m1umxAHh0GiIMes) | [Kind & Kinky Zoo](https://open.spotify.com/artist/39tzsB2W9Tm6yV2PfjvtnD) | [Swamp!](https://open.spotify.com/album/3rd26UKgqlezQQTew7chYT) | 4:25 | 2022-04-24 | 2022-05-19 |
 | [Gentle Angel](https://open.spotify.com/track/3MhCQWnKGxKhDsYSpRsOd9) | [Kieran Stracey](https://open.spotify.com/artist/0l7ylVy9QYBbXlLStMIx4R) | [Gentle Angel](https://open.spotify.com/album/51sGWlBoPzNhmjnqqgaAaf) | 2:16 | 2024-06-27 | 2024-07-09 |
 | [Gentleman](https://open.spotify.com/track/759uyHAEpho3GYAcZFCYbI) | [VANDALISBIN](https://open.spotify.com/artist/0yX4mqTXY2LUs3qJh6LsDd) | [Gentleman](https://open.spotify.com/album/4ITDBpKj67cEPss5vRzsRI) | 2:20 | 2024-12-09 | 2024-12-24 |
+| [Georgina’s Heart](https://open.spotify.com/track/18e5TAEcAtmCW9GY2cYx0R) | [Alix Lone](https://open.spotify.com/artist/0vwiZOJMUDdo1Mcx2qoyRi) | [Georgina’s Heart](https://open.spotify.com/album/1tJNZ9dHhBp4qQmPXveYSD) | 3:15 | 2025-10-21 |  |
 | [get a grip!](https://open.spotify.com/track/5dV9TILx01TDifCoCPYISS) | [Marielle Divino](https://open.spotify.com/artist/6p3YqygJQ0pVx1sCQl8s0R) | [get a grip!](https://open.spotify.com/album/1gLKDNtQdNeb2reLHmKgr9) | 2:35 | 2024-09-14 | 2024-09-26 |
 | [Get Back to Love Radio Edit](https://open.spotify.com/track/1HNI7bgrAn1W2yUBGrWe7W) | [Kris James](https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8) | [Get Back to Love \(Pink Panda Remix\)](https://open.spotify.com/album/05ZHDrT49RHH1WTBFiIktl) | 2:55 | 2020-03-14 | 2020-04-04 |
 | [Get Down](https://open.spotify.com/track/6HeVdU7MataqoI7hA8tMwE) | [Traveler](https://open.spotify.com/artist/6wCnoQVmun9H1OqppOGY76) | [Get Down](https://open.spotify.com/album/28AzsxCog5pmmEXfjE6LhI) | 4:47 | 2020-12-24 | 2021-01-12 |
@@ -4195,6 +4197,7 @@
 | [Some Vague Impression](https://open.spotify.com/track/2gEY0GgLcdNgY53YHzTGF3) | [Former Friend](https://open.spotify.com/artist/3d0qSylOj8TyMZKa2tzmpt) | [Bill](https://open.spotify.com/album/5IgVlmWQkSUXprjuSHNs3u) | 2:30 | 2021-11-20 | 2021-12-18 |
 | [Somebody](https://open.spotify.com/track/62cHFHmbmCYXqmIgMxeMjl) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [Somebody](https://open.spotify.com/album/2V7q8KO5FC5XxqpZdqDxFX) | 3:17 | 2020-07-26 | 2020-08-12 |
 | [Somebody Else](https://open.spotify.com/track/47mSZtzzciio9vX6hwkQwb) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Somebody Else](https://open.spotify.com/album/0l6s4sVSq9VAPbS8st4nee) | 3:10 | 2025-06-13 | 2025-07-03 |
+| [Somebody Else](https://open.spotify.com/track/5F1BTORlRoCl6zUYknenMA) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [Somebody Else](https://open.spotify.com/album/12lmqC0KgdjpBi86pad8J3) | 3:19 | 2025-10-22 |  |
 | [Somebody to Love](https://open.spotify.com/track/3o6qjtaCLvfvmbOwBADtQA) | [Natalie Claro](https://open.spotify.com/artist/6A0AOpJ7VsZvimYUSbE1Iw) | [Somebody to Love](https://open.spotify.com/album/0XseSST8lYmMLucFMFPTWN) | 3:11 | 2023-03-31 | 2023-04-23 |
 | [Someday](https://open.spotify.com/track/00d6kgv4bLvQbMzcvzTssh) | [Brian Larkins](https://open.spotify.com/artist/6vTwBl97KanVScVftV5G5n) | [Someday](https://open.spotify.com/album/74S1Wg9RXQ6A5z7Rxvwq6v) | 2:53 | 2021-01-08 | 2021-01-26 |
 | [Someday All This Pain Will Be Useful](https://open.spotify.com/track/7zcMMzn78hRiW71G4Zx2oD) | [Barli](https://open.spotify.com/artist/6HtZmijXHUG4ugzarCcBpi) | [Someday All This Pain Will Be Useful](https://open.spotify.com/album/03XN2SihYXvw8e2U2oZr16) | 2:56 | 2022-02-25 | 2022-03-14 |

@@ -4,7 +4,7 @@
 
 > 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: KPop Demon Hunters\)
 
-339 songs - 22 hr 6 min
+341 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Every moment of you](https://open.spotify.com/track/4YTvuLSqKshDOJvwyDmAYS) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/7vv0uqXP5CmCkBczh3z4ZV) | 4:03 | 2022-02-17 |  |
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2021-03-11 | 2022-02-18 |
 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 | 2022-02-23 |  |
+| [Fall in Fall](https://open.spotify.com/track/4gLxuogLnPIMytvG3vw3Bq) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [ABOUT ME](https://open.spotify.com/album/5OXuZ59S78nwcYNTbpViWH) | 3:51 | 2025-10-21 |  |
 | [Fall in Fall](https://open.spotify.com/track/7M8UfQ4tszq3j4zpljhLX2) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [ABOUT ME](https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ) | 3:51 | 2022-02-17 | 2023-11-16 |
 | [Family Portrait \(2020\)](https://open.spotify.com/track/4Nk5zLRi4lmYpeJF7fpPwK) | [Kim Jin Ho](https://open.spotify.com/artist/0ZHGJr3gcX0fVYg1EQrcob) | [Family Portrait \(2020\)](https://open.spotify.com/album/6CAokph2LxSwTMczzgfeFu) | 6:43 | 2022-02-17 |  |
 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-08-08 |  |
@@ -244,6 +245,7 @@
 | [The Red Knot](https://open.spotify.com/track/4p0aRX6U77LV48n0tWvYoV) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [Ahn Ye Eun](https://open.spotify.com/album/5ttMuBVsDu4z4LZ1O7VC1u) | 4:30 | 2022-02-17 |  |
 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 | 2022-02-17 |  |
 | [The Way To Say Goodbye](https://open.spotify.com/track/70a9hCn5BMXNDROcckHmAO) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Way To Say Goodbye](https://open.spotify.com/album/123HZKvdhxbDBSkRgWYCHz) | 5:07 | 2022-02-17 |  |
+| [The Way To Say Goodbye](https://open.spotify.com/track/1xlCcSVgFufo88sfkKarhk) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [The Way To Say Goodbye](https://open.spotify.com/album/01XwXakosDXoyR4FuTlkm3) | 5:07 | 2025-10-21 |  |
 | [Time of Our Life](https://open.spotify.com/track/0btLaqWlXsOWLcpjE1jmIk) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/3gTiTx97I9WtlvWOLnPETW) | 3:25 | 2024-04-02 |  |
 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be＋](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 | 2022-02-17 |  |
 | [To live](https://open.spotify.com/track/2BnTrafo86hmIwWSPwmvKH) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [To live](https://open.spotify.com/album/0qdQ9rTmbb5L5eTkDGe3zx) | 3:51 | 2025-02-14 |  |

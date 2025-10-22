@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,973 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,978 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 21 | [一百隻斑馬](https://open.spotify.com/track/2I3HHzCO87ixiD0sWuCJ0k) | [PLAYBIGMUSIC KIDS](https://open.spotify.com/artist/6yKkyhmPzbkLmCAe5pWWf5) | [一百隻斑馬](https://open.spotify.com/album/01ZadUJvvzz5vm4emFqWk4) | 2:03 |
 | 22 | [快乐起床歌](https://open.spotify.com/track/7hpxOLxRObL1GdlOrEONTG) | [张晶晶](https://open.spotify.com/artist/6uGRh9i4m8kSWZ6kus65B2) | [快乐起床歌](https://open.spotify.com/album/2a1jzAssMtAQtCAqkS1kae) | 3:30 |
 | 23 | [瑪莉有隻小綿羊](https://open.spotify.com/track/6SyX3VoVqkD23KlwFN0yYt) | [MIKA STUDIO](https://open.spotify.com/artist/7lz1tdWhI9ye85uzmrICN2) | [樂唱童學會 世界經典童謠 中文演唱版](https://open.spotify.com/album/2pfQFJ5G0GjZaNiLqxzL5R) | 1:07 |
-| 24 | [给我一个拥抱](https://open.spotify.com/track/3EB8UbtMnKpBc2OTd5xtqX) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37) | [给我一个拥抱](https://open.spotify.com/album/26FyhHPiGdVodBH04t5K6Q) | 3:05 |
+| 24 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
 | 25 | [捏泥巴](https://open.spotify.com/track/6cs1kK33Fn6a9fBI2G6qVE) | [YOYO家族藝人](https://open.spotify.com/artist/6s8WAcX7G8VMpOH1926RMi) | [YoYo點點名8 \- 動物音樂課](https://open.spotify.com/album/45Puppm2SF0vj3RKSkXQlx) | 2:36 |
-| 26 | [開場歌1大聲說哈囉](https://open.spotify.com/track/3AWQihVPxAqCSefg6D2tGt) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LOVE](https://open.spotify.com/album/7hruXsIAMq5VG5hh0hwyU3) | 0:49 |
+| 26 | [给我一个拥抱](https://open.spotify.com/track/3EB8UbtMnKpBc2OTd5xtqX) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37) | [给我一个拥抱](https://open.spotify.com/album/26FyhHPiGdVodBH04t5K6Q) | 3:05 |
 | 27 | [起床歌](https://open.spotify.com/track/5du31s5tXWd2S6qG4wOwp7) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [寶貝的呢喃歌](https://open.spotify.com/album/2jea9wsUdrk2v2qF3FYH9h) | 3:39 |
 | 28 | [雞蛋搖滾樂](https://open.spotify.com/track/5nCsZqNzSigMY7fbk1t2pz) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [愛你愛我](https://open.spotify.com/album/1ptlSgxhd9E8lFIo3imzG1) | 2:59 |
 | 29 | [爸爸去哪儿](https://open.spotify.com/track/6QI9ZO6YI578LkxMV8j6Po) | [张子诺](https://open.spotify.com/artist/1yGrEEUjuRPz8deCEsncYI) | [中外儿歌精选合辑4](https://open.spotify.com/album/5nVJjbFeN0rDiZcyqgJ2A7) | 4:33 |

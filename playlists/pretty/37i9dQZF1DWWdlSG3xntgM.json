@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 37618,
+  "num_followers": 37624,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u1eadp",
-          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
-    },
-    {
-      "added_at": "2025-06-03 14:29:41",
-      "album": {
         "name": "Hoang Vu",
         "url": "https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 361870,
       "name": "Chuyen Tinh Nguoi Dan Ao",
       "url": "https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7"
+    },
+    {
+      "added_at": "2025-06-03 14:29:41",
+      "album": {
+        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u1eadp",
+          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -755,18 +755,22 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "Th\u00f4i Th\u1ebf Th\u00ec Chia Tay (Asia 243)",
-        "url": "https://open.spotify.com/album/5wsEpJOncQKqXIPdVcRnDr"
+        "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
+        "url": "https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh"
       },
       "artists": [
         {
-          "name": "B\u1ea3o Y\u1ebfn",
-          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
+          "name": "Quang L\u00ea",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        },
+        {
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U"
         }
       ],
-      "duration_ms": 280546,
-      "name": "Chuy\u1ec7n h\u1ee3p tan",
-      "url": "https://open.spotify.com/track/2tgGVELrUJO3gH3ziP2yCx"
+      "duration_ms": 335266,
+      "name": "Li\u00ean Kh\u00fac M\u01b0a N\u1eeda \u0110\u00eam - Ai Cho T\u00f4i T\u00ecnh Y\u00eau",
+      "url": "https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
-        "url": "https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh"
+        "name": "Th\u00f4i Th\u1ebf Th\u00ec Chia Tay (Asia 243)",
+        "url": "https://open.spotify.com/album/5wsEpJOncQKqXIPdVcRnDr"
       },
       "artists": [
         {
-          "name": "Quang L\u00ea",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        },
-        {
-          "name": "Nguy\u00ean L\u00ea",
-          "url": "https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U"
+          "name": "B\u1ea3o Y\u1ebfn",
+          "url": "https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe"
         }
       ],
-      "duration_ms": 335266,
-      "name": "Li\u00ean Kh\u00fac M\u01b0a N\u1eeda \u0110\u00eam - Ai Cho T\u00f4i T\u00ecnh Y\u00eau",
-      "url": "https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel"
+      "duration_ms": 280546,
+      "name": "Chuy\u1ec7n h\u1ee3p tan",
+      "url": "https://open.spotify.com/track/2tgGVELrUJO3gH3ziP2yCx"
     },
     {
       "added_at": "2025-06-03 14:29:41",

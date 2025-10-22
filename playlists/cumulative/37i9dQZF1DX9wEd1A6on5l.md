@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-772 songs - 1 day 12 hr 33 min
+773 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 | 2023-03-11 | 2023-03-18 |
 | [Bobo](https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Bobo](https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL) | 3:02 | 2025-09-05 |  |
 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 | 2023-01-19 | 2024-05-26 |
-| [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-17 |  |
+| [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-17 |  |
 | [Bodycon](https://open.spotify.com/track/7ouRkgZUc2OOrsdf1hQUDx) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Bodycon](https://open.spotify.com/album/0HdNiCaRBvvwtruMCKsHJY) | 2:39 | 2025-03-28 | 2025-06-10 |
 | [Bolingo](https://open.spotify.com/track/4bKoCUCsmc2SdqWv0YV1gk) | [HumbleSmith](https://open.spotify.com/artist/2mOo2XmJUlRFE3iX2pQNXW), [Umu Obiligbo](https://open.spotify.com/artist/2d3JopSFur0Ywm6KQdkUeH) | [Bolingo](https://open.spotify.com/album/18jIbSk5BS74Z7TC57HNcX) | 3:23 | 2025-04-04 | 2025-05-04 |
 | [BOMBING](https://open.spotify.com/track/0dtwzfXcb6lKIkuFw7w8nC) | [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BOMBING](https://open.spotify.com/album/3yOGsHXvqEFsSDtexJaB4g) | 3:13 | 2024-07-09 | 2024-10-05 |
@@ -337,6 +337,7 @@
 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-05-10 | 2024-05-17 |
 | [HEHEHE](https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEHEHE](https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5) | 1:53 | 2024-07-09 | 2025-03-29 |
 | [Hello](https://open.spotify.com/track/1Cl8XOgbw8fp9HbyE1nvpV) | [DJ Xclusive](https://open.spotify.com/artist/6eYjM3EJ2ux62CjigGQIiU), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Hello](https://open.spotify.com/album/6NJpW93jCF94frntzBy0pr) | 2:10 | 2025-09-05 | 2025-09-26 |
+| [Hello Hello](https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Hello Hello](https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH) | 2:35 | 2025-10-17 |  |
 | [Hey Jago](https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS) | [Hey Jago](https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d) | 2:05 | 2025-03-21 |  |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2022-06-09 | 2023-11-25 |
 | [high and sober \(go on soun\)](https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC \(RELOADED\)](https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ) | 2:21 | 2024-02-16 | 2024-03-22 |
@@ -351,7 +352,7 @@
 | [Holy Father](https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Holy Father](https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn) | 3:04 | 2022-06-09 | 2023-02-24 |
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-11-10 | 2024-04-19 |
 | [Holy Ghost](https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm) | 3:06 | 2024-04-19 | 2024-06-28 |
-| [Holy Jah](https://open.spotify.com/track/0rivusQhfl9wyHHP1iFdKn) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Holy Jah](https://open.spotify.com/album/5YpC7H8IgoN64m1hhljX0w) | 2:42 | 2025-08-29 |  |
+| [Holy Jah](https://open.spotify.com/track/0rivusQhfl9wyHHP1iFdKn) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Holy Jah](https://open.spotify.com/album/5YpC7H8IgoN64m1hhljX0w) | 2:42 | 2025-08-29 | 2025-10-22 |
 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 | 2025-05-16 |  |
 | [Honest](https://open.spotify.com/track/1w8XryfrrR7rXSo5GscZ5f) | [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [+243](https://open.spotify.com/album/6HtnERLFPPLFNQGy3RoZGK) | 3:14 | 2024-06-28 | 2024-07-13 |
 | [Hope](https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:44 | 2024-11-29 |  |

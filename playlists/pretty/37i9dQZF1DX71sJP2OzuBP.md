@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,923 likes - 110 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,921 likes - 110 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 6 | [願你愛自己，像我愛你一樣](https://open.spotify.com/track/0xme1uL6BTAkjQdHGW66aA) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [願你愛自己，像我愛你一樣](https://open.spotify.com/album/4JLYwZPpbZandgmxR4GYYT) | 4:24 |
 | 7 | [祝你生日快樂](https://open.spotify.com/track/0swDTbKkAtlG3FanC6jUct) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [祝你生日快樂](https://open.spotify.com/album/2AsrBsR18di75bRFTWArvC) | 4:06 |
 | 8 | [我受夠了](https://open.spotify.com/track/7lFYoq9qxU9OhT90vVH4DB) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [我受夠了](https://open.spotify.com/album/46cBSMzcyPoMcK26REi3ip) | 3:51 |
-| 9 | [抽完這包菸我就會放下你](https://open.spotify.com/track/5KAguR1IHRz1LZZZIgcfcP) | [王泰翔 2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [抽完這包菸我就會放下你](https://open.spotify.com/album/6jD0fBhcfxieYbj3v40u0u) | 3:45 |
+| 9 | [抽完這包菸我就會放下你](https://open.spotify.com/track/5KAguR1IHRz1LZZZIgcfcP) | [王泰翔 2000wtx](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [抽完這包菸我就會放下你](https://open.spotify.com/album/6jD0fBhcfxieYbj3v40u0u) | 3:45 |
 | 10 | [一瓢思念](https://open.spotify.com/track/3k7rBVygUlfAQcrHKlgfPN) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [一瓢思念](https://open.spotify.com/album/4qyAqm9dnhTkJ7F5F2kB1A) | 3:02 |
 | 11 | [刪了](https://open.spotify.com/track/1lqWsPvpHKjbhX59QBUoVc) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [刪了](https://open.spotify.com/album/5As6k7EkH3cTa5VxmXUhZT) | 4:11 |
 | 12 | [星星城市與我們](https://open.spotify.com/track/08D3Gsj2zgDMe5a54ksw7O) | [小球\(莊鵑瑛\)](https://open.spotify.com/artist/5r0Fhn5JfkbhPG8wXRu0iY) | [星星城市與我們](https://open.spotify.com/album/1z48KmhW3SjolUa44bsRls) | 4:16 |

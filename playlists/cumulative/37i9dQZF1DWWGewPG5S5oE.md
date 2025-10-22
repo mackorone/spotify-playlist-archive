@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: CRCK/LCKS
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 市原ひかり
 
-455 songs - 1 day 12 hr 46 min
+456 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,11 +222,12 @@
 | [Mr.Kelp](https://open.spotify.com/track/78AsSev9SxDU4H1TNOpeQr) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Mr.Kelp](https://open.spotify.com/album/397OakmJY7vTlw15J9b1dK) | 3:56 | 2022-10-11 | 2022-11-16 |
 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Corey King](https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 | 2025-03-04 | 2025-08-31 |
 | [My Centennial](https://open.spotify.com/track/3nlXveYkFlU83KjvryftCq) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX) | [My Centennial](https://open.spotify.com/album/4PLtor8hE3WgZh66FGH39P) | 10:16 | 2025-01-28 | 2025-03-26 |
+| [My Cerebellum](https://open.spotify.com/track/1TTxIFl6TyNmbk21G7HnOO) | [Hikari Ichihara](https://open.spotify.com/artist/24yfyKeDTEjTZNiMP3MjQD) | [Brain Candy](https://open.spotify.com/album/25JvP9h3XLAqYRruj0blew) | 6:37 | 2025-10-21 |  |
 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 | 2023-02-16 |  |
 | [Nefertiti \- Cover](https://open.spotify.com/track/75PB98MZlJQVwTKgMF3RuE) | [shaku](https://open.spotify.com/artist/3Z02xIRnnq8ITpacUOk5J8) | [Nefertiti](https://open.spotify.com/album/5crs3lym3GuXHXGlXOwK2c) | 8:19 | 2023-01-24 | 2023-02-17 |
 | [Nemotown](https://open.spotify.com/track/7kl7M8K6SKirDJ45KrgAmA) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kono Taikutsu na Hibi o/Nemotown](https://open.spotify.com/album/3f63tbFjEyZVErqEqHp6t3) | 3:34 | 2023-09-12 | 2023-10-04 |
 | [New Friends 1](https://open.spotify.com/track/1PC2s55zuUhTv2f0GzMQ9t) | [中村海斗](https://open.spotify.com/artist/4rsih0eDP701WyFRusmZ5c) | [BLAQUE DAWN](https://open.spotify.com/album/5AEfXYcsVxs4VzDImZtTJS) | 7:38 | 2022-12-20 | 2023-04-19 |
-| [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 | 2024-11-05 |  |
+| [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 | 2024-11-05 | 2025-10-22 |
 | [NEW POWER](https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [NEW POWER](https://open.spotify.com/album/6gpYBMgbkFvyfhwVACxu8c) | 3:39 | 2024-07-09 | 2024-09-19 |
 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 | 2024-09-10 |  |
 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 | 2022-09-06 | 2024-04-19 |

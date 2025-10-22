@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36826,
+  "num_followers": 36833,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADjv4+nih/O8VkJdxC1yRz6",
+  "snapshot_id": "aPV7gAAAAAATaDvOPs0qcwe7J/ZCMSTz",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Years of Tasha",
-        "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/3KK5R3usd3gMn6rLcKH2uz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory Song",
         "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 350480,
       "name": "Gracefully Broken",
       "url": "https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Years of Tasha",
+        "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/3KK5R3usd3gMn6rLcKH2uz"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "God's About To Do It - Live",
+      "url": "https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Over Everything (Live In Las Vegas)",
         "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 236247,
       "name": "Another Thing (with Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "God's About To Do It - Live",
-      "url": "https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: ralph",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002cover: \u00a5ellow Bucks",
   "name": "+81 Connect: J-HipHop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -3644,6 +3644,28 @@
       "duration_ms": 166999,
       "name": "BACK OFF",
       "url": "https://open.spotify.com/track/3knAsIqTemKw9rRKsQ83K9"
+    },
+    {
+      "album": {
+        "name": "Backrooted",
+        "url": "https://open.spotify.com/album/1APTdA3906OuJI5uc9wd0R"
+      },
+      "artists": [
+        {
+          "name": "BIG FAF",
+          "url": "https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I"
+        },
+        {
+          "name": "AMO",
+          "url": "https://open.spotify.com/artist/0yDxv7OYUefoV03lyOp1LS"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192287,
+      "name": "Backrooted",
+      "url": "https://open.spotify.com/track/1v81WO1jntFL3krIjtdlp0"
     },
     {
       "album": {
@@ -11287,6 +11309,24 @@
     },
     {
       "album": {
+        "name": "Eyeland",
+        "url": "https://open.spotify.com/album/4OLeoAVpdg3efpTCnfNZhU"
+      },
+      "artists": [
+        {
+          "name": "STARKIDS",
+          "url": "https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173694,
+      "name": "Eyeland",
+      "url": "https://open.spotify.com/track/69K5y3chQk3izqTzdEFNjj"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/6jhSg450E4zkB6OD0scliO"
       },
@@ -16406,6 +16446,32 @@
       "duration_ms": 117321,
       "name": "I&I",
       "url": "https://open.spotify.com/track/6gExdJSBCQWalHneNf2QLt"
+    },
+    {
+      "album": {
+        "name": "I'm A Rapper",
+        "url": "https://open.spotify.com/album/1DZTM15o6Wn5LKsIgeFt5b"
+      },
+      "artists": [
+        {
+          "name": "018",
+          "url": "https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN"
+        },
+        {
+          "name": "Leon Fanourakis",
+          "url": "https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N"
+        },
+        {
+          "name": "DJ Hazime",
+          "url": "https://open.spotify.com/artist/5OTMloJew4RhmaLHAFyItP"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "I'm A Rapper",
+      "url": "https://open.spotify.com/track/4Dn7sVbvv1Nj2QvcKcqBEn"
     },
     {
       "album": {
@@ -23722,7 +23788,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 205002,
       "name": "NARIWAI (feat. 11)",
       "url": "https://open.spotify.com/track/71FD1cfIZWQQD3fYd061T3"

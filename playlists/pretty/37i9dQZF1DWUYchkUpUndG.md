@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Tim Godfrey and Oxlade
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,573 likes - 101 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,611 likes - 101 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

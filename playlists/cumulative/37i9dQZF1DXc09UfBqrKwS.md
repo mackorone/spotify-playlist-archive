@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-781 songs - 1 day 13 hr 30 min
+784 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Aetheris](https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma) | [Edge Of The Spiral](https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8) | [Aetheris](https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x) | 2:58 | 2024-06-18 | 2024-07-16 |
 | [After Dusk](https://open.spotify.com/track/5jlj0qkXgcRieANDFvg0mw) | [Gianni Goggia](https://open.spotify.com/artist/17wpSZjx0lWXcjoskfV2sQ) | [After Dusk](https://open.spotify.com/album/6BZuHMDtHuMmAhRReJ7wTf) | 2:04 | 2023-03-31 | 2023-09-01 |
 | [Afterglow](https://open.spotify.com/track/4HT1WedbhVHDpyFem0aMg4) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Afterglow](https://open.spotify.com/album/3CBIrtuyWg8ZDqcnsw5tNu) | 2:39 | 2025-04-09 |  |
+| [Afterthought](https://open.spotify.com/track/3E2dsbt4QWyHsgLgWktE4z) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Afterthought](https://open.spotify.com/album/2zguEFgXd8mk0nFYoay25R) | 2:34 | 2025-10-08 |  |
 | [Aglow](https://open.spotify.com/track/3Kggpo27AEkYep2LsGWVse) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Aglow](https://open.spotify.com/album/4bAFwcpEMDShRoeUjCLEZ0) | 2:28 | 2025-06-03 |  |
 | [Alleviation](https://open.spotify.com/track/4KfmNH5wWl4814cZ3Q84xe) | [Noctivelle](https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq) | [Alleviation](https://open.spotify.com/album/7uEi0Kp9gOsmgzalv0wL4x) | 2:21 | 2025-09-23 |  |
 | [Allt finns kvar](https://open.spotify.com/track/6eTRQbYbCnrnm0ghn4eUNd) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Allt finns kvar](https://open.spotify.com/album/4peQko6d1eFGavCfFHJGT3) | 3:59 | 2023-03-31 | 2024-02-09 |
@@ -144,11 +145,12 @@
 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 | 2024-01-13 | 2025-05-08 |
 | [Chilling Silence](https://open.spotify.com/track/3VlcsvQirSTpAJfet47IcJ) | [Osteriana](https://open.spotify.com/artist/1tTvqzD47dcgaRbQTNjgF2) | [Chilling Silence](https://open.spotify.com/album/1Vn2yKkRMV3S2i5QQhOE8p) | 2:26 | 2023-03-31 | 2024-02-09 |
 | [Choices](https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX) | [Alva Adler](https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl) | [Choices](https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR) | 2:41 | 2023-03-31 | 2024-02-09 |
+| [Chronology](https://open.spotify.com/track/31ne58AShJD0B4osFf15eY) | [Sleep Envoy](https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc) | [Chronology](https://open.spotify.com/album/2GRYrVnMsBf6hqrK9ExqoY) | 2:38 | 2025-10-08 |  |
 | [Ciclo Continuo](https://open.spotify.com/track/03E9MxVhGHKWc2qAlEfFcC) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Ciclo Continuo](https://open.spotify.com/album/5a3DGoKRWD16QOIK5o0BKx) | 3:03 | 2023-03-31 | 2024-02-09 |
 | [Ciclo Solar](https://open.spotify.com/track/5igYXEgB6IPo7LNtQ71ZMT) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Planetas](https://open.spotify.com/album/51pSIpoYAmWbiUArilRnSg) | 3:13 | 2023-03-31 | 2024-02-09 |
 | [Ciels de Saphir](https://open.spotify.com/track/1WS6k1CpsOfxX61GeWKOR0) | [Fabuluxe](https://open.spotify.com/artist/4MwFbGn1PGHhaKAkhtEVDP) | [Ciels de Saphir](https://open.spotify.com/album/0td05C3nbN8gNEOsZ3DwC5) | 2:24 | 2025-04-09 | 2025-10-07 |
 | [Circularity](https://open.spotify.com/track/3U86GGu0IZtCmd1vxrK9ki) | [Labyrinthines](https://open.spotify.com/artist/3DWANz0CtvzLItCcONSdQQ) | [Circularity](https://open.spotify.com/album/0KyjYyFGkwwE4Qyfn5TWLc) | 2:55 | 2025-06-03 |  |
-| [Cirrus](https://open.spotify.com/track/3Q8gucbG6FdXmjisrfs36g) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Cirrus](https://open.spotify.com/album/3pzZB5OIKoOHBgwCZGAYwy) | 2:40 | 2025-06-03 |  |
+| [Cirrus](https://open.spotify.com/track/3Q8gucbG6FdXmjisrfs36g) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Cirrus](https://open.spotify.com/album/3pzZB5OIKoOHBgwCZGAYwy) | 2:40 | 2025-06-03 | 2025-10-22 |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-18 | 2025-05-11 |
 | [Clarify](https://open.spotify.com/track/5dnYuaLxgQCzwpbO1qsS0d) | [Vau Dio](https://open.spotify.com/artist/1k5dDiIY8luiAY2LoCItXm) | [Clarify](https://open.spotify.com/album/6Co30XY2obzBGDs429fPgM) | 2:12 | 2025-01-08 |  |
 | [Cloudology](https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J) | [Moomu](https://open.spotify.com/artist/2eZRi0tR0RmIwq6lx3TEZt) | [Aguatic](https://open.spotify.com/album/1WSU1HlUTsOoa051MqIP6u) | 3:07 | 2023-03-31 | 2023-12-09 |
@@ -325,7 +327,7 @@
 | [Golden](https://open.spotify.com/track/6B8R0Wy5pycqH0yKfHatfe) | [Lasant](https://open.spotify.com/artist/2lScaQUr3aLAdDv8aQ73bD) | [Golden](https://open.spotify.com/album/1VUevKuiOMjUNPtZZFfDNg) | 3:01 | 2025-01-08 |  |
 | [Golden World](https://open.spotify.com/track/7BjioO6K4XOUs7VNjUvLdW) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Golden World](https://open.spotify.com/album/0YiJmb3CyZFcuRUwUbnAFL) | 2:19 | 2025-05-07 |  |
 | [Gracious](https://open.spotify.com/track/7eKlaWsEYpNPZXLPAXClqf) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Gracious](https://open.spotify.com/album/2gP4SaNbEnEx2GYrQj4neT) | 2:32 | 2024-07-09 | 2024-07-16 |
-| [Gravitational](https://open.spotify.com/track/4CXQZg7QjZquWYdE4kvjZ4) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Gravitational](https://open.spotify.com/album/2Vhxe5soAU5oQIeHDVM9MS) | 2:55 | 2025-02-26 |  |
+| [Gravitational](https://open.spotify.com/track/4CXQZg7QjZquWYdE4kvjZ4) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Gravitational](https://open.spotify.com/album/2Vhxe5soAU5oQIeHDVM9MS) | 2:55 | 2025-02-26 | 2025-10-22 |
 | [Grow Free](https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Grow Free](https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA) | 2:50 | 2024-01-13 | 2025-01-09 |
 | [Gruis Silentium](https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T) | [Lukasti](https://open.spotify.com/artist/44iToUPW0yX9V7edv2ZgWd) | [Gruis Silentium](https://open.spotify.com/album/2ZzhFG4xH98UysJqdfuUUz) | 2:38 | 2024-01-17 | 2025-05-11 |
 | [Hades](https://open.spotify.com/track/0GH5T697QdbU6o9tBytyOI) | [Sleep Envoy](https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc) | [Hades](https://open.spotify.com/album/6YuLoNBB7pc3vgZRPZBjsc) | 2:54 | 2025-06-03 |  |
@@ -701,7 +703,7 @@
 | [The Free Air](https://open.spotify.com/track/4Bi9PXnI1ZDErQlgDgT4y9) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [The Free Air](https://open.spotify.com/album/2xxUugRqE6aPAwjJsXzmgW) | 3:22 | 2024-02-08 | 2024-07-16 |
 | [The Frost Line](https://open.spotify.com/track/64JVF5lbu1ntooT77veOgN) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [The Frost Line](https://open.spotify.com/album/342mUFxbqazehOlAa9lOH1) | 3:14 | 2025-09-23 |  |
 | [The Last Light Fades](https://open.spotify.com/track/7bNnGjhXjaJq19vMTt3CMm) | [Tide Nebula](https://open.spotify.com/artist/1Bhj4rsKqOA42MJilyYqWy) | [The Last Light Fades](https://open.spotify.com/album/70uLnnYeWiNWmTiBoXHXSe) | 2:58 | 2025-09-23 |  |
-| [The Morning Star](https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [The Morning Star](https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf) | 2:34 | 2024-05-20 |  |
+| [The Morning Star](https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF) | [Author S](https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm) | [The Morning Star](https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf) | 2:34 | 2024-05-20 | 2025-10-22 |
 | [The New World](https://open.spotify.com/track/0N5NNIaNs3YVhiyt22ZYhG) | [Cardi Mist](https://open.spotify.com/artist/3ddw8VOjGZrR2G6dFCjamb) | [Need Alone TIm](https://open.spotify.com/album/7aSNf0iZiUDbYUs552dVkm) | 3:14 | 2023-03-31 | 2024-05-21 |
 | [The Next Step](https://open.spotify.com/track/5Cu36fWWD1nSaTnDgSuTf5) | [Pius Sylla](https://open.spotify.com/artist/7cD2wGIWLgv5oxmmgS1EY5) | [The Next Step](https://open.spotify.com/album/4zzaUqPBhwf9MMIMkOZ2e5) | 2:54 | 2025-01-22 |  |
 | [The Only Me](https://open.spotify.com/track/12C0zlAiXNawkKZcM2vksz) | [Elsa Greeve](https://open.spotify.com/artist/4K1bmNl7QvLvBZa9v4b9rd) | [The Only Me](https://open.spotify.com/album/18BqgRE1FYyGzLl4CCpx4v) | 3:20 | 2023-03-31 | 2024-02-09 |
@@ -745,6 +747,7 @@
 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 | 2023-03-31 | 2024-05-05 |
 | [Utenfor](https://open.spotify.com/track/2l3IjjIko1lYKq9Q1QREyF) | [Kayla Holdt](https://open.spotify.com/artist/2CINcGSpux0n8ZPN8cMeqg) | [Utenfor](https://open.spotify.com/album/2iFk4OLEKbkmUOsLbgzVUI) | 2:52 | 2023-03-31 | 2024-05-21 |
 | [Vakna](https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Andrum](https://open.spotify.com/album/3DEAYz5dCigP164kUJU53M) | 2:24 | 2023-03-31 | 2024-05-21 |
+| [Valley](https://open.spotify.com/track/1NjSP3rbFjiRBW1s2ZFiNx) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Valley](https://open.spotify.com/album/4bx5iHW5lzbD8zVg2UhVR8) | 2:44 | 2025-10-08 |  |
 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 | 2023-03-31 | 2024-03-21 |
 | [Venus Drive](https://open.spotify.com/track/2cz0d43ScM5MOE9JUxOvxQ) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Venus Drive](https://open.spotify.com/album/4xgMUWz6giZuBlozU6F6sy) | 2:12 | 2023-08-25 | 2025-02-15 |
 | [Verdensrommet](https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Verdensrommet](https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0) | 3:02 | 2024-07-09 |  |

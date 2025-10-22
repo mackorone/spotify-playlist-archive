@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167414,
+  "num_followers": 167417,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Leadfoot",
-        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 165576,
-      "name": "Leadfoot",
-      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Last Chance to Win",
         "url": "https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 151728,
       "name": "I Almost Told Her",
       "url": "https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Leadfoot",
+        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 165576,
+      "name": "Leadfoot",
+      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        }
+      ],
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        }
-      ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 155928,
       "name": "M-E-X-I-C-O (Feat. Billy Strings)",
       "url": "https://open.spotify.com/track/1AvMXzHYdIdJfZwpjZQCdN"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -803,18 +803,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Hubbardville Store",
-        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
       "artists": [
         {
-          "name": "Lost Dog Street Band",
-          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Hubbardville Store",
-      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -839,22 +843,18 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+        "name": "Hubbardville Store",
+        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+          "name": "Lost Dog Street Band",
+          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
         }
       ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 252520,
+      "name": "Hubbardville Store",
+      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 301586,
-      "name": "Give That Wildman a Knife/ Bellows Falls/ Waitin' On a Hannah",
-      "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Fire in the Dark",
         "url": "https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1"
       },
@@ -999,22 +983,34 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
       "artists": [
         {
-          "name": "Mark O'Connor",
-          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
-        },
-        {
-          "name": "Maggie O'Connor",
-          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
         }
       ],
-      "duration_ms": 263317,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+      "duration_ms": 301586,
+      "name": "Give That Wildman a Knife/ Bellows Falls/ Waitin' On a Hannah",
+      "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Wanderers Like Me",
+        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Wanderers Like Me",
+      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Wanderers Like Me",
-        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Maggie O'Connor",
+          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
         }
       ],
-      "duration_ms": 189887,
-      "name": "Wanderers Like Me",
-      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
+      "duration_ms": 263317,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Murmurations, Vol. 2",
         "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
         }
       ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1291,6 +1275,22 @@
       "duration_ms": 261333,
       "name": "Runnin' from the Weather",
       "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 174000,
       "name": "Blue Night",
       "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2025-08-15 04:00:22",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "As the Crow Flies",
-        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
-      },
-      "artists": [
-        {
-          "name": "Green Mountain Grass",
-          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "The Banker",
-      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
-    },
-    {
-      "added_at": "2025-08-15 04:00:22",
-      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
+      },
+      "artists": [
+        {
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
+    },
+    {
+      "added_at": "2025-08-15 04:00:22",
+      "album": {
         "name": "Big City",
         "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
       },
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-08-15 04:00:22",
       "album": {
-        "name": "This Sad Song (Single Version) [Live]",
-        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 138534,
-      "name": "This Sad Song (Single Version) [Live]",
-      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
+      "duration_ms": 198493,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
     }
   ],
   "unique_name": "Grass Roots",

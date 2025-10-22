@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:playlist:37i9dQZF1EFTjpkKvAHx95"> Nija </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,743 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,773 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Compartir](https://open.spotify.com/track/29Ro9cW0qbFdXGmrJ3aNKs) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/2dXJG8zygelhXXvQuKn4Ye) | 4:17 |
 | 50 | [Sunrise](https://open.spotify.com/track/3yGzPwLFlRLFejPkR1lBJ2) | [Flora Cheng](https://open.spotify.com/artist/3J9eB8So7l3Zx8zxlALwLA) | [ICARUS](https://open.spotify.com/album/55ZzDADk1B3G1ASOCZ0M2n) | 1:08 |
 
-Snapshot ID: `AAAAAOuSht14yZ8hi5XCnMDh/fbGdGHL`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`

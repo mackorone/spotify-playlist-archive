@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83c\udf79",
-  "num_followers": 253771,
+  "num_followers": 253761,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Trippy Yeah",
-        "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Trippy Yeah",
-      "url": "https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Ice 2 Water",
         "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Trippy Yeah",
+        "url": "https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Trippy Yeah",
+      "url": "https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "At the River",
+      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "At the River",
-      "url": "https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Ask Me / Mesmerize",
-        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
-      },
-      "artists": [
-        {
-          "name": "Duck Sauce",
-          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "Ask Me",
-      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Ithaque",
         "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
       },
@@ -1235,22 +1211,26 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+        "name": "Ask Me / Mesmerize",
+        "url": "https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "Duck Sauce",
+          "url": "https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt"
         },
         {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 214921,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
+      "duration_ms": 193795,
+      "name": "Ask Me",
+      "url": "https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1271,6 +1251,26 @@
       "duration_ms": 177280,
       "name": "Everything Eventually Ends",
       "url": "https://open.spotify.com/track/5LInOGDHqrgetnMlnvaDNq"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 214921,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 150374,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 120508,
-      "name": "Pollen",
-      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Leave My Home",
         "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 221772,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 120508,
+      "name": "Pollen",
+      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 344593,
-      "name": "Pressure Makes Diamonds",
-      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
-    },
-    {
-      "added_at": "2025-10-16 22:01:23",
-      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -1827,18 +1811,18 @@
     {
       "added_at": "2025-10-16 22:01:23",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
+      "duration_ms": 344593,
+      "name": "Pressure Makes Diamonds",
+      "url": "https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L"
     },
     {
       "added_at": "2025-10-16 22:01:23",
@@ -1859,6 +1843,22 @@
       "duration_ms": 351496,
       "name": "Da Fonk (feat. Joni) - [Dub]",
       "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
+    },
+    {
+      "added_at": "2025-10-16 22:01:23",
+      "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     },
     {
       "added_at": "2025-10-16 22:01:23",

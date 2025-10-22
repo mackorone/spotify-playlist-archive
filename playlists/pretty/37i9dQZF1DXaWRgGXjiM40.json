@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 953834,
+  "num_followers": 953878,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-09-19 14:50:55",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Eu, Voc\u00ea, O Mar e Ela",
+      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
+    },
+    {
+      "added_at": "2025-09-19 14:50:55",
+      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2025-09-19 14:50:55",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Eu, Voc\u00ea, O Mar e Ela",
-      "url": "https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU"
     },
     {
       "added_at": "2025-09-19 14:50:55",

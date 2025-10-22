@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-215 songs - 10 hr 32 min
+216 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Rebels Of The Night](https://open.spotify.com/track/4njyPtTel69rKJekUrOTFy) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Rebels Of The Night](https://open.spotify.com/album/5PDeZ02h9CJ7QcHfPR6WtO) | 2:34 | 2025-07-04 |  |
 | [Reggaeton](https://open.spotify.com/track/6I31XEt7MdLojhCiaPvQmS) | [Steven Vegas](https://open.spotify.com/artist/5QCtrEvIJdRTN1XCZVKeOQ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Reggaeton](https://open.spotify.com/album/77N57ys5kcFcoRLxGe2EiG) | 2:41 | 2025-07-04 |  |
 | [Release The Energy](https://open.spotify.com/track/4HVmPnB5PjpjbpCy2mYrQb) | [Retrika](https://open.spotify.com/artist/6SLVPua1BJCUt85y4bug2Z), [Alex Mueller](https://open.spotify.com/artist/6hPJjDkls4G9H1nRUqBPGS), [Alvi](https://open.spotify.com/artist/5NiZEpj3XzblvgCLwxurbg) | [Release The Energy](https://open.spotify.com/album/1auwVFNBLdtpJ3BWIhEEdz) | 3:03 | 2025-07-04 |  |
+| [Right Away](https://open.spotify.com/track/5ws9hugNyT75W18ULxM0hy) | [Avorra](https://open.spotify.com/artist/2AKj4BH3WLEG16rMhb19aA) | [Right Away](https://open.spotify.com/album/6X0rd82t1BKUm2ThNvZGQ2) | 3:09 | 2025-10-21 |  |
 | [Right Here, Right Now](https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Right Here, Right Now](https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ) | 2:32 | 2025-07-04 |  |
 | [Rising From The Ashes](https://open.spotify.com/track/2G0c7Z3il9Evj9BrwJ9sT0) | [DJ POTXO](https://open.spotify.com/artist/6EiXpidsKYPFYYn1oDklTr) | [Rising From The Ashes](https://open.spotify.com/album/4XhoWJYRX4dENHNidXIYuH) | 2:11 | 2025-07-04 |  |
 | [Rock The House](https://open.spotify.com/track/3J57KX2pdbNW4SWoV1QYwR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Rock The House](https://open.spotify.com/album/1fVLCIpkU2qt4ZTRrsPH6V) | 3:50 | 2025-07-04 |  |

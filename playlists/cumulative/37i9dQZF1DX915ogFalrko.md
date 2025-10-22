@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-144 songs - 8 hr 42 min
+145 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 | 2025-07-25 | 2025-08-13 |
 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 | 2025-10-11 |
 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 | 2025-07-18 |  |
+| [Carry On](https://open.spotify.com/track/3keQNqUZlDH9pT7GNFHJl4) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Carry On](https://open.spotify.com/album/2lQTVys9eE0m20jZ2ac6wK) | 2:40 | 2025-10-16 |  |
 | [Caviar](https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Beat Tape III](https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot) | 2:33 | 2025-10-02 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
 | [Come and Get Your Love](https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Wovoka](https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a) | 5:00 | 2025-07-18 |  |
@@ -32,7 +33,7 @@
 | [Creator](https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [10K](https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV) | 3:14 | 2025-10-10 |  |
 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 | 2025-07-25 | 2025-08-02 |
 | [Cry to Me](https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Junk](https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A) | 2:42 | 2025-07-18 |  |
-| [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 | 2025-07-18 |  |
+| [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 | 2025-07-18 | 2025-10-22 |
 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 | 2025-09-18 |  |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-07-18 |  |
 | [Daydream](https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH) | [Gunter Kallmann Choir](https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g) | [The Fantastic Sound Of](https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE) | 3:19 | 2025-07-18 |  |

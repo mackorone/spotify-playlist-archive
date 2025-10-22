@@ -581,6 +581,28 @@
     },
     {
       "album": {
+        "name": "APRIL",
+        "url": "https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "APRIL",
+      "url": "https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB"
+    },
+    {
+      "album": {
         "name": "ATK",
         "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
       },

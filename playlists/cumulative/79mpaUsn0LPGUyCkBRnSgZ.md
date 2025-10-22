@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-942 songs - 2 day 14 hr 29 min
+943 songs - 2 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Kemp's Jig](https://open.spotify.com/track/3o0XLKK0sKaoAeGCWYKB7q) | [Gryphon](https://open.spotify.com/artist/4Dghr6IbymdYuMDUEybhUR) | [Gryphon](https://open.spotify.com/album/1JPuxlcUBfWvw7guYHmzr8) | 3:09 | 2024-08-19 |  |
 | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/track/6JotKhX3MBz3OfOU8HD0xe) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 | 2022-12-14 |  |
 | [Kim Cattrall](https://open.spotify.com/track/2JPh5kSNgX79mgaMmUQPFN) | [Speedy Ortiz](https://open.spotify.com/artist/6YHfq8Pg3lZPo1u0PaQ8ob) | [Rabbit Rabbit](https://open.spotify.com/album/5RWNHToyEel7qS5CZmYOms) | 3:18 | 2024-01-18 |  |
+| [Kind Of \(Type of Way\)](https://open.spotify.com/track/5cVSOtzpgC3o6gZaxXkxUu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Car Therapy Sessions](https://open.spotify.com/album/3zbrqKb1xBeeEoutRFq44t) | 5:39 | 2025-10-22 |  |
 | [Kitchen](https://open.spotify.com/track/72ylauA1S1X3Yz9l5aufhu) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 2:44 | 2025-03-30 | 2025-04-25 |
 | [Knew You Once](https://open.spotify.com/track/6RvaFiaownh238E6ACEDaE) | [Georgia Turman](https://open.spotify.com/artist/608TxlqbZ7rnRPGm8V0v5o) | [I Call Out to Myself](https://open.spotify.com/album/5wsdUVANSHU75WRBB1J4BD) | 2:34 | 2024-09-27 | 2024-09-29 |
 | [Knock Yourself Out XD](https://open.spotify.com/track/6yfY7OdAz4VEOjPUOP3yzN) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [SMILE! :D](https://open.spotify.com/album/2iS4pBIiQf4sCTJLZ5n8dy) | 2:48 | 2024-10-10 | 2025-02-14 |

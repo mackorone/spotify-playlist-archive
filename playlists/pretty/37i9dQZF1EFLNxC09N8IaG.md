@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,659 likes - 181 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,658 likes - 181 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,12 +138,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 128 | [Type Questions](https://open.spotify.com/track/7uDBTbCy7mgDZkeL3cTVqa) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:38 |
 | 129 | [Lease My Love](https://open.spotify.com/track/4cLT5APf2lMRZ5EOf6Zv6I) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
 | 130 | [Heart Speak](https://open.spotify.com/track/67UseCceVwy85F0WTVCJEH) | [PLTO](https://open.spotify.com/artist/6hwmVgDzlDpUNt6LkJBPvV) | [Heart Speak](https://open.spotify.com/album/0vzeJbAr57WxNMSPJvlv7D) | 4:22 |
-| 131 | [Brain on Love](https://open.spotify.com/track/72tEaxWcOKqryAVMatWYFs) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:27 |
-| 132 | [Lemons](https://open.spotify.com/track/7fP47F2aXBjZbDEmgXy8GM) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 4:03 |
+| 131 | [Lemons](https://open.spotify.com/track/7fP47F2aXBjZbDEmgXy8GM) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 4:03 |
+| 132 | [Brain on Love](https://open.spotify.com/track/72tEaxWcOKqryAVMatWYFs) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [KIMBERLY: The People I Used to Know](https://open.spotify.com/album/2nIA5nr4NS4aYi5VWaUn5o) | 3:27 |
 | 133 | [Bessie](https://open.spotify.com/track/0lioD2CwKJ6SNJiWuTgtUC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:43 |
 | 134 | [Played Yourself](https://open.spotify.com/track/6OQsm0MFwDmxbg4XHat3xN) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:46 |
-| 135 | [Rainbow](https://open.spotify.com/track/3EPfBCFsE5DzOG5xZGAXcZ) | [Run The World](https://open.spotify.com/artist/0cInwP8nWQOIaTXvjbnh7M), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Run The World](https://open.spotify.com/album/0jlbQ2PsLtIzya4g9xuKul) | 2:58 |
-| 136 | [Waffle House](https://open.spotify.com/track/7rTbf1HtSdaS92YgPWWyND) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:24 |
+| 135 | [Waffle House](https://open.spotify.com/track/7rTbf1HtSdaS92YgPWWyND) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:24 |
+| 136 | [Rainbow](https://open.spotify.com/track/3EPfBCFsE5DzOG5xZGAXcZ) | [Run The World](https://open.spotify.com/artist/0cInwP8nWQOIaTXvjbnh7M), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Run The World](https://open.spotify.com/album/0jlbQ2PsLtIzya4g9xuKul) | 2:58 |
 | 137 | [Waste No Time](https://open.spotify.com/track/3seKCddphT37p1CwflkMjq) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:53 |
 | 138 | [Things I Never Said](https://open.spotify.com/track/4NkSEQ9ykv5lxptj7vXzH4) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:49 |
 | 139 | [Offended](https://open.spotify.com/track/5dpGpYsL7BMLrxkMuX8cxV) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 2:56 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 180 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 181 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `Ab/ZkgAAAACqNWjR30nVwqZXrnJLvhnU`
+Snapshot ID: `Ab/fKAAAAACnKUuh0Xa0iQOnduQtFpsR`

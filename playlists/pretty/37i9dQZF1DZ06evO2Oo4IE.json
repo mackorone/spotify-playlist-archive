@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 187748,
+  "num_followers": 187763,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADQPSwiBn6Ft/A1B6Ad+Jyp",
+  "snapshot_id": "aPV7gAAAAAAHtCuEPtQ13iypDN5fkkO8",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "Woodstock Sunday August 17, 1969 (Live)",
+        "url": "https://open.spotify.com/album/2HB7HwpDdUvoasS9m41Gvs"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Flower In the Sun",
-      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
+      "duration_ms": 297066,
+      "name": "Piece of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
+      "url": "https://open.spotify.com/track/5E973fI2FcBL8r7Nogpwpu"
     },
     {
       "added_at": null,
@@ -507,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woodstock Sunday August 17, 1969 (Live)",
-        "url": "https://open.spotify.com/album/2HB7HwpDdUvoasS9m41Gvs"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 297066,
-      "name": "Piece of My Heart - Live at The Woodstock Music & Art Fair, August 17, 1969",
-      "url": "https://open.spotify.com/track/5E973fI2FcBL8r7Nogpwpu"
+      "duration_ms": 183706,
+      "name": "Flower In the Sun",
+      "url": "https://open.spotify.com/track/3O59UWV5NDKZ6Td64Acpzv"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+      "duration_ms": 83461,
+      "name": "Talk, Pt.1 - Live",
+      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 83461,
-      "name": "Talk, Pt.1 - Live",
-      "url": "https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr"
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,

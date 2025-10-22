@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-389 songs - 22 hr 33 min
+391 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Après Midi あるパリの午後で](https://open.spotify.com/track/1NzZbipnZxnXkQiMvBqF1O) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Après Midi あるパリの午後で](https://open.spotify.com/album/6fz8W3GN3EelNG8EKo19Jk) | 5:21 | 2025-09-07 |  |
 | [Au Revoir](https://open.spotify.com/track/2iFF3KireK1QxkCvUVJaQv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Merveilles](https://open.spotify.com/album/32OKDgdDPz4zLf3FY6Fhxj) | 4:52 | 2025-09-17 |  |
 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 | 2021-01-13 |  |
+| [BAKENOHANA](https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [BAKENOHANA](https://open.spotify.com/album/0vzjed4BlSLHz6vua0u3OE) | 1:56 | 2025-10-22 |  |
 | [Battle Hymn of the Soul \- P3R ver.](https://open.spotify.com/track/3R8U6Yjmo1tJxKcNyiiOWH) | [小宮知子](https://open.spotify.com/artist/7nbTS6y1ly9AhcLMejJTcf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 5:49 | 2024-09-11 |  |
 | [Bitter Loss](https://open.spotify.com/track/1CFy1BShZQuiMCnAGja8la) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bitter Loss](https://open.spotify.com/album/0UqpMx3SgvGR0swT0yyeAv) | 3:23 | 2025-08-12 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2024-09-22 |  |
@@ -90,6 +91,7 @@
 | [Ghost](https://open.spotify.com/track/2rd5IVJbcm3lcu6xdoFGIa) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Ghost](https://open.spotify.com/album/2Vwmswd4JdOJK0prjybCIM) | 2:51 | 2025-09-24 |  |
 | [Go Go Wonderland](https://open.spotify.com/track/5WIuky12ctllWM8lAGFfVo) | [noiseless\-world](https://open.spotify.com/artist/1fzPkOEEMTM3S2RWteQjTj) | [2018](https://open.spotify.com/album/4j6gQbX2DOnPnP4gi5FdBu) | 3:55 | 2023-12-24 |  |
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2024-02-06 |  |
+| [Gradually Turning into a Dog](https://open.spotify.com/track/7Cx0EGkPdNi0sY9gea0Oez) | [mass](https://open.spotify.com/artist/79t8MOA8gkCjzy3iRrxwRt) | [Gradually Turning into a Dog](https://open.spotify.com/album/1f3pssAleoIFRuMFNVL5D7) | 2:29 | 2025-10-22 |  |
 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 | 2025-05-27 |  |
 | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/22GIffkfqo45pTLyGXrRHX) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/2DtL6aukVKA4gPalst5JtC) | 2:49 | 2023-11-17 |  |
 | [HAREBARE](https://open.spotify.com/track/6qRXiDBpqYSNziFaHLl8tV) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [HAREBARE](https://open.spotify.com/album/65MUZrDqQenpzqBgcaJPNk) | 3:08 | 2025-04-03 |  |

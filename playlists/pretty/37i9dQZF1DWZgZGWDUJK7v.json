@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: \uc21c\uc815\ube4c\ub7f0 (Villain with a Crush)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 119140,
+  "num_followers": 119145,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
+        "name": "Love Revolution, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5H5wo1sieOcUhWgseVo8BA"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 235975,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6sVOlXQGNOtnZE2M2goGv4"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 306499,
       "name": "I Don't Want To Say Goodbye",
       "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
-        "name": "Love Revolution, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5H5wo1sieOcUhWgseVo8BA"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 235975,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6sVOlXQGNOtnZE2M2goGv4"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
-        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
-      },
-      "artists": [
-        {
-          "name": "LEESEO",
-          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "MAY LILY",
-      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
         "name": "Webtoon <Myst, Might, Mayhem> OST Part. 1 Red Moon",
         "url": "https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 200026,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
+      },
+      "artists": [
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "MAY LILY",
+      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "Flower, Wind, You (Blue Archive)",
-        "url": "https://open.spotify.com/album/0pg40CiQu2H6HP06GTyUYb"
-      },
-      "artists": [
-        {
-          "name": "Mitsukiyo",
-          "url": "https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs"
-        },
-        {
-          "name": "Saebit",
-          "url": "https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX"
-        }
-      ],
-      "duration_ms": 210834,
-      "name": "Flower, Wind, and You",
-      "url": "https://open.spotify.com/track/6paRgkIe7XCAkDkEawYtqc"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
         "name": "Love Revolution (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/35mxSJHzpfoEBpiH1sFPpt"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 221761,
       "name": "Love Revolution",
       "url": "https://open.spotify.com/track/6ABW0qGEjyIAnCzFIUe4Bh"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
+        "name": "Flower, Wind, You (Blue Archive)",
+        "url": "https://open.spotify.com/album/0pg40CiQu2H6HP06GTyUYb"
+      },
+      "artists": [
+        {
+          "name": "Mitsukiyo",
+          "url": "https://open.spotify.com/artist/0cdpFI2dZC34peIkjI1rLs"
+        },
+        {
+          "name": "Saebit",
+          "url": "https://open.spotify.com/artist/3Ry1kQJLsbsMJi5W2p27IX"
+        }
+      ],
+      "duration_ms": 210834,
+      "name": "Flower, Wind, and You",
+      "url": "https://open.spotify.com/track/6paRgkIe7XCAkDkEawYtqc"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9"
-      },
-      "artists": [
-        {
-          "name": "JIGM",
-          "url": "https://open.spotify.com/artist/4AJ7BXhkBtDpcASbWoa4dA"
-        }
-      ],
-      "duration_ms": 183874,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/33vo9lazjgmoemUhQ7cwk1"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "Rest In You (This is a Campus Romance Series X YUJU) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/6FEjOw29wqn7LgJ6OHKRn3"
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9"
       },
       "artists": [
         {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+          "name": "JIGM",
+          "url": "https://open.spotify.com/artist/4AJ7BXhkBtDpcASbWoa4dA"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Rest In You",
-      "url": "https://open.spotify.com/track/4QWcURfrKtwMrH84w1Qpus"
+      "duration_ms": 183874,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/33vo9lazjgmoemUhQ7cwk1"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1335,6 +1319,22 @@
       "duration_ms": 243866,
       "name": "Draw",
       "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
+        "name": "Rest In You (This is a Campus Romance Series X YUJU) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/6FEjOw29wqn7LgJ6OHKRn3"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Rest In You",
+      "url": "https://open.spotify.com/track/4QWcURfrKtwMrH84w1Qpus"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "The Moon Has Passed (The Moon during the Day)",
-        "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "The Moon Has Passed",
-      "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
         "name": "LETTER (True Beauty X VIINI)",
         "url": "https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 222207,
       "name": "LETTER (True Beauty X VIINI)",
       "url": "https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
+        "name": "The Moon Has Passed (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "The Moon Has Passed",
+      "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 234066,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
         "name": "Only you (Romance 101 X Yang Yo Seop)",
         "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 203253,
       "name": "Only you (Romance 101 X Yang Yo Seop)",
       "url": "https://open.spotify.com/track/6YXYyEdmUNDuzNIiRBVZQi"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
+        "name": "Melody (Gongzza X Whee In) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 234066,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "Animation \u2018Red Fox\u2019 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1nJsCpyjioz6Jb3z9aT10M"
-      },
-      "artists": [
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        }
-      ],
-      "duration_ms": 183439,
-      "name": "Red Fox",
-      "url": "https://open.spotify.com/track/5Qp6CGwMYHrYLF52z2jogK"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
         "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 163373,
       "name": "Like the Wind Didn\u2019t Blow",
       "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
+        "name": "Animation \u2018Red Fox\u2019 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1nJsCpyjioz6Jb3z9aT10M"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "duration_ms": 183439,
+      "name": "Red Fox",
+      "url": "https://open.spotify.com/track/5Qp6CGwMYHrYLF52z2jogK"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "How about you?",
-      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
-    },
-    {
-      "added_at": "2025-09-09 06:01:50",
-      "album": {
         "name": "Your Day (Romance 101 X Loco)",
         "url": "https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC"
       },
@@ -1699,34 +1683,34 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
-        "url": "https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3"
+        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
       },
       "artists": [
         {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
         }
       ],
-      "duration_ms": 233647,
-      "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
-      "url": "https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4"
+      "duration_ms": 207333,
+      "name": "How about you?",
+      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/5V6A9KJFBgZY6fV0bjPH95"
+        "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
       },
       "artists": [
         {
-          "name": "MION",
-          "url": "https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho"
+          "name": "Oisobagi",
+          "url": "https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/3rcOiZEs063dPf4A6u9vgt"
+      "duration_ms": 256314,
+      "name": "I Like You, But Got Tired of Liking You",
+      "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
     },
     {
       "added_at": "2025-09-09 06:01:50",
@@ -1747,18 +1731,34 @@
     {
       "added_at": "2025-09-09 06:01:50",
       "album": {
-        "name": "Naver webtoon 'Love Revolution' (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh"
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/5V6A9KJFBgZY6fV0bjPH95"
       },
       "artists": [
         {
-          "name": "Oisobagi",
-          "url": "https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5"
+          "name": "MION",
+          "url": "https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho"
         }
       ],
-      "duration_ms": 256314,
-      "name": "I Like You, But Got Tired of Liking You",
-      "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
+      "duration_ms": 188800,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/3rcOiZEs063dPf4A6u9vgt"
+    },
+    {
+      "added_at": "2025-09-09 06:01:50",
+      "album": {
+        "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
+        "url": "https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 233647,
+      "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
+      "url": "https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4"
     }
   ],
   "unique_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",

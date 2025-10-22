@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Tkandz 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,100 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,222 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 38 | [EX ASS](https://open.spotify.com/track/0ZPIxt9oYjX53iJOfLseHB) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [EX ASS](https://open.spotify.com/album/3rFQBtfLRISVN50QeNwWFq) | 2:37 |
 | 39 | [Impardonnable](https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:10 |
 | 40 | [KYKY2BONDY](https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KYKY2BONDY](https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq) | 2:17 |
-| 41 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
+| 41 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Str8 Reload](https://open.spotify.com/artist/49Rrni4SSdy1Oh56NtnptY) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
 | 42 | [Mainstream Freestyle](https://open.spotify.com/track/0mhR3VxFw5xdPIUkXSsEh3) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [Mainstream Freestyle](https://open.spotify.com/album/1jCCqopzzKh9wcUIx3INY5) | 1:59 |
 | 43 | [Back 2 Back](https://open.spotify.com/track/3JTzfCw32PeAQLjtadHvtM) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Skepta .\. Fred](https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT) | 3:07 |
 | 44 | [SPIDER](https://open.spotify.com/track/5NWpquAje6NyvxD57oXNu6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 3:08 |

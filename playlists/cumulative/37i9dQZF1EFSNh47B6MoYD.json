@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Cuarto Menguante",
+        "url": "https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7"
+      },
+      "artists": [
+        {
+          "name": "LIZZIE BLASINI",
+          "url": "https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262200,
+      "name": "Cuarto Menguante",
+      "url": "https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51"
+    },
+    {
+      "album": {
         "name": "Cuenta Conmigo (Feat. Ana B\u00e1rbara)",
         "url": "https://open.spotify.com/album/7DRMVvRCbDtg4jsvyZMtqT"
       },

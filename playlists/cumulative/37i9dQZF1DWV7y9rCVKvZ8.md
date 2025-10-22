@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-411 songs - 1 day 0 hr 37 min
+412 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [One Of Your Girls](https://open.spotify.com/track/3QlaRJPhMAdtSebkshXA2E) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/0J8bLeayafqiMPoIZXOqtO) | 3:01 | 2024-04-18 | 2024-06-06 |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2024-01-03 | 2024-04-19 |
 | [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 | 2025-10-20 |  |
+| [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 | 2025-10-21 |  |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-03-22 | 2024-06-13 |
 | [Panah Asmara](https://open.spotify.com/track/2n5MdJ8bdz4QYOTdeZaBd5) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 4:34 | 2023-03-22 |  |
 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 | 2023-06-07 | 2023-11-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317,277 likes - 75 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,976 likes - 75 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 |
 | 75 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/4a93j42XAyX9tfR3lIlMLB) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Ele É Jesus \(Ao Vivo\)](https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo) | 5:28 |
 
-Snapshot ID: `AAAAAE6tgxZWg4Kon2AGm+THayx/V0/5`
+Snapshot ID: `AAAAACkLXyGwt2iQ41N89lV2QxwYaito`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,120 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,145 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 66 | [Jannes hitmedley](https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 5:08 |
 | 67 | [Pretty Belinda](https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA) | [Lawineboys](https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4), [Rocky Vosse](https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ) | [Pretty Belinda](https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm) | 2:54 |
 | 68 | [Voel Je Dan Niet?](https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Voel Je Dan Niet?](https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK) | 3:00 |
-| 69 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
-| 70 | [Mijn Stad](https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Danny de Munk](https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle) | 3:10 |
+| 69 | [Mijn Stad](https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Danny de Munk](https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle) | 3:10 |
+| 70 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
 | 71 | [Bieber Van De Kroeg](https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Bieber Van De Kroeg](https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ) | 3:06 |
 | 72 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 |
 | 73 | [Vrijgezel](https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Vlinders Van De Nacht](https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC) | 3:46 |

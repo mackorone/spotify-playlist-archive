@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
 
-230 songs - 14 hr 0 min
+231 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Blijf Bij Mij \- Live](https://open.spotify.com/track/3iDaIXcvqurUTjJbaAu3Xb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Plugged \(Live\)](https://open.spotify.com/album/3GRkSdhiHZS9wepjQInp8v) | 3:00 | 2023-02-10 | 2023-05-12 |
 | [Bo](https://open.spotify.com/track/5kjSd4ji3luSzLWVJClQx2) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Roman \(Expanded Edition\)](https://open.spotify.com/album/7MQ3eqEq8KXImcFgWbjnKY) | 3:55 | 2023-02-10 | 2023-06-22 |
 | [Boven alle maren](https://open.spotify.com/track/28hIO84E2TaygSm0l0ac7J) | [Lenny Kuhr](https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj) | [Boven alle maren](https://open.spotify.com/album/2Djzxt5s4DSBcBEUGCLtbq) | 3:44 | 2025-09-18 |  |
-| [Boze Wolven](https://open.spotify.com/track/2b0qtpy1kAISyhpGTOfj25) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Boze Wolven](https://open.spotify.com/album/1Cqk1oec5jI5pZA5zR265q) | 3:39 | 2024-10-10 |  |
+| [Boze Wolven](https://open.spotify.com/track/2b0qtpy1kAISyhpGTOfj25) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Boze Wolven](https://open.spotify.com/album/1Cqk1oec5jI5pZA5zR265q) | 3:39 | 2024-10-10 | 2025-10-22 |
 | [Brabant](https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Guus Meeuwis](https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC) | 3:30 | 2023-02-10 | 2023-09-09 |
 | [Brugwachter](https://open.spotify.com/track/1nycat5wdlgvoHHl3Up4cv) | [Toverberg](https://open.spotify.com/artist/1Vem7FbnzmwH36evasOuZx) | [Brugwachter](https://open.spotify.com/album/6B1IiXW4SlRKzjvUrdkM4c) | 2:41 | 2023-12-05 | 2024-10-04 |
 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-09-11 |  |
@@ -81,7 +81,7 @@
 | [Geen Sorry](https://open.spotify.com/track/3BMITetzGUWczLKsSf56Lb) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Geen Sorry](https://open.spotify.com/album/1MitPYDJbnyboKq21vLTby) | 3:09 | 2023-02-10 | 2024-09-27 |
 | [Heb Het Leven Lief](https://open.spotify.com/track/1A1GsoCvSUMh8Mlgf29eOP) | [NICCI NOVA](https://open.spotify.com/artist/57f3Vu62mKzV3EpyiqvOT4) | [Heb Het Leven Lief](https://open.spotify.com/album/0uSoMJU3QhZXTdqE7o1ILE) | 4:51 | 2023-02-10 | 2023-09-09 |
 | [Heel misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 | 2024-09-27 | 2025-03-14 |
-| [Heerser over Weinig, Meester van Niks \- Akoestische Versie](https://open.spotify.com/track/35q7flYeWiGe3K1c0u2EuK) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Heerser over Weinig, Meester van Niks \(Akoestische Versie\)](https://open.spotify.com/album/1HAObQd1waloIEng0hm6Yr) | 2:58 | 2025-04-25 |  |
+| [Heerser over Weinig, Meester van Niks \- Akoestische Versie](https://open.spotify.com/track/35q7flYeWiGe3K1c0u2EuK) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Heerser over Weinig, Meester van Niks \(Akoestische Versie\)](https://open.spotify.com/album/1HAObQd1waloIEng0hm6Yr) | 2:58 | 2025-04-25 | 2025-10-22 |
 | [Het Dorp](https://open.spotify.com/track/3q0a21nZ31rOAk5p3UQaRG) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Sonneveld](https://open.spotify.com/album/4Ae7E7xkTrdTqKvX7RJk7S) | 3:14 | 2024-04-18 |  |
 | [Het Dorp \- Live](https://open.spotify.com/track/4HWOyz21zZDbHe3mMukrFJ) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Wim Sonneveld En Ina Van Faassen](https://open.spotify.com/album/097Ma7nG7Cye0gfief3mR6) | 3:18 | 2023-02-10 | 2024-04-19 |
 | [Het ga je goed](https://open.spotify.com/track/7eNl8fVg2fEr8dUAb9YEtC) | [Joke Buis](https://open.spotify.com/artist/4p2STGqpYLlPaNgxQHtVK8) | [Hoe ik je zie](https://open.spotify.com/album/4XHpzC0jir8nTtWgu5rWUZ) | 3:43 | 2024-05-09 | 2025-06-06 |
@@ -183,7 +183,7 @@
 | [Samen Zijn](https://open.spotify.com/track/75Bhe67bl6ndyrlkJ1OpH5) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:24 | 2024-04-18 | 2024-10-11 |
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 | 2025-06-05 |  |
-| [Spring erin!](https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A) | [Fanny](https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe) | [Spring erin!](https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i) | 3:34 | 2025-02-07 |  |
+| [Spring erin!](https://open.spotify.com/track/1euooYf6ATjv6fVplDQw0A) | [Fanny](https://open.spotify.com/artist/7zr2Ni9ndVqr0UwBT4K6pe) | [Spring erin!](https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i) | 3:34 | 2025-02-07 | 2025-10-22 |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |
 | [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 | 2024-07-24 |
@@ -192,6 +192,7 @@
 | [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 | 2024-01-12 |
 | [Testament](https://open.spotify.com/track/0iqLx1WpZdKT3E2oqLLO3f) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Voor De Overlevenden](https://open.spotify.com/album/1YMJs20ztVXARUtRGkRb0y) | 3:15 | 2024-04-18 | 2024-06-13 |
 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 | 2023-02-10 | 2024-04-19 |
+| [Toen kwam jij](https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [Toen kwam jij](https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ) | 4:14 | 2025-10-21 |  |
 | [Traag Naar De Hemel](https://open.spotify.com/track/2M1OBzpqNliMeYOI47LOWK) | [May Evans](https://open.spotify.com/artist/5k9sSEBSrvpLVxBJqCgs6f) | [\(On\)eindig Leven](https://open.spotify.com/album/7905rdTj8KpgPywpclbmtR) | 2:57 | 2024-11-14 | 2025-03-14 |
 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 | 2025-09-04 |  |
 | [Trillend op m’n benen](https://open.spotify.com/track/3tTrpagY0mW1CEiUvWf9vk) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Trillend op m’n benen](https://open.spotify.com/album/3V5wwGUrvDhDHC3GEKfqts) | 2:46 | 2025-04-25 |  |

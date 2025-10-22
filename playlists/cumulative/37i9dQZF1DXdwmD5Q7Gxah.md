@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter is live 🪿</a> ft Elias Rønnenfelt
 
-3,588 songs - 8 day 4 hr 12 min
+3,589 songs - 8 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-09-17 | 2021-11-13 |
 | [Always](https://open.spotify.com/track/4H33FcfmXo8xHbhV0Vs613) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Always](https://open.spotify.com/album/4JPTBzG9A9HqkS0dscsM6H) | 2:52 | 2022-10-21 | 2022-12-15 |
 | [Always](https://open.spotify.com/track/3SxSrUogj4LpAkLKXeTtTQ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pony](https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l) | 3:17 | 2019-11-14 | 2020-03-25 |
-| [Always On My Mind](https://open.spotify.com/track/5ANlhqIz2ai4B0aZo9NVx5) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Always On My Mind](https://open.spotify.com/album/7EHj6pF3Xzv4CC9XIiqhTi) | 3:31 | 2025-08-22 |  |
+| [Always On My Mind](https://open.spotify.com/track/5ANlhqIz2ai4B0aZo9NVx5) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Always On My Mind](https://open.spotify.com/album/7EHj6pF3Xzv4CC9XIiqhTi) | 3:31 | 2025-08-22 | 2025-10-22 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-17 | 2022-04-22 |
 | [Amber](https://open.spotify.com/track/3TZ1wHauKG6dMcn7LcQq6G) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Amber](https://open.spotify.com/album/2eiDE2gC9XYRYtXnqZiKvw) | 3:34 | 2020-09-15 | 2020-10-13 |
 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 | 2025-01-10 | 2025-03-13 |
@@ -2492,6 +2492,7 @@
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2020-06-30 | 2021-05-12 |
 | [PWR](https://open.spotify.com/track/7N2hQ47vk6s35F1rSoodDm) | [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt) | [PWR](https://open.spotify.com/album/39w0JS1MaVbfgz6g5YcxbN) | 3:22 | 2020-06-05 | 2020-08-20 |
 | [Quarterback](https://open.spotify.com/track/2OwIGCjx7e7J1HHdAqIv21) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Quarterback](https://open.spotify.com/album/1C51Uu0mo7y96PKMVKkNpU) | 3:00 | 2021-02-19 | 2021-07-31 |
+| [Queen of Globes and Mirrors](https://open.spotify.com/track/0WVUqSVEPbxteCovUZxi3t) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Queen of Globes and Mirrors](https://open.spotify.com/album/7eukxMrejz3e2lAa6MvI4i) | 2:50 | 2025-10-21 |  |
 | [quiet motions](https://open.spotify.com/track/1PgfRXFbqNK2S97sRmhn0n) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [quiet motions](https://open.spotify.com/album/1KGg761SMmdSo8Iv2lZPxb) | 2:38 | 2020-03-13 | 2020-05-05 |
 | [Quilt of Steam](https://open.spotify.com/track/0ZVUxuPLkIswDAxiACZPxM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Quilt of Steam](https://open.spotify.com/album/7JBq28iBb2RIh8TgULDo3N) | 3:31 | 2023-09-06 | 2023-10-11 |
 | [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 | 2025-08-29 |  |
@@ -2996,7 +2997,7 @@
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 | 2023-07-29 |
 | [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 | 2020-11-03 | 2021-01-23 |
 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 | 2019-11-16 | 2020-07-29 |
-| [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 | 2025-05-23 |  |
+| [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 | 2025-05-23 | 2025-10-22 |
 | [Super Bad Mantra](https://open.spotify.com/track/39t0iUvlUFXXBzwxXfnTWD) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP), [Christian Blue](https://open.spotify.com/artist/1X1R5azJYxs6wdFzEOBoI3) | [Super Bad Mantra](https://open.spotify.com/album/1uVWUfxfl7wtet1fHOlJPh) | 2:51 | 2020-09-19 | 2020-09-25 |
 | [Super Sad Generation](https://open.spotify.com/track/6uAGJqaLlsxezaQ4CDfi2G) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/1AuQrIqK3sAdNcsGtdNulg) | 2:46 | 2020-08-20 | 2020-08-21 |
 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 | 2023-07-28 | 2023-08-19 |

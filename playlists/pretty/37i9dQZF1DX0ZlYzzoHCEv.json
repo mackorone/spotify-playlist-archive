@@ -1,6 +1,6 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 70835,
+  "num_followers": 70832,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
+        "name": "My Ordinary Life",
+        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
+      },
+      "artists": [
+        {
+          "name": "The Living Tombstone",
+          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "My Ordinary Life",
+      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
-        "name": "My Ordinary Life",
-        "url": "https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu"
-      },
-      "artists": [
-        {
-          "name": "The Living Tombstone",
-          "url": "https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "My Ordinary Life",
-      "url": "https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p"
     },
     {
       "added_at": "2024-08-06 14:12:36",

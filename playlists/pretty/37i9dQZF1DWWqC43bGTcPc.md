@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover:林俊傑 \(JJ Lin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,278 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,325 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 12 | [孤單北半球 \- 滾石撞樂隊2 \(原唱:林依晨\)](https://open.spotify.com/track/3L6xFIfkPyjXdBB6CDC0ur) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [滾石撞樂隊2 \- 孤單北半球](https://open.spotify.com/album/3axDHT082RaLYhNDIcZ9xf) | 2:54 |
 | 13 | [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 |
 | 14 | [有且](https://open.spotify.com/track/0kGAWYcQrawjRrzhpchfIT) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [有且](https://open.spotify.com/album/6ZhPwR67jkXN0XPEc7X9J2) | 3:57 |
-| 15 | [抽完這包菸我就會放下你](https://open.spotify.com/track/5KAguR1IHRz1LZZZIgcfcP) | [王泰翔 2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [抽完這包菸我就會放下你](https://open.spotify.com/album/6jD0fBhcfxieYbj3v40u0u) | 3:45 |
+| 15 | [抽完這包菸我就會放下你](https://open.spotify.com/track/5KAguR1IHRz1LZZZIgcfcP) | [王泰翔 2000wtx](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [抽完這包菸我就會放下你](https://open.spotify.com/album/6jD0fBhcfxieYbj3v40u0u) | 3:45 |
 | 16 | [一夜一夜一夜](https://open.spotify.com/track/3djgonrherZ9t3Wwih6n0Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一夜一夜一夜](https://open.spotify.com/album/509hTNcF5mythficxIwadm) | 4:01 |
 | 17 | [接住你](https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [接住你](https://open.spotify.com/album/6QQAuZsNxOMqwntwfrtb4c) | 5:09 |
 | 18 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |

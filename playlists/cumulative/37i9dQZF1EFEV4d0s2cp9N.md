@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-87 songs - 4 hr 19 min
+88 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/5FrZVlOIhhA2j733LLOIRI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/2usQC6dMqygYaTWUaO0UGk) | 2:39 | 2024-11-24 | 2024-11-26 |
 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 | 2024-05-01 |  |
 | [Chasing Dreams](https://open.spotify.com/track/7iUHBN3E2w2y3MIo8jqzPg) | [Omar101](https://open.spotify.com/artist/3OSeYeKlvOhNfcLVQNadmB) | [Welcome to 101](https://open.spotify.com/album/2HAYtoHrVCzfyNi4XY7jW7) | 1:38 | 2024-05-01 |  |
+| [CHESS \(DAHYUN\)](https://open.spotify.com/track/0dvrmOYJJHSCG9MKyclogF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:29 | 2025-10-21 |  |
 | [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2024-05-01 |  |
 | [Dirty Dancing](https://open.spotify.com/track/464F2a58LTaitVUFKvEm1J) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Dirty Dancing](https://open.spotify.com/album/0nB12E14XrqbxtbteLPuEo) | 2:40 | 2024-05-01 |  |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2024-05-01 |  |

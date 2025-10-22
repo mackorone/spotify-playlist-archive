@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2097,
+  "num_followers": 2099,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAD4FhoqYcNevBz0bLxf9Yy7",
+  "snapshot_id": "aPV7gAAAAAAQMOcsdFI+kOnxorkpFwKo",
   "tracks": [
     {
       "added_at": null,
@@ -315,34 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlett\u00b4s",
-        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Scarlett\u00b4s",
-      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bachata B\u00e9lica",
         "url": "https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02"
       },
@@ -375,34 +347,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electromorbo",
-        "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
+        "name": "Scarlett\u00b4s",
+        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
       },
       "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         },
         {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
         }
       ],
-      "duration_ms": 175121,
-      "name": "Electromorbo",
-      "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
+      "duration_ms": 170250,
+      "name": "Scarlett\u00b4s",
+      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
     },
     {
       "added_at": null,
@@ -431,6 +399,38 @@
       "duration_ms": 146779,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electromorbo",
+        "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 175121,
+      "name": "Electromorbo",
+      "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
     },
     {
       "added_at": null,

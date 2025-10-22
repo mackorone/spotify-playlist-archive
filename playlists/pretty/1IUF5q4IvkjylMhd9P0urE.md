@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,571 likes - 150 songs - 8 hr 9 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,572 likes - 150 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 75 | [TAKE YO PANTIES OFF \(ft\. George Riley\)](https://open.spotify.com/track/1fKq4sqg3a2t2Fhb3GUzAb) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [TAKE YO PANTIES OFF \(ft\. George Riley\)](https://open.spotify.com/album/40EulA3eN2C0i96uiLi16Q) | 2:01 |
 | 76 | [336](https://open.spotify.com/track/1QDCaXyylUsENC1teffkEk) | [OSSX](https://open.spotify.com/artist/0IlSNeQlqItatzdSJeZFLX) | [Liquidation](https://open.spotify.com/album/2XjvkJgwH8WNLb6zhQ5gbI) | 4:16 |
 | 77 | [Levantarse](https://open.spotify.com/track/6khhlRKgczz7I7iTBAZ4kH) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX) | [Levantarse](https://open.spotify.com/album/7qlvnQWBmEFAbvvcwXn8mv) | 6:30 |
-| 78 | [QT](https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:36 |
+| 78 | [QT](https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:36 |
 | 79 | [conceited](https://open.spotify.com/track/0Q0hIpIQpCLfthzXkFlgCn) | [soft threat](https://open.spotify.com/artist/7ff6cuyTZIiuv2rWfuxogV), [Joey LaBeija](https://open.spotify.com/artist/4u53d3J7G8vqKQYOPotIUJ) | [conceited](https://open.spotify.com/album/4hnVVTeXFgJkvkJehhMDAN) | 2:30 |
 | 80 | [GO DUMB](https://open.spotify.com/track/1ghvfEhXbOQSLHEt08qX8g) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK) | [GO DUMB](https://open.spotify.com/album/79tyRWEbkDzOi4sotZUf0A) | 2:52 |
 | 81 | [WE ALL IN GOD’S PUM](https://open.spotify.com/track/6ZbzmrCnjz4U2e8HQrURWn) | [Brbko](https://open.spotify.com/artist/1RjSCvuRvWdXcsUMSVv5Tf) | [WE ALL IN GOD’S PUM](https://open.spotify.com/album/0YFWA4X5dJOld6hcxQQkz8) | 2:37 |

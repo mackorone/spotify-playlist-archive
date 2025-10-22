@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaiah Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,207 likes - 294 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,267 likes - 294 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GOD IS REAL](https://open.spotify.com/track/0reyWELcnHNCEG2kGZ0Ctp) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LUCKY YOU](https://open.spotify.com/album/4dHcuizgdi9fpKX8MKQm43) | 2:12 |
-| 2 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & Usher\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & Usher\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
+| 2 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
 | 3 | [I WISH](https://open.spotify.com/track/629R62iy2jbElBd4eyq7NT) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:56 |
 | 4 | [Club Husband](https://open.spotify.com/track/6Wnr4kk9nZvkZ24QomLnaE) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Club Husband](https://open.spotify.com/album/4RBedmc8bF4DEio4BO4dlD) | 3:39 |
 | 5 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 |

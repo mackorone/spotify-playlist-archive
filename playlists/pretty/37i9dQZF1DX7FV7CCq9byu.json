@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 174987,
+  "num_followers": 174994,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1pPiO1+dAc3GonFnAjem4/BCuh",
+  "snapshot_id": "AAAAAJHm4HPXP66jAiXqix0Dv1K0xPpa",
   "tracks": [
     {
       "added_at": "2025-10-20 06:38:26",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
     },
     {
+      "added_at": "2025-10-21 08:30:06",
+      "album": {
+        "name": "W.I.P.",
+        "url": "https://open.spotify.com/album/4weepdlyzO48vnyL4vYBpf"
+      },
+      "artists": [
+        {
+          "name": "ARXX",
+          "url": "https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc"
+        }
+      ],
+      "duration_ms": 179163,
+      "name": "W.I.P.",
+      "url": "https://open.spotify.com/track/0OB8Z8RUMkBpsdQ5DXsE0l"
+    },
+    {
       "added_at": "2025-10-20 06:38:26",
       "album": {
         "name": "The Life of a Showgirl",
@@ -509,7 +525,7 @@
         }
       ],
       "duration_ms": 165000,
-      "name": "Body Go",
+      "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
     },
     {
@@ -1020,7 +1036,7 @@
           "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         },
         {
-          "name": "COBRAH",
+          "name": "Cobrah",
           "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],

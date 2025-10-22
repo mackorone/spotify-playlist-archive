@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 65645,
+  "num_followers": 65662,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAACw4dl93IQZNLq3f8410aIQ",
+  "snapshot_id": "aPV7gAAAAAATPx8eueTv4m4IzcreIsXX",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+        "name": "Abriendo Caminos",
+        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp"
+      "duration_ms": 197933,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abriendo Caminos",
-        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
+      "duration_ms": 234093,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Abrazado De Un Poste",
-      "url": "https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Historicos, Vol. 2",
         "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 191546,
       "name": "Renunciacion",
       "url": "https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Abrazado De Un Poste",
+      "url": "https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Historicos, Vol. 2",
-        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Amor Ingrato",
-      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 219320,
       "name": "Ya Para Que",
       "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Exitos Historicos, Vol. 2",
+        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Amor Ingrato",
+      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensando En Usted",
         "url": "https://open.spotify.com/album/6DXyjAr1mEW7lIMJv7lyzy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 181117,
       "name": "Pensando En Usted",
       "url": "https://open.spotify.com/track/7yUvzs4rzLnjJajlwCmsrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
     }
   ],
   "unique_name": "This Is Los Rieleros Del Norte",

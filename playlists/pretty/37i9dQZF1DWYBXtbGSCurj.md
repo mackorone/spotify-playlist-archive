@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Jovem Dex
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,801 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,810 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Safe](https://open.spotify.com/track/4dhRf2GRUJGYEMgW9i3fav) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [Safe](https://open.spotify.com/album/1wLc4AUOfWOEYpjMpFTje0) | 2:49 |
-| 2 | [FATOR DETETIVE](https://open.spotify.com/track/7eI6espPJCEzewXT74VB2m) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [FATOR DETETIVE](https://open.spotify.com/album/0DU9AAL74JBTslyO0fgsju) | 2:41 |
+| 2 | [FATOR DETETIVE](https://open.spotify.com/track/7eI6espPJCEzewXT74VB2m) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [Bila](https://open.spotify.com/artist/746soIdyigoh87LO1Y8KXd), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq) | [FATOR DETETIVE](https://open.spotify.com/album/0DU9AAL74JBTslyO0fgsju) | 2:41 |
 | 3 | [Armamento Russo](https://open.spotify.com/track/4XTm8UtcMCVvc6R26uGzwK) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Armamento Russo](https://open.spotify.com/album/1TdR9nAD7nha9i2qLajeO6) | 2:24 |
 | 4 | [escalade](https://open.spotify.com/track/7ffk4cTP4E4xtXZBldtvcc) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [escalade](https://open.spotify.com/album/0FDZ5Jql213sSjxepkP0Iy) | 3:04 |
 | 5 | [Animais Traidores 2](https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Animais Traidores 2](https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur) | 3:14 |

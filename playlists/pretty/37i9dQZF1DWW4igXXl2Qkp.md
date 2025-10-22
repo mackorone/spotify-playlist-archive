@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:2y4kS2ljmS41pNDNA01P2Q">WHATMORE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,474 likes - 105 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,476 likes - 105 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 30 | [on point](https://open.spotify.com/track/59kHIvX9m7qOCFxB83gFyc) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [on point](https://open.spotify.com/album/45hDUiwhiTYMWlhRnk0c6h) | 2:32 |
 | 31 | [100 Dayz 100 Nightz](https://open.spotify.com/track/1hErxgqJJ2PIzapDREU1iX) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Still Sleazin](https://open.spotify.com/album/1pdAuHvHQPiPS5D3n5QTMh) | 2:59 |
 | 32 | [MOESHA](https://open.spotify.com/track/4tfnYZHaCYM5Aix5A6rxft) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6) | [FAMILY REUNION](https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx) | 4:36 |
-| 33 | [I Like](https://open.spotify.com/track/3WwMId3a6pehOPDiih9wLI) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [H.B.I.C](https://open.spotify.com/album/3iPW5lzZlPnWgmF9ItbSDd) | 2:36 |
+| 33 | [I Like](https://open.spotify.com/track/3WwMId3a6pehOPDiih9wLI) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Beatdemons](https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [H.B.I.C](https://open.spotify.com/album/3iPW5lzZlPnWgmF9ItbSDd) | 2:36 |
 | 34 | [YNGTC](https://open.spotify.com/track/5fT5Z9inMe6HICbOFn2Xo5) | [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [SKT Boo](https://open.spotify.com/artist/0MiraflzK2RyltVdlBoySS), [Kkruggerr](https://open.spotify.com/artist/2FZtj9DIHfnnrUvJcwsLSz) | [YNGTC](https://open.spotify.com/album/7rjLcWrSnoVjhbJx6KVzKo) | 2:57 |
 | 35 | [Pick N Roll](https://open.spotify.com/track/33fo0Vb8HQ82SnosZ1zBQa) | [Niyah DeNae](https://open.spotify.com/artist/4N3HWX1fkh6FE6zQqfBJaV), [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [Pick N Roll](https://open.spotify.com/album/1kPpAUkhx3BacmYUvnJpTl) | 2:57 |
 | 36 | [Affirmations \- Remix](https://open.spotify.com/track/29vJlClxzbMkWsZjnsmDCx) | [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Affirmations \(Remix\)](https://open.spotify.com/album/6FVdpIQlb0eu5tdlbgt1DS) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,693 likes - 90 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,695 likes - 90 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 21 | [Heartbeats \- Logic1000 Remix](https://open.spotify.com/track/68kYDrFU5TdJ0jU35hePDs) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Heartbeats \(Logic1000 Remix\)](https://open.spotify.com/album/07WAcfVx48SYmkXsBj3w70) | 3:18 |
 | 22 | [Boriqua Posse \- The Kiss Connection Mix](https://open.spotify.com/track/4X1U5z2I3ZMCN3fl0fKWei) | [Rare Arts](https://open.spotify.com/artist/3U1actp6fBCEOKbUrtI4Mv) | [Boriqua Posse \(Mixes\)](https://open.spotify.com/album/3ZLnUL8i3TDfb42WftG4pP) | 5:03 |
 | 23 | [Bugg'n](https://open.spotify.com/track/57eOI4ftuKaQ9SbCKLG8df) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:25 |
-| 24 | [IDFKA](https://open.spotify.com/track/3BfXyeEsyf6dJEf5ZvaCKV) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [IDFKA](https://open.spotify.com/album/5cm1XhAt6PK1M8kqbfxHaQ) | 2:56 |
+| 24 | [IDFKA](https://open.spotify.com/track/3BfXyeEsyf6dJEf5ZvaCKV) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [IDFKA](https://open.spotify.com/album/5cm1XhAt6PK1M8kqbfxHaQ) | 2:56 |
 | 25 | [New Day \- Club Vocal Mix](https://open.spotify.com/track/4sTilZKdZ50w5aSNpQoh54) | [Round Two](https://open.spotify.com/artist/4he15ixNlw68u4LmeKTKEY), [Andy Caine](https://open.spotify.com/artist/0ch3WsezSB3uS12VZDQvJu) | [1993\-99 Main Street Records](https://open.spotify.com/album/5xRtyFjbbzTVAMiIWxUH8A) | 6:52 |
 | 26 | [Au Seve](https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N) | 6:33 |
 | 27 | [Calle F](https://open.spotify.com/track/4TAZrDGbhVvxKNYjd9KA8G) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Mala in Cuba](https://open.spotify.com/album/1OePHA63tFKw79IQrrwOgm) | 4:11 |

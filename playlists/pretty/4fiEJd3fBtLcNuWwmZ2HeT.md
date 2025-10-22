@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 383 songs - 22 hr 7 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 385 songs - 22 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -391,5 +391,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 381 | [Fuwarin \- "gift" live ver.](https://open.spotify.com/track/2b80HSplhSJ4RLN0tXkzgK) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | ["gift" at Sogetsu Hall \(Live\)](https://open.spotify.com/album/17elOqpoJp2C8LGEY5LkT2) | 6:39 |
 | 382 | [KUCHUBURANKO](https://open.spotify.com/track/1c2CyIh5XLIxbJv0s3z8MI) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [KUCHUBURANKO](https://open.spotify.com/album/2fy2QRd4TmqZyM1cYSVRTN) | 5:24 |
 | 383 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
+| 384 | [Gradually Turning into a Dog](https://open.spotify.com/track/7Cx0EGkPdNi0sY9gea0Oez) | [mass](https://open.spotify.com/artist/79t8MOA8gkCjzy3iRrxwRt) | [Gradually Turning into a Dog](https://open.spotify.com/album/1f3pssAleoIFRuMFNVL5D7) | 2:29 |
+| 385 | [BAKENOHANA](https://open.spotify.com/track/3Nyt0xoTlordHqvBR1EvzG) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [BAKENOHANA](https://open.spotify.com/album/0vzjed4BlSLHz6vua0u3OE) | 1:56 |
 
-Snapshot ID: `AAAJdKVTbwRbotTkUHPC/3C5s3G2wOR/`
+Snapshot ID: `AAAJdq0KZeowxU488rfKsJMlwwTUEDFE`

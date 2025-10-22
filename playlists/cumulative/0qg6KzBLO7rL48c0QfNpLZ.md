@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,274 songs - 2 day 8 hr 18 min
+1,276 songs - 2 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Hear Me Now](https://open.spotify.com/track/0wrtKD0qovTXfjwCNLIYCp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/05LnxfemtMkSIcVqMjcuLL) | 3:12 | 2023-12-08 | 2024-09-11 |
 | [Heart In Two](https://open.spotify.com/track/2M4boESFRuI6Tsbn3MfdOY) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Ramslien](https://open.spotify.com/artist/4eSFvpz7a7MkgRyUJ3eoFo), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Heart In Two](https://open.spotify.com/album/4Oa5XnQoi7ivtxnDaOaVXI) | 3:29 | 2024-05-17 | 2024-06-15 |
 | [Heartbeat](https://open.spotify.com/track/12i9cebAMSiruTvfJcAiFd) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [EM](https://open.spotify.com/artist/2eRE6mBDB4vUKu0D6n2eid) | [Heartbeat](https://open.spotify.com/album/5VGhYhhgxxOZistllHMpcj) | 2:38 | 2024-01-05 | 2024-09-10 |
+| [Heartbeats](https://open.spotify.com/track/0j23JfTI4geAPj4d3rKeHy) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc), [Ro](https://open.spotify.com/artist/1MeAnyFGpDcuwi1VDMAXHV) | [Heartbeats](https://open.spotify.com/album/4uf994dfgKu9HCdZDczPPa) | 2:05 | 2025-10-21 |  |
 | [Heartless](https://open.spotify.com/track/51ITAzwCbIhNeRZe7d312g) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Heartless](https://open.spotify.com/album/6BLqtIoIwEQwdwmPWVXVZ6) | 2:36 | 2024-04-12 | 2024-09-10 |
 | [Heat Waves](https://open.spotify.com/track/6BoLWqWVSzgXuJjnbIHfAD) | [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Heat Waves](https://open.spotify.com/album/5vnfsifQQKO7LAbTyxup7b) | 3:24 | 2024-06-28 | 2024-08-10 |
 | [Heathens](https://open.spotify.com/track/2RVwR8YVyDasUY73Z30czb) | [Alosa](https://open.spotify.com/artist/7tLZj7bBitwASeMgNlqWVC), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Heathens](https://open.spotify.com/album/13LKgwPsZm5lHGBqiHtuT1) | 2:37 | 2024-07-12 | 2024-08-10 |
@@ -718,6 +719,7 @@
 | [Love You Right](https://open.spotify.com/track/1r2gC1lfL0VIqtGcjBAHkF) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Moise](https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1) | [Love You Right](https://open.spotify.com/album/0cLVBDRGfHbGXCQKBYFcq2) | 2:32 | 2025-08-22 |  |
 | [Love's Crashing Wave](https://open.spotify.com/track/22l0qFprt03HYPVjrcXlmg) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4), [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Love's Crashing Wave](https://open.spotify.com/album/11RrFZPLeSv8LxvPp2F27s) | 2:17 | 2024-06-21 | 2024-07-20 |
 | [love, don't make me](https://open.spotify.com/track/1o4qyeyiflbk9NHhOPWHIK) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ridges](https://open.spotify.com/artist/199tThI1DV4Y9yQT49z5Rt) | [love, don't make me](https://open.spotify.com/album/7bwy5LMiKY7TI9Iz4XoTel) | 2:24 | 2025-05-16 | 2025-07-14 |
+| [Lovefool](https://open.spotify.com/track/1oNzTP70hiAis90yWv0cgn) | [Planetopia](https://open.spotify.com/artist/5yE8mOpWjlbco6luZB04eb) | [Lovefool](https://open.spotify.com/album/25MfZajRoMsBgG0H9WnxyB) | 2:28 | 2025-10-21 |  |
 | [Lovefool](https://open.spotify.com/track/2dWaBvxGq55KwPabQA0IXw) | [Yiqi](https://open.spotify.com/artist/6VKFK8E6qs6ETzKWP13jOG) | [Lovefool](https://open.spotify.com/album/50Z4IC22yvHntTl4sn6KYf) | 2:25 | 2025-07-25 |  |
 | [Lovely](https://open.spotify.com/track/7LMMiDsizFcHhxJwSl82T1) | [Kelo](https://open.spotify.com/artist/5USLHyCuiBT2He3fZvRGwg), [INAMEIT](https://open.spotify.com/artist/6bOneog19MkwPOXivT4PeI) | [Lovely](https://open.spotify.com/album/7zDRIQTqk0k1eNxFfVj9tz) | 2:56 | 2024-03-29 | 2024-05-03 |
 | [Lovely Day](https://open.spotify.com/track/4G1gAG4iwTVDQqzBNvsWVd) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Lovely Day](https://open.spotify.com/album/1dfYg7Lq6iGAyUWBy4fHp4) | 2:25 | 2024-11-15 | 2025-02-05 |

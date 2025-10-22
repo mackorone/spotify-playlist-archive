@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Klassik Frescobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,468 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,507 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 18 | [Overdue](https://open.spotify.com/track/2WrTWu4NveSrw7rrzP8rjs) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w) | [Overdue](https://open.spotify.com/album/4FegSpedKbzfPkmhjUbzd3) | 2:57 |
 | 19 | [Too Real](https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA) | [Too Real](https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR) | 3:06 |
 | 20 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
-| 21 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
-| 22 | [Splinters](https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [iShal](https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS) | 3:36 |
+| 21 | [Splinters](https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [iShal](https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS) | 3:36 |
+| 22 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
 | 23 | [Hard Fete](https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Hard Fete](https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK) | 3:50 |
 | 24 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
 | 25 | [Wotless](https://open.spotify.com/track/6G6dpFTQdc4K9WCdrcZFTr) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Wotless Carnival Album](https://open.spotify.com/album/6dshwirRnKoFDCC9VQJhTr) | 3:38 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 47 | [No Behavior Shell Down](https://open.spotify.com/track/713bTySu02xdpMMap8UPQv) | [Cloud 5](https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL) | [No Behavior Shell Down](https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO) | 4:22 |
 | 48 | [Fling It Up](https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [One Degree Hotter](https://open.spotify.com/album/0XOSA0PmBmFqChJNipYAQG) | 2:38 |
 | 49 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 |
-| 50 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
-| 51 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
+| 50 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 |
+| 51 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
 | 52 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
 | 53 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 54 | [Blessing](https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR) | [Blaka Dan](https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s) | [Blessing](https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN) | 3:07 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 87 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
 | 88 | [Jab Supremacy](https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Supremacy](https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH) | 3:00 |
 | 89 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
-| 90 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
-| 91 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
+| 90 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
+| 91 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
 | 92 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |
 | 93 | [Front Yard Wet](https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Front Yard Wet](https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk) | 2:51 |
 | 94 | [PORTAL](https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9) | [BENJI BEATZ](https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ), [DASH](https://open.spotify.com/artist/6vpIE3IMD7dLTRAtCfZmYG), [WATER DADDIES](https://open.spotify.com/artist/3bXQrKP6beUfeoDhncrNpo) | [BISON RIDDIM](https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo) | 2:26 |

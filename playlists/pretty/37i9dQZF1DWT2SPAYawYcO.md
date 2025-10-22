@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Tame Impala, Morgan Wallen, Ruel, Joji, Sonny Fodera + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,813 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,809 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 23 | [BAIT](https://open.spotify.com/track/2dSu4SI2YI1xuACxFqUiQE) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BAIT](https://open.spotify.com/album/594fuCaZzrXD3irDrmW9gN) | 2:12 |
 | 24 | [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 |
 | 25 | [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 |
-| 26 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 26 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 27 | [Passing](https://open.spotify.com/track/4FH09qlE1QpiF3Ol7L2nB8) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Don't Be Afraid](https://open.spotify.com/album/22CuGxTihHqn2rODAPpiHI) | 4:08 |
 | 28 | [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 |
 | 29 | [Club Husband](https://open.spotify.com/track/6Wnr4kk9nZvkZ24QomLnaE) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Club Husband](https://open.spotify.com/album/4RBedmc8bF4DEio4BO4dlD) | 3:39 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 72 | [Oh My](https://open.spotify.com/track/0uqew5SZsE86I2iJxJZ2qN) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Nattica](https://open.spotify.com/artist/4xW2QOiEHzED1DK4YWtzp3) | [Oh My](https://open.spotify.com/album/6jO4RTMmT0xkaH9azhuEAA) | 5:28 |
 | 73 | [miss provocative](https://open.spotify.com/track/24Ek0eQxz1qkb1rIrm44Fy) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [miss provocative](https://open.spotify.com/album/44ZUh0IPVY2OECSfMJFzxy) | 2:28 |
 | 74 | [Gone](https://open.spotify.com/track/6IMy7cA0TT6hvI4nU14MYI) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Gone](https://open.spotify.com/album/3gvipeXSI4oZlHwk8G8cLq) | 3:35 |
-| 75 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
+| 75 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 76 | [show me](https://open.spotify.com/track/0QE6Bei6JKer9K3SAtJDAw) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [show me](https://open.spotify.com/album/1wIgU1LokOpb2yF967N8v1) | 2:16 |
 | 77 | [Real Love](https://open.spotify.com/track/7g2RfJadwlq4GQkBYqc8Dz) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Real Love](https://open.spotify.com/album/6bZc0iqcDgXV6KXoNpVbEs) | 3:34 |
 | 78 | [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 |

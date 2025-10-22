@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from bbno$, Carly Rae Jepsen, Diljit Dosanjh, elijah woods, Grimes, William Prince and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,299 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,295 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bing bong](https://open.spotify.com/track/0nwygFtUBQiDA9iFIrZGR9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [VNLLA](https://open.spotify.com/artist/5IvjzD21lPQIO842GrDejr) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:10 |
 | 2 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
-| 3 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 3 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 4 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 |
 | 5 | [SAY IT](https://open.spotify.com/track/1aBlZUy4ZRDB7mguIWfTtr) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:25 |
 | 6 | [Senorita](https://open.spotify.com/track/399TZyrsuVXRx70hAPyC4u) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:58 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 37 | [Retail Therapy](https://open.spotify.com/track/1HEAMLjCTehb8w0AJFCaka) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [Férina](https://open.spotify.com/artist/6sIKgvWOLwG1jc4LJ3WGfi) | [Retail Therapy](https://open.spotify.com/album/6Zyp6WGs6nnn6L6aj1k5zu) | 2:49 |
 | 38 | [By Your Side](https://open.spotify.com/track/0vcsgBmm3mjzqruKIoDa6h) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [By Your Side](https://open.spotify.com/album/7KMUMGy9Ic8rjfgtdlREG0) | 4:04 |
 | 39 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
-| 40 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
+| 40 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 41 | [The story of us](https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit \(deluxe\)](https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu) | 2:23 |
 | 42 | [Not in Your Mouth None of Your Business](https://open.spotify.com/track/6q6bauwUzbKhx4KM49kfgL) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Not in Your Mouth None of Your Business](https://open.spotify.com/album/26nGeDBDGw22HuBVMrX3og) | 2:03 |
 | 43 | [La Bebesita](https://open.spotify.com/track/76J6PzCdlLkWBPmSPZiSbL) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Los Mágicos](https://open.spotify.com/album/1qQmiMijIXD2v7WIEekNLb) | 2:55 |

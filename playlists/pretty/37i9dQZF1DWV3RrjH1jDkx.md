@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Ylva, Rakkere, Randi Oline og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,135 likes - 105 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,138 likes - 105 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 38 | [Hollow Noon](https://open.spotify.com/track/2OYoQkTfbPP40cJWA8Ixch) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:23 |
 | 39 | [So Sad So Hot](https://open.spotify.com/track/3IenzL5TT65zeB1K7940JY) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [So Sad So Hot](https://open.spotify.com/album/1s2QItOpAFagmxy1vMEDzA) | 2:51 |
 | 40 | [Delulu](https://open.spotify.com/track/2BwdUAnoBIJpRPgs8vHg6K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Delulu](https://open.spotify.com/album/0t336jkNxk7wOJwh3Kq0os) | 4:19 |
-| 41 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 41 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 42 | [Karaoke](https://open.spotify.com/track/4mTMMF9JVZhYavoETEFTH9) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Karaoke](https://open.spotify.com/album/0VDR3UCbi9usVYcZiv5pPv) | 2:43 |
 | 43 | [To ganger](https://open.spotify.com/track/5wxELQZl6qwvGpAq9yESNY) | [JNS](https://open.spotify.com/artist/6Bjlp5CgULzTTD7Y3VYRdp), [Unge Obi](https://open.spotify.com/artist/23detQFX88vgiY1Wi7SBl0) | [To ganger](https://open.spotify.com/album/6NYCOF0RxE1Ok2FrQzfDd7) | 2:26 |
 | 44 | [ALÉ ALÉ \(Ragga runt\)](https://open.spotify.com/track/0O2Pgvdv7HzGvJ2QthmQf1) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69) | [ALÉ ALÉ \(Ragga runt\)](https://open.spotify.com/album/4HyEyfAhIaXhmZ2qg4nRSi) | 2:46 |

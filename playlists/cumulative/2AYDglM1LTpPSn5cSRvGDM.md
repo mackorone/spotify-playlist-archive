@@ -4,7 +4,7 @@
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-157 songs - 8 hr 51 min
+158 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,13 +126,14 @@
 | [Ratchet](https://open.spotify.com/track/7sV4noDOTbAAAxNoGv0Jpn) | [Deroz](https://open.spotify.com/artist/7ueu2Odbr8LCIomUG45Dh5), [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [Ratchet](https://open.spotify.com/album/3qaYinVyU9xGAlP4rXBtCQ) | 3:24 | 2025-07-11 | 2025-09-06 |
 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 | 2025-07-11 |  |
 | [Read My Mind](https://open.spotify.com/track/0foQv8GJyl3RqAXYH02gY0) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Read My Mind](https://open.spotify.com/album/16pPZmG94egpjl2UFdOhXc) | 3:30 | 2025-07-11 |  |
-| [Ready For Love](https://open.spotify.com/track/1bWSXWm6pgjY8ufBk9Tjw2) | [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [Ready For Love](https://open.spotify.com/album/6DX1zutIyO9hkllVrYYgKE) | 3:14 | 2025-07-11 |  |
+| [Ready For Love](https://open.spotify.com/track/1bWSXWm6pgjY8ufBk9Tjw2) | [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [Ready For Love](https://open.spotify.com/album/6DX1zutIyO9hkllVrYYgKE) | 3:14 | 2025-07-11 | 2025-10-22 |
 | [Running](https://open.spotify.com/track/5yjdwwA23Jtbwe8Sfs31gQ) | [Northbound](https://open.spotify.com/artist/6KCuLoN1z3hqwIagUq3FRr), [Carolina Eymann](https://open.spotify.com/artist/1Ag14g2DYmZbOgIK1r5a5g), [Mnexsis](https://open.spotify.com/artist/1rMPHZlV3URryBScHKjHct) | [Running](https://open.spotify.com/album/2imxQAxxG16Xf9Vuk5zE5h) | 3:35 | 2025-07-11 |  |
 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 | 2025-10-10 |  |
 | [Same Old Problem](https://open.spotify.com/track/2kyH8fJJeM5cJZDdaGByvx) | [Teddy Cream](https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf), [DJ Resonate](https://open.spotify.com/artist/0WU6YsmacGUm67dyOlTuzz) | [Same Old Problem](https://open.spotify.com/album/0NEM2RZw10AphxelLbmBGU) | 2:59 | 2025-08-08 | 2025-10-11 |
 | [Sarcasm \- Cafius Remix](https://open.spotify.com/track/4ekcvIxryRq8FDdw5MOli6) | [Alex Kaspersky](https://open.spotify.com/artist/63UXhrqsOY2vKDXbQ0yjRX), [Cafius](https://open.spotify.com/artist/1aBC9aXPU2A7OxYREMJvfH) | [Sarcasm](https://open.spotify.com/album/2nbCPIdpeMzfMvjZ9cuGn2) | 5:32 | 2025-08-08 | 2025-10-11 |
 | [Satellite](https://open.spotify.com/track/6gbvX7XoHU8pgFVTVDi7LU) | [Hyperbits](https://open.spotify.com/artist/5HYYXGs19FM9JuSjmoE88Y) | [Satellite](https://open.spotify.com/album/0pZ4HiPdTIgLPpOJDWuTTg) | 4:10 | 2025-07-11 | 2025-08-30 |
 | [Satisfaction](https://open.spotify.com/track/1jrco4S3SlnI8c1ocheBiv) | [Hyperbits](https://open.spotify.com/artist/5HYYXGs19FM9JuSjmoE88Y) | [Satisfaction](https://open.spotify.com/album/2zifJtRnzxx140AvBVLfWP) | 3:55 | 2025-07-11 | 2025-07-26 |
+| [Say A Word](https://open.spotify.com/track/0j2rOSwhG4hcjyQuz56kBH) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Recens](https://open.spotify.com/artist/4xV2bSEFsZbpyp49kOQMKg), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Say A Word](https://open.spotify.com/album/1rFA15res9KbJ0P8v07QfO) | 3:48 | 2025-10-21 |  |
 | [Set Me Free](https://open.spotify.com/track/56gy98yurgpvXZIjn38HJS) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe), [FOOTWURK](https://open.spotify.com/artist/1XrSIbRO5hpc8BhTNJMkXp) | [Set Me Free](https://open.spotify.com/album/2HK0GKXx9PTM7yeCirGLYy) | 3:01 | 2025-10-10 |  |
 | [Shake](https://open.spotify.com/track/1o8XtJsD5fU7w8PbMk0eMJ) | [Martial Simon](https://open.spotify.com/artist/72twbwIUSRjha4AnJdNMbs) | [Shake](https://open.spotify.com/album/4ln8t5dokyqz5ZbrL2Ke3G) | 2:02 | 2025-07-11 | 2025-08-09 |
 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-07-11 | 2025-08-09 |

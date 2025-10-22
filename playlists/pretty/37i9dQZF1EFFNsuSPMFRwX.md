@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540 likes - 67 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 67 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 66 | [Outro](https://open.spotify.com/track/4WShc2g1Vl3hdMM9JGzZoi) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:54 |
 | 67 | [Tony Machine on 42nd](https://open.spotify.com/track/7oS5pGCbIRr3fbp8PPDS2n) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:19 |
 
-Snapshot ID: `Ab/ZkgAAAADlYhdCMu+AmOJUadJsWl5r`
+Snapshot ID: `Ab/fKAAAAAD02Qnp4tp2fCsEyqPtAdDL`

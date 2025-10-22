@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,947 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,962 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ItcQfwbKZJ.md) - [plain]
 | 49 | [Earth Song](https://open.spotify.com/track/0NSzWmOlosttMQx776Jzq9) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [The Messenger](https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi) | 3:03 |
 | 50 | [Malunguinho](https://open.spotify.com/track/1vwPVpvlspzanOmd1Lbo8n) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv) | [Daora: Underground Sounds of Urban Brasil \- Hip\-Hop, Beats, Afro & Dub](https://open.spotify.com/album/2OCkXFlU5DFmvmEzeLGXWI) | 7:37 |
 
-Snapshot ID: `AAAAADMBsRUV86/W05xyURVAqoNrdrc1`
+Snapshot ID: `AAAAAPRd1DKhA6D5ImYu2N8APFNiuCJT`

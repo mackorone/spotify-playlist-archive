@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,933 likes - 150 songs - 8 hr 1 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,934 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 2 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 |
 | 3 | [Lean on Me](https://open.spotify.com/track/40qEnmwWaJW7teieAtLAsz) | [Joseph Vincent](https://open.spotify.com/artist/40JlNF1w2OiSOyj1nC4y0I) | [Lean on Me](https://open.spotify.com/album/4GveKz4QiYwIauZZp2kVuw) | 1:55 |
 | 4 | [Manic Monday \- Acoustic](https://open.spotify.com/track/2TUKROtCFgNrWtO0Ou17of) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Manic Monday \(Acoustic\)](https://open.spotify.com/album/2mNth3H0jsbRlEPC5MKsiv) | 1:56 |
-| 5 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1bA1t3ZtXuvx4FqdNED5RW) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyuri](https://open.spotify.com/artist/400Xee8MeKgAVbgBYSSD8Z) | [I Don't Want to Miss a Thing](https://open.spotify.com/album/0fI8VVtUhZ9O2padLpbBHF) | 3:20 |
+| 5 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1bA1t3ZtXuvx4FqdNED5RW) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyuri](https://open.spotify.com/artist/7l8H42qlKI2Nd0w80J49iu) | [I Don't Want to Miss a Thing](https://open.spotify.com/album/0fI8VVtUhZ9O2padLpbBHF) | 3:20 |
 | 6 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 |
 | 7 | [Is This Love \- Acoustic](https://open.spotify.com/track/4JGlFaRIOBZ9j2DQaDXmVw) | [Lizzie Haynes](https://open.spotify.com/artist/5ktwL8uLtQzLeGwJzqE0wE) | [Is This Love \(Acoustic\)](https://open.spotify.com/album/4q1wY0maG1DpmxLFsBU3Cs) | 2:51 |
 | 8 | [\(What A\) Wonderful World](https://open.spotify.com/track/31BXTi89mPf9fjEMBwAL1D) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [\(What A\) Wonderful World](https://open.spotify.com/album/6ESbD3K4x9KmMY98fuO5bw) | 2:42 |

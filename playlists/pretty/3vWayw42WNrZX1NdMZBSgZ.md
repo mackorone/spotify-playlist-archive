@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover: Reik
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,119 likes - 112 songs - 5 hr 48 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,118 likes - 112 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

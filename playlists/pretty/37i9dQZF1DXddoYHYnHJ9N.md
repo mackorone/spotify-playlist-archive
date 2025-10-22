@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddoYHYnHJ9N.md) - [plain]
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Azahriah
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,359 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,416 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [kif.lee](https://open.spotify.com/track/27ku2bPgLSoGNyaCORu2NK) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Skatulya II.](https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb) | 3:14 |
+| 1 | [kif.lee](https://open.spotify.com/track/27ku2bPgLSoGNyaCORu2NK) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya II](https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb) | 3:14 |
 | 2 | [AFTERPARTY](https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [AFTERPARTY](https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd) | 2:24 |
 | 3 | [Lelkem, Nyugodj](https://open.spotify.com/track/1tm4qXlpkzkLrHqs9JPF73) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Lelkem, Nyugodj](https://open.spotify.com/album/63vYd4u5laaQ7Him1ZRz8q) | 3:00 |
 | 4 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 |

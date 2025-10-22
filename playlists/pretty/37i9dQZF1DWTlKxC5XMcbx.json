@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61853,
+  "num_followers": 61855,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAPpMCWtmYmtUAuseFQ9A0JMfwSE9",
   "tracks": [
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
-        "name": "Boss Tenor (RVG Remasters / Remastered 2006)",
-        "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 252946,
-      "name": "My Romance - Remastered 2006",
-      "url": "https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn"
-    },
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 294666,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
+        "name": "Boss Tenor (RVG Remasters / Remastered 2006)",
+        "url": "https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "My Romance - Remastered 2006",
+      "url": "https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn"
     },
     {
       "added_at": "2025-10-20 07:41:58",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
-        "name": "Tuesday Wonderland",
-        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
-      },
-      "artists": [
-        {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Where We Used to Live",
-      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
-    },
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
         "name": "Straight Road",
         "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 285969,
       "name": "A Flower Is a Lovesome Thing",
       "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
+        "name": "Tuesday Wonderland",
+        "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Where We Used to Live",
+      "url": "https://open.spotify.com/track/72PqmnVj86bfTnkFiQ9Mx9"
     },
     {
       "added_at": "2025-10-20 07:41:58",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 372786,
-      "name": "I'm A Fool To Want You - Remastered 2006",
-      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
-    },
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
         "name": "I'll Give You My Heartache",
         "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 227202,
       "name": "I'll Give You My Heartache",
       "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 372786,
+      "name": "I'm A Fool To Want You - Remastered 2006",
+      "url": "https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn"
     },
     {
       "added_at": "2025-10-20 07:41:58",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
         "name": "Ben Webster Meets Oscar Peterson",
         "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 236840,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5"
-    },
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2025-10-20 07:41:58",
@@ -767,34 +767,6 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Bartelt",
-          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
-        },
-        {
-          "name": "Martin Sasse",
-          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
-        },
-        {
-          "name": "Martin Gjakonovski",
-          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
-        },
-        {
-          "name": "Joost Van Schaik",
-          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
-        }
-      ],
-      "duration_ms": 451155,
-      "name": "Does The Sun Really Shine On The Moon",
-      "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
-    },
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
         "name": "The Incredible Kai Winding Trombones",
         "url": "https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj"
       },
@@ -827,6 +799,50 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Bartelt",
+          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        },
+        {
+          "name": "Martin Gjakonovski",
+          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
+        },
+        {
+          "name": "Joost Van Schaik",
+          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
+        }
+      ],
+      "duration_ms": 451155,
+      "name": "Does The Sun Really Shine On The Moon",
+      "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Speak Low",
+      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
         "name": "Master Trio",
         "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
-        "name": "Earfood",
-        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+        "name": "All Blues (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
       },
       "artists": [
         {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
         }
       ],
-      "duration_ms": 316866,
-      "name": "Speak Low",
-      "url": "https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00"
+      "duration_ms": 404026,
+      "name": "Light Blue",
+      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
     },
     {
       "added_at": "2025-10-20 07:41:58",
@@ -879,22 +895,6 @@
       "duration_ms": 317946,
       "name": "Before It's Time to Say Goodbye",
       "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
-        "name": "All Blues (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c"
-      },
-      "artists": [
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        }
-      ],
-      "duration_ms": 404026,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
     },
     {
       "added_at": "2025-10-20 07:41:58",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 416986,
-      "name": "Mule - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
-    },
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 416986,
+      "name": "Mule - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
     },
     {
       "added_at": "2025-10-20 07:41:58",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-20 07:41:58",
       "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Tranquillity - Remastered 1994",
-      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
-    },
-    {
-      "added_at": "2025-10-20 07:41:58",
-      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 189500,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
+    },
+    {
+      "added_at": "2025-10-20 07:41:58",
+      "album": {
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Tranquillity - Remastered 1994",
+      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
     },
     {
       "added_at": "2025-10-20 07:41:58",

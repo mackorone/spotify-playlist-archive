@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: JIALING
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,157 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,162 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CUNTY](https://open.spotify.com/track/6AKm7mdC27HWaHomhoKGS9) | [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24) | [WUPS!](https://open.spotify.com/album/2TLPuNYPn0sNJV4MWfs6By) | 4:35 |
 | 2 | [RELOAD](https://open.spotify.com/track/12ZrI2j6HsCE1NuCMNcgm1) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [RELOAD](https://open.spotify.com/album/5MrpNKMAyzZudB4i09edbu) | 2:58 |
 | 3 | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/album/47zHBE2Fnlfezu7ZwX3mTw) | 2:54 |
-| 4 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 |
+| 4 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 |
 | 5 | [KI$$](https://open.spotify.com/track/1oEhlMOTHNi4ZJ6s7LmMur) | [N ²](https://open.spotify.com/artist/1bxbwc6HlS2I3eoZGheDyU) | [RAVE ANGEL](https://open.spotify.com/album/3fnqWzSBzVGxHuSlCHdUXM) | 3:09 |
 | 6 | [GIIRLSWORLD](https://open.spotify.com/track/47AVZ6U30HmixCjSfFQFda) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [GIIRLSWORLD](https://open.spotify.com/album/3OZtJ85LivFVjC7chz2Ker) | 2:44 |
 | 7 | [GAGATRON](https://open.spotify.com/track/1ZdXNI5ikXs83y0eFKWJAc) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [GAGATRON](https://open.spotify.com/album/67HLY3Hzw9VaI0HpnIc4it) | 2:32 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 61 | [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 |
 | 62 | [Arintintin](https://open.spotify.com/track/0gExQivfnTQxzD85envbyy) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Arintintin](https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T) | 2:28 |
 | 63 | [160BPM](https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [160BPM](https://open.spotify.com/album/5sR7r3HcQrVlcCbQvN3yrf) | 2:40 |
-| 64 | [QT](https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:36 |
+| 64 | [QT](https://open.spotify.com/track/3q88Spem4GoH3d9AEbsvQO) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [QT](https://open.spotify.com/album/5su3xqDyd1W7ElC2DvewBE) | 2:36 |
 | 65 | [Itty Bitty](https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c) | 2:42 |
 | 66 | [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 |
 | 67 | [WORK](https://open.spotify.com/track/0u1WLKUVURx5kY972ZrjSB) | [Mainline Magic Orchestra](https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT), [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Harri Poter](https://open.spotify.com/album/4cxMY0PxzpJry88fvw39mB) | 3:42 |

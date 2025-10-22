@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3krFAzyOjl0.md) - [plain]
 
 > BTS Festa를 기념하며 멤버들이 직접 뽑은 BTS 베스트 곡을 들어보세요! \(To celebrate BTS Festa, listen to the best BTS songs chosen by the members themselves!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,824 likes - 21 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,812 likes - 21 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

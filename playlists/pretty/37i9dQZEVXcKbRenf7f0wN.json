@@ -6,8 +6,493 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNn2MAAAAAAzpoeTtftUo0yrTXf0eoco",
-  "tracks": [],
+  "snapshot_id": "aPV7gAAAAAAJvtuMXe1TcMlpZIOTqW1f",
+  "tracks": [
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Pateando Craneos",
+        "url": "https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF"
+      },
+      "artists": [
+        {
+          "name": "2X",
+          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "La Fuerza Policial",
+      "url": "https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Fome",
+        "url": "https://open.spotify.com/album/0BP7icmUBO6wGRTtEGVDmY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "La Torre de Babel",
+      "url": "https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 248225,
+      "name": "La Voz de los '80",
+      "url": "https://open.spotify.com/track/0VvwpKqD7cOYubrK030fGR"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Los Peores De Chile",
+        "url": "https://open.spotify.com/album/7LYqkGavCwPTa6NgkRwWCz"
+      },
+      "artists": [
+        {
+          "name": "Los Peores De Chile",
+          "url": "https://open.spotify.com/artist/0yrF0XtNWe4oZ7JXSCCmA7"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Sindrome Camboya",
+      "url": "https://open.spotify.com/track/0dFZjxL6drxK9oupqmF773"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Radetzky y Otras Marchas",
+        "url": "https://open.spotify.com/album/0nVVHulneZbNkzt0JexGvh"
+      },
+      "artists": [
+        {
+          "name": "Coro de la Escuela Militar",
+          "url": "https://open.spotify.com/artist/4BUuVlmleLskR2XaY9yG6G"
+        },
+        {
+          "name": "Banda de Conciertos",
+          "url": "https://open.spotify.com/artist/4JZs7RwRmCOx3HiLvGw1f2"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Adi\u00f3s al S\u00e9ptimo de la L\u00ednea",
+      "url": "https://open.spotify.com/track/0qGNIpBKH3nrAxkB1R9BDH"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Pasi\u00f3n de Multitudes (Remaster 2023)",
+        "url": "https://open.spotify.com/album/4IdstdtPDrYzfbcdeu1FeS"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        }
+      ],
+      "duration_ms": 224127,
+      "name": "El Crack - Remaster 2023",
+      "url": "https://open.spotify.com/track/6UKLIwQ2drH5DymFUGdwse"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Blanco Azul y Rojo",
+        "url": "https://open.spotify.com/album/6NOolj1l1EkxSxaFCbpPrq"
+      },
+      "artists": [
+        {
+          "name": "Clan Rojo",
+          "url": "https://open.spotify.com/artist/52vsNNxy7Y16pnsxCqxoqn"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "Reina del Tamarugal",
+      "url": "https://open.spotify.com/track/2KlwM8Ynf72NXK77dtxVXV"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Chile Tipico Vol.3 Camino De Luna",
+        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
+      },
+      "artists": [
+        {
+          "name": "Silvia Infantas Y Los Condores",
+          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
+        }
+      ],
+      "duration_ms": 127613,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "La Ventana (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 345096,
+      "name": "Todos Juntos - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/5E8fsTZfvnj7tuRvCnV4SV"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Fermentando en Vivo (En vivo)",
+        "url": "https://open.spotify.com/album/39ssiaUYzG8fUZiyBUYEhH"
+      },
+      "artists": [
+        {
+          "name": "Los Mox!",
+          "url": "https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q"
+        }
+      ],
+      "duration_ms": 148416,
+      "name": "Curao Manejo Mejor - En vivo",
+      "url": "https://open.spotify.com/track/7IgSnx61g2BzzsxwnPOHPf"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Cancionero Gitano",
+        "url": "https://open.spotify.com/album/2qDkfZl4MP6dApVGepNp4V"
+      },
+      "artists": [
+        {
+          "name": "Rom\u00e1",
+          "url": "https://open.spotify.com/artist/22vt5xdjb9nWHda02xWilZ"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Murni Charicha",
+      "url": "https://open.spotify.com/track/0YJu8xV9K2VRX3Cv0I2hRU"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Cruces",
+        "url": "https://open.spotify.com/album/0eqrNbzCNtYoMZRHe3VrlX"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 156181,
+      "name": "Sin Salida",
+      "url": "https://open.spotify.com/track/55EvnM7MCxN6cbcrOsH5XG"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Calibraciones (sin censura)",
+        "url": "https://open.spotify.com/album/29AfacZ6kMOzc1r5sP0XfR"
+      },
+      "artists": [
+        {
+          "name": "Aparato Raro",
+          "url": "https://open.spotify.com/artist/4aOE1rge6wMSa04xlFxc3Q"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "Calibraciones (sin censura)",
+      "url": "https://open.spotify.com/track/2mjMjovgyCRqEdLAe4NGv9"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "La Poblaci\u00f3n",
+        "url": "https://open.spotify.com/album/1m2Q1pojoZE0BD2vJY7lA4"
+      },
+      "artists": [
+        {
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Luch\u00edn",
+      "url": "https://open.spotify.com/track/4YE0OOiF4sEmLXUvbpGmo7"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Vinito Tinto",
+        "url": "https://open.spotify.com/album/24wmzmmja5LNhHdLEl4gqc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Castro elpasto",
+          "url": "https://open.spotify.com/artist/5OPHmKulybNP3t4OZIQBDQ"
+        }
+      ],
+      "duration_ms": 169799,
+      "name": "Vinito tinto",
+      "url": "https://open.spotify.com/track/0vW0DzIntmHv8CZoK1i5cx"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Los de Ramon",
+          "url": "https://open.spotify.com/artist/3rR2DhQuqHHII4kaSS0bDD"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "El Curanto",
+      "url": "https://open.spotify.com/track/0diEXcRHWm7zg3k4WBC89c"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Comiendo + Fuego (Special Edition)",
+        "url": "https://open.spotify.com/album/0gQ8l5Zk4dG3fQN3Bl9X3u"
+      },
+      "artists": [
+        {
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/2a5eCWoqUyDzadBT8eqb32"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Nilda Moya la Pirilacha",
+        "url": "https://open.spotify.com/album/7GfWwTAjb2i1Gb49Ie6TKW"
+      },
+      "artists": [
+        {
+          "name": "Nilda Moya la Pirilacha",
+          "url": "https://open.spotify.com/artist/6e7mNgUrlnuaZkgp1kj1HK"
+        }
+      ],
+      "duration_ms": 256914,
+      "name": "La Pirilacha",
+      "url": "https://open.spotify.com/track/39Tix2LMbFHyZHJoNLXbUO"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "M\u00fasica Chilena",
+        "url": "https://open.spotify.com/album/4W8ihMUCs6adgqP9zrzmns"
+      },
+      "artists": [
+        {
+          "name": "Jorge Y\u00e1\u00f1ez",
+          "url": "https://open.spotify.com/artist/4NVT2yH0D2sFBPQDnVs6qP"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "El Gorro de Lana",
+      "url": "https://open.spotify.com/track/3jiSagSREEgX9xrMkg1e8h"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Toxicnology",
+        "url": "https://open.spotify.com/album/4bnLl6Oj5LHsLwjothLGqy"
+      },
+      "artists": [
+        {
+          "name": "Alcoholika La Christo",
+          "url": "https://open.spotify.com/artist/2wcQ9ygMF236f1YkkrlT2D"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Raza De Bronce",
+      "url": "https://open.spotify.com/track/0Tvc7i6jDoBnd4EkUfASCP"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Macondus",
+        "url": "https://open.spotify.com/album/7pMFSqhbICoMbMdAXdsfAl"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia",
+          "url": "https://open.spotify.com/artist/3m2dBZiLPZUffYga9ocES7"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Macondo",
+      "url": "https://open.spotify.com/track/32OuR1BddFnEBRQlH9hfLl"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Angustiado Desahuciado",
+        "url": "https://open.spotify.com/album/3mMs13tPtxppZZAsnUw1MJ"
+      },
+      "artists": [
+        {
+          "name": "LOS BANDOLEROS",
+          "url": "https://open.spotify.com/artist/1APgQIJqCsfUhmQXa3q6KS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Angustiado Desahuciado",
+      "url": "https://open.spotify.com/track/2cD7SKiAmLFAEgCeUABpYi"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Los Chamantos de Mi Chile",
+        "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Llorando Ausencia",
+      "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/1gQa6PakB0AtUXD1h6HvP6"
+      },
+      "artists": [
+        {
+          "name": "Fiskales Ad-Hok",
+          "url": "https://open.spotify.com/artist/60bfQT8dq9ykKW6KfIXnE5"
+        }
+      ],
+      "duration_ms": 128573,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/7rxftSjmrY9sAqSDx7ImZH"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Guarachas, Tonadas y Cuecas Con Aji",
+        "url": "https://open.spotify.com/album/5mOSOY5cKcQgiatwBhdHZV"
+      },
+      "artists": [
+        {
+          "name": "Los Picantes",
+          "url": "https://open.spotify.com/artist/2yvZnt3TKXoYhdcbQi6vpO"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Los Hermanos de Nacimiento",
+      "url": "https://open.spotify.com/track/2wgmVZZJXWuWdOpfRBQxGl"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Cl\u00e1sicos Esenciales",
+        "url": "https://open.spotify.com/album/3AQfrmw15yDIAbpea8iGQm"
+      },
+      "artists": [
+        {
+          "name": "Pedro Messone",
+          "url": "https://open.spotify.com/artist/2dPFoK6OYpLxqAJaHjGTYR"
+        }
+      ],
+      "duration_ms": 158093,
+      "name": "Ni\u00f1a Sube a la Lancha",
+      "url": "https://open.spotify.com/track/5lMZB1apNkRhzKUpHMfxPQ"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Evoluciona",
+        "url": "https://open.spotify.com/album/2qs0JEFMOnn9yNHHsQYesf"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "duration_ms": 101156,
+      "name": "Mateo",
+      "url": "https://open.spotify.com/track/2kRGvesjW6DsXPfSrhjYVp"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Gran Parada",
+        "url": "https://open.spotify.com/album/0z85Wo3ZQMijCsNzB2v01k"
+      },
+      "artists": [
+        {
+          "name": "Banda Instrumental Escuela Militar General Bernardo O'Higgins Riquelme",
+          "url": "https://open.spotify.com/artist/7maTijF1ldbfk7eaDw0jeP"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Radetzky Marsch",
+      "url": "https://open.spotify.com/track/1nRtnPJu5g1E5xkfRFBTjR"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Cortacalles",
+        "url": "https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM"
+      },
+      "artists": [
+        {
+          "name": "Tenemos Explosivos",
+          "url": "https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS"
+        }
+      ],
+      "duration_ms": 275410,
+      "name": "San Borja",
+      "url": "https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9"
+    },
+    {
+      "added_at": "2025-10-20 00:00:00",
+      "album": {
+        "name": "Glup",
+        "url": "https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9"
+      },
+      "artists": [
+        {
+          "name": "Glup!",
+          "url": "https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Puta Jefe",
+      "url": "https://open.spotify.com/track/3bKvtihPA72hDEHBJnmHjh"
+    }
+  ],
   "unique_name": "Discover Weekly (@pipemanuel10)",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXcKbRenf7f0wN"
 }

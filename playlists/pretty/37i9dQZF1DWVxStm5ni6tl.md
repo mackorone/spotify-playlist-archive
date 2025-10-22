@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Blue Ridge Band, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,884 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,888 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [HEY RENAY!](https://open.spotify.com/track/34Kzx6FEoDkWhx8f4vQIbk) | [RENAY](https://open.spotify.com/artist/4Ya5JwMNfD1dSV1vcxr2gf) | [HEY RENAY!](https://open.spotify.com/album/0tJruUUD9FRw3V7PZ0437S) | 1:08 |
 | 50 | [Pose](https://open.spotify.com/track/7xnzCRryqdPK3J6vRjxz5W) | [Isaiah Peck](https://open.spotify.com/artist/67014IFK655tFf5wjpb3v7) | [Pose](https://open.spotify.com/album/0jQRcUApai2uhzULcXslsm) | 1:57 |
 
-Snapshot ID: `AAAAAHh0MMHStSIgaQSEfR0W2V9TUgqr`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

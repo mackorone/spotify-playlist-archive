@@ -4,7 +4,7 @@
 
 > The world's biggest Drum 'n' Bass playlist! Cover: Sofia, Cristale, Wohdee
 
-1,052 songs - 2 day 14 hr 2 min
+1,053 songs - 2 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Blinded By The Lights 23](https://open.spotify.com/track/7qSeLqSb07k8qtL8LfMokD) | [Mixtress](https://open.spotify.com/artist/1Eviv9wjS232W0w0Sqy7Il), [Pete Cannon](https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA) | [Blinded By The Lights 23](https://open.spotify.com/album/4RKZ3J38GOtJ76Br91HkwZ) | 3:14 | 2023-09-01 | 2024-04-12 |
 | [Blocklist](https://open.spotify.com/track/0Axadm8LykCLkL0vC7ENYx) | [Junk Mail](https://open.spotify.com/artist/6wVoaI7lR9EKl2xBjt92x8), [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Blocklist](https://open.spotify.com/album/0GeFmFqYfRwN2uPco1n4q2) | 4:31 | 2022-07-29 | 2022-09-02 |
 | [Bloodstream](https://open.spotify.com/track/2yofy4o7UBXOhJo3rd4uKr) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Bloodstream](https://open.spotify.com/album/2r4m97efMHuVvAuZYtUCeU) | 3:02 | 2025-07-10 |  |
-| [Blow My Whistle](https://open.spotify.com/track/6NBGFq4IKPFrNdyTuRdMe0) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Blow My Whistle](https://open.spotify.com/album/5teBisQ7BFhfDpn33neh2w) | 3:21 | 2025-10-16 |  |
+| [Blow My Whistle](https://open.spotify.com/track/0ZOZjnnMWMb1tlz1dOqEPF) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Hardest D Style EP](https://open.spotify.com/album/5YFiSrfcDYSvf8TRkTNabS) | 3:21 | 2025-10-21 |  |
+| [Blow My Whistle](https://open.spotify.com/track/6NBGFq4IKPFrNdyTuRdMe0) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Blow My Whistle](https://open.spotify.com/album/5teBisQ7BFhfDpn33neh2w) | 3:21 | 2025-10-16 | 2025-10-22 |
 | [bluetooth](https://open.spotify.com/track/5XY1nWnaGz5pqk8ZrhgQpw) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [bluetooth](https://open.spotify.com/album/3xVATlIyBxFu2g97TJ1oui) | 2:36 | 2023-10-27 | 2024-02-09 |
 | [Blush](https://open.spotify.com/track/4kbsoEGsXIYl0Ewms2c1W5) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Here & Now](https://open.spotify.com/album/0lDIBy47OJXdxRuGTdDBQc) | 3:39 | 2025-09-04 |  |
 | [Body Bags](https://open.spotify.com/track/1RlZkdmdRztVfaixVFFzEE) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9), [Tempza](https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC) | [Atmosphere](https://open.spotify.com/album/483EKCZkSrdOZ5dEsew7sV) | 3:22 | 2025-10-02 |  |

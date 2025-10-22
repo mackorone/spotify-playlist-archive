@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: William Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,722 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,719 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

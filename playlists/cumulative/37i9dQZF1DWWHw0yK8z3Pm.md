@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: William Prince
 
-604 songs - 1 day 12 hr 48 min
+605 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Further From the Country](https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Further From the Country](https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO) | 6:00 | 2025-10-17 |  |
 | [Ghost Town](https://open.spotify.com/track/1wpANfPJEzSKc5JhEIGYQ1) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 2:48 | 2023-10-13 | 2023-11-18 |
 | [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-19 | 2023-10-20 |
+| [Ghosts Don't Drown](https://open.spotify.com/track/4qcLrtbxaLETXvZCQbAzjZ) | [Indian City](https://open.spotify.com/artist/0QuPWXtJPiP7ZdfcwcAkDF), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Ghosts](https://open.spotify.com/album/2fA9ElZvZDetzDJE5Nyfr0) | 4:05 | 2025-10-09 |  |
 | [Give and Take](https://open.spotify.com/track/1m1yaWUGx0qQgl5bqGrcZm) | [Amy Blake](https://open.spotify.com/artist/3mgJBpa8Mp23JoxA1CWxol) | [Give and Take](https://open.spotify.com/album/6uiekTC9PgG5afPi4OWrNo) | 4:28 | 2022-05-13 | 2023-03-25 |
 | [Give Me One Reason](https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Give Me One Reason](https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA) | 3:09 | 2025-10-06 |  |
 | [Glad You Got Away](https://open.spotify.com/track/5RU76nf29QFbnvJDxHP3oR) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Glad You Got Away](https://open.spotify.com/album/4WsY4BWCeD447uvIvJoE3e) | 3:34 | 2024-10-25 | 2024-11-13 |
@@ -320,7 +321,7 @@
 | [Knockin \- Single Version](https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Knockin](https://open.spotify.com/album/7y7m9BoSQmeUYcXeHN4JtN) | 3:23 | 2023-08-11 | 2023-11-18 |
 | [Knuckles](https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Knuckles](https://open.spotify.com/album/5Kj6CtezpoXJaIuuyDE9T3) | 4:14 | 2025-10-09 |  |
 | [Ko'jua](https://open.spotify.com/track/4C7Lj6dioL1CbzjYFls0R6) | [Morgan Toney](https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv) | [Ko'jua](https://open.spotify.com/album/1sREECdv5BRRtA1qCpsiRE) | 3:30 | 2022-05-13 | 2022-10-01 |
-| [Lately](https://open.spotify.com/track/0HIr5a9C9G3UUxDQQO0Vzr) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Lately](https://open.spotify.com/album/5noa6R52Fd6fs7gNCYQ9sG) | 3:15 | 2025-10-06 |  |
+| [Lately](https://open.spotify.com/track/0HIr5a9C9G3UUxDQQO0Vzr) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Lately](https://open.spotify.com/album/5noa6R52Fd6fs7gNCYQ9sG) | 3:15 | 2025-10-06 | 2025-10-22 |
 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 | 2022-05-20 | 2023-06-24 |
 | [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-05-05 | 2023-05-20 |
 | [Leaving It All Behind](https://open.spotify.com/track/6XpXDtDIvaOqVuHDthfWwK) | [Cuff the Duke](https://open.spotify.com/artist/5WzOiybWm06XimLccSeGS8) | [Leaving It All Behind](https://open.spotify.com/album/2OuXdGAqua8nb18g64KnXu) | 3:00 | 2024-08-02 | 2024-08-20 |

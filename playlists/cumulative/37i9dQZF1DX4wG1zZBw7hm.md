@@ -78,7 +78,7 @@
 | [quiet street](https://open.spotify.com/track/5Lk5PhQ1WH9anaaFygScEh) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Treasure](https://open.spotify.com/album/6LPOlnyIQhAsJsfoCwCGlm) | 6:18 | 2025-03-14 |  |
 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 | 2025-03-14 |  |
 | [Ranges \- Expanded](https://open.spotify.com/track/4Zj2LMXmr4k3LOZmPTYI4T) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Ranges](https://open.spotify.com/album/5styeI4sfo152kXdl1kYmR) | 9:20 | 2025-03-14 |  |
-| [Redundance 5](https://open.spotify.com/track/3eGmfcsnYLlEbuAPDPCzLh) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Porter Ricks](https://open.spotify.com/album/2umF7rpmFdCRJIYFF3vUiy) | 7:02 | 2025-08-28 |  |
+| [Redundance 5](https://open.spotify.com/track/3eGmfcsnYLlEbuAPDPCzLh) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Porter Ricks](https://open.spotify.com/album/2umF7rpmFdCRJIYFF3vUiy) | 7:02 | 2025-08-28 | 2025-10-22 |
 | [Reminder](https://open.spotify.com/track/2KkIKY9UQfSi1TQizmb8A6) | [Biodub](https://open.spotify.com/artist/3SlLKPEWkqqxLWNar2H9WY) | [Reisegefaehrte](https://open.spotify.com/album/5r7NnD004ziOkMaoDbTNjn) | 6:28 | 2025-03-14 |  |
 | [Reminiscence](https://open.spotify.com/track/3iBrW5gWNcNhK2A8fNrWKy) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Momentum](https://open.spotify.com/album/6J5AWcVTAbjmA45gRR5iWA) | 9:00 | 2025-03-14 |  |
 | [Reprocessing](https://open.spotify.com/track/5wWR6zMNFj7AncdcfylDYd) | [Fireground](https://open.spotify.com/artist/0ddxBl1iyyAs79zjt7YRsJ) | [Memories](https://open.spotify.com/album/055qVzzSRbGpIGhlFwKcaq) | 4:57 | 2025-03-14 |  |
@@ -115,6 +115,6 @@
 | [Winter Calmness](https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy) | [Martin Schulte](https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI) | [Seasons](https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV) | 6:02 | 2025-03-14 |  |
 | [XRAY](https://open.spotify.com/track/2424itFKDyceMRejjiQugg) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 3:31 | 2025-03-14 |  |
 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 | 2025-03-14 |  |
-| [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 | 2025-03-14 | 2025-10-05 |
+| [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 | 2025-03-14 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 599 songs - 1 day 15 hr 17 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 600 songs - 1 day 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -607,5 +607,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 597 | [Questar](https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [My Song](https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v) | 9:10 |
 | 598 | [Save Me](https://open.spotify.com/track/6pVg5dJBMeJylAHUZqkNCw) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 4:32 |
 | 599 | [Simmer](https://open.spotify.com/track/2moHnkHTSXBe9KjvPSQJvg) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 4:26 |
+| 600 | [Kind Of \(Type of Way\)](https://open.spotify.com/track/5cVSOtzpgC3o6gZaxXkxUu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Car Therapy Sessions](https://open.spotify.com/album/3zbrqKb1xBeeEoutRFq44t) | 5:39 |
 
-Snapshot ID: `AAAH5uFRfyA8frmbgAzDEfhzWvbgDuvZ`
+Snapshot ID: `AAAH5w47DYIq4Rf4bVnABvXSSeyh1VdM`

@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mavokali",
-  "num_followers": 7584,
+  "num_followers": 7597,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
+        "name": "Nyumba Ndogo",
+        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Nyumba Ndogo",
+      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
+    },
+    {
+      "added_at": "2025-10-16 23:59:14",
+      "album": {
         "name": "Mapenzi Hisia (feat. Jetty Mc, Vanillah, Baddest 47 & Jay Combat)",
         "url": "https://open.spotify.com/album/7h3Jhk5AvX06EqybrzWmm3"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 261971,
       "name": "Mapenzi Hisia (feat. Jetty Mc, Vanillah, Baddest 47 & Jay Combat)",
       "url": "https://open.spotify.com/track/5AOLHEODPUTgPJSxs5DceH"
-    },
-    {
-      "added_at": "2025-10-16 23:59:14",
-      "album": {
-        "name": "Nyumba Ndogo",
-        "url": "https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Nyumba Ndogo",
-      "url": "https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -275,22 +275,30 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Peace And Money",
-        "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
+        "name": "Staki Mazoea",
+        "url": "https://open.spotify.com/album/2CaJyxnM3Ar6i0lMiu8eV7"
       },
       "artists": [
         {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+          "name": "Dj Mushizo",
+          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
         },
         {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Dogo Mallo",
+          "url": "https://open.spotify.com/artist/1I9za42Mp9BiwmgbjcjoNw"
+        },
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
         }
       ],
-      "duration_ms": 258124,
-      "name": "Hujanizidi (feat. D Voice)",
-      "url": "https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B"
+      "duration_ms": 276642,
+      "name": "Staki Mazoea",
+      "url": "https://open.spotify.com/track/51nUxYujKieQPIfSWmIQR7"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -347,30 +355,22 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Staki Mazoea",
-        "url": "https://open.spotify.com/album/2CaJyxnM3Ar6i0lMiu8eV7"
+        "name": "Peace And Money",
+        "url": "https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2"
       },
       "artists": [
         {
-          "name": "Dj Mushizo",
-          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
         },
         {
-          "name": "Dogo Mallo",
-          "url": "https://open.spotify.com/artist/1I9za42Mp9BiwmgbjcjoNw"
-        },
-        {
-          "name": "Kusah",
-          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
-        },
-        {
-          "name": "Country Wizzy",
-          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 276642,
-      "name": "Staki Mazoea",
-      "url": "https://open.spotify.com/track/51nUxYujKieQPIfSWmIQR7"
+      "duration_ms": 258124,
+      "name": "Hujanizidi (feat. D Voice)",
+      "url": "https://open.spotify.com/track/56nm7WvdxbOEToDrfDSS8B"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -419,22 +419,46 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Jina",
-        "url": "https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8"
+        "name": "Naoa",
+        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
       },
       "artists": [
         {
           "name": "Meja Kunta",
           "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 227662,
-      "name": "Jina",
-      "url": "https://open.spotify.com/track/1J4zRKJxkMEa0iiPFX4ujG"
+      "duration_ms": 237898,
+      "name": "Naoa",
+      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+    },
+    {
+      "added_at": "2025-10-16 23:59:14",
+      "album": {
+        "name": "Wivu Remix (feat. Baddest 47, Jay Combat & Ibraah)",
+        "url": "https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa"
+      },
+      "artists": [
+        {
+          "name": "Dj Mushizo",
+          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
+        },
+        {
+          "name": "Baddest 47",
+          "url": "https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ"
+        },
+        {
+          "name": "Jay Combat",
+          "url": "https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx"
+        },
+        {
+          "name": "Ibraah",
+          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Wivu Remix (feat. Baddest 47, Jay Combat & Ibraah)",
+      "url": "https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -475,6 +499,22 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
+        "name": "Toilet",
+        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
+      },
+      "artists": [
+        {
+          "name": "Kontawa",
+          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
+        }
+      ],
+      "duration_ms": 228806,
+      "name": "Toilet",
+      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
+    },
+    {
+      "added_at": "2025-10-16 23:59:14",
+      "album": {
         "name": "After All",
         "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
       },
@@ -495,50 +535,6 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Toilet",
-        "url": "https://open.spotify.com/album/1bMBU9RVQysL6RTFhJCtTD"
-      },
-      "artists": [
-        {
-          "name": "Kontawa",
-          "url": "https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk"
-        }
-      ],
-      "duration_ms": 228806,
-      "name": "Toilet",
-      "url": "https://open.spotify.com/track/43BmpGqwsEieXTSo70Q1J8"
-    },
-    {
-      "added_at": "2025-10-16 23:59:14",
-      "album": {
-        "name": "Wivu Remix (feat. Baddest 47, Jay Combat & Ibraah)",
-        "url": "https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa"
-      },
-      "artists": [
-        {
-          "name": "Dj Mushizo",
-          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
-        },
-        {
-          "name": "Baddest 47",
-          "url": "https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ"
-        },
-        {
-          "name": "Jay Combat",
-          "url": "https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx"
-        },
-        {
-          "name": "Ibraah",
-          "url": "https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Wivu Remix (feat. Baddest 47, Jay Combat & Ibraah)",
-      "url": "https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF"
-    },
-    {
-      "added_at": "2025-10-16 23:59:14",
-      "album": {
         "name": "Ex Arudiwi",
         "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
       },
@@ -555,22 +551,6 @@
       "duration_ms": 199132,
       "name": "Ex Arudiwi",
       "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
-    },
-    {
-      "added_at": "2025-10-16 23:59:14",
-      "album": {
-        "name": "Maokoto",
-        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
-      },
-      "artists": [
-        {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Maokoto",
-      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -603,18 +583,38 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Naoa",
-        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
+    },
+    {
+      "added_at": "2025-10-16 23:59:14",
+      "album": {
+        "name": "Jina",
+        "url": "https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8"
       },
       "artists": [
         {
           "name": "Meja Kunta",
           "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 237898,
-      "name": "Naoa",
-      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+      "duration_ms": 227662,
+      "name": "Jina",
+      "url": "https://open.spotify.com/track/1J4zRKJxkMEa0iiPFX4ujG"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Dua",
-        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
+        "name": "Sina Stress",
+        "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
       },
       "artists": [
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Tamimu",
+          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
         }
       ],
-      "duration_ms": 282984,
-      "name": "Dua",
-      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
+      "duration_ms": 229920,
+      "name": "Sina Stress",
+      "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Sina Stress",
-        "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
       "artists": [
         {
-          "name": "Tamimu",
-          "url": "https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 229920,
-      "name": "Sina Stress",
-      "url": "https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W"
+      "duration_ms": 282984,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Honey Wangu",
-        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
+        "name": "Siyo Shida Zangu",
+        "url": "https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI"
       },
       "artists": [
         {
           "name": "Seneta Kilaka",
           "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
         }
       ],
-      "duration_ms": 239972,
-      "name": "Honey Wangu",
-      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
+      "duration_ms": 239612,
+      "name": "Siyo Shida Zangu",
+      "url": "https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz"
     },
     {
       "added_at": "2025-10-16 23:59:14",
@@ -1355,26 +1359,6 @@
     {
       "added_at": "2025-10-16 23:59:14",
       "album": {
-        "name": "Niite Mbwa",
-        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
-      },
-      "artists": [
-        {
-          "name": "Shilole",
-          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
-        },
-        {
-          "name": "Mchina Mweusi",
-          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Niite Mbwa",
-      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
-    },
-    {
-      "added_at": "2025-10-16 23:59:14",
-      "album": {
         "name": "Maisha Yetu Usela",
         "url": "https://open.spotify.com/album/3MM086oYLCwtVJ3g9Ui6kG"
       },
@@ -1391,6 +1375,26 @@
       "duration_ms": 325666,
       "name": "Maisha Yetu Usela",
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
+    },
+    {
+      "added_at": "2025-10-16 23:59:14",
+      "album": {
+        "name": "Niite Mbwa",
+        "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
+      },
+      "artists": [
+        {
+          "name": "Shilole",
+          "url": "https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6"
+        },
+        {
+          "name": "Mchina Mweusi",
+          "url": "https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Niite Mbwa",
+      "url": "https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H"
     },
     {
       "added_at": "2025-10-16 23:59:14",

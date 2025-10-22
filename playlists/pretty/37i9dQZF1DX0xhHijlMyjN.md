@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 
 > Lo que necesita cualquier verbena veraniega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,068 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,048 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 43 | [I Know You Want Me \(Calle Ocho\)](https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI) | 3:57 |
 | 44 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
 | 45 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
-| 46 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
-| 47 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
+| 46 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
+| 47 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
 | 48 | [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 |
 | 49 | [Let's Twist Again](https://open.spotify.com/track/1INWPr855fwWdAOeecbu0W) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [It's Pony Time/Let's Twist Again](https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0) | 2:17 |
 | 50 | [Por la boca vive el pez](https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 4:29 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 113 | [Mediterraneo](https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Mediterránaeo](https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o) | 3:53 |
 | 114 | [Venezia](https://open.spotify.com/track/7j9KvkECxdsQQesY1GktXj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Lo Mejor De Los Hombres G](https://open.spotify.com/album/0luVrYnp61bSbpScEHXyt0) | 4:30 |
 | 115 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 |
-| 116 | [Flying Free \- Original Mix](https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01) | [Pont Aeri](https://open.spotify.com/artist/3jlq566oG3nXIG5HzPcc67), [Marian Dacal](https://open.spotify.com/artist/3iYLbtSFtQfUDWO5RKfIem) | [Pont Aeri, Vol\. 4 EP](https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q) | 6:46 |
-| 117 | [La Luna y el Toro](https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt) | [El Matador](https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG) | [La Luna y el Toro \(Made In Spain\)](https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10) | 4:27 |
+| 116 | [La Luna y el Toro](https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt) | [El Matador](https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG) | [La Luna y el Toro \(Made In Spain\)](https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10) | 4:27 |
+| 117 | [Flying Free \- Original Mix](https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01) | [Pont Aeri](https://open.spotify.com/artist/3jlq566oG3nXIG5HzPcc67), [Marian Dacal](https://open.spotify.com/artist/3iYLbtSFtQfUDWO5RKfIem) | [Pont Aeri, Vol\. 4 EP](https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q) | 6:46 |
 | 118 | [La Cucaracha](https://open.spotify.com/track/3VBnhEvPBkH5nUMCtAGpv7) | [El Combo Dominicano](https://open.spotify.com/artist/0SRhX6qz5KzKtfvY85Jgsb) | [La Cucaracha](https://open.spotify.com/album/52RyozzM58iDLzgKyxuOZ1) | 4:04 |
 | 119 | [Que La Detengan](https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl) | [David Civera](https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF) | [En Cuerpo Y Alma](https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC) | 3:32 |
 | 120 | [Candela](https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 3:55 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 141 | [Me Pongo Colorada](https://open.spotify.com/track/4AA1JmBpy3Bx5ZLAnJxOto) | [Papá Levante](https://open.spotify.com/artist/4gb13Uvpvz0EFEHtmYdgDf) | [Tomalacate](https://open.spotify.com/album/0tp5aBBT7GRafCQt0Nvgi2) | 4:11 |
 | 142 | [Que La Detengan \- Remix](https://open.spotify.com/track/7ue44k70ZcYBw7a6tZKu9K) | [David Civera](https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF) | [En Cuerpo Y Alma](https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC) | 4:27 |
 | 143 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:56 |
-| 144 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 |
-| 145 | [Yo No Te Pido La Luna](https://open.spotify.com/track/64pKMpdxBO5xJrrIksqeod) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Il Meglio Di Fiordaliso: Grandi Successi](https://open.spotify.com/album/3jQ3TS6VjzytFuOoCdqE8x) | 4:43 |
+| 144 | [Yo No Te Pido La Luna](https://open.spotify.com/track/64pKMpdxBO5xJrrIksqeod) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Il Meglio Di Fiordaliso: Grandi Successi](https://open.spotify.com/album/3jQ3TS6VjzytFuOoCdqE8x) | 4:43 |
+| 145 | [La Tortura \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/5BSclXJTa9B0iURhUjZo50) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:32 |
 | 146 | [Ni Una Lágrima Más](https://open.spotify.com/track/0qJg1V6Ehx5YLSrcPuUPW5) | [Bustamante](https://open.spotify.com/artist/1VfKauu6JYTUrApbJXU0zo) | [Así Soy Yo](https://open.spotify.com/album/4kPgZkC6lC4tf6jNQU2ZIG) | 3:25 |
 | 147 | [Un Rayo de Sol](https://open.spotify.com/track/6mUQ6NW9WRcCuSsi4kzdlf) | [Los Diablos](https://open.spotify.com/artist/1iTBMIseDKB2IoKlmlGvyp) | [70s los Anos Jovenes \- la Coleccion](https://open.spotify.com/album/7JFT8yBfrCYgoVo5tBtbQf) | 3:33 |
 | 148 | [Canta y Sé Feliz](https://open.spotify.com/track/5hhfm9pW7uJXsFx3mjkMHY) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 2:51 |
-| 149 | [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 |
-| 150 | [La Luna y el Toro](https://open.spotify.com/track/2TSqg5ilfbL4SwIHAfoi2S) | [Los Centellas](https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG) | [Por Amor al Arte](https://open.spotify.com/album/6eOfC1f9x0jEbE2kQUJ9LI) | 5:16 |
+| 149 | [La Luna y el Toro](https://open.spotify.com/track/2TSqg5ilfbL4SwIHAfoi2S) | [Los Centellas](https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG) | [Por Amor al Arte](https://open.spotify.com/album/6eOfC1f9x0jEbE2kQUJ9LI) | 5:16 |
+| 150 | [Las de la Intuición](https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 3:40 |
 
 Snapshot ID: `AAAAALf7TzkJtd+s68/qeLwICz61A52f`

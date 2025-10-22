@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329604,
+      "name": "Belt of Venus",
+      "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
+    },
+    {
+      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6"
       },
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 241626,
       "name": "Honne",
       "url": "https://open.spotify.com/track/5zYYNlWxnuD5pejjZZ0B0H"
@@ -1837,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "Kiseki Wo Mattetatte",
+        "url": "https://open.spotify.com/album/6NsaIlN1RzWWPj8jhgPrcQ"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319633,
+      "name": "Kiseki Wo Mattetatte",
+      "url": "https://open.spotify.com/track/1zzakN2yDC8TL2tcathcO9"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss Kiss",
         "url": "https://open.spotify.com/album/09kDSsRW2LELBw2Pjk8tWf"
       },
@@ -1848,7 +1884,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 129349,
       "name": "Kiss Kiss Kiss",
       "url": "https://open.spotify.com/track/0t2jF8atu9yRgeO1IiHrBV"
@@ -2896,7 +2932,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 187746,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0qEDgqxgkPprdzzKxa0Bh6"
@@ -3390,6 +3426,24 @@
       "duration_ms": 166640,
       "name": "Topping",
       "url": "https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y"
+    },
+    {
+      "album": {
+        "name": "TRUE LOVE",
+        "url": "https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8"
+      },
+      "artists": [
+        {
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265292,
+      "name": "TRUE LOVE",
+      "url": "https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz"
     },
     {
       "album": {
@@ -5828,7 +5882,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 144306,
       "name": "\u30eb\u30c3\u30af\u30a2\u30c3\u30c8\u30df\u30fc",
       "url": "https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP"
@@ -6408,6 +6462,24 @@
       "duration_ms": 216279,
       "name": "\u541b\u306f\u904b\u547d\u306e\u4eba",
       "url": "https://open.spotify.com/track/34T7ddHko0iSH1J3XHASNk"
+    },
+    {
+      "album": {
+        "name": "\u541b\u3092\u8ab0\u3088\u308a\u3082",
+        "url": "https://open.spotify.com/album/0sXymDyRNBVEswFdBPSxfR"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
+          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240007,
+      "name": "\u541b\u3092\u8ab0\u3088\u308a\u3082",
+      "url": "https://open.spotify.com/track/4UnyffxWl8XjHRegnnESbu"
     },
     {
       "album": {
@@ -8460,7 +8532,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 178162,
       "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
       "url": "https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4"
@@ -8572,6 +8644,24 @@
       "duration_ms": 275212,
       "name": "\u91d1\u6728\u7280",
       "url": "https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm"
+    },
+    {
+      "album": {
+        "name": "\u96a3\u3067",
+        "url": "https://open.spotify.com/album/41Btt7aJSTuiB83xuibMT7"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "\u96a3\u3067",
+      "url": "https://open.spotify.com/track/1iDoGybLQ7be9o61iLZvsS"
     },
     {
       "album": {

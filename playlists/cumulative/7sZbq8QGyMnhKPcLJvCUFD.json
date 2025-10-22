@@ -7809,6 +7809,28 @@
     },
     {
       "album": {
+        "name": "la playa",
+        "url": "https://open.spotify.com/album/4EmlPBi5UFiXhbiyVuz34k"
+      },
+      "artists": [
+        {
+          "name": "SK3TCH01",
+          "url": "https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC"
+        },
+        {
+          "name": "X972",
+          "url": "https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72461,
+      "name": "la playa",
+      "url": "https://open.spotify.com/track/0hfsatZUTyfIRnHObyf3WR"
+    },
+    {
+      "album": {
         "name": "LA VIBE",
         "url": "https://open.spotify.com/album/4Rggq3KsZImoLSicpoYaz7"
       },

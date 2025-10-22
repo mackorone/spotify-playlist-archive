@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr?si=2xtAyPa4S5GHtVw5urCkUg">Fimi</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j?si=wVUdcSGyTB2YD9LGA8epJw">Tolibian</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,567 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,713 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 79 | [France Feeling](https://open.spotify.com/track/18v46nkUTOnJeZJtns4s43) | [Kokoë](https://open.spotify.com/artist/16dsKol1duwbZ2Ts0IxOKY), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [France Feeling](https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG) | 2:49 |
 | 80 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
 
-Snapshot ID: `AAAAAOFl5x0ro+Ycupz5sMakv0hzy2Uz`
+Snapshot ID: `AAAAAGzeTqdr5LOCz79CBzaCpOmxWdoH`

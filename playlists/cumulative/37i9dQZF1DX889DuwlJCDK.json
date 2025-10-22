@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u30de\u30eb\u30b7\u30a3",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -600,6 +600,24 @@
       "duration_ms": 104881,
       "name": "After the Rain",
       "url": "https://open.spotify.com/track/6fve2ZJfW8k2czq2T3bFY3"
+    },
+    {
+      "album": {
+        "name": "Ai wa Kitto Lonely",
+        "url": "https://open.spotify.com/album/5Bvj0ZNTDtHaDQuOWtdQHd"
+      },
+      "artists": [
+        {
+          "name": "Re:name",
+          "url": "https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Ai wa Kitto Lonely",
+      "url": "https://open.spotify.com/track/4uwXkSlTtdLsXfUpEnQRF9"
     },
     {
       "album": {
@@ -6768,7 +6786,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 253200,
       "name": "Netsu Bousou",
       "url": "https://open.spotify.com/track/7fJv93arLapdpAZn4RhPRI"
@@ -7722,7 +7740,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 205000,
       "name": "possum",
       "url": "https://open.spotify.com/track/4xKaz6C5QChu5U4L20EWuY"
@@ -9674,7 +9692,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 232193,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/2tPN8Rv9tblodAXKahUq4T"
@@ -10574,7 +10592,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 218840,
       "name": "Underclass HERO",
       "url": "https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY"
@@ -11836,7 +11854,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 190106,
       "name": "\u304d\u3063\u3068\u305d\u3046",
       "url": "https://open.spotify.com/track/3oWRAADRWKe1PJRSpVqeO2"
@@ -12106,7 +12124,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 208017,
       "name": "\u3055\u3088\u306a\u3089\u30c8\u30e9\u30f3\u30b8\u30b9\u30bf",
       "url": "https://open.spotify.com/track/4CvP4rcRxAY0pJJSJzPWth"
@@ -15578,7 +15596,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 132154,
       "name": "\u30c7\u30c3\u30c9\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/3LwGHyXnRDA76mFfR79ZF3"
@@ -19548,7 +19566,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 146624,
       "name": "\u56db\u5b63\u56de\u751f",
       "url": "https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD"
@@ -20996,6 +21014,24 @@
       "duration_ms": 178389,
       "name": "\u611b\u3057\u3066\u308b\u3063\u3066",
       "url": "https://open.spotify.com/track/5et9C4LRKM9hJjPzuZRhmv"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3057\u3066\u308b\u3063\u3066\u5618\u3064\u3044\u305f",
+        "url": "https://open.spotify.com/album/6tGdCjC6xKBAHg2o2LKWss"
+      },
+      "artists": [
+        {
+          "name": "yutori",
+          "url": "https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "\u611b\u3057\u3066\u308b\u3063\u3066\u5618\u3064\u3044\u305f",
+      "url": "https://open.spotify.com/track/5IPSx9FDU5qvx9rZVj6vdv"
     },
     {
       "album": {
@@ -22476,6 +22512,24 @@
       "duration_ms": 233946,
       "name": "\u685c\u5439\u96ea",
       "url": "https://open.spotify.com/track/7lSC97ElKMtRtlfrfXOl11"
+    },
+    {
+      "album": {
+        "name": "\u6b20\u7247",
+        "url": "https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160466,
+      "name": "\u6b20\u7247",
+      "url": "https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF"
     },
     {
       "album": {
@@ -24874,6 +24928,24 @@
       "duration_ms": 230100,
       "name": "\u967d\u708e",
       "url": "https://open.spotify.com/track/6InQXgBzElIEwneMkGHoFC"
+    },
+    {
+      "album": {
+        "name": "\u96a3\u3067",
+        "url": "https://open.spotify.com/album/41Btt7aJSTuiB83xuibMT7"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "\u96a3\u3067",
+      "url": "https://open.spotify.com/track/1iDoGybLQ7be9o61iLZvsS"
     },
     {
       "album": {

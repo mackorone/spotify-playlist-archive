@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,088 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,144 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 37 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
 | 38 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
 | 39 | [Kek Alghalm](https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Amatssou](https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM) | 3:31 |
-| 40 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
-| 41 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
+| 40 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
+| 41 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
 | 42 | [Chismiten](https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 4:58 |
 | 43 | [Amanheceu](https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Ruan Vitor Vaqueirinho](https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g) | [Amanheceu](https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF) | 3:04 |
 | 44 | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 |
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 75 | [Calling England Home](https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9) | [Calling England Home](https://open.spotify.com/album/4qO6OhmdEda5cfBjDOTduz) | 6:13 |
 | 76 | [Enkaz](https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Enkaz](https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH) | 3:20 |
 | 77 | [Alsutur](https://open.spotify.com/track/6GBTuDftjpSehy0GHLN0Fl) | [Dar Disku](https://open.spotify.com/artist/70XpwqZmbGHH9TnDuvPhGR), [FLANAH](https://open.spotify.com/artist/5DqIuKnov00pkcf2dlq8W5) | [Dar Disku](https://open.spotify.com/album/2WPTr25DfIdlsDZDcb2aHY) | 2:39 |
-| 78 | [Komorebi](https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Komorebi](https://open.spotify.com/album/4mc84YGqjBp90AnPB1XfkA) | 3:33 |
+| 78 | [Turkish Coffee](https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Turkish Coffee](https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW) | 3:37 |
 | 79 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 |
 | 80 | [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 |
 | 81 | [El Diablo Y El Ñau Ñau \(feat\. Chico Mann\)](https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp) | [Ocote Soul Sounds](https://open.spotify.com/artist/4khzV3qBWcUKdc50QOv8Tc), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Coconut Rock](https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK) | 3:57 |
 | 82 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 |
-| 83 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 |
-| 84 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 |
-| 85 | [Turkish Coffee](https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Turkish Coffee](https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW) | 3:37 |
+| 83 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 |
+| 84 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 |
+| 85 | [Komorebi](https://open.spotify.com/track/05C1jOzbVwgBk7QIblRtIS) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Komorebi](https://open.spotify.com/album/4mc84YGqjBp90AnPB1XfkA) | 3:33 |
 | 86 | [Rakiya Su Katamam](https://open.spotify.com/track/2SGrsMd6uJXhVVwS9ScG42) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3dynzqPHUqyPPnGGs8STcI) | 3:40 |
 | 87 | [El suïcidi i el cant](https://open.spotify.com/track/7GquvFJQ0RKEOgH6uNAhkU) | [Tarta Relena](https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP) | [Fiat Lux](https://open.spotify.com/album/4hjKxlkH171FW6UmzpOD36) | 4:02 |
 | 88 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |

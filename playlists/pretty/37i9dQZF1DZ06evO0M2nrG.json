@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68611,
+  "num_followers": 68613,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADznvzOYDOU9BF752UrHuVk",
+  "snapshot_id": "aPV7gAAAAABdupCKUu6djoCFNDXOUt8I",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dif\u00edcile",
-        "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
-      },
-      "artists": [
-        {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Dif\u00edcile",
-      "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Locos Dementes",
         "url": "https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 215961,
       "name": "Locos Dementes",
       "url": "https://open.spotify.com/track/1avccdZyIOpCisznKwu47H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dif\u00edcile",
+        "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
+      },
+      "artists": [
+        {
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 152173,
+      "name": "Dif\u00edcile",
+      "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
     },
     {
       "added_at": null,

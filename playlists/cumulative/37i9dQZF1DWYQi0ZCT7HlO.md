@@ -2,9 +2,9 @@
 
 ### [Christmas Piano by the Fireplace](https://open.spotify.com/playlist/37i9dQZF1DWYQi0ZCT7HlO)
 
-> Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
+> Cozy Christmas piano and a crackling log fire.
 
-95 songs - 4 hr 3 min
+97 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Do You Hear What I Hear \- Fireplace](https://open.spotify.com/track/7tlBeryJIvr9ZjpWmfFGUV) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [Do You Hear What I Hear](https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf) | 3:18 | 2023-11-21 |  |
 | [Do You Want To Build A Snowman \- By The Fire](https://open.spotify.com/track/7txqEbOCcacXqRl2fruzmD) | [Ivan Clarke](https://open.spotify.com/artist/6CDPO2Fvp4FmhIuopGwy2W) | [Christmas By The Fire](https://open.spotify.com/album/1k256NIUtEGBKOUCdNSHVJ) | 3:05 | 2023-11-21 |  |
 | [Feliz Navidad](https://open.spotify.com/track/2gCZKqKEAtRZjTJGzHIf01) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Feliz Navidad](https://open.spotify.com/album/4akxMu1ZtYGIAd6NV405Hc) | 3:05 | 2024-12-06 |  |
+| [Frosty the Snowman \(Fireplace Piano Version\)](https://open.spotify.com/track/6pIuvivHv7ZxZYbOHvJrJV) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Frosty the Snowman \(Fireplace Piano Version\)](https://open.spotify.com/album/6AQsf0YqdrrELZdnE6yzo2) | 2:04 | 2025-10-21 |  |
 | [Give Love on Christmas Day](https://open.spotify.com/track/5Un2fvHZqhPpmUnwilx5jS) | [Doreen Koch](https://open.spotify.com/artist/1xpWsGfQSWaSKdzRUhFyoY) | [Give Love on Christmas Day](https://open.spotify.com/album/1qtJJViXBqI5gcl4LYsFtf) | 2:55 | 2023-11-21 | 2025-09-03 |
 | [Go Tell it on the Mountain \(Fireside\)](https://open.spotify.com/track/5sLlO2yezDpmxwGzou9wPP) | [N Piccolina](https://open.spotify.com/artist/47ZGaS4IcMwkIutwnhNJjC) | [Go Tell it on the Mountain \(Fireside\)](https://open.spotify.com/album/1JaFyNm2oLE1XF4vH0Oium) | 2:15 | 2024-11-18 | 2025-09-03 |
 | [God Rest Ye Merry Gentlemen \- Homely](https://open.spotify.com/track/2HXXd1Cnss5c9ijD6G3Wb6) | [Andrew Billings](https://open.spotify.com/artist/1dmdQP2zEvRaMQiEaQFfJc) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/7qtC23aPGJhSzyLXXelxgo) | 3:06 | 2023-11-21 | 2025-09-03 |
@@ -66,6 +67,7 @@
 | [Joy To The World \- Fireside](https://open.spotify.com/track/6AUh5lLePBqI26f5LdyIXe) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Fireside Joy Of Christmas](https://open.spotify.com/album/72watuxzgAjvqQkHSgWJgi) | 1:37 | 2023-11-21 | 2025-09-03 |
 | [Last Christmas](https://open.spotify.com/track/4SxcGw9pdhCbkUMsRf78UQ) | [Marika Miklos](https://open.spotify.com/artist/40ojVTGr5E5WA9QeAZp6wm) | [Last Christmas](https://open.spotify.com/album/2Vvv0jgfoOC7QV18Hv1z0g) | 2:46 | 2023-11-21 | 2025-09-03 |
 | [Like It's Christmas \(Fireplace Version\)](https://open.spotify.com/track/67ss5ZP5lT8Tk1aTT3sfgj) | [Noel Newman](https://open.spotify.com/artist/2DfgtFKS0D6r8nCklevapF) | [Like It's Christmas \(Fireplace Version\)](https://open.spotify.com/album/7LSc45bpP6hCPjDujCvwm7) | 3:42 | 2024-12-06 |  |
+| [Little Drummer Boy \(Fireplace Piano Version\)](https://open.spotify.com/track/7L8bARdnPXMvIow3wMTOOu) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Little Drummer Boy \(Fireplace Piano Version\)](https://open.spotify.com/album/3pMTH88FHUz6ffsDDofZ75) | 2:41 | 2025-10-21 |  |
 | [Little Drummer Boy \- Fireplace](https://open.spotify.com/track/36ipoN00BRMvCOEUwU5rVt) | [Rhett Week](https://open.spotify.com/artist/03HqLsJ07z6JYJtzDtgDiZ) | [Little Drummer Boy](https://open.spotify.com/album/1O50FuubuNIaddheLayCvT) | 2:44 | 2023-11-21 | 2025-09-03 |
 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 | 2023-11-21 |  |
 | [Marys Boychild](https://open.spotify.com/track/0osb0FU1iezygPXT4FgBbo) | [Danny Silberman](https://open.spotify.com/artist/31mzdxgkNNNmDb9inHRaoa) | [Cosy Fireplace](https://open.spotify.com/album/62bH34ytSHlN9oi69WAfpu) | 3:14 | 2023-11-21 | 2025-09-03 |

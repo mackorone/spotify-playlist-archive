@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Leah, Brendan Peyper, Lianie May, Andriette, Herman Kleinhans en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,379 likes - 123 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,387 likes - 123 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

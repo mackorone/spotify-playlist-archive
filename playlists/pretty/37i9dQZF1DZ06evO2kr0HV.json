@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40660,
+  "num_followers": 40665,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAABvb446fUMltOO6UMRasdp7",
+  "snapshot_id": "aPV7gAAAAADV+2cl1ZYeOSLnH5IwYSDW",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cr\u00e8me Brul\u00e9e (Bilingual Version)",
+        "url": "https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h"
+      },
+      "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 179045,
+      "name": "Cr\u00e8me Brul\u00e9e - Bilingual Version",
+      "url": "https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbia del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2vfaAgiqzNxbHP14nIe0Ht"
       },
@@ -863,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00e8me Brul\u00e9e (Bilingual Version)",
-        "url": "https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h"
-      },
-      "artists": [
-        {
-          "name": "David Archuleta",
-          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 179045,
-      "name": "Cr\u00e8me Brul\u00e9e - Bilingual Version",
-      "url": "https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 187760,
       "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
       "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY"
     },
     {
       "added_at": null,
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eso Que Me Das",
         "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
     }
   ],
   "unique_name": "This Is Esteman",

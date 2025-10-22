@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 473579,
+  "num_followers": 473654,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1353,6 +1353,26 @@
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
     },
     {
+      "added_at": "2025-10-10 04:00:35",
+      "album": {
+        "name": "BABYLON",
+        "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "duration_ms": 200712,
+      "name": "BABYLON",
+      "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
+    },
+    {
       "added_at": "2025-08-29 04:00:41",
       "album": {
         "name": "SPEND IT",
@@ -1377,42 +1397,6 @@
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
-      "added_at": "2025-10-10 04:00:35",
-      "album": {
-        "name": "BABYLON",
-        "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        }
-      ],
-      "duration_ms": 200712,
-      "name": "BABYLON",
-      "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
       "added_at": "2025-08-08 04:00:44",
       "album": {
         "name": "Night In Detroit (feat. Fedde Le Grand)",
@@ -1435,6 +1419,22 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Rock My World",
-        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Rock My World",
-      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1737,22 +1737,6 @@
       "url": "https://open.spotify.com/track/7GYaiFYGr2AXZgEIjSLtm6"
     },
     {
-      "added_at": "2025-08-29 04:00:41",
-      "album": {
-        "name": "Rockin",
-        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "Rockin",
-      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
-    },
-    {
       "added_at": "2025-08-08 04:00:44",
       "album": {
         "name": "Animal",
@@ -1771,6 +1755,22 @@
       "duration_ms": 193655,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
+      "added_at": "2025-08-29 04:00:41",
+      "album": {
+        "name": "Rockin",
+        "url": "https://open.spotify.com/album/1anQFQJT2nUGYdJvpV9zCi"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Rockin",
+      "url": "https://open.spotify.com/track/13rL4JF5Zz2ZmTusQ5mF4s"
     },
     {
       "added_at": "2025-10-03 16:08:19",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
@@ -2015,6 +1999,42 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/2dUSvHHI2NblaTDGeXlb43"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/72oKwaidmdyrEsehdWFMct"
+    },
+    {
+      "added_at": "2025-10-10 04:00:35",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2047,26 +2067,6 @@
       "duration_ms": 204728,
       "name": "Inwards",
       "url": "https://open.spotify.com/track/6RKCssrvURrpUsNw2mkZ8C"
-    },
-    {
-      "added_at": "2025-10-10 04:00:35",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2025-08-29 04:00:41",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "ZERO200",
-        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "ZERO200",
-      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "License To Be Bad",
         "url": "https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 186461,
       "name": "License To Be Bad",
       "url": "https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "ZERO200",
+        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "ZERO200",
+      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Reposado",
-        "url": "https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS"
-      },
-      "artists": [
-        {
-          "name": "OKAYVAL",
-          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Reposado",
-      "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Good Girls",
         "url": "https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 181850,
       "name": "Good Girls",
       "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Reposado",
+        "url": "https://open.spotify.com/album/1LzroJg1OlUwdzlmFmNFXS"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "duration_ms": 182769,
+      "name": "Reposado",
+      "url": "https://open.spotify.com/track/2r3odpOpap9UydV0pmvLi3"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2261,20 +2261,24 @@
       "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
     },
     {
-      "added_at": "2025-09-12 04:00:12",
+      "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/1B1b2kNN2saZUroZT93qUE"
+        "name": "Pump (AC Slater Remix)",
+        "url": "https://open.spotify.com/album/2lHuSOPxXJQ38afCptC9A2"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         }
       ],
-      "duration_ms": 148183,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/6Rxp1YTcngUkDoYoJpNJl3"
+      "duration_ms": 257342,
+      "name": "Pump (AC Slater Remix)",
+      "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2297,24 +2301,20 @@
       "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
     },
     {
-      "added_at": "2025-08-08 04:00:44",
+      "added_at": "2025-09-12 04:00:12",
       "album": {
-        "name": "Pump (AC Slater Remix)",
-        "url": "https://open.spotify.com/album/2lHuSOPxXJQ38afCptC9A2"
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/1B1b2kNN2saZUroZT93qUE"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         }
       ],
-      "duration_ms": 257342,
-      "name": "Pump (AC Slater Remix)",
-      "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
+      "duration_ms": 148183,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/6Rxp1YTcngUkDoYoJpNJl3"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2429,10 +2429,10 @@
       "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"
     },
     {
-      "added_at": "2025-08-22 04:00:29",
+      "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/5a4yAhcmithnWkeqQ9S2FV"
+        "name": "Guess I Never Know",
+        "url": "https://open.spotify.com/album/4DTPGW8FzybAGJFY4PXJQ9"
       },
       "artists": [
         {
@@ -2440,13 +2440,13 @@
           "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
         }
       ],
-      "duration_ms": 144526,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/4zHL0ClWm3gRSxXB193QBJ"
+      "duration_ms": 149653,
+      "name": "Guess I Never Know",
+      "url": "https://open.spotify.com/track/5Cud5KwxFPYWnxJhARH3Bt"
     }
   ],
   "unique_name": "Nasty Bits",

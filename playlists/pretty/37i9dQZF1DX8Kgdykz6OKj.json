@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1527204,
+  "num_followers": 1527671,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
         "name": "PRiNCE GEORGE",
         "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 165853,
       "name": "PRiNCE GEORGE",
       "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
         "name": "Burnout 5",
         "url": "https://open.spotify.com/album/4IhkrsR02UX0lXwquTTsjk"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 139073,
       "name": "Calamari",
       "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1675,34 +1675,6 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/4lshI1kf2ooo4ZlPjxBNff"
-      },
-      "artists": [
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "Wiki",
-          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        },
-        {
-          "name": "The Kount",
-          "url": "https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY"
-        }
-      ],
-      "duration_ms": 209961,
-      "name": "Cascade",
-      "url": "https://open.spotify.com/track/32w5wAbtvFABoDal1VI7I2"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
         "name": "Out Of My Hands (feat. Oddisee)",
         "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
       },
@@ -1735,6 +1707,34 @@
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/4lshI1kf2ooo4ZlPjxBNff"
+      },
+      "artists": [
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "Rae Khalil",
+          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+        },
+        {
+          "name": "The Kount",
+          "url": "https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY"
+        }
+      ],
+      "duration_ms": 209961,
+      "name": "Cascade",
+      "url": "https://open.spotify.com/track/32w5wAbtvFABoDal1VI7I2"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1883,6 +1883,30 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
+        "name": "mynameisnt",
+        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        },
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        }
+      ],
+      "duration_ms": 178554,
+      "name": "aslongas",
+      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
         "name": "DPA",
         "url": "https://open.spotify.com/album/5vYFrtRr1VMCJOcuBE9Kjb"
       },
@@ -1907,30 +1931,6 @@
       "duration_ms": 253799,
       "name": "DPA",
       "url": "https://open.spotify.com/track/1IRETWWt28YMwuZvMrQ1X2"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
-        "name": "mynameisnt",
-        "url": "https://open.spotify.com/album/39lJVLDmWXvpB0cscmj5g8"
-      },
-      "artists": [
-        {
-          "name": "mynameisntjmack",
-          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
-        },
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        },
-        {
-          "name": "Wakai",
-          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
-        }
-      ],
-      "duration_ms": 178554,
-      "name": "aslongas",
-      "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "Funkin' Around",
-        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
-      },
-      "artists": [
-        {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
-        }
-      ],
-      "duration_ms": 106933,
-      "name": "Funkin' Around",
-      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
         "name": "Peerless",
         "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
+        "name": "Funkin' Around",
+        "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 106933,
+      "name": "Funkin' Around",
+      "url": "https://open.spotify.com/track/4RyMSXFOu9TmoKID0tVJIS"
     },
     {
       "added_at": "2025-10-17 04:00:55",

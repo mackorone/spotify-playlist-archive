@@ -4,7 +4,7 @@
 
 > In This Moment are on top of today's best Metal playlist.
 
-1,123 songs - 3 day 1 hr 23 min
+1,124 songs - 3 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Cannibal \(feat\. Anders Fridén\)](https://open.spotify.com/album/4KcqdaoWTikvUlU7vEVrhP) | 5:02 | 2024-09-27 | 2025-02-22 |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-11 |  |
 | [Caravan of Broken Ghosts](https://open.spotify.com/track/1CzKggMZT7p836VUa1lRDc) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Astral Fortress](https://open.spotify.com/album/0BKXemLWwkU9t6KiYCdVzj) | 7:53 | 2022-11-04 | 2023-01-14 |
-| [carry on for you](https://open.spotify.com/track/0nWa6iG5GO3msSXyjQImMA) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [THE WHEEL](https://open.spotify.com/album/0wk685JsrY5zGqCjXtcLBv) | 4:21 | 2025-09-12 |  |
+| [carry on for you](https://open.spotify.com/track/0nWa6iG5GO3msSXyjQImMA) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [THE WHEEL](https://open.spotify.com/album/0wk685JsrY5zGqCjXtcLBv) | 4:21 | 2025-09-12 | 2025-10-22 |
 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 | 2023-10-06 | 2024-06-01 |
 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-08 | 2023-10-07 |
 | [Casualty](https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:20 | 2024-11-15 | 2025-02-15 |
@@ -446,6 +446,7 @@
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 | 2022-07-30 |
 | [HEAVEN DON'T CRY](https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [HEAVEN DON'T CRY](https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX) | 4:25 | 2022-08-19 | 2022-11-08 |
 | [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 | 2023-09-08 | 2024-02-24 |
+| [Hellbound](https://open.spotify.com/track/3eJSJwvXZhlSmXnjwoKFhz) | [Gaerea](https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw) | [Hellbound](https://open.spotify.com/album/7IEbw0XUFwM20tXrveBpep) | 5:23 | 2025-10-21 |  |
 | [Hellions](https://open.spotify.com/track/2ifhuqHixRseGujnENtfbl) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hellions](https://open.spotify.com/album/59J4vXs3evRbjxhtSBiztl) | 4:13 | 2023-03-24 | 2023-04-29 |
 | [Here To Bleed](https://open.spotify.com/track/1DFMShSkGQrzRbKqOM1fcc) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Here To Bleed](https://open.spotify.com/album/5XrRMrmP7GaD3r2AyiBuNK) | 2:46 | 2025-09-19 |  |
 | [Hereditary](https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [I Don't Belong Here](https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N) | 3:24 | 2025-10-03 |  |

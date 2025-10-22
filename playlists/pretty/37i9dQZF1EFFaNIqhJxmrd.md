@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 |
-| 2 | [Ensam](https://open.spotify.com/track/3g9Bd3dzWumpEYS381Veiz) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ensam](https://open.spotify.com/album/4XswCp5Y7hqGCLeyAVCa8n) | 2:29 |
-| 3 | [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 |
+| 2 | [closure](https://open.spotify.com/track/0LDDluRE805Dvt7WA0tDvA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:03 |
+| 3 | [Ensam](https://open.spotify.com/track/3g9Bd3dzWumpEYS381Veiz) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ensam](https://open.spotify.com/album/4XswCp5Y7hqGCLeyAVCa8n) | 2:29 |
 | 4 | [Higher Ground](https://open.spotify.com/track/6uASqrLgGRauoqzlGsq6Hj) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:08 |
 | 5 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 |
 | 6 | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/track/7eNF3i7lHKtRwlvMfbNu9M) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/album/7DNteGyvbzO8o1XpVQoFVE) | 3:29 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 79 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 |
 | 80 | [Ljuger för mig själv](https://open.spotify.com/track/3zCm30Ye2uvSnny2TlIddt) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:08 |
 | 81 | [Follow Your Heart](https://open.spotify.com/track/2LvmiyPIdtW6T3pybKwcSc) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:21 |
-| 82 | [Din Låt](https://open.spotify.com/track/5Mo1sg5UVCUlgxZ2HXIMMc) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:04 |
-| 83 | [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 |
+| 82 | [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 |
+| 83 | [Din Låt](https://open.spotify.com/track/5Mo1sg5UVCUlgxZ2HXIMMc) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:04 |
 | 84 | [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 |
 | 85 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 |
 | 86 | [Emptied Out](https://open.spotify.com/track/6yY9BHa8Z2BnGR6uyf6FWf) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 2:59 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 110 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 111 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Ab/ZkgAAAAClT6I9qxL6nEU6bERS1Th+`
+Snapshot ID: `Ab/fKAAAAACmfdpBfDtx55lUdi9Q7+k0`

@@ -4,7 +4,7 @@
 
 > Brani virali e trend, rap e urban 📈 Morad in cover
 
-901 songs - 1 day 22 hr 57 min
+902 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-05-10 | 2023-08-19 |
 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-11-15 | 2025-07-04 |
 | [Invincibile](https://open.spotify.com/track/5VLkfva2Q2W9FJRYPLvtL7) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Invincibile](https://open.spotify.com/album/0ioh25cYIvvplbbax3OQ45) | 2:39 | 2025-10-13 |  |
+| [IO & TU](https://open.spotify.com/track/5MBwzWnikF3EMS9wBagvM9) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [IO & TU](https://open.spotify.com/album/0jKl6eCdgu5cM9fqNH9NIs) | 2:18 | 2025-10-21 |  |
 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-05 | 2022-09-07 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-28 | 2024-02-20 |
 | [It's Crazy \- Single Version](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 | 2023-06-02 | 2023-07-06 |

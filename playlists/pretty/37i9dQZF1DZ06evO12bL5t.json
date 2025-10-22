@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 139093,
+  "num_followers": 139125,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAD8yc6tjSJUl3sCUs5OEHnn",
+  "snapshot_id": "aPV7gAAAAAAuBfqcgAO3dn2LCVBKCBO6",
   "tracks": [
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HP Everything",
-        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
+        "name": "Se Va Pa' Largo",
+        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
       },
       "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 169629,
-      "name": "Ric Flair",
-      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
+      "duration_ms": 164925,
+      "name": "Cupcake Factory",
+      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa' Largo",
-        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
+        "name": "HP Everything",
+        "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
       "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 164925,
-      "name": "Cupcake Factory",
-      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
+      "duration_ms": 169629,
+      "name": "Ric Flair",
+      "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"
     },
     {
       "added_at": null,

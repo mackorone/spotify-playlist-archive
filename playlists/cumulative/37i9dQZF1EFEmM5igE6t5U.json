@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 321360,
       "name": "Fire We Make",
       "url": "https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W"
@@ -2650,10 +2650,28 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 365171,
       "name": "No One",
       "url": "https://open.spotify.com/track/1kyFtEEz6rhiJXDBX4K8cr"
+    },
+    {
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/3vb0lcfkZEtE9EphF7bnus"
+      },
+      "artists": [
+        {
+          "name": "Martin Novales",
+          "url": "https://open.spotify.com/artist/7hbt5COPR9EYJj9CLN89th"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/3oENYpsup7W1zqvGltQuAY"
     },
     {
       "album": {

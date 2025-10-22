@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,614 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,661 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 9 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 |
 | 10 | [VIBE COP](https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [VIBE COP](https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF) | 2:53 |
 | 11 | [As Alive As You Need Me To Be](https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [As Alive As You Need Me To Be](https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0) | 3:53 |
-| 12 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 |
+| 12 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 |
 | 13 | [CATCH AND RELEASE](https://open.spotify.com/track/0xFDEEdNrcqK6OKPQGsyok) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [CATCH AND RELEASE](https://open.spotify.com/album/4jUocI6n5D4jEWx4GqYtpu) | 2:24 |
 | 14 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 |
 | 15 | [BROKE THE LIGHT](https://open.spotify.com/track/5Wj7k4nW3fNiO8KU1Q1XdY) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [GREED BETWEEN THE LINES](https://open.spotify.com/album/62xHSwQplVIsGotSCoVUkV) | 3:01 |

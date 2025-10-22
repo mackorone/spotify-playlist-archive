@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,899 likes - 48 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,910 likes - 48 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 47 | [Darn That Dream \- Live At The Tiffany Club, Los Angeles, CA., 1954](https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Live](https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k) | 12:07 |
 | 48 | [Love Walked In](https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker & Strings](https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S) | 2:56 |
 
-Snapshot ID: `aPQqAAAAAABfqAp3tWvz5BZ/mXqkLceR`
+Snapshot ID: `aPV7gAAAAAC3W87E0DOfiEA+1M1zXIEy`

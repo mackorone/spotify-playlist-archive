@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,963 likes - 163 songs - 9 hr 41 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,964 likes - 166 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,14 +162,17 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 152 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 153 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 154 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 155 | [always b there](https://open.spotify.com/track/5SfiKFsVQnzFt2kIhkaO3n) | [bbluv](https://open.spotify.com/artist/0hCRS1ioCHeuhDbRBK4ckq), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [JohnMD](https://open.spotify.com/artist/5zqxCFyWIEgVQ6vwXUFuzJ) | [always b there](https://open.spotify.com/album/6zysvQq7dVeSp7eVvKyjuA) | 2:00 |
-| 156 | [Oasis](https://open.spotify.com/track/2BErRZBoWGubwxNzjhy7S3) | [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W) | [Oasis](https://open.spotify.com/album/5lA2i5jeybyU72tr13vsuv) | 3:06 |
-| 157 | [hurt](https://open.spotify.com/track/5N1jyQbx2Yxk3dHKJ0nrpG) | [Mary Ann Wright](https://open.spotify.com/artist/7wv9wEpM5NKI877LAbwWbf) | [enough](https://open.spotify.com/album/0M6gHInXljtImqUGAj6ojb) | 3:34 |
-| 158 | [Don't You Forget About Me](https://open.spotify.com/track/1gUdr56ko9J7fZHHHN6nFh) | [Sara Melson](https://open.spotify.com/artist/1Kytaevw3xfR35imimNkaG) | [Don't You Forget About Me](https://open.spotify.com/album/5j8SuHgWHUHTygLbqVH8Rj) | 3:44 |
-| 159 | [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 |
-| 160 | [Drinkin' Again](https://open.spotify.com/track/03IDe9WgzVDzwSMlUvZcPy) | [Reed Foley](https://open.spotify.com/artist/7xZgMvtftYlkdIPa0P7xzc) | [Drinkin' Again](https://open.spotify.com/album/2EPCExRYd73PEsoj4ipG7X) | 2:43 |
-| 161 | [Whine for Me Baby](https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ) | [Moneymarkhot](https://open.spotify.com/artist/09LFlcexm5a9KlybGUv1vR), [Eazi Money](https://open.spotify.com/artist/7JxdiR4AQ6TDKzHPRRaEL6) | [Whine for Me Baby](https://open.spotify.com/album/0qzwhEJ8iCDdfjYUfsh8mD) | 2:44 |
-| 162 | [Morocco, Japan](https://open.spotify.com/track/6Y8ZkYA3v9RQph1OzX934f) | [NESSERI](https://open.spotify.com/artist/3s5cJdioc0V9H9uDvmdj5m) | [Morocco, Japan](https://open.spotify.com/album/2UxM39wr0AJ6xUXlSWxSXF) | 2:03 |
-| 163 | [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 |
+| 155 | [Drawn 2 you](https://open.spotify.com/track/1qGxdmbdr9KJsexsEKIp92) | [Boukmanflow](https://open.spotify.com/artist/0pMNcq4OeQy6afIqsQkFT3) | [Sankofa \(spotify version\)](https://open.spotify.com/album/3NbOCbmI6s0WZrSBWSfxYe) | 2:12 |
+| 156 | [Somebody Else](https://open.spotify.com/track/5F1BTORlRoCl6zUYknenMA) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [Somebody Else](https://open.spotify.com/album/12lmqC0KgdjpBi86pad8J3) | 3:19 |
+| 157 | [Georgina’s Heart](https://open.spotify.com/track/18e5TAEcAtmCW9GY2cYx0R) | [Alix Lone](https://open.spotify.com/artist/0vwiZOJMUDdo1Mcx2qoyRi) | [Georgina’s Heart](https://open.spotify.com/album/1tJNZ9dHhBp4qQmPXveYSD) | 3:15 |
+| 158 | [always b there](https://open.spotify.com/track/5SfiKFsVQnzFt2kIhkaO3n) | [bbluv](https://open.spotify.com/artist/0hCRS1ioCHeuhDbRBK4ckq), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [JohnMD](https://open.spotify.com/artist/5zqxCFyWIEgVQ6vwXUFuzJ) | [always b there](https://open.spotify.com/album/6zysvQq7dVeSp7eVvKyjuA) | 2:00 |
+| 159 | [Oasis](https://open.spotify.com/track/2BErRZBoWGubwxNzjhy7S3) | [Rachel Curtis](https://open.spotify.com/artist/6DkII9PFxB8CETfB5qqr9W) | [Oasis](https://open.spotify.com/album/5lA2i5jeybyU72tr13vsuv) | 3:06 |
+| 160 | [hurt](https://open.spotify.com/track/5N1jyQbx2Yxk3dHKJ0nrpG) | [Mary Ann Wright](https://open.spotify.com/artist/7wv9wEpM5NKI877LAbwWbf) | [enough](https://open.spotify.com/album/0M6gHInXljtImqUGAj6ojb) | 3:34 |
+| 161 | [Don't You Forget About Me](https://open.spotify.com/track/1gUdr56ko9J7fZHHHN6nFh) | [Sara Melson](https://open.spotify.com/artist/1Kytaevw3xfR35imimNkaG) | [Don't You Forget About Me](https://open.spotify.com/album/5j8SuHgWHUHTygLbqVH8Rj) | 3:44 |
+| 162 | [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 |
+| 163 | [Drinkin' Again](https://open.spotify.com/track/03IDe9WgzVDzwSMlUvZcPy) | [Reed Foley](https://open.spotify.com/artist/7xZgMvtftYlkdIPa0P7xzc) | [Drinkin' Again](https://open.spotify.com/album/2EPCExRYd73PEsoj4ipG7X) | 2:43 |
+| 164 | [Whine for Me Baby](https://open.spotify.com/track/7FPDQLUrbCqWGguc09SQHZ) | [Moneymarkhot](https://open.spotify.com/artist/09LFlcexm5a9KlybGUv1vR), [Eazi Money](https://open.spotify.com/artist/7JxdiR4AQ6TDKzHPRRaEL6) | [Whine for Me Baby](https://open.spotify.com/album/0qzwhEJ8iCDdfjYUfsh8mD) | 2:44 |
+| 165 | [Morocco, Japan](https://open.spotify.com/track/6Y8ZkYA3v9RQph1OzX934f) | [NESSERI](https://open.spotify.com/artist/3s5cJdioc0V9H9uDvmdj5m) | [Morocco, Japan](https://open.spotify.com/album/2UxM39wr0AJ6xUXlSWxSXF) | 2:03 |
+| 166 | [I'm Not the Only One](https://open.spotify.com/track/0XPt3yIKwYwqUegPnbLQME) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:01 |
 
-Snapshot ID: `AAA1AdeJ1qiJHDFoCNXuWwk0VgoiuWUk`
+Snapshot ID: `AAA1BWJtNGsFPvXukmgvA6uoC7fGlEuk`

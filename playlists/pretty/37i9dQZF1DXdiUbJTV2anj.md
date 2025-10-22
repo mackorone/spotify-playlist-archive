@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Cenobia
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,763 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,986 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
-| 2 | [Craven](https://open.spotify.com/track/7hLXMjXwihu7BSzEaQsmGF) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Craven](https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd) | 3:43 |
-| 3 | [Dead End](https://open.spotify.com/track/1qYto5saFz03lgET0Kcb8W) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Dead End](https://open.spotify.com/album/07jg0qHyZftzBT2bClnwTs) | 3:35 |
-| 4 | [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 |
-| 5 | [Atlas](https://open.spotify.com/track/4ypvKxT9pegHR4Uys7OryK) | [OCEANS](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Atlas](https://open.spotify.com/album/25n2rNxra44lcq6ZB18GxX) | 3:55 |
-| 6 | [BULLET](https://open.spotify.com/track/32xIbI883oY1BB4vpJeNuY) | [Sorry X](https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT) | [BULLET](https://open.spotify.com/album/4rkTid1yKLdxofoIek8YFe) | 3:41 |
-| 7 | [Kleptomaniac](https://open.spotify.com/track/52hhvUNX3OaAI4MP7suPBw) | [Aemia](https://open.spotify.com/artist/7moBZujRHUZsfdHu9eAkG1) | [Kleptomaniac](https://open.spotify.com/album/2svG7sxs570d5D5xChUVbN) | 3:13 |
-| 8 | [Boo](https://open.spotify.com/track/0VO7MW5XwMoIDWQIaKcNS8) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Boo](https://open.spotify.com/album/4hiUCd5MTX6OPEKatkjYwB) | 4:42 |
-| 9 | [POINT OF VIEW](https://open.spotify.com/track/2o8mdDx0BNMoYXkhdq0Nkw) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [POINT OF VIEW](https://open.spotify.com/album/6gNEwTJweV7hIycJNDQXcT) | 4:07 |
-| 10 | [WOLF I](https://open.spotify.com/track/0gGKxh6q3xQDgh5uUoA6NL) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [The Bestiary](https://open.spotify.com/album/2P4EZTQfqkw1iUyoMH72nw) | 4:37 |
+| 2 | [Kleptomaniac](https://open.spotify.com/track/52hhvUNX3OaAI4MP7suPBw) | [Aemia](https://open.spotify.com/artist/7moBZujRHUZsfdHu9eAkG1) | [Kleptomaniac](https://open.spotify.com/album/2svG7sxs570d5D5xChUVbN) | 3:13 |
+| 3 | [WOLF I](https://open.spotify.com/track/0gGKxh6q3xQDgh5uUoA6NL) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [The Bestiary](https://open.spotify.com/album/2P4EZTQfqkw1iUyoMH72nw) | 4:37 |
+| 4 | [Craven](https://open.spotify.com/track/7hLXMjXwihu7BSzEaQsmGF) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Craven](https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd) | 3:43 |
+| 5 | [Dead End](https://open.spotify.com/track/1qYto5saFz03lgET0Kcb8W) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Dead End](https://open.spotify.com/album/07jg0qHyZftzBT2bClnwTs) | 3:35 |
+| 6 | [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 |
+| 7 | [Atlas](https://open.spotify.com/track/4ypvKxT9pegHR4Uys7OryK) | [OCEANS](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Atlas](https://open.spotify.com/album/25n2rNxra44lcq6ZB18GxX) | 3:55 |
+| 8 | [BULLET](https://open.spotify.com/track/32xIbI883oY1BB4vpJeNuY) | [Sorry X](https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT) | [BULLET](https://open.spotify.com/album/4rkTid1yKLdxofoIek8YFe) | 3:41 |
+| 9 | [Boo](https://open.spotify.com/track/0VO7MW5XwMoIDWQIaKcNS8) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Boo](https://open.spotify.com/album/4hiUCd5MTX6OPEKatkjYwB) | 4:42 |
+| 10 | [POINT OF VIEW](https://open.spotify.com/track/2o8mdDx0BNMoYXkhdq0Nkw) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [POINT OF VIEW](https://open.spotify.com/album/6gNEwTJweV7hIycJNDQXcT) | 4:07 |
 | 11 | [Like the Fourth Wall](https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3) | [BLACKSHAPE](https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH) | [Like the Fourth Wall](https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs) | 5:43 |
 | 12 | [BITE DOWN](https://open.spotify.com/track/3FS58QCiryR8nE0d8F5hhH) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [BITE DOWN](https://open.spotify.com/album/15KzBKCsWnQGYxauI5cpKr) | 2:05 |
 | 13 | [Death Walk](https://open.spotify.com/track/4hSE9RivslXM3ya3mAdNyJ) | [ExitWounds](https://open.spotify.com/artist/0EPHt0TLlWWLUl6SZNwuf0), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Death Walk](https://open.spotify.com/album/5ZlCj5TVWOkNY6JpYepm0U) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 49 | [Omen](https://open.spotify.com/track/3UwyWvyNMx8egzAQvtZHRI) | [Ode Of Disgrace](https://open.spotify.com/artist/6paNyiVYTiAXv5HhAZXax1) | [Omen](https://open.spotify.com/album/5NTHkZk3N8hZYwla0llgDO) | 4:17 |
 | 50 | [Tempest Horizon](https://open.spotify.com/track/3FLK620iuJsPzLMGrvPsjn) | [Hinayana](https://open.spotify.com/artist/7cZd90UiEtY6V76dtQHXqF) | [Tempest Horizon](https://open.spotify.com/album/4kcOdB8ZLECVjdU627IIMC) | 3:17 |
 
-Snapshot ID: `AAAAABWebEXdIqLUAtM01r1X6NJBTKGc`
+Snapshot ID: `AAAAAAS9MzHWOH3Q7s/HalcZUQ8014+4`

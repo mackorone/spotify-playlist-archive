@@ -1,12 +1,12 @@
 {
   "description": "This is Hundred Reasons. The essential tracks, all in one playlist.",
-  "num_followers": 789,
+  "num_followers": 791,
   "original_name": "This Is Hundred Reasons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAskoEXllKdon+mbxrTgXm4",
+  "snapshot_id": "aPV7gAAAAAArVZMEj8WOLsWyuXIESrg7",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 219160,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
+      "duration_ms": 228373,
+      "name": "Still Be Here",
+      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Still Be Here",
-      "url": "https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI"
+      "duration_ms": 219160,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/6q8I7grz7osEUAMRMkdBtV"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quick the Word Sharp the Action (New Version)",
-        "url": "https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 127213,
-      "name": "Pernavas Iela",
-      "url": "https://open.spotify.com/track/06dYJENMMeom4Iu3qAUALA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quick The Word Sharp The Action",
         "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
       },
@@ -503,22 +487,6 @@
       "duration_ms": 206066,
       "name": "Break The Glass",
       "url": "https://open.spotify.com/track/1MCsQjTwwzDPVLrOsAlp0b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quick The Word Sharp The Action",
-        "url": "https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Opera",
-      "url": "https://open.spotify.com/track/0hs0LwQwCxMLwjJbDYwMau"
     }
   ],
   "unique_name": "This Is Hundred Reasons",

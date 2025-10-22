@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 30403,
+  "num_followers": 30410,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADyiSkOiCqxOlXJILq6mv8C",
+  "snapshot_id": "aPV7gAAAAADT5v5w1kKxYigjGGHSnC70",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zona De Peligro",
-        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "Permaneces En M\u00ed",
-      "url": "https://open.spotify.com/track/4hBKlTsn1rW7DxvEwgriaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Montame",
         "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 204026,
       "name": "M\u00f3ntame",
       "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zona De Peligro",
+        "url": "https://open.spotify.com/album/5s60IiC6VGWT1Si9QfKWuL"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "Permaneces En M\u00ed",
+      "url": "https://open.spotify.com/track/4hBKlTsn1rW7DxvEwgriaQ"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Algun D\u00eda",
-      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Montame",
         "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 225346,
       "name": "Perd\u00f3name - Cumbia",
       "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Algun D\u00eda",
+      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 237826,
       "name": "Margarita",
       "url": "https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 170426,
-      "name": "Me Derrito (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste Recuerdo (En Vivo)",
-        "url": "https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 274320,
-      "name": "Triste Recuerdo - En Vivo",
-      "url": "https://open.spotify.com/track/549yunuC38OgTpTfYzZpsW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Te Lo Pido (En Vivo)",
         "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 287205,
       "name": "Y Te Lo Pido - En Vivo",
       "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 274320,
+      "name": "Triste Recuerdo - En Vivo",
+      "url": "https://open.spotify.com/track/47sQQ03vFruVyCPaEutNii"
     },
     {
       "added_at": null,

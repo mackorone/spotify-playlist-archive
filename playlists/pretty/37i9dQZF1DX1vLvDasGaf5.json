@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 9702,
+  "num_followers": 9711,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "DATE",
-        "url": "https://open.spotify.com/album/5ltGSWQwkdLmeLko4znnWG"
-      },
-      "artists": [
-        {
-          "name": "Yasuyuki Okamura",
-          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Super Girl",
-      "url": "https://open.spotify.com/track/5yMu18uQFNtEimQiPoUaSc"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u221e",
         "url": "https://open.spotify.com/album/4oVD5p4q6K6mD6I94iasoN"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 263426,
       "name": "\u3046\u3057\u308d\u3086\u3073\u3055\u3055\u308c\u7d44",
       "url": "https://open.spotify.com/track/3d6RE0vvmNiu2Eigwn7OxW"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "DATE",
+        "url": "https://open.spotify.com/album/5ltGSWQwkdLmeLko4znnWG"
+      },
+      "artists": [
+        {
+          "name": "Yasuyuki Okamura",
+          "url": "https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Super Girl",
+      "url": "https://open.spotify.com/track/5yMu18uQFNtEimQiPoUaSc"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u653e\u900140\u5468\u5e74\u8a18\u5ff5\u30c9\u30e9\u3048\u3082\u3093 \u3046\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u5c71\u306e\u3076\u4ee3 (\u30c9\u30e9\u3048\u3082\u3093)",
-          "url": "https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj"
-        },
-        {
-          "name": "\u3053\u304a\u308d\u304e'73",
-          "url": "https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
-      "url": "https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01\u97f3\u697d\u96c6",
         "url": "https://open.spotify.com/album/7o9sfg1C31MdFhv1QBpizb"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 268233,
       "name": "\u30c8\u30c3\u30d7\u3092\u306d\u3089\u3048\uff01 \uff5eFLY HIGH\uff5e",
       "url": "https://open.spotify.com/track/6AhRUa69AONqcxZ3Mt9J9h"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u653e\u900140\u5468\u5e74\u8a18\u5ff5\u30c9\u30e9\u3048\u3082\u3093 \u3046\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u5c71\u306e\u3076\u4ee3 (\u30c9\u30e9\u3048\u3082\u3093)",
+          "url": "https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj"
+        },
+        {
+          "name": "\u3053\u304a\u308d\u304e'73",
+          "url": "https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
+      "url": "https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226 \u30dc\u30fc\u30ab\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 ROBONATION.1",
-        "url": "https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz"
-      },
-      "artists": [
-        {
-          "name": "Ichirou Mizuki",
-          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "\u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\uff0dV\u306e\u30c6\u30fc\u30de (\u8d85\u96fb\u78c1\u30ed\u30dc \u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\u30fcV)",
-      "url": "https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u6226\u95d8\u30e1\u30ab \u30b6\u30d6\u30f3\u30b0\u30eb \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Vol.1",
         "url": "https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 224893,
       "name": "\u75be\u98a8\u30b6\u30d6\u30f3\u30b0\u30eb",
       "url": "https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226 \u30dc\u30fc\u30ab\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 ROBONATION.1",
+        "url": "https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz"
+      },
+      "artists": [
+        {
+          "name": "Ichirou Mizuki",
+          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "\u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\uff0dV\u306e\u30c6\u30fc\u30de (\u8d85\u96fb\u78c1\u30ed\u30dc \u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\u30fcV)",
+      "url": "https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c \uff0d\u5897\u88dc\u76e4\uff0d",
-        "url": "https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5"
-      },
-      "artists": [
-        {
-          "name": "Azumi Inoue",
-          "url": "https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed(\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed)",
-      "url": "https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u71b1\u70c8\uff01\u30a2\u30cb\u30bd\u30f3\u9b42 THE ARTIST SELECTION \u4e32\u7530\u30a2\u30ad\u30e9 SELFCOVER COLLECTION",
         "url": "https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 217546,
       "name": "\u30ad\u30f3\u8089\u30de\u30f3 Go Fight! (\u30ad\u30f3\u8089\u30de\u30f3)",
       "url": "https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c \uff0d\u5897\u88dc\u76e4\uff0d",
+        "url": "https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5"
+      },
+      "artists": [
+        {
+          "name": "Azumi Inoue",
+          "url": "https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed(\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed)",
+      "url": "https://open.spotify.com/track/2XvQDd7BYi2TFsmWncujXr"
     }
   ],
   "unique_name": "\u662d\u548c\u30a2\u30cb\u30e1",

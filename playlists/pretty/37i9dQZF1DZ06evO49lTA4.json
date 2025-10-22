@@ -1,12 +1,12 @@
 {
   "description": "This is Luke Combs. The essential tracks, all in one playlist.",
-  "num_followers": 899309,
+  "num_followers": 899836,
   "original_name": "This Is Luke Combs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAB2E64f7+gILpy1A/aayl4e",
+  "snapshot_id": "aPV7gAAAAAClXca/Gfp9d8cFp5lgMVkg",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Prequel",
+        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 165053,
+      "name": "My Kinda Saturday Night",
+      "url": "https://open.spotify.com/track/68BUz8H5H1mHb4o7VrJccb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What You See Is What You Get",
         "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 180906,
       "name": "1, 2 Many",
       "url": "https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Prequel",
-        "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 165053,
-      "name": "My Kinda Saturday Night",
-      "url": "https://open.spotify.com/track/68BUz8H5H1mHb4o7VrJccb"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way She Rides",
         "url": "https://open.spotify.com/album/4Nr8sEsN2h0xMbqJNsFbyJ"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 184746,
       "name": "I Know She Ain't Ready",
       "url": "https://open.spotify.com/track/0TQ9Hf5DwI9crGZSIlq445"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        },
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 223320,
-      "name": "Does To Me (feat. Eric Church)",
-      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FATHER FIGURE",
         "url": "https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 177760,
       "name": "WHY (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 223320,
+      "name": "Does To Me (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 225253,
-      "name": "Even Though I'm Leaving",
-      "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 225253,
+      "name": "Even Though I'm Leaving",
+      "url": "https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 165058,
       "name": "The Man He Sees in Me",
       "url": "https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 191986,
+      "name": "You Found Yours",
+      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Growin' Up and Gettin' Old",
-      "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fathers & Sons",
         "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 210721,
       "name": "In Case I Ain't Around",
       "url": "https://open.spotify.com/track/52lejmjP4o5bcZSAWKtXR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Growin' Up and Gettin' Old",
+      "url": "https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj"
     },
     {
       "added_at": null,
@@ -727,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can I Get an Outlaw",
-        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
       "artists": [
         {
@@ -736,25 +752,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Sheriff You Want To",
-      "url": "https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 191986,
-      "name": "You Found Yours",
-      "url": "https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI"
+      "duration_ms": 254173,
+      "name": "Doin' This",
+      "url": "https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+        "name": "Can I Get an Outlaw",
+        "url": "https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 254173,
-      "name": "Doin' This",
-      "url": "https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj"
+      "duration_ms": 221120,
+      "name": "Sheriff You Want To",
+      "url": "https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ"
     },
     {
       "added_at": null,
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond (feat. Luke Combs) [Live]",
-        "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
           "name": "Luke Combs",
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 246946,
-      "name": "Beyond (feat. Luke Combs) - Live",
-      "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
+      "duration_ms": 254746,
+      "name": "Outrunnin' Your Memory",
+      "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
     },
     {
       "added_at": null,
@@ -847,22 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+        "name": "Beyond (feat. Luke Combs) [Live]",
+        "url": "https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         },
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 254746,
-      "name": "Outrunnin' Your Memory",
-      "url": "https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu"
+      "duration_ms": 246946,
+      "name": "Beyond (feat. Luke Combs) - Live",
+      "url": "https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et"
     }
   ],
   "unique_name": "This Is Luke Combs",

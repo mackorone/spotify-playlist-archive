@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,881 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,890 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 50 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 |
 | 51 | [sexta de manhã](https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Desse Meu Mel](https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM) | 4:42 |
 | 52 | [Lambuza](https://open.spotify.com/track/78H4UYezZjmUwVYlgtihLh) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Lambuza](https://open.spotify.com/album/3lkdT7kXzvkSK92omtZnpk) | 2:52 |
-| 53 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
-| 54 | [Assome](https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Assome](https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c) | 2:59 |
+| 53 | [Assome](https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Assome](https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c) | 2:59 |
+| 54 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
 | 55 | [tô por você](https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 2:53 |
 | 56 | [Tempo Que Não Volta](https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8) | [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Tempo Que Não Volta](https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv) | 2:52 |
 | 57 | [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 59 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
 | 60 | [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 |
 | 61 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
-| 62 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
+| 62 | [Melanina](https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Melanina](https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK) | 2:00 |
 | 63 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
-| 64 | [Melanina](https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Melanina](https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK) | 2:00 |
+| 64 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
 | 65 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 66 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |
 | 67 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 |
 | 75 | [Caixa Postal](https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Caixa Postal](https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR) | 3:03 |
 
-Snapshot ID: `AAAAAL7DndbG2UVOZlFrKxnxajBOivbQ`
+Snapshot ID: `AAAAAHshPPpt7oYqHLaRG4K7U2ToaYOc`

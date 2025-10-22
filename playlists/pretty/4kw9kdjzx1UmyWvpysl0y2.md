@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,862 likes - 65 songs - 3 hr 23 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,861 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cultus](https://open.spotify.com/track/606HUTqRzUBZfaKbQE2A4n) | [Screamarts](https://open.spotify.com/artist/2WLKRiOp43XLwVhRdt46mH) | [Cultus](https://open.spotify.com/album/1ZzyEhGp8NFbLR9ZaCYfap) | 4:13 |
 | 2 | [Enemies](https://open.spotify.com/track/6E5k96BE2EID246cT5COTJ) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [OHKAY](https://open.spotify.com/artist/7jv5EBF4i46kYNwMPPZcQv) | [Enemies](https://open.spotify.com/album/7JPl3CszSPBzJL8OqC0HKU) | 3:45 |
-| 3 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
-| 4 | [Imprint](https://open.spotify.com/track/3L0h00fEoCLUU5bEJCezve) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:16 |
+| 3 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
+| 4 | [imprint](https://open.spotify.com/track/3L0h00fEoCLUU5bEJCezve) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:16 |
 | 5 | [Dino Killer \- Dodge & Fuski Remix](https://open.spotify.com/track/48BEoeZBILGunmflYqDFKG) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m) | [Stealing Fire \(Remixes\)](https://open.spotify.com/album/04OcnH4C6pWDqvT5fdtkKQ) | 3:02 |
 | 6 | [Something Beautiful](https://open.spotify.com/track/5gHAZ228Eemlq7icaCDHLH) | [Archaellum](https://open.spotify.com/artist/20USeJ3zyr7lnuWJMJqGUD) | [Silk Selections 05](https://open.spotify.com/album/7HG2xG1pVMdNaBekQU5U9v) | 2:55 |
 | 7 | [Curry Goat](https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Solesky](https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw) | [Curry Goat](https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV) | 2:19 |

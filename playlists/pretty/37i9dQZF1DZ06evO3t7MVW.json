@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91760,
+  "num_followers": 91776,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAsCZN6HnWmYh9Py4rNVOOI",
+  "snapshot_id": "aPV7gAAAAAAhspJ5c0XLqg0JSOy454ky",
   "tracks": [
     {
       "added_at": null,
@@ -443,30 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Like That (feat. Bradley Nowell)",
-        "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
+        "name": "Treasure (with Stick Figure)",
+        "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Jakobs Castle",
-          "url": "https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro"
-        },
-        {
-          "name": "Bradley Nowell",
-          "url": "https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG"
         }
       ],
-      "duration_ms": 227554,
-      "name": "Feel Like That (feat. Bradley Nowell)",
-      "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
+      "duration_ms": 202457,
+      "name": "Treasure (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
     },
     {
       "added_at": null,
@@ -491,22 +483,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Treasure (with Stick Figure)",
-        "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
+        "name": "Feel Like That (feat. Bradley Nowell)",
+        "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
       "artists": [
         {
-          "name": "Stay High",
-          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Jakobs Castle",
+          "url": "https://open.spotify.com/artist/0D4JnDxTBaTWJzH4BXU8Ro"
+        },
+        {
+          "name": "Bradley Nowell",
+          "url": "https://open.spotify.com/artist/2SN17aji6ZUYSjeWTgk8RG"
         }
       ],
-      "duration_ms": 202457,
-      "name": "Treasure (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
+      "duration_ms": 227554,
+      "name": "Feel Like That (feat. Bradley Nowell)",
+      "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 255986,
       "name": "Mind Block (with Eric Rachmany)",
       "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
     },
     {
       "added_at": null,

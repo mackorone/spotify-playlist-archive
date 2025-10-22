@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 41271,
+  "num_followers": 41705,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -456,13 +456,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
         "name": "Fall In Love (feat. Ayo Jay)",
         "url": "https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 205238,
       "name": "Fall In Love (feat. Ayo Jay)",
       "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -907,6 +907,42 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
+        "name": "Crazily",
+        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Crazily",
+      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 184135,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
         "name": "Phenomena",
         "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
       },
@@ -939,26 +975,6 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
-        "name": "Crazily",
-        "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
-      },
-      "artists": [
-        {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Crazily",
-      "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -999,22 +1015,6 @@
       "duration_ms": 232500,
       "name": "ADDICTED (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 184135,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "Mukutu",
-        "url": "https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z"
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
       "artists": [
         {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
         }
       ],
-      "duration_ms": 155164,
-      "name": "Mukutu",
-      "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
+      "duration_ms": 212107,
+      "name": "ecstasy",
+      "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+        "name": "Mukutu",
+        "url": "https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
         }
       ],
-      "duration_ms": 212107,
-      "name": "ecstasy",
-      "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+      "duration_ms": 155164,
+      "name": "Mukutu",
+      "url": "https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-10-17 00:01:30",
       "album": {
-        "name": "MERCY PLEASE",
-        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "MERCY PLEASE",
-      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
         "name": "FINAL",
         "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
       },
@@ -1387,6 +1371,38 @@
       "duration_ms": 215103,
       "name": "FINAL",
       "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "MERCY PLEASE",
+        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "MERCY PLEASE",
+      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
+    },
+    {
+      "added_at": "2025-10-17 00:01:30",
+      "album": {
+        "name": "Before We Became Strangers",
+        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Maj\u1eb9kaj\u00e1",
+      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
     },
     {
       "added_at": "2025-10-17 00:01:30",
@@ -1423,22 +1439,6 @@
       "duration_ms": 148467,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
-    },
-    {
-      "added_at": "2025-10-17 00:01:30",
-      "album": {
-        "name": "Before We Became Strangers",
-        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Maj\u1eb9kaj\u00e1",
-      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
     },
     {
       "added_at": "2025-10-17 00:01:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,724 songs - 19 day 23 hr 1 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,726 songs - 19 day 23 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7732,5 +7732,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7722 | [In A Sentimental Mood](https://open.spotify.com/track/51BfVxH0QfxTpFgZMMbhwK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/7qsnx3thQiQabvDkHfqI1m) | 4:18 |
 | 7723 | [My One And Only Love](https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [The Best Of Chick Corea](https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus) | 3:36 |
 | 7724 | [Strange Meadow Lark](https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 7:22 |
+| 7725 | [no, no](https://open.spotify.com/track/3cL7IJSXz0tieWn9CSAunx) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [weight of the world](https://open.spotify.com/album/5SAhBlk4YQyyEFzoDrvRfP) | 1:50 |
+| 7726 | [Chill Bill \(feat\. J\. Davi$ & Spooks\)](https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [J\. Davi$](https://open.spotify.com/artist/1rs3y69kDwkIdGJcOYngQt), [J Spooks](https://open.spotify.com/artist/36Tn5h23ysORlLKc42UXfe) | [Chill Bill \(feat\. J\. Davi$ & Spooks\)](https://open.spotify.com/album/5qBu7Ab6alstSCAzxTJMb1) | 2:57 |
 
-Snapshot ID: `AAAJLtOhZy1XoHAmB+rco91oDjPKXP7D`
+Snapshot ID: `AAAJMEKbG/lKuIYiHDUU3ejTpuu67LVp`

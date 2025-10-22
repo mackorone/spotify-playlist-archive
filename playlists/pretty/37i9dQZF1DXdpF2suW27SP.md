@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Phoenix Rdc, Wet Bed Gang, Nenny entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,667 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,679 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 3 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 |
 | 4 | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/3Zf4sVsmsFMSMiq6EcLuCz) | [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/7ykDqjbu0EIVs6RVJ7bUzK) | 4:08 |
 | 5 | [Aplausos](https://open.spotify.com/track/6aR1vmIXugRUPPusdZEfaj) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Aplausos](https://open.spotify.com/album/6o4tdPrgwYVsaYdPPbEbHu) | 3:58 |
-| 6 | [Sentimento Acústico \#1: Cumplicidade](https://open.spotify.com/track/1Y9E8LL4yt3BnoGB4DDAr8) | [Sentimento Acústico](https://open.spotify.com/artist/49J9ounFr1VdfpJ6crpaj8), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4), [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Sentimento Acústico \#1: Cumplicidade](https://open.spotify.com/album/2dn9RIxCx606AObKgiDweu) | 5:18 |
+| 6 | [Sentimento Acústico \#1: Cumplicidade](https://open.spotify.com/track/1Y9E8LL4yt3BnoGB4DDAr8) | [Sentimento Acústico](https://open.spotify.com/artist/49J9ounFr1VdfpJ6crpaj8), [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O), [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sentimento Acústico \#1: Cumplicidade](https://open.spotify.com/album/2dn9RIxCx606AObKgiDweu) | 5:18 |
 | 7 | [Prova Viva](https://open.spotify.com/track/3buhUU1aOrH7IVZEcqpkZq) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Matay](https://open.spotify.com/artist/0mQ2KL6r4mA1roPZRD7iQJ) | [Prova Viva](https://open.spotify.com/album/0Gl7AFk09weLECECiYx24s) | 4:03 |
 | 8 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
 | 9 | [Álcool & Prazer](https://open.spotify.com/track/2qBcNRJBCID8n68NZWbh1S) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Álcool & Prazer](https://open.spotify.com/album/0XeovriAuYVi3f2yyHGv70) | 4:23 |

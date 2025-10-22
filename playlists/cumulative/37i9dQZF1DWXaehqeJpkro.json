@@ -1420,6 +1420,24 @@
     {
       "album": {
         "name": "ABOUT ME",
+        "url": "https://open.spotify.com/album/5OXuZ59S78nwcYNTbpViWH"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231776,
+      "name": "Fall in Fall",
+      "url": "https://open.spotify.com/track/4gLxuogLnPIMytvG3vw3Bq"
+    },
+    {
+      "album": {
+        "name": "ABOUT ME",
         "url": "https://open.spotify.com/album/6sxOMgS63kM7nDYkUYkkuZ"
       },
       "artists": [
@@ -4422,6 +4440,24 @@
       "duration_ms": 307118,
       "name": "The Way To Say Goodbye",
       "url": "https://open.spotify.com/track/70a9hCn5BMXNDROcckHmAO"
+    },
+    {
+      "album": {
+        "name": "The Way To Say Goodbye",
+        "url": "https://open.spotify.com/album/01XwXakosDXoyR4FuTlkm3"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307119,
+      "name": "The Way To Say Goodbye",
+      "url": "https://open.spotify.com/track/1xlCcSVgFufo88sfkKarhk"
     },
     {
       "album": {

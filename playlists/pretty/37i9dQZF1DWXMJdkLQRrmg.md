@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,309 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,373 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 41 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
 | 42 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 | 43 | [Deep End \- Stripped](https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Deep End \(Stripped\)](https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA) | 3:30 |
-| 44 | [Waking up \(Acoustic\)](https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Acoustic](https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS) | 3:45 |
-| 45 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
+| 44 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
+| 45 | [Waking up \(Acoustic\)](https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Acoustic](https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS) | 3:45 |
 | 46 | [Supernatural \- Acoustic](https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM) | 3:06 |
 | 47 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
 | 48 | [The Funeral \- Acoustic](https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer) | 3:33 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 66 | [Fix Me \- Alternate Take](https://open.spotify.com/track/5ejkJ9w6g7KRdy1zE9SxfD) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Deconstructed](https://open.spotify.com/album/4Vv97RwuMvSulvOSbuJlT7) | 4:08 |
 | 67 | [Used To Like \- Acoustic](https://open.spotify.com/track/6dhTEmRUOm6F6ZOLTKeL4X) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Used To Like \(Acoustic\)](https://open.spotify.com/album/6Y9fdWfA7ZjlhgPeXwoAgl) | 4:25 |
 | 68 | [The Steeple \- Acoustic](https://open.spotify.com/track/7FPvauwxWZbiB2Sako8ApN) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple \(Acoustic\)](https://open.spotify.com/album/6xxy6GXIGNVFsQ2Zu7CXqa) | 3:27 |
-| 69 | [Raised By Wolves \- Acoustic](https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Raised By Wolves \(Acoustic\)](https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4) | 3:12 |
-| 70 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
+| 69 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
+| 70 | [Raised By Wolves \- Acoustic](https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Raised By Wolves \(Acoustic\)](https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4) | 3:12 |
 | 71 | [Something Loud \(Acoustic Version\)](https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud \(Acoustic Version\)](https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v) | 3:20 |
 | 72 | [Plastic Heart \- Acoustic](https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart \(Acoustic\)](https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF) | 2:55 |
 | 73 | [The Liars Club \- Acoustic](https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club \(Acoustic\)](https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG) | 4:12 |

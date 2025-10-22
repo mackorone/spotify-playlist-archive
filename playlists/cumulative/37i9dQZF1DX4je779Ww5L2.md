@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-80 songs - 5 hr 0 min
+82 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,9 @@
 | [Lonely Heart \- Acoustic Version](https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Lonely Heart \(Acoustic Version\)](https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq) | 4:09 | 2025-08-08 |  |
 | [Lucy](https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [Lucy](https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y) | 3:45 | 2025-08-08 |  |
 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 | 2025-08-08 |  |
+| [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-10-21 |  |
 | [Moonlit Parade](https://open.spotify.com/track/1NL10e7NLz2eODtCieADly) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Moonlit Parade](https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat) | 3:05 | 2025-08-08 |  |
+| [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 | 2025-10-21 |  |
 | [More Than Enough](https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77) | [Lisette](https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO) | [More Than Enough](https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34) | 3:16 | 2025-09-25 |  |
 | [Mother](https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Mother](https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy) | 3:14 | 2025-08-08 |  |
 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 | 2025-08-08 |  |
@@ -54,7 +56,7 @@
 | [no difference \(ft\. LUWTEN\)](https://open.spotify.com/track/3Pve3DY4yQ2CxXdaESmSZ2) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S), [LUWTEN](https://open.spotify.com/artist/4cm8GrJ4fx7P2h9shNhUia) | [no difference \(ft\. LUWTEN\)](https://open.spotify.com/album/7jJs8iE9q1ENo3fCmYdjq1) | 4:06 | 2025-08-08 |  |
 | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/track/0TV1pKSGkRLO8pmbmx9E2k) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/album/5Os6AY420xj5jC0Y68YNhl) | 3:11 | 2025-08-08 |  |
 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 | 2025-08-08 |  |
-| [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-08-08 |  |
+| [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-08-08 | 2025-10-22 |
 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 | 2025-08-08 |  |
 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 | 2025-08-08 |  |
 | [Planets](https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:39 | 2025-09-26 |  |

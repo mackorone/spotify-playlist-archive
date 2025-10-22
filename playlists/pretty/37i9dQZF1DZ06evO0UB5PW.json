@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 61771,
+  "num_followers": 61783,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAvO3RZcMN9zPgUK2Fr4UgN",
+  "snapshot_id": "aPV7gAAAAADAeIVjK/aDyaTIo6Vj48Od",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crack the Skye",
+        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Divinations",
+      "url": "https://open.spotify.com/track/6HZ8zBamcVKjO46vsLj9vh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floods of Triton",
         "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 269583,
       "name": "Floods of Triton",
       "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crack the Skye",
-        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Divinations",
-      "url": "https://open.spotify.com/track/6HZ8zBamcVKjO46vsLj9vh"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 204866,
-      "name": "Crystal Skull",
-      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
+      "duration_ms": 336293,
+      "name": "Sleeping Giant",
+      "url": "https://open.spotify.com/track/1Ph2EtzV2wW7I4AC2YjoJn"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 336293,
-      "name": "Sleeping Giant",
-      "url": "https://open.spotify.com/track/1Ph2EtzV2wW7I4AC2YjoJn"
+      "duration_ms": 204866,
+      "name": "Crystal Skull",
+      "url": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
     },
     {
       "added_at": null,

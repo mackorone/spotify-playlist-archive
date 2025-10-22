@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en Volkspop\. Cover: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR\-artiest</a>\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,591 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,600 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
 | 2 | [Houden Van Haten](https://open.spotify.com/track/1nVXy0NnlDUPFIeEGuoe9S) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Houden Van Haten](https://open.spotify.com/album/5pTIrOVqiNEe0pi9pV333j) | 3:12 |
-| 3 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 |
-| 4 | [Poessie & Kater](https://open.spotify.com/track/5sHYMeZ0ULUDwoOlPaOO4L) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Poessie & Kater](https://open.spotify.com/album/6v4yau0WHOhynrNX7Hkboe) | 2:36 |
-| 5 | [Koekoek](https://open.spotify.com/track/3oG4L8ahaZKHnSZZbAEIjT) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Koekoek](https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0) | 2:29 |
-| 6 | [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 |
-| 7 | [Allerliefste](https://open.spotify.com/track/6uk6kIWfGlDINFwJddRHuv) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Allerliefste](https://open.spotify.com/album/6lRxbo2HD5Fu3uiz5Tc4dI) | 2:38 |
+| 3 | [Allerliefste](https://open.spotify.com/track/6uk6kIWfGlDINFwJddRHuv) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Allerliefste](https://open.spotify.com/album/6lRxbo2HD5Fu3uiz5Tc4dI) | 2:38 |
+| 4 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 |
+| 5 | [Poessie & Kater](https://open.spotify.com/track/5sHYMeZ0ULUDwoOlPaOO4L) | [Fons Veurink](https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0) | [Poessie & Kater](https://open.spotify.com/album/6v4yau0WHOhynrNX7Hkboe) | 2:36 |
+| 6 | [Koekoek](https://open.spotify.com/track/3oG4L8ahaZKHnSZZbAEIjT) | [John De Bever](https://open.spotify.com/artist/2qAPnua41tsOE6o2L2tl5p), [Wilfred Genee](https://open.spotify.com/artist/5oh8O9m6Cc8zFSq6udk6Hs) | [Koekoek](https://open.spotify.com/album/4jesaqifjQmG1diKzPiTZ0) | 2:29 |
+| 7 | [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 |
 | 8 | [Niemand hoeft te weten](https://open.spotify.com/track/2en1p3o2X5F6svzYt8JYE5) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Niemand hoeft te weten](https://open.spotify.com/album/5igcKSyFajYfNSwFkJCUAC) | 2:47 |
 | 9 | [Wat is dan liefde](https://open.spotify.com/track/15BYJbkRtN87Ze8YwWP6Kq) | [Otto Lagerfett](https://open.spotify.com/artist/6qKfBpLaksGRY7IAZaDldG), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Wat is dan liefde](https://open.spotify.com/album/6Au6PqEXL1ZZoWCI9rT6cW) | 3:16 |
 | 10 | [Samsam](https://open.spotify.com/track/0YeCJMAb2OkXPgikJnfDsL) | [Sam Vanvelthoven](https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64) | [Samsam](https://open.spotify.com/album/6KjjLhiWzrL9EyWU5U5iNc) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Alleen Van Jou Zijn](https://open.spotify.com/track/6w2m2ZXCdeVSOsPI3nLzkF) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Alleen Van Jou Zijn](https://open.spotify.com/album/30Kg91OPsyTwKnucYXzrCU) | 2:58 |
 | 80 | [Kijk Om Je Heen](https://open.spotify.com/track/3U5KWLt1lWCIQIlpoxEGiU) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Kijk Om Je Heen](https://open.spotify.com/album/3SKNynZrP8QFY4jL6NJELH) | 3:36 |
 
-Snapshot ID: `AAAAAIYlhO1rt8DiUUMd/3mhSXyWza4W`
+Snapshot ID: `AAAAAMGZ0cvXGkNTfK31KYrekaVi3UwO`

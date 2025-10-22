@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: CVLTE
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: BAND\-MAID
 
-434 songs - 1 day 0 hr 59 min
+436 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Danger Danger](https://open.spotify.com/track/72fowNtwZtSkYFDEYMDjQo) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb), [icy](https://open.spotify.com/artist/3D2S3f1AxDvgQfrXYJRlc3) | [Danger Danger](https://open.spotify.com/album/4sP5O2OY79bnsZcWW1t4ri) | 3:41 | 2024-01-09 |  |
 | [Dansharhythm](https://open.spotify.com/track/0bnfOJO4mKt6aUbkbNKZmM) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Dansharhythm](https://open.spotify.com/album/4xTFljDOdjSAGiDDU7uggg) | 3:09 | 2024-12-24 | 2025-03-12 |
 | [Dark Horse](https://open.spotify.com/track/5tdi3BqFzpYVAaXi2qwC2Y) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Dark Horse](https://open.spotify.com/album/2w047BXSeBWZEoVblObPPs) | 3:45 | 2023-07-20 | 2024-07-24 |
-| [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-26 |  |
+| [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 | 2024-11-26 | 2025-10-22 |
 | [Dear Life](https://open.spotify.com/track/6gsr8v2ZGPMzMegnJ05byK) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/5q53vO8tjeMQ1hICEqjvDS) | 3:43 | 2023-08-15 | 2023-10-04 |
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-16 |  |
 | [DESTINATION UNKNOWN](https://open.spotify.com/track/1SBs9FBcvzM9KclTZn5U8U) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FRESH / DESTINATION UNKNOWN](https://open.spotify.com/album/0tJQNc0A6aKYqvo6P8RCZE) | 2:49 | 2023-07-20 | 2023-10-04 |
@@ -116,7 +116,7 @@
 | [foundyou](https://open.spotify.com/track/47NOsnCY8X4QInamjZaofz) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [foundyou](https://open.spotify.com/album/284qy07EJkZkOE8lf35rgz) | 4:51 | 2025-02-04 | 2025-03-12 |
 | [FREEDOM](https://open.spotify.com/track/5Ar1pSMJ6wG8zhWMeuYlJy) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [SLEEPLESS](https://open.spotify.com/album/66VUhMXoi6ED9kfbJyFMMB) | 3:14 | 2025-04-03 | 2025-05-21 |
 | [from me to u \(feat\. Poppy\)](https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [from me to u \(feat\. Poppy\)](https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn) | 3:24 | 2025-04-15 |  |
-| [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2023-07-20 |  |
+| [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2023-07-20 | 2025-10-22 |
 | [Futurism](https://open.spotify.com/track/0JsP5I1JItAZYlOfCXnaax) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Futurism](https://open.spotify.com/album/6xj3q3QLSFJkqaBX3B9CYM) | 3:26 | 2023-07-20 | 2023-10-11 |
 | [FXXKFXXKFXXK](https://open.spotify.com/track/5T2UxOyuVvII4WonBt1XW0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Beware](https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5) | 2:25 | 2023-07-20 | 2023-07-28 |
 | [Galaxy Of Black Hole](https://open.spotify.com/track/5Ij7OdS2JBKZ1onV9wnJcN) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [Season Ⅱ](https://open.spotify.com/album/13FBVpnVRYK1GR1x4ecEAY) | 4:33 | 2025-07-01 | 2025-08-06 |
@@ -183,6 +183,7 @@
 | [Light my fire](https://open.spotify.com/track/5UqYxHu2f1fumEZdYZ8el1) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode / Octave](https://open.spotify.com/album/05bEOygcDYO7vClLouhuuQ) | 4:09 | 2024-06-03 | 2024-07-10 |
 | [Listen](https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Listen](https://open.spotify.com/album/5duMvcqwktn0TEvcoRkDJm) | 4:10 | 2023-07-20 | 2023-08-02 |
 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 | 2023-07-20 | 2024-12-16 |
+| [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [](https://open.spotify.com/album/null) | 4:08 | 2025-10-21 |  |
 | [LOOPLINE](https://open.spotify.com/track/4btdnpbFCZGRjfdnFMEzEo) | [TIGER&DRAGON](https://open.spotify.com/artist/75XpMJGYvVgIBTM8bJk5C1) | [LOOPLINE](https://open.spotify.com/album/2JW1byxbmL4SHPOIrpvY3M) | 3:04 | 2023-10-24 | 2023-11-01 |
 | [Love at First Sight](https://open.spotify.com/track/3eXeHEeoFn0Fc9BkHuvQOS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dance & Scream](https://open.spotify.com/album/16MNF4dTAOiVhgVtlFM1PP) | 4:12 | 2023-12-26 | 2024-04-19 |
 | [Love at First Sight](https://open.spotify.com/track/6NLHGKCYCnXt7pU6VQSrAf) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dance & Scream](https://open.spotify.com/album/3FOmxufq21hJt1qWq0MABi) | 4:12 | 2023-08-24 | 2023-12-08 |
@@ -336,6 +337,7 @@
 | [Touchdown the Killer](https://open.spotify.com/track/0pxS0pJKLrPSVo9ZgcdWMU) | [RED ORCA](https://open.spotify.com/artist/1GqbNKmjVqs5j55FCOPR9t) | [beyond the darkn \(Es\) s](https://open.spotify.com/album/6b6aW52OviOUCqISTnjfGk) | 4:11 | 2023-07-20 | 2023-09-27 |
 | [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-07-20 | 2023-11-22 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-10-18 |
+| [Track 1](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-21 |  |
 | [TRAINWRECK](https://open.spotify.com/track/6M9JP2dPz86JPyXeSIyOoh) | [Tomoya on the Big Moon](https://open.spotify.com/artist/3irvo30qLgiAyKyHGBAFBS), [vinny from Falling Asleep](https://open.spotify.com/artist/2qpkeVa1yPozQVjsQyiIv0) | [TRAINWRECK \(feat\. vinny from Falling Asleep\)](https://open.spotify.com/album/6oyVKEbKfCB2A6wfowachp) | 3:36 | 2024-02-06 | 2024-02-21 |
 | [Tropical Therapy](https://open.spotify.com/track/3gap4AuGFSfeR0oOSPTNsk) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX \(International Version\)](https://open.spotify.com/album/3MAE3S3GzzErgUKqLq2UKr) | 3:28 | 2025-02-25 |  |
 | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF) | 3:53 | 2024-07-30 |  |

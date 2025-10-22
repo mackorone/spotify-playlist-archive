@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADwBbsdwdIIGO/wI6IrcF7c",
+  "snapshot_id": "aPV7gAAAAACSTN78h92qG0hqP+5fEX2q",
   "tracks": [
     {
       "added_at": null,
@@ -450,11 +450,19 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         }
       ],
-      "duration_ms": 199196,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
+      "duration_ms": 212121,
+      "name": "One and Only You (Reprise)",
+      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
     },
     {
       "added_at": null,
@@ -518,19 +526,11 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
-        {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         }
       ],
-      "duration_ms": 212121,
-      "name": "One and Only You (Reprise)",
-      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
+      "duration_ms": 199196,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
     },
     {
       "added_at": null,

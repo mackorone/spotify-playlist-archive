@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-845 songs - 1 day 16 hr 55 min
+846 songs - 1 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Branches of Air](https://open.spotify.com/track/5H2ObgLV0efeX7GPqVobHZ) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Branches of Air](https://open.spotify.com/album/5JW1SgUY9iz0S2EIDlC2kN) | 2:16 | 2025-09-23 |  |
 | [Breakthrough](https://open.spotify.com/track/1JF7MGHMuarWty6Yjbyfhr) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Breakthrough](https://open.spotify.com/album/3s6qRbBjaaX7hUVJ0Wnpay) | 2:41 | 2024-05-04 | 2024-07-12 |
 | [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2023-03-23 | 2023-07-29 |
+| [Breath Trough](https://open.spotify.com/track/3VvSsZ9Z8EYjqkgQAF2OAH) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Breath Trough](https://open.spotify.com/album/3ia8HkaYrjVPIhhuFW6akT) | 3:01 | 2025-10-08 |  |
 | [Breathe into the Still](https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX) | [Rnwy Lites](https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0) | [Breathe into the Still](https://open.spotify.com/album/7ocnlYwMZYzEGm1oGTeWj6) | 3:12 | 2023-03-23 | 2023-12-02 |
 | [Bridge](https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Bridge](https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h) | 2:55 | 2024-08-16 | 2025-02-18 |
 | [Bright, Brighter](https://open.spotify.com/track/7pJZY6LRXoY8UmJNOy5J2Y) | [Sonorous Drone](https://open.spotify.com/artist/2eHQj6ufTBhAxqRRqMJIZx) | [Bright, Brighter](https://open.spotify.com/album/1yXODdUcnSWw4WSyHS1xU1) | 2:45 | 2025-06-17 |  |
@@ -763,7 +764,7 @@
 | [Temporal Drowsing](https://open.spotify.com/track/1L2NrXYDrr1E2wfTFdqbee) | [Whispering Dunes](https://open.spotify.com/artist/5v1HNa0v5ZP8ME4E8rxhGN) | [Temporal Drowsing](https://open.spotify.com/album/5PuEvkGd3taUYcyoYmI0As) | 3:17 | 2025-06-25 |  |
 | [Terra Nova](https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Terra Nova](https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX) | 2:44 | 2024-03-06 | 2025-02-13 |
 | [Textures](https://open.spotify.com/track/5Z9FEOYBnrYPThpIuvgi5P) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Textures](https://open.spotify.com/album/5KJVBVLLzcsPVmUAufJZaK) | 2:20 | 2025-07-01 |  |
-| [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 | 2025-02-14 |  |
+| [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 | 2025-02-14 | 2025-10-22 |
 | [The Arco](https://open.spotify.com/track/1Gv5jmYpcXBAKhiCaDjHNW) | [Quadrant Beta](https://open.spotify.com/artist/7c1VTKyjBDzeUERgDiz46f) | [The Arco](https://open.spotify.com/album/5JE4Xl3HU0o5Zgr1iurkdJ) | 3:23 | 2023-03-23 | 2024-02-09 |
 | [The Free Air](https://open.spotify.com/track/4Bi9PXnI1ZDErQlgDgT4y9) | [Soliaga](https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8) | [The Free Air](https://open.spotify.com/album/2xxUugRqE6aPAwjJsXzmgW) | 3:22 | 2024-02-08 | 2024-03-07 |
 | [The Frost Line](https://open.spotify.com/track/64JVF5lbu1ntooT77veOgN) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [The Frost Line](https://open.spotify.com/album/342mUFxbqazehOlAa9lOH1) | 3:14 | 2025-10-08 |  |

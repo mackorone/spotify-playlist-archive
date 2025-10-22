@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: J Trix
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,704 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,715 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
+| 1 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
 | 2 | [Nayak](https://open.spotify.com/track/3EEaz6HCdcqqTZ1SRcf2jV) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Nayak](https://open.spotify.com/album/4F4kcU5hyaZJvzluQ6Z69L) | 1:41 |
 | 3 | [Bore Bore](https://open.spotify.com/track/5DIGzjFnLagpHc50MymHOf) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Bore Bore](https://open.spotify.com/album/6orJWkuHLzp7pGsGmmoB4V) | 2:56 |
 | 4 | [Mera Naam Hai](https://open.spotify.com/track/5rlgt2kH4IaWZLMED9a1Jt) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mera Naam Hai](https://open.spotify.com/album/4qyzV1ooqutYWLSMRpgtSS) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 
 > Allerbeste songs van de 70's! Cover: The Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,323 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,326 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkk7Hqpo679.md) - [plain]
 | 67 | [House For Sale](https://open.spotify.com/track/4kXbcScK3ScRFrZVlBytnm) | [Lucifer](https://open.spotify.com/artist/6aCetzCuwpvRHy5Rv7hmt9) | [As We Are](https://open.spotify.com/album/5Oj4IehidgqBj5K0YFNI0f) | 4:40 |
 | 68 | [Radar Love \- Original Single Edit 1973](https://open.spotify.com/track/1Wmuc11xACBpOpni7ECC45) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Radar Love](https://open.spotify.com/album/4iYSIgIX4pPrVMQzyeJ7Fb) | 3:43 |
 | 69 | [Ding\-A\-Dong](https://open.spotify.com/track/3ML1JVicjXbdsyYrPdfr5E) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [The Best Of Teach In](https://open.spotify.com/album/3psQqogsEKCmcf8OSSnoZV) | 2:29 |
-| 70 | [Never Be Clever](https://open.spotify.com/track/0KLLN24yYlb7fsKvXjz3GI) | [Herman Brood & His Wild Romance](https://open.spotify.com/artist/25uGmqV7NJt81bSYlEMKB0) | [My Way \- The Hits](https://open.spotify.com/album/17byQ9D5BJbBWK6VT6BgGD) | 3:02 |
-| 71 | [Midnight Train to Georgia \- Short Version](https://open.spotify.com/track/2y9lqa7QhwJ7KhHUUdkTUF) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 3:18 |
+| 70 | [Midnight Train to Georgia \- Short Version](https://open.spotify.com/track/2y9lqa7QhwJ7KhHUUdkTUF) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 3:18 |
+| 71 | [Never Be Clever](https://open.spotify.com/track/0KLLN24yYlb7fsKvXjz3GI) | [Herman Brood & His Wild Romance](https://open.spotify.com/artist/25uGmqV7NJt81bSYlEMKB0) | [My Way \- The Hits](https://open.spotify.com/album/17byQ9D5BJbBWK6VT6BgGD) | 3:02 |
 | 72 | [Sing For The Day](https://open.spotify.com/track/0SG5YrgInjzKOBhKFpGygu) | [George Baker](https://open.spotify.com/artist/1nWVAz0ZMSKzLVB5oF23Vk) | [Sing For The Day \(Remastered\)](https://open.spotify.com/album/5zAQQh5Pi5jBvDOOGJHXJP) | 4:23 |
 | 73 | [Storm And Thunder](https://open.spotify.com/track/7uzbAYvAnH49ld7ZH96jo2) | [Earth & Fire](https://open.spotify.com/artist/0lGw8zeruSqMHSW11Lkcqo) | [Song Of The Marching Children](https://open.spotify.com/album/02TCJof1N14NB16zBOk6ds) | 6:25 |
 | 74 | [Back Home](https://open.spotify.com/track/6lOyyZd5gxUObdq0h0ps5E) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Earring Biggest Hits](https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm) | 3:51 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3E7G9DQhR8ftQDt18ieMVZ\">Leyla El Abiri</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:03mwxB2gQpaYZNRm5nNjIU\">Refo</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 167027,
       "name": "A CAZZOTTI",
       "url": "https://open.spotify.com/track/4AEaIOv3lNrrS1PEWaLBaW"
@@ -1342,6 +1342,24 @@
       "duration_ms": 124000,
       "name": "Acne (apnea)",
       "url": "https://open.spotify.com/track/0ptiXSFzFDGqD9IkMUzdms"
+    },
+    {
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "album": {
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 149977,
       "name": "canibeyourfavorite",
       "url": "https://open.spotify.com/track/32JEdrheUfAVZ8noyF4g5M"
@@ -5647,6 +5665,24 @@
     },
     {
       "album": {
+        "name": "casa nostra",
+        "url": "https://open.spotify.com/album/1bwnI5Xx4kiG1vrSchI7Rk"
+      },
+      "artists": [
+        {
+          "name": "Henna",
+          "url": "https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141467,
+      "name": "casa nostra",
+      "url": "https://open.spotify.com/track/6RJBjN0wwVP2A30rnYMi7k"
+    },
+    {
+      "album": {
         "name": "Casper",
         "url": "https://open.spotify.com/album/0AiBx4BGT1TsaOWYhwzKtj"
       },
@@ -5698,6 +5734,24 @@
       "duration_ms": 191612,
       "name": "Catania",
       "url": "https://open.spotify.com/track/6qKFECzVLpAtAkKEr4rR9V"
+    },
+    {
+      "album": {
+        "name": "Catch me",
+        "url": "https://open.spotify.com/album/4UgjWybZjZEioWrCusJtB8"
+      },
+      "artists": [
+        {
+          "name": "Vanegas",
+          "url": "https://open.spotify.com/artist/5PbGXiwDFSQSMmzQ3pP5Jj"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Catch me",
+      "url": "https://open.spotify.com/track/5MCPBDsufZYOcAe1ylBhd6"
     },
     {
       "album": {
@@ -8676,7 +8730,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 160740,
       "name": "Did It Go Too Far?",
       "url": "https://open.spotify.com/track/0FkzUsGGBjglFHBXuFH38m"
@@ -8698,6 +8752,24 @@
       "duration_ms": 164510,
       "name": "Diego Rivera",
       "url": "https://open.spotify.com/track/1WfF0MWET1AGOZm0TgJ8Un"
+    },
+    {
+      "album": {
+        "name": "DIENTES",
+        "url": "https://open.spotify.com/album/4kOJMB8xMLDScVwLVYFaYK"
+      },
+      "artists": [
+        {
+          "name": "Muriel",
+          "url": "https://open.spotify.com/artist/1H4RtXeHusPL9XHlsiQHuf"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "DIENTES",
+      "url": "https://open.spotify.com/track/1Ln2PNbEzhFzQ1kvsN8ES1"
     },
     {
       "album": {
@@ -9118,7 +9190,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 166870,
       "name": "dolce mood",
       "url": "https://open.spotify.com/track/4QYAwv8rNP9X0z8uetSUqh"
@@ -11856,7 +11928,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 130370,
       "name": "Fotoricordo",
       "url": "https://open.spotify.com/track/5PBtUVHxib62pclrIe66cx"
@@ -12716,7 +12788,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 166153,
       "name": "Gioielli Neri",
       "url": "https://open.spotify.com/track/0gGjsjXrANoFvNSrPpXDVm"
@@ -12868,7 +12940,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 217734,
       "name": "giulia",
       "url": "https://open.spotify.com/track/0t1B56EzLni93nHIk5qTiq"
@@ -13104,6 +13176,24 @@
       "duration_ms": 360000,
       "name": "Gomma",
       "url": "https://open.spotify.com/track/5yMdGPcrZZ9vd6xp5DJjP9"
+    },
+    {
+      "album": {
+        "name": "Goodbye Utopia",
+        "url": "https://open.spotify.com/album/1AfYjUHRD8AcIQYBLajrXa"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222750,
+      "name": "Goodbye Utopia",
+      "url": "https://open.spotify.com/track/4ShHg8ydhhK2d3xcsnvDLf"
     },
     {
       "album": {
@@ -15008,6 +15098,24 @@
       "duration_ms": 151333,
       "name": "Indaco",
       "url": "https://open.spotify.com/track/1vH4YLkf5C3gK7CiVyhKOs"
+    },
+    {
+      "album": {
+        "name": "Indifese",
+        "url": "https://open.spotify.com/album/7rbypXzVnyNPnMJcdiqzmH"
+      },
+      "artists": [
+        {
+          "name": "Suppain",
+          "url": "https://open.spotify.com/artist/1heDhdwclEV8m5diiX50hI"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200541,
+      "name": "Indifese",
+      "url": "https://open.spotify.com/track/2ph7MXYKMebIfeTtOHjXSV"
     },
     {
       "album": {
@@ -18015,6 +18123,24 @@
     },
     {
       "album": {
+        "name": "l\u00e0cero-cont\u00f9sa",
+        "url": "https://open.spotify.com/album/6WTWNonq8bl4gvDLyF1He9"
+      },
+      "artists": [
+        {
+          "name": "dianalunae",
+          "url": "https://open.spotify.com/artist/0k2xrARG83uNmdNteXCSVH"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "l\u00e0cero-cont\u00f9sa",
+      "url": "https://open.spotify.com/track/4nAniJpaJeiuRe18iDQD9b"
+    },
+    {
+      "album": {
         "name": "L\u2019estate dopo la maturit\u00e0",
         "url": "https://open.spotify.com/album/0u1zebBszXzlQmZB4WG9Th"
       },
@@ -20174,6 +20300,24 @@
       "duration_ms": 155036,
       "name": "Mosche",
       "url": "https://open.spotify.com/track/6C6EyA832m59DutYTzZwFl"
+    },
+    {
+      "album": {
+        "name": "GOMME MASTICATE",
+        "url": "https://open.spotify.com/album/3s9Qlw9DLLjv05TEwm3V55"
+      },
+      "artists": [
+        {
+          "name": "OTTOBRE",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "mosche",
+      "url": "https://open.spotify.com/track/5yfJ9MQykJIIdg5vWBlM5p"
     },
     {
       "album": {
@@ -22676,7 +22820,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 192690,
       "name": "NOTTURNO in Do minore, No.1",
       "url": "https://open.spotify.com/track/1TOpiDS1BV8bPh2ay5dzXE"
@@ -23189,6 +23333,24 @@
     },
     {
       "album": {
+        "name": "Junction",
+        "url": "https://open.spotify.com/album/2PFMKlP7bluKeQOkm8GVWw"
+      },
+      "artists": [
+        {
+          "name": "COIDO",
+          "url": "https://open.spotify.com/artist/3pY8LTXZvim2leLtFv1jej"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261935,
+      "name": "Oh Hey",
+      "url": "https://open.spotify.com/track/0TP4YH3NLxfJVQxXP4pODG"
+    },
+    {
+      "album": {
         "name": "Oh Mama",
         "url": "https://open.spotify.com/album/3HTx5egwHvlkXA5e0IOzPv"
       },
@@ -23472,7 +23634,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 146400,
       "name": "ora",
       "url": "https://open.spotify.com/track/7A6GGMAfCi3dxu2fR5jHXN"
@@ -23544,7 +23706,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 139961,
       "name": "ORE ORE ORE",
       "url": "https://open.spotify.com/track/6FJfsnvnoAk7QfdSvh2SzF"
@@ -24200,6 +24362,24 @@
       "duration_ms": 153708,
       "name": "paralosofia",
       "url": "https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN"
+    },
+    {
+      "album": {
+        "name": "Gioielli Neri",
+        "url": "https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt"
+      },
+      "artists": [
+        {
+          "name": "Sara Gioielli",
+          "url": "https://open.spotify.com/artist/6Q1qRPuPuwJH0QPvdAPqtI"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "Paramia",
+      "url": "https://open.spotify.com/track/1RwFjtqHnZAlVbZmupmSkK"
     },
     {
       "album": {
@@ -25641,6 +25821,24 @@
     },
     {
       "album": {
+        "name": "SALOPETTE BOYZ",
+        "url": "https://open.spotify.com/album/2QjRwnrofVoELtLC8m15tZ"
+      },
+      "artists": [
+        {
+          "name": "Refo",
+          "url": "https://open.spotify.com/artist/03mwxB2gQpaYZNRm5nNjIU"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220980,
+      "name": "POGOBANG",
+      "url": "https://open.spotify.com/track/16N3CSgQi4wwArC9UoCWzs"
+    },
+    {
+      "album": {
         "name": "Politecnico Poliamore",
         "url": "https://open.spotify.com/album/5rDxDO36cXKDuHo6kbw4aT"
       },
@@ -26544,7 +26742,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 195663,
       "name": "Quanto Tempo",
       "url": "https://open.spotify.com/track/6yZSB4XbuS0mLfpTQccIlV"
@@ -28138,7 +28336,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 188512,
       "name": "sant'alberico, 1146",
       "url": "https://open.spotify.com/track/66R7FMrtNXgGUCZUMiM9uT"
@@ -28892,7 +29090,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 172466,
       "name": "Selective",
       "url": "https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV"
@@ -35600,6 +35798,24 @@
       "duration_ms": 159056,
       "name": "You Don't Wanna Be Mine",
       "url": "https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/7ClAeUk0p7UTl2bmGgqKuz"
+      },
+      "artists": [
+        {
+          "name": "Sara Baroni",
+          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227785,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/535FXIUGFnKvSXi7WrFl7R"
     },
     {
       "album": {

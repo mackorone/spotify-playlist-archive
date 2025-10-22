@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,785 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,788 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 10 | [Fotoromanza](https://open.spotify.com/track/5aqLXmh8SpcmR21finoww3) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Puzzle](https://open.spotify.com/album/55q2ylJP8PZ9XWiIILMImE) | 4:27 |
 | 11 | [Abbronzatissima](https://open.spotify.com/track/6OIZN7iSLdw6ml70zRlAUu) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:29 |
 | 12 | [Luglio](https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:11 |
-| 13 | [L'estate sta finendo](https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Best Righeira](https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi) | 3:45 |
-| 14 | [Balla](https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Balla \(Remastered\)](https://open.spotify.com/album/4A6errXJxy9750cknTxu1p) | 3:15 |
+| 13 | [Balla](https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Balla \(Remastered\)](https://open.spotify.com/album/4A6errXJxy9750cknTxu1p) | 3:15 |
+| 14 | [L'estate sta finendo](https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Best Righeira](https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi) | 3:45 |
 | 15 | [Quando quando quando](https://open.spotify.com/track/5x3Hpqf0pvVGELLVLf4bNd) | [Tony Renis](https://open.spotify.com/artist/55WUEyUburuMbmTBiIUzpm) | [Tony Renis](https://open.spotify.com/album/3ClTylraxBpTRumWOwuXnm) | 2:46 |
 | 16 | [Nell'aria](https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Un'ora con...](https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44) | 3:56 |
 | 17 | [Guarda Come Dondolo](https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:31 |

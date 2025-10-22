@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18791,
+  "num_followers": 18790,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAA/fBa1Be3f0rNzln+aeqD/",
+  "snapshot_id": "aPV7gAAAAACwKOGUhZtc3gAwuPAE2ZpH",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 236973,
-      "name": "Baby, Baby",
-      "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 248346,
       "name": "El-Shaddai",
       "url": "https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 236973,
+      "name": "Baby, Baby",
+      "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
     },
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 257293,
-      "name": "That's What Love Is For",
-      "url": "https://open.spotify.com/track/367dmPOxuMP8FsrZHenNnq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead (Remastered)",
         "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 200986,
       "name": "Thy Word",
       "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 257293,
+      "name": "That's What Love Is For",
+      "url": "https://open.spotify.com/track/367dmPOxuMP8FsrZHenNnq"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 236800,
       "name": "River Lullaby",
       "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 185946,
-      "name": "This Is My Father's World",
-      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
+      "duration_ms": 210493,
+      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 210493,
-      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
+      "duration_ms": 185946,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Be Still And Know",
-      "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 290600,
       "name": "These are the Days (feat. Amy Grant)",
       "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Be Still And Know",
+      "url": "https://open.spotify.com/track/3WD7NRVmvnoNwVf3NtufTc"
     },
     {
       "added_at": null,

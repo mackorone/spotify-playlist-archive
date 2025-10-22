@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por Sol Ortega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,917 likes - 23 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,918 likes - 23 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soul Of The Dancefloor](https://open.spotify.com/track/6LnOJX5jwxuVbzpMRxWqX0) | [Sol Ortega](https://open.spotify.com/artist/1a8L1wFGuk1SDOmAXhnvmO) | [Soul Of The Dancefloor](https://open.spotify.com/album/2j1AMCdefkiEw5ndH7UKcx) | 5:33 |
 | 2 | [Acid Rain](https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR) | [Ludmila Di Pasquale](https://open.spotify.com/artist/7hDe40AlwF450fQo0LndgG) | [Acid Rain](https://open.spotify.com/album/5ozI69yBdbUpdxmyR8y9CT) | 5:32 |
-| 3 | [Interior Harmony](https://open.spotify.com/track/4nEPWzooLD2m0vZ9aozfut) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1) | [Affair](https://open.spotify.com/album/3fAj2gX9jD6vIRIF0ib6J2) | 5:00 |
-| 4 | [dime k lo que pasa](https://open.spotify.com/track/6dfWtd8hIzwJgV3eoy89Z3) | [Valentina Spirito](https://open.spotify.com/artist/36lIv4oUB7UoPytPXg66HJ) | [CAMBIO DE PIEL](https://open.spotify.com/album/4BhObzou8AYFeLp9IYezk5) | 4:37 |
+| 3 | [dime k lo que pasa](https://open.spotify.com/track/6dfWtd8hIzwJgV3eoy89Z3) | [Valentina Spirito](https://open.spotify.com/artist/36lIv4oUB7UoPytPXg66HJ) | [CAMBIO DE PIEL](https://open.spotify.com/album/4BhObzou8AYFeLp9IYezk5) | 4:37 |
+| 4 | [Interior Harmony](https://open.spotify.com/track/4nEPWzooLD2m0vZ9aozfut) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1) | [Affair](https://open.spotify.com/album/3fAj2gX9jD6vIRIF0ib6J2) | 5:00 |
 | 5 | [Fiesta Gay](https://open.spotify.com/track/6f9KXtKxhAywscYmiCgx0k) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [VIDA NOCTURNA](https://open.spotify.com/album/3lQGtbbjeHxl1JbHrhEsa2) | 3:12 |
 | 6 | [Human or Monkeys](https://open.spotify.com/track/2frjkLrX8eWM6RF2vVvzI4) | [Sol Porro](https://open.spotify.com/artist/1TLxSIoXyqq9myZRDw5LjG) | [Human or Monkeys](https://open.spotify.com/album/0khynoy6wlTjmvu8YFjpzo) | 4:28 |
 | 7 | [Fluctuating Consciousness](https://open.spotify.com/track/1QU34oSGR7fkUk8zVTL5Pm) | [Victoria Engel](https://open.spotify.com/artist/2yNhH2Dks4MsBo79ozjpDa) | [Fluctuating Consciousness](https://open.spotify.com/album/3wl8lHdP1NQSoUCZTYvxuM) | 7:08 |

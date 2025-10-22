@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-463 songs - 1 day 3 hr 10 min
+463 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Get Down \(feat\. Kasien\)](https://open.spotify.com/track/0CQOH425xHeKBTNz3kC5vD) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [Get Down \(feat\. Kasien\)](https://open.spotify.com/album/5DgAIEyx4mXtcLUbb36pzk) | 3:54 | 2022-01-28 | 2022-07-29 |
 | [Getting Away](https://open.spotify.com/track/2I9OtcNY4BkFvBLIusHc3D) | [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Motion](https://open.spotify.com/album/5zqwWsb5iSD8Sz9h54RNdu) | 2:01 | 2025-05-08 |  |
 | [Ghostin'](https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Ghostin'](https://open.spotify.com/album/3YojHVyjYoxUShLLzi5KOd) | 3:17 | 2021-12-07 | 2024-06-15 |
-| [Girl Like Me + Kaytranada](https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 5:22 | 2025-10-09 |  |
+| [Girl Like Me + Kaytranada](https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 4:53 | 2025-10-09 |  |
 | [Give A Little \- Blue Lab Beats Remix](https://open.spotify.com/track/6QvCnbVDTKqQyyJRsnLlIS) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Honey For Wounds \(Deluxe Edition\)](https://open.spotify.com/album/6QgapN21Oyni4KWgZ5lPRI) | 3:17 | 2021-12-07 | 2022-07-27 |
 | [GMT](https://open.spotify.com/track/33SaarwnwkNiZ67qqGl55f) | [Ed Wells](https://open.spotify.com/artist/5VU6y4gxGiF3Es895F7Ee5) | [GMT](https://open.spotify.com/album/6kpAamfDvQ6kNAuIvqJ55R) | 3:43 | 2022-04-11 | 2022-04-18 |
 | [Go Tell It](https://open.spotify.com/track/6BzeKeT9hluukvZzZTz9PK) | [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp), [Salomon Faye](https://open.spotify.com/artist/6GCVojukJysOjNBgqmxe5j) | [Go Tell It](https://open.spotify.com/album/2sOTAFoGgOhxKCKksHZCy9) | 3:02 | 2021-12-07 | 2022-07-26 |

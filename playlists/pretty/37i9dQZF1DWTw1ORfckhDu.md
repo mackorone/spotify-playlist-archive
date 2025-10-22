@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa Lauri Haav.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,478 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,489 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,19 +13,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 3 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
 | 4 | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 |
 | 5 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
-| 6 | [Mentalité](https://open.spotify.com/track/1gT6L9rpCivi18AA0nC7hy) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mentalité](https://open.spotify.com/album/48AdxlB1VXYwfDCAK5Naco) | 2:55 |
-| 7 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
-| 8 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
-| 9 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 |
-| 10 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
-| 11 | [NBA](https://open.spotify.com/track/51UGWpfgtfah9FNodYMv07) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [NBA](https://open.spotify.com/album/0QJuqtUbv5TiITMmSA6VwW) | 1:53 |
-| 12 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
-| 13 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 |
-| 14 | [Kadut tietää](https://open.spotify.com/track/6g9WHMklrI0JxjtM9STpcU) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Kadut tietää](https://open.spotify.com/album/5aCCTiK8VYwDnw27BnurKp) | 2:29 |
-| 15 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
-| 16 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
-| 17 | [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 |
-| 18 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
+| 6 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 7 | [Mentalité](https://open.spotify.com/track/1gT6L9rpCivi18AA0nC7hy) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mentalité](https://open.spotify.com/album/48AdxlB1VXYwfDCAK5Naco) | 2:55 |
+| 8 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 |
+| 9 | [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 |
+| 10 | [MEININKI](https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv) | [DENIM](https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa) | 3:21 |
+| 11 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
+| 12 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
+| 13 | [NBA](https://open.spotify.com/track/51UGWpfgtfah9FNodYMv07) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om), [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [NBA](https://open.spotify.com/album/0QJuqtUbv5TiITMmSA6VwW) | 1:53 |
+| 14 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
+| 15 | [Naapuruston Sankari](https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Neighbourhood Kid](https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm) | 2:31 |
+| 16 | [Kadut tietää](https://open.spotify.com/track/6g9WHMklrI0JxjtM9STpcU) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Kadut tietää](https://open.spotify.com/album/5aCCTiK8VYwDnw27BnurKp) | 2:29 |
+| 17 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
+| 18 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 19 | [Don Julio](https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Don Julio](https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX) | 2:55 |
 | 20 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
 | 21 | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/1twlTgwJAk0ApT4wOEhjSd) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5Kjjo5fGrQZYbfstHAZ1sl) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [REHELLISESTI](https://open.spotify.com/track/38vgNcY8nfqx6v8tjvhhgK) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [REHELLISESTI](https://open.spotify.com/album/3u929hv6INpg9vTdPnXyQD) | 2:38 |
 | 50 | [Rakastatsä mua?](https://open.spotify.com/track/0k5cWIUMz0nSjwMxECnVut) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [Rakastatsä mua?](https://open.spotify.com/album/0deibgIw6M7ES7AfSSOnVc) | 2:58 |
 
-Snapshot ID: `AAAAAEmH/uFyGwJHqkW+VSqI60qZf03D`
+Snapshot ID: `AAAAAHQjuZVvDEFLcT8RdNvTErXM7Pko`

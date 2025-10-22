@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2ohL85TE8TI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ohL85TE8TI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ohL85TE8TI)
 
-### [K\-OST Center \(Korean OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
+### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 폭군의 셰프\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 

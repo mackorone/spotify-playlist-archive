@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Ty Dolla $ign, Rod Wave, Gucci Mane and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,769 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,832 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [PT Cruiser](https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [PT Cruiser](https://open.spotify.com/album/466dbk7Myb4b5ptqAFwrGv) | 3:44 |
 | 44 | [12 Months \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/7BbkQ0vyOP7HAUQXMeIln9) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Karma 4](https://open.spotify.com/album/7EhhvSYad20sjiKKI5JnRQ) | 3:26 |
 | 45 | [Corporate Thuggin'](https://open.spotify.com/track/6V3QCeW0OrlF5OGKhREzRC) | [Joey Fatts](https://open.spotify.com/artist/4u4Sj6ODtb8mAZ0wuadeqG), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Corporate Thuggin'](https://open.spotify.com/album/65SRU7xvsisxhixUY6ZCaS) | 3:18 |
-| 46 | [Better Believe It](https://open.spotify.com/track/78pzMifrZ5atYbTOcEJhEA) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [The Midnight Revival](https://open.spotify.com/artist/1KJGxkvJDGwTzcZZG4mFBZ) | [Better Believe It](https://open.spotify.com/album/09EidyxF12e6Us5YpLsMli) | 3:00 |
+| 46 | [Better Believe It](https://open.spotify.com/track/78pzMifrZ5atYbTOcEJhEA) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Cory Mo](https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL), [The Midnight Revival](https://open.spotify.com/artist/1KJGxkvJDGwTzcZZG4mFBZ) | [Better Believe It](https://open.spotify.com/album/09EidyxF12e6Us5YpLsMli) | 3:00 |
 | 47 | [Make Friends](https://open.spotify.com/track/4lZFbOWRzaLrYmSdfG5Nd5) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Make Friends](https://open.spotify.com/album/3VWaPN6vY3h55Es78a6Hsa) | 2:24 |
 | 48 | [Most Likely](https://open.spotify.com/track/2K2QRBLIvQxFiseSkvFSKZ) | [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Most Likely](https://open.spotify.com/album/0ElEsXTYVF48QWJbmLmuV1) | 2:00 |
 | 49 | [For the Money](https://open.spotify.com/track/41vf25Gmt3AESqEf7hb28o) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [For the Money](https://open.spotify.com/album/26ePEECTPlEkqU9M17QaUQ) | 2:24 |

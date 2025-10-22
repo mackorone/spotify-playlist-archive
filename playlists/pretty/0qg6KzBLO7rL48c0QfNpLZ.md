@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,562 likes - 104 songs - 4 hr 28 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,538 likes - 106 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 102 | [Back To Life](https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Le Bok](https://open.spotify.com/artist/29FYBcFeHQ8z432memmfvF), [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY) | [Back To Life](https://open.spotify.com/album/2xXaPI29IwS1St0SP7uvjk) | 2:43 |
 | 103 | [I Want It That Way](https://open.spotify.com/track/1V13MmE2RHWM0fzFxc7cFX) | [MrRevillz](https://open.spotify.com/artist/5KhIhOD5xJP1dIzm8dpKvy) | [I Want It That Way](https://open.spotify.com/album/3l0GLiC3jNaKW8Uz8H6UcU) | 2:32 |
 | 104 | [Taking My Time](https://open.spotify.com/track/56m2BJy4AD0KFUeZiLWe1m) | [Atlantix](https://open.spotify.com/artist/6SAXEJBlURybBzKlejEU0m), [beinghonest.](https://open.spotify.com/artist/1GnrF1z7ZsNfDgdA58tk87) | [Taking My Time](https://open.spotify.com/album/3KPjCRmT9v95pTPff2Po0v) | 2:55 |
+| 105 | [Lovefool](https://open.spotify.com/track/1oNzTP70hiAis90yWv0cgn) | [Planetopia](https://open.spotify.com/artist/5yE8mOpWjlbco6luZB04eb) | [Lovefool](https://open.spotify.com/album/25MfZajRoMsBgG0H9WnxyB) | 2:28 |
+| 106 | [Heartbeats](https://open.spotify.com/track/0j23JfTI4geAPj4d3rKeHy) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc), [Ro](https://open.spotify.com/artist/1MeAnyFGpDcuwi1VDMAXHV) | [Heartbeats](https://open.spotify.com/album/4uf994dfgKu9HCdZDczPPa) | 2:05 |
 
-Snapshot ID: `AAAhvR7l4E0xDl2Q58M6S4gXiy9QV+5S`
+Snapshot ID: `AAAhv/AFgNs+ij1c3j9Jj4aPwZrUx+OY`

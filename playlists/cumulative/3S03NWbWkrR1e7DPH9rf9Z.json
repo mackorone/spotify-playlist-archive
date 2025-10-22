@@ -3305,6 +3305,24 @@
     },
     {
       "album": {
+        "name": "Right Away",
+        "url": "https://open.spotify.com/album/6X0rd82t1BKUm2ThNvZGQ2"
+      },
+      "artists": [
+        {
+          "name": "Avorra",
+          "url": "https://open.spotify.com/artist/2AKj4BH3WLEG16rMhb19aA"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189927,
+      "name": "Right Away",
+      "url": "https://open.spotify.com/track/5ws9hugNyT75W18ULxM0hy"
+    },
+    {
+      "album": {
         "name": "Right Here, Right Now",
         "url": "https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ"
       },

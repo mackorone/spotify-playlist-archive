@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1470722,
+  "num_followers": 1470745,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Chandelier - Piano Version",
-      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Chandelier - Piano Version",
+      "url": "https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1479,18 +1479,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Meet The Moonlight",
-        "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
+        "name": "I'll Follow (Acoustic Version)",
+        "url": "https://open.spotify.com/album/19QzmVXnHqFeomV8EMHir0"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Fancy Cars",
+          "url": "https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem"
+        },
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
         }
       ],
-      "duration_ms": 191647,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG"
+      "duration_ms": 198438,
+      "name": "I'll Follow - Acoustic Version",
+      "url": "https://open.spotify.com/track/7rzCPEXWAhEaTcr3ajFNuC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1511,22 +1515,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "I'll Follow (Acoustic Version)",
-        "url": "https://open.spotify.com/album/19QzmVXnHqFeomV8EMHir0"
+        "name": "Meet The Moonlight",
+        "url": "https://open.spotify.com/album/58vzDcu4jADoUAI4DKH5rj"
       },
       "artists": [
         {
-          "name": "Fancy Cars",
-          "url": "https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem"
-        },
-        {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 198438,
-      "name": "I'll Follow - Acoustic Version",
-      "url": "https://open.spotify.com/track/7rzCPEXWAhEaTcr3ajFNuC"
+      "duration_ms": 191647,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/6eNEo4XcT3zxoHM2Zb9ooG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Lay It on Me (Acoustic)",
         "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 201561,
       "name": "Lay It on Me - Acoustic",
       "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
     },
     {
       "added_at": "2024-07-12 04:00:00",

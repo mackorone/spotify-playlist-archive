@@ -1,6 +1,6 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 25264,
+  "num_followers": 25266,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,30 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
+        "name": "Tierra Natal (Barzo Remix)",
+        "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "Tierra Natal - Barzo Remix",
+      "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
+    },
+    {
+      "added_at": "2025-08-21 19:45:20",
+      "album": {
         "name": "El tiempo de las cosas que frenan",
         "url": "https://open.spotify.com/album/6nytaOB8Hmrfr3nw7rdhlY"
       },
@@ -991,26 +1015,18 @@
     {
       "added_at": "2025-08-21 19:45:20",
       "album": {
-        "name": "Tierra Natal (Barzo Remix)",
-        "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
       },
       "artists": [
         {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        },
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
         }
       ],
-      "duration_ms": 199578,
-      "name": "Tierra Natal - Barzo Remix",
-      "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1035,22 +1051,6 @@
       "duration_ms": 319817,
       "name": "HACIA EL MAR - Pol Nada Remix",
       "url": "https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G"
-    },
-    {
-      "added_at": "2025-08-21 19:45:20",
-      "album": {
-        "name": "Terrapl\u00e9n",
-        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
-      },
-      "artists": [
-        {
-          "name": "Terrapl\u00e9n",
-          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
-        }
-      ],
-      "duration_ms": 236986,
-      "name": "Quita La Pena",
-      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "added_at": "2025-08-21 19:45:20",
@@ -1205,7 +1205,7 @@
         }
       ],
       "duration_ms": 351340,
-      "name": "Margarita y Margarito (Remix)",
+      "name": "Margarita y Margarito - Remix",
       "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
     },
     {

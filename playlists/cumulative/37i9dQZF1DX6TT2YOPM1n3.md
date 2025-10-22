@@ -2,7 +2,7 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to the greatest Pakistani hits 🎶 Cover: Hasan Raheem
+> Home to the greatest Pakistani hits 🎶 Cover: Umair
 
 253 songs - 17 hr 12 min
 
@@ -171,7 +171,7 @@
 | [Na Cher Malangaan Nu](https://open.spotify.com/track/2mkzhEH79XteEuzHjenNeg) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Na Cher Malangaan Nu](https://open.spotify.com/album/7a4HZHmiFNNqIWt37271SG) | 3:50 | 2023-05-04 | 2023-11-30 |
 | [Na Milay](https://open.spotify.com/track/3scQvCTpXolMZfuvuUXlv5) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4), [Afifa Moin](https://open.spotify.com/artist/6FoTXbkeKubWuMDdcUZCRg), [Arsalan Hasan](https://open.spotify.com/artist/1uyfPuXn3J7LMOYh39lLv2), [Haider Abbas](https://open.spotify.com/artist/687nlgJvmRUlJyPENN7Wd1) | [Na Milay](https://open.spotify.com/album/56BiMNi1KulyoOrVJSXrum) | 4:45 | 2025-05-01 | 2025-06-30 |
 | [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2023-07-17 | 2025-10-16 |
-| [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp), [Dharamveer Manglaani](https://open.spotify.com/artist/2Spk5c2VWJXkag2XVplVHg) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 | 2025-10-13 |  |
+| [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 | 2025-10-13 |  |
 | [O Saathi](https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Arko](https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0) | [O Saathi \(From "Baaghi 2"\)](https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A) | 4:11 | 2023-05-04 | 2024-04-27 |
 | [O Yaara](https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [O Yaara](https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS) | 4:36 | 2024-05-12 |  |
 | [OBVIOUS \(feat\. Hasan Raheem\)](https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:15 | 2024-12-28 |  |

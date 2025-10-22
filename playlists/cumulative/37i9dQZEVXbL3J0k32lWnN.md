@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,206 songs - 4 day 17 hr 56 min
+2,207 songs - 4 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1969,7 +1969,7 @@
 | [Tidsrejsen 2 \(Fra DRs Julekalender\)](https://open.spotify.com/track/6GYyME16S63CNvpx75DkTu) | [Caroline Castell](https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P), [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr) | [Tidsrejsen 2 \(Fra DRs Julekalender\)](https://open.spotify.com/album/7JZ4LVXVknd0tevLeQiBGf) | 3:33 | 2024-12-06 | 2024-12-29 |
 | [TIDZONE \(YEH\)](https://open.spotify.com/track/7D3sDgFnHP5wMC4cZHKxeI) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3](https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf) | 3:22 | 2024-05-25 | 2024-05-27 |
 | [Til Mig Selv](https://open.spotify.com/track/7E78vk7szNr8GqZO0gjMWf) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [LÆNGE LEVE](https://open.spotify.com/album/1IHiXXZxuoJKJos1bcPTQ7) | 3:30 | 2023-01-28 | 2023-02-12 |
-| [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2025-04-07 |  |
+| [Til Solen Er Sort](https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Til Solen Er Sort](https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz) | 3:44 | 2025-04-07 | 2025-10-22 |
 | [Til Stede](https://open.spotify.com/track/2VKs1Cvg89HfMHTfGtXbc4) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 3:52 | 2025-04-26 | 2025-05-12 |
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-03-18 | 2023-04-02 |
 | [Tilbage](https://open.spotify.com/track/0oCtlIqcU9Y4RzZCfjb4J5) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 2:43 | 2025-01-28 | 2025-07-08 |
@@ -2026,6 +2026,7 @@
 | [Truth In The Lies \(feat\. Lil Durk\)](https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:22 | 2025-01-25 | 2025-01-27 |
 | [TSU](https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:08 | 2021-09-05 | 2021-09-11 |
 | [Tudo Bem \(feat\. Gilli\)](https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:10 | 2023-05-06 | 2024-01-02 |
+| [Turn Up](https://open.spotify.com/track/5WreB2Em99u738oIatXoMw) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Liberosis](https://open.spotify.com/album/5BX8fA8Jiaw8ZwoIIQ3xT2) | 2:45 | 2025-10-21 |  |
 | [Tusind Timer](https://open.spotify.com/track/6QGFjMEi7ni15sMcLhN5w9) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Sofia Storck](https://open.spotify.com/artist/1lC3q59QuRsD2I37ZSD8O9) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 3:10 | 2024-08-09 | 2024-08-16 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-23 | 2022-07-25 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-24 | 2025-03-09 |

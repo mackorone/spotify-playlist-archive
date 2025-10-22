@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,493 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,893 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 3 | [It Gets Better](https://open.spotify.com/track/1I0knbo2FURefTBEQrsz8I) | [Dada Jones](https://open.spotify.com/artist/0cWFj6zZkVsQ4KzXRdgRtW), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [It Gets Better](https://open.spotify.com/album/3XmnX7MwSmmNjUj5G3feBW) | 2:24 |
 | 4 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
 | 5 | [Moonshine](https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Moonshine](https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN) | 2:40 |
-| 6 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
+| 6 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 7 | [bing bong](https://open.spotify.com/track/0nwygFtUBQiDA9iFIrZGR9) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [VNLLA](https://open.spotify.com/artist/5IvjzD21lPQIO842GrDejr) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:10 |
 | 8 | [Azimuth](https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Azimuth](https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg) | 3:46 |
 | 9 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
 | 10 | [Nothing Like This](https://open.spotify.com/track/4VPDrTdb7mJFQtmtVpDIol) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [i, sabotage](https://open.spotify.com/album/3IjeoYQfPmuESwlMVAIbwc) | 3:36 |
-| 11 | [Put You On](https://open.spotify.com/track/2GnrpZHEaI6WMK9paGLYEK) | [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh) | [Put You On](https://open.spotify.com/album/3oBhcdWQyHe5KCmN99S6hN) | 2:30 |
+| 11 | [Put You On](https://open.spotify.com/track/2GnrpZHEaI6WMK9paGLYEK) | [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [LLOVSA](https://open.spotify.com/artist/7hrC2LqR2qp9xlmjhslKHG) | [Put You On](https://open.spotify.com/album/3oBhcdWQyHe5KCmN99S6hN) | 2:30 |
 | 12 | [Worth Your Summer](https://open.spotify.com/track/2XrzeucK3QId09Ct0rUBEt) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [Worth Your Summer](https://open.spotify.com/album/7LyqReHSOXbiUVwg1Qp52j) | 2:36 |
 | 13 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 |
 | 14 | [Sweat](https://open.spotify.com/track/4Qa8mbZYA24jNGI5vkjob5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/6ohsQsuvSYqgM6Enqx6dzv) | 3:02 |

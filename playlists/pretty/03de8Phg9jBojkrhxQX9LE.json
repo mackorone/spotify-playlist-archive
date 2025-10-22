@@ -1,6 +1,6 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21737,
+  "num_followers": 21735,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
@@ -183,7 +183,7 @@
     {
       "added_at": "2025-10-17 18:04:25",
       "album": {
-        "name": "DNCR / Imprint",
+        "name": "DNCR / imprint",
         "url": "https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ"
       },
       "artists": [
@@ -242,10 +242,6 @@
         {
           "name": "MEMBA",
           "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Chitralekha Sen",
-          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
         }
       ],
       "duration_ms": 196204,
@@ -828,12 +824,12 @@
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
           "name": "Dillon Francis",
           "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
           "name": "TRXGGX",

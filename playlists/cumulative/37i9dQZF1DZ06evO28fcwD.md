@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-188 songs - 12 hr 40 min
+189 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Wimoweh Mbube](https://open.spotify.com/track/4XsfDYpZamAzxUkYVynCav) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 3:01 | 2021-12-28 | 2022-10-02 |
 | [Wonderful Love](https://open.spotify.com/track/2fkBDYfU5ZxaAkjQca4fZN) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wonderful Love](https://open.spotify.com/album/4HJR0OT5NzqpjyW7sTzQIV) | 3:17 | 2023-11-10 | 2023-12-14 |
 | [World in Union](https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO) | 3:49 | 2022-10-05 | 2022-10-26 |
-| [World in Union](https://open.spotify.com/track/790XDH73LTNcrorlJtVF8L) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:49 | 2022-10-25 |  |
+| [World in Union](https://open.spotify.com/track/790XDH73LTNcrorlJtVF8L) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:49 | 2022-10-25 | 2025-10-22 |
+| [World in Union](https://open.spotify.com/track/7LEwOs94gtLESLIz19ikoO) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [Ladysmith Black Mambazo and Friends](https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh) | 3:49 | 2025-10-22 |  |
 | [World in Union \(Feat\. P.J\. Powers\)](https://open.spotify.com/track/3oAgsBnNGfbSBvxfYwmIWP) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [PJ Powers](https://open.spotify.com/artist/0iMXaQINPQNgHWFlEvU0No) | [The Star and the Wiseman](https://open.spotify.com/album/5Wz50gdXoYlkDGwvq7mn11) | 3:49 | 2021-12-28 | 2022-10-06 |
 | [Woza kuJesu](https://open.spotify.com/track/0V31OIh6JVkfEMY3RhbuZM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6) | 4:10 | 2024-05-02 | 2025-10-13 |
 | [Woza kuJesu](https://open.spotify.com/track/0sgAqutrF0ZJOl1xyGuJeo) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA) | 4:13 | 2025-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 322026,
+  "num_followers": 322040,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAABMFaNePVFrf1vAueDnxXAI",
+  "snapshot_id": "aPV7gAAAAADBJvwxKorlIvqYJIfSF6W0",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 250454,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0CcGtpurfGXXiMJrcVJ6YY"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5kIRv64ElvSnZgY114lqEW"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Mind (acoustic)",
-        "url": "https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau"
-      },
-      "artists": [
-        {
-          "name": "Preditah",
-          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 176919,
-      "name": "On My Mind (acoustic)",
-      "url": "https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Down",
         "url": "https://open.spotify.com/album/41rLKAOZZIcG5SFBaDBBxP"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 188000,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/7qYwkz7t9JeEl2qFXfI47S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On My Mind (acoustic)",
+        "url": "https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau"
+      },
+      "artists": [
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 176919,
+      "name": "On My Mind (acoustic)",
+      "url": "https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU"
     },
     {
       "added_at": null,

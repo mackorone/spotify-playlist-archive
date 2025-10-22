@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Karma
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,978 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,021 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ring A Rose](https://open.spotify.com/track/2TwzMCeWCH3B66jvwMtEem) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Ring A Rose](https://open.spotify.com/album/3vnQUiE4n9mzvcSEC5kK33) | 2:19 |
 | 2 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 |
-| 3 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
+| 3 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
 | 4 | [Cold Hours](https://open.spotify.com/track/2uThc9fZx2BEL3t6uuRMO1) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Cold Hours](https://open.spotify.com/album/7Bbt89VCLl1HKuHtpNhhck) | 3:26 |
 | 5 | [Act IV \(Thira\) \- musicbymango Remix](https://open.spotify.com/track/1HGmOEQ1EXi9nmMq0giKQ4) | [Anohnymouss](https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT), [musicbymango](https://open.spotify.com/artist/0k9smpG7LlLwBjSZA5rFpc) | [Act IV \(Thira\) \[musicbymango Remix\]](https://open.spotify.com/album/54g8PXe6vwgqYMU0dFO6Sg) | 2:06 |
 | 6 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 |

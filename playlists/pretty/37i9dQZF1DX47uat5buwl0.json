@@ -1,13 +1,45 @@
 {
   "description": "\ud83d\udd25\ud83c\udf89",
-  "num_followers": 314929,
+  "num_followers": 314937,
   "original_name": "Studenten Hits 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA3ibZeBC0h14oIjhSoxllQ10G5p",
+  "snapshot_id": "AAAAAKfNfWsLNcrCykn2vOtmWm/wPzqX",
   "tracks": [
+    {
+      "added_at": "2025-10-17 07:45:07",
+      "album": {
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        }
+      ],
+      "duration_ms": 134619,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS"
+    },
+    {
+      "added_at": "2025-10-17 07:45:07",
+      "album": {
+        "name": "Y Que Fue?",
+        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
+    },
     {
       "added_at": "2025-10-17 07:45:07",
       "album": {
@@ -27,38 +59,6 @@
       "duration_ms": 123809,
       "name": "Knalprobleem",
       "url": "https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP"
-    },
-    {
-      "added_at": "2025-10-17 07:45:07",
-      "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ"
-      },
-      "artists": [
-        {
-          "name": "Nachtdienst",
-          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
-    },
-    {
-      "added_at": "2025-10-17 07:45:07",
-      "album": {
-        "name": "Y Que Fue?",
-        "url": "https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 163759,
-      "name": "Y Que Fue?",
-      "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"
     },
     {
       "added_at": "2025-10-17 07:45:07",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-10-17 07:45:07",
       "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
+    },
+    {
+      "added_at": "2025-10-17 07:45:07",
+      "album": {
         "name": "Boccaccio",
         "url": "https://open.spotify.com/album/5bwru8YsdUBycin4I75img"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 195200,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw"
-    },
-    {
-      "added_at": "2025-10-17 07:45:07",
-      "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj"
-      },
-      "artists": [
-        {
-          "name": "Nachtdienst",
-          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        }
-      ],
-      "duration_ms": 134619,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS"
     },
     {
       "added_at": "2025-10-17 07:45:07",

@@ -8249,6 +8249,32 @@
     },
     {
       "album": {
+        "name": "IO & TU",
+        "url": "https://open.spotify.com/album/0jKl6eCdgu5cM9fqNH9NIs"
+      },
+      "artists": [
+        {
+          "name": "Giaime",
+          "url": "https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k"
+        },
+        {
+          "name": "Smookid",
+          "url": "https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR"
+        },
+        {
+          "name": "4TheNight",
+          "url": "https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "IO & TU",
+      "url": "https://open.spotify.com/track/5MBwzWnikF3EMS9wBagvM9"
+    },
+    {
+      "album": {
         "name": "Curtain Call 2",
         "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
       },

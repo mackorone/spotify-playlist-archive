@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63302,
+  "num_followers": 63308,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAB/2w/oEgRYQYDB8S6RzU9B",
+  "snapshot_id": "aPV7gAAAAABtbj8BzMnHPQcoAWYJ3KfK",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Vineyard",
-          "url": "https://open.spotify.com/artist/2fxknIGrJpQ4Ii3eLS2JHf"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 355160,
-      "name": "Meu Respirar - Ao Vivo",
-      "url": "https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruja o Le\u00e3o - M\u00cbDNA Remix",
         "url": "https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 168411,
       "name": "Ruja o Le\u00e3o - M\u00cbDNA - Remix",
       "url": "https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem, Esta \u00c9 a Hora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2OCGd9zHZTScNoi7lDQWfT"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Vineyard",
+          "url": "https://open.spotify.com/artist/2fxknIGrJpQ4Ii3eLS2JHf"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 355160,
+      "name": "Meu Respirar - Ao Vivo",
+      "url": "https://open.spotify.com/track/695722v5GPk2Uml2Tgv5ly"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reina Sobre Mim",
+        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 388200,
+      "name": "Reina Sobre Mim",
+      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 305076,
       "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reina Sobre Mim",
-        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 388200,
-      "name": "Reina Sobre Mim",
-      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 388989,
       "name": "Te Damos Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/01R8ujMToULv8ECGBgglFB"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/6YsaTCFVqFiGrarkEATPmI"
     },
     {
       "added_at": null,
@@ -987,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reino de Justi\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 265586,
-      "name": "Os Que Esperam - Ao Vivo",
-      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ousado Amor",
         "url": "https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 331306,
       "name": "Incompar\u00e1vel - Ao Vivo",
       "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reino de Justi\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 265586,
+      "name": "Os Que Esperam - Ao Vivo",
+      "url": "https://open.spotify.com/track/3cURlCdbyZ81pYQuI6iuP2"
     },
     {
       "added_at": null,

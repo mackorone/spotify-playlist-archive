@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92484,
+  "num_followers": 92488,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAFmftyIvlSemM+hjN/gsNi",
+  "snapshot_id": "aPV7gAAAAAAscH8it/bZiShqqeBTz4Y0",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 189733,
-      "name": "The Separation of Church and Skate",
-      "url": "https://open.spotify.com/track/5bTgZ9OZvVJD65HTgDNp30"
+      "duration_ms": 201493,
+      "name": "Idiots Are Taking Over",
+      "url": "https://open.spotify.com/track/5iZ8NH5aPyGHYvIA7WVAZX"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Idiots Are Taking Over",
-      "url": "https://open.spotify.com/track/5iZ8NH5aPyGHYvIA7WVAZX"
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/5bTgZ9OZvVJD65HTgDNp30"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The War On Errorism",
-        "url": "https://open.spotify.com/album/2nAzxKUNhPJpKI0QafIT9P"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 145466,
-      "name": "Franco Un-American",
-      "url": "https://open.spotify.com/track/65ZXvhDyivnFmimuBjEvXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 136706,
       "name": "Please Play This Song On The Radio",
       "url": "https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 145466,
+      "name": "Franco Un-American",
+      "url": "https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap"
     },
     {
       "added_at": null,

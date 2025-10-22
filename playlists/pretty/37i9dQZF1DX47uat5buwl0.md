@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,929 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,937 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 |
-| 2 | [ADHD](https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [ADHD](https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ) | 2:54 |
-| 3 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 |
+| 1 | [Ruggengraat](https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Ruggengraat](https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj) | 2:14 |
+| 2 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 |
+| 3 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 |
 | 4 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 | 5 | [3D](https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [3D](https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT) | 2:43 |
 | 6 | [Shake Body](https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Man of the Year](https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2) | 3:28 |
-| 7 | [Boccaccio](https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Boccaccio](https://open.spotify.com/album/5bwru8YsdUBycin4I75img) | 3:07 |
-| 8 | [Never Alone](https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Never Alone](https://open.spotify.com/album/6YYoGKAxBFAva4Qu2EtHES) | 3:15 |
-| 9 | [Ruggengraat](https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Ruggengraat](https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj) | 2:14 |
+| 7 | [ADHD](https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [ADHD](https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ) | 2:54 |
+| 8 | [Boccaccio](https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Boccaccio](https://open.spotify.com/album/5bwru8YsdUBycin4I75img) | 3:07 |
+| 9 | [Never Alone](https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Never Alone](https://open.spotify.com/album/6YYoGKAxBFAva4Qu2EtHES) | 3:15 |
 | 10 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 |
 | 11 | [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 |
 | 12 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 74 | [Ça Va](https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Ça Va](https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3) | 2:10 |
 | 75 | [Dame Un Grrr \- Provi Remix Radio Edit](https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Provi](https://open.spotify.com/artist/09WKhhJl9OZwZEKXRoSnOo) | [Dame Un Grrr \(Provi Remix\)](https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq) | 2:00 |
 
-Snapshot ID: `AAAAAA3ibZeBC0h14oIjhSoxllQ10G5p`
+Snapshot ID: `AAAAAKfNfWsLNcrCykn2vOtmWm/wPzqX`

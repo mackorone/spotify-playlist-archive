@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- NAYEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,719 likes - 76 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,767 likes - 76 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 44 | [Patch Up](https://open.spotify.com/track/3OnUlf3h3P77h9J8PXFkRI) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ), [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53), [Rehan Abbas](https://open.spotify.com/artist/2woE4q088jN9nv6jyQN71c) | [Patch Up](https://open.spotify.com/album/1eiBE6tnHzGEDa8n0STObk) | 4:02 |
 | 45 | [No Lie](https://open.spotify.com/track/5qXl3Ac11Pyba6gholqM7S) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Reggs](https://open.spotify.com/artist/5ZiXTiApJhxzxicjIznlLs) | [No Lie](https://open.spotify.com/album/4Zf1OQAPR7CXO2KBcFTSzV) | 2:15 |
 | 46 | [callmeback](https://open.spotify.com/track/4GvhaVYYfrQeBKkphZtKBQ) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF) | [callmeback](https://open.spotify.com/album/4XEO54FyeWFRNcxw5ThrQa) | 1:58 |
-| 47 | [Post You](https://open.spotify.com/track/3ua0JRIbusVpdYMqwmq5kd) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Soomro](https://open.spotify.com/artist/21LaTM46e4X78iWHS1kvDR) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:55 |
+| 47 | [Post You](https://open.spotify.com/track/3ua0JRIbusVpdYMqwmq5kd) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:55 |
 | 48 | [Nasha](https://open.spotify.com/track/7EUvEQc888YgLJqZ2Nxkgn) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [The Skinny guy](https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Nasha](https://open.spotify.com/album/5YkCVWOSREIl0F4HT4LGM0) | 2:57 |
 | 49 | [g.o.n.e](https://open.spotify.com/track/4E5fhWEE30VBB0rG2EW6el) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [g.o.n.e](https://open.spotify.com/album/6bqAR2hWEzluPwkdTIgi18) | 2:26 |
 | 50 | [Naraaz](https://open.spotify.com/track/5R5reIUDThok64YH1LAelH) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naraaz](https://open.spotify.com/album/42h4XY1DBc1sBM8mrvjqU0) | 3:40 |

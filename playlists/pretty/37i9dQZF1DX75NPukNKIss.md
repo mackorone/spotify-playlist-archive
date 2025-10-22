@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 
 > Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,098 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,126 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75NPukNKIss.md) - [plain]
 | 3 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
 | 4 | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a) | 2:22 |
 | 5 | [GYN](https://open.spotify.com/track/11uFNK7jwFcuss2rUGYTgu) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GYN](https://open.spotify.com/album/4WbIcsTfdM8kVA0lRkY9vK) | 2:27 |
-| 6 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & Usher\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & Usher\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
+| 6 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
 | 7 | [Don't Care No More](https://open.spotify.com/track/7sb5D9ayrpNqkrF7r9S5pD) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Damaged Thoughts](https://open.spotify.com/album/7JjE67id5LPD0w15snOyqu) | 2:00 |
 | 8 | [+44](https://open.spotify.com/track/3QLmHiMCBXMLmIRl6r9387) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:45 |
 | 9 | [2 PEOPLE \(feat\. Cash Cobain\)](https://open.spotify.com/track/03gFKrwfhi6SsO66tQKULE) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:05 |

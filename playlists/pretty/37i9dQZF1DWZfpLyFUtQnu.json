@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 106665,
+  "num_followers": 106682,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Les sunlights des tropiques",
+        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 220066,
+      "name": "Les sunlights des tropiques",
+      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Loin des yeux",
         "url": "https://open.spotify.com/album/5u3mERrsCPzvwICP88yNil"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 167933,
       "name": "Allez reste (feat. Vianney)",
       "url": "https://open.spotify.com/track/3heHzzI6Grlj4xTeoLOO56"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Les sunlights des tropiques",
-        "url": "https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Les sunlights des tropiques",
-      "url": "https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV"
     },
     {
       "added_at": "2024-10-03 14:22:43",

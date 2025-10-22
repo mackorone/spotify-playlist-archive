@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,740 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,756 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 22 | [Let's Not Love Each Other](https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 4:02 |
 | 23 | [Understand](https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [MELOH](https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1) | 2:40 |
 | 24 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 |
-| 25 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 |
-| 26 | [AURA \(feat\. pH\-1\) \(Prod\. GXXD\)](https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [AURA \(feat\. pH\-1\)](https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9) | 3:26 |
+| 25 | [AURA \(feat\. pH\-1\) \(Prod\. GXXD\)](https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [AURA \(feat\. pH\-1\)](https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9) | 3:26 |
+| 26 | [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 |
 | 27 | [He's next to you, instead of me](https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n) | 2:52 |
 | 28 | [Life is Wet](https://open.spotify.com/track/5LuuUXI3Msm4L2iUNHi3JB) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [Life is Wet](https://open.spotify.com/album/5UBenAYbpBGhynO1tq6N9Z) | 3:06 |
 | 29 | [Dare to Love \(feat\. BIG Naughty\)](https://open.spotify.com/track/6odZjB2Z1T2iJTf5bbqUIe) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [TO DIE FOR](https://open.spotify.com/album/20eYi4s2pkBv0GGp42sCHK) | 2:55 |

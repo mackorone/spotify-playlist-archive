@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,221 songs - 2 day 14 hr 14 min
+1,222 songs - 2 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Blundar För En Stund](https://open.spotify.com/track/2tVyDrg1bbOzHnYAZxcOcO) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Blundar För En Stund](https://open.spotify.com/album/3lJKVj5d5dvy9BwFXPIGrN) | 3:07 | 2025-07-31 | 2025-09-19 |
 | [Blåljus](https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Blåljus](https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF) | 3:27 | 2025-07-03 | 2025-09-05 |
 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 | 2025-09-18 |  |
-| [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-16 |  |
+| [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-16 |  |
 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-05 | 2024-10-11 |
 | [Bon Voyage](https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Bon Voyage](https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg) | 2:43 | 2025-06-12 | 2025-08-01 |
 | [Bop](https://open.spotify.com/track/1KwmjwEfQeMnoNR121rzBy) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Bop](https://open.spotify.com/album/7GqD8aNB4BFJnOIyFM7BRr) | 2:30 | 2025-02-27 | 2025-04-25 |
@@ -1152,6 +1152,7 @@
 | [Världen är vår](https://open.spotify.com/track/2rY652I4fSonQSRc5j88aQ) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Världen är vår](https://open.spotify.com/album/0yX52C858pOUF1Ya32DKHk) | 3:14 | 2024-09-05 | 2024-10-11 |
 | [Vågar du så vågar jag](https://open.spotify.com/track/5CKBW6JptERGQZrxuqaoA2) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Vågar du så vågar jag](https://open.spotify.com/album/0y96e9HsRwajmpU9LvKwPc) | 3:19 | 2025-04-17 | 2025-05-17 |
 | [Vår första gång](https://open.spotify.com/track/4LU6zltjuVqOaU7u6Qdj7W) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Vår första gång](https://open.spotify.com/album/6AxmBHXtOljB2Q5aeJ6QVq) | 2:57 | 2025-01-30 | 2025-03-21 |
+| [W.I.P.](https://open.spotify.com/track/0OB8Z8RUMkBpsdQ5DXsE0l) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [W.I.P.](https://open.spotify.com/album/4weepdlyzO48vnyL4vYBpf) | 2:59 | 2025-10-21 |  |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-08-22 | 2024-10-25 |
 | [Waiting For A Star To Fall](https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Waiting For A Star To Fall](https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF) | 2:46 | 2025-08-07 | 2025-10-10 |
 | [Waiting For Love](https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Waiting For Love](https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI) | 4:29 | 2025-09-11 |  |
@@ -1167,7 +1168,7 @@
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-22 | 2024-11-01 |
 | [Werewolf Hunter](https://open.spotify.com/track/5oqPBpp3B6GQj3bbhCpOOP) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Werewolf Hunter](https://open.spotify.com/album/452ONQ1sVVWkrrjJrZ9Vna) | 2:31 | 2024-11-14 | 2025-01-24 |
 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 | 2025-07-24 | 2025-09-12 |
-| [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 | 2025-10-02 |  |
+| [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 | 2025-10-02 |  |
 | [Wet, Hot American Dream](https://open.spotify.com/track/3kTYwlSBqZZ1a5sLCS3SBZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Wet, Hot American Dream](https://open.spotify.com/album/3w9VCOXvlHiznf8AibKbap) | 2:56 | 2025-07-03 | 2025-09-05 |
 | [What Are You Waiting For](https://open.spotify.com/track/54zcjcLY7yDAOdViuHcrhQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [What Are You Waiting For](https://open.spotify.com/album/4qp5j55H9mKYb6HqNXtfXm) | 2:24 | 2025-03-27 | 2025-05-09 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-06-27 | 2024-07-27 |

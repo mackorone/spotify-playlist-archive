@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,790 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,803 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 16 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 17 | [Loving\-Kindness](https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB) | [Vimassana](https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv) | [Loving\-Kindness](https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD) | 2:50 |
 | 18 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 |
-| 19 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
-| 20 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
+| 19 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
+| 20 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 | 21 | [A Clear Mind](https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [A Clear Mind](https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ) | 2:53 |
 | 22 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
 | 23 | [Beneath your Beutiful](https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 3:44 |
@@ -89,10 +89,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 79 | [Canon in D](https://open.spotify.com/track/5b7rilZzZG7QbiaXiMyWqz) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 5:11 |
 | 80 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 |
 | 81 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
-| 82 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
-| 83 | [Soothing Mountain Winds \- Massage Music With Tibetan Flute & Restful Winds](https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC) | [Lullaby Tribe](https://open.spotify.com/artist/0GPPKMS6tmfbyCwpy0Frcy) | [World Flute Lullabies \- Native American & Asian Flutes for Sleep Therapy](https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q) | 5:22 |
-| 84 | [A Missing Piece](https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 2:05 |
-| 85 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
+| 82 | [Soothing Mountain Winds \- Massage Music With Tibetan Flute & Restful Winds](https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC) | [Lullaby Tribe](https://open.spotify.com/artist/0GPPKMS6tmfbyCwpy0Frcy) | [World Flute Lullabies \- Native American & Asian Flutes for Sleep Therapy](https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q) | 5:22 |
+| 83 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 |
+| 84 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
+| 85 | [A Missing Piece](https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 2:05 |
 | 86 | [Sleep Well](https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 3:59 |
 | 87 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 |
 | 88 | [Bloom Bliss](https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:39 |

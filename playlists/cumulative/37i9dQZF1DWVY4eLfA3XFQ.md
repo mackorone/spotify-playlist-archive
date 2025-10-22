@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 🦉 Tech house operators, featuring Dansyn
 
-2,427 songs - 5 day 13 hr 11 min
+2,428 songs - 5 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1793,6 +1793,7 @@
 | [Running](https://open.spotify.com/track/7bMWMh0hw63TtpM5UWKPZQ) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Running](https://open.spotify.com/album/0DHip6BOwZ2uyLvQwQ870n) | 2:54 | 2023-01-27 | 2023-04-01 |
 | [Running Order](https://open.spotify.com/track/0ImtueQ8PGHSp8ZB2nmZWW) | [Den Haas](https://open.spotify.com/artist/5nDmfxAH6PGt1bntoYwkn3) | [Running Order](https://open.spotify.com/album/6lWgkgdug10GykkzbB9vya) | 5:59 | 2022-12-28 | 2023-01-06 |
 | [Runny Nose](https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [NKY](https://open.spotify.com/artist/67usISVrpOi72VkrfmVTDC) | [Runny Nose](https://open.spotify.com/album/5Mwq1cbA0AauGI8Xu5vJ34) | 2:41 | 2024-03-01 | 2024-07-27 |
+| [Ruthless Kid](https://open.spotify.com/track/2O0RXTQwseXmdY7IpjBBIt) | [Sapian](https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT) | [Ruthless Kid](https://open.spotify.com/album/5VdKFTp0W1f2whZquG5n0J) | 2:55 | 2025-10-21 |  |
 | [Salsa Shake](https://open.spotify.com/track/0Y5eIPZ22ypKq8JSWrVUlh) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Salsa Shake](https://open.spotify.com/album/0jZAnZG2QeQ0p3phFXQcRm) | 3:07 | 2022-06-10 | 2022-08-20 |
 | [Same Way Down \(feat\. Mindchatter\)](https://open.spotify.com/track/3NDNPhzZ60EV2sK3ryIF4i) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just What The World Needs EP](https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX) | 4:20 | 2023-01-20 | 2023-04-22 |
 | [Samsara](https://open.spotify.com/track/4U91micKPBG76g9oKoICVk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Samsara / Hangover](https://open.spotify.com/album/4bgLaGD4Tx5SIKVHik3cNo) | 2:58 | 2023-04-14 | 2023-08-12 |
@@ -2203,7 +2204,7 @@
 | [Tomorrows \- Kyle Watson Remix](https://open.spotify.com/track/5p9yBGSaYVnJnb6zI9kNEv) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Tomorrows \(Kyle Watson Remix\)](https://open.spotify.com/album/6JhA3zD1fN9PwskPcsOJBm) | 3:39 | 2022-12-09 | 2022-12-29 |
 | [Too Close \(feat\. Mac Russo\)](https://open.spotify.com/track/4MatIhnm2hXVJhHnSLzzJc) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA), [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [Mac Russo](https://open.spotify.com/artist/5X6gvbbSZ4jVJDLUQLQN9J) | [Too Close \(feat\. Mac Russo\)](https://open.spotify.com/album/1kpud0qKz2k5GEOe0LcJZK) | 2:40 | 2023-02-03 | 2023-04-01 |
 | [TOO COOL TO BE CARELESS](https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TOO COOL TO BE CARELESS](https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa) | 3:40 | 2024-07-05 | 2025-05-13 |
-| [Too Much Swag](https://open.spotify.com/track/4OtfEpDJ4dk7fygkXyv1tF) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Too Much Swag](https://open.spotify.com/album/2LkneYPpOLo0Ac3TDHkQ4m) | 3:35 | 2025-10-10 |  |
+| [Too Much Swag](https://open.spotify.com/track/4OtfEpDJ4dk7fygkXyv1tF) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Too Much Swag](https://open.spotify.com/album/2LkneYPpOLo0Ac3TDHkQ4m) | 3:35 | 2025-10-10 | 2025-10-22 |
 | [Took The Night \- J\. Worra Extended Mix](https://open.spotify.com/track/5HBOOjUPTqfDFr6rLQrzkz) | [Chelley](https://open.spotify.com/artist/67MzQRkLBlxU7fTlGjLRW8), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Took The Night \(J\. Worra Extended Mix\)](https://open.spotify.com/album/5Db7KWY3EGNin5UMFSLyXu) | 5:03 | 2023-06-09 | 2023-07-22 |
 | [Tooka Took](https://open.spotify.com/track/4hDZeZoePIY3y0TPboLZGV) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [Tooka Took](https://open.spotify.com/album/3mRtyiU58ph2NrrDFndGX6) | 2:35 | 2023-03-03 | 2023-05-10 |
 | [Tootsie Pop](https://open.spotify.com/track/5tjSsAtLOHDAp2psqv5EGe) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [Black Book ID's: Chapter 9](https://open.spotify.com/album/3CT6mCav4OmLIO93q6bO78) | 2:59 | 2025-03-07 | 2025-05-24 |

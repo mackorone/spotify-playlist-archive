@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADXc+9bgl09niQpOb/Y2zHE",
+  "snapshot_id": "aPV7gAAAAABu7a8KHi1s1B1ZzLF2v00h",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 211525,
       "name": "wo ai ni",
       "url": "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 182957,
+      "name": "break it even",
+      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 202605,
       "name": "In Your Fantasy (Yaeji Ver.)",
       "url": "https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 182957,
-      "name": "break it even",
-      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 254507,
-      "name": "Year to Year",
-      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What a Joy",
         "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 208173,
       "name": "Swim Me",
       "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 254507,
+      "name": "Year to Year",
+      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
     },
     {
       "added_at": null,
@@ -640,17 +640,21 @@
       "added_at": null,
       "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nappy Nina",
+          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
         }
       ],
-      "duration_ms": 197343,
-      "name": "When in Summer, I Forget About the Winter - Bonus Track",
-      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
+      "duration_ms": 170424,
+      "name": "MONEY CAN'T BUY",
+      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
     },
     {
       "added_at": null,
@@ -708,21 +712,17 @@
       "added_at": null,
       "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nappy Nina",
-          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
         }
       ],
-      "duration_ms": 170424,
-      "name": "MONEY CAN'T BUY",
-      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
+      "duration_ms": 197343,
+      "name": "When in Summer, I Forget About the Winter - Bonus Track",
+      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
     },
     {
       "added_at": null,

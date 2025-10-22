@@ -4,7 +4,7 @@
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 54 min
+67 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,13 +28,14 @@
 | [Eyes Wide Open](https://open.spotify.com/track/5C34gPk3GDR8ZYJNVq4mld) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:53 | 2025-10-14 |  |
 | [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-10-23 | 2024-11-29 |
 | [Falter](https://open.spotify.com/track/1gZsLy9CVwF9JmkYHTCJWG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:57 | 2024-10-23 | 2025-04-17 |
-| [Falter](https://open.spotify.com/track/4IagfZ1d6DDMYj5HNnfbfW) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:57 | 2025-10-21 |  |
+| [Falter](https://open.spotify.com/track/4IagfZ1d6DDMYj5HNnfbfW) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:57 | 2025-10-21 | 2025-10-22 |
 | [Fire](https://open.spotify.com/track/0E66SVq7uPT9YOXzzaIAsZ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:28 | 2024-10-23 | 2025-10-20 |
 | [Fire](https://open.spotify.com/track/0bIoBcvncyM8cBZ56ah9xL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:28 | 2025-10-20 |  |
 | [Flower Of Flesh And Blood](https://open.spotify.com/track/4DWQMTH3YKuEp4lTtU4jaE) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 2:12 | 2024-10-23 | 2025-04-23 |
 | [Forgive And Forget](https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:44 | 2024-10-23 |  |
 | [Funeral For Yesterday](https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:24 | 2024-10-23 |  |
 | [Get Off \(You Can Eat a Dick\)](https://open.spotify.com/track/7bkstl3jHuqyLThQoja3Ek) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:54 | 2024-10-23 |  |
+| [I Still Wear This Crown](https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:42 | 2025-10-22 |  |
 | [I Still Wear This Crown](https://open.spotify.com/track/7i3dC9nVXgPFKxnxMUp9ve) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/7yuHhrIAYQ5FNuM6hngQDE) | 3:42 | 2024-10-23 | 2025-10-19 |
 | [I've Failed You](https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:11 | 2024-10-23 |  |
 | [In Winter](https://open.spotify.com/track/3meQtXNdUBDx2ksYS1mXiV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 5:32 | 2024-10-23 |  |

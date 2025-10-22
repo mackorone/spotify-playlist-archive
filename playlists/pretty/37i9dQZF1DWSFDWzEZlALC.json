@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: SOFFIE",
-  "num_followers": 462019,
+  "num_followers": 461972,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFuLCHUuOn4aXgQ/DK0KgUm3YeOw",
+  "snapshot_id": "AAAAAOQKQvo3REANal/4ZE/sRq1S4uK+",
   "tracks": [
     {
       "added_at": "2025-10-16 22:00:29",
@@ -27,18 +27,18 @@
     {
       "added_at": "2025-10-16 22:00:29",
       "album": {
-        "name": "Zuhause",
-        "url": "https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq"
+        "name": "Das Leben ist schon ernst genug",
+        "url": "https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk"
       },
       "artists": [
         {
-          "name": "LoSin",
-          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Zuhause",
-      "url": "https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf"
+      "duration_ms": 141200,
+      "name": "Das Leben ist schon ernst genug",
+      "url": "https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H"
     },
     {
       "added_at": "2025-10-16 22:00:29",
@@ -59,6 +59,22 @@
     {
       "added_at": "2025-10-16 22:00:29",
       "album": {
+        "name": "Zuhause",
+        "url": "https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Zuhause",
+      "url": "https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf"
+    },
+    {
+      "added_at": "2025-10-16 22:00:29",
+      "album": {
         "name": "versprochen, ichbindaf\u00fcrdich",
         "url": "https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f"
       },
@@ -75,38 +91,6 @@
       "duration_ms": 171562,
       "name": "sommer",
       "url": "https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6"
-    },
-    {
-      "added_at": "2025-10-16 22:00:29",
-      "album": {
-        "name": "Das Leben ist schon ernst genug",
-        "url": "https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk"
-      },
-      "artists": [
-        {
-          "name": "RIAN",
-          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Das Leben ist schon ernst genug",
-      "url": "https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H"
-    },
-    {
-      "added_at": "2025-10-16 22:00:29",
-      "album": {
-        "name": "Sp\u00e4tsommer",
-        "url": "https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7"
-      },
-      "artists": [
-        {
-          "name": "Leon Wiesmann",
-          "url": "https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8"
-        }
-      ],
-      "duration_ms": 171455,
-      "name": "Sp\u00e4tsommer",
-      "url": "https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL"
     },
     {
       "added_at": "2025-10-16 22:00:29",
@@ -139,6 +123,22 @@
       "duration_ms": 163325,
       "name": "Liebe & Entzug",
       "url": "https://open.spotify.com/track/5DVxN3e2q8D1TUzCYqH5J9"
+    },
+    {
+      "added_at": "2025-10-16 22:00:29",
+      "album": {
+        "name": "Sp\u00e4tsommer",
+        "url": "https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7"
+      },
+      "artists": [
+        {
+          "name": "Leon Wiesmann",
+          "url": "https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8"
+        }
+      ],
+      "duration_ms": 171455,
+      "name": "Sp\u00e4tsommer",
+      "url": "https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL"
     },
     {
       "added_at": "2025-10-16 22:00:29",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: MIKADO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: BIG FAF",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1977,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "Backrooted",
+        "url": "https://open.spotify.com/album/1APTdA3906OuJI5uc9wd0R"
+      },
+      "artists": [
+        {
+          "name": "BIG FAF",
+          "url": "https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I"
+        },
+        {
+          "name": "AMO",
+          "url": "https://open.spotify.com/artist/0yDxv7OYUefoV03lyOp1LS"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192287,
+      "name": "Backrooted",
+      "url": "https://open.spotify.com/track/1v81WO1jntFL3krIjtdlp0"
+    },
+    {
+      "album": {
         "name": "Bad Combat",
         "url": "https://open.spotify.com/album/60GNta4ABob1dgxhTYRorL"
       },
@@ -2322,6 +2344,24 @@
       "duration_ms": 187237,
       "name": "BASH BASH - feat. JP THE WAVY & Awich",
       "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
+    },
+    {
+      "album": {
+        "name": "BBY FEVER",
+        "url": "https://open.spotify.com/album/3iYtygoj6oOs8STsAqJxeZ"
+      },
+      "artists": [
+        {
+          "name": "BBY NABE",
+          "url": "https://open.spotify.com/artist/4zb2mUkgFg9NGwAJnzlS8B"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96004,
+      "name": "BBY FEVER",
+      "url": "https://open.spotify.com/track/1ZIapBbKNxf1kzu6BJDro9"
     },
     {
       "album": {
@@ -2752,7 +2792,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 191290,
       "name": "Billy to Billion",
       "url": "https://open.spotify.com/track/2fqRnYtRgO10Gd31aRgFs5"
@@ -7572,7 +7612,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 175081,
       "name": "GALAXY",
       "url": "https://open.spotify.com/track/2jC5UGk5jVfIZ5S9MZzkNY"
@@ -19029,6 +19069,24 @@
     },
     {
       "album": {
+        "name": "Skipping Tape Vol.3",
+        "url": "https://open.spotify.com/album/6B2Mj4AkEc2mxj0x1ML4AD"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Tee Shyne Flow",
+      "url": "https://open.spotify.com/track/2TbcC82ZBbUgeEwpI6IaTD"
+    },
+    {
+      "album": {
         "name": "Tekipaki",
         "url": "https://open.spotify.com/album/1Tyr6qPtB9m7jVadeTgA57"
       },
@@ -21686,7 +21744,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 193014,
       "name": "ZERO ZERO (feat. BAY)",
       "url": "https://open.spotify.com/track/6x7twxzTZk5EJZh9ITef8B"

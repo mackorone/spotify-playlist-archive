@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 619450,
+  "num_followers": 619903,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Standards (Deluxe)",
-        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 272085,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "So in Love",
         "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 275043,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/7IeAEMhtC2iFE910W1Ghvw"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "Standards (Deluxe)",
+        "url": "https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3rSygnXIRbxtJ9suj12MqW"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Make this moment",
-        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
-      },
-      "artists": [
-        {
-          "name": "Inger Marie Gundersen",
-          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
-        }
-      ],
-      "duration_ms": 287613,
-      "name": "Will you still love me tomorrow",
-      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "From Paris With Love",
         "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 288693,
       "name": "From Paris With Love - Single Version",
       "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "Make this moment",
+        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
+      },
+      "artists": [
+        {
+          "name": "Inger Marie Gundersen",
+          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
+        }
+      ],
+      "duration_ms": 287613,
+      "name": "Will you still love me tomorrow",
+      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
-      },
-      "artists": [
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/6uVNemRftt2xjaunmnx7Pr"
       },
@@ -839,22 +819,6 @@
       "duration_ms": 217480,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/635wx6uv5nTm4FFySw3cMW"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -875,6 +839,42 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+      },
+      "artists": [
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
         "name": "These Are the Memories",
         "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 273670,
       "name": "These Are the Memories",
       "url": "https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
-        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
-      },
-      "artists": [
-        {
-          "name": "Jacintha",
-          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Here's to Life",
-      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -927,18 +911,18 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "At First Light",
-        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
+        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
       },
       "artists": [
         {
-          "name": "Silje Nergaard",
-          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+          "name": "Jacintha",
+          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
         }
       ],
-      "duration_ms": 299213,
-      "name": "Be Still My Heart",
-      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
+      "duration_ms": 287426,
+      "name": "Here's to Life",
+      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -955,6 +939,22 @@
       "duration_ms": 221832,
       "name": "I've Drawn Your Face",
       "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
+      },
+      "artists": [
+        {
+          "name": "Silje Nergaard",
+          "url": "https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Be Still My Heart",
+      "url": "https://open.spotify.com/track/4KAUdFfxYtrerQEw4fwAKq"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "My Romance",
         "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 170767,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
         "name": "Take on Me",
         "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
       "artists": [
         {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
         }
       ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+      "duration_ms": 257680,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1203,22 +1219,6 @@
       "duration_ms": 344223,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 257680,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1375,34 +1375,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "I\u00b4m a Fool to Want You",
-        "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        },
-        {
-          "name": "Marcelo Kimura",
-          "url": "https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3"
-        },
-        {
-          "name": "Fi Mar\u00f3stica",
-          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
-        }
-      ],
-      "duration_ms": 246349,
-      "name": "I\u00b4m a Fool to Want You",
-      "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -1431,6 +1403,34 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "I\u00b4m a Fool to Want You",
+        "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        },
+        {
+          "name": "Marcelo Kimura",
+          "url": "https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3"
+        },
+        {
+          "name": "Fi Mar\u00f3stica",
+          "url": "https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP"
+        }
+      ],
+      "duration_ms": 246349,
+      "name": "I\u00b4m a Fool to Want You",
+      "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "You Are There",
         "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 345176,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
+        "name": "Autumn Breeze",
+        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        },
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Autumn Breeze",
+      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 170000,
       "name": "Girl from Ipanema",
       "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
-        "name": "Autumn Breeze",
-        "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        },
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Autumn Breeze",
-      "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "The Moon, the Stars and You",
-        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "The Moon's a Harsh Mistress",
-      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "I Wanna Be Loved",
         "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 230000,
       "name": "I Wanna Be Loved",
       "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "The Moon, the Stars and You",
+        "url": "https://open.spotify.com/album/2UpH0ZpjEikrIm0mXXlDYq"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "The Moon's a Harsh Mistress",
+      "url": "https://open.spotify.com/track/5Qi9WIVlqdbmlN9yqoCCaH"
     },
     {
       "added_at": "2025-09-05 08:58:28",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2025-09-05 08:58:28",
       "album": {
-        "name": "A Reckoning Bell",
-        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
-      },
-      "artists": [
-        {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
-        }
-      ],
-      "duration_ms": 261500,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
-    },
-    {
-      "added_at": "2025-09-05 08:58:28",
-      "album": {
         "name": "Dreamers Ball",
         "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 283960,
       "name": "Dreamers Ball",
       "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
+    },
+    {
+      "added_at": "2025-09-05 08:58:28",
+      "album": {
+        "name": "A Reckoning Bell",
+        "url": "https://open.spotify.com/album/6GKocL930IvNJmtyfCCidO"
+      },
+      "artists": [
+        {
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+        }
+      ],
+      "duration_ms": 261500,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/13MCrdnvqoKGl4emlgLuE7"
     },
     {
       "added_at": "2025-09-05 08:58:28",

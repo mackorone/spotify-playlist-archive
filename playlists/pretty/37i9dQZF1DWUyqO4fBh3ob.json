@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Syria.",
-  "num_followers": 57966,
+  "num_followers": 57976,
   "original_name": "Syria Sounds",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-02-20 21:13:59",
       "album": {
-        "name": "Hasaruha",
-        "url": "https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa"
-      },
-      "artists": [
-        {
-          "name": "Taim Saleh",
-          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Hasaruha",
-      "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
-    },
-    {
-      "added_at": "2025-02-20 21:13:59",
-      "album": {
         "name": "Hada Omri",
         "url": "https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 210274,
       "name": "Hada Omri",
       "url": "https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA"
+    },
+    {
+      "added_at": "2025-02-20 21:13:59",
+      "album": {
+        "name": "Hasaruha",
+        "url": "https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa"
+      },
+      "artists": [
+        {
+          "name": "Taim Saleh",
+          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Hasaruha",
+      "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
     },
     {
       "added_at": "2025-02-20 21:13:59",

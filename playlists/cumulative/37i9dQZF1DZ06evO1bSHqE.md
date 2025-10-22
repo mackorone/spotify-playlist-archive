@@ -4,7 +4,7 @@
 
 > This is Britney Spears\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 37 min
+78 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 | 2023-07-28 |  |
 | [From the Bottom of My Broken Heart](https://open.spotify.com/track/70XtWbcVZcpaOddJftMcVi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 5:12 | 2023-07-28 |  |
 | [Get Back](https://open.spotify.com/track/59Xb5YkZ1AFrMD19T6cKr8) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:49 | 2023-10-01 |  |
-| [Get Naked \(I Got a Plan\)](https://open.spotify.com/track/0PGxTaUcMggyJxTyLy0uOx) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:45 | 2023-07-28 |  |
+| [Get Naked \(I Got a Plan\)](https://open.spotify.com/track/0PGxTaUcMggyJxTyLy0uOx) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:45 | 2023-07-28 | 2025-10-22 |
 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 | 2023-07-28 |  |
 | [Girl In The Mirror](https://open.spotify.com/track/1w38btCk5RP4xusuVua1XQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again \(25th Anniversary Edition\)](https://open.spotify.com/album/3RRrDxe2LPTII2ySlOvlh6) | 3:37 | 2025-05-22 | 2025-07-28 |
 | [Heart \- 2009 Remaster](https://open.spotify.com/track/1u2OZ42pGR7gfhWHb2yc0S) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:00 | 2023-08-30 | 2023-09-03 |
@@ -83,6 +83,7 @@
 | [Toy Soldier](https://open.spotify.com/track/4uSLxMqGSIuWeMSoLdoKq3) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:21 | 2024-04-24 | 2024-05-27 |
 | [Unusual You](https://open.spotify.com/track/5yFDS6dDzjjmGFVaYcwPAB) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 4:21 | 2023-12-13 | 2024-04-20 |
 | [What U See \(Is What U Get\)](https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:36 | 2023-07-28 |  |
+| [Why Should I Be Sad](https://open.spotify.com/track/05ysmI6jXcCYLNPCOu9vnQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:10 | 2025-10-22 |  |
 | [Womanizer](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:44 | 2023-07-28 |  |
 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 | 2023-07-28 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
-  "num_followers": 122295,
+  "num_followers": 122311,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "Sunkissed",
-        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
-      },
-      "artists": [
-        {
-          "name": "Urworld",
-          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
-        }
-      ],
-      "duration_ms": 242154,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "clean",
         "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 258401,
       "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
+      },
+      "artists": [
+        {
+          "name": "Urworld",
+          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
+        }
+      ],
+      "duration_ms": 242154,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "duration_ms": 191392,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
         "url": "https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 185099,
       "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
       "url": "https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
-      },
-      "artists": [
-        {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
-        }
-      ],
-      "duration_ms": 191392,
-      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
         "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190000,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
       "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
+        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
+      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21 - Single",
         "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 261250,
       "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e1e\u0e34\u0e07 - Single",
-        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 242727,
-      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
-      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
-        "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
+        "name": "\u0e1e\u0e34\u0e07 - Single",
+        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
       },
       "artists": [
         {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
         }
       ],
-      "duration_ms": 215238,
-      "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
-      "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+      "duration_ms": 242727,
+      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
+      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1479,26 +1479,6 @@
       "duration_ms": 207705,
       "name": "\u0e14\u0e27\u0e07\u0e43\u0e08",
       "url": "https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "This City Won\u2019t Be Lonely Anymore",
-        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        },
-        {
-          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
-          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
-      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1523,6 +1503,26 @@
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "This City Won\u2019t Be Lonely Anymore",
+        "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        },
+        {
+          "name": "feat. \u0e2d\u0e2d\u0e21 TELExTELEXs",
+          "url": "https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
+      "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
     },
     {
       "added_at": "2025-08-17 11:48:50",

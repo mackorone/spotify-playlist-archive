@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-303 songs - 15 hr 48 min
+304 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-04-26 |  |
 | [Make Way](https://open.spotify.com/track/3OJKxDtTQCVCMZ4dCvFcep) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Make Way](https://open.spotify.com/album/7MVKL0h5yHt8L2VP7W7NgM) | 3:17 | 2023-08-11 | 2023-09-19 |
 | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Mamma Mia \(feat\. Mentissa\) \[Techno Mix\]](https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf) | 3:20 | 2024-09-06 |  |
-| [Me Gusta](https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Me Gusta](https://open.spotify.com/album/4QziocRlxq0VgHwO2X9vsP) | 3:10 | 2025-09-12 |  |
+| [Me Gusta](https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Me Gusta](https://open.spotify.com/album/4QziocRlxq0VgHwO2X9vsP) | 3:10 | 2025-09-12 | 2025-10-22 |
 | [Meet Her At The Love Parade](https://open.spotify.com/track/58bT1VNZ0Itc70Sz7mcueT) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Meet Her At The Love Parade](https://open.spotify.com/album/3yZ5NNRrnEtyJFkylL0SaK) | 2:48 | 2024-05-17 |  |
 | [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 | 2024-09-13 | 2025-05-14 |
 | [Metro](https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/0ocTSn2voe5urhlqJaLjfC) | 3:59 | 2024-01-05 | 2024-04-19 |
@@ -311,5 +311,6 @@
 | [Work That Body](https://open.spotify.com/track/20NQhs8KmLKBXmPJXB7jn9) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Temper](https://open.spotify.com/artist/0mvc9ZkNsOGa8coriUFV1h), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Work That Body](https://open.spotify.com/album/6olBCFfy8ATzQRpxQrPnfy) | 2:15 | 2025-05-16 | 2025-06-06 |
 | [XTC](https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [XTC](https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2) | 2:56 | 2024-07-12 | 2024-12-02 |
 | [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-13 |  |
+| [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-17 |  |
 
 \*This playlist was first scraped on 2023-08-12. Prior content cannot be recovered.

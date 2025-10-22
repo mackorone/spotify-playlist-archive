@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "\u30ea\u30f3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/41uDPJ2V8NCVlaV0BPcTC4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265533,
+      "name": "\u30ea\u30f3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/03z6ZZyBOo8crNdUS6eSKJ"
+    },
+    {
+      "album": {
         "name": "\u30eb\u30df\u30ca\u30b9",
         "url": "https://open.spotify.com/album/7i4MHVRVxRFWMwzr41RvcY"
       },
@@ -1558,6 +1576,28 @@
       "duration_ms": 262666,
       "name": "\u5c71\u8336\u82b1\u306e\u8de1",
       "url": "https://open.spotify.com/track/1ewrd7yGNQUquQgby3HD8C"
+    },
+    {
+      "album": {
+        "name": "\u65ec\u30ce\u75de\u3001\u5922\u30ce\u75e3",
+        "url": "https://open.spotify.com/album/0RUKC5eVQUJmbX8tvf4vZp"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u660e\u3059\u307f\u308c(CV:\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/3ThhEBHZQDfXjRGLjASXZO"
+        },
+        {
+          "name": "\u65e5\u66ae\u3075\u3046\u304b(CV:\u8c4a\u7530\u840c\u7d75)",
+          "url": "https://open.spotify.com/artist/3pwju1HzFlGD6ryNVFabZY"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "\u65ec\u30ce\u75de\u3001\u5922\u30ce\u75e3",
+      "url": "https://open.spotify.com/track/57hmF2LB04duuagw5mks2w"
     },
     {
       "album": {

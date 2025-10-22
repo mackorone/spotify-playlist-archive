@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 2988,
+  "num_followers": 2990,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,30 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Tittewyt",
+        "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        },
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        },
+        {
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Tittewyt",
+      "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Hosh Pakamisa",
         "url": "https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3"
       },
@@ -319,30 +343,6 @@
       "duration_ms": 176326,
       "name": "Hosh Pakamisa",
       "url": "https://open.spotify.com/track/5zgeFWjhJYldLf3FMACFEc"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Tittewyt",
-        "url": "https://open.spotify.com/album/0vL0GrNmwHfbVJUYX3xAIx"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        },
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        },
-        {
-          "name": "Jayms",
-          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Tittewyt",
-      "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Nooit Geweet",
+        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        },
+        {
+          "name": "Jemaine Julies",
+          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "Nooit Geweet",
+      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Get This Bag (feat. Shouldbeyuang)",
         "url": "https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 172943,
       "name": "Get This Bag (feat. Shouldbeyuang)",
       "url": "https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Nooit Geweet",
-        "url": "https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4"
-      },
-      "artists": [
-        {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
-        },
-        {
-          "name": "Jemaine Julies",
-          "url": "https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "Nooit Geweet",
-      "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
     },
     {
       "added_at": "2025-06-27 09:27:23",

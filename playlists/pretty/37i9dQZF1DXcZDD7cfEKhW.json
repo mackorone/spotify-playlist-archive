@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Zara Larsson",
-  "num_followers": 4051981,
+  "num_followers": 4051986,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Do It To It (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 125280,
-      "name": "Do It To It - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
         "name": "Born Again (Purple Disco Machine Remix) (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/3gQLayLf72WrSISvFr8iOt"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 212880,
       "name": "Born Again (feat. Doja Cat & RAYE) - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7yRkdZDEKjSUP45TlkGvCd"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Do It To It (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 125280,
+      "name": "Do It To It - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
       "added_at": "2025-09-05 13:32:53",

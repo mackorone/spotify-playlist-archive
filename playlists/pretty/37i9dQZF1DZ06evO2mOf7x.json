@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46603,
+  "num_followers": 46608,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAByOFjatltynIFrdNlJNtDm",
+  "snapshot_id": "aPV7gAAAAAB3+7JDo0MfLjer92HIVneJ",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 184469,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 186093,
       "name": "Solos",
       "url": "https://open.spotify.com/track/3byH3GMx87vBLSFF3tzh9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 184469,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2oK0C7gT4VOoYSG80I0DPo"
     },
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 157920,
       "name": "Besos Robados",
       "url": "https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Gaby Amarantos e mais mulheres incríveis no volume máximo! co\-curada por Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,590 likes - 46 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,605 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 22 | [No Meio do Pitiú](https://open.spotify.com/track/0j4smktx4vpIR5D5gSCdfg) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/5MkpYXXhFHuBp4mNfFDCYB) | 4:08 |
 | 23 | [Não Vou Chorar](https://open.spotify.com/track/0RbSlxSKLv5Pz2A47o7vm6) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:25 |
 | 24 | [Amor Próprio](https://open.spotify.com/track/6OPprj5RhUpaXmdYn4JPk5) | [Carol Lyne](https://open.spotify.com/artist/6CNcWQ6XRW3RNddWCeyvBO) | [Amor Próprio](https://open.spotify.com/album/3YEfwEpTgO8wTW4ixLm0pN) | 2:48 |
-| 25 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
-| 26 | [Céu Azul](https://open.spotify.com/track/2mGFPlmBH20hj4J0rNesux) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [ft \(pt\. 1\)](https://open.spotify.com/album/3B4cJlGVff9RiNXDHezkhr) | 3:44 |
+| 25 | [Céu Azul](https://open.spotify.com/track/2mGFPlmBH20hj4J0rNesux) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [ft \(pt\. 1\)](https://open.spotify.com/album/3B4cJlGVff9RiNXDHezkhr) | 3:44 |
+| 26 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
 | 27 | [Galera da Golada](https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:31 |
 | 28 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 29 | [Delírio Favorito](https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Delírio Favorito](https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Darlene Zschech
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,208 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,430 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 96 | [How He Loves \- Live](https://open.spotify.com/track/5AuAueIKfg6k7QR0C7Yj4N) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [We Cry Out \(Live\)](https://open.spotify.com/album/2oX39zQNTTWA4zxVMuebh1) | 8:53 |
 | 97 | [Lamb of God](https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Church Songs](https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6) | 4:11 |
 | 98 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 |
-| 99 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/2A8CedURGD092Wp2FfTnAC) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/1LqHu3QaVhNMDJCEj115fy) | 4:13 |
-| 100 | [My Victory](https://open.spotify.com/track/1aVJCLIbgvlp3e8Znmpkfz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 4:17 |
+| 99 | [My Victory](https://open.spotify.com/track/1aVJCLIbgvlp3e8Znmpkfz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 4:17 |
+| 100 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/2A8CedURGD092Wp2FfTnAC) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/1LqHu3QaVhNMDJCEj115fy) | 4:13 |
 
 Snapshot ID: `AAAAADY19Jnw3jsfeitIjvuE92lBIbVL`

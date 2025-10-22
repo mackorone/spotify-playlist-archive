@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 110851,
+  "num_followers": 110881,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "SANTANA MONEY GANG",
-        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 182245,
-      "name": "NON METTERCI BECCO",
-      "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
+        "name": "SANTANA MONEY GANG",
+        "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 182245,
+      "name": "NON METTERCI BECCO",
+      "url": "https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -359,30 +359,22 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 205524,
-      "name": "Calcolatrici",
-      "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -407,22 +399,30 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
+      "duration_ms": 205524,
+      "name": "Calcolatrici",
+      "url": "https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
+        "name": "CHAMPIONS LEAGUE",
+        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "CHAMPIONS LEAGUE",
+      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
         "name": "Mafia Slime 2",
         "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 185000,
       "name": "Anno Fantastico (feat. Shiva, Tony Boy)",
       "url": "https://open.spotify.com/track/5PML6KBG7m6NVjpiYBLB8S"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
-        "name": "CHAMPIONS LEAGUE",
-        "url": "https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4"
-      },
-      "artists": [
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "CHAMPIONS LEAGUE",
-      "url": "https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB"
     },
     {
       "added_at": "2025-10-13 07:48:47",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2025-10-13 07:48:47",
       "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Codeine (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
+    },
+    {
+      "added_at": "2025-10-13 07:48:47",
+      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
-    },
-    {
-      "added_at": "2025-10-13 07:48:47",
-      "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Codeine (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
     },
     {
       "added_at": "2025-10-13 07:48:47",

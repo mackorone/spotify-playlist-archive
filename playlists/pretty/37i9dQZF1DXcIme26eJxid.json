@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 122142,
+  "num_followers": 122190,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Love & Death",
+        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 415090,
+      "name": "Love and Death",
+      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Fatteliku (Live in Athens 1987)",
         "url": "https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        }
-      ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
       },
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
         "name": "Talking Timbuktu",
         "url": "https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 328826,
       "name": "Bonde",
       "url": "https://open.spotify.com/track/5xH0qbaqtzc2onO0XC2Ywu"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     }
   ],
   "unique_name": "Classic Afropop",

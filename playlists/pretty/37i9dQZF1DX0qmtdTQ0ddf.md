@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qmtdTQ0ddf.md) - [plain]
 
 > Sophisticated palates only\. Curated by: The StudBudz
 
-[Spotify](https://open.spotify.com/user/spotify) - 754 likes - 38 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 769 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

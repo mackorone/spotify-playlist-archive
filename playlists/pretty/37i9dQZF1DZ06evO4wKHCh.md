@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,453 likes - 31 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,459 likes - 31 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 10 | [Cynical](https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:14 |
 | 11 | [You Are Bad](https://open.spotify.com/track/6tSSghRWA2iOW4jGXSttwX) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 2:18 |
 | 12 | [Ferris Bueller](https://open.spotify.com/track/14YzvOvrATzkS7f5sJOw2k) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4I0vC4wtvUmowO4rMM3eOV) | 1:57 |
-| 13 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
-| 14 | [Talk Talk Talk](https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Talk Talk Talk](https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo) | 3:15 |
+| 13 | [Talk Talk Talk](https://open.spotify.com/track/4HvSwd9s3C6UdLQyUm2Elk) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Talk Talk Talk](https://open.spotify.com/album/4w7lV4bRkdPxEfkv3CGEbo) | 3:15 |
+| 14 | [Backtrack](https://open.spotify.com/track/6XFtHhrlPKL4qEVDVMOcd6) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/0X3WVWpooMcgdYUCGQDzJy) | 2:38 |
 | 15 | [711](https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:29 |
 | 16 | [RABBITHOLE](https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr) | 2:21 |
 | 17 | [RE\-IGNITION](https://open.spotify.com/track/5LsdMS59gJEuf4seMJJSlg) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ARB4](https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RE\-IGNITION](https://open.spotify.com/album/51FP4KjvG8iZEyINKiuQ2W) | 3:24 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 30 | [Human Being \- Demo](https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 1:59 |
 | 31 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 
-Snapshot ID: `aPQqAAAAAAAbTZIEsRw3C5hrVMW7CNV/`
+Snapshot ID: `aPV7gAAAAAAPbX3TAC1ScNM7yNevPQzR`

@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAFqvwRP4ytel5on/SKh58UBqxctXN1",
+  "snapshot_id": "AAAFuc6GXcxEGLXzlHduiaYGAt7Lp7ja",
   "tracks": [
+    {
+      "added_at": "2025-10-21 08:37:39",
+      "album": {
+        "name": "\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8",
+        "url": "https://open.spotify.com/album/2vOqQ6bYgKZUiMaViWRqht"
+      },
+      "artists": [
+        {
+          "name": "\u3061\u304b\u308b\u3068\u3075",
+          "url": "https://open.spotify.com/artist/5oIVtZdjacYptHdRSGkU5z"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 194799,
+      "name": "\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8\u30c6\u30c8 (feat. \u91cd\u97f3\u30c6\u30c8&Ryo)",
+      "url": "https://open.spotify.com/track/4RjriKgz4HVoDNv23kJYJ3"
+    },
+    {
+      "added_at": "2025-10-21 08:38:01",
+      "album": {
+        "name": "KALEIDO",
+        "url": "https://open.spotify.com/album/6nAgns6nJVScNM3PMu7yoM"
+      },
+      "artists": [
+        {
+          "name": "whoo",
+          "url": "https://open.spotify.com/artist/2PhFw7yt46F2dU8PV2eGpz"
+        }
+      ],
+      "duration_ms": 288153,
+      "name": "KALEIDO (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1312r2ILOQa3nI3kE59D9o"
+    },
+    {
+      "added_at": "2025-10-21 08:41:36",
+      "album": {
+        "name": "\u30af\u30a9\u30fc\u30c4\u30a1\u30b9",
+        "url": "https://open.spotify.com/album/6Iy2i5ByWHzmiJvbkBwTXa"
+      },
+      "artists": [
+        {
+          "name": "ryuryu",
+          "url": "https://open.spotify.com/artist/7dfblDi88zLmvIt9f5sRXc"
+        }
+      ],
+      "duration_ms": 366360,
+      "name": "\u30af\u30a9\u30fc\u30c4\u30a1\u30b9",
+      "url": "https://open.spotify.com/track/16ysnBNaMTKGaRjiSoMIun"
+    },
+    {
+      "added_at": "2025-10-21 08:41:51",
+      "album": {
+        "name": "\u30cd\u30e0\u30a4\u3000\u30cd\u30eb\u30ab",
+        "url": "https://open.spotify.com/album/46qNs4wxeX1wKujq9Ka4rR"
+      },
+      "artists": [
+        {
+          "name": "\u3055\u3080\u305d\u3093",
+          "url": "https://open.spotify.com/artist/44vhpBC6Xc6f7o8AhEJi5Q"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 228656,
+      "name": "\u30cd\u30e0\u30a4\u3000\u30cd\u30eb\u30ab (feat. \u5de1\u97f3\u30eb\u30ab&\u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/132ew5PbijjGiqXuEl8gmm"
+    },
+    {
+      "added_at": "2025-10-21 08:42:08",
+      "album": {
+        "name": "\u661f\u5b99\u306e\u4e94\u7dda\u8b5c",
+        "url": "https://open.spotify.com/album/6XesG5ZZvwCoT8rgdIsQee"
+      },
+      "artists": [
+        {
+          "name": "DAISUKE-P",
+          "url": "https://open.spotify.com/artist/4PP9U6kcGYrfExuVaq3R2D"
+        }
+      ],
+      "duration_ms": 361284,
+      "name": "\u661f\u5b99\u306e\u4e94\u7dda\u8b5c",
+      "url": "https://open.spotify.com/track/4fAGkMTVD19IHw5v3RJMUf"
+    },
     {
       "added_at": "2025-10-14 08:13:38",
       "album": {
@@ -735,106 +827,6 @@
       "duration_ms": 173428,
       "name": "\u3042\u3063\u304b\u3093\u3079\u30fc\u3060 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5WKjE88dblxaXYAn1mOKKT"
-    },
-    {
-      "added_at": "2025-08-19 09:24:45",
-      "album": {
-        "name": "Laundry",
-        "url": "https://open.spotify.com/album/5gr3nmNTPuOQwLWu9NSW1c"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
-          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "Laundry (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1b7lGIZZoA0czDl1Ycribj"
-    },
-    {
-      "added_at": "2025-08-19 09:24:58",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/1O644z6lOZSt3tdsyStFut"
-      },
-      "artists": [
-        {
-          "name": "Mushi-P",
-          "url": "https://open.spotify.com/artist/2GxUkhqYVibWFE5biWc3V0"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 325714,
-      "name": "Espresso (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/253vXHuMcsEVLw6gccL0vi"
-    },
-    {
-      "added_at": "2025-08-19 09:25:10",
-      "album": {
-        "name": "\u305d\u308c\u3060\u3051",
-        "url": "https://open.spotify.com/album/3VxXVKfN2HKLRk3kCjyLIS"
-      },
-      "artists": [
-        {
-          "name": "forute",
-          "url": "https://open.spotify.com/artist/4aPeEvvMZUspd0xWVtUWRG"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "\u305d\u308c\u3060\u3051 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6hxQkiu9WNoxITD8IMIq5J"
-    },
-    {
-      "added_at": "2025-08-19 09:25:21",
-      "album": {
-        "name": "\u590f\u67af\u306b\u6b69\u304f\u9053",
-        "url": "https://open.spotify.com/album/1GWQx7lAKpM0DcON7wDiwg"
-      },
-      "artists": [
-        {
-          "name": "Aoto Kei",
-          "url": "https://open.spotify.com/artist/2xiTu4bRHOuHaxWndb7MRN"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 90352,
-      "name": "\u590f\u67af\u306b\u6b69\u304f\u9053 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6uCkENDtHJ0saZMATQXKHH"
-    },
-    {
-      "added_at": "2025-08-19 09:25:33",
-      "album": {
-        "name": "El Condimento",
-        "url": "https://open.spotify.com/album/3wjsvqllr0xHqDQBQMIRns"
-      },
-      "artists": [
-        {
-          "name": "AlexTrip Sands",
-          "url": "https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 275969,
-      "name": "El Condimento (feat. MEIKO&\u91cd\u97f3\u30c6\u30c8&\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9&\u5bae\u821e\u30e2\u30ab&\u6c37\u5c71\u30ad\u30e8\u30c6\u30eb)",
-      "url": "https://open.spotify.com/track/3RhdtejMLcglGNeppVAS9K"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

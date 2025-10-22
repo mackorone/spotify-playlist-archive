@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 617482,
+  "num_followers": 617671,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAARxreW0YZNAnrp5efknvW2",
+  "snapshot_id": "aPV7gAAAAADchFsHETVxj1nYIGkDuCHk",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+        "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
+        "url": "https://open.spotify.com/album/7sZ70n45HG0bZ44E7ApqXq"
       },
       "artists": [
         {
@@ -168,13 +168,17 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         },
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
+      "duration_ms": 268838,
+      "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
+      "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
     },
     {
       "added_at": null,
@@ -195,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elisabeth",
-        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 221250,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js"
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": null,
@@ -223,6 +231,22 @@
       "duration_ms": 211315,
       "name": "The Good I'll Do",
       "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js"
     },
     {
       "added_at": null,
@@ -263,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 163031,
+      "name": "Sun to Me",
+      "url": "https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bowery (feat. Kings of Leon)",
         "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
@@ -279,22 +319,6 @@
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 163031,
-      "name": "Sun to Me",
-      "url": "https://open.spotify.com/track/1SjsVdSXpwm1kTdYEHoPIT"
     },
     {
       "added_at": null,
@@ -439,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Onto Something (feat. Zach Bryan)",
-        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
       "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        },
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 222721,
-      "name": "We're Onto Something (feat. Zach Bryan)",
-      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+      "duration_ms": 178573,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
     },
     {
       "added_at": null,
@@ -491,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DeAnn",
         "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
       },
@@ -500,25 +540,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/6K4336phprB3Mj8qwYxibR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Jean Baby",
-        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 132068,
-      "name": "Blue Jean Baby",
-      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
+      "duration_ms": 174673,
+      "name": "Condemned",
+      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
     },
     {
       "added_at": null,
@@ -535,6 +559,22 @@
       "duration_ms": 209089,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Jean Baby",
+        "url": "https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 132068,
+      "name": "Blue Jean Baby",
+      "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
     },
     {
       "added_at": null,
@@ -564,9 +604,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 174673,
-      "name": "Condemned",
-      "url": "https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p"
+      "duration_ms": 253359,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
     },
     {
       "added_at": null,
@@ -623,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 253359,
-      "name": "God Speed",
-      "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiet, Heavy Dreams",
         "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
       },
@@ -651,6 +675,22 @@
       "duration_ms": 197226,
       "name": "Crooked Teeth",
       "url": "https://open.spotify.com/track/0Is8zshpnWUiFQJIYAMrQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 239761,
+      "name": "Letting Someone Go",
+      "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
     },
     {
       "added_at": null,
@@ -683,22 +723,6 @@
       "duration_ms": 199893,
       "name": "High Road",
       "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 239761,
-      "name": "Letting Someone Go",
-      "url": "https://open.spotify.com/track/6Wxx1jXr6EyGdt8RuYFzvj"
     },
     {
       "added_at": null,
@@ -839,22 +863,6 @@
       "duration_ms": 211194,
       "name": "Deep Satin",
       "url": "https://open.spotify.com/track/1u2Fe70Qm9VFCIMPWFlfc1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DeAnn",
-        "url": "https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 203359,
-      "name": "Don't Give up on Me",
-      "url": "https://open.spotify.com/track/1lGtn2Y4XarLIKdgoAeUdU"
     }
   ],
   "unique_name": "This Is Zach Bryan",

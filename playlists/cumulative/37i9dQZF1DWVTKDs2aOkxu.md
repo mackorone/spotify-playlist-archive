@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: bar italia
 
-710 songs - 1 day 18 hr 25 min
+711 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,6 +607,7 @@
 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [The Burren](https://open.spotify.com/track/0o4rSqA5H8Y2HrMqBf6TD5) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were \(10th Year Anniversary Deluxe\)](https://open.spotify.com/album/5ncFZmznUiXpbw2rIMwLP8) | 5:25 | 2024-10-10 | 2024-11-15 |
 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 | 2025-10-02 |  |
+| [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 | 2025-10-21 |  |
 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 | 2024-07-25 | 2024-10-18 |
 | [The Field](https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [After EP 2](https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz) | 3:28 | 2025-10-16 |  |
 | [The Fighter](https://open.spotify.com/track/2eD0yvsZSOWtYEUJwRNbD2) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [The Fighter](https://open.spotify.com/album/5f4XgltujdtbwYtr8ei6tr) | 3:13 | 2024-11-01 | 2025-01-17 |

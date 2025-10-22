@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,961 likes - 110 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,976 likes - 110 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [O Come All Ye Faithful \- Spotify Singles Holiday](https://open.spotify.com/track/6iO6ZLKaJF13fuF5HUFSEM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [O Come All Ye Faithful \(Spotify Singles Holiday\)](https://open.spotify.com/album/6oBl2LRITtZjDTPBYCnuWK) | 3:05 |
 | 2 | [Peace, Love, and Cowboys \- Holiday Edition](https://open.spotify.com/track/47uI5J1L1XdUpxW1ljuXH3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Peace, Love, and Cowboys \(Holiday Edition\)](https://open.spotify.com/album/1gpUamRdguofn1d7duASk0) | 3:33 |
 | 3 | [Leave The Christmas Lights On For Me](https://open.spotify.com/track/3lSGhsUHrGDavaq1veyNyB) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Leave The Christmas Lights On For Me](https://open.spotify.com/album/6mArcDIknHsPMtmWpuyQny) | 4:09 |
-| 4 | [Christmastime Is Here](https://open.spotify.com/track/3pzBmTac4UZLxdYPVMRuzM) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Christmastime Is Here](https://open.spotify.com/album/79TYsmEva4aPAaNhyS7JWl) | 3:09 |
+| 4 | [Christmas Time Is Here](https://open.spotify.com/track/3pzBmTac4UZLxdYPVMRuzM) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Christmas Time Is Here](https://open.spotify.com/album/79TYsmEva4aPAaNhyS7JWl) | 3:09 |
 | 5 | [White Christmas](https://open.spotify.com/track/3o0sdOhXBr9hrn1eyEhE63) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [White Christmas](https://open.spotify.com/album/7okxCreZWrgvlWVR35j5w7) | 2:41 |
 | 6 | [Where Are You Christmas](https://open.spotify.com/track/21LuZH2noPmBhsvVrs6g9u) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Where Are You Christmas](https://open.spotify.com/album/11YQP0uBt7yXNruf4F5ELp) | 3:05 |
 | 7 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/3w6YUnqUiJEYjxh0lSefSb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/590drOQWjZxdv3O0BzlcKT) | 2:23 |

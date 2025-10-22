@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to get your beast mode on! ",
-  "num_followers": 106111,
+  "num_followers": 106164,
   "original_name": "Beast Mode Country",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-07-25 04:00:55",
       "album": {
+        "name": "Home Team",
+        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 196281,
+      "name": "Home Team",
+      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
+    },
+    {
+      "added_at": "2025-07-25 04:00:55",
+      "album": {
         "name": "Ride It Hard",
         "url": "https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 150861,
       "name": "Ride It Hard",
       "url": "https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL"
-    },
-    {
-      "added_at": "2025-07-25 04:00:55",
-      "album": {
-        "name": "Home Team",
-        "url": "https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd"
-      },
-      "artists": [
-        {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
-        }
-      ],
-      "duration_ms": 196281,
-      "name": "Home Team",
-      "url": "https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc"
     },
     {
       "added_at": "2025-07-25 04:00:55",

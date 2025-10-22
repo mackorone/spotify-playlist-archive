@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The hottest 50 tracks in Algeria\. Cover: Numidia Lezoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,718 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,758 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 50 | [Mélanine](https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 3:01 |
 
-Snapshot ID: `AAAAANAgl0Mn3lWcMo/pP5ASGSP5rwqz`
+Snapshot ID: `AAAAAOSk1gMM2/2iHmCBvlxw0Ay3z5no`

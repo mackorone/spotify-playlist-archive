@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12754,
+  "num_followers": 12756,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAA/MR2yc4otBepIQBg9fAei",
+  "snapshot_id": "aPV7gAAAAADIQnVgg6jaJP4Jgzeo7ATV",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Utmost For His Highest",
-        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
       "artists": [
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        },
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
         }
       ],
-      "duration_ms": 283952,
-      "name": "Lavish",
-      "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
+      "duration_ms": 268018,
+      "name": "Your Love Changes Everything",
+      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+        "name": "My Utmost For His Highest",
+        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
       },
       "artists": [
         {
           "name": "Big Daddy Weave",
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
         }
       ],
-      "duration_ms": 268018,
-      "name": "Your Love Changes Everything",
-      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
+      "duration_ms": 283952,
+      "name": "Lavish",
+      "url": "https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh"
     },
     {
       "added_at": null,

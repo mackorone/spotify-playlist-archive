@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: butaji
+> Songs from LGBTQIA+ artists\. Cover: HAAi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,194 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,137 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [​​Birthday](https://open.spotify.com/track/2ofvuA5aisQEVWUTlSvBB1) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [​​Birthday](https://open.spotify.com/album/1siEioz4rdjytJs7juSv6R) | 4:43 |
+| 1 | [Voices](https://open.spotify.com/track/101WWjTm2SfpftR03cGl06) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/6LFXb9bp8S1gnW0fOqTTmH) | 5:38 |
 | 2 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
-| 3 | [Celestial](https://open.spotify.com/track/7r0bbN93tEYoKzXC2n9kgR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Celestial](https://open.spotify.com/album/15sUyX3R3ogXhlN8jpzrGx) | 2:25 |
+| 3 | [​​Birthday](https://open.spotify.com/track/2ofvuA5aisQEVWUTlSvBB1) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [​​Birthday](https://open.spotify.com/album/1siEioz4rdjytJs7juSv6R) | 4:43 |
 | 4 | [Croccante](https://open.spotify.com/track/7qpDTasvlpAvfKF36YzMln) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Croccante, molto croccante](https://open.spotify.com/album/1tWqfXQt566CUuakCHbTot) | 2:33 |
-| 5 | [Voices](https://open.spotify.com/track/101WWjTm2SfpftR03cGl06) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/6LFXb9bp8S1gnW0fOqTTmH) | 5:38 |
+| 5 | [Celestial](https://open.spotify.com/track/7r0bbN93tEYoKzXC2n9kgR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Celestial](https://open.spotify.com/album/15sUyX3R3ogXhlN8jpzrGx) | 2:25 |
 | 6 | [Evitar](https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Evitar](https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG) | 2:49 |
 | 7 | [Fix Myself](https://open.spotify.com/track/5YMo4RRV1qm0855ir87MeO) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Fix Myself](https://open.spotify.com/album/6IOlmcK8SQp9BGGoXHDSW5) | 2:42 |
-| 8 | [Si me muero mañana](https://open.spotify.com/track/5TxfmcbrqqMnlhKYIpf1ou) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Si me muero mañana](https://open.spotify.com/album/4PMkMQqNq63gjMRz5sRWQw) | 4:17 |
-| 9 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
-| 10 | [Wasted](https://open.spotify.com/track/5SqxE0hnHs7oNZfvBSmioi) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:49 |
-| 11 | [bądź głośno](https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ) | [NATE](https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP) | [bądź głośno](https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr) | 2:38 |
-| 12 | [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 |
+| 8 | [Weekend Special \(with Brenda Fassie\) \- USA Remix](https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG) | [Brenda & The Big Dudes](https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ) | [Weekend Special \(USA Remixes\)](https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv) | 4:48 |
+| 9 | [Si me muero mañana](https://open.spotify.com/track/5TxfmcbrqqMnlhKYIpf1ou) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Si me muero mañana](https://open.spotify.com/album/4PMkMQqNq63gjMRz5sRWQw) | 4:17 |
+| 10 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
+| 11 | [Wasted](https://open.spotify.com/track/5SqxE0hnHs7oNZfvBSmioi) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:49 |
+| 12 | [bądź głośno](https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ) | [NATE](https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP) | [bądź głośno](https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr) | 2:38 |
 | 13 | [Cherries](https://open.spotify.com/track/1hCSF4F5KMgVMHqe11nWhO) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Cherries](https://open.spotify.com/album/3cii5dT0ofdnS2lwzlZuRj) | 3:12 |
 | 14 | [One Light Year](https://open.spotify.com/track/0euSxoNJdLNar1Mw9UUhex) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [One Light Year](https://open.spotify.com/album/4ezTMTgjgpN1h2NGtI7G6J) | 4:55 |
 | 15 | [Bliss](https://open.spotify.com/track/0ux3SDqL9eeyD5EBdWHjax) | [MANOID](https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM), [Milkbaby](https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX) | [Bliss](https://open.spotify.com/album/377Q1shRDshpOaNvGil6dp) | 5:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 |
 | 50 | [Oko Boma Nga](https://open.spotify.com/track/3gzcjxH87nTFtSCR9IC1Pj) | [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb), [Kyaku Kyadaff](https://open.spotify.com/artist/1oCj9jg6Vy4kaCrDpMLvg9) | [Oko Boma Nga](https://open.spotify.com/album/5z3GoDjxQ2UgubeHUh5Otp) | 4:13 |
 
-Snapshot ID: `AAAAADEGi8STSYk/hb1X7f4Gi2GYxnsI`
+Snapshot ID: `AAAAAKhGfq9jHyc5Z9YzxoJOzhsB40Sc`

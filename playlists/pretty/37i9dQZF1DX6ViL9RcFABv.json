@@ -1,6 +1,6 @@
 {
   "description": "Uma playlist de pura alma pop! Foto: Diogo Pi\u00e7arra, Bandidos do Cante",
-  "num_followers": 121185,
+  "num_followers": 121188,
   "original_name": "Pop PT",
   "owner": {
     "name": "Spotify",
@@ -76,12 +76,12 @@
       },
       "artists": [
         {
-          "name": "Miguel Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
-        },
-        {
           "name": "Os Quatro e Meia",
           "url": "https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE"
+        },
+        {
+          "name": "Miguel Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
         }
       ],
       "duration_ms": 226000,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,198 likes - 95 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,237 likes - 95 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 16 | [Departure Lane](https://open.spotify.com/track/7wGgYAOMhhRObOGdWlJ9Hi) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [My Terrible Mind](https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE) | 2:46 |
 | 17 | [Bikhra](https://open.spotify.com/track/0OdztoASgKBBNcAgtErk0X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Bikhra](https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn) | 2:48 |
 | 18 | [Luv Summer](https://open.spotify.com/track/72fnjwohXwVLqudRXiRmbc) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx) | [Luv Summer](https://open.spotify.com/album/4Rj4pFxfcihI6WlC8efI1v) | 2:50 |
-| 19 | [Post You](https://open.spotify.com/track/3ua0JRIbusVpdYMqwmq5kd) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Soomro](https://open.spotify.com/artist/21LaTM46e4X78iWHS1kvDR) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:55 |
+| 19 | [Post You](https://open.spotify.com/track/3ua0JRIbusVpdYMqwmq5kd) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:55 |
 | 20 | [Ghafoor](https://open.spotify.com/track/4Ywwc43oYbL2zRWWcbSo1c) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [The Ba\*\*\*ds Of Bollywood](https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k) | 2:46 |
 | 21 | [OBVIOUS \(feat\. Hasan Raheem\)](https://open.spotify.com/track/40MgoUXdjPRk27R1Fp7EAp) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:15 |
 | 22 | [Sukoon](https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Day 5](https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg) | 4:15 |

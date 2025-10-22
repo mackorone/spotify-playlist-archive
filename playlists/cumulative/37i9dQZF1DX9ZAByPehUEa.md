@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-682 songs - 1 day 17 hr 5 min
+683 songs - 1 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Buy Yourself friends](https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Shake Edits 1](https://open.spotify.com/album/6AnMnkiTrAAISLnkoHEpMk) | 8:16 | 2022-04-06 | 2022-04-19 |
 | [Call Me](https://open.spotify.com/track/61q6Vp9MuL6iLBxZ5GwLHU) | [Thys](https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR) | [Call Me](https://open.spotify.com/album/2PwxBgnzCPnoZIJQ2o7JA7) | 3:56 | 2025-04-07 | 2025-04-26 |
 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 | 2023-06-16 | 2025-06-28 |
+| [Callin' For Your Love](https://open.spotify.com/track/4oGXsjFaiNCnBtZaWgQzGO) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Callin' For Your Love](https://open.spotify.com/album/5zQOXmUbvwzOevumfNmqpH) | 3:37 | 2025-10-21 |  |
 | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/track/6zFjilXmasxhO0woY1ZgBo) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC) | [Calling Out Your Name \(I Can't Sleep\)](https://open.spotify.com/album/4I56zzyUFllXY2KPf1ycO1) | 3:31 | 2022-05-10 | 2022-07-15 |
 | [Can't Break Free \- Edit](https://open.spotify.com/track/3VtCXwElp4xqxjDhGAcQHE) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Can't Break Free](https://open.spotify.com/album/6rvAPUSlf34tA7GgVpJJr8) | 2:33 | 2025-03-28 |  |
 | [Can't Stop](https://open.spotify.com/track/2XtyzqHaIb1ejF0n8uCtAK) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Can't Stop](https://open.spotify.com/album/5r11OiEuYQuWXeem5H3Pa6) | 2:34 | 2024-03-01 |  |
@@ -547,7 +548,7 @@
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/45eQUenvHhoTUVgRvt7Fai) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/7IO47OClgjkDi6qbDUxmjs) | 3:22 | 2024-02-02 | 2024-02-10 |
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw) | 3:22 | 2024-02-02 | 2024-02-08 |
 | [She's Mine](https://open.spotify.com/track/6TBOR2XStkWY6sjjp1QIYb) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [She's Mine](https://open.spotify.com/album/2v81LhpbmhMj1HOzqKC2G7) | 3:35 | 2025-05-16 | 2025-07-24 |
-| [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-12-22 |  |
+| [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-12-22 | 2025-10-22 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-31 |  |
 | [shinin'](https://open.spotify.com/track/0F6XxydyksTJT8fa4TcgBQ) | [axxa\*](https://open.spotify.com/artist/4MuTo1P8rBfII96fchcoF5) | [Happy to be Here](https://open.spotify.com/album/79o35HAPiZ1fti0wKrt0wm) | 5:02 | 2025-03-14 | 2025-04-12 |
 | [Shit Cant Make Anything](https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Shit Cant Make Anything](https://open.spotify.com/album/52PiRAX8jw2CtkaEJSLZJr) | 3:13 | 2022-01-14 | 2022-07-29 |

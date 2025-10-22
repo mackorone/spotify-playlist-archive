@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,091 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,136 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Mídia](https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP) | [Mídia](https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ) | 3:53 |
 | 50 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/5GflWMue0Hausplsa02rLr) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8) | 4:02 |
 
-Snapshot ID: `aPQqAAAAAADGXRMz0Ik4gw+surLJ25BR`
+Snapshot ID: `aPV7gAAAAACpII8sON+cLlRzRpuEL/dZ`

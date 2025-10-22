@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 464465,
+  "num_followers": 464452,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "Finesse (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 192567,
-      "name": "Finesse (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
         "name": "Tomioka (with Flo Milli) [Remix]",
         "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 137532,
       "name": "Tomioka (with Flo Milli) - Remix",
       "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
+        "name": "Finesse (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 192567,
+      "name": "Finesse (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
     },
     {
       "added_at": "2025-06-20 04:00:58",

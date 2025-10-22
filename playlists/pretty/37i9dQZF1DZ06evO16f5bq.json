@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155806,
+  "num_followers": 155805,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADiy7FmeTrs8vJgoet0D8eS",
+  "snapshot_id": "aPV7gAAAAAB1iH1Uw8QgHKy93c+n0dSh",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Triz",
+          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "SOZINHO",
+      "url": "https://open.spotify.com/track/4GvumINo7IcrKMPM7KIYZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -411,30 +435,6 @@
       "duration_ms": 190000,
       "name": "7 Meiota",
       "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00caXTASE",
-        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Triz",
-          "url": "https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "SOZINHO",
-      "url": "https://open.spotify.com/track/4GvumINo7IcrKMPM7KIYZY"
     },
     {
       "added_at": null,
@@ -911,34 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebradas",
-        "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 250588,
-      "name": "Quebradas",
-      "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -995,6 +967,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quebradas",
+        "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 250588,
+      "name": "Quebradas",
+      "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00edmica",
         "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
       },
@@ -1007,30 +1007,6 @@
       "duration_ms": 153413,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RASTAFARI",
-        "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 127794,
-      "name": "RASTAFARI",
-      "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
     },
     {
       "added_at": null,
@@ -1059,6 +1035,30 @@
       "duration_ms": 150508,
       "name": "NA ONDA",
       "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RASTAFARI",
+        "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 127794,
+      "name": "RASTAFARI",
+      "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
     },
     {
       "added_at": null,

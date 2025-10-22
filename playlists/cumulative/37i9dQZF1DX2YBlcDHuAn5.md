@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-257 songs - 15 hr 14 min
+259 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Black Train](https://open.spotify.com/track/689ik4NbmpQeVmm99AjJq2) | [A Murder in Mississippi](https://open.spotify.com/artist/3iuF2R8o2xej4ZdbWdiNom) | [Black Train](https://open.spotify.com/album/4CZkAnPYSzhYa1eAVNpKt3) | 3:57 | 2024-11-08 | 2025-01-29 |
 | [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 | 2025-04-17 | 2025-07-11 |
 | [Breathless](https://open.spotify.com/track/2NCTklsgFuF3A02OZ8HwRe) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [The Reins](https://open.spotify.com/album/2K9DzxhjXaYVZeVvMaGXhX) | 3:24 | 2025-03-20 | 2025-04-18 |
-| [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 | 2025-07-10 |  |
+| [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 | 2025-07-10 | 2025-10-22 |
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 | 2024-09-13 |
 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 | 2023-02-23 | 2024-01-03 |
 | [Burning Down the Prairie](https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Burning Down the Prairie](https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb) | 3:01 | 2023-02-23 | 2023-09-08 |
@@ -75,6 +75,7 @@
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-01 | 2024-06-28 |
 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 | 2023-02-23 | 2023-10-06 |
 | [Feel Like Going Home \(feat\. The Southern Aces & Jw Roy\)](https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz), [The Southern Aces](https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Life Will Humble You](https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ) | 4:48 | 2023-04-27 | 2023-04-30 |
+| [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 | 2025-10-21 |  |
 | [First Round's On Me](https://open.spotify.com/track/1wlyN4XbTIQGc5m4m2itSP) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [First Round's On Me](https://open.spotify.com/album/5NV6aYPbb3rwxBg0isBUy8) | 3:56 | 2024-06-13 | 2025-04-14 |
 | [Flowers in the Fields](https://open.spotify.com/track/5FLPIPTV1R8g4gcQEcFcGB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Flowers in the Fields](https://open.spotify.com/album/0PRGDUzgoxuwujJqD57qLB) | 3:06 | 2024-08-01 | 2025-01-17 |
 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 | 2025-08-28 |  |
@@ -167,7 +168,7 @@
 | [Nothing Can Hurt Me Today](https://open.spotify.com/track/3SaDPZcQByxcTCRVP5dwiE) | [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Nothing Can Hurt Me Today](https://open.spotify.com/album/1u2dRTYzBBiuPszo2LZfV2) | 2:58 | 2024-07-19 | 2025-02-04 |
 | [O.D.](https://open.spotify.com/track/2E6HksJPriDYu6thbR6xrV) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Til The Sun Goes Down](https://open.spotify.com/album/4hGNvSjAbNPDni4TS22HIM) | 2:49 | 2025-02-03 |  |
 | [Once Upon A Town](https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Once Upon A Town](https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4) | 2:59 | 2023-03-30 | 2023-05-12 |
-| [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 | 2024-04-11 |  |
+| [One Deep River](https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:17 | 2024-04-11 | 2025-10-22 |
 | [One For You](https://open.spotify.com/track/35FQibrRmgzCYrAfr4zYLf) | [Johnny & the Dinosaurs](https://open.spotify.com/artist/3VE3trzA2jZU19LphjsQwS), [Aidan & the Wild](https://open.spotify.com/artist/0sJ5myIh1plIK5zWWzkjXs) | [One For You](https://open.spotify.com/album/30FhQdB4IMOf8kLTzWX01k) | 4:03 | 2024-09-12 | 2025-03-24 |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2023-02-23 | 2024-06-28 |
 | [One Step At a Time](https://open.spotify.com/track/5fxunQcvfuCoxPxR9QMvEf) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [One Step At a Time](https://open.spotify.com/album/5dkYzBM58ul629s7MqwCCD) | 2:43 | 2025-06-05 | 2025-09-16 |
@@ -238,6 +239,7 @@
 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 | 2023-02-23 | 2024-08-30 |
 | [Too Much Of A Woman](https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Too Much Of A Woman](https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d) | 3:13 | 2023-07-06 | 2024-06-07 |
 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 | 2023-02-23 | 2024-04-19 |
+| [Travel Light](https://open.spotify.com/track/4v1qgDcJzAqU3260OcmCgP) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Travel Light](https://open.spotify.com/album/00ZHqC79EA9asErkPHGWNg) | 3:14 | 2025-10-21 |  |
 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 | 2024-04-18 | 2025-04-26 |
 | [Underneath This Skin](https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Underneath This Skin](https://open.spotify.com/album/0VUhmsdVl0KYWCYcRVe2Ox) | 3:41 | 2023-04-27 | 2024-09-13 |
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2023-02-23 | 2024-06-28 |

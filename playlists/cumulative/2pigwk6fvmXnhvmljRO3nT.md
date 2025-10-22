@@ -4,7 +4,7 @@
 
 > 
 
-7,828 songs - 20 day 5 hr 0 min
+7,830 songs - 20 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1120,6 +1120,7 @@
 | [Children’s Song](https://open.spotify.com/track/56sCsLi2iULKchuWnhCsCi) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 2:12 | 2025-01-15 |  |
 | [Childs Play](https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:01 | 2025-01-03 |  |
 | [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2025-01-03 |  |
+| [Chill Bill \(feat\. J\. Davi$ & Spooks\)](https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [J\. Davi$](https://open.spotify.com/artist/1rs3y69kDwkIdGJcOYngQt), [J Spooks](https://open.spotify.com/artist/36Tn5h23ysORlLKc42UXfe) | [Chill Bill \(feat\. J\. Davi$ & Spooks\)](https://open.spotify.com/album/5qBu7Ab6alstSCAzxTJMb1) | 2:57 | 2025-10-21 |  |
 | [CHILLAX](https://open.spotify.com/track/4TsOQZGMRCVUhS7cNzhdVF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:06 | 2025-01-15 |  |
 | [Chilling at the Cafe](https://open.spotify.com/track/0bAnMjBZEqlj39SpHB1omj) | [毎日甘いもの食べたい](https://open.spotify.com/artist/1GctxKMcdLc0FwcbpYJqrL) | [Chilling at the Cafe](https://open.spotify.com/album/74ad0BSaRnowjUARYYoxkr) | 1:24 | 2025-03-29 |  |
 | [Chinese Arithmetic](https://open.spotify.com/track/6Y21fOnNPCGQ5w5SSW0qlH) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 4:06 | 2025-01-03 |  |
@@ -4224,6 +4225,7 @@
 | [No Way Back](https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:16 | 2025-01-03 |  |
 | [No Worries](https://open.spotify.com/track/1UKn8bOlQO1gakfDhyu1FN) | [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [No Worries](https://open.spotify.com/album/1mJMKjZhjvbqj1vsLq5OHT) | 3:01 | 2025-04-29 |  |
 | [No Worries](https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Detail](https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 3:42 | 2025-03-07 |  |
+| [no, no](https://open.spotify.com/track/3cL7IJSXz0tieWn9CSAunx) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [weight of the world](https://open.spotify.com/album/5SAhBlk4YQyyEFzoDrvRfP) | 1:50 | 2025-10-21 |  |
 | [No\. 1 Headband](https://open.spotify.com/track/1SKtsG3EsJw75hNMRrCgLm) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 4:23 | 2025-01-04 |  |
 | [No\. 99](https://open.spotify.com/track/1gy1Uhh6UP8AYeCFQSENm1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [B4.DA.$$](https://open.spotify.com/album/2NTIYavFZmU1PCvJvn2USJ) | 2:51 | 2025-01-03 |  |
 | [Nobility of Time](https://open.spotify.com/track/6acQkNvNyivTZlGScu9b0C) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/79MWIC3te7wmBeiLs5DM75) | 1:57 | 2025-08-11 |  |

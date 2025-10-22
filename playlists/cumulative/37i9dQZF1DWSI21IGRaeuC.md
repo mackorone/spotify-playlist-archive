@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with Chris Stussy
 
-842 songs - 2 day 13 hr 19 min
+844 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Infused](https://open.spotify.com/track/4Iqkg75Fm8Gql8Uzy7sy05) | [JAYC](https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ) | [Get Wicked EP](https://open.spotify.com/album/156t8HzipL7M634lftqyPX) | 5:20 | 2025-01-24 | 2025-02-01 |
 | [Inspired Eyes](https://open.spotify.com/track/47kMaCl8qSn41n9j4RlX78) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [ENDZ060](https://open.spotify.com/album/4hslNfLKGV9QaeBQw1E4Yu) | 3:54 | 2025-05-16 | 2025-06-21 |
 | [Inter State](https://open.spotify.com/track/6nSQSAS1yKm9IMgAUeLrEV) | [Mihai Popoviciu](https://open.spotify.com/artist/0NkrYKqkzWI0pilb6ko9uM) | [Inter State](https://open.spotify.com/album/46yfbx30ZO55aNONkpN3MD) | 8:19 | 2024-05-31 | 2024-06-08 |
+| [Intergalactic](https://open.spotify.com/track/5rU9MQ48nTdQDD4oouRrDL) | [GIGSTA](https://open.spotify.com/artist/36l9HLDiaCw6E5qmLusL9a) | [Try Change Me EP](https://open.spotify.com/album/43rKbPVj9ackaBbBiOi4Yv) | 3:09 | 2025-10-21 |  |
 | [International Confusion](https://open.spotify.com/track/0DQ405FyEXx2Jujui8Uhg6) | [Airrica](https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [International Confusion](https://open.spotify.com/album/1MsoGxqvVIikO2HzXJ8SAi) | 3:00 | 2024-11-06 | 2025-03-06 |
 | [Into My Arms](https://open.spotify.com/track/0s8JXlvyjyEPTGEzh7eW74) | [Familiar Faces](https://open.spotify.com/artist/2faJegxkyWRI7AMI9pyWZo) | [Into My Arms](https://open.spotify.com/album/30tQC6U06l6ZGrWqNW0yT4) | 3:55 | 2025-05-30 | 2025-08-02 |
 | [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 | 2024-10-19 |
@@ -500,7 +501,7 @@
 | [No More \- Original Mix](https://open.spotify.com/track/5Q9WUuPzfsUYEbDp63vHfG) | [Alfrenk](https://open.spotify.com/artist/6HLdgf2zPz9ZhjZJxtgVwJ), [Massimo Solinas](https://open.spotify.com/artist/2yaNRPVE9ZAPIZVYKcCw1R) | [No More EP](https://open.spotify.com/album/2rRJgXc2vsqqetBZNadhno) | 6:05 | 2022-07-15 | 2022-07-28 |
 | [No Sleep](https://open.spotify.com/track/1Ng1TXqCbeInlVnJCnYgxi) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [No Sleep](https://open.spotify.com/album/5bsJSH3c5WbKRK4mehgrww) | 4:12 | 2025-06-20 | 2025-09-06 |
 | [No Stoppin' That Rockin'](https://open.spotify.com/track/7doFdCLd8J7Nx7b2DwSRSj) | [Milion](https://open.spotify.com/artist/2BpTIA4LzHkN2CO8VbCuxe) | [Space Invaders EP](https://open.spotify.com/album/2IEOuS7h1ZaHyX1Tn9PniT) | 7:04 | 2024-11-22 | 2024-12-24 |
-| [No Sucker](https://open.spotify.com/track/0AS16BRzJAAEx1Rjm7dpBA) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [No Sucker](https://open.spotify.com/album/1CSZzD1R0p8unpukTR9bEe) | 2:22 | 2025-07-11 |  |
+| [No Sucker](https://open.spotify.com/track/0AS16BRzJAAEx1Rjm7dpBA) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [No Sucker](https://open.spotify.com/album/1CSZzD1R0p8unpukTR9bEe) | 2:22 | 2025-07-11 | 2025-10-22 |
 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 | 2023-04-04 | 2024-08-10 |
 | [Nobody Else](https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Nobody Else](https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm) | 3:06 | 2024-02-23 | 2025-04-05 |
 | [Noreaga](https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Noreaga](https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1) | 8:07 | 2024-02-16 | 2024-05-11 |
@@ -664,6 +665,7 @@
 | [Space Bass](https://open.spotify.com/track/4FpxPGIOtnJ3JsLFagPoBH) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Space Bass](https://open.spotify.com/album/3MV305Vq4qJD5u60YCRFm3) | 3:19 | 2024-06-07 | 2024-10-01 |
 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 | 2023-12-01 | 2025-04-05 |
 | [Space Is The Place](https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Space Is The Place](https://open.spotify.com/album/00hFCWKDpCvSSSUT4NOGVp) | 6:25 | 2024-02-02 | 2024-08-17 |
+| [Spaceship](https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Spaceship](https://open.spotify.com/album/6zXbAwv9ldkMDd1r8ThzN1) | 2:53 | 2025-10-21 |  |
 | [spontaneous combustion!](https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [spontaneous combustion!](https://open.spotify.com/album/2CWGA9IfKlCDq3YMub0d6B) | 5:42 | 2025-04-25 |  |
 | [Spring Girl](https://open.spotify.com/track/03mX4WEpvZPkHmEsd2ZoV8) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Maori](https://open.spotify.com/artist/2GjC0P8uCItsOxEYXtm7kv) | [Spring Girl](https://open.spotify.com/album/2JjG2Nnj87eX9lDnNNNdqP) | 3:48 | 2023-08-25 | 2025-04-05 |
 | [Star \- Original Mix](https://open.spotify.com/track/7AMuTN6ke5btnP4HBI9K05) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [Star](https://open.spotify.com/album/7e1HwVRH1wS1yCRGaIhOmc) | 3:39 | 2024-09-13 | 2024-12-03 |
@@ -820,7 +822,7 @@
 | [Who Is That Guy?](https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe) | [Who Is That Guy?](https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj) | 4:18 | 2024-10-11 | 2025-01-11 |
 | [Who You Talking To ? \- Radio\-Edit](https://open.spotify.com/track/44MUfjvDTzTHnosJSORMa1) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Who You Talking To ?](https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc) | 2:47 | 2025-02-28 | 2025-08-23 |
 | [Why Do We Jack](https://open.spotify.com/track/5KtEMObrjLhFcTw6rS9UqS) | [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn), [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Why Do We Jack](https://open.spotify.com/album/1W5rG6o0FrqMf8RaXxUna3) | 3:53 | 2025-04-18 | 2025-05-17 |
-| [Wise Words](https://open.spotify.com/track/4p8OpNGI6qHShupdCApP1J) | [Candidate](https://open.spotify.com/artist/2PS53GOqxGxAbQK8pvHziq) | [Wise Words](https://open.spotify.com/album/62jK44JP325OG6tOVfe9bV) | 3:20 | 2025-07-11 |  |
+| [Wise Words](https://open.spotify.com/track/4p8OpNGI6qHShupdCApP1J) | [Candidate](https://open.spotify.com/artist/2PS53GOqxGxAbQK8pvHziq) | [Wise Words](https://open.spotify.com/album/62jK44JP325OG6tOVfe9bV) | 3:20 | 2025-07-11 | 2025-10-22 |
 | [Wish Star](https://open.spotify.com/track/2PAw1tXuyFtvxYwIJonSd0) | [Joe Vanditti](https://open.spotify.com/artist/3EkNQSAIFQSFFqHEi5yccC) | [Wish Star](https://open.spotify.com/album/3ztfn5l4CNgxNiHf9J0qoH) | 5:44 | 2024-03-01 | 2024-12-03 |
 | [without you](https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [without you](https://open.spotify.com/album/05maWYabu665iJoxUOxDHB) | 5:36 | 2024-04-05 | 2024-09-20 |
 | [Won't Stop \(Don't\)](https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Won't Stop \(Don't\)](https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu) | 3:53 | 2024-11-22 | 2025-09-27 |

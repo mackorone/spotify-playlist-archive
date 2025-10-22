@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 👀 Cover: Andrea Laszlo De Simone
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,266 likes - 132 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,270 likes - 132 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

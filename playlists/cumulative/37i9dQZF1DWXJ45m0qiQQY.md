@@ -1,14 +1,14 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXJ45m0qiQQY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXJ45m0qiQQY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJ45m0qiQQY)
 
-### [spooky halloween lofi](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
+### [spooky halloween lofi 👻🎃](https://open.spotify.com/playlist/37i9dQZF1DWXJ45m0qiQQY)
 
-> chilling beats for haunted halloween vibes 👻🎃
+> chilling beats for haunted halloween vibes
 
-120 songs - 4 hr 15 min
+122 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abandoned Graveyard](https://open.spotify.com/track/0ul89yEKIi4mTAy2clvBv8) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Haunted Castle](https://open.spotify.com/album/5vCLiCBjKuMTdPW9mdjXg0) | 3:03 | 2024-10-18 |  |
+| [Abandoned Graveyard](https://open.spotify.com/track/0ul89yEKIi4mTAy2clvBv8) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Haunted Castle](https://open.spotify.com/album/5vCLiCBjKuMTdPW9mdjXg0) | 3:03 | 2024-10-18 | 2025-10-22 |
 | [Apparition](https://open.spotify.com/track/6H4pMuDVr3FXa3nwXWABnD) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Apparition](https://open.spotify.com/album/48GZOQnspW47lIW6DEtOhe) | 2:31 | 2025-10-14 |  |
 | [Ascension, Unjust](https://open.spotify.com/track/2n52vHkXzrJf1SDDSwlfJR) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Høxde](https://open.spotify.com/artist/5RnYrq4xtYP886f46j4TVZ) | [Ascension, Unjust](https://open.spotify.com/album/62ogKNCAYbal9vWZrINKL4) | 2:16 | 2025-10-06 | 2025-10-15 |
 | [Autumn Spells](https://open.spotify.com/track/4ShxH1mQaC4baFCDwhliay) | [hallobeatz](https://open.spotify.com/artist/44Yw2gyOl1pDlI26B4olMn) | [Autumn Spells](https://open.spotify.com/album/4mThEuP3XV4ApHfaWJkpWG) | 2:10 | 2025-10-06 |  |
@@ -36,6 +36,7 @@
 | [Falling Stars](https://open.spotify.com/track/1MjUWn8Hm9F03FPoqXs4AX) | [Hikari](https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P), [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [Run!](https://open.spotify.com/album/57n59GNS2R6QEmeHigDap1) | 1:42 | 2024-10-18 |  |
 | [Fantomatic](https://open.spotify.com/track/5PaGXKjXiSh1zqHIYk96DP) | [Corse Cane](https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT) | [Fantomatic](https://open.spotify.com/album/0ZaMqVd0mgo5Cz3XZASqI9) | 2:08 | 2024-12-09 |  |
 | [first coven](https://open.spotify.com/track/4SY76GBZJBQm4T2twQmVPQ) | [Okyto](https://open.spotify.com/artist/6VlM65EyQlOkgD845uNtQj) | [burning exhibit](https://open.spotify.com/album/6yQuWTpLzk9I8BdFLTjT4O) | 1:16 | 2024-10-18 |  |
+| [Foggy Night](https://open.spotify.com/track/2xE82RYm9l7wpeuoZr1mwn) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [Foggy Night](https://open.spotify.com/album/3B6HYNWDSQya3fPyvY0gMF) | 2:12 | 2025-10-21 |  |
 | [Fright](https://open.spotify.com/track/7wRIVUCYY1rT3HmGWErkZL) | [jaspurrr](https://open.spotify.com/artist/5KL8P2XqxDI8tMI90FEkOG) | [A Symphony of Screams Vol.1](https://open.spotify.com/album/1Un1x4VOQ8qdQ6UevBkuHS) | 2:29 | 2024-10-18 |  |
 | [frightnight](https://open.spotify.com/track/4dgrF2RhBqxHFYb9Jv7ftk) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [frightnight](https://open.spotify.com/album/4wZ6nlG4TlSwMIak2WUDWt) | 2:05 | 2025-10-14 |  |
 | [Ghost House](https://open.spotify.com/track/0d1nnvDcYkrRndfg36W4Rd) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Ghost House](https://open.spotify.com/album/0R0S2vTIo4o4iNb72ku9Xe) | 2:06 | 2025-10-14 |  |
@@ -87,7 +88,7 @@
 | [Moonlit Manor](https://open.spotify.com/track/762rCvQoXX3LMgVez1kvf5) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Moonlit Manor](https://open.spotify.com/album/4C31XMPi54vouEbN5PzrC6) | 2:01 | 2025-09-16 | 2025-10-15 |
 | [Ms Wednesday](https://open.spotify.com/track/1uowRgNvzmGlJ3IbmAQp1R) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Ms Wednesday](https://open.spotify.com/album/1FYmZUVmZeF3mPoaz4E2AF) | 2:06 | 2025-10-14 |  |
 | [Necropolis](https://open.spotify.com/track/3VenXudKEYaL6T1wf5wf8n) | [Odem Medo](https://open.spotify.com/artist/6LhkZAXeIA7HiigDvecUcI) | [Pumpkin Pandemonium!](https://open.spotify.com/album/1kbUdz4diMMlCOqEXg6cA1) | 2:14 | 2024-10-18 |  |
-| [nightmare & happy end](https://open.spotify.com/track/2Aby270p4a0aVnJVklpDmq) | [Jinja Citizen](https://open.spotify.com/artist/1ow3MmIPh8Rpo1x9v0MXf9), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 2:52 | 2024-10-18 |  |
+| [nightmare & happy end](https://open.spotify.com/track/2Aby270p4a0aVnJVklpDmq) | [Jinja Citizen](https://open.spotify.com/artist/1ow3MmIPh8Rpo1x9v0MXf9), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 2:52 | 2024-10-18 | 2025-10-22 |
 | [no escape](https://open.spotify.com/track/0zDQhi2Zmp8fb1UANtDKzp) | [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ), [brrt](https://open.spotify.com/artist/1R7fJ5VCICKss7K0as6jkS) | [Night of the Living Drum Machines: Spooky Halloween Lofi](https://open.spotify.com/album/1GeDaKfOn7AYnxO73YaeTd) | 2:12 | 2024-10-18 |  |
 | [Poltergeist](https://open.spotify.com/track/0T5rk7dwzNx7hGLYyau2LS) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U), [Saito](https://open.spotify.com/artist/0bdr6z9DImvrsrs2WoZ8pV) | [Beentrill](https://open.spotify.com/album/3oUkpjPJsN7ixJ1siKUSWr) | 1:37 | 2024-10-18 | 2025-10-07 |
 | [preghiera](https://open.spotify.com/track/2EpBHY6mY7chCsHh9F9fME) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [WENDIGO](https://open.spotify.com/album/5RmgD3r2wclYmefCjeGs88) | 1:18 | 2024-10-18 | 2025-10-07 |
@@ -102,6 +103,7 @@
 | [Sinister Look](https://open.spotify.com/track/3VzSWtuD4E3jsTC5Gi9ZEs) | [evelina mist](https://open.spotify.com/artist/0AUIG5gLgUZhMGeCNBLfcr) | [Sinister Look](https://open.spotify.com/album/5CtoP0PUbj3XZrdd4pdzlo) | 2:13 | 2024-11-14 |  |
 | [Skeleton Dance](https://open.spotify.com/track/1BdkBPAT7ny9xbs92FVuxc) | [Huang's Fine Vinyls](https://open.spotify.com/artist/3McIkQOTYiAvEQmM7QRSuz) | [Skeleton Dance](https://open.spotify.com/album/2jzfeeFiRbzXDOmywcRpT4) | 2:40 | 2025-10-14 |  |
 | [Skeleton Dance](https://open.spotify.com/track/466frCPvje33h8aRVrW5Xz) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Skeleton Dance](https://open.spotify.com/album/1yI9tGQQVSFNETjeyewUbn) | 1:51 | 2024-10-18 |  |
+| [Skeletons](https://open.spotify.com/track/4GTThAqBQFAXaDHIlEDEtw) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Skeletons](https://open.spotify.com/album/2NHUPfS9LCmOk4ZcQrtucS) | 2:11 | 2025-10-21 |  |
 | [slowly](https://open.spotify.com/track/6aoGNMmc0sVzUSfll3fbQ2) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [patterns](https://open.spotify.com/album/2T4Lh1znFQFCQTzozoO6aX) | 1:27 | 2024-10-18 |  |
 | [Sorceresses](https://open.spotify.com/track/6vLuLnEzFhknxfiiqUik2N) | [Sunset Hunter](https://open.spotify.com/artist/2brLJgbhoDcQkFlyKTbFCz), [Chilled Cat](https://open.spotify.com/artist/3itPIBjRCrJmrDgwCRYRHl), [Spooky Cat](https://open.spotify.com/artist/0MWyqO32UljJi5J59mSzme) | [Halloween Vibes Vol.1](https://open.spotify.com/album/1r0SImrof5Zpc3RoFwO5vu) | 1:50 | 2024-10-18 |  |
 | [Spooks](https://open.spotify.com/track/5yIgOWI9g3xpbiJy0Lw8UL) | [7th Realm](https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs) | [Cuts](https://open.spotify.com/album/6RmdM1yCFgd7Xx0DunHZ88) | 1:22 | 2024-10-18 |  |

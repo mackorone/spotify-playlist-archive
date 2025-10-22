@@ -4865,6 +4865,24 @@
     },
     {
       "album": {
+        "name": "ALLORNOTHING",
+        "url": "https://open.spotify.com/album/3cx10yx8jmSZfKo2PZefBO"
+      },
+      "artists": [
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210771,
+      "name": "NOBODYKNOWS",
+      "url": "https://open.spotify.com/track/5CDrXgKT7XQGxAQwyBsMeP"
+    },
+    {
+      "album": {
         "name": "Headjack",
         "url": "https://open.spotify.com/album/5xpPrOjFjak4HT7v33FIKm"
       },
@@ -7410,6 +7428,24 @@
       "duration_ms": 112421,
       "name": "Trainhopper",
       "url": "https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B"
+    },
+    {
+      "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/0yLVOZENiBCvvMwQgFgkpz"
+      },
+      "artists": [
+        {
+          "name": "FC5",
+          "url": "https://open.spotify.com/artist/47hsVCed460MN0dlFs1BOq"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Transition",
+      "url": "https://open.spotify.com/track/5MlzFcBuzxc5crLmzjICHn"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168076,
+  "num_followers": 168086,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 229750,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
         "name": "Firebabe",
         "url": "https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+        "name": "ELEVATED LOVE",
+        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "KAMOBii",
+          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
         }
       ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+      "duration_ms": 208391,
+      "name": "ELEVATED LOVE",
+      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1307,22 +1323,6 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
-        "name": "ELEVATED LOVE",
-        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
-      },
-      "artists": [
-        {
-          "name": "KAMOBii",
-          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "ELEVATED LOVE",
-      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1579,18 +1579,22 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
       "artists": [
         {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1615,22 +1619,18 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
         }
       ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2025-10-20 07:34:09",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2025-10-20 07:34:09",
       "album": {
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
+      },
+      "artists": [
+        {
+          "name": "Tim Schaufert",
+          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
+        }
+      ],
+      "duration_ms": 124811,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
+    },
+    {
+      "added_at": "2025-10-20 07:34:09",
+      "album": {
         "name": "Emo Regulation",
         "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 165500,
       "name": "Spirals On My Tongue",
       "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
-    },
-    {
-      "added_at": "2025-10-20 07:34:09",
-      "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
-      },
-      "artists": [
-        {
-          "name": "Tim Schaufert",
-          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
-        }
-      ],
-      "duration_ms": 124811,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
     },
     {
       "added_at": "2025-10-20 07:34:09",

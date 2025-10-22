@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,052 songs - 1 day 21 hr 36 min
+1,053 songs - 1 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -946,6 +946,7 @@
 | [Those Eyes](https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Eyes](https://open.spotify.com/album/1K81avVRkJg8oy29gwN6LE) | 2:43 | 2023-10-19 | 2025-01-26 |
 | [Through Glass](https://open.spotify.com/track/3v60ytSWrozCqpiAZbkI1O) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Through Glass](https://open.spotify.com/album/3Anq47xQ6ubEdxmP6g4Agb) | 3:06 | 2024-01-14 | 2025-03-10 |
 | [Tidal Wave](https://open.spotify.com/track/0TMaLzDaHXi8VAq4oJfWXE) | [PLVTO](https://open.spotify.com/artist/2bFnCC8oPXbNJJ6V8e32XH), [YADAYADA](https://open.spotify.com/artist/0kOSwbgw1yE3Sunf3F7F0t), [Two Door](https://open.spotify.com/artist/4XsE7EJ0GSCGV1xP7Ekf8Z) | [Tidal Wave](https://open.spotify.com/album/7d0fi8UOdxb1zQDPQwWXUM) | 2:39 | 2024-09-01 | 2024-10-07 |
+| [Till It Goes Dark](https://open.spotify.com/track/1g2YP9yUaq7ZfNxvJrPT5K) | [TIANBO](https://open.spotify.com/artist/3pnulfzomHoIuDdauRBnzv), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Till It Goes Dark](https://open.spotify.com/album/3McVstSYnp1jUG1pKYaGR1) | 2:34 | 2025-10-21 |  |
 | [Time](https://open.spotify.com/track/0UaR1Ex4DNEbd1z7hHhHEl) | [Wavey](https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz) | [Time](https://open.spotify.com/album/2YrmNL9GzyBwCD0rvyTx6O) | 2:37 | 2025-10-03 |  |
 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 | 2024-07-30 | 2024-12-02 |
 | [Time To Talk](https://open.spotify.com/track/73ooFU9qEgEgZ8doCdXIjg) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [Time To Talk](https://open.spotify.com/album/5WODEFf4Vp9xvWgldjn6rn) | 1:59 | 2025-03-23 | 2025-09-22 |

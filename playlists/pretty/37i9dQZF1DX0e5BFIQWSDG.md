@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Trannos
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,497 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,517 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 47 | [Kapos Allios](https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [MAVRI ELLADA](https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9) | 3:07 |
 | 48 | [Ax Kardia Mou](https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ax Kardia Mou](https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf) | 2:59 |
 | 49 | [Provlimata](https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:24 |
-| 50 | [TA AYTONOHTA](https://open.spotify.com/track/7rqKwEwmjshCC5DzIpRTgP) | [How](https://open.spotify.com/artist/1fOZ5oJ54j38CGvVapIBDi), [skinny](https://open.spotify.com/artist/0GjmHecf3cA6aWnPalC7RK) | [TA AYTONOHTA](https://open.spotify.com/album/58wuNHJdtfDCi4ATj3IF3z) | 2:07 |
 
-Snapshot ID: `AAAAABSETKaxozCbOJmuR1F9e4CPJ355`
+Snapshot ID: `AAAAAF/56/1dc/WL7b2RIe+uCWvdhrKv`

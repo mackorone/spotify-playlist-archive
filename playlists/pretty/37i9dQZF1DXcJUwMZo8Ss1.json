@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks trending in the UAE \u2764\ufe0f\u200d\ud83d\udd25  Cover: Taylor Swift",
-  "num_followers": 6742,
+  "num_followers": 6772,
   "original_name": "Hot Hits UAE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHbpL8PprxE4I7dGO3MNVD1OkxSm",
+  "snapshot_id": "AAAAALiUFo/BCtiNQdAQd0XCzAYZjfhq",
   "tracks": [
     {
       "added_at": "2025-10-20 09:24:34",
@@ -23,6 +23,26 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2025-10-20 09:24:34",
+      "album": {
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
       "added_at": "2025-10-20 09:24:34",
@@ -191,26 +211,6 @@
       "duration_ms": 213838,
       "name": "Heseeny",
       "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj"
-    },
-    {
-      "added_at": "2025-10-20 09:24:34",
-      "album": {
-        "name": "EYES CLOSED (with ZAYN)",
-        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 181375,
-      "name": "EYES CLOSED (with ZAYN)",
-      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
       "added_at": "2025-10-20 09:24:34",
@@ -471,26 +471,6 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
-    },
-    {
-      "added_at": "2025-10-13 10:48:06",
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv"
-      },
-      "artists": [
-        {
-          "name": "Param",
-          "url": "https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0"
-        },
-        {
-          "name": "Manni Sandhu",
-          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
-        }
-      ],
-      "duration_ms": 169472,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
     },
     {
       "added_at": "2025-10-13 10:48:06",
@@ -851,6 +831,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-10-21 13:54:46",
+      "album": {
+        "name": "PIXELATED KISSES",
+        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 110430,
+      "name": "PIXELATED KISSES",
+      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
     },
     {
       "added_at": "2025-10-20 09:24:34",

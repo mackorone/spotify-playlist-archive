@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- Seedhe Maut
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,324 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,609 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 3 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 |
 | 4 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 |
 | 5 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
-| 6 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
+| 6 | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 |
 | 7 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
 | 8 | [Cash Cash](https://open.spotify.com/track/4M60JVJPqNzIkJy4V6Jfi1) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Cash Cash](https://open.spotify.com/album/4s9fLpsGNYr0OlD8oJRvbS) | 2:19 |
 | 9 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 |

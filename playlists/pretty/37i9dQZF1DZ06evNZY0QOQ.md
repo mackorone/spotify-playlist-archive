@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,254 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,253 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 25 | [Shakara](https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:20 |
 | 26 | [love nwantiti x dumebi \- Midé Naike Remix](https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Midé Naike](https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc) | [love nwantiti x dumebi \(Midé Naike Remix\)](https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j) | 3:14 |
 | 27 | [Show My Side \(feat\. Amaarae\)](https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:02 |
-| 28 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 5:05 |
-| 29 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 |
+| 28 | [Anya Mmiri](https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:08 |
+| 29 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 5:05 |
 | 30 | [EGWU EJI](https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:52 |
 | 31 | [permit me](https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:55 |
 | 32 | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [4U \(feat\. CKay, Leo Rizzi\)](https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
 | 50 | [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 |
 
-Snapshot ID: `aPQqAAAAAAADVSvQCrVJa49o8HgEhniH`
+Snapshot ID: `aPV7gAAAAACZ/f7mVlZBgr9BP4mZ9KJw`

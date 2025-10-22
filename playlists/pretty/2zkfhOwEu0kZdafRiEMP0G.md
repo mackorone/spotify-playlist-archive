@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 38 songs - 2 hr 48 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 42 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,9 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 36 | [Santa Fe](https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:12 |
 | 37 | [Satisfied](https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0) | [Renée Elise Goldsberry](https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 5:29 |
 | 38 | [For Her](https://open.spotify.com/track/5BTWh85WbDMSsQTvkw8WEI) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of The Great Gatsby \- A New Musical](https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM) | [The Great Gatsby \- A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1ROa0bSRzWi67kUyzfyfq6) | 3:56 |
+| 39 | [Wait for It](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:13 |
+| 40 | [Just a Man](https://open.spotify.com/track/757cx0iJx1pcwLv4lnX39B) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Troy Saga \(Official Concept Album\)](https://open.spotify.com/album/6SxVoqHzmrFnPno9DWedMj) | 2:28 |
+| 41 | [Hold Them Down](https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Ayron Alexander](https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:03 |
+| 42 | [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 |
 
-Snapshot ID: `AAAGObqlzh/ZEB2AKkfbuGXGUU6B9Q/C`
+Snapshot ID: `AAAGPT83bHyASZ5qmVCQALewpz03+5Mx`

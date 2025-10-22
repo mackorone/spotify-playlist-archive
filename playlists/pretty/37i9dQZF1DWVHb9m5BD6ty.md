@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The newest from UK & Ireland driving the current\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,003 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,006 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 69 | [One Time](https://open.spotify.com/track/2u3ucpknV0GldgmPnuRFwu) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [One Time](https://open.spotify.com/album/23NdVXLSH8akFXVnxdIXmU) | 2:54 |
 | 70 | [Blackjack](https://open.spotify.com/track/3dl5p7f6pdabQaNFcWTmnP) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Blackjack](https://open.spotify.com/album/1VFpByIyWmtt0OhUVzQYxh) | 2:29 |
 
-Snapshot ID: `AAAAAGsAX6T6ilgPRGr4XcY3YQeDa2SQ`
+Snapshot ID: `AAAAALpn+efMls66to4vO1MDMW2W+ell`

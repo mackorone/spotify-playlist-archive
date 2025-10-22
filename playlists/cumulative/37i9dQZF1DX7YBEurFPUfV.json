@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "01:00 AM",
+        "url": "https://open.spotify.com/album/7xjrGeugM7cjchbRv7avVR"
+      },
+      "artists": [
+        {
+          "name": "7Baby",
+          "url": "https://open.spotify.com/artist/0jabAkS3kTBEpQv6y2auhZ"
+        },
+        {
+          "name": "DvrkBoy",
+          "url": "https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW"
+        },
+        {
+          "name": "Catcher",
+          "url": "https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl"
+        },
+        {
+          "name": "It's ERROR",
+          "url": "https://open.spotify.com/artist/3cQGlr2EF36wyYPWhDwoph"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146480,
+      "name": "01:00 AM",
+      "url": "https://open.spotify.com/track/5Ub8u3nZCOScStHTYWVPwI"
+    },
+    {
+      "album": {
         "name": "10PM",
         "url": "https://open.spotify.com/album/7wWcWmM7O58NvPHFS7en5j"
       },
@@ -20,6 +50,32 @@
       "duration_ms": 190434,
       "name": "10PM",
       "url": "https://open.spotify.com/track/69pInUCf67loAdr1DoNeMt"
+    },
+    {
+      "album": {
+        "name": "GOLDEN GOD",
+        "url": "https://open.spotify.com/album/1HGH52q8UdJqwwEmdy6ZKX"
+      },
+      "artists": [
+        {
+          "name": "Pas Comme Eux",
+          "url": "https://open.spotify.com/artist/2ijQUWrV6cLziaz08EYbRK"
+        },
+        {
+          "name": "$MXTI",
+          "url": "https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO"
+        },
+        {
+          "name": "XIIVI",
+          "url": "https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "12:06 AM",
+      "url": "https://open.spotify.com/track/7tCbH0PO69SbVLSKmyO2Xf"
     },
     {
       "album": {
@@ -388,7 +444,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 330031,
       "name": "Back To The Dback",
       "url": "https://open.spotify.com/track/2h8eZsSkwOtKol9tg3VuVj"
@@ -410,7 +466,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 175766,
       "name": "Bambina",
       "url": "https://open.spotify.com/track/6DArUaj4yioj32Q3vCRL1Q"
@@ -530,6 +586,24 @@
       "duration_ms": 146910,
       "name": "Cameleon",
       "url": "https://open.spotify.com/track/6c820sZ26OPdlurURXKT7P"
+    },
+    {
+      "album": {
+        "name": "CHARIKET DAJEJ",
+        "url": "https://open.spotify.com/album/70TUm5iv6DcULHTn0zxo7r"
+      },
+      "artists": [
+        {
+          "name": "Fossa",
+          "url": "https://open.spotify.com/artist/7yqZYVFUskYyKDyilalfFX"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211966,
+      "name": "CHARIKET DAJEJ",
+      "url": "https://open.spotify.com/track/35f6wic5uLR4WRp5If8M6W"
     },
     {
       "album": {
@@ -954,7 +1028,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 197597,
       "name": "Hameda Hereb \u0647\u0627\u0631\u0628",
       "url": "https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V"
@@ -1102,6 +1176,24 @@
       "duration_ms": 194042,
       "name": "Inti Ta3ref",
       "url": "https://open.spotify.com/track/3iZyYmwV3L9XXI0270hsPD"
+    },
+    {
+      "album": {
+        "name": "Intro",
+        "url": "https://open.spotify.com/album/6h6C2aiiOSPY9eEz2R0G95"
+      },
+      "artists": [
+        {
+          "name": "Klay BBJ",
+          "url": "https://open.spotify.com/artist/2FL58smO7JsL10CYirRdkO"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366852,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/79xFdDwGNST7LMrglZN00P"
     },
     {
       "album": {
@@ -2310,7 +2402,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 214710,
       "name": "SOMMET",
       "url": "https://open.spotify.com/track/0BL3kRwVBhFH8pZ1NgLOIk"
@@ -2693,6 +2785,28 @@
     },
     {
       "album": {
+        "name": "COMEBACKSZN",
+        "url": "https://open.spotify.com/album/5dOKhOVNfrD1JFqBKQZ7YI"
+      },
+      "artists": [
+        {
+          "name": "XIIVI",
+          "url": "https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N"
+        },
+        {
+          "name": "SH",
+          "url": "https://open.spotify.com/artist/0LyUL4NatcED0cZJuuZ447"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151272,
+      "name": "XIAO LING",
+      "url": "https://open.spotify.com/track/3fCtk4uIKr22llWLIkdwZI"
+    },
+    {
+      "album": {
         "name": "Hybrid",
         "url": "https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe"
       },
@@ -2740,7 +2854,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 203624,
       "name": "Ya Rayah",
       "url": "https://open.spotify.com/track/6mYu6MhifCSC359Zf3sxG0"

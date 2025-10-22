@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Macky Gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,909 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,908 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 43 | [Take Me Up](https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Take Me Up](https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt) | 3:35 |
 | 44 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
 | 45 | [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 |
-| 46 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
-| 47 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
+| 46 | [Ghosting Your Love](https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Ghosting Your Love](https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD) | 3:19 |
+| 47 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
 | 48 | [Dancing In My Sleep](https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Dancing In My Sleep](https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2) | 3:22 |
 | 49 | [Outta Order](https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Outta Order](https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r) | 3:55 |
 | 50 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 55 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 |
 
-Snapshot ID: `AAAAAIoN7jGhJuA9/lJUPSx6ICu+CQ/h`
+Snapshot ID: `AAAAAACPXlC3ugXUkdyJbv8+Z8tAsWcT`

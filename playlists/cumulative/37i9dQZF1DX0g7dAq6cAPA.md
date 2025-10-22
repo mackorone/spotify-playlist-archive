@@ -4,7 +4,7 @@
 
 > Music From "Puella Magi Madoka Magica"! ©Magica Quartet／Aniplex・Madoka Movie Project Rebellio
 
-84 songs - 4 hr 20 min
+86 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,10 +86,12 @@
 | [シグナル](https://open.spotify.com/track/6482HIZv5Bf8VDybXr1SwS) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [シグナル](https://open.spotify.com/album/7HNWph7EIYq0lDwuvgdAVt) | 3:43 | 2022-08-23 |  |
 | [フレッジ](https://open.spotify.com/track/07b3tcdgzUIcBeRJDPvsFu) | [環いろは\(CV:麻倉もも\)](https://open.spotify.com/artist/1cy5uXN8y8i5NhrfuRSvsM), [七海やちよ\(CV:雨宮天\)](https://open.spotify.com/artist/2NF2LvyC20LrgbIM0JARpy), [由比鶴乃\(CV:夏川椎菜\)](https://open.spotify.com/artist/7z5VXPhnlZMQ2y9iAfVkmd), [深月フェリシア\(CV:佐倉綾音\)](https://open.spotify.com/artist/72FEmm4aelN7tQ2avKDOoS), [二葉さな\(CV:小倉唯\)](https://open.spotify.com/artist/60ItUsKo0ZXHE3SJIyJdFh), [環うい\(CV:石見舞菜香\)](https://open.spotify.com/artist/02Z2U8A10g1BYk8FuR4j5P) | [フレッジ](https://open.spotify.com/album/4u9TwUKkOBaXcSdbuH9v5o) | 4:09 | 2022-11-24 |  |
 | [ユメおと](https://open.spotify.com/track/6M3dD7YvWOMy4LU0ZCJcHn) | [鹿目まどか \(CV:悠木碧\)](https://open.spotify.com/artist/1V4NEvOj4njRlPZj0Q9bDO), [暁美ほむら \(CV:斎藤千和\)](https://open.spotify.com/artist/6sabqK2dfqbzkF0jg2oHya) | [「魔法少女まどか☆マギカ」 Ultimate Best](https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l) | 3:56 | 2022-08-23 |  |
+| [リンクス](https://open.spotify.com/track/03z6ZZyBOo8crNdUS6eSKJ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [リンクス](https://open.spotify.com/album/41uDPJ2V8NCVlaV0BPcTC4) | 4:25 | 2025-10-21 |  |
 | [ルミナス](https://open.spotify.com/track/5OYi6DORnGytA7cNwVQpJC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ルミナス](https://open.spotify.com/album/7i4MHVRVxRFWMwzr41RvcY) | 4:11 | 2022-08-23 |  |
 | [叶えちゃお](https://open.spotify.com/track/0DuKZazK7hATT0ycnAqqyA) | [カミハ☆マギカ](https://open.spotify.com/artist/24qLRcIuc6jVxzD82fcFAF) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection 2](https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ) | 3:51 | 2022-08-23 |  |
 | [君の銀の庭](https://open.spotify.com/track/5z0sTqtZ73NliGt9LYjUO4) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [君の銀の庭](https://open.spotify.com/album/7t7RwR2ThlbTm7hqNaHr0n) | 5:07 | 2022-08-23 |  |
 | [山茶花の跡](https://open.spotify.com/track/1ewrd7yGNQUquQgby3HD8C) | [時女静香\(CV:内田秀\)](https://open.spotify.com/artist/2jUOqvas7LKVBv5Z3apT6J), [広江ちはる\(CV:相良茉優\)](https://open.spotify.com/artist/4UPLP5kPamHkAVUhl2wk7q), [土岐すなお\(CV:大西亜玖璃\)](https://open.spotify.com/artist/2KRUEY27Eo3lC79i0ytDxj) | [「マギアレコード 魔法少女まどか☆マギカ外伝」 Music Collection 2](https://open.spotify.com/album/45H6UtTbUtOCJx651CTeUJ) | 4:22 | 2022-08-23 |  |
+| [旬ノ痞、夢ノ痣](https://open.spotify.com/track/57hmF2LB04duuagw5mks2w) | [夜明すみれ\(CV:伊藤美来\)](https://open.spotify.com/artist/3ThhEBHZQDfXjRGLjASXZO), [日暮ふうか\(CV:豊田萌絵\)](https://open.spotify.com/artist/3pwju1HzFlGD6ryNVFabZY) | [旬ノ痞、夢ノ痣](https://open.spotify.com/album/0RUKC5eVQUJmbX8tvf4vZp) | 3:19 | 2025-10-21 |  |
 | [未来](https://open.spotify.com/track/210tDGTwv4EKo08kv3Az3K) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [ひかりふる](https://open.spotify.com/album/0jCSqIa5E2rqBGw3R93JSt) | 4:32 | 2022-08-23 |  |
 | [演葬](https://open.spotify.com/track/0h14PnOE5asXq6oNAE8XxR) | [氷室ラビ\(CV:指出毬亜\)](https://open.spotify.com/artist/3KnV3YQwxB3xbMSNtyNw8P), [三浦旭\(CV:入江麻衣子\)](https://open.spotify.com/artist/6qu5SinDVQbFjTxDnjHpul), [栗栖アレクサンドラ\(CV:早瀬莉花\)](https://open.spotify.com/artist/6uzbFDfk3jMV7ZY2Mj8POe), [有愛うらら\(CV:丸岡和佳奈\)](https://open.spotify.com/artist/6fryL9K2Ph0foymc7biynb) | [演葬](https://open.spotify.com/album/1TCsRPEMCRgQ30tvw7aT1k) | 4:16 | 2022-08-23 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8669,
+  "num_followers": 8676,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAABccqrZTT4sstXciiUPTT2w",
+  "snapshot_id": "aPV7gAAAAAAUuI7r57ZBCzrrEyFvzaLA",
   "tracks": [
     {
       "added_at": null,
@@ -607,38 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Chulo Bother Nobody",
-      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
       },
@@ -659,6 +627,38 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Chulo Bother Nobody",
+      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Like The Way",
+        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "I Like The Way",
+      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiest Man Alive",
         "url": "https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 210210,
       "name": "Shake Yuh Bum - Machel Montano Remix",
       "url": "https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Like The Way",
-        "url": "https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "I Like The Way",
-      "url": "https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg"
     },
     {
       "added_at": null,

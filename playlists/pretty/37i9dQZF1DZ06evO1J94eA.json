@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40750,
+  "num_followers": 40757,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAhZ6kOGfTFOpnSAIPDOASJ",
+  "snapshot_id": "aPV7gAAAAAAt9kJ6c0hbwy7O6RPKdPIo",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 470853,
+      "name": "Speak Like A Child",
+      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 271167,
       "name": "MOON (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/10UmWJn4BXev5y6uj1VwMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 470853,
-      "name": "Speak Like A Child",
-      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
     },
     {
       "added_at": null,
@@ -535,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Funny Valentine (feat. Herbie Hancock)",
-        "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
+        "name": "Street of Minarets",
+        "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
         },
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 293493,
-      "name": "My Funny Valentine (feat. Herbie Hancock)",
-      "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
+      "duration_ms": 259446,
+      "name": "Bal d\u2019\u00e2me",
+      "url": "https://open.spotify.com/track/3UQQNQMvK8LG2Edu3bLHKB"
     },
     {
       "added_at": null,
@@ -571,22 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street of Minarets",
-        "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"
+        "name": "My Funny Valentine (feat. Herbie Hancock)",
+        "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
       },
       "artists": [
         {
-          "name": "Dhafer Youssef",
-          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         },
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 259446,
-      "name": "Bal d\u2019\u00e2me",
-      "url": "https://open.spotify.com/track/3UQQNQMvK8LG2Edu3bLHKB"
+      "duration_ms": 293493,
+      "name": "My Funny Valentine (feat. Herbie Hancock)",
+      "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 510653,
-      "name": "Oliloqui Valley - Remastered",
-      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Possibilities",
         "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 414466,
       "name": "Sister Moon (feat. Sting)",
       "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 510653,
+      "name": "Oliloqui Valley - Remastered",
+      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blow-Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantaloupe Island",
         "url": "https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 395266,
       "name": "And What If I Don't - Remastered",
       "url": "https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blow-Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "The Bed",
+      "url": "https://open.spotify.com/track/3guEqtLw8c0jMpRDWzXquO"
     },
     {
       "added_at": null,

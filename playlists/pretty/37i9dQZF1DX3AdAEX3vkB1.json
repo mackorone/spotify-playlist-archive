@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 315644,
+  "num_followers": 315761,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Wicked Pickett",
         "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 171506,
       "name": "I Feel Free",
       "url": "https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hang On Sloopy: The Best Of The McCoys",
-        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
-      },
-      "artists": [
-        {
-          "name": "The McCoys",
-          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Hang On Sloopy",
-      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Make It Happen",
         "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hang On Sloopy: The Best Of The McCoys",
+        "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
+      },
+      "artists": [
+        {
+          "name": "The McCoys",
+          "url": "https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Hang On Sloopy",
+      "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "No Place To Hide",
-        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 129758,
-      "name": "It's In The Kiss (The Shoop Shoop Song)",
-      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Tell Him",
         "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 156160,
       "name": "Tell Him - Single Version",
       "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "No Place To Hide",
+        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 129758,
+      "name": "It's In The Kiss (The Shoop Shoop Song)",
+      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Up-Tight Everything's Alright",
-        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Rhino Hi-Five: Arthur Conley",
         "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Up-Tight Everything's Alright",
+        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Trojan Presents: Mod Ska",
+        "url": "https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq"
+      },
+      "artists": [
+        {
+          "name": "Millie Small",
+          "url": "https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT"
+        }
+      ],
+      "duration_ms": 122160,
+      "name": "My Boy Lollipop",
+      "url": "https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The 50th Anniversary Collection",
         "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 166053,
       "name": "I Got You (I Feel Good)",
       "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Keep On Running",
-        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 173973,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Keep On Running",
+        "url": "https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 173973,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "More Hits By The Supremes - Expanded Edition",
         "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 172933,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Trojan Presents: Mod Ska",
-        "url": "https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq"
-      },
-      "artists": [
-        {
-          "name": "Millie Small",
-          "url": "https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT"
-        }
-      ],
-      "duration_ms": 122160,
-      "name": "My Boy Lollipop",
-      "url": "https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,165 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,185 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 46 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 |
 | 47 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 |
 | 48 | [exes \- Regard Remix](https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [exes \(Regard Remix\)](https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9) | 3:02 |
-| 49 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 |
-| 50 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 2:45 |
+| 49 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 2:45 |
+| 50 | [JOY \(Back On 74\)](https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Back on 74\)](https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z) | 4:31 |
 
 Snapshot ID: `AAAAAPu6gYkMHT1UD1EElqeL8S2guXY1`

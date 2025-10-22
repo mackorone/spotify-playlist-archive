@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Master Of Reality (Remastered)",
+        "url": "https://open.spotify.com/album/2ZSqUgvFSCD7ESVVC1BlpN"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317206,
+      "name": "Children of the Grave",
+      "url": "https://open.spotify.com/track/00iV838pAEznn1qLoG8Rxy"
+    },
+    {
+      "album": {
         "name": "Don't Wait 'Til Tomorrow",
         "url": "https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf"
       },
@@ -596,10 +614,28 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 284693,
       "name": "Feed My Frankenstein",
       "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
+    },
+    {
+      "album": {
+        "name": "Playlist: The Very Best Of Alice Cooper",
+        "url": "https://open.spotify.com/album/5M50gz8rh6inIVTdBUJ7z9"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285093,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/1oDATX0oMlqu03e3pclagF"
     },
     {
       "album": {
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 198877,
       "name": "Maxine (Witch Queen)",
       "url": "https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt"
@@ -1046,7 +1082,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 176573,
       "name": "Monster",
       "url": "https://open.spotify.com/track/4gEmS1pwdSjAEmrHdar9je"
@@ -1520,7 +1556,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-05",
+      "date_removed": null,
       "duration_ms": 291373,
       "name": "The Number Of The Beast - 1998 Remastered Version",
       "url": "https://open.spotify.com/track/1s4Ie0cT6P73SRSfh3oyGW"

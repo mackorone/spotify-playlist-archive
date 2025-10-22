@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAACi1lKFp84ixPYtEZDamlqZ",
+  "snapshot_id": "aPV7gAAAAACm0HPU2v5gDWnXPVtRD1Hi",
   "tracks": [
     {
       "added_at": null,
@@ -670,15 +670,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 282000,
-      "name": "She's Strong (feat. Maddee)",
-      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
+      "duration_ms": 222720,
+      "name": "Collage",
+      "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+        "name": "Colors EP",
+        "url": "https://open.spotify.com/album/5TfPH2ZBgw7iuQOdYDx1Bs"
       },
       "artists": [
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Collage",
-      "url": "https://open.spotify.com/track/2mMxrXVTSkDeN5m8KK1Y4x"
+      "duration_ms": 282000,
+      "name": "She's Strong",
+      "url": "https://open.spotify.com/track/5jK2To0EsnOGhc1Xzo6aev"
     }
   ],
   "unique_name": "This Is Harrison",

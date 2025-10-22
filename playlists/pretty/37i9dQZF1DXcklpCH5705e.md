@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 盧廣仲 Crowd Lu
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,053 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,057 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 71 | [陽光彩虹小白馬](https://open.spotify.com/track/4VYv4gIbr6XPWKTddnGBlh) | [Wowkie Da](https://open.spotify.com/artist/3RIgMUtdfRx98Lm5bXM3GD) | [人間精品](https://open.spotify.com/album/0NUqmEiC6AtqFTGV9KlaGo) | 3:46 |
 | 72 | [生命線 \- 電視劇《院長爸爸》片頭曲](https://open.spotify.com/track/3ZuyyfGJqx9qhWTVtdMCWz) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [生命線 \(電視劇《院長爸爸》片頭曲\)](https://open.spotify.com/album/1LKR2MjbBCC7oemVqEVcGv) | 3:30 |
 | 73 | [多少人](https://open.spotify.com/track/7cnqWJpFd6S9m4d3k9o0mX) | [David Lui](https://open.spotify.com/artist/6CexlJ1wj79N50NMxRBfUa) | [多少人](https://open.spotify.com/album/1Ad4LjykfjgGUsn5EsjXtK) | 4:28 |
-| 74 | [把你給的愛全部還給你](https://open.spotify.com/track/3iXJ94UA0usAvkMF8Em4v1) | [王泰翔 2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [把你給的愛全部還給你](https://open.spotify.com/album/3MR2paemv2NSAqggLR0mJm) | 4:20 |
+| 74 | [把你給的愛全部還給你](https://open.spotify.com/track/3iXJ94UA0usAvkMF8Em4v1) | [王泰翔 2000wtx](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [把你給的愛全部還給你](https://open.spotify.com/album/3MR2paemv2NSAqggLR0mJm) | 4:20 |
 | 75 | [結局很瘦](https://open.spotify.com/track/4tBOMSTGOyNeAX83lyqru6) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [結局很瘦](https://open.spotify.com/album/4rp1tnWuQl8fA685WTX5vq) | 3:32 |
 | 76 | [白日夢繩索](https://open.spotify.com/track/6Jy0rQR3mrYX57MoSt8Lmc) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [白日夢繩索](https://open.spotify.com/album/1gmqNF6LM9coMjNv5og8u7) | 3:55 |
 | 77 | [愛的多重宇宙 \(影集《童話故事下集》主題曲\)](https://open.spotify.com/track/7GFrDoCFRFab0YFLYosseU) | [Tizzy Bac](https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H) | [愛的多重宇宙](https://open.spotify.com/album/4aFmyXthHuHDdFP7cVngql) | 3:50 |

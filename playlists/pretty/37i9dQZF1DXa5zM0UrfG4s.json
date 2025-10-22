@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116446,
+  "num_followers": 116455,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
         "name": "Kunna vorre v\u00e6r",
         "url": "https://open.spotify.com/album/6IlY83C4YmJPr27MsYlfgt"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 138388,
       "name": "Kunna vorre v\u00e6r",
       "url": "https://open.spotify.com/track/0ZsuXLSv1szZycoL5x9zOV"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+      },
+      "artists": [
+        {
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -607,18 +607,26 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Morra di",
-        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Morra di",
-      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -659,26 +667,18 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+        "name": "Morra di",
+        "url": "https://open.spotify.com/album/4JFvXLSRF8rRgjVIOHR5nR"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+      "duration_ms": 162093,
+      "name": "Morra di",
+      "url": "https://open.spotify.com/track/6Rf746IPHZ1Uoy5xLlpQAV"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Aleine over fjell",
-        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
       "artists": [
         {
-          "name": "Br\u00e5tabrann",
-          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 173289,
-      "name": "Aleine over fjell",
-      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2025-10-16 22:00:43",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
+        "name": "Aleine over fjell",
+        "url": "https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL"
+      },
+      "artists": [
+        {
+          "name": "Br\u00e5tabrann",
+          "url": "https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71"
+        }
+      ],
+      "duration_ms": 173289,
+      "name": "Aleine over fjell",
+      "url": "https://open.spotify.com/track/3hTueanE6FImv3heUnvow8"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
@@ -787,26 +803,6 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
-        "name": "Hopp inn i kjerra",
-        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        }
-      ],
-      "duration_ms": 140940,
-      "name": "Hopp inn i kjerra",
-      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
         "name": "F\u00f8dt i nord",
         "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
       },
@@ -827,6 +823,26 @@
     {
       "added_at": "2025-10-16 22:00:43",
       "album": {
+        "name": "Hopp inn i kjerra",
+        "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        }
+      ],
+      "duration_ms": 140940,
+      "name": "Hopp inn i kjerra",
+      "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
+    },
+    {
+      "added_at": "2025-10-16 22:00:43",
+      "album": {
         "name": "Ola",
         "url": "https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 204336,
       "name": "Ola",
       "url": "https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6"
-    },
-    {
-      "added_at": "2025-10-16 22:00:43",
-      "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2025-10-16 22:00:43",

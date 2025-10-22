@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Jackie Hill Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,708 likes - 106 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,762 likes - 106 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 5 | [Seasons](https://open.spotify.com/track/3d7SZPaaSwX74WyLuv8UCe) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Jay Violet](https://open.spotify.com/artist/3aIRiwMJuj4Ax11Dlr3ZEL) | [Seasons](https://open.spotify.com/album/2oWabd0BGTcMFZeIEZKnb5) | 2:49 |
 | 6 | [CRAZY](https://open.spotify.com/track/3mthWuWDzGqEmgved1EmTx) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [CRAZY](https://open.spotify.com/album/0al1xOKae3YyOKRCsd6InQ) | 2:21 |
 | 7 | [God 1st](https://open.spotify.com/track/3fr7sRjXYbYz7rf2EdiKXr) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [God 1st](https://open.spotify.com/album/7a33DGV1r0RPgDLBDU2aez) | 2:00 |
-| 8 | [Bigger Than Me](https://open.spotify.com/track/55RwtAhtpaQCEqqi7gCo8P) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Vigilante](https://open.spotify.com/album/3VZ4yCOVPOwge9LSlDtK4X) | 3:24 |
+| 8 | [Bigger Than Me](https://open.spotify.com/track/55RwtAhtpaQCEqqi7gCo8P) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Vigilante](https://open.spotify.com/album/3VZ4yCOVPOwge9LSlDtK4X) | 3:24 |
 | 9 | [I Ain't Worried](https://open.spotify.com/track/73t0NQMn7cB9maJ4ydNnGS) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0) | [Blameless](https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb) | 3:42 |
 | 10 | [DA HEAT](https://open.spotify.com/track/7g1fl7RczZajWUclSeGTIW) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [DA HEAT](https://open.spotify.com/album/79gDgHYwMuBVAuuA1vQKhO) | 2:02 |
 | 11 | [MAN ABOVE](https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [MAN ABOVE](https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo) | 3:08 |

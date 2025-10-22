@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 445953,
+  "num_followers": 445984,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAACfYBzKY0m3kNnhjELQc6mH",
+  "snapshot_id": "aPV7gAAAAACi3BbJ/XpZ975rvi482TiK",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caballo Robado",
+        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 118816,
+      "name": "Caballo Robado",
+      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Kilates (Con Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167282,
+      "name": "El Perseverante",
+      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Nac\u00ed Pa' Ser Jefe",
         "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
       },
@@ -423,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Kilates (Con Norte\u00f1o)",
-        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
       "artists": [
         {
@@ -432,9 +464,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 167282,
-      "name": "El Perseverante",
-      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
+      "duration_ms": 145781,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
     },
     {
       "added_at": null,
@@ -467,38 +499,6 @@
       "duration_ms": 173874,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 145781,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caballo Robado",
-        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 118816,
-      "name": "Caballo Robado",
-      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chavo",
-        "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 226101,
-      "name": "El Chavo",
-      "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Mayo",
         "url": "https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5"
       },
@@ -879,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "El Chavo",
+        "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         },
         {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 189494,
-      "name": "El Viejo del Monte",
-      "url": "https://open.spotify.com/track/3yL05KM2udEL7lEKVw8pkm"
+      "duration_ms": 226101,
+      "name": "El Chavo",
+      "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
       "duration_ms": 239201,
       "name": "El Zorro",
       "url": "https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 189494,
+      "name": "El Viejo del Monte",
+      "url": "https://open.spotify.com/track/3yL05KM2udEL7lEKVw8pkm"
     }
   ],
   "unique_name": "This Is El Fantasma",

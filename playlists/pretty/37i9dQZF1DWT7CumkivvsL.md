@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 
 > Will love prove stronger than resentment? Listen to the official playlist for Culpa Mia, Culpa Tuya , and Culpa Nuestra, now streaming on Prime Video
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,025 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,026 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7CumkivvsL.md) - [plain]
 | 33 | [El Modo](https://open.spotify.com/track/4jDBOxugweWNDggocWpDHy) | [ALEZ](https://open.spotify.com/artist/0FzYSfYuLo6HNj8iBo8mxc) | [El Modo](https://open.spotify.com/album/4lSYUBLzhU9LM8ZcJPzmbz) | 2:46 |
 | 34 | [En Otra Ciudad](https://open.spotify.com/track/4lnjy1OV0PvkIU2UHHVknZ) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [En Otra Ciudad](https://open.spotify.com/album/2KOaSdmvZFNF7jSwswk5Z3) | 2:45 |
 | 35 | [Maserati](https://open.spotify.com/track/4bSq6VrpKDqE6RHN1p1nTA) | [Iacho](https://open.spotify.com/artist/6ybOB74nYTUpM6VGiP1egr) | [Maserati](https://open.spotify.com/album/4o6E0lZ9nBY44OOm61ktDl) | 2:53 |
-| 36 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
+| 36 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 | 37 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 |
 | 38 | [Con Los Nudillos](https://open.spotify.com/track/7yrbIk2guPk6fGoy9oOD22) | [Soleá Morente](https://open.spotify.com/artist/5X5UPn6eVnwfYcujIQpcfu) | [Con Los Nudillos](https://open.spotify.com/album/3dCNCYpXb0oKR7op1iHKs8) | 2:56 |
 | 39 | [Dynamite](https://open.spotify.com/track/6e7Eudq88wcygOphhtQnrN) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 3:51 |

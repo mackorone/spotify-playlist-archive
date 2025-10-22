@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. El Rabbanito en portada.",
-  "num_followers": 222323,
+  "num_followers": 222407,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Me Gusto Vivir La Vida",
+        "url": "https://open.spotify.com/album/4fVV0Tq3p0RTp05Wx9uVE9"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 224069,
+      "name": "Me Gusto Vivir La Vida",
+      "url": "https://open.spotify.com/track/2belCyWNI01poSMRgRKfLM"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "No Son Doritos",
         "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 160714,
       "name": "NO SON DORITOS",
       "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Me Gusto Vivir La Vida",
-        "url": "https://open.spotify.com/album/4fVV0Tq3p0RTp05Wx9uVE9"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 224069,
-      "name": "Me Gusto Vivir La Vida",
-      "url": "https://open.spotify.com/track/2belCyWNI01poSMRgRKfLM"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -419,22 +419,18 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 180047,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -459,18 +455,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
         }
       ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -523,6 +523,26 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -559,26 +579,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "DINERAL",
         "url": "https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra - En vivo",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "El Gerry",
+      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -655,22 +671,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "Jalense la Gre\u00f1a",
-        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "El Gerry",
-      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "Tambi\u00e9n Me Llamo Ismael",
         "url": "https://open.spotify.com/album/18EBLg9eT1VizyqevunXWq"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "Los Brothers 2",
-        "url": "https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 238464,
-      "name": "Los Brothers 2",
-      "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "Los Brothers 2",
+        "url": "https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 238464,
+      "name": "Los Brothers 2",
+      "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "El Jelty",
+        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 189605,
+      "name": "El Jelty",
+      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Por Si Se Les Olvidaba",
         "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 160000,
       "name": "Por Si Se Les Olvidaba",
       "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "El Jelty",
-        "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 189605,
-      "name": "El Jelty",
-      "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "Barbas Y Botas",
-        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 209116,
-      "name": "Barbas Y Botas",
-      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "Magneto",
         "url": "https://open.spotify.com/album/3LZBjdQbfBo2h4Oa1mA7HS"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 197613,
       "name": "Millionaires",
       "url": "https://open.spotify.com/track/43Sg1MTOL8l5Uf0hL2LAd2"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "Barbas Y Botas",
+        "url": "https://open.spotify.com/album/4xnyS1V1mrX8F2KejpGU1F"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 209116,
+      "name": "Barbas Y Botas",
+      "url": "https://open.spotify.com/track/1gqus9p1wgFlpAoTcAP7ci"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
         "name": "Chica La Bola",
         "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 182229,
       "name": "Jerry",
       "url": "https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "La Raza de Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 155018,
+      "name": "La Raza de Michoac\u00e1n",
+      "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "El Hombre De Las 3 D\u00e9cadas",
         "url": "https://open.spotify.com/album/0hGC6GQVpdIZlZqLVQ610L"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 184261,
       "name": "El Compa 1",
       "url": "https://open.spotify.com/track/4X51ot2ZvuPIVRbbPwoLBv"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "La Raza de Michoac\u00e1n",
-        "url": "https://open.spotify.com/album/6LV5hKxJFgPPdsxPnua7fN"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 155018,
-      "name": "La Raza de Michoac\u00e1n",
-      "url": "https://open.spotify.com/track/2V5TwDefnxaxMxByDM2cG1"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "Mono Verde",
+        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Mono Verde",
+      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Le Apodan El Fresa",
         "url": "https://open.spotify.com/album/1AEAC2w9INswuQduuqzAxG"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 194541,
       "name": "Le Apodan El Fresa",
       "url": "https://open.spotify.com/track/5isAR6vWFuvgIPlgDfO4lX"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "Mono Verde",
-        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Mono Verde",
-      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
     },
     {
       "added_at": "2025-08-15 06:00:35",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2025-08-15 06:00:35",
       "album": {
+        "name": "El Viejo Fino",
+        "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "El Viejo Fino",
+      "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
+    },
+    {
+      "added_at": "2025-08-15 06:00:35",
+      "album": {
         "name": "Vice City",
         "url": "https://open.spotify.com/album/23LPkEHsmyraqgagmBLvfK"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 183973,
       "name": "Vice City",
       "url": "https://open.spotify.com/track/5vCvXUhlrqjNdDSXZpl1vi"
-    },
-    {
-      "added_at": "2025-08-15 06:00:35",
-      "album": {
-        "name": "El Viejo Fino",
-        "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "El Viejo Fino",
-      "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
     },
     {
       "added_at": "2025-08-15 06:00:35",

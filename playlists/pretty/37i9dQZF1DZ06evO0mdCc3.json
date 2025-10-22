@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 15591,
+  "num_followers": 15595,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADOng8I1zkxto4ZoXqTNryc",
+  "snapshot_id": "aPV7gAAAAACzWagter1VGAPzyaHo5jhy",
   "tracks": [
     {
       "added_at": null,
@@ -171,34 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
-        "url": "https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0"
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
       },
       "artists": [
         {
           "name": "Kittie",
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        },
-        {
-          "name": "DIAMANTE",
-          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
-        },
-        {
-          "name": "The Pretty Wild",
-          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
-        },
-        {
-          "name": "Queen of the Ring",
-          "url": "https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn"
-        },
-        {
-          "name": "Aaron Gilhuis",
-          "url": "https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG"
         }
       ],
-      "duration_ms": 352242,
-      "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
-      "url": "https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1"
+      "duration_ms": 278906,
+      "name": "Mouthful of Poison",
+      "url": "https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY"
     },
     {
       "added_at": null,
@@ -235,18 +219,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
+        "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
+        "url": "https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0"
       },
       "artists": [
         {
           "name": "Kittie",
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        },
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        },
+        {
+          "name": "The Pretty Wild",
+          "url": "https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm"
+        },
+        {
+          "name": "Queen of the Ring",
+          "url": "https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn"
+        },
+        {
+          "name": "Aaron Gilhuis",
+          "url": "https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG"
         }
       ],
-      "duration_ms": 278906,
-      "name": "Mouthful of Poison",
-      "url": "https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY"
+      "duration_ms": 352242,
+      "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
+      "url": "https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 198185,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
+      "duration_ms": 222601,
+      "name": "I Still Wear This Crown",
+      "url": "https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 237776,
-      "name": "Falter",
-      "url": "https://open.spotify.com/track/4IagfZ1d6DDMYj5HNnfbfW"
+      "duration_ms": 198185,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
     },
     {
       "added_at": null,

@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMV72tzg4cD.md) - [plain]
 | 71 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Lovin you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
 | 72 | [Gold Rush \- Primum Mobile Mix](https://open.spotify.com/track/5dAtzYqP0L1WKwrBmM4xhv) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Absolute Music 2/5](https://open.spotify.com/album/25bS2Xce1Dsjl2yaewiRhP) | 4:09 |
 | 73 | [Live Again](https://open.spotify.com/track/3VuEgYNwHDWB9Q9cdjtvQi) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Live Again](https://open.spotify.com/album/7HvwMFz2rJAU9ftzX9oMGf) | 2:56 |
-| 74 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
+| 74 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
 | 75 | [ENERGI](https://open.spotify.com/track/4Gcj3KFQs8D6xnq2qaF1av) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/28EmDTnxJEZPHL6f2aUo1x) | 3:13 |
 
 Snapshot ID: `AAAAAKVjJz6BZX0Z2ANWEsN/xkpn9mr9`

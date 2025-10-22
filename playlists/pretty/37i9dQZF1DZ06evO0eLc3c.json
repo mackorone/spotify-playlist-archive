@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 52787,
+  "num_followers": 52792,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAACcQgfm0J69sBrVD91jWLqR",
+  "snapshot_id": "aPV7gAAAAADnq7kI9Bbi6JvY5vzKK0Ez",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 227213,
-      "name": "April Fool",
-      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
+      "duration_ms": 396360,
+      "name": "Ain't It Strange",
+      "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 396360,
-      "name": "Ain't It Strange",
-      "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
+      "duration_ms": 227213,
+      "name": "April Fool",
+      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trampin'",
-        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 309493,
-      "name": "Peaceable Kingdom",
-      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 327026,
       "name": "The Jackson Song",
       "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 309493,
+      "name": "Peaceable Kingdom",
+      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 340053,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 279506,
       "name": "Dream of Life",
       "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 340053,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "This Is the Girl",
-      "url": "https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 246640,
       "name": "Looking for You (I Was)",
       "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "This Is the Girl",
+      "url": "https://open.spotify.com/track/3aDLTIgOoi21boHt8KXIKB"
     },
     {
       "added_at": null,

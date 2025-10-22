@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-247 songs - 15 hr 47 min
+248 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Fallin'](https://open.spotify.com/track/4M3VnGriMuTOUV65fj16yg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Fallin' \(Official HD Video\)](https://open.spotify.com/album/2MjtMw3tO5lMcHHPaussio) | 3:26 | 2023-12-13 | 2024-02-02 |
 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 | 2023-03-09 |  |
 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 | 2023-03-09 |  |
-| [Fire We Make](https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 5:21 | 2023-03-09 | 2025-10-21 |
+| [Fire We Make](https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 5:21 | 2023-03-09 |  |
 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 | 2023-03-09 |  |
 | [Foolish Heart](https://open.spotify.com/track/1C1KvQ8BUB0rjEiX39P29C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(20th Anniversary Edition\)](https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3) | 4:39 | 2023-03-09 | 2023-06-05 |
 | [Foolish Heart](https://open.spotify.com/track/3WfpkkRQPyg7m2rtqTELw3) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 4:39 | 2023-06-04 |  |
@@ -145,7 +145,8 @@
 | [No One](https://open.spotify.com/track/1rEWI6tnJ3Za9sZC2YZm0J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [No One \(Official Music Video\)](https://open.spotify.com/album/1UpH7i6GjVP8G6u1mIWCxJ) | 4:08 | 2023-12-14 | 2024-02-01 |
 | [No One](https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 4:13 | 2023-03-09 | 2023-03-27 |
 | [No One](https://open.spotify.com/track/0mZ5GyrHG908lqrHaTw4hi) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [No One \(Remixes\)](https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6) | 4:14 | 2023-03-26 |  |
-| [No One](https://open.spotify.com/track/1kyFtEEz6rhiJXDBX4K8cr) | [Kevin Flournoy](https://open.spotify.com/artist/7mO7OxtXwcBfXBpRpNGVz0), [Rebecca Jade](https://open.spotify.com/artist/2z0lncVHaaFPSYyrLQ9NKF) | [No One](https://open.spotify.com/album/2Vfq180GLglCAZCAHwMdDC) | 6:05 | 2023-03-09 |  |
+| [No One](https://open.spotify.com/track/1kyFtEEz6rhiJXDBX4K8cr) | [Kevin Flournoy](https://open.spotify.com/artist/7mO7OxtXwcBfXBpRpNGVz0), [Rebecca Jade](https://open.spotify.com/artist/2z0lncVHaaFPSYyrLQ9NKF) | [No One](https://open.spotify.com/album/2Vfq180GLglCAZCAHwMdDC) | 6:05 | 2023-03-09 | 2025-10-22 |
+| [No One](https://open.spotify.com/track/3oENYpsup7W1zqvGltQuAY) | [Martin Novales](https://open.spotify.com/artist/7hbt5COPR9EYJj9CLN89th) | [No One](https://open.spotify.com/album/3vb0lcfkZEtE9EphF7bnus) | 3:14 | 2025-10-21 |  |
 | [Nobody \(feat\. Alicia Keys & Nicki Minaj\)](https://open.spotify.com/track/3vchM8RVoYP2rAb9NcaaMR) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Grateful](https://open.spotify.com/album/6YDPJOxe5wW5pTIXMH0nCI) | 4:31 | 2023-12-13 |  |
 | [Nobody Not Really \(Interlude\)](https://open.spotify.com/track/4g8W8YNI1lbb4v8Rd49pmA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:56 | 2023-03-09 |  |
 | [Not Even the King](https://open.spotify.com/track/55do1f4mkLfM314tQDlyfw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:07 | 2023-03-09 |  |

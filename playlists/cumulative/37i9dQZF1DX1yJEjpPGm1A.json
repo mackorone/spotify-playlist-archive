@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Amazing You",
+        "url": "https://open.spotify.com/album/2dTSzrGO5IhAXCfxDKP6s8"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/6Obj7Vj37gWWqWCbS5PuYH"
+    },
+    {
+      "album": {
         "name": "Motel California OST Part.1",
         "url": "https://open.spotify.com/album/5SLDQJy85mmRg9AekUpap6"
       },
@@ -204,6 +222,24 @@
       "duration_ms": 268125,
       "name": "Beauty of my life",
       "url": "https://open.spotify.com/track/2nuYQ6OTqjwzHw34SJiaF8"
+    },
+    {
+      "album": {
+        "name": "Before Love",
+        "url": "https://open.spotify.com/album/12NS4M30oqznlTJPmBWMC0"
+      },
+      "artists": [
+        {
+          "name": "BUMJIN",
+          "url": "https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Before Love",
+      "url": "https://open.spotify.com/track/2lKrSfIqw1HKPZt8SMSk14"
     },
     {
       "album": {

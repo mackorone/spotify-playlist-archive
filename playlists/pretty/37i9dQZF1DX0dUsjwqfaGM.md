@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 49 | [chiều thứ 7](https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [chiều thứ 7](https://open.spotify.com/album/4U8Krj8WzLaBEwlSYle5Rk) | 4:39 |
 | 50 | [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 |
 
-Snapshot ID: `AAAAAHVHdQgiyN4aZJS9oJHDDliePBhS`
+Snapshot ID: `AAAAAPGAo6i6VTCazm7PFkZJQP/hyWzh`

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 85022,
+  "num_followers": 85039,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADkQresTv1FEQZQdUOgURBd",
+  "snapshot_id": "aPV7gAAAAABx8OA7ROK+y89IfldXGRbn",
   "tracks": [
     {
       "added_at": null,
@@ -147,30 +147,6 @@
       "duration_ms": 304200,
       "name": "Oh Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
     },
     {
       "added_at": null,
@@ -831,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 316680,
-      "name": "Pira\u00f1a",
-      "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -867,6 +823,26 @@
       "duration_ms": 317813,
       "name": "Eso Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 316680,
+      "name": "Pira\u00f1a",
+      "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
     },
     {
       "added_at": null,
@@ -983,6 +959,26 @@
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OG: Original Gangster",
+        "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 336120,
+      "name": "Barrunto",
+      "url": "https://open.spotify.com/track/5qxGS2O7i5bQXHu0MyM9c8"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

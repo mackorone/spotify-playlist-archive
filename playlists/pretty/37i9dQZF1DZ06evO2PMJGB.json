@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265044,
+  "num_followers": 265053,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAABJQTIu0Gqapub/5DUo/kGh",
+  "snapshot_id": "aPV7gAAAAADIGzL6u6kBgtRO53IoT7yY",
   "tracks": [
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TOMA",
+        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 129654,
+      "name": "TOMA",
+      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MiuMiu",
         "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
       },
@@ -967,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOMA",
-        "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
+        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
+        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
       },
       "artists": [
         {
@@ -976,13 +996,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
         }
       ],
-      "duration_ms": 129654,
-      "name": "TOMA",
-      "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+      "duration_ms": 102857,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu"
     },
     {
       "added_at": null,
@@ -1003,26 +1023,6 @@
       "duration_ms": 146300,
       "name": "Type Dangerous - The Brazil Funk Remix",
       "url": "https://open.spotify.com/track/7xa8fAugOwINDATQGs8y8J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
-        "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/43ZdKF4jpHnnptyooxNXWu"
     },
     {
       "added_at": null,

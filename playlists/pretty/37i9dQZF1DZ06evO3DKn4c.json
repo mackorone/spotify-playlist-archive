@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40586,
+  "num_followers": 40597,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADDaObf7YMYeFDta+jxdLIt",
+  "snapshot_id": "aPV7gAAAAAApZFzWdYQT/zlAGfk8YEAp",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 53488,
-      "name": "DEISDAZSEIS - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 265088,
       "name": "Nunca Tenha Medo",
       "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 53488,
+      "name": "DEISDAZSEIS - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pique Peaky Blinders",
-        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 185604,
-      "name": "Pique Peaky Blinders",
-      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 220709,
       "name": "ZEROVINTEUM - Ao Vivo",
       "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pique Peaky Blinders",
+        "url": "https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 185604,
+      "name": "Pique Peaky Blinders",
+      "url": "https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk"
     },
     {
       "added_at": null,
@@ -520,9 +520,29 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 175945,
+      "name": "QUEIMANDO TUDO - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a"
     },
     {
       "added_at": null,
@@ -547,6 +567,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bambas & Biritas, Vol. 1",
+        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
+      },
+      "artists": [
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "DJ Soul Slinger",
+          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
+        }
+      ],
+      "duration_ms": 307253,
+      "name": "Na Noite Se Resolve",
+      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
         "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
       },
@@ -560,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 175945,
-      "name": "QUEIMANDO TUDO - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a"
+      "duration_ms": 245741,
+      "name": "CONTEXTO - Ao Vivo",
+      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
     },
     {
       "added_at": null,
@@ -595,66 +655,6 @@
       "duration_ms": 235413,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princ\u00edpio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bambas & Biritas, Vol. 1",
-        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
-      },
-      "artists": [
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "DJ Soul Slinger",
-          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
-        }
-      ],
-      "duration_ms": 307253,
-      "name": "Na Noite Se Resolve",
-      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 245741,
-      "name": "CONTEXTO - Ao Vivo",
-      "url": "https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE"
     },
     {
       "added_at": null,

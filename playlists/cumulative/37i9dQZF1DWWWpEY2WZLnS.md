@@ -2,7 +2,7 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Jezzy
+> Los éxitos del Dembow\. Portada: Arlene MC
 
 399 songs - 19 hr 5 min
 

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. ⬆️ Kannessa Evelina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,084 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,096 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
+| 1 | [Yks yö](https://open.spotify.com/track/1HovJONUfhVAOpVk5lBzAy) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Yks yö](https://open.spotify.com/album/5S8G0cvb0pnLTOj6ZWWYqk) | 2:46 |
 | 2 | [Vähän enemmän](https://open.spotify.com/track/7oZUbH4QyiNtW8L9ibZFHH) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Vähän enemmän](https://open.spotify.com/album/0QNhV8mz6qAYwFZnfAbASR) | 3:07 |
-| 3 | [Yks yö](https://open.spotify.com/track/1HovJONUfhVAOpVk5lBzAy) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Yks yö](https://open.spotify.com/album/5S8G0cvb0pnLTOj6ZWWYqk) | 2:46 |
-| 4 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
-| 5 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
-| 6 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
-| 7 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 |
+| 3 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 |
+| 4 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
+| 5 | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/track/35kMp6OpJVgFuSWElHqgbh) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Matkustaja \(Vain elämää kausi 16\)](https://open.spotify.com/album/2VN3IhBnCYWIhLpIrqYB5C) | 3:34 |
+| 6 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
+| 7 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
 | 8 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
 | 9 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 10 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 79 | [Pimeään](https://open.spotify.com/track/5muiXER1adsb94Qb2o3Z0f) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR) | [Pimeään](https://open.spotify.com/album/7pwKzcqSfAkTxbAbIvJilI) | 3:26 |
 | 80 | [Kauas pois](https://open.spotify.com/track/5eO7a4KuRkvbHLNHkqn4es) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Kauas pois](https://open.spotify.com/album/4O6x2Q6u6ygC822oYMQoHO) | 2:35 |
 
-Snapshot ID: `AAAAAD1HSoYnG3kz18BXPjYfsmGNnRXt`
+Snapshot ID: `AAAAAF9HBuVclCCIynTU4zlFg6V42NEW`

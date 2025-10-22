@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGI3DKkKGzJ.md) - [plain]
 
 > Le meilleur des années 90 en 90 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,901 likes - 90 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,926 likes - 90 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/17LZKLjQxH2w67xMa8mWML) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 3:25 |
-| 2 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
+| 2 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 3 | [La tribu de Dana](https://open.spotify.com/track/64gCM9yZv2jpNflclKUnXu) | [Manau](https://open.spotify.com/artist/6k68jYvlUy3CXOwhG1NDBL) | [Panique Celtique](https://open.spotify.com/album/1i7e6Cu4N6zhbhvJ4lNw6G) | 4:47 |
 | 4 | [Hasta Siempre](https://open.spotify.com/track/16TeQ2lM9TLU9BnLDIW1P9) | [Nathalie Cardone](https://open.spotify.com/artist/4mFVIsGoC8rydMTE442kJ3) | [Nathalie Cardone](https://open.spotify.com/album/4l6m830dnNGuW1oFqCYkse) | 4:20 |
 | 5 | [All That She Wants](https://open.spotify.com/track/79PPANTmt8u2sBbTOBwkPd) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation \(U.S\. Version\)](https://open.spotify.com/album/6ffpRSfiSJDagQAL76kDRC) | 3:31 |

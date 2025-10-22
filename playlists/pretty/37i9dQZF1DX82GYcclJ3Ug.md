@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Maggie Lindemann
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,444 likes - 136 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,617 likes - 136 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Sarsa
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,104 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,156 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 56 | [To bardzo ziemskie](https://open.spotify.com/track/7hDySXTBCluEHbJJaNN8It) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [To bardzo ziemskie](https://open.spotify.com/album/6IArcoYPAQQ8Z5mmklTw0h) | 3:21 |
 | 57 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 |
 | 58 | [Co za noc \(projekt BABIE LATO, Santander Letnie Brzmienia\)](https://open.spotify.com/track/65hBCYomnvP6qBCjaWnhm3) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Co za noc \(projekt BABIE LATO, Santander Letnie Brzmienia\)](https://open.spotify.com/album/1Pnkd6rwiqN305ho8fmv1n) | 3:04 |
-| 59 | [CO JA WIEM](https://open.spotify.com/track/6yFBubbTWWUI5Le58Mtwhg) | [Zippy Ogar](https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU), [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Boron](https://open.spotify.com/artist/3NavsjV5gXD16H8LRmSecq) | [CO JA WIEM / SUMNLIKETHAT](https://open.spotify.com/album/30AFYuXV2w2QKBkRe3ZNtw) | 2:31 |
+| 59 | [CO JA WIEM](https://open.spotify.com/track/6yFBubbTWWUI5Le58Mtwhg) | [Zippy Ogar](https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU), [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Boron](https://open.spotify.com/artist/3NavsjV5gXD16H8LRmSecq), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [CO JA WIEM / SUMNLIKETHAT](https://open.spotify.com/album/30AFYuXV2w2QKBkRe3ZNtw) | 2:31 |
 | 60 | [daj zapomnieć.](https://open.spotify.com/track/4tbmUuzgC7EmtrmAAesiB5) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx) | [daj zapomnieć.](https://open.spotify.com/album/3TX0CdNwrvl7RdFiHgT3pE) | 1:55 |
 
 Snapshot ID: `AAAAABlIPFqAiDYjWlM9vxaZ8lsM8ayw`

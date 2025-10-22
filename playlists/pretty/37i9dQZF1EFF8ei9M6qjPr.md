@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 170 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 170 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 111 | [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 |
 | 112 | [Namin’ Names](https://open.spotify.com/track/2UgxbSfjmBmx9TxtTd1EeG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:43 |
 | 113 | [Free](https://open.spotify.com/track/17IHogEwGpHjodPv7zUrUB) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:29 |
-| 114 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 |
-| 115 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
+| 114 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
+| 115 | [Mojave](https://open.spotify.com/track/05bOlUVof9LtsARuf0M8Lz) | [Jad Saad](https://open.spotify.com/artist/3Re3peL3DQMzTe4c5WRX2e) | [Mojave](https://open.spotify.com/album/3iYarDlgjNdmC11Q2utJe8) | 3:03 |
 | 116 | [Darkside](https://open.spotify.com/track/5eqqCdjErB7woHR39vRo60) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Darkside](https://open.spotify.com/album/4iuKwRcg4fHZJs0dENeM2H) | 2:53 |
 | 117 | [when you're older](https://open.spotify.com/track/5eFoGE7suEgqgDDaAZiWDc) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [when you're older](https://open.spotify.com/album/4Rt1dnxFH98AwYEraIYbio) | 2:23 |
 | 118 | [Waterfall](https://open.spotify.com/track/3uAqz4hbag8RrL1v2kzgn1) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/4uINqK7mi5spfI23cy5GXx) | 2:59 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 156 | [Daddy](https://open.spotify.com/track/1Bqot3X5SUjFTZOnICSXd3) | [Jesse Perez](https://open.spotify.com/artist/28tbqi7xhIZs8RRGdeCy8d) | [Daddy](https://open.spotify.com/album/5YUSX87t6diKWFZ9bYLH3U) | 3:17 |
 | 157 | [Drifting](https://open.spotify.com/track/2j9Pf1DEfRxTJaDRptIRJs) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC) | 2:54 |
 | 158 | [Fiend](https://open.spotify.com/track/3ADYHqOd7NPIKXOF5TIq6T) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Fiend](https://open.spotify.com/album/0YHMkJaEbn90CPHVowKR4g) | 2:48 |
-| 159 | [The Other Side](https://open.spotify.com/track/1tAQGgcaCmLoZ5g3tyPdNM) | [Jesse\~g Yang](https://open.spotify.com/artist/3HEz7hDKFZbEoBt22Sr23e) | [The Other Side](https://open.spotify.com/album/3H7L9eAageq4HplvYDg1Fd) | 3:15 |
-| 160 | [Body Count](https://open.spotify.com/track/3hizyzBsKFgjmRtqTQpwDL) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Retreat](https://open.spotify.com/album/7Hvfi5Y7bARlr24YFCRHrm) | 2:24 |
+| 159 | [Body Count](https://open.spotify.com/track/3hizyzBsKFgjmRtqTQpwDL) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Retreat](https://open.spotify.com/album/7Hvfi5Y7bARlr24YFCRHrm) | 2:24 |
+| 160 | [The Other Side](https://open.spotify.com/track/1tAQGgcaCmLoZ5g3tyPdNM) | [Jesse\~g Yang](https://open.spotify.com/artist/3HEz7hDKFZbEoBt22Sr23e) | [The Other Side](https://open.spotify.com/album/3H7L9eAageq4HplvYDg1Fd) | 3:15 |
 | 161 | [Don't Prove Me Wrong](https://open.spotify.com/track/0T3t2dLmJWmUivNFnTfLs6) | [Londin Thompson](https://open.spotify.com/artist/2Sh4jX7pEUGGccmg4f7oKw) | [Don't Prove Me Wrong](https://open.spotify.com/album/0k1s0w1dX6RU96SBkoV32d) | 3:08 |
 | 162 | [Ghost](https://open.spotify.com/track/12y97ZRl9zs5JjwSj5aEss) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [All Night Days](https://open.spotify.com/album/29X77czxu4Wi88sASWvKHi) | 2:45 |
 | 163 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 169 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 | 170 | [indica](https://open.spotify.com/track/3fvn8a0X0yOdXSi25fYPME) | [jesse](https://open.spotify.com/artist/6BtIpll353jdO2Zv8YPVsT) | [kat](https://open.spotify.com/album/3SR1oVf3c8rqN74VyzI400) | 1:49 |
 
-Snapshot ID: `Ab/ZkgAAAAD9rLqO9wtFbgbIMgNsI8I1`
+Snapshot ID: `Ab/fMgAAAACfJZFzLnZPcexqSBI5TbCT`

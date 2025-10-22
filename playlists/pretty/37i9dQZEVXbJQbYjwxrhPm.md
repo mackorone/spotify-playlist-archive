@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Невинна](https://open.spotify.com/track/5iTmDdcdOHaUiHQbmX5nA4) | [Papi Hans](https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY) | [Невинна](https://open.spotify.com/album/2UYDqyOaniYsIO70gt6iqC) | 3:47 |
 | 50 | [Bum Lake Pare](https://open.spotify.com/track/3Ta7Nz7ZaaHe9wDlfOdwOe) | [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK), [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Bum Lake Pare](https://open.spotify.com/album/1OsYlJECVezvlJ6vK80vmS) | 2:53 |
 
-Snapshot ID: `MImn+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MIr5eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

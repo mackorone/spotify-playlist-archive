@@ -2,9 +2,9 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> New stunning releases in modern soul\. Cover: K.ZIA
+> New stunning releases in modern soul\. Cover: Latanya Alberto
 
-590 songs - 1 day 10 hr 14 min
+592 songs - 1 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-12-08 | 2024-11-14 |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2021-12-16 | 2023-02-18 |
 | [Hold On](https://open.spotify.com/track/0zcRUprLKw7LtndkBurb3S) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Hold On](https://open.spotify.com/album/3WWfApLKg76DOgntZABET6) | 3:23 | 2021-12-16 | 2022-07-07 |
+| [Hold Your Hand](https://open.spotify.com/track/1xE4VBKGZjPlktET0jEiYX) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Hold Your Hand](https://open.spotify.com/album/0vlpAinZBQz0HwEkI1T1qp) | 2:44 | 2025-10-21 |  |
 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 | 2023-03-02 | 2023-10-07 |
 | [Holy Sun](https://open.spotify.com/track/6z6J6megE8QfT0awXOUecW) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/53e49wNoxOAej3tYm8RCnM) | 4:23 | 2022-06-30 | 2023-03-09 |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-02-24 | 2023-02-18 |
@@ -233,6 +234,7 @@
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2021-12-16 | 2022-01-14 |
 | [Hurt](https://open.spotify.com/track/1NdO75rlyv2rzFdaJ0Szzz) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Hurt](https://open.spotify.com/album/3srGGX7t64DCtxIaYchrzJ) | 4:22 | 2024-11-22 | 2025-01-24 |
 | [Hush](https://open.spotify.com/track/6zgZQ0Txc4cpF03TAjnEMJ) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Deluxe\)](https://open.spotify.com/album/7rkuRWugpXPOj9KVaYQZlM) | 2:09 | 2025-04-24 |  |
+| [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 | 2025-10-21 |  |
 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-08-08 |  |
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2023-03-30 | 2024-03-22 |
 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 | 2025-09-20 |  |
@@ -284,7 +286,7 @@
 | [Left Of Us](https://open.spotify.com/track/1aXbKSEIvNUBGB9ssHmLP9) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [What Am I Made Of](https://open.spotify.com/album/5BSFc02FQZIf5qvhYQYMjz) | 3:34 | 2025-03-13 |  |
 | [Leo](https://open.spotify.com/track/7GKiE4vRTWSpLT7JeRBjbQ) | [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Cubico](https://open.spotify.com/album/6Y9aBxO0bz1f5vthYXJOP5) | 3:34 | 2025-09-20 |  |
 | [Lessons \- Remix](https://open.spotify.com/track/3k6Eu5Gq7PM7krNbCqkQUs) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Lessons \(Remix\)](https://open.spotify.com/album/78IsczI1FMVEkgbynVBvHl) | 6:37 | 2021-12-16 | 2022-10-15 |
-| [Let Go](https://open.spotify.com/track/7wXC5tHhC5mBLTCfWHAV8N) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Let Go](https://open.spotify.com/album/3VHoBhHPkaktOt58rjBIgT) | 2:48 | 2025-02-27 |  |
+| [Let Go](https://open.spotify.com/track/7wXC5tHhC5mBLTCfWHAV8N) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Let Go](https://open.spotify.com/album/3VHoBhHPkaktOt58rjBIgT) | 2:48 | 2025-02-27 | 2025-10-22 |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-25 | 2025-02-28 |
 | [Let Me Know \- The Cypher](https://open.spotify.com/track/3yra5xBw7oHIU1hqDisA7j) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Geovarn](https://open.spotify.com/artist/1et4HAt8HCJJWuqW6hGWhk) | [Let Me Know \(The Cypher\)](https://open.spotify.com/album/3txhzSqd1Lc9Nig7CF5eH0) | 4:01 | 2022-06-16 | 2023-10-07 |
 | [Let Them Know](https://open.spotify.com/track/6h6IgxlexLCcZDUAKUYMhC) | [Paa Kofi](https://open.spotify.com/artist/3wR1dAQNUCIYpjXJJmMNB3) | [Let Them Know](https://open.spotify.com/album/0q0a36sBXjnxHlt4DKK9wN) | 3:50 | 2021-12-16 | 2022-02-11 |
@@ -376,7 +378,7 @@
 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 | 2021-12-16 | 2022-05-20 |
 | [Over \[Feat\. Yebba\]](https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 4:55 | 2022-02-24 | 2023-03-03 |
 | [Overgold](https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Overgold](https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6) | 3:15 | 2022-09-22 | 2023-10-12 |
-| [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 | 2025-02-03 |  |
+| [Own Thing](https://open.spotify.com/track/12Ji6jw8obSZ00XfagBxud) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH) | [Own Thing](https://open.spotify.com/album/22hrrkRhDX1Qr9gGCCLa0H) | 2:41 | 2025-02-03 | 2025-10-22 |
 | [Package Delivered by Tomorrow](https://open.spotify.com/track/0x5CkJPcSu3uTQe0g1JnJW) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Package Delivered by Tomorrow](https://open.spotify.com/album/45LOYek1e737i64Bq8LipC) | 3:48 | 2025-03-27 |  |
 | [Paralyzed in Paradise](https://open.spotify.com/track/3DKepGvTJawKQo7QLWBMw3) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Paralyzed In Paradise](https://open.spotify.com/album/2Ql6T0E0WNCxgNNpD8su77) | 2:20 | 2025-04-17 |  |
 | [Paris, Texas](https://open.spotify.com/track/4HNeLKW804ajGc5h41GtHE) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Now, You Know](https://open.spotify.com/album/4gxmQOdxJgN7kc1o8ipiUR) | 3:03 | 2021-12-16 | 2022-07-07 |

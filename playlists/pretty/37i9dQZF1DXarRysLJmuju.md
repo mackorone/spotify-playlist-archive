@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,222 likes - 98 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,210 likes - 98 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 4 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
 | 5 | [So Good](https://open.spotify.com/track/7eLSdXUfuIJyTPEzyBfpkS) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Can We Talk?](https://open.spotify.com/album/4XUPb1rntAZTacotCGf4lR) | 2:27 |
 | 6 | [Merry Go Round](https://open.spotify.com/track/243NHDpKPqm0VqS1cxctbl) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Merry Go Round](https://open.spotify.com/album/2XAnvwXanYt2hCQYVPMcfN) | 3:34 |
-| 7 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 7 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 8 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
 | 9 | [Sage My Soul](https://open.spotify.com/track/1xKHTdrOlDwXVfe6mG8apM) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Sage My Soul](https://open.spotify.com/album/403Imnd6NTzDTbwxVAR2ZU) | 2:58 |
 | 10 | [The Good Part](https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [The Good Part](https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1) | 3:31 |

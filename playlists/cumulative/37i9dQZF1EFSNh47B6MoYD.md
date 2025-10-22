@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 10 hr 39 min
+174 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 | 2023-03-09 |  |
 | [Cuando Se Ama Como Tú](https://open.spotify.com/track/5A6TF9z2XavNHuYXEJKsh0) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:51 | 2023-03-09 |  |
 | [Cuando Ya No Me Acuerde de Ti](https://open.spotify.com/track/3SzlElxX0OMeYHldppCl5m) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Que Suenen los Tambores](https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH) | 3:57 | 2023-03-09 |  |
+| [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 | 2025-10-21 |  |
 | [Cuenta Conmigo \(Feat\. Ana Bárbara\)](https://open.spotify.com/track/6utkB9P58tbbHwXzEYxeIO) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Cuenta Conmigo \(Feat\. Ana Bárbara\)](https://open.spotify.com/album/7DRMVvRCbDtg4jsvyZMtqT) | 3:03 | 2023-03-09 |  |
 | [Cueste Lo Que Cueste](https://open.spotify.com/track/4rkr5Irpn5fRwwkgGSiGdl) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:18 | 2023-03-09 |  |
 | [Darnos Un Dia](https://open.spotify.com/track/3d0kAURE6gsVdO2fEjrtap) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/3qifUQcqRxlOWNRcTwo0mS) | 4:06 | 2023-03-09 | 2023-12-14 |

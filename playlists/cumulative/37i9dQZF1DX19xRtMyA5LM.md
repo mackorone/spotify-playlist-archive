@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Esko
 
-180 songs - 8 hr 12 min
+181 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alleen](https://open.spotify.com/track/5IpWXgU0tQOVoSIRee6gAh) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Alleen](https://open.spotify.com/album/45MzQHCdPvlwNawqMof424) | 2:29 | 2025-09-04 | 2025-09-19 |
 | [Annie](https://open.spotify.com/track/61zWhf6RKGGXcIONwtmMsK) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Annie](https://open.spotify.com/album/4ib2gF1REV9lhSSRsfUA6E) | 1:57 | 2025-08-28 | 2025-09-26 |
 | [Archives](https://open.spotify.com/track/7qqMHnEtc7uH0YpKDortUU) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Springplank 2](https://open.spotify.com/album/5RBDnynhE6JzqTX7crUAXd) | 3:15 | 2025-07-17 | 2025-08-08 |
+| [AUDI](https://open.spotify.com/track/2z4aCFqMlVPR4mFRLBYQsI) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [AUDI](https://open.spotify.com/album/5eqqiWRn7PWdM02BBbVqNM) | 2:06 | 2025-10-21 |  |
 | [Aura](https://open.spotify.com/track/5zJbskfAwD56jTcJ6q13KU) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9) | [Aura](https://open.spotify.com/album/6uLm8ur2Ma1RTuaXPEz9xn) | 2:49 | 2025-10-02 |  |
 | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/track/7KF8mOuWc31dUxtPyUng1c) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [BADDIE ANTHEM \(feat\. KM\)](https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA) | 2:38 | 2025-07-17 | 2025-09-19 |
 | [Badman Stories](https://open.spotify.com/track/2N4tITKqBDP1Mh5dw2hGTM) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Badman Stories](https://open.spotify.com/album/6Xjj2b97hKVkKSq6drhyFq) | 2:21 | 2025-07-17 | 2025-08-29 |
@@ -57,7 +58,7 @@
 | [Duracell](https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Duracell](https://open.spotify.com/album/5gvKMvAS0tduRnzlFulKPZ) | 3:02 | 2025-07-17 |  |
 | [Endz](https://open.spotify.com/track/2KyxmtsF0qugKt4fHh2Wa2) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Sevirio](https://open.spotify.com/artist/0C1qkv78R9GMPtSUt0rZb2) | [Endz](https://open.spotify.com/album/34gmhLuclw3pWmkEcJPhDu) | 2:09 | 2025-08-28 | 2025-09-12 |
 | [Eventjes zien](https://open.spotify.com/track/7tEapg35jKq96yM8nJa28W) | [Nass](https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU) | [Eventjes zien](https://open.spotify.com/album/3zwTl0XJyFAIBvG4pcDlPi) | 2:25 | 2025-07-17 | 2025-07-25 |
-| [EY BRO](https://open.spotify.com/track/1Y6owzjfqe2lIB5oFrvIBv) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [CHOSSELLONIË 3](https://open.spotify.com/album/03LTtkdezojLVi0eg59pNR) | 2:44 | 2025-10-09 |  |
+| [EY BRO](https://open.spotify.com/track/1Y6owzjfqe2lIB5oFrvIBv) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [CHOSSELLONIË 3](https://open.spotify.com/album/03LTtkdezojLVi0eg59pNR) | 2:44 | 2025-10-09 | 2025-10-22 |
 | [Fake Of Echt](https://open.spotify.com/track/2PSlfgjJOZElbyPW2Bnuvd) | [Pierrii](https://open.spotify.com/artist/2Muef9e20frSc14ocV9TQU) | [Fake Of Echt](https://open.spotify.com/album/1SMvd1e9BeolbpewVdsrce) | 2:05 | 2025-07-17 | 2025-08-05 |
 | [feelings](https://open.spotify.com/track/0aP0RXFPYNhCmHDLqSliG4) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [TADS](https://open.spotify.com/artist/4PiXfQoM68C9kWwaJNMbQ7), [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [feelings](https://open.spotify.com/album/7dSubBkrzYpTIhNyNnnD3e) | 3:26 | 2025-07-24 | 2025-08-15 |
 | [Fine Sh\*t](https://open.spotify.com/track/4qqrA3hWrSdeHcxoPkF2bM) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Fine Sh\*t](https://open.spotify.com/album/5WMy7wGdcs1fAFshjJg5MJ) | 2:13 | 2025-09-04 |  |

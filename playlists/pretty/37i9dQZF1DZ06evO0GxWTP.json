@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20627,
+  "num_followers": 20626,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAq/+U5+nmrZtSwwbabac70",
+  "snapshot_id": "aPV7gAAAAABJqX1wkcS6VI8YTHVER3M+",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vader & zoon (Remix)",
+        "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Berge",
+          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
+        },
+        {
+          "name": "Milo ter Reegen",
+          "url": "https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn"
+        },
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 140202,
+      "name": "Vader & zoon - Remix",
+      "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entourage",
         "url": "https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue"
       },
@@ -111,34 +139,6 @@
       "duration_ms": 141141,
       "name": "Iconisch",
       "url": "https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vader & zoon (Remix)",
-        "url": "https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8"
-      },
-      "artists": [
-        {
-          "name": "Thomas Berge",
-          "url": "https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI"
-        },
-        {
-          "name": "Jack",
-          "url": "https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC"
-        },
-        {
-          "name": "Milo ter Reegen",
-          "url": "https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn"
-        },
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 140202,
-      "name": "Vader & zoon - Remix",
-      "url": "https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF"
     },
     {
       "added_at": null,

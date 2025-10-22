@@ -1493,6 +1493,40 @@
     },
     {
       "album": {
+        "name": "How You Bad Suh",
+        "url": "https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Bounty Killer",
+          "url": "https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/0qZ477shzgZQHKyZWVcDLr"
+    },
+    {
+      "album": {
         "name": "Memphis Cult Vol. 6",
         "url": "https://open.spotify.com/album/5TaVh9bj30QqGbvmC2CFoq"
       },
@@ -1814,6 +1848,28 @@
       "duration_ms": 205640,
       "name": "A Man Without Love",
       "url": "https://open.spotify.com/track/622sVNQCspoVUqFWzOYYcj"
+    },
+    {
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232458,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
     },
     {
       "album": {
@@ -15930,7 +15986,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 176186,
       "name": "Cuando El Agua Hirviendo",
       "url": "https://open.spotify.com/track/1EGahoey0DylpaNtGk3Mae"
@@ -27313,6 +27369,24 @@
     },
     {
       "album": {
+        "name": "bbno$",
+        "url": "https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118466,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/0zZXEuRkmE44e78mniF5MU"
+    },
+    {
+      "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
       },
@@ -29946,7 +30020,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 117551,
       "name": "HEY GYAL",
       "url": "https://open.spotify.com/track/2VRtB6eatj1vyuvUbfxvKo"
@@ -30732,7 +30806,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 173052,
       "name": "Hotel Room",
       "url": "https://open.spotify.com/track/2JvmvxYvYTijGMCpiulS3N"
@@ -38532,7 +38606,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 198367,
       "name": "LOS CACORROS USAN KLEIMOND",
       "url": "https://open.spotify.com/track/73gesm262Pgbk7j0SEpijT"
@@ -46536,7 +46610,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 195488,
       "name": "NETFLIX AND CHILL",
       "url": "https://open.spotify.com/track/78b1XMeXja1Nt8h8gZjXw6"
@@ -50140,6 +50214,24 @@
       "duration_ms": 162743,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0UqFiUEEpaPmSA2ZiTYx37"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
       "album": {
@@ -58115,6 +58207,28 @@
     },
     {
       "album": {
+        "name": "How You Bad Suh",
+        "url": "https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147954,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/2QSIcVyOxCcNp2navuicUi"
+    },
+    {
+      "album": {
         "name": "POR SI ALGUIEN NOS ESCUCHA",
         "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
       },
@@ -60536,7 +60650,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
@@ -62970,7 +63084,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 167173,
       "name": "Solifican12",
       "url": "https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0"
@@ -63126,7 +63240,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 156312,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/1L1ft2rFzlQRK3pNpPwU61"
@@ -67475,6 +67589,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "album": {
         "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
@@ -70280,6 +70412,24 @@
       "duration_ms": 156130,
       "name": "Tu Nombre Saprissa",
       "url": "https://open.spotify.com/track/5RHOfwDpbufHvPJYMjLZTg"
+    },
+    {
+      "album": {
+        "name": "El Hombre m\u00e1s grande",
+        "url": "https://open.spotify.com/album/51J0n1JKvLm7KNRoUm3esa"
+      },
+      "artists": [
+        {
+          "name": "Silbo apacible",
+          "url": "https://open.spotify.com/artist/09Ulp28KLAzbPI9Eil9hVG"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "Tu peleas por m\u00ed",
+      "url": "https://open.spotify.com/track/7zHZUjgyWKKgomiUk82wFR"
     },
     {
       "album": {
@@ -75647,6 +75797,24 @@
     },
     {
       "album": {
+        "name": "Wish (Audiomack Trap Symphony Version)",
+        "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180604,
+      "name": "Wish - Audiomack Trap Symphony Version",
+      "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
+    },
+    {
+      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -77012,6 +77180,28 @@
     {
       "album": {
         "name": "Yo s\u00e9",
+        "url": "https://open.spotify.com/album/7JV5BNJbbPROn43FjsFxYS"
+      },
+      "artists": [
+        {
+          "name": "Arez",
+          "url": "https://open.spotify.com/artist/7lkOYikCqUXJmw9mvuzojx"
+        },
+        {
+          "name": "Isaac Blackee",
+          "url": "https://open.spotify.com/artist/1vRZv1kS3dYesps2t9zLxT"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154474,
+      "name": "Yo s\u00e9",
+      "url": "https://open.spotify.com/track/5KCg5jS2JtAQYCb5urwwQc"
+    },
+    {
+      "album": {
+        "name": "Yo s\u00e9",
         "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
       },
       "artists": [
@@ -78074,7 +78264,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 243800,
       "name": "\u00bfQu\u00e9 tiene ella que no tenga yo?",
       "url": "https://open.spotify.com/track/0Iv4KPEczcBl3LTNFioq7X"

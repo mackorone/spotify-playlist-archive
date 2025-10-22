@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from The Last Dinner Party, Sam Fender, Tame Impala and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,952 likes - 115 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,944 likes - 115 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 3 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
 | 4 | [8PM](https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [8PM](https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm) | 2:51 |
 | 5 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
-| 6 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 6 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 7 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
 | 8 | [Skin Cleared](https://open.spotify.com/track/6oW8IdAkEVFsVMNy6nUQER) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 2:45 |
 | 9 | [Koya](https://open.spotify.com/track/6GMUwFCOUn5DxXPpxpE9LG) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Koya](https://open.spotify.com/album/0XjWU0ZXEr2sVK33LUSpFy) | 5:17 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 90 | [Sexy Boy](https://open.spotify.com/track/6g8CKK8X5NT0UaadrRN2lG) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Sexy Boy](https://open.spotify.com/album/0Z66rI82zyRLNbaHKHuteT) | 2:36 |
 | 91 | [X](https://open.spotify.com/track/6BBlYYRR4W2iaDqKJxOB1h) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [TEENAGE RAMBLE](https://open.spotify.com/album/3SZWTqmG06bLCSdGTSvPCw) | 3:19 |
 | 92 | [let me burn](https://open.spotify.com/track/3SnoIOHg3ksaP0pe0pD4To) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [i feel everything](https://open.spotify.com/album/1hxGAY6YeoX9DymmotRfxU) | 3:50 |
-| 93 | [Falling Through The Night](https://open.spotify.com/track/3JTE4U0zkjXXZzpAfMwmak) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [GAÏA](https://open.spotify.com/artist/1E3T1Ig7uDEudjktFUnNMe) | [Falling Through The Night](https://open.spotify.com/album/6cpb5Nv45omdGfyHMJOSHG) | 3:09 |
+| 93 | [Falling Through The Night](https://open.spotify.com/track/3JTE4U0zkjXXZzpAfMwmak) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [GAÏA](https://open.spotify.com/artist/0gaDq2buAvBDgfGtkDGmSk) | [Falling Through The Night](https://open.spotify.com/album/6cpb5Nv45omdGfyHMJOSHG) | 3:09 |
 | 94 | [The Anthem](https://open.spotify.com/track/0DssRHJqo1JjAWpL0tzjpy) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [The Anthem](https://open.spotify.com/album/3CI86GmBIcruRrB9uTIjqg) | 3:19 |
 | 95 | [Away With The Fairies](https://open.spotify.com/track/6staIFmNdDUqWQrclOwFSo) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Away With The Fairies](https://open.spotify.com/album/0gXVAWIrgAtZAyQm1kLkyX) | 3:29 |
 | 96 | [The Boy](https://open.spotify.com/track/4sJj3nlx2SO2YJCV13T2CZ) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Boy / Moon](https://open.spotify.com/album/2D6VMDBpN8qEy5ceRKoRZY) | 3:27 |

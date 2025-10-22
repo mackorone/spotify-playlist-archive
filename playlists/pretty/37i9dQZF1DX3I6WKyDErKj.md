@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I6WKyDErKj.md) - [plain]
 
 > HBCU Anthems! Curated by Howard University's own <a href="spotify:artist:44qqbgojo0P8r68CuRbSN4">Lady London</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 53 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 53 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I6WKyDErKj.md) - [plain]
 | 52 | [SLS](https://open.spotify.com/track/25dkE02OyBv99coHH9lZL1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:37 |
 | 53 | [Bring It Back](https://open.spotify.com/track/6VWUOFXGwH1OgyPrfRONrn) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:37 |
 
-Snapshot ID: `AAAAAJg9xf/q531UfWR8Lbplk1WPau/k`
+Snapshot ID: `AAAAAAN3qJ+mSh9YCSvCHIr9iwqU+6vA`

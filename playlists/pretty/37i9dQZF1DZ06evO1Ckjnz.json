@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADW4+0ULhSTs2MryZ3fbWN6",
+  "snapshot_id": "aPV7gAAAAAAdPUh8Woy6rpCuakONFAQA",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 120964,
-      "name": "OHFR?",
-      "url": "https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "#PROUDCATOWNERREMIX",
         "url": "https://open.spotify.com/album/2rfqTGtJKFY3hJLuuTLA5A"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 157293,
       "name": "#PROUDCATOWNERREMIX",
       "url": "https://open.spotify.com/track/5dkZ2DrcPJrqwlRQe6Q35e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 120964,
+      "name": "OHFR?",
+      "url": "https://open.spotify.com/track/6wign87DUJTlNzrFYQKcut"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Countin' Up",
-      "url": "https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "War",
         "url": "https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 131083,
       "name": "In N Out (feat. TheHxliday & Rico Nasty)",
       "url": "https://open.spotify.com/track/0RcKrEJIn4OhDGsaTW7g9K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Countin' Up",
+      "url": "https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
         "url": "https://open.spotify.com/album/7GtrF4bpZE45mzZYCOzJMS"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 186472,
       "name": "ART OF WAR (feat. Denzel Curry & Rico Nasty)",
       "url": "https://open.spotify.com/track/75tFBhZ34HNOiPder8VFYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 152120,
+      "name": "Butt Naked (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SEXORCISM",
         "url": "https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk"
       },
@@ -911,22 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Floor Seats",
-        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+        "name": "HARDC0RE DR3AMZ",
+        "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
       },
       "artists": [
         {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 152120,
-      "name": "Butt Naked (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq"
+      "duration_ms": 155685,
+      "name": "H.O.T.",
+      "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
       "duration_ms": 119920,
       "name": "SUGARPARENTS (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HARDC0RE DR3AMZ",
-        "url": "https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 155685,
-      "name": "H.O.T.",
-      "url": "https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB"
     },
     {
       "added_at": null,

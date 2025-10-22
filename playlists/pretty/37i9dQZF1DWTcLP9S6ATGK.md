@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Budi Doremi
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,638 likes - 96 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,650 likes - 96 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

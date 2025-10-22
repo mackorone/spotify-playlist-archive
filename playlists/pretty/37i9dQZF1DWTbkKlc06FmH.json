@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 147199,
+  "num_followers": 147243,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-10-15 00:47:46",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 229328,
-      "name": "\u8e0a\u308a\u5b50",
-      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
-    },
-    {
-      "added_at": "2025-10-15 00:47:46",
-      "album": {
         "name": "after the sun goes down",
         "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "added_at": "2025-10-15 00:47:46",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
     },
     {
       "added_at": "2025-10-15 00:47:46",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-15 00:47:46",
       "album": {
-        "name": "Welcome to the Mood",
-        "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
-    },
-    {
-      "added_at": "2025-10-15 00:47:46",
-      "album": {
         "name": "Escape Room",
         "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 158115,
       "name": "Hard Part (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
+    },
+    {
+      "added_at": "2025-10-15 00:47:46",
+      "album": {
+        "name": "Welcome to the Mood",
+        "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
     },
     {
       "added_at": "2025-10-15 00:47:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-10-15 00:47:46",
       "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 200414,
-      "name": "Give Me All Your Love",
-      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
-    },
-    {
-      "added_at": "2025-10-15 00:47:46",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 214459,
       "name": "Potion (with Dua Lipa & Young Thug)",
       "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+    },
+    {
+      "added_at": "2025-10-15 00:47:46",
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 200414,
+      "name": "Give Me All Your Love",
+      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
     },
     {
       "added_at": "2025-10-15 00:47:46",
@@ -1287,50 +1287,6 @@
     {
       "added_at": "2025-10-15 00:47:46",
       "album": {
-        "name": "GBAD (Number_i Remix)",
-        "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
-        }
-      ],
-      "duration_ms": 187398,
-      "name": "GBAD (Number_i Remix)",
-      "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
-    },
-    {
-      "added_at": "2025-10-15 00:47:46",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "True",
-      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
-    },
-    {
-      "added_at": "2025-10-15 00:47:46",
-      "album": {
         "name": "\u7768\u3081\u3063\u5a18",
         "url": "https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2"
       },
@@ -1359,6 +1315,26 @@
       "duration_ms": 180000,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt"
+    },
+    {
+      "added_at": "2025-10-15 00:47:46",
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 125806,
+      "name": "True",
+      "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
     },
     {
       "added_at": "2025-10-15 00:47:46",
@@ -1435,6 +1411,30 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": "2025-10-15 00:47:46",
+      "album": {
+        "name": "GBAD (Number_i Remix)",
+        "url": "https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 187398,
+      "name": "GBAD (Number_i Remix)",
+      "url": "https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN"
     },
     {
       "added_at": "2025-10-15 00:47:46",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-10-15 00:47:46",
       "album": {
-        "name": "Welcome to the Mood / Sundown",
-        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
-    },
-    {
-      "added_at": "2025-10-15 00:47:46",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 145663,
       "name": "Keep Me Satisfied",
       "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
+    },
+    {
+      "added_at": "2025-10-15 00:47:46",
+      "album": {
+        "name": "Welcome to the Mood / Sundown",
+        "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb"
     },
     {
       "added_at": "2025-10-15 00:47:46",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2025-10-15 00:47:46",
       "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 185124,
+      "name": "Canvas",
+      "url": "https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT"
+    },
+    {
+      "added_at": "2025-10-15 00:47:46",
+      "album": {
         "name": "where the sunlight glows",
         "url": "https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 163636,
       "name": "where the sunlight glows",
       "url": "https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu"
-    },
-    {
-      "added_at": "2025-10-15 00:47:46",
-      "album": {
-        "name": "Canvas",
-        "url": "https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0"
-      },
-      "artists": [
-        {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 185124,
-      "name": "Canvas",
-      "url": "https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT"
     },
     {
       "added_at": "2025-10-15 00:47:46",
@@ -1751,18 +1751,18 @@
     {
       "added_at": "2025-10-15 00:47:46",
       "album": {
-        "name": "FULLCOLOR",
-        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
+        "name": "weeknight",
+        "url": "https://open.spotify.com/album/179rXha5Sn3ZER3QcAYYXd"
       },
       "artists": [
         {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
         }
       ],
-      "duration_ms": 255408,
-      "name": "Burning Friday Night",
-      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
+      "duration_ms": 160824,
+      "name": "weeknight",
+      "url": "https://open.spotify.com/track/2edBRVf8A6IcOLdO6P7HuE"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

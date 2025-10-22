@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,546 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,570 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 31 | [Don't Let Me Go \- Radio Mix](https://open.spotify.com/track/5dv2jjdxdwsnbRtJnQXaFT) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Don't Let Me Go \(Radio Mix\)](https://open.spotify.com/album/6xTiUPA4FuJ1qoVYtI8xWk) | 2:50 |
 | 32 | [In The Streets](https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [In The Streets](https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE) | 2:07 |
 | 33 | [Fire In The House \- Todd Terry Edit](https://open.spotify.com/track/1DAMUidM25TRnSY8oYAx6D) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Trimtone](https://open.spotify.com/artist/4vkaR1SopziU4PUeEvhnoI) | [Fire In The House](https://open.spotify.com/album/3RqX1QnwvocqRJrSN0mLnp) | 2:53 |
-| 34 | [Chasing Thrills \- Samer Soltan Remix](https://open.spotify.com/track/6zQw5c4qG14toLgChrLb8O) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96), [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX) | [Chasing Thrills \(RUZE / Samer Soltan Remixes\)](https://open.spotify.com/album/2jBKpHIVf2pu10b0vRqpAP) | 3:29 |
+| 34 | [Chasing Thrills \- Samer Soltan Remix](https://open.spotify.com/track/6zQw5c4qG14toLgChrLb8O) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Soul Speech](https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96), [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX) | [Chasing Thrills \(RUZE / Samer Soltan Remixes\)](https://open.spotify.com/album/2jBKpHIVf2pu10b0vRqpAP) | 3:29 |
 | 35 | [Feel Real Good](https://open.spotify.com/track/2TCRA9ufgB5ThqH61P59X2) | [Smokin Jo](https://open.spotify.com/artist/2j0rweTjMkl2QBiRdRpnkp), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Feel Real Good](https://open.spotify.com/album/5slCoZ4927sCporlUw7NCy) | 3:10 |
 | 36 | [One More Chance](https://open.spotify.com/track/2FYoKvQU1i9DPBCiRPHOru) | [Pinto \(NYC\)](https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO) | [Sunday Service](https://open.spotify.com/album/4kWfICLbBZerqEdHWq2Mz5) | 2:53 |
 | 37 | [Hi Life](https://open.spotify.com/track/2MGlHVQuVb7L3wAxcvBhWF) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Hi Life](https://open.spotify.com/album/4LW3veJas26r01Y7dDLQfB) | 2:09 |

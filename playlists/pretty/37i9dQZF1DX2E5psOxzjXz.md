@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Marshall Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,225 likes - 105 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,228 likes - 105 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rush](https://open.spotify.com/track/68vAMcnZxEFjbplSiRVPGG) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Rush](https://open.spotify.com/album/18rQwymQVOui4MFz3cNB8Y) | 2:26 |
-| 2 | [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp), [Dharamveer Manglaani](https://open.spotify.com/artist/2Spk5c2VWJXkag2XVplVHg) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 |
+| 2 | [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 |
 | 3 | [Stay Mine](https://open.spotify.com/track/5a0PL0Z6D99HftfFXzr8uW) | [Aleey Khan](https://open.spotify.com/artist/1HZ0mVN4XPkHe0dk8Vp4Ou), [Breath](https://open.spotify.com/artist/4QosHuU1pLZ6XGiK7XLhkH) | [Stay Mine](https://open.spotify.com/album/23IAHItiHEgf8viWKvfBkl) | 2:50 |
 | 4 | [Yaad Hai](https://open.spotify.com/track/47sOevL40fmadZK5iSmc2I) | [Farrukh Zaidi](https://open.spotify.com/artist/6LC8cHti7jpu44VKinIslZ) | [Yaad Hai](https://open.spotify.com/album/5Bs2sVEs2qFj9W9ZFTg23s) | 2:40 |
 | 5 | [Khwahishain](https://open.spotify.com/track/3JnlRLK9emP2AY7q9kh5aO) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Khwahishain](https://open.spotify.com/album/3UKUPIJG5v25jr3M6agNRv) | 3:49 |

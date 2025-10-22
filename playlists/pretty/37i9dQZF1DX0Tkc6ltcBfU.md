@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,206 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,283 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 11 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
 | 12 | [Life After Death](https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:11 |
 | 13 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 |
-| 14 | [Better Believe It](https://open.spotify.com/track/78pzMifrZ5atYbTOcEJhEA) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [The Midnight Revival](https://open.spotify.com/artist/1KJGxkvJDGwTzcZZG4mFBZ) | [Better Believe It](https://open.spotify.com/album/09EidyxF12e6Us5YpLsMli) | 3:00 |
+| 14 | [Better Believe It](https://open.spotify.com/track/78pzMifrZ5atYbTOcEJhEA) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Cory Mo](https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL), [The Midnight Revival](https://open.spotify.com/artist/1KJGxkvJDGwTzcZZG4mFBZ) | [Better Believe It](https://open.spotify.com/album/09EidyxF12e6Us5YpLsMli) | 3:00 |
 | 15 | [Was Hannin \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/7gimGFAQusX7Rf6UNZKN3u) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [CORINIAN](https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW) | 3:05 |
 | 16 | [Outfit \(with 21 Savage\)](https://open.spotify.com/track/7ffZyi3DyQr8Q2612gcqwr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:57 |
 | 17 | [TYCOON$ \(feat\. Young Thug & Lil Baby\)](https://open.spotify.com/track/474tJ0dYguDekQs6q2XcjI) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:44 |

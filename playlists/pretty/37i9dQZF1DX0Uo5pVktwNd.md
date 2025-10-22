@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,111 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,225 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 39 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
 | 40 | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/track/29dTr9pLXHTIRACrcd6UD9) | [Jai Walia](https://open.spotify.com/artist/7gb0T42rJzDEc83fXialHZ), [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Yeh Hawa Kehti Hai Kya](https://open.spotify.com/album/0hMcNdQP1rGgdbNip7hLvH) | 5:28 |
 | 41 | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/track/3GVXeCSri5gx5TEn9MmW9V) | [Sadu](https://open.spotify.com/artist/7nIyYYhfmY8GwrzqfjqKor) | [Dekha Hai Teri Aankhon Ko](https://open.spotify.com/album/7dZkrrf2KRYUxQpJe62O4L) | 3:56 |
-| 42 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
-| 43 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 |
+| 42 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 |
+| 43 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
 | 44 | [Saade Dil Te Chhuriyan Chaliyan](https://open.spotify.com/track/4MmlE62E59WSZtH90Kbu5C) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 3:12 |
 | 45 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
 | 46 | [Koyi Jo Mila Toh Mujeh Aisa Lagata Tha](https://open.spotify.com/track/3Uy8cbGXOrZRCR6YGdPBrr) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Breathless](https://open.spotify.com/album/4jQCpF7PQfcIjZY3omeXZq) | 3:05 |

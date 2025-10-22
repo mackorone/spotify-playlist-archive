@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 159634,
+  "num_followers": 159917,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADXUWO8jVmENICLONbvQ//M",
+  "snapshot_id": "aPV7gAAAAAAeHGhbqRWDFeWlUV3ArwAT",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "JESUS IS COMING BACK SOON",
+        "url": "https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
         }
       ],
-      "duration_ms": 161975,
-      "name": "UPS & DOWNS",
-      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
+      "duration_ms": 180034,
+      "name": "JESUS IS COMING BACK SOON",
+      "url": "https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JESUS IS COMING BACK SOON",
-        "url": "https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
         }
       ],
-      "duration_ms": 180034,
-      "name": "JESUS IS COMING BACK SOON",
-      "url": "https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc"
+      "duration_ms": 161975,
+      "name": "UPS & DOWNS",
+      "url": "https://open.spotify.com/track/6qDDJzXk6lKxUNZHRLvJ87"
     },
     {
       "added_at": null,
@@ -751,42 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nostalgia Pack",
-        "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Your Soul",
-      "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Hymns",
-        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 201050,
-      "name": "Come Thou Font",
-      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOVE IT!",
         "url": "https://open.spotify.com/album/5DppqyfNhiABXmN6lrrmnk"
       },
@@ -807,6 +771,42 @@
       "duration_ms": 174673,
       "name": "MOVE IT!",
       "url": "https://open.spotify.com/track/6dZs0oUsbP92TrYTjgT0WQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Hymns",
+        "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 201050,
+      "name": "Come Thou Font",
+      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nostalgia Pack",
+        "url": "https://open.spotify.com/album/4eXz42L9QObRQHuJpQQ7OX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Your Soul",
+      "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
     },
     {
       "added_at": null,

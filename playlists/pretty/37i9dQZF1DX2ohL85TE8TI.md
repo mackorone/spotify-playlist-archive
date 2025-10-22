@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain](/playlists/plain/37i9dQZF1DX2ohL85TE8TI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ohL85TE8TI)
 
-### [K\-OST Center \(Korean OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
+### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
 > Hot & new K\-Drama OSTs are here! \(Cover: 폭군의 셰프\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,728,775 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,740 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [START!](https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG) | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn), [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [Resident Playbook, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6DypdU7rOJQ5HEauFecbNE) | 3:46 |
 | 100 | [My Love by My Side](https://open.spotify.com/track/56tHSb0gP5lEKIgobG4jWk) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [When Life Gives you Tangerines OST from the Netflix Series \- Chapter 3](https://open.spotify.com/album/4HAR2j5k5ZFxlqDsYamKVk) | 4:55 |
 
-Snapshot ID: `AAAAAChuIWUgId+M3MzKyuNg6pRMtoIp`
+Snapshot ID: `AAAAAHlwjE3sr75Wn+9Kgt2J4zz8WxDy`

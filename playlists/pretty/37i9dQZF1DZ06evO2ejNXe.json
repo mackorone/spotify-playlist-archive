@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADnts14lokGjAjjB/z5v5Pt",
+  "snapshot_id": "aPV7gAAAAABKyvkpvPzvJG3/FYG148cq",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Mas Caliente",
+      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TODO MUNDO A BAILAR",
         "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 198500,
       "name": "TODO MUNDO A BAILAR",
       "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Rico Ritmo",
-      "url": "https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Mas Caliente",
-      "url": "https://open.spotify.com/track/1alUoNNyA38hr8yWI8Qow2"
+      "duration_ms": 225906,
+      "name": "Rico Ritmo",
+      "url": "https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA GORDA",
-        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "LA GORDA",
-      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Pachanga",
         "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 149493,
       "name": "El Loco Bailar\u00edn",
       "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA GORDA",
+        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "LA GORDA",
+      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Mambo Caliente",
-      "url": "https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm"
+      "duration_ms": 163706,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
     },
     {
       "added_at": null,
@@ -555,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Se Ha Dado Cuenta",
+        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 142440,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Mambo Caliente",
+      "url": "https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popurr\u00ed",
         "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
       },
@@ -579,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -607,38 +623,6 @@
       "duration_ms": 218466,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Se Ha Dado Cuenta",
-        "url": "https://open.spotify.com/album/2mFDVZnKDOqSTSDQZW1k4r"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 142440,
-      "name": "No Se Ha Dado Cuenta",
-      "url": "https://open.spotify.com/track/0kYQ3U7fpG84IbMkUhegHM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
       },
@@ -691,86 +691,6 @@
       "duration_ms": 161053,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Que Bonita Te Ves",
-      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Dejala Que Baile",
-      "url": "https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras de Lazo y Reata",
-        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 147400,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Bomba Caliente",
-      "url": "https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp"
     },
     {
       "added_at": null,
@@ -791,6 +711,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 171346,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Que Bonita Te Ves",
+      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 147400,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Dejala Que Baile",
+      "url": "https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coleccion Suprema Plus- Banda Zarape",
         "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 222426,
       "name": "Hombre Muerto",
       "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "La Bomba Caliente",
+      "url": "https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp"
     },
     {
       "added_at": null,

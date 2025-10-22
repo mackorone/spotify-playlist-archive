@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/2zguEFgXd8mk0nFYoay25R"
+      },
+      "artists": [
+        {
+          "name": "Nova Issue",
+          "url": "https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/3E2dsbt4QWyHsgLgWktE4z"
+    },
+    {
+      "album": {
         "name": "Aglow",
         "url": "https://open.spotify.com/album/4bAFwcpEMDShRoeUjCLEZ0"
       },
@@ -2453,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/2GRYrVnMsBf6hqrK9ExqoY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Envoy",
+          "url": "https://open.spotify.com/artist/7hFdOASx9ClXjLhg4itqdc"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158035,
+      "name": "Chronology",
+      "url": "https://open.spotify.com/track/31ne58AShJD0B4osFf15eY"
+    },
+    {
+      "album": {
         "name": "Ciclo Continuo",
         "url": "https://open.spotify.com/album/5a3DGoKRWD16QOIK5o0BKx"
       },
@@ -2536,7 +2572,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 160215,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/3Q8gucbG6FdXmjisrfs36g"
@@ -5722,7 +5758,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 175202,
       "name": "Gravitational",
       "url": "https://open.spotify.com/track/4CXQZg7QjZquWYdE4kvjZ4"
@@ -12502,7 +12538,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 154074,
       "name": "The Morning Star",
       "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
@@ -13288,6 +13324,24 @@
       "duration_ms": 144097,
       "name": "Vakna",
       "url": "https://open.spotify.com/track/6GFBrLr4HbsKqra7MSiluq"
+    },
+    {
+      "album": {
+        "name": "Valley",
+        "url": "https://open.spotify.com/album/4bx5iHW5lzbD8zVg2UhVR8"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164647,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/1NjSP3rbFjiRBW1s2ZFiNx"
     },
     {
       "album": {

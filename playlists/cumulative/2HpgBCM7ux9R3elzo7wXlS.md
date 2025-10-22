@@ -4,7 +4,7 @@
 
 > All of it
 
-1,033 songs - 2 day 15 hr 33 min
+1,034 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Mrs Magic](https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Mrs Magic](https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO) | 3:28 | 2025-06-02 |  |
 | [Mrs Magic \(Strings Version\)](https://open.spotify.com/track/4iVj0UxqLlgrFWNdOnCwFS) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [F Song & Mrs Magic \(Strings Versions\)](https://open.spotify.com/album/0dmvkvTV6y5J58ejixsOQH) | 3:41 | 2025-09-17 |  |
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2025-09-18 |  |
+| [my <3](https://open.spotify.com/track/5yrqoCSTL3oYJ38tUtqlRD) | [teenatown](https://open.spotify.com/artist/37qs5TwDvhn1CBrnP8hhGL) | [where the butterflies are](https://open.spotify.com/album/7fldve2AopG1BlqAFkDMYf) | 3:47 | 2025-10-22 |  |
 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2025-06-02 |  |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2025-06-02 |  |
 | [My Jinji](https://open.spotify.com/track/7npPPrZEDmeHMk6mxvIeFa) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [JINJI KIKKO](https://open.spotify.com/album/24eFuwfHPWbuRMrMevqe0Q) | 6:40 | 2025-06-02 |  |

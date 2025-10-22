@@ -1,12 +1,12 @@
 {
   "description": "Frisse Nederlandse pop. Cover: Russo & Ronnie Flex",
-  "num_followers": 247354,
+  "num_followers": 247350,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNiA6yU9an17YAL+w7WlnmOQWdi",
+  "snapshot_id": "AAAAAErEegbk3rvZ6C/cgUXKrwMKKEo9",
   "tracks": [
     {
       "added_at": "2025-10-16 22:00:37",
@@ -67,6 +67,22 @@
     {
       "added_at": "2025-10-16 22:00:37",
       "album": {
+        "name": "Het Komt Allemaal Wel Goed",
+        "url": "https://open.spotify.com/album/4k8tlqTYPSKV2DSB7GQf6L"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "duration_ms": 182908,
+      "name": "Het Komt Allemaal Wel Goed",
+      "url": "https://open.spotify.com/track/5jF44uotGASfqzEVxIhtKN"
+    },
+    {
+      "added_at": "2025-10-16 22:00:37",
+      "album": {
         "name": "Frok en Stien",
         "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
       },
@@ -119,18 +135,18 @@
     {
       "added_at": "2025-10-16 22:00:37",
       "album": {
-        "name": "Het Komt Allemaal Wel Goed",
-        "url": "https://open.spotify.com/album/4k8tlqTYPSKV2DSB7GQf6L"
+        "name": "Waar Kom Je Vandaan",
+        "url": "https://open.spotify.com/album/4ufnq6QXEpbjjBQh9Ftupt"
       },
       "artists": [
         {
-          "name": "Shary-An",
-          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7"
         }
       ],
-      "duration_ms": 182908,
-      "name": "Het Komt Allemaal Wel Goed",
-      "url": "https://open.spotify.com/track/5jF44uotGASfqzEVxIhtKN"
+      "duration_ms": 151040,
+      "name": "Waar Kom Je Vandaan",
+      "url": "https://open.spotify.com/track/1H1rTqder7ZJhFlrbWcTCV"
     },
     {
       "added_at": "2025-10-16 22:00:37",
@@ -367,22 +383,6 @@
       "duration_ms": 163969,
       "name": "3D",
       "url": "https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2"
-    },
-    {
-      "added_at": "2025-10-16 22:00:37",
-      "album": {
-        "name": "Waar Kom Je Vandaan",
-        "url": "https://open.spotify.com/album/4ufnq6QXEpbjjBQh9Ftupt"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/2m8UpPHNuamk6f8mgNHyU7"
-        }
-      ],
-      "duration_ms": 151040,
-      "name": "Waar Kom Je Vandaan",
-      "url": "https://open.spotify.com/track/1H1rTqder7ZJhFlrbWcTCV"
     },
     {
       "added_at": "2025-10-16 22:00:37",

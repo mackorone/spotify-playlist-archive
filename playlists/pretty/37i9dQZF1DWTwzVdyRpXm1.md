@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,207 likes - 85 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,355 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 4 | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr) | 2:51 |
 | 5 | [Teri Yaad](https://open.spotify.com/track/1IbvCWzAbzUle559VXyvLy) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt), [Zia](https://open.spotify.com/artist/0DsXhM2h3rIODiAxuLOb6q) | [Teri Yaad](https://open.spotify.com/album/38ea1ME7inmtnwok4cQSO0) | 4:53 |
 | 6 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 |
-| 7 | [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp), [Dharamveer Manglaani](https://open.spotify.com/artist/2Spk5c2VWJXkag2XVplVHg) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 |
+| 7 | [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 |
 | 8 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 |
 | 9 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 |
 | 10 | [Tum Mere Na Huye \- From “Thamma”](https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tum Mere Na Huye \(From “Thamma”\)](https://open.spotify.com/album/7jAkBw3P85Q4b96Ecfs9XA) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Me Blue",
-  "num_followers": 38707,
+  "num_followers": 38725,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 331935,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Hypnotised",
-        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Linden Jay",
-          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
-        }
-      ],
-      "duration_ms": 202787,
-      "name": "Hypnotised (feat. Linden Jay)",
-      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "Brand New Me",
         "url": "https://open.spotify.com/album/3Oz7H49W8MVR0UdMzueCQT"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 183960,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/1CfKxmlYpzBuXtcLYAGlz6"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Hypnotised",
+        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "duration_ms": 202787,
+      "name": "Hypnotised (feat. Linden Jay)",
+      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "See It As A Sign",
-        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 174204,
-      "name": "See It As A Sign",
-      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "Fauxllennium (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
       },
@@ -947,6 +927,58 @@
       "duration_ms": 213000,
       "name": "Monday, Monday",
       "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "See It As A Sign",
+        "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 174204,
+      "name": "See It As A Sign",
+      "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
+    },
+    {
+      "added_at": "2025-10-16 23:00:12",
+      "album": {
+        "name": "Ask That God",
+        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 256381,
+      "name": "The Feeling You Get",
+      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -983,22 +1015,6 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Ask That God",
-        "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 256381,
-      "name": "The Feeling You Get",
-      "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
         "name": "Song for You / The Wizard",
         "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
+      "duration_ms": 175748,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -1083,22 +1099,6 @@
       "duration_ms": 233651,
       "name": "Travel Light",
       "url": "https://open.spotify.com/track/37qLbAeOU3yhpLlD2gyTsp"
-    },
-    {
-      "added_at": "2025-10-16 23:00:12",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
     },
     {
       "added_at": "2025-10-16 23:00:12",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2025-10-16 23:00:12",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
         }
       ],
-      "duration_ms": 165454,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q"
+      "duration_ms": 165388,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
     },
     {
       "added_at": "2025-10-16 23:00:12",

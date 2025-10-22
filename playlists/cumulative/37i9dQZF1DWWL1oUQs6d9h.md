@@ -4,7 +4,7 @@
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-110 songs - 5 hr 46 min
+112 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Better Dayz](https://open.spotify.com/track/3Utn7kpHOgv7EQG5XmFzY7) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:01 | 2025-05-16 | 2025-05-31 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2025-05-16 |  |
 | [Breaking Isn’t What a Heart Is For](https://open.spotify.com/track/5f0acaWrZ8qNBMmrz1ecnq) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Hope Handwritten](https://open.spotify.com/album/3QTYU8CnWg0tOnnIxfrLDq) | 2:52 | 2025-09-19 | 2025-10-18 |
+| [Bubbles&Mushrooms](https://open.spotify.com/track/5CvUFhAsWkrTrJEnnrzr3X) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [tellusboutyourself](https://open.spotify.com/album/2amJH3TGEMVxSQktJNmHkj) | 3:57 | 2025-10-21 |  |
 | [Bunker](https://open.spotify.com/track/68gMrDi1DX62IuiMvhW5Uz) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Vertigo](https://open.spotify.com/album/0wE8ptm5oD6Om2kRPIg3AD) | 3:16 | 2025-07-03 | 2025-07-10 |
 | [Burn it \(feat\. DEAN\)](https://open.spotify.com/track/50hyZD2Tk0Z3by9zJmx6PT) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 3:31 | 2025-05-16 | 2025-05-23 |
 | [Casanova](https://open.spotify.com/track/2VHn8lbvu0vjBn5mIugXoD) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Casanova](https://open.spotify.com/album/3nsTpFqwW2gsCcYtajKt23) | 2:44 | 2025-06-05 | 2025-06-19 |
@@ -22,7 +23,7 @@
 | [Chocolate](https://open.spotify.com/track/0b4KbsFu42vGM2rRJSTg1x) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Chocolate](https://open.spotify.com/album/702JXttIx9HjCWwXLVblqa) | 3:04 | 2025-05-16 | 2025-07-20 |
 | [Click ! \(feat\. Huh\)](https://open.spotify.com/track/1Kqn0zhGVWzxZHA5MaAiGx) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Click ! \(feat\. Huh\)](https://open.spotify.com/album/0HJAguTSb0792aohY2yHem) | 3:05 | 2025-05-16 | 2025-05-23 |
 | [Closer To You](https://open.spotify.com/track/0WQUyNJfwIZideOcjodyGl) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Closer To You](https://open.spotify.com/album/4O7fXe610EDBSNgkUFh3hO) | 2:55 | 2025-09-08 | 2025-09-20 |
-| [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-24 |  |
+| [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 | 2025-07-24 | 2025-10-22 |
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-05-16 |  |
 | [complicated/overrated](https://open.spotify.com/track/44UGWn9xCTjeHJ2LO52uNT) | [The Millennial Club](https://open.spotify.com/artist/5Mk3yOBlfweeKamsDiap8H) | [complicated/overrated](https://open.spotify.com/album/2dLXpSQ6Jm1Aexm3IrYwkJ) | 2:28 | 2025-05-16 | 2025-09-23 |
 | [Control Me](https://open.spotify.com/track/6e38ee2ioja5CGPMVpgnr0) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Control Me](https://open.spotify.com/album/2UC934E5A6G3q6rn5Pmk5d) | 3:26 | 2025-05-16 | 2025-09-09 |
@@ -35,7 +36,7 @@
 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 | 2025-05-22 |  |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-08-19 | 2025-10-04 |
 | [Escapade](https://open.spotify.com/track/1u1nd8ZoRPtiukdZkWKyFb) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:59 | 2025-08-19 | 2025-10-04 |
-| [Ex Machina](https://open.spotify.com/track/3ki3pmiZo3n24DFKdhHIqE) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Soft Error : X](https://open.spotify.com/album/25CRdWLjtFFZAGl2HI0RkU) | 3:02 | 2025-10-17 |  |
+| [Ex Machina](https://open.spotify.com/track/3ki3pmiZo3n24DFKdhHIqE) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Soft Error : X](https://open.spotify.com/album/25CRdWLjtFFZAGl2HI0RkU) | 3:02 | 2025-10-17 | 2025-10-22 |
 | [Flowers](https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:10 | 2025-05-16 | 2025-08-20 |
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2025-05-16 |  |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2025-06-26 | 2025-07-10 |
@@ -75,6 +76,7 @@
 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 | 2025-10-17 |  |
 | [Need](https://open.spotify.com/track/51Ge0cFUSzgr3jCCIsurEE) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [Damien](https://open.spotify.com/artist/6rY6f9sVehHVXVAOfLrgKf) | [STORY\#33](https://open.spotify.com/album/6DBTjyVMyMhDEIP8gapl0S) | 2:48 | 2025-05-29 | 2025-06-06 |
 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-22 | 2025-06-26 |
+| [O](https://open.spotify.com/track/4lQsZ6oUkyyCUnxbYaGk1d) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [O](https://open.spotify.com/album/4gv5ky2Kg46oREn9CX5MB2) | 3:16 | 2025-10-21 |  |
 | [Out of Love](https://open.spotify.com/track/7uiC3Ce1HoN22WUnFszGo3) | [SCENE](https://open.spotify.com/artist/46154Xyo0gnQW6wRaT185C), [IFCHAN](https://open.spotify.com/artist/32ZgfbkvQ2StzCVv8Umkq6) | [Out of Love](https://open.spotify.com/album/1CwmwmPdt0SfRRHTHsje4H) | 2:35 | 2025-09-01 | 2025-09-25 |
 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 | 2025-10-17 |  |
 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 | 2025-05-16 |  |

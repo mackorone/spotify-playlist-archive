@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6NlIeT95t9.md) - [plain]
 
 > Meet the future\.  Cover: Samar Jafri
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,891 likes - 81 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,912 likes - 81 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chalo Door Kahin](https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Chalo Door Kahin](https://open.spotify.com/album/65sQMiosPhNePUKN2KKlL0) | 2:38 |
-| 2 | [Post You](https://open.spotify.com/track/3ua0JRIbusVpdYMqwmq5kd) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Ali Soomro](https://open.spotify.com/artist/21LaTM46e4X78iWHS1kvDR) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:55 |
+| 2 | [Post You](https://open.spotify.com/track/3ua0JRIbusVpdYMqwmq5kd) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:55 |
 | 3 | [Heer](https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Heer](https://open.spotify.com/album/3YiqeB6tWyEr8vHveTita7) | 3:16 |
 | 4 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 |
 | 5 | [savera](https://open.spotify.com/track/6F2M6zx8uXuPo5XAVsbBiV) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [thikaana](https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe) | 2:57 |

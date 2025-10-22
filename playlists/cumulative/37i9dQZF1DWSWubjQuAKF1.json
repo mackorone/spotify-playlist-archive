@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Amelia And",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Gaba Ko\u015bciug",
   "name": "up next",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 172213,
       "name": "3 miesi\u0105ce",
       "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 178741,
       "name": "Bez siebie",
       "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 187041,
       "name": "Kompleks Boga",
       "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 165668,
       "name": "new friends",
       "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
@@ -7001,6 +7001,24 @@
     },
     {
       "album": {
+        "name": "Kicking My Feet",
+        "url": "https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174751,
+      "name": "Not What\u2019s Going On",
+      "url": "https://open.spotify.com/track/22j1qFcWhyPMQjXWtq0bKc"
+    },
+    {
+      "album": {
         "name": "Nowa Era",
         "url": "https://open.spotify.com/album/1l4RC3SFVx7g4JCe91lLpg"
       },
@@ -7612,7 +7630,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 154333,
       "name": "Pasmo Nocne",
       "url": "https://open.spotify.com/track/27AvlBteYUBAgryj3kXabB"
@@ -7812,6 +7830,24 @@
       "duration_ms": 157621,
       "name": "piosenka o smutnych ludziach",
       "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
+    },
+    {
+      "album": {
+        "name": "PIXELATED KISSES",
+        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110430,
+      "name": "PIXELATED KISSES",
+      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
     },
     {
       "album": {
@@ -9139,6 +9175,32 @@
     },
     {
       "album": {
+        "name": "NA KONIEC LATA",
+        "url": "https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "Micha\u0142 Smajdor",
+          "url": "https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k"
+        },
+        {
+          "name": "wojtman.fm",
+          "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180290,
+      "name": "Spadaj\u0105ce gwiazdy",
+      "url": "https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa"
+    },
+    {
+      "album": {
         "name": "Spark to Die",
         "url": "https://open.spotify.com/album/29j9hbLfr1F4FpHdcxSKQc"
       },
@@ -9194,6 +9256,24 @@
       "duration_ms": 230217,
       "name": "spotkam",
       "url": "https://open.spotify.com/track/6GlT7Qb3yDddhgzP7I5JfB"
+    },
+    {
+      "album": {
+        "name": "sprzeda\u0142am si\u0119?",
+        "url": "https://open.spotify.com/album/7sXiUfbzjqc5NMSxv7H8TE"
+      },
+      "artists": [
+        {
+          "name": "microdawka",
+          "url": "https://open.spotify.com/artist/01LgAoYLLXrA67ELEhKF3y"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172422,
+      "name": "sprzeda\u0142am si\u0119?",
+      "url": "https://open.spotify.com/track/5L1lLGaluYqVyWLH3uuBB3"
     },
     {
       "album": {
@@ -9392,6 +9472,28 @@
       "duration_ms": 153698,
       "name": "szczeniak",
       "url": "https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL"
+    },
+    {
+      "album": {
+        "name": "szczerze, mega mocne",
+        "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
+      },
+      "artists": [
+        {
+          "name": "Aleksander K\u0119pka",
+          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
+        },
+        {
+          "name": "Ghosty",
+          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153692,
+      "name": "szczerze, mega mocne",
+      "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
     },
     {
       "album": {
@@ -10345,6 +10447,24 @@
     },
     {
       "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
+    },
+    {
+      "album": {
         "name": "Usypiasz Mnie Jak Lek",
         "url": "https://open.spotify.com/album/28sM9BydOdzvNIbRFn3GQM"
       },
@@ -10382,7 +10502,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 179656,
       "name": "UV",
       "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
@@ -11134,7 +11254,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 268410,
       "name": "Yamaha",
       "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
@@ -11626,6 +11746,32 @@
       "duration_ms": 174591,
       "name": "Zostaniesz na zawsze?",
       "url": "https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL"
+    },
+    {
+      "album": {
+        "name": "Z\u0142a Pami\u0119\u0107",
+        "url": "https://open.spotify.com/album/2aIH2zKWihdD2GMu2DEuz8"
+      },
+      "artists": [
+        {
+          "name": "Gaba Ko\u015bciug",
+          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
+        },
+        {
+          "name": "Bufu",
+          "url": "https://open.spotify.com/artist/3cBVvhuwwURFlIcWjR1TIa"
+        },
+        {
+          "name": "DeadWN",
+          "url": "https://open.spotify.com/artist/5xaYosGhmJBTfrvOM2eGCi"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Z\u0142a Pami\u0119\u0107",
+      "url": "https://open.spotify.com/track/4rx96iXf1XqGC38y9oBRKW"
     },
     {
       "album": {

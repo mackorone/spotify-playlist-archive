@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: butaji
+> Songs from LGBTQIA+ artists\. Cover: HAAi
 
 1,614 songs - 3 day 15 hr 22 min
 

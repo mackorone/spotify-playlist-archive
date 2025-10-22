@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 189609,
       "name": "After Party",
       "url": "https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 201349,
       "name": "Burn Me Like a Cigarette",
       "url": "https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj"
@@ -2319,6 +2319,28 @@
     },
     {
       "album": {
+        "name": "Art School / Days of Clay",
+        "url": "https://open.spotify.com/album/6ueyr4PrJyuzAv7DNQXEh7"
+      },
+      "artists": [
+        {
+          "name": "Library Card",
+          "url": "https://open.spotify.com/artist/2PNgtvSYvlo95zq1d5uEiT"
+        },
+        {
+          "name": "Axender",
+          "url": "https://open.spotify.com/artist/6n2JuOcyeutWrxWQH5CsmL"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315520,
+      "name": "Days of Clay",
+      "url": "https://open.spotify.com/track/2Krzlio8cLKGyJk8lKzvPM"
+    },
+    {
+      "album": {
         "name": "Deadlines",
         "url": "https://open.spotify.com/album/0Ic1Oi2gXqIEEF27HPtJdE"
       },
@@ -2388,6 +2410,24 @@
       "duration_ms": 236987,
       "name": "DH22",
       "url": "https://open.spotify.com/track/5xcnLJP6j5p9JNZhLvAcPD"
+    },
+    {
+      "album": {
+        "name": "The Catch",
+        "url": "https://open.spotify.com/album/237UYcEgmzEDWCPh23Qfau"
+      },
+      "artists": [
+        {
+          "name": "Oproer",
+          "url": "https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "Different Realities",
+      "url": "https://open.spotify.com/track/4PzEKfuT813qRTOpAQj86z"
     },
     {
       "album": {
@@ -4221,6 +4261,24 @@
     },
     {
       "album": {
+        "name": "All Systems Are Lying",
+        "url": "https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190733,
+      "name": "Hot Like Sahara",
+      "url": "https://open.spotify.com/track/5PprR3iwYeoXszUh8CLToL"
+    },
+    {
+      "album": {
         "name": "Changing Colors (Deluxe)",
         "url": "https://open.spotify.com/album/2QO3lgVDqVuZWUMnIah6hA"
       },
@@ -4978,6 +5036,24 @@
       "duration_ms": 155658,
       "name": "Italian Horror",
       "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
+    },
+    {
+      "album": {
+        "name": "Ivory Tower",
+        "url": "https://open.spotify.com/album/1onY3Ll9yJN2OzeiWiJfjN"
+      },
+      "artists": [
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Ivory Tower",
+      "url": "https://open.spotify.com/track/1ZboPmpBtCxdDot3g8M8sp"
     },
     {
       "album": {
@@ -6113,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "MONKEY SEE MONKEY DO",
+        "url": "https://open.spotify.com/album/3rS0r5DrE8YClu1jM0a9pw"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109374,
+      "name": "MONKEY SEE MONKEY DO",
+      "url": "https://open.spotify.com/track/3L4JKn0quzxs56myjLjmZG"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
       },
@@ -6715,6 +6809,24 @@
     },
     {
       "album": {
+        "name": "omni shambles",
+        "url": "https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136190,
+      "name": "omni shambles",
+      "url": "https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy"
       },
@@ -6888,7 +7000,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 214945,
       "name": "Only For A While - Alternate Version",
       "url": "https://open.spotify.com/track/6lJxjRi3LlKwxg3A79PG03"
@@ -7104,7 +7216,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 165826,
       "name": "People Need People",
       "url": "https://open.spotify.com/track/6VVSeMov6UkLXMtNgMtGF7"
@@ -8513,6 +8625,24 @@
     },
     {
       "album": {
+        "name": "Stay In Your Lane",
+        "url": "https://open.spotify.com/album/5BtTOMAFKV3byS0EidtQnc"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Stay In Your Lane",
+      "url": "https://open.spotify.com/track/57PrllRlE4s9GIKnEzUcYv"
+    },
+    {
+      "album": {
         "name": "CONSEQUENCES",
         "url": "https://open.spotify.com/album/4OhmQGOwwhUEsZEfLZa40v"
       },
@@ -9248,7 +9378,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 197188,
       "name": "The Ends of the Earth",
       "url": "https://open.spotify.com/track/65x50NjH5x0Q7i6Z2osVNN"
@@ -10250,6 +10380,24 @@
       "duration_ms": 255026,
       "name": "Victory City",
       "url": "https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy"
+    },
+    {
+      "album": {
+        "name": "RIVERBED",
+        "url": "https://open.spotify.com/album/6vz3r9zO3mhEWqDMujAD2K"
+      },
+      "artists": [
+        {
+          "name": "Loveth Besamoh",
+          "url": "https://open.spotify.com/artist/1VFftaa0TUrjjQ1bhpBCvX"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338469,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/0z5jipPPEeUDle3U3dS99a"
     },
     {
       "album": {

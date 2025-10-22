@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 470165,
+  "num_followers": 470185,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "JOY (Back on 74)",
-        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 271395,
-      "name": "JOY (Back On 74)",
-      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "Whatever (The Remixes)",
         "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 165714,
       "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "JOY (Back on 74)",
+        "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 271395,
+      "name": "JOY (Back On 74)",
+      "url": "https://open.spotify.com/track/0K2PQziTagDXHiCFPqoE82"
     }
   ],
   "unique_name": "Massive Pop Remixes",

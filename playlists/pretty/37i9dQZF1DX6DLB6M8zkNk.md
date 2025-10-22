@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 ### [hopeless romantic](https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk)
 
-> POV: you're the main character in a romance novel.
+> you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,272 likes - 87 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,650 likes - 87 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 9 | [Resonance](https://open.spotify.com/track/5jBvpZQRplWigmvSjMY2o4) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Jamie Duffy](https://open.spotify.com/album/7kZvHM83uaWWdoGUR8EFXP) | 3:53 |
 | 10 | [Lullabying](https://open.spotify.com/track/66iRadfmhQJCkJvWmUKwNT) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Eternal Echoes](https://open.spotify.com/album/3E2zcjhDZtmquk3d54VMzi) | 3:16 |
 | 11 | [Much Ado About Nothing, Op\. 11, Suite: IV\. Intermezzo "Garden Scene" \(Arr\. Spindler for Violin & Orchestra\)](https://open.spotify.com/track/6YJB8T5vzGCdmAOXB4rpcC) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [Bomsori](https://open.spotify.com/artist/6eg0Lhwxk31hrFEAXfpCd1), [Bamberger Symphoniker](https://open.spotify.com/artist/4sq2sOHh522lOx1HcRhBiu), [Jakub Hrůša](https://open.spotify.com/artist/5IZZX6hJg21YUMg1XBXPdr) | [Korngold: Much Ado About Nothing, Op\. 11, Suite: IV\. Intermezzo "Garden Scene" \(Arr\. Spindler for Violin & Orchestra\)](https://open.spotify.com/album/3tQwVQZvgZeorXaoYLe3QD) | 5:01 |
-| 12 | [The Balcony Scene \(From "Romeo and Juliet"\)](https://open.spotify.com/track/5X5x6oRSCHtHEz28ncMVd5) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Classic FM At The Movies](https://open.spotify.com/album/5TI5SRLYZyS9R9tYEkrB1O) | 5:48 |
-| 13 | [Keskiyön valssi](https://open.spotify.com/track/3UioF9dmfda0JSkjgdIh3v) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Keskiyön valssi](https://open.spotify.com/album/4kXNxXOCAghpYjEzeLF5zh) | 4:32 |
+| 12 | [Keskiyön valssi](https://open.spotify.com/track/3UioF9dmfda0JSkjgdIh3v) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Keskiyön valssi](https://open.spotify.com/album/4kXNxXOCAghpYjEzeLF5zh) | 4:32 |
+| 13 | [The Balcony Scene \(From "Romeo and Juliet"\)](https://open.spotify.com/track/5X5x6oRSCHtHEz28ncMVd5) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Classic FM At The Movies](https://open.spotify.com/album/5TI5SRLYZyS9R9tYEkrB1O) | 5:48 |
 | 14 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Debussy: Suite bergamasque, L\. 75, 3\. Clair de lune](https://open.spotify.com/album/4Ll3RGpn0eVY6MMKPTP99C) | 4:54 |
 | 15 | [En Avril, à Paris \(Arr\. Weissenberg\)](https://open.spotify.com/track/57Wua2HF0UjKW7OdN5Sf2e) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ), [Walter Eiger](https://open.spotify.com/artist/4Xn9ScC6D14GWO2bGc75w7), [Marc\-André Hamelin](https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY) | [Marc\-André Hamelin in a State of Jazz: Gulda, Kapustin, Weissenberg & Charles Trenet](https://open.spotify.com/album/2aOeb2vMqG7N9hjxmOwncB) | 3:26 |
 | 16 | [Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \- Excerpt](https://open.spotify.com/track/49cQcHJqOsyBRSwxLTWoP5) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Khachaturian: Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \[Excerpt\]](https://open.spotify.com/album/1Zlga8aRnOCFzmtvUuYeff) | 1:47 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 86 | [Pluto's Crossing: Id\. The Journey](https://open.spotify.com/track/2B7DzfgaMkfVVv9pT2q43P) | [Andrew Sparrow](https://open.spotify.com/artist/0kIFcoCKn3Lfal4tQbWP0N), [The Czech Film Orchestra](https://open.spotify.com/artist/0m8SPeJ3LOEnfuzXf5LN9b), [Marek Valášek](https://open.spotify.com/artist/5nycKcUvS0WElwhFKLmwx1) | [Sparrow: Pluto's Crossing](https://open.spotify.com/album/1Gbeu75FH5vyS7mENKuqY8) | 2:04 |
 | 87 | [Bach, JS: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5YDqSImE2uQDn7K7Gw6uvN) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Beatrice Rana](https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP) | [Bach: Goldberg Variations, BWV 988](https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb) | 5:06 |
 
-Snapshot ID: `AAAAAL4Xk7Y3CTuBE3yOUEpc8Yr4Nj/O`
+Snapshot ID: `AAAAAKgSWdG2fcgYPpgsQShArim2AF2x`

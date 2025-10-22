@@ -4,16 +4,19 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-158 songs - 9 hr 6 min
+162 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 | 2022-10-01 |  |
+| [AFO VS AAM](https://open.spotify.com/track/1sQD2YHFlOAHcTHQaxvZQl) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 3:14 | 2025-10-21 |  |
 | [All for my sake](https://open.spotify.com/track/2g6KzzCY6TRKKlRaoLRUb3) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 3:37 | 2023-03-14 |  |
 | [All for my sake](https://open.spotify.com/track/3cq8ZVsVrhUmI0uO7aFGht) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』6th オリジナルサウンドトラック](https://open.spotify.com/album/7d3zzvGeMjqUSFo6qnEz2U) | 3:37 | 2022-12-13 | 2022-12-15 |
 | [All for my sake](https://open.spotify.com/track/6lAxb7FbIr5yxto0NiFE38) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 6 \(Original Series Soundtrack EP\)](https://open.spotify.com/album/2QrBpX5sscvwtYuRgig6hS) | 3:37 | 2022-12-13 | 2023-03-19 |
 | [All for my sake](https://open.spotify.com/track/7IfFGv9pkiwxNZWrLI50ko) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 3:37 | 2023-03-14 | 2024-04-19 |
+| [At the Limit](https://open.spotify.com/track/5xdFdBtd4dUfsMtDpZ9RuO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 4:34 | 2025-10-21 |  |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-10 | 2024-04-19 |
+| [Butterfly Effect](https://open.spotify.com/track/0hBePBf2fdBee6w85kwYvU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 3:28 | 2025-10-21 |  |
 | [C.H.E.E.R](https://open.spotify.com/track/1INJywlOiasLDzrYeGw8Kh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CCチアリーダーズ](https://open.spotify.com/artist/0PtynPDi6xGA1p3H2N0tLM) | [C.H.E.E.R](https://open.spotify.com/album/6xdzWqFCYDoRfedbjTrnLG) | 1:19 | 2025-05-27 |  |
 | [Cassie](https://open.spotify.com/track/4E8vaLzUNdpZJopd0Nxyzt) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 2:49 | 2024-07-07 |  |
 | [Chris takes the world by storm](https://open.spotify.com/track/30sI2fCouCG9RMnDicqpqj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CC鳴羽田漢気応援団](https://open.spotify.com/artist/1j2RJIb2DyBKbssxMjyqUl) | [Chris takes the world by storm](https://open.spotify.com/album/2bTnTBLJbXFHcjykhk8Bcr) | 1:25 | 2025-05-27 |  |
@@ -87,6 +90,7 @@
 | [THE DAY](https://open.spotify.com/track/3iEksEyKQsOGlNfGrLE1wW) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE DAY](https://open.spotify.com/album/50QDgI0tuD3OAZf6MLxBmv) | 4:03 | 2023-03-14 |  |
 | [THE DAY](https://open.spotify.com/track/5Nb08bCwVTjsqrK5wUCHtA) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE DAY](https://open.spotify.com/album/3CCLycmOuNfKZiZ2KScBxK) | 4:03 | 2022-10-11 | 2022-11-13 |
 | [The Demon Lord](https://open.spotify.com/track/4uS0zKWIQBy2uaSdMvshHo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:10 | 2024-07-07 |  |
+| [The End of An Era, And \-](https://open.spotify.com/track/6vzqJI4BlPCIBSU7k0DD4d) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\) Pre\-release](https://open.spotify.com/album/2JDOEM4vXHorX6kJLf2p8K) | 1:54 | 2025-10-21 |  |
 | [The Hero Work Recommendation Project](https://open.spotify.com/track/4vbOT5lWQB92AC19x2VILp) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 3:15 | 2022-10-01 | 2024-04-19 |
 | [The Next Me](https://open.spotify.com/track/6YplgWCRKfomhLBHOmlCmT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:42 | 2023-03-14 | 2024-04-19 |
 | [The Next Me](https://open.spotify.com/track/7CkwAWQgVabTEMQo9JdXaP) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア」サウンドトラックセレクション 2021\-2023](https://open.spotify.com/album/3MRlskbgnU3ULFv2fJmKq9) | 2:42 | 2023-03-14 |  |

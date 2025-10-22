@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: Cobuz & Bustta, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,188 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,203 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 37 | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/track/2BxNmiURRvrvQutWGrUizS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Max\-Africana](https://open.spotify.com/artist/56t1JMFLdAwMU8z1BO4JF0) | [Siliwa Hay \(feat\. Max\-Africana\)](https://open.spotify.com/album/2Kse4Br3Ttokkwgznu05qI) | 3:47 |
 | 38 | [Acordeão](https://open.spotify.com/track/0XOpvVTsOIdYQ3gyyu9onu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Together](https://open.spotify.com/album/6jd8wvEoi6sCzP92Vt7CPZ) | 2:11 |
 | 39 | [neon lover](https://open.spotify.com/track/6YaQ2f40fCn5xBySaXHDQg) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [neon lover](https://open.spotify.com/album/2HICIGI5RJRALblqaBIhHV) | 3:58 |
-| 40 | [Alba \(Morning Edit\)](https://open.spotify.com/track/6wD0PUnxMFZyH8j87BFCzR) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Alba \(Morning Edit\)](https://open.spotify.com/album/5Tf7ljSwfqPqQENBDmC8OT) | 3:03 |
+| 40 | [Alba \- Morning Edit](https://open.spotify.com/track/6wD0PUnxMFZyH8j87BFCzR) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Alba \(Morning Edit\)](https://open.spotify.com/album/5Tf7ljSwfqPqQENBDmC8OT) | 3:03 |
 | 41 | [Sandunga](https://open.spotify.com/track/39IO9RdFkp85M2qjehD4lh) | [Alexx Fall](https://open.spotify.com/artist/12osK1nBgewd62jOVTHNzz), [Sebastian Badi](https://open.spotify.com/artist/3nkr4W8o3UNbAiHL6FTaQS) | [Sandunga](https://open.spotify.com/album/7woOV8EKGTAOw9076mNsVH) | 3:26 |
 | 42 | [Hanging Tree](https://open.spotify.com/track/5cZvvqthQVJCRXccaTIi6K) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Erjona Sylejmani](https://open.spotify.com/artist/4hPIBZfAdFw7xbOJodijWv) | [Hanging Tree](https://open.spotify.com/album/1xBRANluuhfC5N5RsPUI3I) | 2:32 |
 | 43 | [Don't](https://open.spotify.com/track/0kgicICgleRJFUcUlF1uk8) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Ali Schwartz](https://open.spotify.com/artist/3CXu2xqQnt5Ey4vyWuiuFk) | [Don't](https://open.spotify.com/album/4ABrMCSWWbXuInDdNocuY8) | 2:05 |

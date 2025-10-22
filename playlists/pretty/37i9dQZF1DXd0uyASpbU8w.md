@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from MOLIY & Tyla, Bandros, Ayra Starr & Rema, Zuko SA and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,104 likes - 74 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,140 likes - 74 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 1 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 2 | [isiVakashi](https://open.spotify.com/track/2ixaHvhKLVmLe1oMny6GjQ) | [Keynote](https://open.spotify.com/artist/5it8lnSTlpMfnKnrMrfZzE), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [isiVakashi](https://open.spotify.com/album/02x7oTk7EuE2c6xnRNmbZR) | 5:34 |
 | 3 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
 | 4 | [Nya Nya Zam \(feat\. Lastborn Diroba, Zambezi & The Squad\)](https://open.spotify.com/track/6PWnMWETukoM9mYiCUujv2) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [LastBornDiroba](https://open.spotify.com/artist/467V6Wi666JBwBY3YMHSuJ), [Zambezi](https://open.spotify.com/artist/4mXtuH5JEtxW61gxSoUk21), [The Squad](https://open.spotify.com/artist/6INTtBR3Qo7GPvCfMt2bsG) | [Nya Nya Zam \(feat\. Lastborn Diroba, Zambezi & The Squad\)](https://open.spotify.com/album/0vXTZUgyV0uA4ydmlrQCXx) | 7:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 
 > This is Lou Rawls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,527 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,529 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 24 | [Sit Down and Talk to Me](https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:53 |
 | 25 | [Time Will Take Care of Everything](https://open.spotify.com/track/2k2TOpjdjuELXgPCT3387m) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Let Me Be Good to You](https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY) | 4:36 |
 | 26 | [Not the Staying Kind](https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:51 |
-| 27 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
-| 28 | [Back To You](https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Now Is The Time](https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58) | 3:26 |
+| 27 | [Back To You](https://open.spotify.com/track/1sZvWZAw38RsYW5CuyqCxz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Now Is The Time](https://open.spotify.com/album/5NmUBPEgjUxEZXDbG7IC58) | 3:26 |
+| 28 | [She's Gone](https://open.spotify.com/track/6adeIKKnnqB7MwfFeZgYVz) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 3:29 |
 | 29 | [Spring Again](https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 4:26 |
 | 30 | [Unforgettable](https://open.spotify.com/track/6DasyKHS773Ar1TBMEyKUn) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:23 |
-| 31 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 |
-| 32 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 |
+| 31 | [Let's Burn Down The Cornfield \- 2006 Remaster](https://open.spotify.com/track/75gpgVKbgapGmVfgNcA7Vu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Best Of Lou Rawls \- The Capitol Jazz & Blues Sessions](https://open.spotify.com/album/6pxkv1dxkTshid2V0MBGrp) | 3:03 |
+| 32 | [Ain't That Loving You \(For More Reasons Than One\)](https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:38 |
 | 33 | [Early Morning Love](https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 5:39 |
 | 34 | [Your Good Thing \(Is About To End\)](https://open.spotify.com/track/79VLN3Akfbtadc8IYuygQd) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 2:53 |
 | 35 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 40 | [You've Made Me So Very Happy \- 2000 Digital Remaster](https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 4:27 |
 | 41 | [For What It's Worth](https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Brotherman!: Lou Rawls Sings His Hits](https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI) | 2:56 |
 | 42 | [They Call It Stormy Monday](https://open.spotify.com/track/71vtUr8NIGW8lqAgsxCO0M) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday \(Original Album \- Digitally Remastered\)](https://open.spotify.com/album/1jW4WcvIKURSkpAZ0wFH8T) | 3:45 |
-| 43 | [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 |
-| 44 | [Time](https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 2:53 |
+| 43 | [Time](https://open.spotify.com/track/2W1sEmHZ9imOredw6Iy0pu) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 2:53 |
+| 44 | [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 |
 | 45 | [A Lover's Question](https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Phoebe Snow](https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt) | [Portrait Of The Blues](https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE) | 3:04 |
 | 46 | [Georgia On My Mind \- Remastered 2006](https://open.spotify.com/track/1v0PObRGQRpv6foapH9F35) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Tobacco Road](https://open.spotify.com/album/5HlnBTb2vJjwCr25XVVmwh) | 3:19 |
 | 47 | [You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening \- Live at the Mark Hellinger Theatre, New York, NY \- November 1977](https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0RHxOjkG1CpNAGba3nN9c5) | 5:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0SkALb.md) - [plain]
 | 49 | [We Understand Each Other](https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [The Essential Lou Rawls](https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG) | 4:16 |
 | 50 | [You Are](https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sit Down and Talk to Me](https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD) | 4:51 |
 
-Snapshot ID: `aPQqAAAAAACpAIrhwCaosoUr+mVmeS5w`
+Snapshot ID: `aPV7gAAAAAC5hV7kkvGsKLJoXKQhNW0q`

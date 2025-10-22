@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: \u30dd\u30eb\u30ce\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
-  "name": "Big in Japan",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: Ling Tosite Sigure \u51db\u3068\u3057\u3066\u6642\u96e8",
+  "name": "Rock Strike Japan",
   "tracks": [
     {
       "album": {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 222781,
       "name": "(AND) NOW I SEE THE LIGHT",
       "url": "https://open.spotify.com/track/1CedH7KCdaEN322k8zWPU4"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 204866,
       "name": "Ash",
       "url": "https://open.spotify.com/track/4qtsre9aOoal3I6NAeFt3R"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 270139,
       "name": "Blink of Ray",
       "url": "https://open.spotify.com/track/0OHbRfCXmMdvySBv7EIxwk"
@@ -5470,7 +5470,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 213280,
       "name": "I Guess I Won't Tell",
       "url": "https://open.spotify.com/track/3irFpwC2rmWOvH9BFE1flf"
@@ -7264,6 +7264,24 @@
       "duration_ms": 250973,
       "name": "Long Live Rock",
       "url": "https://open.spotify.com/track/7IYrXDZhuYP1O3k7UUxWAf"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ling tosite sigure",
+          "url": "https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Loo% Who%",
+      "url": "https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd"
     },
     {
       "album": {
@@ -9110,7 +9128,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 305130,
       "name": "NO WAY!! - feat.\u7c97\u54c1",
       "url": "https://open.spotify.com/track/6UrO8GjZlDkQT176tp9tSP"
@@ -10522,7 +10540,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 202631,
       "name": "Regulus",
       "url": "https://open.spotify.com/track/0TLKzbTXx16qNwcKVGEqVl"
@@ -10952,6 +10970,24 @@
       "duration_ms": 220533,
       "name": "Running In The Dark - Image Song for Arknights mobile game",
       "url": "https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA"
+    },
+    {
+      "album": {
+        "name": "ITEKOMA HITS",
+        "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "S'il vous plait",
+      "url": "https://open.spotify.com/track/6NeSiZokIiQwJaqAID41Vy"
     },
     {
       "album": {
@@ -12449,6 +12485,24 @@
     },
     {
       "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/0VoTkFCfRWxSVJtr80j4uL"
+      },
+      "artists": [
+        {
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215320,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/2NEttzvLX8Pb4YHTeAUmAT"
+    },
+    {
+      "album": {
         "name": "Midnight Chocolate - EP",
         "url": "https://open.spotify.com/album/6Jjha9eFKiS7bvJbxU2U7Y"
       },
@@ -12898,7 +12952,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 253293,
       "name": "SUNSET - feat. Yvette Young",
       "url": "https://open.spotify.com/track/0O6OWDBSCvVS3MHOYAfujL"
@@ -14089,6 +14143,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX"
+    },
+    {
+      "album": {
         "name": "tragedy",
         "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
       },
@@ -14736,7 +14808,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 206866,
       "name": "Until You Die Out",
       "url": "https://open.spotify.com/track/2ijSj23nvR4Zo4NdNOpw4v"
@@ -20585,6 +20657,24 @@
     },
     {
       "album": {
+        "name": "\u30bf\u30a4\u30e0\u30ea\u30fc\u30d7",
+        "url": "https://open.spotify.com/album/5F7V2dm5l6wkHwozYRJJWY"
+      },
+      "artists": [
+        {
+          "name": "SaToA",
+          "url": "https://open.spotify.com/artist/3G6WF3GvhYoSEowQlsllIr"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181434,
+      "name": "\u4e09\u6708\u306e\u6b4c",
+      "url": "https://open.spotify.com/track/4EQQLK6xsQN6eiByBRuko8"
+    },
+    {
+      "album": {
         "name": "\u4e0b\u3092\u5411\u3044\u3066\u6b69\u3053\u3046",
         "url": "https://open.spotify.com/album/17UUaCzdhyI4M9lXWP5qUK"
       },
@@ -21692,7 +21782,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 188952,
       "name": "\u591c\u7a7a\u3092\u8755\u3093\u3067",
       "url": "https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T"
@@ -21728,7 +21818,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 156063,
       "name": "\u5922\u4e2d\u732b",
       "url": "https://open.spotify.com/track/1FhgrTEc1C96Pm7OeY62RA"
@@ -23418,6 +23508,24 @@
       "duration_ms": 287590,
       "name": "\u697d\u3057\u3044\u3053\u3068\u3057\u304b\u306a\u3044",
       "url": "https://open.spotify.com/track/52IZlcQsdTNzRilIoo8Gic"
+    },
+    {
+      "album": {
+        "name": "\u6b20\u7247",
+        "url": "https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160466,
+      "name": "\u6b20\u7247",
+      "url": "https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF"
     },
     {
       "album": {

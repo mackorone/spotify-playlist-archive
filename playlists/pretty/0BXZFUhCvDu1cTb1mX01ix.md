@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0BXZFUhCvDu1cTb1mX01ix.md) - [plain]
 
 > Crank it, sing along, and relive the decade that brought some of the best hits! Cover: No Doubt
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 116,722 likes - 80 songs - 5 hr 36 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 116,721 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/0BXZFUhCvDu1cTb1mX01ix.md) - [plain]
 | 79 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 80 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 
-Snapshot ID: `AAABTThbizWg2Zk+o+sBBDvspzhYOTzN`
+Snapshot ID: `AAABTwNI0Fokc2eG5r+HJTdK0qp2Igw8`

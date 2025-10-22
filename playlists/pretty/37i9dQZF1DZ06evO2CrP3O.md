@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,431 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,441 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 2 | [One Way Or Another \- Remastered 2001](https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:35 |
 | 3 | [Heart Of Glass \- Remix](https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines: Deluxe Collector's Edition](https://open.spotify.com/album/6raionWfBxaJphE3mc8Y4h) | 4:09 |
-| 4 | [Maria](https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits](https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug) | 4:09 |
-| 5 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
+| 4 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
+| 5 | [Maria](https://open.spotify.com/track/7bOYOD0d7ByMTXvJnQVl8d) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits](https://open.spotify.com/album/4pIYJsJ8GkYWM1rvqy45ug) | 4:09 |
 | 6 | [The Tide Is High \- Edit](https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Tide Is High](https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b) | 3:53 |
 | 7 | [Atomic](https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:40 |
 | 8 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 33 | [Good Boys \- Blow\-Up Mix / Remastered](https://open.spotify.com/track/3J08K6VhJNRVwolZ1ETm2a) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 6:05 |
 | 34 | [Bermuda Triangle Blues \- Remastered](https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:48 |
 | 35 | [Man Overboard \- Remastered 2001](https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 |
-| 36 | [Do The Dark \- Remastered 2001](https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:51 |
+| 36 | [Here's Looking At You \- Remastered 2001](https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 2:58 |
 | 37 | [Doom or Destiny](https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 2:54 |
 | 38 | [Hot Shot \- David Wrench 2025 Mix](https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Hot Shot \(David Wrench 2025 Mix\)](https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ) | 3:37 |
 | 39 | [Out In The Streets \- Remastered 2001](https://open.spotify.com/track/2Sxny86sWlahqpFV5XqGhs) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:20 |
-| 40 | [Here's Looking At You \- Remastered 2001](https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 2:58 |
-| 41 | [Llámame \(Call Me\)](https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 6:20 |
-| 42 | [Fan Mail \- Remastered](https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:38 |
+| 40 | [Do The Dark \- Remastered 2001](https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:51 |
+| 41 | [Fan Mail \- Remastered](https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:38 |
+| 42 | [Llámame \(Call Me\)](https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 6:20 |
 | 43 | [Fun](https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:19 |
 | 44 | [Angels On The Balcony \- Remastered 2001](https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:47 |
 | 45 | [Sunday Girl \- French Version](https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Sunday Girl](https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Live It Up \- Remastered 2001](https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 4:09 |
 | 50 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 |
 
-Snapshot ID: `aPQqAAAAAAABgzDanVs0SDTRv9YdSJMw`
+Snapshot ID: `aPV7gAAAAADFsEbX1B1G0ZimkFZ1eOcy`

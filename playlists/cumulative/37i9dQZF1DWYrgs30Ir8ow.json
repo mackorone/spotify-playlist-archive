@@ -14543,6 +14543,28 @@
     },
     {
       "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150120,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo"
+    },
+    {
+      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -17810,7 +17832,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 180422,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62"
@@ -21922,7 +21944,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 182352,
       "name": "Waterkant",
       "url": "https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6"

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-855 songs - 2 day 12 hr 36 min
+856 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Adada](https://open.spotify.com/track/3p1uB1JCsNLrrp0emWOwH4) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Adada](https://open.spotify.com/album/6NahKzvjOBtVirZIVWdey4) | 5:30 | 2025-05-30 | 2025-10-12 |
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-02-21 | 2025-07-12 |
 | [Adará](https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs) | [Abayomy Afrobeat Orquestra](https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv), [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Adará](https://open.spotify.com/album/3OcEePOxppfqTeK0jmICgo) | 4:27 | 2021-10-06 | 2022-04-19 |
-| [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2021-10-06 |  |
+| [Afande](https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Afande](https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F) | 5:23 | 2021-10-06 | 2025-10-22 |
 | [Africa](https://open.spotify.com/track/3VGK75g0ZC5Gg2hx9QCQVn) | [Gili Yalo](https://open.spotify.com/artist/3DKCqVm3fBealSYfYzVIJk), [Keren Dun](https://open.spotify.com/artist/7CRVu7ml6MhPG6F5d8A0hk) | [Gili Yalo](https://open.spotify.com/album/6ctx4UdkEDI2ehupGrh99V) | 4:57 | 2022-03-16 | 2022-04-23 |
 | [Afro Golden Line](https://open.spotify.com/track/1DD7PGYav6CYBtYtwhzWzI) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Afro Golden Line](https://open.spotify.com/album/4to4besq9fhut1Cl2SXqyE) | 3:59 | 2021-10-06 | 2022-12-01 |
 | [Afro Golden Line](https://open.spotify.com/track/5GkhEe5eRuOS1AyJmNLZyH) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Afro Golden Line](https://open.spotify.com/album/6OxiSffhQKRAgVQbzJhRyj) | 3:59 | 2023-08-07 | 2024-04-19 |
@@ -398,6 +398,7 @@
 | [Keep It Movin' \- feat\. Smashish](https://open.spotify.com/track/7cdwo90qsgRjD6q3sg7izZ) | [Izzy Wise](https://open.spotify.com/artist/4y1N04Xki70z0ipxEJKtw2), [Smashish](https://open.spotify.com/artist/3Cxmm98oJQ9Zz1e9lK4XAI) | [Keep It Movin'](https://open.spotify.com/album/6UKLD1H46iwifOnGg403Pr) | 3:47 | 2021-10-06 | 2022-07-21 |
 | [Kenke Corner](https://open.spotify.com/track/5O0YX1q26womuLV7iSMwps) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Kenke Corner](https://open.spotify.com/album/0g1Ss216uKBPdRc6900oU9) | 6:26 | 2021-10-06 | 2022-07-06 |
 | [Kenke Corner](https://open.spotify.com/track/7DSe9aWkpnbDQTTRikkpYp) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS) | [Philantropiques](https://open.spotify.com/album/3fsnW79AlDwj2mF8HhnByU) | 6:26 | 2021-10-06 | 2024-04-19 |
+| [Khamsin](https://open.spotify.com/track/34ZhsFLWuq1glsOGwMnDCi) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Haraka / Khamsin](https://open.spotify.com/album/1RghaiZjw0Oj3Cx5YHlnaz) | 3:15 | 2025-10-17 |  |
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-09-28 | 2023-08-08 |
 | [Killa's on da Loose](https://open.spotify.com/track/1MoYps1hme7HBzM8TyQQbM) | [LUNA MAKI](https://open.spotify.com/artist/5sV0gDazGixsbRNHPIs6F8) | [Killa's on da Loose](https://open.spotify.com/album/2HHZuxkBr6NWXPsil0xSD8) | 4:14 | 2025-09-26 |  |
 | [Kingdom of D'mt](https://open.spotify.com/track/15Cv0RFfDJQwAeZKcgQjrf) | [Karl Hector & The Malcouns](https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB) | [Ka Rica\-Tar](https://open.spotify.com/album/2Y1w4MWDnXvVaHavVnEbzg) | 3:15 | 2021-10-06 |  |

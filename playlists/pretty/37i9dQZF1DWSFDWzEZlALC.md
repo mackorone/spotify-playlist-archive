@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: SOFFIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,019 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,972 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dass ich gerade traurig bin](https://open.spotify.com/track/2UyMGtgY1gYF9LaaQjkb6K) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Dass ich gerade traurig bin](https://open.spotify.com/album/7jMsQAYfDh8bXiwcMGivBe) | 2:28 |
-| 2 | [Zuhause](https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zuhause](https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq) | 2:00 |
+| 2 | [Das Leben ist schon ernst genug](https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Das Leben ist schon ernst genug](https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk) | 2:21 |
 | 3 | [bei mir](https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin EP](https://open.spotify.com/album/5LZ9p9DCSGOMJTkqrdiTAf) | 2:54 |
-| 4 | [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 |
-| 5 | [Das Leben ist schon ernst genug](https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Das Leben ist schon ernst genug](https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk) | 2:21 |
-| 6 | [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 |
-| 7 | [konntenwirnichtfliegen](https://open.spotify.com/track/6xOFr6FtDtU9ZmnLBixctc) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [konntenwirnichtfliegen](https://open.spotify.com/album/10UVSu8LghK4n6E3am2gyX) | 3:07 |
-| 8 | [Liebe & Entzug](https://open.spotify.com/track/5DVxN3e2q8D1TUzCYqH5J9) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe...](https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP) | 2:43 |
+| 4 | [Zuhause](https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zuhause](https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq) | 2:00 |
+| 5 | [sommer](https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [versprochen, ichbindafürdich](https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f) | 2:51 |
+| 6 | [konntenwirnichtfliegen](https://open.spotify.com/track/6xOFr6FtDtU9ZmnLBixctc) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [konntenwirnichtfliegen](https://open.spotify.com/album/10UVSu8LghK4n6E3am2gyX) | 3:07 |
+| 7 | [Liebe & Entzug](https://open.spotify.com/track/5DVxN3e2q8D1TUzCYqH5J9) | [Lostboi Lino](https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa) | [Von Liebe...](https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP) | 2:43 |
+| 8 | [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 |
 | 9 | [Dein Herz](https://open.spotify.com/track/1ZGxtnkwknaW0SczhI9keA) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Dein Herz](https://open.spotify.com/album/0MXF8cWp5EBSvSVJ7I2lhc) | 2:51 |
 | 10 | [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 |
 | 11 | [Ohne Dich](https://open.spotify.com/track/0cgSg5BkNM3ie2A3P4r9jx) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Ohne Dich](https://open.spotify.com/album/42iyGNEjHDboUfT3h9RMCz) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
 | 75 | [wennichandichdenk](https://open.spotify.com/track/7pspNXyzR1ZOuq8pl8j1rn) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [wennichandichdenk](https://open.spotify.com/album/7FIdUKLpRHdKUMpxJyMISx) | 2:33 |
 
-Snapshot ID: `AAAAAFuLCHUuOn4aXgQ/DK0KgUm3YeOw`
+Snapshot ID: `AAAAAOQKQvo3REANal/4ZE/sRq1S4uK+`

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-406 songs - 21 hr 27 min
+408 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 | 2024-03-26 |  |
 | [No Matter What \- 2024](https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo), [Sylver Stripe](https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [GalaxySquid](https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 4:35 | 2025-01-07 |  |
 | [NO PARACHUTE](https://open.spotify.com/track/4qJfMx6rVlGvXioDPqEQ6w) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [NO PARACHUTE](https://open.spotify.com/album/5iZlQDAdbtNOiSjVRrm710) | 2:18 | 2024-11-18 |  |
+| [NOBODYKNOWS](https://open.spotify.com/track/5CDrXgKT7XQGxAQwyBsMeP) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [ALLORNOTHING](https://open.spotify.com/album/3cx10yx8jmSZfKo2PZefBO) | 3:30 | 2025-10-22 |  |
 | [Noise \- Memory Pool](https://open.spotify.com/track/5VjrJ13g4ypdYi0uOHlTJk) | [June LaLonde](https://open.spotify.com/artist/1IU8Y8EUogFf85PtoaikIK) | [Headjack](https://open.spotify.com/album/5xpPrOjFjak4HT7v33FIKm) | 3:45 | 2024-05-28 | 2025-08-13 |
 | [nonbinary](https://open.spotify.com/track/3hJl4ZMJkaPCowO2BdE2Oe) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 2:44 | 2025-03-07 |  |
 | [not askin 4 much](https://open.spotify.com/track/4O6qnVx4R1LJSPsXKYFrAG) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [not askin 4 much](https://open.spotify.com/album/7uTSVs0t0qhynCUG36MjvM) | 2:13 | 2024-11-25 |  |
@@ -384,6 +385,7 @@
 | [Toxic](https://open.spotify.com/track/2B7qk6mt9mSFVrdumESMyO) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Toxic](https://open.spotify.com/album/3GBL08IpIhu6V20iFOa9jF) | 2:48 | 2024-10-31 |  |
 | [trail](https://open.spotify.com/track/6P3FopPSVuqeuKxtkHQzFQ) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [trail](https://open.spotify.com/album/78oCCp2iWSo3zxfllN4JBE) | 2:20 | 2024-04-15 |  |
 | [Trainhopper](https://open.spotify.com/track/5sVaS2vFYCf6tEmqk6pe2B) | [Catasham](https://open.spotify.com/artist/5x6DpBYRtpgfgRw2VqxSri), [Muffin Fox](https://open.spotify.com/artist/3pheL5K8VpifPbrDlCwG6Q) | [Trainhopper](https://open.spotify.com/album/5NQGBfRXHwZQ4IQRYzbxBu) | 1:52 | 2025-09-15 |  |
+| [Transition](https://open.spotify.com/track/5MlzFcBuzxc5crLmzjICHn) | [FC5](https://open.spotify.com/artist/47hsVCed460MN0dlFs1BOq) | [Transition](https://open.spotify.com/album/0yLVOZENiBCvvMwQgFgkpz) | 3:03 | 2025-10-21 |  |
 | [Trash Talkin'](https://open.spotify.com/track/3kBzzYNNR5T6QRQD7FN6ST) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Trash Talkin'](https://open.spotify.com/album/2eW2mOSWttJQ6of9FhEd26) | 3:43 | 2023-06-14 |  |
 | [Tryna Be](https://open.spotify.com/track/2xPq5i3aCHq65THwUTeCJh) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See\-Through](https://open.spotify.com/album/0ZkkL7C35NV9vevX3oSm7m) | 2:23 | 2025-09-15 |  |
 | [TUMMY](https://open.spotify.com/track/5knoabT77wyCXAq1dYGQco) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [TUMMY](https://open.spotify.com/album/7rEnBD1bxnkN2pmQnWIvun) | 2:18 | 2025-10-19 |  |

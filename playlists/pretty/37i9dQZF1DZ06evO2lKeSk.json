@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 365007,
+  "num_followers": 365082,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAB29SazKMqmZLtRT56pgZPz",
+  "snapshot_id": "aPV7gAAAAACRgRVM72Zdz1bm1CjIBn/d",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tierra De Nadie",
-        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Es el Amor Quien Llega",
-      "url": "https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 208946,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tierra De Nadie",
+        "url": "https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Es el Amor Quien Llega",
+      "url": "https://open.spotify.com/track/4GLtNEcq1Mg4SwyxRFhP2o"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huelo a Soledad",
-        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 258746,
-      "name": "Huelo a Soledad",
-      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 206466,
       "name": "Pecado Original",
       "url": "https://open.spotify.com/track/5CrGr84BzO78tyP7soQgbo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Huelo a Soledad",
+        "url": "https://open.spotify.com/album/5xD5oy4TOypY7oeR4xY0oe"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Huelo a Soledad",
+      "url": "https://open.spotify.com/track/35PkxnclKnVvmBdCWTptRb"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Hice Bien Quererte (Lambada) - Versi\u00f3n Corta",
-      "url": "https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas De Dos Siglos",
         "url": "https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 174800,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Hice Bien Quererte (Lambada) - Versi\u00f3n Corta",
+      "url": "https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: U-KNOW(\uc720\ub178\uc724\ud638)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
+  "description": "Is it your bais K-Pop boy group? (Cover: U-KNOW(\uc720\ub178\uc724\ud638)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "name": "BIASBOYS",
   "tracks": [
     {
       "album": {
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 170000,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 180000,
       "name": "Brat Attitude",
       "url": "https://open.spotify.com/track/2XTbl7e9ZcAr57dgRNrwUa"
@@ -5629,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Hollywood Action",
+      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv"
       },
@@ -9104,7 +9122,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 189000,
       "name": "One day",
       "url": "https://open.spotify.com/track/4y0CM8FtV1GjKgDciWyldN"
@@ -9324,6 +9342,24 @@
       "duration_ms": 195146,
       "name": "OVERDRIVE",
       "url": "https://open.spotify.com/track/1iiQ6wFdJz4uGn2a2cGjaG"
+    },
+    {
+      "album": {
+        "name": "Overdrop",
+        "url": "https://open.spotify.com/album/325EKa2TySalGhdEW189DI"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Overdrop",
+      "url": "https://open.spotify.com/track/13o6UaRfD4OO1hkWy4ZcWC"
     },
     {
       "album": {
@@ -9774,6 +9810,24 @@
       "duration_ms": 195746,
       "name": "Rain To Be",
       "url": "https://open.spotify.com/track/3JUy6uHdxEGf5cqk7IxDrE"
+    },
+    {
+      "album": {
+        "name": "RAINBOW",
+        "url": "https://open.spotify.com/album/1qHCVMUHqjJVwooPBJBbjG"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "RAINBOW",
+      "url": "https://open.spotify.com/track/4UwbCuskjhRitFPT7EQAtV"
     },
     {
       "album": {

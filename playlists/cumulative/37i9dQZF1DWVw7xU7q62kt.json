@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 119538,
       "name": "Evening at Rosalita's Roadhouse",
       "url": "https://open.spotify.com/track/4yXKM3P49hdOsUS6G39Zv4"
@@ -4580,7 +4580,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 132413,
       "name": "Guhbs Inspired",
       "url": "https://open.spotify.com/track/79XSdxwWYr7GGEt29xRfVC"
@@ -7757,6 +7757,28 @@
     },
     {
       "album": {
+        "name": "Moroccan Mint",
+        "url": "https://open.spotify.com/album/5WdSRHvkln26PGtrop7KdQ"
+      },
+      "artists": [
+        {
+          "name": "yosev",
+          "url": "https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Moroccan Mint",
+      "url": "https://open.spotify.com/track/6ZqerXOL0kNew8Lr0kV64m"
+    },
+    {
+      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/5ouMoMUX2S8QQnCGIFAAzF"
       },
@@ -8540,6 +8562,24 @@
       "duration_ms": 108571,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/45Txf1MF1O0WW8XFteDKyL"
+    },
+    {
+      "album": {
+        "name": "On The Rocks",
+        "url": "https://open.spotify.com/album/00k08uXfYutyiEq05OuDKp"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "On The Rocks",
+      "url": "https://open.spotify.com/track/24vuwWVdXOLweulimpx3av"
     },
     {
       "album": {
@@ -10627,6 +10667,28 @@
     },
     {
       "album": {
+        "name": "So Far",
+        "url": "https://open.spotify.com/album/1O0TcdsvQBqAgvoUioTKoB"
+      },
+      "artists": [
+        {
+          "name": "Oh, My.",
+          "url": "https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h"
+        },
+        {
+          "name": "L E F",
+          "url": "https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118956,
+      "name": "So Far",
+      "url": "https://open.spotify.com/track/4ZXaeiUaQdlwxoApRelUP5"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/7CJVwOvCaFFbc0oBNLdVhh"
       },
@@ -11130,7 +11192,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 118441,
       "name": "Stasis",
       "url": "https://open.spotify.com/track/2OzSwu0f4zATnCfjL0cxeC"

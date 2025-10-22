@@ -4,20 +4,24 @@
 
 > This is Skindred\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 0 min
+56 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alive](https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:21 | 2024-09-17 |  |
+| [Alright](https://open.spotify.com/track/3K6Aip6jVle4E8yCFKHYlW) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/7zl0NrhsqIqAXSFe3tPnAR) | 3:09 | 2025-10-22 |  |
 | [Bad Man Ah Bad Man](https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:30 | 2024-09-17 |  |
 | [Big Tings](https://open.spotify.com/track/3ddLVqFzW2KVnfOenMXsGS) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:34 | 2024-09-17 |  |
 | [Bruises](https://open.spotify.com/track/1N3m5G3ho2toLQCjAWZfes) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 2:42 | 2024-09-17 |  |
-| [Calling All Stations](https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:33 | 2024-09-17 |  |
+| [Calling All Stations](https://open.spotify.com/track/2c0XncuoZEOGuphnaWltIG) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:33 | 2025-10-22 |  |
+| [Calling All Stations](https://open.spotify.com/track/76GytQPez2b6hjLDmSphKa) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:33 | 2024-09-17 | 2025-10-22 |
 | [Cause Ah Riot](https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn) | 3:04 | 2024-09-17 |  |
-| [Corrupted](https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 | 2024-09-17 |  |
+| [Corrupted](https://open.spotify.com/track/6HZVxvuufNgDpqkWLjZ2RH) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 | 2024-09-17 | 2025-10-22 |
+| [Corrupted](https://open.spotify.com/track/7qsQOyTZ3gCJ48PJ04mPAL) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 | 2025-10-22 |  |
 | [Cut Dem](https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:51 | 2024-09-17 |  |
-| [Days Like These](https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 | 2024-09-17 |  |
-| [Destroy the Dancefloor](https://open.spotify.com/track/142uKVnCJ3rgODPUIq1V0X) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn) | 3:44 | 2024-09-17 |  |
+| [Days Like These](https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:36 | 2024-09-17 | 2025-10-22 |
+| [Days Like These](https://open.spotify.com/track/5XdFU7eQHlD2nqv2VnncVP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs) | 3:36 | 2025-10-22 |  |
+| [Destroy the Dancefloor](https://open.spotify.com/track/142uKVnCJ3rgODPUIq1V0X) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Roots Rock Riot](https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn) | 3:44 | 2024-09-17 | 2025-10-22 |
 | [Doom Riff](https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 3:48 | 2024-09-17 |  |
 | [Electric Avenue](https://open.spotify.com/track/1YxE1cKYJztCvSfpPYS85G) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Shark Bites and Dog Fights](https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId) | 3:10 | 2024-09-17 |  |
 | [Game Over](https://open.spotify.com/track/2OLzB5nuueydMIuLQxhKOk) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Union Black](https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG) | 4:11 | 2024-09-17 |  |
@@ -33,7 +37,8 @@
 | [Ninja](https://open.spotify.com/track/3xhS0SMz5vn0aLZofbilOE) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill the Power](https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk) | 4:31 | 2024-09-17 |  |
 | [No Justice](https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Volume](https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv) | 2:44 | 2024-09-17 |  |
 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 | 2024-09-17 |  |
-| [Open Eyed](https://open.spotify.com/track/4Wog4OV3TwnE1XtIUMovJO) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill the Power](https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk) | 4:42 | 2024-09-17 |  |
+| [Open Eyed](https://open.spotify.com/track/4Wog4OV3TwnE1XtIUMovJO) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill the Power](https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk) | 4:42 | 2024-09-17 | 2025-10-22 |
+| [Open Eyed](https://open.spotify.com/track/2sEPalDxv2IxnVnjlDFa8R) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 4:42 | 2025-10-22 |  |
 | [Pressure](https://open.spotify.com/track/1I6H9DDpmtwI5RF8qYgW17) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:28 | 2024-09-17 |  |
 | [Proceed With Caution](https://open.spotify.com/track/2XBszkWUCGp98STdL0BS1c) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill The Power](https://open.spotify.com/album/24rK0HnAbb64xTxkZBoRCu) | 3:18 | 2025-10-19 |  |
 | [Proceed with Caution](https://open.spotify.com/track/0tEAjGoTGgLtpJJxPaFtJ5) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Kill the Power](https://open.spotify.com/album/6cGy9FyV7N9g7SugX0uNgk) | 3:18 | 2024-09-17 | 2025-10-19 |

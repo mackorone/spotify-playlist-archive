@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 41.2025 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 42.2025 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 131924,
       "name": "3 Uhr Nachts",
       "url": "https://open.spotify.com/track/3UYxIENAasKz3LVwOnTeLX"
@@ -745,6 +745,28 @@
     },
     {
       "album": {
+        "name": "Bring mich nach Haus",
+        "url": "https://open.spotify.com/album/1AyHyxKcgEbKMqxIbQIB8E"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182008,
+      "name": "Bring mich nach Haus",
+      "url": "https://open.spotify.com/track/1c3T9VfcoJUblx0tnHf8Ha"
+    },
+    {
+      "album": {
         "name": "Buscape",
         "url": "https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb"
       },
@@ -1092,7 +1114,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 211725,
       "name": "Daytona",
       "url": "https://open.spotify.com/track/6lmXLltCYZciRhKFNPofCo"
@@ -1805,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "H2K",
+        "url": "https://open.spotify.com/album/1OlPM6ncZVsPL0xxlzhPXN"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137428,
+      "name": "H2K",
+      "url": "https://open.spotify.com/track/5GnRamwmraDE16FrJbx0y0"
+    },
+    {
+      "album": {
         "name": "<3 MY PEOPLE",
         "url": "https://open.spotify.com/album/4qgCdsO3IplVDjgVYjAhHx"
       },
@@ -1984,7 +2024,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 133906,
       "name": "H\u00e4agen Dazs",
       "url": "https://open.spotify.com/track/5gBDMQlmL0DBjxTxpgTgMn"
@@ -2588,7 +2628,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 217714,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4PFe51A35tfRKVzAl5Jzig"
@@ -2792,7 +2832,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 185217,
       "name": "nap\u0131yosun mesela ?",
       "url": "https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb"
@@ -3130,7 +3170,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 146181,
       "name": "PUSH PUSH",
       "url": "https://open.spotify.com/track/7vkZI3Nk7phvR7zST8XRyM"
@@ -3276,6 +3316,32 @@
       "duration_ms": 126933,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/27dn9ZTwGj5uZjIQPulwAE"
+    },
+    {
+      "album": {
+        "name": "R\u00fccken an R\u00fccken",
+        "url": "https://open.spotify.com/album/0BtBbLSEmjK6y1oCWWyt4I"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170170,
+      "name": "R\u00fccken an R\u00fccken",
+      "url": "https://open.spotify.com/track/1zgreHbTAlr6nbV5GMQJ5b"
     },
     {
       "album": {
@@ -3642,6 +3708,28 @@
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
+        "name": "Sonne Geht Auf",
+        "url": "https://open.spotify.com/album/3zh834YrAtWDuBumqFkgHR"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126538,
+      "name": "Sonne Geht Auf",
+      "url": "https://open.spotify.com/track/6bs1myCEARQoI7oOLxqHkp"
     },
     {
       "album": {
@@ -4094,7 +4182,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 141999,
       "name": "Theater \ud83c\udfad",
       "url": "https://open.spotify.com/track/2ewwQzODKfnyZpgtDalWW5"
@@ -4240,6 +4328,24 @@
       "duration_ms": 178604,
       "name": "TWINS",
       "url": "https://open.spotify.com/track/3ouqRo2zDJjewIao5CFFGN"
+    },
+    {
+      "album": {
+        "name": "Uff Yaa",
+        "url": "https://open.spotify.com/album/0GEqHwifTZhn8vBowI9ydv"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107546,
+      "name": "Uff Yaa",
+      "url": "https://open.spotify.com/track/2n6jU4jcKzG4ouZP52kvVp"
     },
     {
       "album": {
@@ -4630,6 +4736,24 @@
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
     },
     {
       "album": {

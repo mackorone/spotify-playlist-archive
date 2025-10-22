@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee, Paraçek
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,180 likes - 101 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,188 likes - 101 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 39 | [Party Like We're Animals 2025](https://open.spotify.com/track/3vYYYUI3kdfRHGxxvPcSCh) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Party Like We're Animals 2025](https://open.spotify.com/album/16tXzMUicMU4fytXH45SFt) | 2:48 |
 | 40 | [Thomas, Simon & Daniel](https://open.spotify.com/track/6Z5DC3aONspfMAibirX1Gp) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Lucy Duffner](https://open.spotify.com/artist/4zfyXjPrlsqKgtt9pS4YT7) | [Thomas, Simon & Daniel](https://open.spotify.com/album/2sPv6amwM7rO9N6WBc3kwV) | 3:06 |
 | 41 | [Magnet](https://open.spotify.com/track/3wJJDR11Tcmx6ByXHzGPmX) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Magnet](https://open.spotify.com/album/6MsmSZNgjvveZgJsraRF5M) | 2:33 |
-| 42 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
+| 42 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 43 | [Dreaming](https://open.spotify.com/track/5xfjzUivhcmpC4aQpPo0O9) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Tigerlily](https://open.spotify.com/artist/48xCatjXaoohtyOHrHTijG) | [Dreaming](https://open.spotify.com/album/0GgyJqkhQZjbSNZnyiJmtW) | 3:02 |
 | 44 | [Halo](https://open.spotify.com/track/1WtUmKKgzUpAa0BpKUzoTb) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Halo](https://open.spotify.com/album/15VVLOzpjxXK5lTuA557bA) | 2:24 |
 | 45 | [Ring of Fire](https://open.spotify.com/track/3UoyCBnr5YJ4qKzHkrM2fj) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Ring of Fire](https://open.spotify.com/album/6ck1XXwbuY5YbL9dAb4S86) | 2:16 |

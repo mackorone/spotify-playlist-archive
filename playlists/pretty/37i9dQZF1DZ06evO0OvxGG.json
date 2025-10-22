@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8356,
+  "num_followers": 8359,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAHjEcGfuFjKa6OTgD2EBt1",
+  "snapshot_id": "aPV7gAAAAABL0XeNNyE9hFzhcDoa3FN7",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+        "name": "geada",
+        "url": "https://open.spotify.com/album/6amp0p1x4LzDY5aYHaNrKc"
       },
       "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
+      "duration_ms": 154761,
+      "name": "geada",
+      "url": "https://open.spotify.com/track/4Vel9cEUX2x62b1OTGy6h7"
     },
     {
       "added_at": null,
@@ -315,18 +307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "geada",
-        "url": "https://open.spotify.com/album/6amp0p1x4LzDY5aYHaNrKc"
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
       "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 154761,
-      "name": "geada",
-      "url": "https://open.spotify.com/track/4Vel9cEUX2x62b1OTGy6h7"
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
     },
     {
       "added_at": null,

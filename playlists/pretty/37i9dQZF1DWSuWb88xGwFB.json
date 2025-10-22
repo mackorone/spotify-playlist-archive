@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 42030,
+  "num_followers": 42042,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAPb00lHUYDImwoW/82i6DDSQVSl5",
   "tracks": [
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Beautiful People (Remixes)",
-        "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 546586,
-      "name": "Beautiful People - Underground Network Mix",
-      "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
-    },
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
@@ -207,18 +191,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "(Who?) Keeps Changing Your Mind",
-        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
+        "name": "Beautiful People (Remixes)",
+        "url": "https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN"
       },
       "artists": [
         {
-          "name": "South Street Player",
-          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 460939,
-      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
-      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
+      "duration_ms": 546586,
+      "name": "Beautiful People - Underground Network Mix",
+      "url": "https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -235,6 +219,22 @@
       "duration_ms": 474560,
       "name": "Zulu - Change Mix",
       "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "(Who?) Keeps Changing Your Mind",
+        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
+      },
+      "artists": [
+        {
+          "name": "South Street Player",
+          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
+        }
+      ],
+      "duration_ms": 460939,
+      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
+      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
     },
     {
       "added_at": "2022-03-03 13:59:16",

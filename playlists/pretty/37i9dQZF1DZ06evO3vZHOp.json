@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 370726,
+  "num_followers": 370780,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADJbcEXQ6oJB1n+YJDBSqJ0",
+  "snapshot_id": "aPV7gAAAAAB/bJbphlqDOykdwNTj6ibx",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 204159,
       "name": "La Vida Se Va",
       "url": "https://open.spotify.com/track/15H584fBs6F7vxoYuVJGmE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "Romeo y Julieta",
-      "url": "https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez"
     },
     {
       "added_at": null,
@@ -231,6 +211,26 @@
       "duration_ms": 152960,
       "name": "Kemba Walker",
       "url": "https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "Romeo y Julieta",
+      "url": "https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivos Eladio Vol. 3",
-        "url": "https://open.spotify.com/album/6CP0fTkaAGE803geakDl3b"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Midnvght",
-          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/4gFklzyutaUi4ScR9Qe1iS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -963,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivos Eladio Vol. 3",
+        "url": "https://open.spotify.com/album/6CP0fTkaAGE803geakDl3b"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/4gFklzyutaUi4ScR9Qe1iS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivos Eladio Vol. 3",
-        "url": "https://open.spotify.com/album/6CP0fTkaAGE803geakDl3b"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Me Siento Kbrn",
-      "url": "https://open.spotify.com/track/5fmFNZmQAFjXhAn6diITgm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 215133,
       "name": "Mi Error",
       "url": "https://open.spotify.com/track/4o4HQPKJQEsPq36BJqWWUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archivos Eladio Vol. 3",
+        "url": "https://open.spotify.com/album/6CP0fTkaAGE803geakDl3b"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Me Siento Kbrn",
+      "url": "https://open.spotify.com/track/5fmFNZmQAFjXhAn6diITgm"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から元気が出るパワフル＆ポップなボカロ曲選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 223 likes - 40 songs - 2 hr 11 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 225 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/1xU1q2lviYWohSFWY85KmU.md) - [plain]
 | 33 | [Falling Star \(feat\. 初音ミク\)](https://open.spotify.com/track/6iPQ0oKCbAafnMy1Val6eC) | [うどんタイマーP](https://open.spotify.com/artist/4ta5vqvsNmN0wFUultQHdJ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Falling Star](https://open.spotify.com/album/3jkC3G68ICXTiHBUvEMquw) | 3:54 |
 | 34 | [Tsukikage \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0zLXR6greXvG7D80V6dq6Z) | [Shino](https://open.spotify.com/artist/59Bj4ZrSOLrNlMH15wY2VB), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Tsukikage](https://open.spotify.com/album/6maxoriCPb0Zw1QqtmmWdE) | 3:42 |
 | 35 | [踊るアンデッド \(feat\. 初音ミク&鏡音リン&鏡音レン\)](https://open.spotify.com/track/6rQgY2EdbHmy0Fi0xSvJJp) | [Tonbi](https://open.spotify.com/artist/0nNnrmbZolRLUNeAkWUmJF), [夏山よつぎ](https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [踊るアンデッド](https://open.spotify.com/album/5JUpVaZxlpMF2rFr1x7leB) | 2:30 |
-| 36 | [ハニーステップ \(feat\. 鏡音リン\)](https://open.spotify.com/track/1szuehv0xWFyeSwv7OCzYR) | [ぽて](https://open.spotify.com/artist/3aCTrqguLqycn5cNbnkbdl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [ハニーステップ](https://open.spotify.com/album/0scM5ZPNljtKYMsRXeC81Y) | 3:29 |
-| 37 | [アイの戦争 \(feat\. 夏色花梨\)](https://open.spotify.com/track/4rsIycLg9GoRxw52VgIM0B) | [ちかるとふ](https://open.spotify.com/artist/5oIVtZdjacYptHdRSGkU5z), [夏色花梨](https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU) | [アイの戦争](https://open.spotify.com/album/6fycwjEiEEpfefWyEGhkTF) | 3:56 |
-| 38 | [常連パティシエー \(feat\. 鏡音レン\)](https://open.spotify.com/track/5ys80Seu6G4noc86D7sEx2) | [halyosy](https://open.spotify.com/artist/1n7bHz03w0ew7UNCw1dAiA), [Kagamine Len](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [常連パティシエー](https://open.spotify.com/album/3ndbCIo4Xjp0HzZuj9jWf5) | 4:38 |
-| 39 | [トライアンドエラー \(feat\. 初音ミク\)](https://open.spotify.com/track/4Ub9mpz3TuIhb365m2encU) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [トライアンドエラー](https://open.spotify.com/album/5VzTUexDxPwTWvyUmgXxLW) | 1:30 |
-| 40 | [春光を浴びて \(feat\. 初音ミク\)](https://open.spotify.com/track/2ttR07UElO1FoAIwfNWuER) | [ラテルネ](https://open.spotify.com/artist/5cnji5AbZDmiKGpYGv4HXf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [春光を浴びて](https://open.spotify.com/album/7pBU0O9TcZOVekNouwyqVp) | 1:30 |
+| 36 | [見果てぬ夢を生きる \(feat\. 初音ミク\)](https://open.spotify.com/track/2dMga34Pk5EmI3io1BhCdL) | [オゾン](https://open.spotify.com/artist/11goo7kMJlP3Z6HC3cae2e), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [In:Side](https://open.spotify.com/album/4WgWsRFDqTRuTBKnIE76n0) | 4:28 |
+| 37 | [自下手 \(feat\. 初音ミク\)](https://open.spotify.com/track/0bBiNkSC16FYbqohT4q9Kt) | [saikawa](https://open.spotify.com/artist/07QJKBA7oc1IFkGNDo7qsB), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [自下手](https://open.spotify.com/album/126OBJGNztTTyUxV8Hv7f2) | 4:17 |
+| 38 | [むり \(feat\. 春日部つむぎ\)](https://open.spotify.com/track/27kfgJNjDaQPotKUkW1Vj5) | [宮守文学](https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU), [春日部つむぎ](https://open.spotify.com/artist/0EBCs4cCWYXo9XuORvj9OI) | [むり](https://open.spotify.com/album/63xTgnAQPeXxsdlxwVwGcU) | 2:29 |
+| 39 | [喝采 \(feat\. 巡音ルカ\)](https://open.spotify.com/track/0Bwv00tdTHozg8CqOX0Xal) | [ヘリP](https://open.spotify.com/artist/68CKjh7lPbAIrWOdDph3LE), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [喝采](https://open.spotify.com/album/2pQzQKorEIgMG4nvfyzbTp) | 3:44 |
+| 40 | [エンドロールに髑髏は咲く](https://open.spotify.com/track/0pHkwOXY6HKFCtiMM7BaQ8) | [さまぐら](https://open.spotify.com/artist/3MVeDEp6pC3HmzAhjR35CG) | [エンドロールに髑髏は咲く](https://open.spotify.com/album/7iaWdIKRvbhldMNfPFeotj) | 3:57 |
 
-Snapshot ID: `AAAF/puUBqq0tl1x+wkdIU0fxkLxB01B`
+Snapshot ID: `AAAGCBvxumKzAS75g+AzhGLBzN6Wo94g`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,798 likes - 33 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,804 likes - 33 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 5 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 |
 | 6 | [Diário de um Detento](https://open.spotify.com/track/7wglwZzZoWUr8sOECwpu6L) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 7:31 |
 | 7 | [Fim de Semana no Parque](https://open.spotify.com/track/5hkLnjLwFQtSa1I0IZ7mzZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 7:47 |
-| 8 | [Diário de um Detento \(Ao Vivo\)](https://open.spotify.com/track/4W3OLec9sTB37yegHQVxOq) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \(Delux Edition\)](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 8:13 |
+| 8 | [Diário de um Detento \- Ao Vivo](https://open.spotify.com/track/4W3OLec9sTB37yegHQVxOq) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \[Delux Edition\]](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 8:13 |
 | 9 | [Vida Loka, Pt\. 2](https://open.spotify.com/track/4nTrxp4aH0g2yLVPkFmljF) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:50 |
 | 10 | [Jorge da Capadócia](https://open.spotify.com/track/0YyZBGbZYAuEFu473MiyjQ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 2:47 |
 | 11 | [Formula Mágica da Paz \- Ao Vivo](https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [1000 Trutas 1000 Tretas \(Ao Vivo\)](https://open.spotify.com/album/4QvlTHd5GdQje8nxm9Bude) | 11:20 |
-| 12 | [Negro Drama \(Ao Vivo\)](https://open.spotify.com/track/5oSIB0TeXUQsmYifDfKIFx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \(Delux Edition\)](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 5:21 |
+| 12 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/5oSIB0TeXUQsmYifDfKIFx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \[Delux Edition\]](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 5:21 |
 | 13 | [Negro Drama](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 6:51 |
 | 14 | [Formula Mágica de Paz](https://open.spotify.com/track/4QsfSMCOEmTbPzHCCLbhgr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 10:39 |
 | 15 | [Cores & Valores](https://open.spotify.com/track/6aJkwHHjSLbSe9T07ulltq) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ CIA](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 1:16 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 32 | [Beco Sem Saída \- Ao Vivo](https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:34 |
 | 33 | [O Mal e o Bem](https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:54 |
 
-Snapshot ID: `aPQqAAAAAACYlcZltJ5a13AYNHE+MDn2`
+Snapshot ID: `aPV7gAAAAAAkAOnFK3K2Gakluczdi4+k`

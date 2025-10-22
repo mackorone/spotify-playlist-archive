@@ -2,7 +2,7 @@
 
 ### [hopeless romantic](https://open.spotify.com/playlist/37i9dQZF1DX6DLB6M8zkNk)
 
-> POV: you're the main character in a romance novel.
+> you're the main character in a romance novel.
 
 115 songs - 6 hr 41 min
 

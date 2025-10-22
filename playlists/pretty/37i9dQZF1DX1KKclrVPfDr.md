@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं\. Cover: Surabhi Kashyap, Stuti Sinha, Nikita Rai
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,954 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,964 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 6 | [FULAURI BINA CHATNI](https://open.spotify.com/track/6o6I0y3nCi6suPvXCBQeUq) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt), [Shagun Srivastava](https://open.spotify.com/artist/6lndd8QIQWss9ro5cE1wb7) | [FULAURI BINA CHATNI](https://open.spotify.com/album/59eVrJFq82tVu7YQpMPUOH) | 2:56 |
 | 7 | [Tohre me Base Sajna](https://open.spotify.com/track/3MH3r1uLG0uBeCNgMAOioE) | [Swati Mishra](https://open.spotify.com/artist/3SwS8uwiv8h8gf0uobOb4f) | [Tohre me Base Sajna](https://open.spotify.com/album/4EbSiXvKe2VGvmcutgPe0z) | 3:46 |
 | 8 | [Holi Khele Raghuveera](https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Sugam Singh](https://open.spotify.com/artist/1OBZ7mHS6j53GMTt0nFA57) | [Holi Khele Raghuveera](https://open.spotify.com/album/4qtI6ApG6I8gOHHr3FLLOG) | 3:40 |
-| 9 | [Mannat](https://open.spotify.com/track/1d0zIgTp19xhO6LS05vmme) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [Mannat](https://open.spotify.com/album/0jAZu8zEG1HM2wUUZmNiKl) | 3:44 |
-| 10 | [Mori Dhani Chunariya Iter Ghamke \- Jhumar](https://open.spotify.com/track/6DhuWjwpo9bs7jUMukAtsM) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Mori Dhani Chunariya Iter Ghamke \(Jhumar\)](https://open.spotify.com/album/7eGxALUcYY7WgHrn1F1DDq) | 4:02 |
+| 9 | [Mori Dhani Chunariya Iter Ghamke \- Jhumar](https://open.spotify.com/track/6DhuWjwpo9bs7jUMukAtsM) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Mori Dhani Chunariya Iter Ghamke \(Jhumar\)](https://open.spotify.com/album/7eGxALUcYY7WgHrn1F1DDq) | 4:02 |
+| 10 | [Mannat](https://open.spotify.com/track/1d0zIgTp19xhO6LS05vmme) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [Mannat](https://open.spotify.com/album/0jAZu8zEG1HM2wUUZmNiKl) | 3:44 |
 | 11 | [Nazariya Se Baat](https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX), [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Nazariya Se Baat](https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV) | 2:46 |
 | 12 | [Chunariya Me Daag](https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Chunariya Me Daag](https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii) | 4:36 |
 | 13 | [Kaise Khele Jaibu Sawan Mein Kajariya](https://open.spotify.com/track/1f27pTsO6nwMoI93a7d6mc) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Somya Singh](https://open.spotify.com/artist/00gYldvgYozks3IWpB7Nm4) | [Kaise Khele Jaibu Sawan Mein Kajariya](https://open.spotify.com/album/3T82H0kkBVtlgkGN81WCeI) | 2:34 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 24 | [Khele Ke Milal Goti](https://open.spotify.com/track/1UrHWqV8BjaY88RmRRpZgh) | [Sanskriti Pandey](https://open.spotify.com/artist/7ffXIVwcucy2hFC3sABaj7) | [Khele Ke Milal Goti](https://open.spotify.com/album/4vtYQPmdNuyPBcSQlQU7kx) | 2:07 |
 | 25 | [Reliya Bairan](https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Reliya Bairan](https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u) | 5:21 |
 | 26 | [PATNA WALI MUNIYA](https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Lk Laxmikaant](https://open.spotify.com/artist/7qCFqTfOt35oCPFR2iBe3K), [Pankaj Narayan](https://open.spotify.com/artist/3bDA8NEDAIL4AjA8m2zDY8) | [PATNA WALI MUNIYA](https://open.spotify.com/album/4GQY4S99fAQnaYmwpKyUkl) | 4:06 |
-| 27 | [Bagiya](https://open.spotify.com/track/48ZAPt4dLgYko0T1rCfimu) | [Mini Pandey](https://open.spotify.com/artist/5K9cn9P6AjHu5ggNjmfHOZ) | [Bagiya](https://open.spotify.com/album/7iCkRMBw9irsgzQqYch68r) | 3:44 |
-| 28 | [KURBAN](https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [KURBAN](https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt) | 3:12 |
+| 27 | [KURBAN](https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [KURBAN](https://open.spotify.com/album/2btawM5YXfPOuHEjiedLVt) | 3:12 |
+| 28 | [Bagiya](https://open.spotify.com/track/48ZAPt4dLgYko0T1rCfimu) | [Mini Pandey](https://open.spotify.com/artist/5K9cn9P6AjHu5ggNjmfHOZ) | [Bagiya](https://open.spotify.com/album/7iCkRMBw9irsgzQqYch68r) | 3:44 |
 | 29 | [MEHANDI LAGAI KE](https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39) | [Harsh Veer Indi](https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy), [Gauri Mishra](https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr) | [MEHANDI LAGAI KE](https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J) | 3:10 |
 | 30 | [JUG JUG JIYA SU LALANWA SOHAR](https://open.spotify.com/track/6v9a59GBqiiui2L65Hrfe4) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm) | [JUG JUG JIYA SU LALANWA SOHAR](https://open.spotify.com/album/3viQgZ5OzIW11aWq33w2qS) | 3:17 |
 | 31 | [Pyaar ka Vyapar](https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Pyaar ka Vyapar](https://open.spotify.com/album/0oC8Z3ACgjvm2ZprSMhsOP) | 3:24 |

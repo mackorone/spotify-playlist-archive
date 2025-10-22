@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/3h2IgKtlJYBhfbxPRuHMEG.md) - [plain]
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: SIPPY
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 509 likes - 74 songs - 4 hr 7 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 508 likes - 74 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wide Awake](https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Scars In Stereo](https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw) | 2:49 |
 | 2 | [HOW I DO IT](https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT) | [As The Pendulum Swings](https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd) | 2:28 |
-| 3 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
+| 3 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
 | 4 | [COME AS YOU ARE](https://open.spotify.com/track/2Vtu6kE8wlqWpZKQsg9cLW) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [THE DARK SiDE OF THE TRASH](https://open.spotify.com/album/2DDv1U1A1ipoeySQl6bRYI) | 1:44 |
 | 5 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 |
 | 6 | [PHASERBEAM](https://open.spotify.com/track/70O1237C4fcq3f0a7DP1Pb) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [INTRUDER](https://open.spotify.com/album/2LsyLrGjtmpQxBXwLWFq3y) | 3:53 |

@@ -1,6 +1,6 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 555209,
+  "num_followers": 555206,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "El Son De La Negra",
-      "url": "https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "30 Exitos Inmortales",
         "url": "https://open.spotify.com/album/2xCm0V7sVyMZJITnKagCuz"
       },
@@ -463,18 +447,34 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Negra Linda",
-        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
       },
       "artists": [
         {
-          "name": "Mariachi America",
-          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
         }
       ],
-      "duration_ms": 389973,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
+      "duration_ms": 181930,
+      "name": "El Son De La Negra",
+      "url": "https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez",
+        "url": "https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol De Mexico",
+          "url": "https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Mi Jalisco",
+      "url": "https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez",
-        "url": "https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE"
+        "name": "Negra Linda",
+        "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
       },
       "artists": [
         {
-          "name": "Mariachi Sol De Mexico",
-          "url": "https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1"
+          "name": "Mariachi America",
+          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
         }
       ],
-      "duration_ms": 216026,
-      "name": "Mi Jalisco",
-      "url": "https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg"
+      "duration_ms": 389973,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Cuando M\u00e9xico Canta",
-        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
-          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
-        }
-      ],
-      "duration_ms": 149289,
-      "name": "Toro Relajo",
-      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "La Voz de M\u00e9xico (Remastered)",
         "url": "https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 193946,
       "name": "El Herradero - Remastered",
       "url": "https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Cuando M\u00e9xico Canta",
+        "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Nuevo Ordaz de Pur\u00e9pero",
+          "url": "https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs"
+        }
+      ],
+      "duration_ms": 149289,
+      "name": "Toro Relajo",
+      "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Iradier",
-          "url": "https://open.spotify.com/artist/6yjKBVFIjoLCvFIgJXzvwo"
-        },
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 224880,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/5X73yzsOCpeyCzQMcCK37B"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
@@ -1307,6 +1287,26 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Iradier",
+          "url": "https://open.spotify.com/artist/6yjKBVFIjoLCvFIgJXzvwo"
+        },
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 224880,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/5X73yzsOCpeyCzQMcCK37B"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
         "name": "20 \u00c9xitos",
         "url": "https://open.spotify.com/album/4MF8urxgLWiJXDctu2ZNJJ"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "35 Anniversary Re-mastered Series, Vol. 11",
-        "url": "https://open.spotify.com/album/3pUiUb7Z4czGqyUVaNfytu"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "El Polvorete",
-      "url": "https://open.spotify.com/track/3x9qrtJGrYEUFutdC3I32H"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "Sinf\u00f3nico 3",
         "url": "https://open.spotify.com/album/5r6kbcr9qtGnpUo9uBqWwq"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 201747,
       "name": "Mi Zacatecas Querido",
       "url": "https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "35 Anniversary Re-mastered Series, Vol. 11",
+        "url": "https://open.spotify.com/album/3pUiUb7Z4czGqyUVaNfytu"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "El Polvorete",
+      "url": "https://open.spotify.com/track/3x9qrtJGrYEUFutdC3I32H"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 120600,
-      "name": "El Caballito",
-      "url": "https://open.spotify.com/track/3eiOUlAZSK8DQ9IIqrg8r3"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "Lo Mejor De La M\u00fasica Mexicana",
         "url": "https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 221780,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 120600,
+      "name": "El Caballito",
+      "url": "https://open.spotify.com/track/3eiOUlAZSK8DQ9IIqrg8r3"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "El Pajaro Carpintero",
-      "url": "https://open.spotify.com/track/08fOgmsOmZyzXvly76Mp7K"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 114466,
       "name": "La Adelita",
       "url": "https://open.spotify.com/track/7zjzbXZYUnWbtbs6FEOJjS"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "El Pajaro Carpintero",
+      "url": "https://open.spotify.com/track/08fOgmsOmZyzXvly76Mp7K"
     },
     {
       "added_at": "2025-07-18 16:51:44",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-07-18 16:51:44",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "El Jarabe Tapatio",
-      "url": "https://open.spotify.com/track/7lrLdHpvgwc0uAhiccbVPf"
-    },
-    {
-      "added_at": "2025-07-18 16:51:44",
-      "album": {
         "name": "Lo Mejor De Nuestro Mexico, Vol. 1",
         "url": "https://open.spotify.com/album/1lZL5FGjlYH3hTX4QkCnxD"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 167157,
       "name": "Alla En El Rancho Grande",
       "url": "https://open.spotify.com/track/4nyBbyrarSkoxROa6xUhNt"
+    },
+    {
+      "added_at": "2025-07-18 16:51:44",
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "El Jarabe Tapatio",
+      "url": "https://open.spotify.com/track/7lrLdHpvgwc0uAhiccbVPf"
     },
     {
       "added_at": "2025-07-18 16:51:44",

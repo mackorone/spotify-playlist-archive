@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34947,
+  "num_followers": 34958,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADKqkN1axRPQFKotD4KwMzp",
+  "snapshot_id": "aPV7gAAAAAA83qAeO+UVahu6k9itCtZB",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans",
-        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208422,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Fazoland",
         "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
       },
@@ -363,26 +363,6 @@
       "duration_ms": 199302,
       "name": "Write Your Name",
       "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Survivor\u2019s Guilt (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "Survivor\u2019s Guilt (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
     },
     {
       "added_at": null,
@@ -407,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Survivor\u2019s Guilt (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Survivor\u2019s Guilt (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Money (feat. G Herbo)",
         "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
       },
@@ -427,6 +427,42 @@
       "duration_ms": 164586,
       "name": "Pink Money (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Storm: Sorry 4 The Rain",
+        "url": "https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 156015,
+      "name": "Clippers",
+      "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "High Speed",
+      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
     },
     {
       "added_at": null,
@@ -467,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "High Speed",
-      "url": "https://open.spotify.com/track/6CibhjvNeSRJRy6XGshcZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Untreated Trauma",
         "url": "https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ"
       },
@@ -503,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Storm: Sorry 4 The Rain",
-        "url": "https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i"
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
       },
       "artists": [
         {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Bibby",
+          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
         }
       ],
-      "duration_ms": 156015,
-      "name": "Clippers",
-      "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
+      "duration_ms": 179444,
+      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
+      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
     },
     {
       "added_at": null,
@@ -539,26 +559,6 @@
       "duration_ms": 144010,
       "name": "Thuggin",
       "url": "https://open.spotify.com/track/3uZDY0QgBOg6GIxCHy6L2S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Bibby",
-          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
-        }
-      ],
-      "duration_ms": 179444,
-      "name": "Kill Shit (feat. Lil Bibby) (Bonus Track)",
-      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
     },
     {
       "added_at": null,
@@ -811,62 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What It Means To Be King",
-        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
-      },
-      "artists": [
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Facetime (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Racks In Class (Lunch Break Freestyle)",
-        "url": "https://open.spotify.com/album/4ltHWzQkshb9juFQtaMDyh"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 193359,
-      "name": "Racks In Class (Lunch Break Freestyle)",
-      "url": "https://open.spotify.com/track/6Ds5mkgbe5I2glwpSIHm44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Ridin Wit It",
-      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNDERWORLD",
         "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
@@ -899,6 +843,78 @@
       "duration_ms": 256052,
       "name": "Same Me",
       "url": "https://open.spotify.com/track/1vSbIcIQHsquII7EkSwCa4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Ridin Wit It",
+      "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Racks In Class (Lunch Break Freestyle)",
+        "url": "https://open.spotify.com/album/4ltHWzQkshb9juFQtaMDyh"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 193359,
+      "name": "Racks In Class (Lunch Break Freestyle)",
+      "url": "https://open.spotify.com/track/6Ds5mkgbe5I2glwpSIHm44"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What It Means To Be King",
+        "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Facetime (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 153329,
+      "name": "Still Dangerous",
+      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
     },
     {
       "added_at": null,
@@ -959,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 153329,
-      "name": "Still Dangerous",
-      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Fly (Deluxe)",
         "url": "https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7"
       },
@@ -995,22 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Pages",
-        "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 206643,
-      "name": "Mine (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
+      "duration_ms": 174266,
+      "name": "Chiraq Demons (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
     }
   ],
   "unique_name": "This Is G Herbo",

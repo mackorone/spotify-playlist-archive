@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 91227,
+  "num_followers": 91307,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADeZq6ikGlzveQa5NaDtm6g",
+  "snapshot_id": "aPV7gAAAAACfn6sqrsg0V7AR+Yw/Ptzh",
   "tracks": [
     {
       "added_at": null,
@@ -87,30 +87,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
       "artists": [
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
+        },
+        {
+          "name": "Ducon",
+          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "Diomedes Chinaski",
+          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
         },
         {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 258782,
-      "name": "KGL's",
-      "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
+      "duration_ms": 471767,
+      "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
+      "url": "https://open.spotify.com/track/6gFQhcUOhNXaq965kYEdsH"
     },
     {
       "added_at": null,
@@ -163,46 +179,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica",
-        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Maria",
-          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
-        },
-        {
-          "name": "Ducon",
-          "url": "https://open.spotify.com/artist/5ZHFfmxPiRYohYVeUnOogj"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        },
-        {
-          "name": "Diomedes Chinaski",
-          "url": "https://open.spotify.com/artist/6DDTbUgrNrVcAJFVrOjmVK"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Kayu\u00e1",
-          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 471767,
-      "name": "Poesia Ac\u00fastica #2: Sobre N\u00f3s",
-      "url": "https://open.spotify.com/track/6gFQhcUOhNXaq965kYEdsH"
+      "duration_ms": 258782,
+      "name": "KGL's",
+      "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
     },
     {
       "added_at": null,

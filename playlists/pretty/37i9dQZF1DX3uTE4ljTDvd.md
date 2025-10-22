@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Larissa Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,258 likes - 60 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,268 likes - 60 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 10 | [Por Causa Dele / Está Tudo Bem \- Ao Vivo](https://open.spotify.com/track/5ULBbb84hWBUygbh4Yg53a) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Network](https://open.spotify.com/artist/5lBlzQkM3nt3oMeSLFruR3) | [Por Causa Dele / Está Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/7iDFYkgU28o1Ja8OebIcbi) | 7:24 |
 | 11 | [Emanuel](https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567) | [Atm Praise](https://open.spotify.com/artist/1bb4IKt4oYKRRXFlu2f7oN), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [JULYA](https://open.spotify.com/artist/7CUrN1sukfvTM5Yq6bSUqG) | [Emanuel](https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV) | 9:09 |
 | 12 | [Incomparável](https://open.spotify.com/track/4C4cQJRtSAQFzJkr5fXHsh) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Incomparável](https://open.spotify.com/album/2RAxcqYvInUcuemO3ck1o0) | 5:00 |
-| 13 | [Declare o Nome Dele](https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp) | [Thuanny Carvalho](https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU) | [Declare O Nome Dele](https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury) | 4:00 |
-| 14 | [Graça](https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Graça](https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47) | 5:41 |
+| 13 | [Graça](https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Graça](https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47) | 5:41 |
+| 14 | [Declare o Nome Dele](https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp) | [Thuanny Carvalho](https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU) | [Declare O Nome Dele](https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury) | 4:00 |
 | 15 | [Ter Paz](https://open.spotify.com/track/2NZPRJTWKpzcZQ2sMIRNty) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Ter Paz](https://open.spotify.com/album/6rO8TZsIW5667kvsUQkpQW) | 4:45 |
 | 16 | [Espírito, Enche a Minha Vida](https://open.spotify.com/track/6R1M5uAD1qsv5T8MIZVnFy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Espírito, Enche a Minha Vida](https://open.spotify.com/album/4qhBI2wJM9qlIoMsGLAuJU) | 4:08 |
 | 17 | [Ele Vem](https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2) | [Samuel Miranda](https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Ele Vem](https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT) | 5:59 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 44 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 | 45 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
 | 46 | [Algo Novo \(Ao Vivo\)](https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Algo Novo \(Ao Vivo\)](https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh) | 5:10 |
-| 47 | [Passos](https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw) | [Alma Soul](https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu), [Eduardo Bessa](https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr) | [Passos](https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc) | 3:34 |
-| 48 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
+| 47 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
+| 48 | [Passos](https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw) | [Alma Soul](https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu), [Eduardo Bessa](https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr) | [Passos](https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc) | 3:34 |
 | 49 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
 | 50 | [Vida Boa](https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa) | [Marllon Ribeiro](https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l) | [Vida Boa](https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F) | 4:43 |
 | 51 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |

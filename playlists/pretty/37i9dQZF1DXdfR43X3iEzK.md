@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: oklou & fka twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,099 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,100 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 74 | [SPIRALLING](https://open.spotify.com/track/4HNn8txPba0KsEND4YWhhG) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [SPIRALLING](https://open.spotify.com/album/0MVSaoHNpjIZPx8ZBjduAt) | 3:25 |
 | 75 | [Skeletons](https://open.spotify.com/track/4BqgUcV7mhUwLbO18JQrqW) | [3lijah](https://open.spotify.com/artist/0kDEuNVNp2RC9VUThcATI1) | [Skeletons](https://open.spotify.com/album/3H2EzKT4dEZmfNcRKnVAV1) | 2:41 |
 
-Snapshot ID: `AAAAACq9lecRRsxiHCOLnqDAh/PxCJN/`
+Snapshot ID: `AAAAAKhRBceo7L5SODTw71r2mvyGS6P7`

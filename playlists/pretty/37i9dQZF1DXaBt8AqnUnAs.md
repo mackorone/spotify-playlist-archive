@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,615 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,663 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 62 | [pimpei seu Estilo](https://open.spotify.com/track/2QSQJudDeUcQaZEeUt1Ot3) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [CARO Vapor II \- qual a forma de pagamento ?](https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ) | 3:09 |
 | 63 | [Invisível pt.2](https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE) | [Invisível pt.2](https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir) | 2:54 |
 | 64 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
-| 65 | [Amor Artificial](https://open.spotify.com/track/7dx2QT1CRbnag3qJUcto7Q) | [Mc Dimenor Dr](https://open.spotify.com/artist/5KDNpi3pjBAf4tKUKDvzkz), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Doctor.Villa](https://open.spotify.com/artist/3NM57oqVK4ANgNnD4pfa4K) | [Amor Artificial](https://open.spotify.com/album/4EFqJX2cHL9YdKQKf8rXeb) | 3:02 |
+| 65 | [Amor Artificial](https://open.spotify.com/track/7dx2QT1CRbnag3qJUcto7Q) | [Mc Dimenor Dr](https://open.spotify.com/artist/5KDNpi3pjBAf4tKUKDvzkz), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Doctor.Villa](https://open.spotify.com/artist/3NM57oqVK4ANgNnD4pfa4K), [akilmartii](https://open.spotify.com/artist/5FNe1rYzgtrewuFsSDS4kK) | [Amor Artificial](https://open.spotify.com/album/4EFqJX2cHL9YdKQKf8rXeb) | 3:02 |
 | 66 | [Musa do Verão](https://open.spotify.com/track/7jdZXXQ0Th0Oub1NIW2EoK) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Musa do Verão](https://open.spotify.com/album/02Gn0ZxKwgvwqqpJVm5BHw) | 2:42 |
 | 67 | [Up & Down](https://open.spotify.com/track/7gHb0WZhu9LM5ix3XPYlXq) | [Dj Lk](https://open.spotify.com/artist/4yLJVAYJPwCbhmmRMUxvk3), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Up & Down](https://open.spotify.com/album/3cYwcx5wKJmCJyyFRZmzCz) | 2:30 |
 | 68 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |

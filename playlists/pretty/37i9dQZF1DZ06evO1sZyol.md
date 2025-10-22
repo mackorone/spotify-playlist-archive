@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 
 > This is TOOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,437 likes - 35 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,499 likes - 36 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 | 33 | [Part Of Me](https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 3:17 |
 | 34 | [Intolerance](https://open.spotify.com/track/2cF1W1G0sERJu0Y49tGjnx) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 4:54 |
 | 35 | [Cold And Ugly \- Live](https://open.spotify.com/track/7ajn3mKu2DP8CoqzpHEr1d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:09 |
+| 36 | [Jerk\-Off \- Live](https://open.spotify.com/track/3jK6mKpZLZSIPZRNCYIm3Q) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:25 |
 
-Snapshot ID: `aPQqAAAAAADwLu+ABMINvEvd0FCzbFNq`
+Snapshot ID: `aPV7gAAAAAA+On7DYkQWkEFjLRltYPqj`

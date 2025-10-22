@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 宋德鶴 \(Song of Crane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,936 likes - 128 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,941 likes - 128 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 23 | [娱公移山](https://open.spotify.com/track/7xgclj3RxXvfgRERxGfdVj) | [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [乐透人生GT：即刻入戏](https://open.spotify.com/album/5cX6FkoBBnkyfxHHGl4Pxr) | 2:55 |
 | 24 | [十字路口→0 \(feat\. 阿蘭 AC\)](https://open.spotify.com/track/7BsO2u9u2QHdo1bS4Lbk57) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X), [阿蘭 AC](https://open.spotify.com/artist/4rmyrkHJMMD1i00eFs5jem) | [十字路口→0 \(feat\. 阿蘭 AC\)](https://open.spotify.com/album/0csLOutwvMh7KNP9bYNpYC) | 4:25 |
 | 25 | [兄弟人](https://open.spotify.com/track/0czmRiACRvSsWZkuLcBsfz) | [广土主任](https://open.spotify.com/artist/0gZ6cBqif4mY94tzTOOzsT) | [兄弟人](https://open.spotify.com/album/2JTdFSVMkf9Hd7GfnD6P0Q) | 4:01 |
-| 26 | [抽完這包菸我就會放下你](https://open.spotify.com/track/5KAguR1IHRz1LZZZIgcfcP) | [王泰翔 2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [抽完這包菸我就會放下你](https://open.spotify.com/album/6jD0fBhcfxieYbj3v40u0u) | 3:45 |
+| 26 | [抽完這包菸我就會放下你](https://open.spotify.com/track/5KAguR1IHRz1LZZZIgcfcP) | [王泰翔 2000wtx](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [抽完這包菸我就會放下你](https://open.spotify.com/album/6jD0fBhcfxieYbj3v40u0u) | 3:45 |
 | 27 | [刪了](https://open.spotify.com/track/1lqWsPvpHKjbhX59QBUoVc) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [刪了](https://open.spotify.com/album/5As6k7EkH3cTa5VxmXUhZT) | 4:11 |
 | 28 | [你難道就沒有想起我](https://open.spotify.com/track/0ALeZsRHeUzejvS3pAc8JT) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [你難道就沒有想起我](https://open.spotify.com/album/6OzCokXMl47MXVle6Qnven) | 4:00 |
 | 29 | [Coming Home](https://open.spotify.com/track/2HTrY5ORRhVk3r4kjyhu8Q) | [鍾綺](https://open.spotify.com/artist/0gimK5OpYkBen807XAU60s) | [Coming Home](https://open.spotify.com/album/3QnEg6oDNxIxSnrW4xiYsR) | 4:48 |

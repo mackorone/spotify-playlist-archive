@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 527093,
+  "num_followers": 527326,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Got Your Six",
         "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 206903,
       "name": "Jekyll and Hyde",
       "url": "https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 237320,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2jzqAyRGrsWrt45t5kGmfi"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1379,22 +1379,18 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
       },
       "artists": [
         {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1415,18 +1411,22 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 353986,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Battles",
-        "url": "https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 238491,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 209453,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Battles",
+        "url": "https://open.spotify.com/album/0quxU2moUfE6HGgrMg79PP"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 238491,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/7AUVdpcqbxLSCOQqKHjPx7"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        }
-      ],
-      "duration_ms": 223551,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 189347,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/10qHfyQqzsbBDwob8nk8Ol"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "duration_ms": 223551,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy"
     },
     {
       "added_at": "2025-10-03 04:00:49",
@@ -2439,38 +2439,6 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
-        "name": "Limitless",
-        "url": "https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS"
-      },
-      "artists": [
-        {
-          "name": "Any Given Day",
-          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Get That Done",
-      "url": "https://open.spotify.com/track/20RxT2FNo9eIkR4TnNoTBk"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
-        "name": "Bad Days",
-        "url": "https://open.spotify.com/album/1Ek62SOQvG4GL6oNRUErk0"
-      },
-      "artists": [
-        {
-          "name": "Nomy",
-          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
-        }
-      ],
-      "duration_ms": 200954,
-      "name": "Bad Days",
-      "url": "https://open.spotify.com/track/4qMMK5g0XoZv8uxXVmCmHf"
-    },
-    {
-      "added_at": "2025-10-03 04:00:49",
-      "album": {
         "name": "The Seventh Sun",
         "url": "https://open.spotify.com/album/6D2PpsVWo0zfgWBflimEe1"
       },
@@ -2487,6 +2455,22 @@
     {
       "added_at": "2025-10-03 04:00:49",
       "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/15TD3hgcILW2sfZjQnBBbS"
+      },
+      "artists": [
+        {
+          "name": "Any Given Day",
+          "url": "https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Get That Done",
+      "url": "https://open.spotify.com/track/20RxT2FNo9eIkR4TnNoTBk"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
         "name": "Left Alone",
         "url": "https://open.spotify.com/album/4PKf574spLkr6xETLg0pFq"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 197357,
       "name": "Erase Me",
       "url": "https://open.spotify.com/track/06om1aJnEjWpJev4Z70GYW"
+    },
+    {
+      "added_at": "2025-10-03 04:00:49",
+      "album": {
+        "name": "Bad Days",
+        "url": "https://open.spotify.com/album/1Ek62SOQvG4GL6oNRUErk0"
+      },
+      "artists": [
+        {
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
+        }
+      ],
+      "duration_ms": 200954,
+      "name": "Bad Days",
+      "url": "https://open.spotify.com/track/4qMMK5g0XoZv8uxXVmCmHf"
     }
   ],
   "unique_name": "Energy Booster: Metal",

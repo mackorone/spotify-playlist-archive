@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 73556,
+  "num_followers": 73582,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAACp8VU8yOmnzEo6MnKR+G3x",
+  "snapshot_id": "aPV7gAAAAABmUUFaaQzvcIEoZPtDJgj/",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Polo Norte",
-        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 203180,
-      "name": "Cita con un Invento",
-      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Rancheras",
         "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 179400,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
     },
     {
       "added_at": null,
@@ -543,26 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Vas Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS"
+        "name": "No volver\u00e9",
+        "url": "https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Banda 89",
+          "url": "https://open.spotify.com/artist/6obOm55X77MaT63vvPielg"
         },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 137555,
-      "name": "Te Vas Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
+      "duration_ms": 160533,
+      "name": "No volver\u00e9",
+      "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
     },
     {
       "added_at": null,
@@ -583,22 +579,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No volver\u00e9",
-        "url": "https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn"
+        "name": "Te Vas Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS"
       },
       "artists": [
         {
-          "name": "Banda 89",
-          "url": "https://open.spotify.com/artist/6obOm55X77MaT63vvPielg"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
           "name": "El Coyote Y Su Banda Tierra Santa",
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 160533,
-      "name": "No volver\u00e9",
-      "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
+      "duration_ms": 137555,
+      "name": "Te Vas Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "El Muchacho Alegre",
-      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alguien Dijo",
         "url": "https://open.spotify.com/album/7hchsfuOEnlS3RZJDlZiLI"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 137887,
       "name": "Alguien Dijo",
       "url": "https://open.spotify.com/track/66NFHHcWEEcKLfwhYzdtDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 121600,
-      "name": "Rifare Mi Suerte",
-      "url": "https://open.spotify.com/track/2bBB6rAdCjODuUdJrCARIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encerrado",
         "url": "https://open.spotify.com/album/4JVfUUu3vUOSmJUcAXPojc"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 186620,
       "name": "Encerrado",
       "url": "https://open.spotify.com/track/0hfttS4hquzQZLZ38jwd66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 121600,
+      "name": "Rifare Mi Suerte",
+      "url": "https://open.spotify.com/track/2bBB6rAdCjODuUdJrCARIj"
     },
     {
       "added_at": null,

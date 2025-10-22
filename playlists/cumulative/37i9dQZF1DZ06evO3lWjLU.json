@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 149834,
       "name": "Medio friends",
       "url": "https://open.spotify.com/track/1WpWQJnnZL8qGNOUoF1wE9"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 130588,
       "name": "Ojala",
       "url": "https://open.spotify.com/track/6Boai8zLsZZG2AEHnlLXqj"
@@ -1587,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130968,
+      "name": "Priti",
+      "url": "https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1"
+    },
+    {
+      "album": {
         "name": "Priti",
         "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
       },
@@ -1602,7 +1624,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-22",
       "duration_ms": 130968,
       "name": "Priti",
       "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"

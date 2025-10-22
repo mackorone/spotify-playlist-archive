@@ -1,12 +1,12 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 169113,
+  "num_followers": 169101,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5V44814M3JCGEE4Z6LpJiMHfK9",
+  "snapshot_id": "AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n",
   "tracks": [
     {
       "added_at": "2025-10-09 22:00:27",
@@ -99,6 +99,22 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
+      },
+      "artists": [
+        {
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+        }
+      ],
+      "duration_ms": 148095,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/38siYOqyNabvKqGmmermGx"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 151153,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3uXUraey5i1oKa3yYnOTia"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
-      },
-      "artists": [
-        {
-          "name": "Jorden Dux",
-          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
     },
     {
       "added_at": "2025-10-09 22:00:27",
@@ -491,7 +491,7 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Say You'll Stay",
+        "name": "Say You'll Stay (ERIICE Remix)",
         "url": "https://open.spotify.com/album/4mPJTjfFfZGZIVqotnSNko"
       },
       "artists": [
@@ -505,7 +505,7 @@
         }
       ],
       "duration_ms": 167603,
-      "name": "Say You'll Stay",
+      "name": "Say You'll Stay - ERIICE Remix",
       "url": "https://open.spotify.com/track/4YSFy8kCk4YLq5ZnAaZgaP"
     },
     {
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-10-09 22:00:27",
       "album": {
-        "name": "Can't Feel A Thing",
-        "url": "https://open.spotify.com/album/1nSjDSFmETfYmILvVfei2N"
-      },
-      "artists": [
-        {
-          "name": "SAINT.",
-          "url": "https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK"
-        }
-      ],
-      "duration_ms": 177015,
-      "name": "Can't Feel A Thing",
-      "url": "https://open.spotify.com/track/014EX41gXtJeAHXq5JK9hN"
-    },
-    {
-      "added_at": "2025-10-09 22:00:27",
-      "album": {
         "name": "Blood & Bones",
         "url": "https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 192857,
       "name": "Blood & Bones",
       "url": "https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua"
+    },
+    {
+      "added_at": "2025-10-09 22:00:27",
+      "album": {
+        "name": "Can't Feel A Thing",
+        "url": "https://open.spotify.com/album/1nSjDSFmETfYmILvVfei2N"
+      },
+      "artists": [
+        {
+          "name": "SAINT.",
+          "url": "https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK"
+        }
+      ],
+      "duration_ms": 177015,
+      "name": "Can't Feel A Thing",
+      "url": "https://open.spotify.com/track/014EX41gXtJeAHXq5JK9hN"
     },
     {
       "added_at": "2025-10-09 22:00:27",

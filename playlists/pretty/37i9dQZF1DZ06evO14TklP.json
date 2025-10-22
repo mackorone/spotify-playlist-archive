@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 16592,
+  "num_followers": 16608,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAC2q6ZkmSY00wCOBHafzd54",
+  "snapshot_id": "aPV7gAAAAADKMpkjEZoD9YgPb7KEgBmV",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ca$h Ca$h",
         "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 184519,
       "name": "Ca$h Ca$h",
       "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 163970,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
     },
     {
       "added_at": null,
@@ -892,17 +892,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 169590,
-      "name": "Flat",
-      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,
@@ -1000,17 +1000,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
         },
         {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
     },
     {
       "added_at": null,

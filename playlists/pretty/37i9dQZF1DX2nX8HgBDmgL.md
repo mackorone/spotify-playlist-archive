@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Faheem Abdullah
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,440 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,529 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Teri Yaad](https://open.spotify.com/track/1IbvCWzAbzUle559VXyvLy) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt), [Zia](https://open.spotify.com/artist/0DsXhM2h3rIODiAxuLOb6q) | [Teri Yaad](https://open.spotify.com/album/38ea1ME7inmtnwok4cQSO0) | 4:53 |
-| 2 | [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp), [Dharamveer Manglaani](https://open.spotify.com/artist/2Spk5c2VWJXkag2XVplVHg) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 |
+| 2 | [Nashe Me Hun](https://open.spotify.com/track/0mWYexF10TClNnseYf009u) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 3:27 |
 | 3 | [For A Reason](https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:00 |
 | 4 | [Kanwal](https://open.spotify.com/track/1ZriJmDC61hn2z2eajgooI) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Kanwal](https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG) | 3:14 |
 | 5 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 |

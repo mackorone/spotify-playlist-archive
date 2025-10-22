@@ -1,12 +1,12 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 773,
+  "num_followers": 778,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEQd/Q/mg6ag5eWBY8AXx2F/5tpmGU",
+  "snapshot_id": "AAAERePBYBdSJXsIoPtJbYHYOQhGYjvS",
   "tracks": [
     {
       "added_at": "2025-10-19 07:23:48",
@@ -23,6 +23,38 @@
       "duration_ms": 138017,
       "name": "TUMMY",
       "url": "https://open.spotify.com/track/5knoabT77wyCXAq1dYGQco"
+    },
+    {
+      "added_at": "2025-10-22 03:58:24",
+      "album": {
+        "name": "ALLORNOTHING",
+        "url": "https://open.spotify.com/album/3cx10yx8jmSZfKo2PZefBO"
+      },
+      "artists": [
+        {
+          "name": "Can of Bliss",
+          "url": "https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT"
+        }
+      ],
+      "duration_ms": 210771,
+      "name": "NOBODYKNOWS",
+      "url": "https://open.spotify.com/track/5CDrXgKT7XQGxAQwyBsMeP"
+    },
+    {
+      "added_at": "2025-10-21 05:37:01",
+      "album": {
+        "name": "Transition",
+        "url": "https://open.spotify.com/album/0yLVOZENiBCvvMwQgFgkpz"
+      },
+      "artists": [
+        {
+          "name": "FC5",
+          "url": "https://open.spotify.com/artist/47hsVCed460MN0dlFs1BOq"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Transition",
+      "url": "https://open.spotify.com/track/5MlzFcBuzxc5crLmzjICHn"
     },
     {
       "added_at": "2023-06-14 17:34:16",
@@ -357,22 +389,6 @@
       "url": "https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy"
     },
     {
-      "added_at": "2025-09-19 07:47:39",
-      "album": {
-        "name": "my teeth will free you",
-        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
-      },
-      "artists": [
-        {
-          "name": "sixwing",
-          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
-        }
-      ],
-      "duration_ms": 289154,
-      "name": "dogwhistle",
-      "url": "https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx"
-    },
-    {
       "added_at": "2025-09-01 05:50:38",
       "album": {
         "name": "Kill Me",
@@ -467,6 +483,22 @@
       "duration_ms": 162008,
       "name": "Energy Drink",
       "url": "https://open.spotify.com/track/6T8KeH4lZDTnQeaxRkTwTn"
+    },
+    {
+      "added_at": "2025-09-19 07:47:39",
+      "album": {
+        "name": "my teeth will free you",
+        "url": "https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR"
+      },
+      "artists": [
+        {
+          "name": "sixwing",
+          "url": "https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV"
+        }
+      ],
+      "duration_ms": 289154,
+      "name": "dogwhistle",
+      "url": "https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx"
     },
     {
       "added_at": "2025-08-24 23:17:21",

@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-459 songs - 1 day 0 hr 56 min
+461 songs - 1 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-06-21 | 2024-11-18 |
 | [ATHLETIC GIRL](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [ATHLETIC GIRL](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 | 2022-01-11 | 2022-04-21 |
 | [Attention](https://open.spotify.com/track/7FmMYtdjfJSeZjC2e2Pt6t) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:44 | 2021-12-28 | 2022-04-09 |
-| [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-04-05 |  |
+| [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-04-05 | 2025-10-22 |
 | [BAD LOVE](https://open.spotify.com/track/7B8JKfqm63AO8MCHFO3pIb) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [BAD LOVE \- The 1st Mini Album](https://open.spotify.com/album/3GYaEvJ62wVs6NSYNOmKKH) | 3:25 | 2021-12-06 | 2022-05-11 |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2024-03-27 | 2024-04-19 |
 | [BANANA CHACHA Acoustic](https://open.spotify.com/track/3qs3ViQCVkiOa6xETGxWnx) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BANANA CHACHA Acoustic](https://open.spotify.com/album/2Eqqh9P0qrTxQq4vxbHZYd) | 2:13 | 2021-12-06 | 2022-04-19 |
@@ -250,6 +250,7 @@
 | [Lucky \(feat\. HANHAE\)](https://open.spotify.com/track/4cap8r3pvNFqLoenkZTNjw) | [KittiB](https://open.spotify.com/artist/3inqDrxKHZeWUvf8RHbJ6t), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [Lucky \(feat\. HANHAE\)](https://open.spotify.com/album/1QjLsDOBr7h9FKS37YpXci) | 3:02 | 2022-10-03 | 2022-10-15 |
 | [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 2:39 | 2021-12-06 | 2023-09-22 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-27 |  |
+| [Mamma Mia](https://open.spotify.com/track/5mxBUe5ycmUiUkDaLC5yVI) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG) | 2:39 | 2025-10-21 |  |
 | [Mangue 망고](https://open.spotify.com/track/5pSYu3LUUcWgc4xTxyX3Pi) | [BlackDoe](https://open.spotify.com/artist/41yz92BDilStKRfo5xJYik), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Mangue 망고](https://open.spotify.com/album/5dgreGubJZdlHRY1aMGkfX) | 3:14 | 2022-02-28 | 2022-04-25 |
 | [Mattress](https://open.spotify.com/track/7f5P2kfP16dELU9TOB53pL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Mattress](https://open.spotify.com/album/0w3iZw82n1QCdMq6H4BKBZ) | 2:50 | 2021-12-28 | 2022-04-21 |
 | [Maybe Love \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/2e9FxFUXA7aMG83FbtKGOv) | [David Yong](https://open.spotify.com/artist/057st5Jqv9uVqmX3Hsn8KY), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Maybe Love](https://open.spotify.com/album/6qRcx0YZEneezi5FtwLiJN) | 3:20 | 2023-04-26 | 2023-05-24 |
@@ -318,7 +319,7 @@
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2024-03-27 | 2024-04-19 |
 | [SAINT](https://open.spotify.com/track/4auMua2dpYAQge1UGMiBnP) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [SAINT](https://open.spotify.com/album/7p5Nfjf6G1SC4xveOYrmHc) | 2:59 | 2024-06-21 | 2024-07-19 |
 | [Sangsu station](https://open.spotify.com/track/1xvSbNUKm3Ig7LkguLSFO4) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [THIRSTY](https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO) | 3:07 | 2021-12-06 | 2022-05-17 |
-| [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-06 |  |
+| [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2021-12-06 | 2025-10-22 |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2022-07-04 | 2024-03-28 |
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-12-06 | 2022-07-25 |
 | [Second \(feat\. BIBI\)](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Second](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) | 3:38 | 2021-12-06 | 2022-07-21 |
@@ -432,6 +433,7 @@
 | [Wakey Wakey](https://open.spotify.com/track/7ie3z8INSG550mxkjOqavT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [WAJANGCHANG](https://open.spotify.com/album/2ktH2zzm2Jbu8Gq7ISN5oN) | 2:40 | 2025-05-02 | 2025-05-16 |
 | [WANT \(feat\. Q THE TRUMPET\)](https://open.spotify.com/track/3i077utdeWTvbkpJf2OjYr) | [OVCOCO](https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght), [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [WANT \(feat\. Q THE TRUMPET\)](https://open.spotify.com/album/23DTCECWN0O50B33gVIbKl) | 3:09 | 2022-03-23 | 2022-04-13 |
 | [Warning \(Feat\. lIlBOI\)](https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:28 | 2021-12-06 | 2022-07-28 |
+| [WE GO UP](https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 3:06 | 2025-10-21 |  |
 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-12-06 | 2022-08-16 |
 | [What about you 기적](https://open.spotify.com/track/0hrdSd1bwRoNEe6KP5Q2g5) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [What about you 기적](https://open.spotify.com/album/1AnF7AYM6J4rYIrd3OU6GU) | 4:14 | 2022-03-23 | 2022-04-17 |
 | [what is life?](https://open.spotify.com/track/45O9E7K3A2nPSAfe3hI36E) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 3:10 | 2022-03-08 | 2022-07-28 |

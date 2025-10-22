@@ -4,7 +4,7 @@
 
 > 🤝
 
-186 songs - 8 hr 42 min
+187 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Låt Mig Va](https://open.spotify.com/track/7MnietXFwPdKk3QhlxzgwR) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa), [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Låt Mig Va](https://open.spotify.com/album/7DuBr9drXCvHzsNoiyiw8s) | 2:52 | 2025-09-18 | 2025-10-17 |
 | [MACHIAVELLI](https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Due](https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx) | [MACHIAVELLI](https://open.spotify.com/album/16nEPTjTPhoBpqGjzT1KDh) | 3:16 | 2025-08-07 | 2025-08-15 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-06-27 | 2024-09-13 |
-| [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 | 2025-02-06 |  |
+| [Matilda](https://open.spotify.com/track/4dES0Jkiasmrch4WZFAtzq) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Matilda](https://open.spotify.com/album/0zGT9axGA9QpF0A0opS26M) | 2:14 | 2025-02-06 | 2025-10-22 |
 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 | 2025-05-01 |  |
 | [Narco Freestyle](https://open.spotify.com/track/6abCeotQ2T6eFP2zTjW7WN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Narco Freestyle](https://open.spotify.com/album/5sbWMsirtJm5whDYeWqDLv) | 2:22 | 2025-02-27 | 2025-04-14 |
 | [NEPOBABY](https://open.spotify.com/track/2T137G2j4il2iSc2md900S) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:08 | 2024-10-24 | 2025-01-17 |
@@ -132,6 +132,7 @@
 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 | 2025-06-26 |  |
 | [PRTY](https://open.spotify.com/track/5KXGFjw48liIgAqTMv3jfs) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [PRTY](https://open.spotify.com/album/6sQANND4JzoOmXQ9Ymq7Yy) | 2:07 | 2025-01-23 | 2025-05-30 |
 | [push me over](https://open.spotify.com/track/4APakyNxphnhzMWutMzLWX) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Intermission](https://open.spotify.com/album/4AArez9tyeiLb4TZuf8Y5c) | 3:36 | 2024-08-01 | 2024-08-16 |
+| [Pust i bakken](https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Pust i bakken](https://open.spotify.com/album/7ueGnow0PO4JXVzw6Qz5yr) | 2:43 | 2025-10-16 |  |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-15 | 2024-08-30 |
 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 | 2024-09-19 | 2024-12-08 |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-06-27 |  |

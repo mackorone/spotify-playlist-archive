@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 633499,
+  "num_followers": 633564,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADo6WXO9AZFxhjr4hkT9C0b",
+  "snapshot_id": "aPV7gAAAAAC7Z81YVIk680d1hgW3Smbo",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 218006,
-      "name": "I Wanna Dance With Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 212990,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 218006,
+      "name": "I Wanna Dance With Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/78Liq9m8u6xjuamJIeznTd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 362758,
       "name": "Hold Me (with Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Look To You",
-        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Million Dollar Bill",
-      "url": "https://open.spotify.com/track/78Liq9m8u6xjuamJIeznTd"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Queen of the Night - Radio Edit",
-      "url": "https://open.spotify.com/track/7lARcL3Gu0wKcPcQ3t9xiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 219946,
       "name": "I Didn't Know My Own Strength",
       "url": "https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Queen of the Night - Radio Edit",
+      "url": "https://open.spotify.com/track/7lARcL3Gu0wKcPcQ3t9xiF"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 248266,
       "name": "Call You Tonight",
       "url": "https://open.spotify.com/track/16U3RJaytxelZKAVWMAsH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "Same Script, Different Cast",
-      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Look To You",
         "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 229733,
       "name": "Like I Never Left (feat. Akon)",
       "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Same Script, Different Cast",
+      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Your Baby Tonight",
+        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 289733,
+      "name": "Lover for Life",
+      "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitney The Greatest Hits",
         "url": "https://open.spotify.com/album/4d3weCRQiZuheU5MB9hYAP"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 260000,
       "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
       "url": "https://open.spotify.com/track/0xUUGElClB0LXZgdmavavN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Your Baby Tonight",
-        "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 289733,
-      "name": "Lover for Life",
-      "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
     },
     {
       "added_at": null,

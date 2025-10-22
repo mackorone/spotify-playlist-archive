@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,983 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,010 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 9 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
 | 10 | [6 Feet Under](https://open.spotify.com/track/41n5NNDfMFv9nhSutXMXPX) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Coydog](https://open.spotify.com/album/07XhF0Jlpkb0jCey7j9Tsn) | 3:30 |
 | 11 | [Keep Love Waiting](https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [BLINK](https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF) | 3:57 |
-| 12 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 12 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 13 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 14 | [PT Cruiser](https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [PT Cruiser](https://open.spotify.com/album/466dbk7Myb4b5ptqAFwrGv) | 3:44 |
 | 15 | [Greed](https://open.spotify.com/track/6SeKBq8l79WLvnDWQDd3GZ) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [SOLACE](https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ) | 3:32 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 20 | [Leavin](https://open.spotify.com/track/7Lo6USa0PiDkwSL3SkohSi) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Leavin](https://open.spotify.com/album/3vz6TtkNMj2rdOIsJsTA3I) | 2:48 |
 | 21 | [Hard Run \(feat\. Marcus King\)](https://open.spotify.com/track/2PuHkNUv5OSpNdY4FN0zZG) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Hard Run \(feat\. Marcus King\)](https://open.spotify.com/album/70PRo84253KIh13gwGnocD) | 4:03 |
 | 22 | [split](https://open.spotify.com/track/1fOC4P7RelbWK4FcxcATuf) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [i feel everything](https://open.spotify.com/album/2WbgQIggT3i5OUr94vlcUT) | 3:10 |
-| 23 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
+| 23 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 24 | [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 |
 | 25 | [la vuelta](https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [la vuelta](https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD) | 3:19 |
 | 26 | [SAN ANDREAS](https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SAN ANDREAS](https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo) | 2:00 |

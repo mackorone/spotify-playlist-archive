@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: jisokuryClub\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Song Sohee\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,131 songs - 2 day 20 hr 38 min
+1,134 songs - 2 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 | 2024-04-04 | 2024-11-07 |
 | [Burning Sunset](https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Burning Sunset](https://open.spotify.com/album/7GVOpghNRIDiEIh2M8vEJT) | 3:38 | 2021-12-21 | 2024-11-07 |
 | [BUTTERFLY](https://open.spotify.com/track/2XA9T2vdhFBAVw1VxZ7DcK) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BUTTERFLY](https://open.spotify.com/album/6zBNYykxlqDalGHwz0pWLQ) | 3:08 | 2022-03-31 | 2022-04-09 |
-| [By Your Side](https://open.spotify.com/track/67u5UiXuljYrr34iFGoXG6) | [Baeksik](https://open.spotify.com/artist/6ZBi6tKlLbqzIQJinKMKWz) | [By Your Side](https://open.spotify.com/album/5mxJr0QIIZmMPbw4J5cgMQ) | 3:21 | 2025-09-18 |  |
+| [By Your Side](https://open.spotify.com/track/67u5UiXuljYrr34iFGoXG6) | [Baeksik](https://open.spotify.com/artist/6ZBi6tKlLbqzIQJinKMKWz) | [By Your Side](https://open.spotify.com/album/5mxJr0QIIZmMPbw4J5cgMQ) | 3:21 | 2025-09-18 | 2025-10-22 |
 | [Bye my night](https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Bye my night](https://open.spotify.com/album/4kMdU0vmbR1L8ffVa97Zng) | 3:54 | 2025-08-18 | 2025-10-03 |
 | [c a c t u s s m u g g l e r](https://open.spotify.com/track/0kAVuSxArLGBy450zdfYPv) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-OXYGEN](https://open.spotify.com/album/5lehCVJHqa65UdRdXrmu3h) | 5:25 | 2024-04-30 | 2024-05-10 |
 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 | 2021-12-21 | 2024-05-01 |
@@ -183,7 +183,7 @@
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
 | [CORPUS 0](https://open.spotify.com/track/0boGx65PACZNyIq7mv7trr) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [CORPUS 0](https://open.spotify.com/album/4NcOWtOHeayLunvnHBdQKx) | 4:50 | 2025-05-26 | 2025-06-27 |
 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 | 2025-09-02 |  |
-| [Count Million](https://open.spotify.com/track/0ywsLtlqi9ayRRIhKbZ6rx) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [HELIX](https://open.spotify.com/album/5ZuFT090sFnBjaP3kffPhl) | 2:43 | 2025-09-11 |  |
+| [Count Million](https://open.spotify.com/track/0ywsLtlqi9ayRRIhKbZ6rx) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [HELIX](https://open.spotify.com/album/5ZuFT090sFnBjaP3kffPhl) | 2:43 | 2025-09-11 | 2025-10-22 |
 | [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-04 | 2024-09-11 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [Trophy Cat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2021-12-21 | 2022-07-25 |
 | [Cry For Me](https://open.spotify.com/track/2y1SIAGlhU7qgwaYJ3nHP4) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Cry For Me](https://open.spotify.com/album/0lN99kXjTbq6mUgmT2Agnr) | 3:20 | 2024-11-20 | 2024-12-11 |
@@ -379,6 +379,7 @@
 | [GYEONG](https://open.spotify.com/track/2GzQoLY9dtkfdIZFNhn9RI) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [GYEONG](https://open.spotify.com/album/3xjvLLvqETukRNPTeC2y84) | 4:29 | 2025-08-11 | 2025-09-03 |
 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-28 | 2025-07-23 |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-04-30 | 2024-06-17 |
+| [Hamba Kahle](https://open.spotify.com/track/314EYx2dRG3rTJWdATgmPW) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Re:5](https://open.spotify.com/album/0KJIqvPwmAu5tVzbYHhige) | 3:30 | 2025-10-21 |  |
 | [Hanagae](https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Hanagae](https://open.spotify.com/album/69ojcNwWWhvRkaTxxdFkGY) | 3:13 | 2021-12-12 | 2022-07-20 |
 | [Hand](https://open.spotify.com/track/6WbBMCJjrOzpur6T7czLrK) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:51 | 2024-10-04 | 2024-10-16 |
 | [Hangang \(feat\. heyden\)](https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Hangang](https://open.spotify.com/album/0bPdAOUP9WXFrTcM9S8PMU) | 3:02 | 2025-07-23 | 2025-09-10 |
@@ -403,7 +404,7 @@
 | [HEY NERD!](https://open.spotify.com/track/3xMIKY0B2Xf2oQq6q5Wnmk) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c) | [HEY NERD!](https://open.spotify.com/album/2LCGy5OIlEjAmflbs0vX7X) | 2:49 | 2025-09-01 | 2025-10-10 |
 | [Hide into Night](https://open.spotify.com/track/1RoGU1kkQRvZfOR4ByJ5rT) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Hide into Night](https://open.spotify.com/album/2n2pZcNw16mYduK2RlJMBV) | 4:08 | 2023-01-10 | 2023-01-26 |
 | [Hiding](https://open.spotify.com/track/1UFH9pNVxqP1CagvE6WlOZ) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Hiding](https://open.spotify.com/album/4wrORPrvlyBuk89PzxI4Fe) | 3:03 | 2025-08-26 | 2025-09-25 |
-| [High Journey](https://open.spotify.com/track/3komypzGQmNIR2pfMtaGL2) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [High Journey](https://open.spotify.com/album/7kgl6iVZ3uLAFWWbD7q2QP) | 3:49 | 2025-09-11 |  |
+| [High Journey](https://open.spotify.com/track/3komypzGQmNIR2pfMtaGL2) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [High Journey](https://open.spotify.com/album/7kgl6iVZ3uLAFWWbD7q2QP) | 3:49 | 2025-09-11 | 2025-10-22 |
 | [Highway](https://open.spotify.com/track/0i5SCHuolYUF6IANrb8Dfb) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Highway](https://open.spotify.com/album/0LkUIcYk2Nu8tjbNiBygpF) | 3:03 | 2022-03-31 | 2022-07-03 |
 | [Hodogaya](https://open.spotify.com/track/3LzdzU6EL9iEwLVFbrESuW) | [Seo Jin](https://open.spotify.com/artist/3c0or5ckHUpDQkg6T36a7u) | [Hodogaya](https://open.spotify.com/album/16SHQnvN4mUmLWBp3w1BBe) | 3:35 | 2024-11-06 | 2024-12-20 |
 | [Hold Me Like It’s Forever](https://open.spotify.com/track/6QZJTunvjAU44kpXzDNXzn) | [Fromm](https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3), [Car](https://open.spotify.com/artist/4IwZDPPzFIVVN2DSVudIZO), [The Garden](https://open.spotify.com/artist/60OalAUIgelvXUGPkrFm6O) | [Midnight Candy](https://open.spotify.com/album/6jU28TIxDs4HEkaJ4ea2zO) | 3:03 | 2022-04-12 | 2022-07-24 |
@@ -640,6 +641,7 @@
 | [My shadow](https://open.spotify.com/track/7r2cTynIUPlmlAo0R5NZP5) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [THIRSTY](https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO) | 4:47 | 2022-01-27 | 2022-07-19 |
 | [My Single Bed](https://open.spotify.com/track/4X6G3IRC2grJC5aXUwllgA) | [Land of Peace](https://open.spotify.com/artist/5k0xHB7GIhrTwAAK9wWtfg) | [My Single Bed](https://open.spotify.com/album/73uIXfYWEqZnALgPCPq9Ra) | 4:42 | 2022-04-12 | 2022-04-15 |
 | [My Spring 나의 봄](https://open.spotify.com/track/4rUy3pIN5GqvGyAUJ43ZFP) | [no reply](https://open.spotify.com/artist/0vDKj2G8ADlhR5aM7BfeUL), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [My Spring 나의 봄](https://open.spotify.com/album/4n0GVSSyL5607USoObqcLX) | 3:28 | 2022-04-12 | 2022-04-15 |
+| [My star](https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [My star](https://open.spotify.com/album/1qlznH1GRH7VBXxd1AZ9Xs) | 3:14 | 2025-10-21 |  |
 | [My Trouble](https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [My Trouble](https://open.spotify.com/album/6ZTQpZMX8i1RMzq2S27OuY) | 3:17 | 2022-03-31 | 2022-04-04 |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-05 | 2022-07-09 |
 | [Name 이름](https://open.spotify.com/track/4CQhnpPfX9mX14VZlXI0q2) | [Azzul 아줄](https://open.spotify.com/artist/5nuzNvC1OBb7iFQMttCDGX) | [Afterimages 잔상들](https://open.spotify.com/album/3Su8wjhHX8RGeP6QgCUvkC) | 4:37 | 2022-03-31 | 2022-04-18 |
@@ -857,6 +859,7 @@
 | [Somebody](https://open.spotify.com/track/0XLORO8d7WV66y49E7bxrI) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Somebody](https://open.spotify.com/album/2PAEA9SgGyEu2fjuqvUyzM) | 3:58 | 2021-12-12 | 2022-07-07 |
 | [Someday](https://open.spotify.com/track/45QwxuJHU1ZkJrgAPcvBND) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Contact Information](https://open.spotify.com/album/6esC0qAVXhz5mlFZQZTHIb) | 3:51 | 2022-04-12 | 2022-04-19 |
 | [Someday We Will](https://open.spotify.com/track/12Uv1vygmATfzGCXOK2rMx) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Someday We Will](https://open.spotify.com/album/35m5DoRR3ovZpkFIca0ZnB) | 4:02 | 2025-08-29 |  |
+| [Someday, With You Again](https://open.spotify.com/track/3zCpxJLcDmmfklrBvfk5Bn) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Someday, With You Again](https://open.spotify.com/album/6DgOYZr2IYEtyhz623SFcY) | 3:42 | 2025-10-21 |  |
 | [Someone Like You](https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Someone Like You](https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M) | 3:20 | 2022-03-31 | 2022-05-14 |
 | [Someone 누군가에게](https://open.spotify.com/track/5fDAZCEKQztxEEmmqCZI76) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Romance 로맨스](https://open.spotify.com/album/2LH6ABi0a86HRVhZHHEx6n) | 3:40 | 2021-12-12 | 2022-07-29 |
 | [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-04-30 | 2024-05-10 |

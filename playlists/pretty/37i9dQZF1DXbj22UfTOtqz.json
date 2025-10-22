@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del Hip Hop para toda la familia a disfrutar.",
-  "num_followers": 15179,
+  "num_followers": 15187,
   "original_name": "Historia del Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2021-04-21 17:09:31",
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
+      },
+      "artists": [
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        },
+        {
+          "name": "True Image",
+          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "It's a Shame (My Sister)",
+      "url": "https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/5wB26siHPt7fbEeUoZU5j7"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/2C0Y5RUvreuiElhHuce9Rv"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
-      },
-      "artists": [
-        {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        },
-        {
-          "name": "True Image",
-          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "It's a Shame (My Sister)",
-      "url": "https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt"
     },
     {
       "added_at": "2021-04-21 17:09:31",

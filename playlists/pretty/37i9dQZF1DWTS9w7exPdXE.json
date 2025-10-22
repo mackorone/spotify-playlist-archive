@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 153120,
+  "num_followers": 153145,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-09-04 22:00:28",
       "album": {
+        "name": "Danny de Munk",
+        "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
+      },
+      "artists": [
+        {
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Mijn Stad",
+      "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
+    },
+    {
+      "added_at": "2025-09-04 22:00:28",
+      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 171508,
       "name": "Pa Olvidarte",
       "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
-    },
-    {
-      "added_at": "2025-09-04 22:00:28",
-      "album": {
-        "name": "Danny de Munk",
-        "url": "https://open.spotify.com/album/0oazIvYOYrutl6TO2ovJle"
-      },
-      "artists": [
-        {
-          "name": "Danny De Munk",
-          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Mijn Stad",
-      "url": "https://open.spotify.com/track/7oJu3A0kZM8t7xCi0WQIqI"
     },
     {
       "added_at": "2025-09-04 22:00:28",

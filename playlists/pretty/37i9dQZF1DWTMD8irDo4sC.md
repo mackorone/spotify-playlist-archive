@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,049 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,059 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/2FCybmEGNqquzBkIGO9RNX) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/album/4p8NJD3gKxyABRJmg55AfY) | 3:19 |
 | 70 | [Ella Enta \- Live Session](https://open.spotify.com/track/0O1Fa5JhUMU0n8AInGOCk9) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ella Enta \(Live Session\)](https://open.spotify.com/album/6s8leDjyyr6rUPpu2Qu0ds) | 4:08 |
 
-Snapshot ID: `AAAAACaK/K9+pSjL4wXdtICpVox5ly/1`
+Snapshot ID: `AAAAAChm9oC+ni/DicpezaM8YkksycHp`

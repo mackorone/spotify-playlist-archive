@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 62390,
+  "num_followers": 62397,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADRHXkM2JxJAq7qeBsCoanA",
+  "snapshot_id": "aPV7gAAAAAD5HGNAgdzTc4/PZlkPR9e0",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "El Tarasco - En Vivo",
-      "url": "https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 224801,
       "name": "Los Consentidos De Don Chuy",
       "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "El Tarasco - En Vivo",
+      "url": "https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+        "name": "Con La Tierra Encima",
+        "url": "https://open.spotify.com/album/5fi4wC96OxrPAPi6Q2aom8"
       },
       "artists": [
         {
@@ -808,17 +808,13 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         },
         {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+          "name": "Ra\u00fal Hern\u00e1ndez Jr.",
+          "url": "https://open.spotify.com/artist/5z31c3mbByOIgXn6B8GffX"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+      "duration_ms": 188478,
+      "name": "Con La Tierra Encima",
+      "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
     },
     {
       "added_at": null,
@@ -839,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Tierra Encima",
-        "url": "https://open.spotify.com/album/5fi4wC96OxrPAPi6Q2aom8"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
       "artists": [
         {
@@ -848,13 +844,17 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         },
         {
-          "name": "Ra\u00fal Hern\u00e1ndez Jr.",
-          "url": "https://open.spotify.com/artist/5z31c3mbByOIgXn6B8GffX"
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
         }
       ],
-      "duration_ms": 188478,
-      "name": "Con La Tierra Encima",
-      "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
+      "duration_ms": 219093,
+      "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
     },
     {
       "added_at": null,

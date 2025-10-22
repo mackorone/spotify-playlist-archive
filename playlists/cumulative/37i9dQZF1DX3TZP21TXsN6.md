@@ -2,7 +2,7 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: Rockywhereyoubeen, FOCUS, Foncé, Sepa en meer
+> Nieuw: FOCUS, Foncé, Sepa en meer
 
 190 songs - 8 hr 12 min
 
@@ -27,7 +27,7 @@
 | [All Those Times](https://open.spotify.com/track/6fz4lBZC6GI90IMyVcwu8g) | [Bully](https://open.spotify.com/artist/29ntaqCLHlZZ4X6KiW7mLm), [City Churches District](https://open.spotify.com/artist/4GHJjMa8cCUrQ8qoNNG2wG), [mawa](https://open.spotify.com/artist/6noIg5cD1Do5zFxvnJQzU5) | [All Those Times](https://open.spotify.com/album/0RzWZbUgyVTlc03h8ewJKY) | 3:32 | 2025-10-09 |  |
 | [ALLES IN BEDRIJF](https://open.spotify.com/track/2B6ZFqjSJgKDxMKAmRNZGB) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Julez BP](https://open.spotify.com/artist/5lLXpM8NZjZZyks9IXbaZq) | [ALLES IN BEDRIJF](https://open.spotify.com/album/7hqe2CbKawPoE4eJzLQmhB) | 2:45 | 2025-10-09 |  |
 | [ARMAÇÃO DE PERA](https://open.spotify.com/track/4P25vGhmBOuxlRyzuw79hV) | [Lavinnio](https://open.spotify.com/artist/4iJcUwlYdqkwZNVEiCJAYt) | [ARMAÇÃO DE PERA](https://open.spotify.com/album/6RQbeUovleFoWxk1epnHml) | 2:32 | 2025-10-02 |  |
-| [AUDI](https://open.spotify.com/track/2z4aCFqMlVPR4mFRLBYQsI) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [AUDI](https://open.spotify.com/album/5eqqiWRn7PWdM02BBbVqNM) | 2:06 | 2025-10-16 |  |
+| [AUDI](https://open.spotify.com/track/2z4aCFqMlVPR4mFRLBYQsI) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [AUDI](https://open.spotify.com/album/5eqqiWRn7PWdM02BBbVqNM) | 2:06 | 2025-10-16 | 2025-10-22 |
 | [AURA \(1000+\)](https://open.spotify.com/track/4hPBfytslW7KPfJsJa9ymp) | [BVAM](https://open.spotify.com/artist/6yqcAC4P0mOLAUvww9bOg8) | [AURA \(1000+\)](https://open.spotify.com/album/3LdZSJC13PJk5j78Yz6VmK) | 2:30 | 2025-09-15 |  |
 | [Ay Si](https://open.spotify.com/track/4Lt6YTpQKTJvVzme9eUTAM) | [Yenko Forever](https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN), [OwenSW](https://open.spotify.com/artist/0wWoKsfCvOujrsksKcw7v4), [Bradje M](https://open.spotify.com/artist/2imO1AVaGaTxSTXWKYNdVH) | [Ay Si](https://open.spotify.com/album/759jEq5h5HYR8L3lWkGyPr) | 3:18 | 2025-09-15 |  |
 | [BAD B\*TCH](https://open.spotify.com/track/5DnoJX0Z9uS7S1WJQlvgcQ) | [Rasskulz](https://open.spotify.com/artist/6EG4aueDmBQiVMPfTDku3v), [9V](https://open.spotify.com/artist/1b7dajWPeAyB0hDhs3lyTH) | [BAD B\*TCH](https://open.spotify.com/album/6y3hm7bSj9C4cb1i4wY73L) | 2:43 | 2025-10-09 |  |

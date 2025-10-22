@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Girl Scout
 
-1,372 songs - 3 day 0 hr 13 min
+1,373 songs - 3 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1324,6 +1324,7 @@
 | [When she holds me](https://open.spotify.com/track/7ELpkrJcANe6KBZi9KitCx) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 4:03 | 2024-12-04 | 2025-01-03 |
 | [wheniseeuitallcomesback](https://open.spotify.com/track/6v1nbUdyczgSEK4xp6p9DU) | [4ever Falling](https://open.spotify.com/artist/42lwXNRrnNkxxyj0YVsxZG), [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [Love Matt](https://open.spotify.com/artist/30bO8jaKbhrLC1yrTgvrUf) | [wheniseeuitallcomesback](https://open.spotify.com/album/6WpBQoNffwbCWOd1njvllt) | 2:48 | 2025-06-19 | 2025-08-15 |
 | [Where did you go](https://open.spotify.com/track/7CAzoa5hO9khTALv9aqIaq) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Where did you go](https://open.spotify.com/album/37OIz6U1UzuqotPRxMaOh2) | 2:56 | 2024-03-21 | 2024-04-12 |
+| [Where Did You Go Last Night](https://open.spotify.com/track/5HALOyubdtr8zA9XzUlfwC) | [Innocent](https://open.spotify.com/artist/597DNXGUXfrxjYbCzYkndW) | [Blue](https://open.spotify.com/album/6aUjg9OPFZJAf7MCGDNPO1) | 4:05 | 2025-10-21 |  |
 | [where I've been](https://open.spotify.com/track/52vZKMsSxSi2ubk4TOy8bK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [where I've been](https://open.spotify.com/album/001b5pgV7pD9pFjglUHxtd) | 3:00 | 2025-09-25 |  |
 | [Where's my gun](https://open.spotify.com/track/6L2L9876hsCZCa35nlb3RF) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Where's my gun](https://open.spotify.com/album/7uLl7ESICLbVQHgfV5VmyX) | 2:44 | 2025-03-06 | 2025-04-18 |
 | [Who Am I](https://open.spotify.com/track/7vYM4GGrzaLhzsRT6PJdth) | [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA), [Christine Noel](https://open.spotify.com/artist/7K2Yw6RepVJb82r3mK93sB) | [Who Am I](https://open.spotify.com/album/4ZDggeovpNBQaeHY40fJKZ) | 2:54 | 2024-02-08 | 2024-03-22 |

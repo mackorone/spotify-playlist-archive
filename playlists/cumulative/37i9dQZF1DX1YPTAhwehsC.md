@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: A Boogie
 
-1,794 songs - 3 day 9 hr 17 min
+1,795 songs - 3 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,7 +998,7 @@
 | [Me Again](https://open.spotify.com/track/7ajhnF9PY4D1LftlzVpO6G) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Me Again](https://open.spotify.com/album/0AZzBpP070CamsTm5Pqvgf) | 2:24 | 2025-06-06 |  |
 | [Me Myself and I](https://open.spotify.com/track/60nAGisfgCfnggF6PxKMej) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [3 Feet High and Rising](https://open.spotify.com/album/4ORoATQVXNVVYIT6x03pXL) | 3:49 | 2023-03-03 | 2023-04-22 |
 | [me n payroll](https://open.spotify.com/track/5BSeEICeWNQMrjAoZpkhJ5) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 3:04 | 2024-08-23 | 2024-08-31 |
-| [Me vs Me](https://open.spotify.com/track/3IqTZjUckaNyyoO0aKijph) | [Jaeychino](https://open.spotify.com/artist/1mVk9jJNL0m9WIs0a1BQdS), [SlimeGetEm](https://open.spotify.com/artist/7b5FD1wsy3KBIrMjTqTNBi) | [Me vs Me](https://open.spotify.com/album/3NmMoaEcNm2SpxPwqQwAwi) | 2:54 | 2024-12-13 |  |
+| [Me vs Me](https://open.spotify.com/track/3IqTZjUckaNyyoO0aKijph) | [Jaeychino](https://open.spotify.com/artist/1mVk9jJNL0m9WIs0a1BQdS), [SlimeGetEm](https://open.spotify.com/artist/7b5FD1wsy3KBIrMjTqTNBi) | [Me vs Me](https://open.spotify.com/album/3NmMoaEcNm2SpxPwqQwAwi) | 2:54 | 2024-12-13 | 2025-10-22 |
 | [Me, Myself & I \(with A Boogie wit da Hoodie\)](https://open.spotify.com/track/02sYTqX64iVIIHCNA9hWyh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me, Myself & I](https://open.spotify.com/album/1DPEBGUF1in1fQwA5VoQsL) | 3:41 | 2022-09-16 | 2022-10-29 |
 | [Mean It](https://open.spotify.com/track/6kUox66bFBm4wtJKTMqJOy) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Mean It](https://open.spotify.com/album/7wYjfl9torFVBrC0mBj2Df) | 2:07 | 2024-04-12 | 2024-05-03 |
 | [meanstreet](https://open.spotify.com/track/3g4713KPxhRvrSnquxJqB5) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [ATLANTA](https://open.spotify.com/album/42DbAMmiiuIPyBuEB4P1FD) | 2:03 | 2025-05-23 | 2025-05-31 |
@@ -1180,6 +1180,7 @@
 | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [One Time \(feat\. Ice Spice, Skillibeng & J.I the Prince of N.Y\)](https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC) | 3:16 | 2022-09-17 | 2022-12-10 |
 | [One Track Minded](https://open.spotify.com/track/7IA8ksXrY276otudaP7knL) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [One Track Minded](https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr) | 2:19 | 2023-01-20 | 2023-04-22 |
 | [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 | 2023-12-15 | 2024-01-20 |
+| [Open Ya Eyes](https://open.spotify.com/track/7FJWcVKmZvMQK06SUy5P3K) | [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Open Ya Eyes](https://open.spotify.com/album/0Douk3dhfMQy9tIZssJziL) | 2:52 | 2025-10-21 |  |
 | [Options](https://open.spotify.com/track/2wdtc3sdFO1rkAQYFJholn) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Options](https://open.spotify.com/album/1qY5xOQy51e3XMTh6YJqq9) | 2:45 | 2023-10-20 | 2024-06-01 |
 | [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 | 2024-09-06 | 2025-02-01 |
 | [Oregon](https://open.spotify.com/track/1xIAHRag2NC347gbTe5ig4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Oregon](https://open.spotify.com/album/2Zw3tUqmAocI2AD2YN0jgH) | 1:55 | 2023-12-22 | 2023-12-30 |

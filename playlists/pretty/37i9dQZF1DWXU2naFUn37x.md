@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Young Hash in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,124 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,113 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Scama](https://open.spotify.com/track/4yoixiIoVeayqPFfAxIYo1) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [Scama](https://open.spotify.com/album/1sq14uYbikBnVfn1xB5erA) | 2:03 |
 | 2 | [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 |
-| 3 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 |
-| 4 | [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 |
-| 5 | [DUOMO](https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 3:44 |
-| 6 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
+| 3 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
+| 4 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 |
+| 5 | [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 |
+| 6 | [DUOMO](https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 3:44 |
 | 7 | [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
 | 8 | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/track/5j5L8CShNbWaYrFJWbXZs3) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Old Fashion \(feat\. Promessa e Flaco G\)](https://open.spotify.com/album/0rywnZls7YOlHPcipdSmAq) | 2:50 |
 | 9 | [MONEY MACHINE \(feat\. Lazza & Tony Effe\)](https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [7/7](https://open.spotify.com/track/0MF0GER29KwI2l58GV2aCN) | [Dadco](https://open.spotify.com/artist/7xlv8SzcNiwDd7fri9t7fv), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [7/7](https://open.spotify.com/album/35TTZNBNhlNrSUoSS4wom6) | 2:15 |
 | 50 | [COME?COSA?](https://open.spotify.com/track/70g7axgYxruNG2wzM3atj6) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [COME?COSA?](https://open.spotify.com/album/7EWOkI71vUUKL1lpN8bzfh) | 2:27 |
 
-Snapshot ID: `AAAAABUGA57nlIQiCrhG6V7Ejj5qWduj`
+Snapshot ID: `AAAAAM65jgw6wXnaZYLVmFvl4unFAtyN`

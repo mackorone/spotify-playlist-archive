@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 62198,
+  "num_followers": 62197,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "Jazz Love",
-        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 227953,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/5ShdF7P8hl40IhvhoTnVyx"
-    },
-    {
-      "added_at": "2025-10-20 07:42:19",
-      "album": {
         "name": "Dance Of Time",
         "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 299506,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
+    },
+    {
+      "added_at": "2025-10-20 07:42:19",
+      "album": {
+        "name": "Jazz Love",
+        "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 227953,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/5ShdF7P8hl40IhvhoTnVyx"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "Day Breaks",
-        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 185586,
-      "name": "And Then There Was You",
-      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
-    },
-    {
-      "added_at": "2025-10-20 07:42:19",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 176720,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2025-10-20 07:42:19",
+      "album": {
+        "name": "Day Breaks",
+        "url": "https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 185586,
+      "name": "And Then There Was You",
+      "url": "https://open.spotify.com/track/1Yo6lvTsNozmc9Y9SA275E"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "In the Air",
-        "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
-      },
-      "artists": [
-        {
-          "name": "James Farrelli",
-          "url": "https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg"
-        }
-      ],
-      "duration_ms": 285400,
-      "name": "In the Air Tonight",
-      "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
-    },
-    {
-      "added_at": "2025-10-20 07:42:19",
-      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 318077,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
+    },
+    {
+      "added_at": "2025-10-20 07:42:19",
+      "album": {
+        "name": "In the Air",
+        "url": "https://open.spotify.com/album/2iptrf1F1MypmQ9FJEE20k"
+      },
+      "artists": [
+        {
+          "name": "James Farrelli",
+          "url": "https://open.spotify.com/artist/4KrX2lMNXFQrzpkZnDDJTg"
+        }
+      ],
+      "duration_ms": 285400,
+      "name": "In the Air Tonight",
+      "url": "https://open.spotify.com/track/66BpoZSfGes57WNcqbcMfZ"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2025-10-20 07:42:19",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 310106,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2025-10-20 07:42:19",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "Relaxing Bossa Lounge",
-        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
-      },
-      "artists": [
-        {
-          "name": "Monique Kessous",
-          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
-        }
-      ],
-      "duration_ms": 158931,
-      "name": "A Hard Day\u00b4s Night (Bossa Version)",
-      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
-    },
-    {
-      "added_at": "2025-10-20 07:42:19",
-      "album": {
         "name": "My Mood Is You",
         "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "Jazz and Essentials",
-        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
+        "name": "Relaxing Bossa Lounge",
+        "url": "https://open.spotify.com/album/1XMQvpAQLEQB1rdDtB7Thw"
       },
       "artists": [
         {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+          "name": "Monique Kessous",
+          "url": "https://open.spotify.com/artist/2iI3XJh51N8lfWhmrO5CFI"
         }
       ],
-      "duration_ms": 197626,
-      "name": "Rat In My Kitchen",
-      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
+      "duration_ms": 158931,
+      "name": "A Hard Day\u00b4s Night (Bossa Version)",
+      "url": "https://open.spotify.com/track/1SE6dKoxp3X9gnHQmoer4J"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -983,6 +967,22 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
+        "name": "Jazz and Essentials",
+        "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
+      },
+      "artists": [
+        {
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Rat In My Kitchen",
+      "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
+    },
+    {
+      "added_at": "2025-10-20 07:42:19",
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 403429,
       "name": "Confession / The Other Woman",
       "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2025-10-20 07:42:19",
-      "album": {
-        "name": "Young & Na\u00efve",
-        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
-      },
-      "artists": [
-        {
-          "name": "Heather Rigdon",
-          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "To Have & To Hold",
-      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "First Conversation",
-        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+        "name": "Young & Na\u00efve",
+        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
       },
       "artists": [
         {
-          "name": "C\u00e6cilie Norby",
-          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+          "name": "Heather Rigdon",
+          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
         }
       ],
-      "duration_ms": 271773,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+      "duration_ms": 231013,
+      "name": "To Have & To Hold",
+      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
+        "name": "First Conversation",
+        "url": "https://open.spotify.com/album/1aqCkWhgnTTAyTNME1k8v1"
+      },
+      "artists": [
+        {
+          "name": "C\u00e6cilie Norby",
+          "url": "https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
+    },
+    {
+      "added_at": "2025-10-20 07:42:19",
+      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "A Wonderful World",
-        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
+        "name": "All About Chris",
+        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "k.d. lang",
-          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
         }
       ],
-      "duration_ms": 203893,
-      "name": "A Kiss to Build a Dream On",
-      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
+      "duration_ms": 180146,
+      "name": "All About Ronnie",
+      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "All About Chris",
-        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+        "name": "A Wonderful World",
+        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
       },
       "artists": [
         {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
         }
       ],
-      "duration_ms": 180146,
-      "name": "All About Ronnie",
-      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+      "duration_ms": 203893,
+      "name": "A Kiss to Build a Dream On",
+      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
     },
     {
       "added_at": "2025-10-20 07:42:19",
@@ -1231,18 +1231,26 @@
     {
       "added_at": "2025-10-20 07:42:19",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+        "name": "It's Nice to Be with You: Jim Hall in Berlin",
+        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
       },
       "artists": [
         {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Jimmy Woode",
+          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
+        },
+        {
+          "name": "Daniel Humair",
+          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
         }
       ],
-      "duration_ms": 338822,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
+      "duration_ms": 265024,
+      "name": "Young One for Debra",
+      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

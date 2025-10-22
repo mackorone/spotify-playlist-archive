@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,624 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,618 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 27 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 |
 | 28 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |
 | 29 | [慢慢](https://open.spotify.com/track/0pKhbPvQeyOGRSiyg38gLs) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [慢慢](https://open.spotify.com/album/6vrcjiC4jPf4AaqsvkBgX6) | 3:18 |
-| 30 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
-| 31 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 |
+| 30 | [No One Like Us](https://open.spotify.com/track/7bBqR8nZxVy68xS7eUCx4I) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 3:22 |
+| 31 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
 | 32 | [Amigo de un Amigo](https://open.spotify.com/track/4I47jsUZpToiwevqcVgWGK) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Amigo de un Amigo](https://open.spotify.com/album/7gSMKECyx73ZGFjMwunHCf) | 3:16 |
 | 33 | [Yalla Siir](https://open.spotify.com/track/1WxsQ1hr3iji5V8WYslkjf) | [Ahlam Bakkali](https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht) | [Yalla Siir](https://open.spotify.com/album/6wR81KGNCqN2eBXgwoAemu) | 3:18 |
 | 34 | [Dendam](https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Dendam](https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn) | 3:39 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 43 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/5PGwDL5zm7JpfM8kfg5ebw) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 3:06 |
 | 44 | [Kaisi Ye Aandhi Thee](https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Kaisi Ye Aandhi Thee](https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU) | 3:48 |
 | 45 | [Pengagum](https://open.spotify.com/track/4bDVT4vPR2KM2RdOV4mTJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 4:44 |
-| 46 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 |
-| 47 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |
+| 46 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |
+| 47 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 |
 | 48 | [VIBEX](https://open.spotify.com/track/3zTQbyngvaU24Cwri1nmW4) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [VIBEX](https://open.spotify.com/album/2DIInPe7dtf9TqvgfvHz91) | 1:39 |
 | 49 | [Plastique](https://open.spotify.com/track/3RhetScMtjOURfy1FcnsoT) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 3:07 |
 

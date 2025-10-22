@@ -4,13 +4,14 @@
 
 > Epic tunes for the open road.
 
-507 songs - 1 day 8 hr 9 min
+508 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11: 11](https://open.spotify.com/track/44knIcu8J6lhqM1elwRggd) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [High Noon](https://open.spotify.com/album/5eQZPL2dLics2x2ux0OBuF) | 3:40 | 2022-09-10 | 2022-09-15 |
 | [4Runner](https://open.spotify.com/track/3kduxaRADVX6gVfZ6IeqcB) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 3:49 | 2024-04-19 | 2025-08-22 |
 | [5 Days in May \- 2012 Remaster](https://open.spotify.com/track/5AIcpQ7JFM3DZju7bPqb8t) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 7:14 | 2022-05-02 | 2023-10-14 |
+| [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 | 2025-10-17 |  |
 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2024-05-31 |  |
 | [99 Nights](https://open.spotify.com/track/1Bypyv9ERflkpxne0dZMBW) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/4bpKVnI4OEz0Akg57pTPIk) | 2:56 | 2023-06-23 | 2023-08-28 |
 | [99 Nights](https://open.spotify.com/track/2CpSEwJjikij3tzfZm41Wz) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/0XHQPzrts66Pi4kfZLKkdV) | 2:56 | 2024-04-19 | 2025-07-25 |
@@ -261,7 +262,7 @@
 | [Mama](https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [The Union](https://open.spotify.com/album/2he1XlHeLAuHY8UUVrbiAa) | 3:01 | 2022-05-02 | 2023-05-19 |
 | [Man In His Pomp](https://open.spotify.com/track/04LRwSXXKAAxFSzyk6Imca) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Man In His Pomp](https://open.spotify.com/album/37KhkdHDI0LERW8dTXz24r) | 1:51 | 2025-10-09 |  |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2023-05-18 | 2024-04-19 |
-| [Maybe It's Me](https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Maybe It's Me](https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB) | 3:17 | 2025-08-21 |  |
+| [Maybe It's Me](https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Maybe It's Me](https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB) | 3:17 | 2025-08-21 | 2025-10-22 |
 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-08-04 | 2023-10-05 |
 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 | 2022-05-02 | 2022-07-28 |
 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 | 2022-09-10 | 2022-09-15 |

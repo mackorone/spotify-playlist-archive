@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,622 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,720 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 102 | [Mountain Top](https://open.spotify.com/track/0AqWEuMIS9ZF26VwlfXW0j) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Unicorn](https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0) | 4:03 |
 | 103 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 |
 
-Snapshot ID: `AAAAALI3rl9bKAQJziyAGJ1FEgM6u7mt`
+Snapshot ID: `AAAAAPeMzm1sPNaCin1Rb9O51neRSnC8`

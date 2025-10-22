@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-165 songs - 8 hr 12 min
+166 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All Over This World](https://open.spotify.com/track/5dfQvhkoG0ulO4gKAzHLyA) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Trouble in Mind](https://open.spotify.com/album/7pd386kkBPHie54j3kyRpG) | 2:45 | 2022-05-25 | 2024-04-06 |
 | [All over This World](https://open.spotify.com/track/0NgdzrGJt8YA0KfD9F3eh3) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:45 | 2024-04-21 | 2024-04-22 |
 | [Amazing Grace](https://open.spotify.com/track/7Jpy6hJWPhnav0qk0fGv8Y) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Vacation in the Sky](https://open.spotify.com/album/7HorAWUeYVKqIImFJ8zGRO) | 3:23 | 2022-05-25 | 2023-01-07 |
-| [Amazing Grace](https://open.spotify.com/track/6l3QpNalr5RJy3QKkCUrzu) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:25 | 2025-09-25 |  |
+| [Amazing Grace](https://open.spotify.com/track/6l3QpNalr5RJy3QKkCUrzu) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:25 | 2025-09-25 | 2025-10-22 |
 | [Beams Of Heaven](https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 3:24 | 2022-05-26 |  |
 | [Bells Of St\. Mary's](https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 2:22 | 2022-05-25 | 2025-02-17 |
 | [Blessed Assurance](https://open.spotify.com/track/078IX8fLu9cRunf9urGp7Q) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [The Rosettes](https://open.spotify.com/artist/41AAQ12p0hQJzH0ze5ANVD) | [Blessed Assurance \(Expanded Edition\)](https://open.spotify.com/album/0uwIyZoW8IFjkQzdSjllQc) | 3:00 | 2022-05-28 | 2025-02-07 |
@@ -172,6 +172,7 @@
 | [What's the News?](https://open.spotify.com/track/0WPhN1OYQ9fDIRdjjqwIup) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 2:55 | 2022-05-29 | 2022-11-16 |
 | [When I Take My Vacation In Heaven](https://open.spotify.com/track/0LSWwfEcpIbHiQLZrcJ1HW) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS) | [The Decca Singles, Vol\. 3](https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T) | 3:12 | 2022-05-25 |  |
 | [When They Ring The Golden Bell](https://open.spotify.com/track/32csDpGNVJu6lEP77Bg5FJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:29 | 2024-05-19 | 2025-04-03 |
+| [Woman \- Live Overdub](https://open.spotify.com/track/728RA8R6JWIv18t7cb07Ci) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister On Tour](https://open.spotify.com/album/096yrvEmbVGUeC9TpWUTPO) | 3:45 | 2025-10-22 |  |
 | [You Better Run](https://open.spotify.com/track/5YVfjZAqughYMjIXz1ZlVN) | [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Acts on the Gospel Train](https://open.spotify.com/album/5KZuIp30jJWnj02Awl5ynm) | 1:59 | 2022-12-19 | 2022-12-27 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,347 likes - 90 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,425 likes - 90 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 20 | ['Tis So Sweet / Turn Your Eyes \- Chapel Sessions](https://open.spotify.com/track/3JVRYMkGQ8DBFtBoiYAqMQ) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/4jYLJGHlwngGQaoLfbZvpJ) | 5:48 |
 | 21 | [Holy Hands \- Live](https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Holy Hands \(Live\)](https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P) | 7:14 |
 | 22 | [A Forgiving God](https://open.spotify.com/track/2P7JwpF4NdKjoNYSrVLrjU) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Ashton Hage](https://open.spotify.com/artist/3rYGsqNL97zjO7mru5Zefg), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [A Forgiving God](https://open.spotify.com/album/03qQZpsdCV4kS3yIWIu5Ud) | 7:50 |
-| 23 | [Shout To The Lord](https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9) | [House of Worship](https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Shout To The Lord](https://open.spotify.com/album/3mrYDbbw7fr7HzYEnJZgli) | 7:08 |
+| 23 | [Shout To The Lord \- Live](https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9) | [House of Worship](https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Shout To The Lord](https://open.spotify.com/album/3mrYDbbw7fr7HzYEnJZgli) | 7:08 |
 | 24 | [WASHED](https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WASHED](https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn) | 4:04 |
 | 25 | [Testimony](https://open.spotify.com/track/4I01JiotzjG0twezQt1xqX) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Testimony](https://open.spotify.com/album/1JgiUpuR8UgX1TzTCQ7J9h) | 4:02 |
 | 26 | [The God We Love \(Nicene Creed\) \- Live](https://open.spotify.com/track/2LU91DsCfLhZo1omJBOHqe) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The God We Love \(Nicene Creed\) \[Live\]](https://open.spotify.com/album/12Yg6iqB7okzg4SbYMTZaM) | 4:58 |

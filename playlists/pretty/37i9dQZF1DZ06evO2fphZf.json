@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12434,
+  "num_followers": 12435,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAD+9DIBnKNb2jUcPzf7QSmV",
+  "snapshot_id": "aPV7gAAAAAAdTh6hMDQy2BGUFPbT6HNv",
   "tracks": [
     {
       "added_at": null,
@@ -122,15 +122,11 @@
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "DCMBR",
-          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 167312,
-      "name": "chances",
-      "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
+      "duration_ms": 192000,
+      "name": "figured u out",
+      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
     },
     {
       "added_at": null,
@@ -190,11 +186,15 @@
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 192000,
-      "name": "figured u out",
-      "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
+      "duration_ms": 167312,
+      "name": "chances",
+      "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
     },
     {
       "added_at": null,

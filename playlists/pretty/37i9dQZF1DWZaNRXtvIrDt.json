@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 131239,
+  "num_followers": 131236,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "SPRINTER",
         "url": "https://open.spotify.com/album/1LrwZakIRGBHovLTDBCQSj"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 187744,
       "name": "SPRINTER",
       "url": "https://open.spotify.com/track/4KLPZfyMkOkJTCZ4i3luha"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -363,22 +363,18 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Tracks of the Blue Sky",
-        "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
+        "name": "The Way I'm Feeling",
+        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
       },
       "artists": [
         {
-          "name": "Demm Deep",
-          "url": "https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g"
-        },
-        {
-          "name": "Junes UB",
-          "url": "https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
-      "duration_ms": 199138,
-      "name": "Brazilian Sky",
-      "url": "https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA"
+      "duration_ms": 257766,
+      "name": "The Way I'm Feeling",
+      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -403,18 +399,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "The Way I'm Feeling",
-        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
+        "name": "Tracks of the Blue Sky",
+        "url": "https://open.spotify.com/album/5kCSdyvAeUACIFEspLwr83"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "Demm Deep",
+          "url": "https://open.spotify.com/artist/1MzQYOcw4DMB9ISBhZTa7g"
+        },
+        {
+          "name": "Junes UB",
+          "url": "https://open.spotify.com/artist/32nH6vaVKn3iDyEYdlcBi5"
         }
       ],
-      "duration_ms": 257766,
-      "name": "The Way I'm Feeling",
-      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
+      "duration_ms": 199138,
+      "name": "Brazilian Sky",
+      "url": "https://open.spotify.com/track/5KF3ijg71YSKszvHuHdfZA"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -455,6 +455,30 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "the floor",
+        "url": "https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 234428,
+      "name": "the floor - skin on skin remix",
+      "url": "https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Groovy Thang",
         "url": "https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 548560,
       "name": "Two Months Off",
       "url": "https://open.spotify.com/track/4zI0wuANmj9DNkBOgXU5Wh"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "the floor",
-        "url": "https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        },
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
-        }
-      ],
-      "duration_ms": 234428,
-      "name": "the floor - skin on skin remix",
-      "url": "https://open.spotify.com/track/3fdaWWHmFhQgAXsgRUkOrZ"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "After Five",
-        "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
-      },
-      "artists": [
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 216253,
-      "name": "After Five",
-      "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Desire to Stay",
         "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 228500,
       "name": "Desire to Stay",
       "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "After Five",
+        "url": "https://open.spotify.com/album/1mkM1tzlp0g7Ysicb8rFXe"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 216253,
+      "name": "After Five",
+      "url": "https://open.spotify.com/track/4IQyORSJmEUrOFAdUvylW0"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -823,6 +823,30 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "JUST A BEAT",
+        "url": "https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ"
+      },
+      "artists": [
+        {
+          "name": "weirdtechnogirlfriend",
+          "url": "https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC"
+        },
+        {
+          "name": "PAUL LE B\u00c1Y",
+          "url": "https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn"
+        },
+        {
+          "name": "WTG & PLB",
+          "url": "https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq"
+        }
+      ],
+      "duration_ms": 223714,
+      "name": "JUST A BEAT",
+      "url": "https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Badder",
         "url": "https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo"
       },
@@ -879,26 +903,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Hotel Living",
-        "url": "https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "cherry chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        }
-      ],
-      "duration_ms": 143825,
-      "name": "Dolly Destructiva",
-      "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "You're Not a Popstar",
         "url": "https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW"
       },
@@ -915,26 +919,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "JUST A BEAT",
-        "url": "https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ"
+        "name": "Hotel Living",
+        "url": "https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0"
       },
       "artists": [
         {
-          "name": "weirdtechnogirlfriend",
-          "url": "https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         },
         {
-          "name": "PAUL LE B\u00c1Y",
-          "url": "https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn"
-        },
-        {
-          "name": "WTG & PLB",
-          "url": "https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq"
+          "name": "cherry chola",
+          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
         }
       ],
-      "duration_ms": 223714,
-      "name": "JUST A BEAT",
-      "url": "https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3"
+      "duration_ms": 143825,
+      "name": "Dolly Destructiva",
+      "url": "https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD"
     }
   ],
   "unique_name": "Portal",

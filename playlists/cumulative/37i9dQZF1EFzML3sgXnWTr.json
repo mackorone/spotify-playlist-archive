@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "ESTREMO",
+        "url": "https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Sol",
+          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "ESTREMO",
+      "url": "https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82"
+    },
+    {
+      "album": {
         "name": "CADERE VOLARE",
         "url": "https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD"
       },

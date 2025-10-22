@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,150 songs - 9 day 10 hr 27 min
+4,151 songs - 9 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -878,7 +878,7 @@
 | [Divine](https://open.spotify.com/track/5feiudN6gLJCrZScXV4Kq3) | [discotek](https://open.spotify.com/artist/1blCoUfUk7n88r4Pt2dW29) | [Divine](https://open.spotify.com/album/0iZ84yjXRXBtYRQEpjk4hV) | 2:45 | 2024-06-07 | 2024-06-21 |
 | [Djama](https://open.spotify.com/track/2R62tfvKbRlogJf3BwGluD) | [Flew](https://open.spotify.com/artist/4in9kky2VLXZyxD9FlCiPs) | [Djama](https://open.spotify.com/album/1K88fLvfC76Jo906S2Ne71) | 2:18 | 2024-06-16 | 2024-06-21 |
 | [DLMS \[Don't Let Me Sleep\]](https://open.spotify.com/track/5LndbtwT7dLzcmU9YFJvoQ) | [Yantosh](https://open.spotify.com/artist/1DnGHQbob0scbGvuY5sCWR) | [DLMS \[Don't Let Me Sleep\]](https://open.spotify.com/album/68Vm60NGiE6v7Qr5grZKc3) | 3:27 | 2024-10-31 | 2024-11-16 |
-| [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / Imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 | 2025-10-17 |  |
+| [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 | 2025-10-17 |  |
 | [Do Anything](https://open.spotify.com/track/47pLn5jTZMN2MMGc3qH3mK) | [The Kudu](https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ), [Mylo](https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD) | [Do Anything](https://open.spotify.com/album/62YXsb3avFhRr6yiFd4xac) | 3:15 | 2025-03-25 | 2025-03-29 |
 | [Do it](https://open.spotify.com/track/0cY0IP2Rg4SZ54VLpPjzaJ) | [aloïs](https://open.spotify.com/artist/5Vnow0jqRh5mcUrMgF48W2) | [Do it & Rio](https://open.spotify.com/album/4LwwYgZK1GOfS9cWja9pq9) | 3:01 | 2025-05-23 | 2025-05-30 |
 | [Do It All Again](https://open.spotify.com/track/1bcM9x7FX0aiayjtd1ZNuW) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J), [DJ BIG S](https://open.spotify.com/artist/516QrqBwm3soALhns5ACzA) | [Do It All Again](https://open.spotify.com/album/0CwJK5uOYwpyQyLN4f2jSQ) | 2:55 | 2024-06-07 | 2024-06-17 |
@@ -4110,6 +4110,7 @@
 | [YKSI](https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [YKSI](https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD) | 3:53 | 2025-04-24 | 2025-05-03 |
 | [Yolo](https://open.spotify.com/track/4pfKaLFtFl3aLoOHGp5gK6) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Yolo](https://open.spotify.com/album/519SDmkE5MQZ9comhUvYeU) | 2:39 | 2025-08-15 | 2025-08-23 |
 | [You](https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [You](https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj) | 3:33 | 2025-10-17 |  |
+| [You](https://open.spotify.com/track/43fYgqaqwX6E6K3STH7zgx) | [DJ G\-String](https://open.spotify.com/artist/1wWFGqbHevEnbwEEGG3suL) | [You](https://open.spotify.com/album/52PbnGqnh7ocBfHcE7zkO2) | 3:12 | 2025-10-21 |  |
 | [You](https://open.spotify.com/track/1KCMF9fdF7sNE74R2V46af) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Childish](https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ) | 4:14 | 2024-09-26 | 2024-10-05 |
 | [you](https://open.spotify.com/track/2ehZZC79zgZ8NGmsYN6kXQ) | [TLKR](https://open.spotify.com/artist/0TGKJ0BiWoKfKnKgd5R6hC) | [you](https://open.spotify.com/album/47Ta9X2VWgZcYeCT5DeDFs) | 5:26 | 2025-06-06 | 2025-06-14 |
 | [You](https://open.spotify.com/track/6vy7smNqOBd9o0mZmCyYZQ) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [You](https://open.spotify.com/album/5lk2tFBgJEiYCkYJEbyS8k) | 2:11 | 2024-08-02 | 2024-08-09 |

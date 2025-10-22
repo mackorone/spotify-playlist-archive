@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,201 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,199 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Friends To Lovers](https://open.spotify.com/track/5zMHwddz7IBSrCkafg8WOr) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Body Music \(Deluxe\)](https://open.spotify.com/album/5WwesTmhyEx9cNre8fwnm9) | 4:36 |
 | 100 | [Previouscats \- Album Version \(Edited\)](https://open.spotify.com/track/0a5tdYXOZHfpr4WJFJrQf3) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/7EziKiSrU9g1Lz0pLlMsfR) | 3:57 |
 
-Snapshot ID: `AAAAAB/fDAkExzMhi9UjoEq8lie2wkVz`
+Snapshot ID: `AAAAAKk8AHFL9olAygb/0hGglpnBx43b`

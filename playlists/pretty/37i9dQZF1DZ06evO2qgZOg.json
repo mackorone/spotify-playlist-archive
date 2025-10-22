@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 313824,
+  "num_followers": 313914,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAAAu+T+uvHQOpEhp75qpVNMD",
+  "snapshot_id": "aPV7gAAAAAAyk6u8dxHCOcz9QKpi7UP1",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Sick of It",
+      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 208826,
+      "name": "I Want to Live",
+      "url": "https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take It All Back",
         "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
       },
@@ -291,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 208826,
-      "name": "I Want to Live",
-      "url": "https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Sick of It",
-      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq"
       },
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+      "duration_ms": 199480,
+      "name": "What I Believe",
+      "url": "https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 199480,
-      "name": "What I Believe",
-      "url": "https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO"
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "You Get Me High",
+      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolf (feat. John Cooper of Skillet)",
         "url": "https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 198750,
       "name": "Wolf (feat. John Cooper of Skillet)",
       "url": "https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unleashed Beyond (Special Edition)",
-        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "You Get Me High",
-      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
     },
     {
       "added_at": null,

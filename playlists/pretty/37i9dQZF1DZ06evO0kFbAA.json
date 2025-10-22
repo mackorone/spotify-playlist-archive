@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 52286,
+  "num_followers": 52293,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPQqAAAAAADx8HMgi5KggbjpOC7MiYN4",
+  "snapshot_id": "aPV7gAAAAABL8Iypnuf7jSDKt+6rZDXN",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz And The Cool Sounds",
         "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 233600,
       "name": "Serenade In Blue",
       "url": "https://open.spotify.com/track/0CV4chKrc8YPkQZel7Oe88"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complete Roost Recordings",
-        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Autumn Leaves - Instrumental Version",
-      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz And The Cool Sounds",
         "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 199440,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Complete Roost Recordings",
+        "url": "https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Autumn Leaves - Instrumental Version",
+      "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
     },
     {
       "added_at": null,
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+        "name": "Conception",
+        "url": "https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 398266,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
+      "duration_ms": 199533,
+      "name": "Intoit",
+      "url": "https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L"
     }
   ],
   "unique_name": "This Is Stan Getz",

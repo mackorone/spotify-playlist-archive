@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-116 songs - 8 hr 3 min
+117 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Dreamin'](https://open.spotify.com/track/4rdw1U6iepGuOtPj1qmtvl) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [コネクト](https://open.spotify.com/album/2kcyfDBLNVuvP7ebwSw3SX) | 4:37 | 2024-09-22 | 2024-09-26 |
 | [Evergreen](https://open.spotify.com/track/1gH2WAYMkIPUgcYQ4fyICd) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS ～SINGLE BEST 2nd～](https://open.spotify.com/album/3yrEBML86hI9auzSKd2Dqn) | 4:06 | 2024-11-05 |  |
 | [Fairy Party](https://open.spotify.com/track/1ijOD2KVBWe4p6kfhu80Wo) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 3:33 | 2022-06-09 | 2022-10-13 |
-| [Fight!!](https://open.spotify.com/track/5Vqe6O1inyJuf54FsCm5SL) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fight!!](https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV) | 3:36 | 2022-06-19 |  |
+| [Fight!!](https://open.spotify.com/track/5Vqe6O1inyJuf54FsCm5SL) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fight!!](https://open.spotify.com/album/60l2pA1I8kZMLL74TxVyBV) | 3:36 | 2022-06-19 | 2025-10-22 |
 | [Freaky Candy](https://open.spotify.com/track/35OUwOIMMdg68nX0LDEEhR) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 3:54 | 2024-05-29 | 2024-11-16 |
 | [Gravity](https://open.spotify.com/track/31FWbJsuaaqqk87RwYRqNg) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:12 | 2022-06-09 |  |
 | [irony](https://open.spotify.com/track/3qLPnTQYkTObObPgncJQyS) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:18 | 2022-06-09 |  |
@@ -71,7 +71,7 @@
 | [アリシア \-season 03\-](https://open.spotify.com/track/5HXxpXL4mEXfJWF1fCeuxx) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア \-season 03\-](https://open.spotify.com/album/2vHHpLmYBCYq7fHhkoGzTf) | 3:49 | 2025-05-16 |  |
 | [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-04 |  |
 | [カラフル](https://open.spotify.com/track/1w25qP6ViEMw24RdawuWZC) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PARTY TIME](https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY) | 4:32 | 2022-06-09 |  |
-| [カラフル \-2017\-](https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:33 | 2022-06-09 | 2025-10-16 |
+| [カラフル \-2017\-](https://open.spotify.com/track/1yGtzIGEap6EE5jsRly23m) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 4:33 | 2022-06-09 |  |
 | [カラフル \-season 03\-](https://open.spotify.com/track/2ehBBSipfyoIe1D1EUqzLh) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [カラフル \-season 03\-](https://open.spotify.com/album/5u3sH1cZ6yjr2evDZp2obu) | 4:33 | 2025-02-26 |  |
 | [ケアレス](https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [TVアニメ「マギアレコード　魔法少女まどか☆マギカ外伝 2nd SEASON \-覚醒前夜\-」Theme Song Collection](https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui) | 4:14 | 2022-08-09 |  |
 | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/track/0Frhp8XDDaf8S8upKYqPx2) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [ケアレス \(Slushii Remix\) \- SACRA BEATS Singles](https://open.spotify.com/album/0ow5kLmDSNugPeajkl6uq5) | 2:58 | 2022-06-09 | 2022-08-03 |
@@ -95,6 +95,7 @@
 | [プロミス](https://open.spotify.com/track/6Eia9LTMWgMP7VELAES28o) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:57 | 2022-06-09 | 2022-09-23 |
 | [メモリー](https://open.spotify.com/track/0lW1O9gkoDoqKuhCn8Gx2T) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:29 | 2022-06-15 | 2022-09-20 |
 | [ユニゾン](https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア/シグナル](https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ) | 3:29 | 2022-06-11 | 2022-11-27 |
+| [リンクス](https://open.spotify.com/track/03z6ZZyBOo8crNdUS6eSKJ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [リンクス](https://open.spotify.com/album/41uDPJ2V8NCVlaV0BPcTC4) | 4:25 | 2025-10-22 |  |
 | [ルミナス](https://open.spotify.com/track/2imEBsXVoLpYTqkTAfycay) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:11 | 2022-06-09 |  |
 | [ルミナス \-2017\-](https://open.spotify.com/track/76Ek9Lbigy6mLTRZAau6lP) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:10 | 2022-06-09 | 2024-05-21 |
 | [ループ](https://open.spotify.com/track/6PGD1qYRbfRcVIWBJ97Eup) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/2cKUf4iMPcKWFJHXvVEebU) | 3:54 | 2022-08-20 | 2023-12-14 |
@@ -111,7 +112,7 @@
 | [擬態](https://open.spotify.com/track/17LmbUZnDoPn6qkTQOt27N) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/2DnrXLgjVCIhiSfam1nD3w) | 3:32 | 2024-05-12 | 2024-10-20 |
 | [新世界ビーナス](https://open.spotify.com/track/2Ndh9WN97G5Bw4fWrYxk9V) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:46 | 2022-06-09 | 2022-08-25 |
 | [明日、春が来たら](https://open.spotify.com/track/28E0uOrw97kb28l1lqSuWk) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SPRING TRACKS \-春のうた\-](https://open.spotify.com/album/75iexQXsMr2LPouyL45o8U) | 4:44 | 2022-06-09 | 2022-12-19 |
-| [月のしずく](https://open.spotify.com/track/2lJoqIuR4RoAbNeq5Osn6U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [AUTUMN TRACKS －秋のうた－](https://open.spotify.com/album/6eazkZG9cXD32AruNfZTpg) | 4:46 | 2024-10-21 |  |
+| [月のしずく](https://open.spotify.com/track/2lJoqIuR4RoAbNeq5Osn6U) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [AUTUMN TRACKS －秋のうた－](https://open.spotify.com/album/6eazkZG9cXD32AruNfZTpg) | 4:46 | 2024-10-21 | 2025-10-22 |
 | [木枯しに抱かれて](https://open.spotify.com/track/3z9LoNHZWQXNFeTrIRCkaq) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [木枯しに抱かれて](https://open.spotify.com/album/3rF3uWuFZyiwUMhMpQKYDZ) | 3:45 | 2024-09-27 |  |
 | [未来航路](https://open.spotify.com/track/331BiE6TuMyXIS1scMjPR9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 4:02 | 2024-06-01 |  |
 | [桜咲く](https://open.spotify.com/track/4sEgpIXYobY9NRlQmoIBG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [STEP](https://open.spotify.com/album/7tIa5Dxx9YtZaL6npoy4jx) | 4:42 | 2022-06-09 | 2024-09-27 |

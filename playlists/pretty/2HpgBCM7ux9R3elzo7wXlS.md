@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,026 songs - 2 day 15 hr 10 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,027 songs - 2 day 15 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1034,5 +1034,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1024 | [So Good to Me](https://open.spotify.com/track/2KjQTG3s0fUnN1WeSbc4RS) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 1:41 |
 | 1025 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 | 1026 | [DAMIDAMI](https://open.spotify.com/track/2xcu1V7AVqhofPPiTO9PDn) | [Sihan](https://open.spotify.com/artist/4vlIQAwJbXLG9FJtpnTP7N), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [DAMIDAMI](https://open.spotify.com/album/0JBMEAfdcPfgzbiZ3vhXGA) | 3:11 |
+| 1027 | [my <3](https://open.spotify.com/track/5yrqoCSTL3oYJ38tUtqlRD) | [teenatown](https://open.spotify.com/artist/37qs5TwDvhn1CBrnP8hhGL) | [where the butterflies are](https://open.spotify.com/album/7fldve2AopG1BlqAFkDMYf) | 3:47 |
 
 Snapshot ID: `AAAHqIX6ETDdfO8IHeqAryYhybLSgsmp`

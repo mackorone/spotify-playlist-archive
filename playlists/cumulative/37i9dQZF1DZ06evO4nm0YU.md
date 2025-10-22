@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-81 songs - 7 hr 25 min
+82 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 | 2022-09-08 |  |
 | [Juanito Alimaña](https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 7:36 | 2022-09-08 |  |
 | [La Fama](https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 5:21 | 2022-09-08 |  |
-| [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 | 2024-07-24 |  |
+| [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 | 2024-07-24 | 2025-10-22 |
 | [La Puerta](https://open.spotify.com/track/58dIEHSLlW9EAq0RUgR1Wk) | [Jose Rosa](https://open.spotify.com/artist/4w4Id52CiziAmi9TwdcsE6), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [ADE 2022](https://open.spotify.com/album/6qvcDjlEGgS5nkzaLGU8UK) | 8:19 | 2024-02-19 | 2024-02-22 |
 | [Loco](https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 5:25 | 2022-09-08 |  |
 | [Mentira](https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:42 | 2022-09-10 | 2025-10-18 |
@@ -62,6 +62,7 @@
 | [Paraíso De Dulzura](https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV) | 4:35 | 2022-09-08 | 2025-09-11 |
 | [Pasé La Noche Fumando](https://open.spotify.com/track/2VcX1Y1jsmtNtyjdyN7eMS) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Vigilante](https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7) | 11:44 | 2022-09-08 | 2022-10-13 |
 | [Perdón](https://open.spotify.com/track/5keKepe0oMUyZcn6PVXBvV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [Homenaje A Beny Moré](https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY) | 3:17 | 2022-09-10 | 2022-12-04 |
+| [Periodico De Ayer](https://open.spotify.com/track/1RQwHnFHsLVlJmgEk9kmmR) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Salsa Pa'l Que Sabe, Vol\. 2](https://open.spotify.com/album/5tV7liWaZI0cpQn7NS0Dlx) | 6:41 | 2025-10-22 |  |
 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 | 2022-09-08 | 2025-10-01 |
 | [Periódico de Ayer \- Remastered 2024](https://open.spotify.com/track/2w780pCHPCVOVo32GxSeXp) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende \(Remastered 2024\)](https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb) | 6:45 | 2025-09-28 |  |
 | [Piraña](https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 5:16 | 2022-09-08 |  |

@@ -24613,6 +24613,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6aUjg9OPFZJAf7MCGDNPO1"
+      },
+      "artists": [
+        {
+          "name": "Innocent",
+          "url": "https://open.spotify.com/artist/597DNXGUXfrxjYbCzYkndW"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245944,
+      "name": "Where Did You Go Last Night",
+      "url": "https://open.spotify.com/track/5HALOyubdtr8zA9XzUlfwC"
+    },
+    {
+      "album": {
         "name": "where I've been",
         "url": "https://open.spotify.com/album/001b5pgV7pD9pFjglUHxtd"
       },
