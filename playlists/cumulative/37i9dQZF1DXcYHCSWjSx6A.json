@@ -54,11 +54,15 @@
         {
           "name": "Badshah",
           "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "G. Rokesh",
+          "url": "https://open.spotify.com/artist/65No3c6T5esKBiKOPn40vy"
         }
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 258032,
       "name": "Aaluma Doluma",
       "url": "https://open.spotify.com/track/1Do2hDE0etMakAEQbyOd4L"
@@ -1372,7 +1376,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"

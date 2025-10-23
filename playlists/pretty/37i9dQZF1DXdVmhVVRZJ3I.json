@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 333485,
+  "num_followers": 333596,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -379,42 +379,6 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Do You EP",
-        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 221769,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
         "name": "Devotion (2020 Remix)",
         "url": "https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk"
       },
@@ -439,6 +403,42 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
+        "name": "Do You EP",
+        "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 221769,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
         "name": "What's Up",
         "url": "https://open.spotify.com/album/5FRUHD0aFh5GvSo3WGbKDd"
       },
@@ -455,30 +455,6 @@
       "duration_ms": 147540,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/12yj178KaJo8PrddT0StaL"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
-        "name": "Do It To It (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 125280,
-      "name": "Do It To It - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -503,6 +479,30 @@
       "duration_ms": 169657,
       "name": "Ridin' Dirty",
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
+        "name": "Do It To It (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 125280,
+      "name": "Do It To It - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -571,30 +571,6 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Never Be Alone (feat. Aloe Blacc)",
-        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 178670,
-      "name": "Never Be Alone (feat. Aloe Blacc)",
-      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
         "name": "Move Your Body (Ti\u00ebsto Edit)",
         "url": "https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 140160,
       "name": "Move Your Body - Ti\u00ebsto Edit",
       "url": "https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
+        "name": "Never Be Alone (feat. Aloe Blacc)",
+        "url": "https://open.spotify.com/album/2bSuTiPTy8EhtwWbbmiPdK"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 178670,
+      "name": "Never Be Alone (feat. Aloe Blacc)",
+      "url": "https://open.spotify.com/track/3GT2CBmJWIEdCpHiB31WYK"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -775,6 +775,26 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "duration_ms": 238124,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
         "name": "Turning Me Up (Hadal Ahbek)",
         "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
       },
@@ -799,22 +819,22 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
+        "name": "Believe (Sevenn Remix)",
+        "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
       },
       "artists": [
         {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/4PpX7KnO2NEUYtPbW8y0XW"
         },
         {
-          "name": "Kohen",
-          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         }
       ],
-      "duration_ms": 238124,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+      "duration_ms": 217920,
+      "name": "Believe - Sevenn Remix",
+      "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -835,26 +855,6 @@
       "duration_ms": 165519,
       "name": "Terremoto",
       "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
-        "name": "Believe (Sevenn Remix)",
-        "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
-      },
-      "artists": [
-        {
-          "name": "Mida",
-          "url": "https://open.spotify.com/artist/4PpX7KnO2NEUYtPbW8y0XW"
-        },
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        }
-      ],
-      "duration_ms": 217920,
-      "name": "Believe - Sevenn Remix",
-      "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -883,6 +883,26 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
+        "name": "Tomorrow (feat. 433)",
+        "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "433",
+          "url": "https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Tomorrow (feat. 433)",
+      "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "added_at": "2025-07-25 22:30:04",
+      "album": {
         "name": "Adrenalina (Minha Gasolina)",
         "url": "https://open.spotify.com/album/4KrUxvKkI2xRKnaBZhf0SZ"
       },
@@ -899,30 +919,6 @@
       "duration_ms": 180845,
       "name": "Adrenalina (Minha Gasolina)",
       "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
-    },
-    {
-      "added_at": "2025-07-25 22:30:04",
-      "album": {
-        "name": "The Age of Love 2022",
-        "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 189561,
-      "name": "The Age of Love 2022",
-      "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -947,22 +943,26 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Tomorrow (feat. 433)",
-        "url": "https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf"
+        "name": "The Age of Love 2022",
+        "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "433",
-          "url": "https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln"
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Tomorrow (feat. 433)",
-      "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+      "duration_ms": 189561,
+      "name": "The Age of Love 2022",
+      "url": "https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX"
     },
     {
       "added_at": "2025-07-25 22:30:04",
@@ -1059,22 +1059,22 @@
     {
       "added_at": "2025-07-25 22:30:04",
       "album": {
-        "name": "Stay Mine",
-        "url": "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+        "name": "Mr. Navigator",
+        "url": "https://open.spotify.com/album/7j2CtumDjqj5nve12AmTjy"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Tempo Giusto",
+          "url": "https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R"
         }
       ],
-      "duration_ms": 178010,
-      "name": "Stay Mine",
-      "url": "https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc"
+      "duration_ms": 152238,
+      "name": "Mr. Navigator",
+      "url": "https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz"
     }
   ],
   "unique_name": "Treino Eletr\u00f4nico",

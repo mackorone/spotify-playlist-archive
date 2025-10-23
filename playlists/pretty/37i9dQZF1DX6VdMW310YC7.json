@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3914386,
+  "num_followers": 3914618,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "Holding On To You",
         "url": "https://open.spotify.com/album/6VvZQ2f9QdblEkGsbngGmW"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 226352,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "Into Dust (Still Falling)",
-        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 333779,
-      "name": "Into Dust (Still Falling)",
-      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 275010,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 264614,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 275010,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
-      },
-      "artists": [
-        {
-          "name": "Nathan C",
-          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
-        },
-        {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 199160,
       "name": "Felt (feat. Henry Green)",
       "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Diamonds (Further Than I Ever Was)",
-        "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "The Boxer Rebellion",
-          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
-        }
-      ],
-      "duration_ms": 296597,
-      "name": "Diamonds (Further Than I Ever Was)",
-      "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "Maitri",
         "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 215435,
       "name": "Memories",
       "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Diamonds (Further Than I Ever Was)",
+        "url": "https://open.spotify.com/album/2UpwdJFrDOlYt6Na23mIV6"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "duration_ms": 296597,
+      "name": "Diamonds (Further Than I Ever Was)",
+      "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "SWEET LOVIN",
         "url": "https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 237931,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        },
+        {
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk"
       },
@@ -1547,26 +1567,6 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "I Just Needed This",
-        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        },
-        {
-          "name": "Keepa",
-          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "I Just Needed This",
-      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1579,26 +1579,6 @@
       "duration_ms": 203572,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
-      },
-      "artists": [
-        {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
-        },
-        {
-          "name": "Alessandro Martire",
-          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1635,6 +1615,26 @@
       "duration_ms": 361080,
       "name": "Memories",
       "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi"
+      },
+      "artists": [
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        },
+        {
+          "name": "Alessandro Martire",
+          "url": "https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/3l5cjOXlf0QfcvFvu49P6a"
+      },
+      "artists": [
+        {
+          "name": "Falden",
+          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "duration_ms": 224205,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/05EXd5VOcSvEbjMhBn99dn"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "Another Touch",
         "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
@@ -1747,22 +1767,22 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/3l5cjOXlf0QfcvFvu49P6a"
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/3ug1Vz79SQ7HufUo3TpKVq"
       },
       "artists": [
         {
-          "name": "Falden",
-          "url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         },
         {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+          "name": "Maria Lynn",
+          "url": "https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j"
         }
       ],
-      "duration_ms": 224205,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/05EXd5VOcSvEbjMhBn99dn"
+      "duration_ms": 166017,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/5U1zaCg0SRkvidC8cBbewx"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1783,26 +1803,6 @@
       "duration_ms": 217298,
       "name": "Loveless - George FitzGerald Remix",
       "url": "https://open.spotify.com/track/0zng0Xfmmx2RWykbd0s7Zx"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/3ug1Vz79SQ7HufUo3TpKVq"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "Maria Lynn",
-          "url": "https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j"
-        }
-      ],
-      "duration_ms": 166017,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/5U1zaCg0SRkvidC8cBbewx"
     },
     {
       "added_at": "2025-10-17 04:00:39",
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2025-10-17 04:00:39",
       "album": {
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "duration_ms": 262008,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+    },
+    {
+      "added_at": "2025-10-17 04:00:39",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0LjOwDYvZGhQ6qcjy49ijr"
       },
@@ -1903,26 +1923,6 @@
       "duration_ms": 259512,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5J02vp8CZYokpjeha2OBav"
-    },
-    {
-      "added_at": "2025-10-17 04:00:39",
-      "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2025-10-17 04:00:39",

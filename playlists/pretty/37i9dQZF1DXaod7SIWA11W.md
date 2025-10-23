@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Jackie Hill Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,412 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,433 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 74 | [A Love Song From God](https://open.spotify.com/track/2nuD3XyCnk9l2RlTc7upq2) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [A Love Song From God](https://open.spotify.com/album/47AbdXIepqQ4cGWOqMn8dn) | 6:13 |
 | 75 | [TBH](https://open.spotify.com/track/78UENIHzoxWF75JO1R5xRu) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [TBH](https://open.spotify.com/album/6JQJHr8cvixFtuTNJ3IhwP) | 2:01 |
 
-Snapshot ID: `AAAAAJfAEGt3eDL17IpjDzEPylfIx7Zu`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

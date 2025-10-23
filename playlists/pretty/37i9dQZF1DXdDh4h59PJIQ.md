@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,068 likes - 150 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,262 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 149 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 150 | [Blue](https://open.spotify.com/track/7uqWo5UWCGAFBjmajYzS65) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a) | [Blue](https://open.spotify.com/album/0JDsctAQV5AAxcxeJiKKmp) | 2:27 |
 
-Snapshot ID: `AAAAAHxkpxAPLZkTJpW7zAIjNz8v8AEa`
+Snapshot ID: `AAAAAOdEwMyGG7BxbvdSI71B8tkWnyzH`

@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 68330,
+  "num_followers": 68389,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAAECKJEA0BpHAyWSPa1Dc+3",
+  "snapshot_id": "aPbNAAAAAAA0+QHIhSxm74f1zuetBaPj",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 108133,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 181333,
       "name": "Long Nights (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Therapy Session",
-      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 41133,
-      "name": "Gift & a Curse (interlude)",
-      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR (Deluxe)",
         "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 164746,
       "name": "Rap Niggas",
       "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 41133,
+      "name": "Gift & a Curse (interlude)",
+      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
     },
     {
       "added_at": null,

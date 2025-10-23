@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,332 likes - 72 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,534 likes - 72 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 71 | [La Tumba](https://open.spotify.com/track/4b20jg6rGAHohIxakXx9zO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Lejos\. No Tan Lejos](https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ) | 2:44 |
 | 72 | [Haunted House Of Rock](https://open.spotify.com/track/19wUFm531PyFq8gLl8EIca) | [Satan's Pilgrims](https://open.spotify.com/artist/7LQPLh6XX8uGuU8WKkHYIM) | [Plymouth Rock](https://open.spotify.com/album/3vBmJk8uUIqtH2wYPdVfq9) | 3:01 |
 
-Snapshot ID: `AAAAAHK1aLlBP5B87Hd+DAG6QsS008mi`
+Snapshot ID: `AAAAACdXxAwRPhF4GFG2O6k8EpeMJYCD`

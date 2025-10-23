@@ -535,6 +535,28 @@
     },
     {
       "album": {
+        "name": "Bl\u00f6dsinn",
+        "url": "https://open.spotify.com/album/4sx7yVVezQeqjO3a4pOKFa"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145295,
+      "name": "Bl\u00f6dsinn",
+      "url": "https://open.spotify.com/track/1I5CfY3wRscxoIwqSnbT5x"
+    },
+    {
+      "album": {
         "name": "Bock auf Bier",
         "url": "https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f"
       },
@@ -1708,7 +1730,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 174719,
       "name": "Hoch die H\u00e4nde Wochenende",
       "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"

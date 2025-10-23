@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,068 songs - 3 day 8 hr 2 min
+2,069 songs - 3 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Have A Good Night](https://open.spotify.com/track/7jEzzTTTEWsb4fOLJlm2Iw) | [iTaZe](https://open.spotify.com/artist/3I3vbDl3uB9Gq5KZ97NpIX), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Have A Good Night](https://open.spotify.com/album/6VxydCoxWonVb6Vp7jZu67) | 2:32 | 2022-11-11 | 2023-07-14 |
 | [have\-a\-cup](https://open.spotify.com/track/5kZHGyQEh8qj9H282Y5vkh) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [have\-a\-cup](https://open.spotify.com/album/3v33qdghvECCPCbFAZwIcR) | 2:16 | 2022-06-24 | 2022-09-30 |
 | [Hazel](https://open.spotify.com/track/7ob1vXL1QHBjMSKNJ6vrxS) | [Dewberry Dastardly](https://open.spotify.com/artist/2tsiCneCElj8qvCTuJdWlp) | [Hazel](https://open.spotify.com/album/5xOsPwfSY8fX6rbdgtOcdq) | 2:08 | 2022-09-09 | 2022-12-10 |
+| [Hazel](https://open.spotify.com/track/45PYuZOIYoote39ZCjlmB2) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Hazel](https://open.spotify.com/album/0lLKp3yVCtDtOmC7Cvgl0m) | 2:05 | 2025-10-22 |  |
 | [Hazel Eyes](https://open.spotify.com/track/07MevDm9VaIB6YQHYFzwNC) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Hazel Eyes](https://open.spotify.com/album/5Eci6z9F5mwHlGc3jayNSy) | 2:26 | 2023-04-20 | 2025-06-07 |
 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 | 2024-09-06 | 2025-09-06 |
 | [Hazy Days](https://open.spotify.com/track/5a4yFujtkeeVN3xHP0unSB) | [Ekolon](https://open.spotify.com/artist/5eRacV1s1AkqWd8Fo8inSW) | [Hazy Days](https://open.spotify.com/album/48lKvWCTFcwosC8FRuWbYh) | 1:37 | 2021-12-07 | 2022-06-03 |
@@ -1620,7 +1621,7 @@
 | [Smov](https://open.spotify.com/track/7E9DJ5fdbZQkgpRzfIwtZJ) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Smov](https://open.spotify.com/album/5JA6l6fgijUzHfISmAdcpS) | 2:19 | 2022-10-14 | 2023-01-20 |
 | [Snooze](https://open.spotify.com/track/4Do2TEF4vaVVplxqzDisvX) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Snooze](https://open.spotify.com/album/4ck9OjnqO03ljtkYwehybI) | 2:17 | 2022-07-01 | 2023-09-02 |
 | [snoozed](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [snoozed](https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos) | 2:50 | 2024-08-30 | 2025-07-25 |
-| [Snoozeville](https://open.spotify.com/track/3sJn5xCfOjO7Nkr4sK15ca) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Snoozeville](https://open.spotify.com/album/4RO4h9C0LLyhzVjRO7HuOY) | 1:58 | 2024-05-13 |  |
+| [Snoozeville](https://open.spotify.com/track/3sJn5xCfOjO7Nkr4sK15ca) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Snoozeville](https://open.spotify.com/album/4RO4h9C0LLyhzVjRO7HuOY) | 1:58 | 2024-05-13 | 2025-10-23 |
 | [Snoozy Stardust](https://open.spotify.com/track/4u1ws1ZLno8CGz6p95zct9) | [COSMOGLOW](https://open.spotify.com/artist/5f6pxBwuhmxzCH94UamrGb) | [Snoozy Stardust](https://open.spotify.com/album/1p5hNyVKFYNnUzFMSTPHNG) | 3:38 | 2024-07-19 | 2025-03-08 |
 | [Snow Horizon](https://open.spotify.com/track/4ltRGBrKpG7I3ZI2uzu7Z1) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Snow Horizon](https://open.spotify.com/album/1x1xiIx0wviK0tMAxEVCFL) | 1:55 | 2022-12-09 | 2023-10-06 |
 | [Snow Walks](https://open.spotify.com/track/0LFAnJIER61KZZggIZR3LR) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [lifeboat](https://open.spotify.com/artist/7EjZNBvNe81OgATW2RGr8U) | [Snow Walks](https://open.spotify.com/album/4acUsG6hiluBSSuZiogG1i) | 2:28 | 2022-12-02 | 2023-10-20 |

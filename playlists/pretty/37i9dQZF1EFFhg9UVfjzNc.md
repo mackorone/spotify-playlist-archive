@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777 likes - 106 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 106 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 64 | [Vem Me Consumir \- Acústico](https://open.spotify.com/track/6DSgDbw6imY1A1g0RnQ4wg) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 4:38 |
 | 65 | [Céu na Terra](https://open.spotify.com/track/6HAO8Q2k218ts5zpw6qCp7) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:07 |
 | 66 | [Coroas \- Ao Vivo](https://open.spotify.com/track/1fPaa1ApH0JEDgxpmgOOGl) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 10:05 |
-| 67 | [Batimentos \- Ao Vivo](https://open.spotify.com/track/6hAaaz1VPSF6Gm3Q1RcoBi) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:05 |
-| 68 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
+| 67 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
+| 68 | [Batimentos \- Ao Vivo](https://open.spotify.com/track/6hAaaz1VPSF6Gm3Q1RcoBi) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 6:05 |
 | 69 | [Deus Emanuel \- Ao Vivo](https://open.spotify.com/track/3zGs1XkgJi8hGyghm4Xrlf) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel \(Ao Vivo\)](https://open.spotify.com/album/1H23z2CJY83kUWzEGpG59r) | 5:12 |
 | 70 | [Que O Incenso Suba](https://open.spotify.com/track/21VLSQJOf5L8isar8COPbv) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:18 |
 | 71 | [Nada Mais Satisfaz](https://open.spotify.com/track/2M1KGKpjeIX9EberJruunh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:54 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 82 | [Que Se Abram Os Portais](https://open.spotify.com/track/1R5utqC4ZIyIyjmmw52OuI) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:54 |
 | 83 | [Ei, Você](https://open.spotify.com/track/2sLMN5XaiUDDEjIL7Gabxi) | [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Ei, Você](https://open.spotify.com/album/79V8dpsBPYR5I5XKt2mbOh) | 4:34 |
 | 84 | [Meu Amor](https://open.spotify.com/track/2ysfPsrP67ijXTbVlLxM6C) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim em Foz do Iguaçu](https://open.spotify.com/album/2hQUz5MjrqXcr5omp5vKnJ) | 3:36 |
-| 85 | [Nada Vai Nos Separar](https://open.spotify.com/track/6SpfklfmEgkO0ZlZ0szMDJ) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:01 |
-| 86 | [Vem Habitar / Lugar Secreto \- Ao Vivo](https://open.spotify.com/track/1wJs0TM87njimCs1tkOdsA) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Nada Mais \(Ao Vivo\)](https://open.spotify.com/album/1yDqFhqtcaX8yzN9RgKYd9) | 12:43 |
+| 85 | [Vem Habitar / Lugar Secreto \- Ao Vivo](https://open.spotify.com/track/1wJs0TM87njimCs1tkOdsA) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Nada Mais \(Ao Vivo\)](https://open.spotify.com/album/1yDqFhqtcaX8yzN9RgKYd9) | 12:43 |
+| 86 | [Nada Vai Nos Separar](https://open.spotify.com/track/6SpfklfmEgkO0ZlZ0szMDJ) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:01 |
 | 87 | [Jesus](https://open.spotify.com/track/2CKVeV4XTiDJzJ6QhLJdMh) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 5:00 |
 | 88 | [Adoração Espontânea \- Ao Vivo](https://open.spotify.com/track/4VgtOEtlLJlpa6okshTlUu) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 21:53 |
 | 89 | [Meu Amado \- Ao Vivo](https://open.spotify.com/track/7cQAzkbSCSbL9Yl0wwy2aa) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Meu Amado \(Ao Vivo\)](https://open.spotify.com/album/3KosRoKDQobyH2Q0wk4H4b) | 10:29 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 105 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 | 106 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
 
-Snapshot ID: `Ab/fKAAAAAANtJuhEv0v1dA9k4pTrh7H`
+Snapshot ID: `Ab/k3AAAAACMaDPowH1/roXyxXUVJR3X`

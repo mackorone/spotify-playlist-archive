@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Jordan Ward
 
-1,509 songs - 3 day 7 hr 30 min
+1,510 songs - 3 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [B\-Side](https://open.spotify.com/track/0Hm61sSVBycsO5Se5mbKdu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [B\-Side](https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo) | 4:34 | 2021-12-10 | 2022-04-16 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-06-10 | 2022-09-10 |
 | [Babe](https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [Richie](https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa) | [Babe](https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0) | 3:08 | 2024-08-23 |  |
+| [baby](https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [baby](https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr) | 3:03 | 2025-10-17 |  |
 | [Baby Blue](https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Baby Blue](https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW) | 3:03 | 2023-12-22 | 2024-05-05 |
 | [Baby Boy \(feat\. 6LACK\)](https://open.spotify.com/track/2aIywmHrxkfIBj4nfzisc2) | [Vanilla is Black](https://open.spotify.com/artist/4s42rA3pdl4zxahEjstXZ5), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [U.Aint.Neva.Lied!](https://open.spotify.com/album/0WFou32su4fOAodolShxwh) | 2:45 | 2024-05-17 | 2024-07-29 |
 | [Baby Chop](https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Baby Chop](https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh) | 3:33 | 2025-07-25 | 2025-08-02 |
@@ -1096,7 +1097,7 @@
 | [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 | 2023-02-24 | 2023-04-01 |
 | [Same Size Shoe](https://open.spotify.com/track/0dedT0AfVJO8ebgLee0prY) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Same Size Shoe](https://open.spotify.com/album/6DxjcIJ9NR4LPZpyDqGVvw) | 3:30 | 2021-03-19 | 2022-01-06 |
 | [Satellite](https://open.spotify.com/track/24ouK1I3KXVItXRWIu2G9W) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [WARM](https://open.spotify.com/album/4IJVAYnl2ZtSBeyNGY1j8A) | 3:19 | 2025-05-09 |  |
-| [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-19 |  |
+| [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-19 | 2025-10-23 |
 | [Satellites](https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 4:25 | 2022-07-15 |  |
 | [SATIVA!](https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf) | [Low.bō](https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y), [YTK](https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b), [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [IMPALA](https://open.spotify.com/album/03OLTLXUlvBfNIDIsJhMNz) | 3:29 | 2024-08-30 |  |
 | [SATURDAY](https://open.spotify.com/track/0Vli1NhhK3d7XiM9VE1t4e) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [SATURDAY](https://open.spotify.com/album/3IGh2i915r40b1qHzWwx8m) | 2:39 | 2023-06-30 | 2024-06-29 |

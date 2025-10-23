@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,253 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,259 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 40 | [beeni \(feat\. Barry Jhay\)](https://open.spotify.com/track/17JuQJJwiZz8xLExCOf59u) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 3:19 |
 | 41 | [Cocoro](https://open.spotify.com/track/6kjNnf3xoreZJHvZ1oSARR) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:49 |
 | 42 | [Wayeh \(feat\. CKay\) \- Remix](https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Wayeh \(feat\. CKay\) \[Remix\]](https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo) | 2:30 |
-| 43 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 |
-| 44 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
+| 43 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 |
+| 44 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 |
 | 45 | [Mezebu \(feat\. Oxlade & KiDi\)](https://open.spotify.com/track/69n4ie3SRkt4uPYG3RYFOl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 3:28 |
 | 46 | [40 Days \(feat\. CKay\)](https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [40 Days \(feat\. CKay\)](https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL) | 3:06 |
 | 47 | [kalakuta](https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [FANTASY](https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Maesu](https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:42 |
 | 50 | [IS IT YOU?](https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 3:03 |
 
-Snapshot ID: `aPV7gAAAAACZ/f7mVlZBgr9BP4mZ9KJw`
+Snapshot ID: `aPbNAAAAAACYIJNBRCyMHLjnThpH3yNS`

@@ -2671,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd"
+    },
+    {
+      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/7AuAvWclZMbjuvnNv3hGR5"
       },
@@ -22582,6 +22600,32 @@
       "duration_ms": 187874,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/43clOQYz4Jhr7AuU1hOS78"
+    },
+    {
+      "album": {
+        "name": "Worlds Apart (PROFF Remix)",
+        "url": "https://open.spotify.com/album/3WWTinkXft98zVVbuJYqdF"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        },
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196656,
+      "name": "Worlds Apart - PROFF Remix",
+      "url": "https://open.spotify.com/track/11vdTubFrrMporME9bLiib"
     },
     {
       "album": {

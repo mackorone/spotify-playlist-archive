@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 宋德鶴 \(Song of Crane\)
 
-3,262 songs - 7 day 22 hr 22 min
+3,263 songs - 7 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,7 @@
 | [Midnight Scripts](https://open.spotify.com/track/4bbcLuZBdblo5yPUjISb1D) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa) | [Midnight Scripts](https://open.spotify.com/album/0hmN4vH939TiOTCSkGqRXP) | 3:13 | 2024-12-19 | 2025-02-21 |
 | [Miffy](https://open.spotify.com/track/13bLrxjbIxB9chHHnBnEMo) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Miffy](https://open.spotify.com/album/4ESQEaiJ3ftdnde7E5oAkO) | 3:36 | 2025-07-24 | 2025-08-15 |
 | [Mikerid 引路](https://open.spotify.com/track/6cwmgl1cUUbLUEsOwwviU5) | [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [Mikerid 引路](https://open.spotify.com/album/7EXEhgjXJPbCd9KjKbgfjD) | 3:35 | 2025-01-23 | 2025-02-14 |
-| [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:34 | 2025-10-16 |  |
+| [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 | 2025-10-16 |  |
 | [Mirror](https://open.spotify.com/track/1CfBcuXAtC8dW7uj8tOvoU) | [Astera7](https://open.spotify.com/artist/30GieJZDGVwI745u0ntU0W) | [ASTERA7](https://open.spotify.com/album/60TcRy3TTg6qUITlJTotxh) | 2:36 | 2025-06-19 | 2025-06-27 |
 | [Miserable](https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Miserable](https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA) | 3:13 | 2025-06-26 | 2025-07-11 |
 | [misirlou](https://open.spotify.com/track/7oUxi1hWnyzrcHa8CVENPd) | [miso808](https://open.spotify.com/artist/4JYjh6QC7QnE3KLjtyrCUz), [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [misirlou](https://open.spotify.com/album/0oiVzwKblMxHXSYRTfCeYB) | 2:47 | 2024-09-12 | 2024-10-04 |
@@ -3040,6 +3040,7 @@
 | [這些日子以來](https://open.spotify.com/track/6ShXM3b7Pz1vEXmJcUJVBw) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [這些日子以來](https://open.spotify.com/album/5zBUqIPkaA5BzBBZYmpygD) | 4:06 | 2024-08-15 | 2024-09-06 |
 | [這個夏季最後一天](https://open.spotify.com/track/4IB6JeKTcnge4EvHnNA2Pd) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [這個夏季最後一天](https://open.spotify.com/album/1QtSZNRIMxmDtAp1JdN7f8) | 4:56 | 2025-07-24 | 2025-08-15 |
 | [這叫做 愛](https://open.spotify.com/track/55epu8lJWqGKLPRHZawokz) | [YOFü](https://open.spotify.com/artist/51f2XtQHZv3wWLsZ0NmqQd) | [這叫做 愛](https://open.spotify.com/album/1rHJRkXgTt4NH03fIjk2EI) | 4:40 | 2025-03-13 | 2025-03-28 |
+| [這我](https://open.spotify.com/track/6srhtNSTCkAUUoMTgZCtPf) | [Jumbo 江柏翰](https://open.spotify.com/artist/1M56cc6rUn4p1mzHdkJMEp), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr) | [這我](https://open.spotify.com/album/5NK1yHxW8ZIort8GrAl5OE) | 2:37 | 2025-10-16 |  |
 | [這樣的我值不值得你愛呢](https://open.spotify.com/track/6nKQaZtDM2OZGbPPXh6mP6) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu) | [兩個世界](https://open.spotify.com/album/5wzJRpKSBlYjhIjyfMNHqs) | 3:36 | 2025-09-04 | 2025-09-26 |
 | [逞強的面孔](https://open.spotify.com/track/5H4OaaGcuhYZSp4EydKYMF) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [逞強的面孔](https://open.spotify.com/album/0PpwcwJ8YA8f9Zw9E19iQC) | 4:10 | 2025-09-04 | 2025-09-26 |
 | [連續劇Drama](https://open.spotify.com/track/10ZvQdcRRaa7S6st0mTnje) | [Showmaîn](https://open.spotify.com/artist/3Z0hrO5NvALfcVK5hk79CJ) | [連續劇Drama](https://open.spotify.com/album/2AcXVt6BLMXfyO55yTVPED) | 2:16 | 2025-07-31 | 2025-08-22 |

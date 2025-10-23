@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-600 songs - 1 day 13 hr 47 min
+603 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,12 +98,14 @@
 | [Body & Soul](https://open.spotify.com/track/4zvVf1nFhfoJi7m9z2fcHf) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Body & Soul](https://open.spotify.com/album/6u7K7LsdKXQlMiObSN8JT2) | 4:44 | 2021-12-07 | 2022-12-02 |
 | [Bring Me Yesterday](https://open.spotify.com/track/0jGhhONiu7NOpOqrnTBh8d) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [October Blue](https://open.spotify.com/album/7kZPEYeThqDrK4xfb4LJJh) | 3:23 | 2022-10-27 | 2025-09-12 |
 | [Buachaille Etive Mor](https://open.spotify.com/track/3xp6Mjv32lpul7WO4ZE94n) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Lost in the Highlands](https://open.spotify.com/album/3pYq97dv4T7e9Gtgp6keBF) | 3:15 | 2023-11-17 |  |
+| [Bubbles](https://open.spotify.com/track/2cak9qM28L1TaaxgdMOVyh) | [Galeazzo](https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw) | [Bubbles](https://open.spotify.com/album/2CyHtYK3K7qGlg16smSPAd) | 2:11 | 2025-10-22 |  |
 | [By Next Year](https://open.spotify.com/track/52t7Mx5FLEjx6IJKOzH6qe) | [Two steps in the street](https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN) | [By Next Year](https://open.spotify.com/album/5UwjvOu1TQEYJDoCJ8Pvgz) | 2:45 | 2025-09-10 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2021-12-07 | 2024-06-14 |
 | [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 |  |
 | [Carroll Street](https://open.spotify.com/track/6HBI2vdAPRno5vMqhZ1x69) | [Berliner Luft Quartet](https://open.spotify.com/artist/1Vm18CZL9fZi0Bk6byWBOl) | [Carroll Street](https://open.spotify.com/album/1kRBPxA2VoHjh2tDjmgc62) | 4:43 | 2024-03-22 | 2025-09-12 |
 | [Catching Up With Time](https://open.spotify.com/track/1hLmsNcZK82o1sevUpqD9u) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 3:38 | 2022-08-11 | 2023-08-11 |
 | [Caçador de Mim](https://open.spotify.com/track/48ucmkpjZzAE3IFfFyugH7) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Caçador de Mim](https://open.spotify.com/album/1LFUqDNXFptjVWGr1AVtWD) | 3:50 | 2024-10-14 |  |
+| [Central Park Stroll](https://open.spotify.com/track/6HqntWF4Ergp1aTtT3FCCZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Central Park Stroll](https://open.spotify.com/album/5vfOxpqBTzqU9V8JS2p7iZ) | 3:40 | 2025-10-22 |  |
 | [Chasing Rainbows](https://open.spotify.com/track/55FGpcsMf5cQGF3BQtZjEw) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Chasing Rainbows](https://open.spotify.com/album/3Ho0NuGDkrtrZGwfe9NwdO) | 3:28 | 2023-09-29 | 2025-09-12 |
 | [Chasing Raindrops](https://open.spotify.com/track/1Qz102L6nW3SfTBmvbKnuU) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Chasing Raindrops](https://open.spotify.com/album/3W663XXNBOrudqv9SjqQ08) | 3:34 | 2023-10-27 |  |
 | [Cherie](https://open.spotify.com/track/2aFdC7xP56IAHVc6NulDRX) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Cherie](https://open.spotify.com/album/5PlgIvkFi9KCurYCCWfzmZ) | 4:08 | 2021-12-07 | 2023-06-16 |
@@ -195,7 +197,7 @@
 | [Fun.\. for a while](https://open.spotify.com/track/31C3r0Cd4EsjoTaoekhFY6) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [Fun.\. for a while](https://open.spotify.com/album/043YVua9YqcodyrgJmwael) | 3:14 | 2023-11-17 |  |
 | [Future Days Ahead](https://open.spotify.com/track/0gLY7Xf1VOOhEmuuonHpkq) | [Homeboy](https://open.spotify.com/artist/30s7ciNzZ7ULqyMmFvpEeE) | [Future Days Ahead](https://open.spotify.com/album/3QEyxhWAcICLkcNtlKinzD) | 2:54 | 2025-09-30 |  |
 | [Gentle Rain](https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Gentle Rain](https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci) | 3:12 | 2024-01-12 | 2025-09-12 |
-| [Get Started](https://open.spotify.com/track/5362P1gqoccfp1i09vrw8m) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Get Started](https://open.spotify.com/album/108WVwTiVkP1EnWSBzA2cv) | 3:32 | 2024-10-07 |  |
+| [Get Started](https://open.spotify.com/track/5362P1gqoccfp1i09vrw8m) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [Get Started](https://open.spotify.com/album/108WVwTiVkP1EnWSBzA2cv) | 3:32 | 2024-10-07 | 2025-10-23 |
 | [Giving thrills](https://open.spotify.com/track/2mKGI5TnGVSWbloCZlma6B) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Giving thrills](https://open.spotify.com/album/4I4N89jyjhMfacIc2tU4uH) | 3:11 | 2023-06-09 | 2025-10-01 |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 | 2024-11-12 |
 | [Gloria's Step](https://open.spotify.com/track/70HkX7bVUQaKxUFb0QpkzU) | [Stephen Hall\-Jones](https://open.spotify.com/artist/6QMXa5PNJqncfTThAYNypG) | [Teach Me Tonight](https://open.spotify.com/album/2MAiNHkNj7COLmWTlJzrHv) | 3:35 | 2021-12-07 | 2022-08-18 |
@@ -341,7 +343,7 @@
 | [Melancholia](https://open.spotify.com/track/2drDXmNLJUcNyrnpq9XVl0) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 3:50 | 2022-06-10 | 2023-06-02 |
 | [Mellow Out](https://open.spotify.com/track/0QM7Ds8yZYKJmJJk68QvVc) | [The Super Smart Trio](https://open.spotify.com/artist/19EdaKxdLLZPymS8It1yZC) | [Mellow Out](https://open.spotify.com/album/5W7P7ckdBDdUpqUxh03L4O) | 2:44 | 2024-10-07 |  |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
-| [Midday, Uptown, Out of Focus](https://open.spotify.com/track/5eoO0f1dg33nEpfMmn4X8o) | [The Smooth Sounds](https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8) | [Midday, Uptown, Out of Focus](https://open.spotify.com/album/73WbfOESHIZgbBJW5Ik1ZP) | 3:38 | 2024-11-18 |  |
+| [Midday, Uptown, Out of Focus](https://open.spotify.com/track/5eoO0f1dg33nEpfMmn4X8o) | [The Smooth Sounds](https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8) | [Midday, Uptown, Out of Focus](https://open.spotify.com/album/73WbfOESHIZgbBJW5Ik1ZP) | 3:38 | 2024-11-18 | 2025-10-23 |
 | [Midnight Mirage](https://open.spotify.com/track/4ZkJ2ihhr5ahvIYPLbRJr4) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Midnight Mirage](https://open.spotify.com/album/2AyLd6evRaAcYOuNI0HV9L) | 2:55 | 2023-12-08 |  |
 | [Midnight Mood](https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Midnight Mood](https://open.spotify.com/album/00JwIcg9QId8yv41j8hsiF) | 2:58 | 2023-10-06 |  |
 | [Midnight Mood](https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Nearness Of You: The Ballad Book](https://open.spotify.com/album/51XWcgZLxZSpBCcrsI8YFY) | 6:23 | 2021-12-07 | 2022-08-18 |
@@ -369,7 +371,7 @@
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2022-08-11 | 2024-11-06 |
 | [My Mistakes](https://open.spotify.com/track/7s4oZhKqHTi77Qx4RPIOmx) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [My Mistakes](https://open.spotify.com/album/4Uv6cZ7LsTVkPzQb9U1XIW) | 3:54 | 2024-03-22 |  |
 | [My Romance](https://open.spotify.com/track/4kjKUNTgMPWnzAD00cpd91) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [My Romance](https://open.spotify.com/album/0qoXES4Bc1uLeVjahn6ypA) | 3:48 | 2021-12-07 | 2025-09-12 |
-| [My Sweet Darling](https://open.spotify.com/track/5HDqVxiCI8eL4yjlSRGGgn) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [My Sweet Darling](https://open.spotify.com/album/6aKjvyPm7n58K9f8Y1DXug) | 4:24 | 2024-10-14 |  |
+| [My Sweet Darling](https://open.spotify.com/track/5HDqVxiCI8eL4yjlSRGGgn) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [My Sweet Darling](https://open.spotify.com/album/6aKjvyPm7n58K9f8Y1DXug) | 4:24 | 2024-10-14 | 2025-10-23 |
 | [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 |  |
 | [Naima](https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps](https://open.spotify.com/album/7cZ6oBx0SEUPDAoxJtxNDh) | 4:18 | 2021-12-07 | 2022-05-11 |
 | [Naima](https://open.spotify.com/track/6N1c9EHlOMHdQ55hmHkhDq) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [Naima](https://open.spotify.com/album/2sSS9Mxw73wnpilrkA4mdJ) | 3:10 | 2022-11-17 | 2025-10-01 |
@@ -608,5 +610,6 @@
 | [You're My Everything](https://open.spotify.com/track/6PQTALunXWR81WZE5IjCzq) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [You're My Everything](https://open.spotify.com/album/5mR2QjUeqbtA8yD9GJfIB8) | 3:39 | 2022-08-30 | 2025-09-12 |
 | [You're My Nemo](https://open.spotify.com/track/20rIiJfktbLUX82tPwVBq6) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [You're My Nemo](https://open.spotify.com/album/3YnthqrqeWfBepWGoAMd70) | 3:58 | 2022-10-27 | 2023-05-26 |
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 | 2025-10-01 |
+| [You’re Very Wrong](https://open.spotify.com/track/0FNRVItw10U6D10rdQLce6) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [You’re Very Wrong](https://open.spotify.com/album/4dMgmvB8aDCh0JxHUulswQ) | 3:07 | 2025-10-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

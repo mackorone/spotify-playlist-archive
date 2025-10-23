@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Zlatan
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,520 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,593 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
-| 2 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 2 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 3 | [Mauvais](https://open.spotify.com/track/3sMUHc8JRbSoIMbTzucmYF) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Mauvais](https://open.spotify.com/album/41563zjsTgUaCXTvhglrUE) | 2:19 |
 | 4 | [Believe](https://open.spotify.com/track/16ilarx3v35s8fwqrIp01v) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Believe](https://open.spotify.com/album/7w4K2sfwhVBFGfmJAiQJf2) | 2:48 |
 | 5 | [Les Limites](https://open.spotify.com/track/1XwMuEs2XEqunpyWZ7APh7) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Les Limites](https://open.spotify.com/album/6hm1vJ1d5B5d3SXFVc63uK) | 2:30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 129121,
+  "num_followers": 129130,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADATpcBQcIKzpZci4D3Bqz7",
+  "snapshot_id": "aPbNAAAAAAA3SkyS0nmhfGSUZzWv+CFU",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Thunder",
-        "url": "https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 217121,
-      "name": "Heaven Thunder",
-      "url": "https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 223344,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven Thunder",
+        "url": "https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 217121,
+      "name": "Heaven Thunder",
+      "url": "https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr"
     },
     {
       "added_at": null,

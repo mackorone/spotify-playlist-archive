@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,437 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,442 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 23 | [Frogs Party \(feat\. 陽\)](https://open.spotify.com/track/4whrY3tG6VpHnTHUNf4WwH) | [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5), [陽](https://open.spotify.com/artist/7sjW2fvyssPuZ7kVLWSNPP) | [Frogs Party \(feat\. 陽\)](https://open.spotify.com/album/0wqd7P04sJCfBm8AigklCC) | 2:54 |
 | 24 | [HIP ATTACK](https://open.spotify.com/track/17kC9uMrArDF44ugV23b5A) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [HIP ATTACK](https://open.spotify.com/album/1RcRSP1vqESZ4Q0Hs6akbU) | 1:49 |
 | 25 | [一日目 \(feat\. noma, XakiMichele, tip jam, Tade Dust & Bonbero\)](https://open.spotify.com/track/0NaTrHvSqvdVgD7QUT3Agj) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [一日目 \(feat\. noma, XakiMichele, tip jam, Tade Dust & Bonbero\)](https://open.spotify.com/album/1h96isqVx4hjWt40RrCrXJ) | 3:04 |
-| 26 | [KAMEHAMEHA \- Remix](https://open.spotify.com/track/06SjgbUEXyg9gTwxlxj4rT) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [KAMEHAMEHA \(feat\. ¥ellow Bucks\) \[Remix\]](https://open.spotify.com/album/3okCdc85yV8LIWrjFtVdzQ) | 3:08 |
+| 26 | [KAMEHAMEHA \(feat\. ¥ellow Bucks\) \- Remix](https://open.spotify.com/track/06SjgbUEXyg9gTwxlxj4rT) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn), [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [KAMEHAMEHA \(feat\. ¥ellow Bucks\) \[Remix\]](https://open.spotify.com/album/3okCdc85yV8LIWrjFtVdzQ) | 3:08 |
 | 27 | [Lotus](https://open.spotify.com/track/7hlnOBb3lNrBMfScz1rPFR) | [B.I.G\. JOHN](https://open.spotify.com/artist/4SVn9Ac8FQ52jXaxWK9cEX) | [VARIOUS TAPE](https://open.spotify.com/album/6scau8PfKZuX284je50V3O) | 3:27 |
 | 28 | [Perfect Night](https://open.spotify.com/track/6lFQpInJCEuop8fLbnwXA5) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [Perfect Night](https://open.spotify.com/album/2mfzeqN27BQhiDkFBTtHM8) | 2:18 |
 | 29 | [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 |

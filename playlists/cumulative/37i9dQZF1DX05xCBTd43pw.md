@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-424 songs - 21 hr 51 min
+425 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Sorry](https://open.spotify.com/track/5fP2ZLhZT6Ry1WZqzmWUNT) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Sorry](https://open.spotify.com/album/1GkLbZiRcGcat8HdCX3rT3) | 2:47 | 2024-09-27 | 2025-01-11 |
 | [spark](https://open.spotify.com/track/13lod7e7tqMqSPXmi6jBKY) | [Long Tall Jefferson](https://open.spotify.com/artist/4dPlgLFpJ1w0BtzNVwQNZq) | [spark](https://open.spotify.com/album/73OXMgGuaifUXUzzh7sn6w) | 3:21 | 2024-12-20 | 2025-02-08 |
 | [Spinning](https://open.spotify.com/track/6duDke7M2I6XeXa6VqcMTD) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [The Movie](https://open.spotify.com/album/2Hl58qQYSxGfAYb9dNIvLi) | 3:47 | 2025-04-24 | 2025-05-02 |
+| [Spätsommer](https://open.spotify.com/track/0gzMov42DaCWpLOiySLzPL) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [Spätsommer](https://open.spotify.com/album/5WuEzee2qFuHUj70Ns7Xb7) | 2:51 | 2025-10-16 |  |
 | [Stabhochspringe](https://open.spotify.com/track/3sz6jUYOTT3hhYO2iG3vUJ) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Stabhochspringe](https://open.spotify.com/album/6druqWQ7NJiOMmjS6Ez6Cc) | 3:32 | 2025-05-15 | 2025-05-23 |
 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 | 2025-03-21 |  |
 | [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 | 2024-06-27 | 2025-06-27 |
@@ -377,7 +378,7 @@
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-14 |
 | [Time to Shine](https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Time to Shine](https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt) | 2:43 | 2025-09-08 |  |
 | [Todas Las Flores](https://open.spotify.com/track/3nUMWn4xuHsP3gM23lVvZr) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Las Flores De Mi Barrio](https://open.spotify.com/album/1aXrU0R7Xgf3YYqPNlFx60) | 2:52 | 2025-04-24 | 2025-05-02 |
-| [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 |  |
+| [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 | 2025-10-23 |
 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 | 2025-10-05 |
 | [Too Long Ago](https://open.spotify.com/track/0QfqAcgO0LKS3c8eLw9G01) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Too Long Ago](https://open.spotify.com/album/1iisgK1KPYxkG3Oa10R6Zl) | 2:42 | 2025-10-16 | 2025-10-20 |
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |

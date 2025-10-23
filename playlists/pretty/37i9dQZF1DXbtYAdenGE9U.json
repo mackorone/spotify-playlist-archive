@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 723681,
+  "num_followers": 723969,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Hard Hop Superstars",
+        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
+      },
+      "artists": [
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Operation Blade (7\" Radio Edit)",
+      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
         "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
       "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Hard Hop Superstars",
-        "url": "https://open.spotify.com/album/6aUOnon0SzOA8ZxmY53HPj"
-      },
-      "artists": [
-        {
-          "name": "Public Domain",
-          "url": "https://open.spotify.com/artist/2OF3TwBOVWNJLMQSUwLC6z"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Operation Blade (7\" Radio Edit)",
-      "url": "https://open.spotify.com/track/09RQez2cCVx1DC1vIan2oS"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -907,18 +907,26 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
+        "name": "Retrospective (25 Years)",
+        "url": "https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4"
       },
       "artists": [
         {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+          "name": "Matt Darey",
+          "url": "https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S"
+        },
+        {
+          "name": "Marcella Woods",
+          "url": "https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
         }
       ],
-      "duration_ms": 268600,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
+      "duration_ms": 186893,
+      "name": "Liberation (Fly Like An Angel) - Ferry Corsten Remix",
+      "url": "https://open.spotify.com/track/4PzBpZbQLEWHwBhh6oFILN"
     }
   ],
   "unique_name": "Trance Classics",

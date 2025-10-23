@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 258480,
+  "num_followers": 258498,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAC10HBY/XtXnBT/ToQjcxHd",
+  "snapshot_id": "aPbNAAAAAADENC6wvHQrq2u5v/AzwBFS",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Precious and Grace (2005 Remaster)",
-      "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 211773,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Precious and Grace (2005 Remaster)",
+      "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
     },
     {
       "added_at": null,

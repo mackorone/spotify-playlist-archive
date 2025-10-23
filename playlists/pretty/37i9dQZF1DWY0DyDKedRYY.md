@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,181 likes - 56 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,163 likes - 56 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

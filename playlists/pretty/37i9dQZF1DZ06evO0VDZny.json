@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 494307,
+  "num_followers": 494395,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADQlRbCC1Gt1K5SaH5E0MUr",
+  "snapshot_id": "aPbNAAAAAABssG+6O3Fr93seQFZWsFxq",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
       "duration_ms": 220041,
       "name": "Kingslayer (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": null,
@@ -319,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+        "name": "CODE MISTAKE",
+        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
       },
       "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+      "duration_ms": 165303,
+      "name": "CODE MISTAKE",
+      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
     },
     {
       "added_at": null,
@@ -383,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CODE MISTAKE",
-        "url": "https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl"
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
       "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        },
         {
           "name": "Bring Me The Horizon",
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 165303,
-      "name": "CODE MISTAKE",
-      "url": "https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit"
+      "duration_ms": 233128,
+      "name": "MANTRA",
+      "url": "https://open.spotify.com/track/060RNnzoMay3wKJek1faPc"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
       "duration_ms": 200236,
       "name": "n/A",
       "url": "https://open.spotify.com/track/0lKUFDN6EFpbg5bnUfkkrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "MANTRA",
-      "url": "https://open.spotify.com/track/060RNnzoMay3wKJek1faPc"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 205212,
-      "name": "drwn.vvv",
-      "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
+      "duration_ms": 209611,
+      "name": "followU.bnd",
+      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 185200,
-      "name": "sTr4nG3r5.vsn0",
-      "url": "https://open.spotify.com/track/5OjkJMfEVBAVgoYshwZuRt"
+      "duration_ms": 205212,
+      "name": "drwn.vvv",
+      "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Life",
+        "url": "https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 226867,
+      "name": "Bad Life",
+      "url": "https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo-files",
         "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
@@ -684,13 +704,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
+      "duration_ms": 165562,
+      "name": "shadowm0ses.frq",
+      "url": "https://open.spotify.com/track/1mdSf2B1wLuUl3XQQEtc00"
     },
     {
       "added_at": null,
@@ -720,13 +740,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "lophiile",
-          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 309218,
-      "name": "med!cine.fbk",
-      "url": "https://open.spotify.com/track/4XhbazNmRNlkUkjYX38Obc"
+      "duration_ms": 207982,
+      "name": "losT_404.nll",
+      "url": "https://open.spotify.com/track/1GMmWuNnaRNIZ396WyXxUB"
     },
     {
       "added_at": null,
@@ -760,17 +780,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Casiio",
-          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
-        },
-        {
-          "name": "No Spirit",
-          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+          "name": "lophiile",
+          "url": "https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R"
         }
       ],
-      "duration_ms": 188456,
-      "name": "Darkside.verXx",
-      "url": "https://open.spotify.com/track/42UmHCU9anrkIcW4jIuiSr"
+      "duration_ms": 259907,
+      "name": "1x1.syncd",
+      "url": "https://open.spotify.com/track/2PbvoaOBu3RREdOp36g4qQ"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

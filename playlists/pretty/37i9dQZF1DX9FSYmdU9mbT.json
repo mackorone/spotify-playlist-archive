@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1450821,
+  "num_followers": 1451155,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-09-19 14:10:00",
       "album": {
-        "name": "Ex-Amor",
-        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 245773,
-      "name": "Ex-Amor",
-      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
-    },
-    {
-      "added_at": "2025-09-19 14:10:00",
-      "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 200820,
       "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
+    },
+    {
+      "added_at": "2025-09-19 14:10:00",
+      "album": {
+        "name": "Ex-Amor",
+        "url": "https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 245773,
+      "name": "Ex-Amor",
+      "url": "https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0"
     },
     {
       "added_at": "2025-09-19 14:10:00",
@@ -883,8 +883,8 @@
     {
       "added_at": "2025-09-19 14:10:00",
       "album": {
-        "name": "Estratosf\u00e9rica Ao Vivo",
-        "url": "https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz"
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 300973,
-      "name": "P\u00e9rola Negra - Ao Vivo",
-      "url": "https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF"
+      "duration_ms": 165800,
+      "name": "Como 2 E 2 - Ao Vivo / Introdu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
     },
     {
       "added_at": "2025-09-19 14:10:00",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2025-09-19 14:10:00",
       "album": {
-        "name": "Gal A Todo Vapor (Live)",
-        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+        "name": "Estratosf\u00e9rica Ao Vivo",
+        "url": "https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 165800,
-      "name": "Como 2 E 2 - Ao Vivo / Introdu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
+      "duration_ms": 300973,
+      "name": "P\u00e9rola Negra - Ao Vivo",
+      "url": "https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF"
     },
     {
       "added_at": "2025-09-19 14:10:00",

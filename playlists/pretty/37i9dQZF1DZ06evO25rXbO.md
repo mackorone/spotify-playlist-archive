@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,144 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,385 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 49 | [Aries \(feat\. Peter Hook and Georgia\)](https://open.spotify.com/track/25Gp0MpGdvrs4hL1u4L2TF) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peter Hook](https://open.spotify.com/artist/7yE0pgnhHPnPk4GZVuEpZM), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 4:13 |
 | 50 | [We Got the Power \(feat\. Jehnny Beth\) \- Claptone Remix](https://open.spotify.com/track/68JZIPnGZxbExNeSb6KslW) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [We Got the Power \(feat\. Jehnny Beth\) \[Claptone Remix\]](https://open.spotify.com/album/06RqqeArD7wnwaNBZrY71a) | 6:04 |
 
-Snapshot ID: `aPV7gAAAAACO8Vi9jlEjNchld25gKToq`
+Snapshot ID: `aPbNAAAAAACKaL4oHjbaU8tcZNrh/jlm`

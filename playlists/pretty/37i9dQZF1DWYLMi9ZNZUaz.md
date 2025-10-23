@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,149 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,168 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 32 | [Chỉ Một Đêm Nữa Thôi](https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:21 |
 | 33 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
 | 34 | [HOP ON DA SHOW](https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [HOP ON DA SHOW](https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb) | 2:55 |
-| 35 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
+| 35 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 |
 | 36 | [Bước Za Đi Xa](https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Marlykid](https://open.spotify.com/artist/1iVDAS7uGjPmHGNxhNmJdI), [Lucin3x](https://open.spotify.com/artist/2LhBOKigSJoFuqyoy4GlW2) | [Bước Za Đi Xa](https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf) | 2:48 |
 | 37 | [Công Ty 4](https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Công Ty 4](https://open.spotify.com/album/0DJ4kSFK3kHAbkkwVHeGoO) | 4:14 |
 | 38 | [ADAMN](https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb) | [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [ADAMN](https://open.spotify.com/album/3GjYyLHh4KssJNk8ZwetnB) | 3:43 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 40 | [Lệ Lưu Ly](https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i) | [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [DT TAP RAP](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Drum7](https://open.spotify.com/artist/0gsqfuR0OFF5SSai7lsPrj) | [Lệ Lưu Ly](https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34) | 3:20 |
 | 41 | [Còn Ai Ngoài Anh Với Em](https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 4:04 |
 | 42 | [Anh Đã Ổn Hơn](https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:14 |
-| 43 | [Hồng không gai](https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [SpideyBoy](https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 3:44 |
+| 43 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
 | 44 | [TRÌNH](https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [TRÌNH](https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA) | 4:35 |
 | 45 | [Tim Anh Ghen](https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [LVK](https://open.spotify.com/artist/76fm2NyyYS5cjegkXhVAlL) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 4:39 |
 | 46 | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Dân Chơi Sao Phải Khóc](https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
 | 50 | [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 |
 
-Snapshot ID: `AAAAAND5VtDexHDsPaM7amQAONCYxDt6`
+Snapshot ID: `AAAAAHk/MQAfg+TWznUpShmux3eV8y/K`

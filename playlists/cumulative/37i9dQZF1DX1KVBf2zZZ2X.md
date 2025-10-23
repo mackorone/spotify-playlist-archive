@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-269 songs - 12 hr 37 min
+270 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Heart of Hearts](https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI) | [Eliza Kloppers](https://open.spotify.com/artist/7FtlLUFJoqOM8Q4ZIYlNcF) | [Heart of Hearts](https://open.spotify.com/album/5WIM8iKTO78MHDDYFF6D0A) | 2:08 | 2023-03-03 | 2024-04-26 |
 | [Hidden Valley](https://open.spotify.com/track/3Qk1kmwicACrLOwY1wGQKc) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Hidden Valley](https://open.spotify.com/album/4Ob4bAUAuYhWCofsKg0vJc) | 2:39 | 2025-06-11 |  |
 | [Hiking With Friends](https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Hiking With Friends](https://open.spotify.com/album/5cQah2fqRS6p4GyfxhM6se) | 3:54 | 2025-02-21 |  |
+| [Holding Quiet](https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0) | [Amadeen](https://open.spotify.com/artist/4dSxhIbiVwIfb0sA1akRN4) | [Holding Quiet](https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y) | 2:41 | 2025-09-24 |  |
 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 | 2023-03-03 | 2025-06-12 |
 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 | 2023-03-03 | 2025-06-12 |
 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 | 2024-02-06 | 2025-06-12 |
@@ -168,7 +169,7 @@
 | [Nonversations](https://open.spotify.com/track/29LiGEmCwtgvIATHl9kpwY) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Nonversations](https://open.spotify.com/album/0LJEhErPCT94DCSflFQuVG) | 4:00 | 2023-10-26 | 2025-04-07 |
 | [Noruega](https://open.spotify.com/track/2gmJtW3bjoCRZ0EBxVSTKN) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Noruega](https://open.spotify.com/album/1iLUSWxkVJs2AXQ4xCq8cx) | 3:45 | 2023-03-03 | 2024-09-05 |
 | [Nota Placidità](https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Nota Placidità](https://open.spotify.com/album/0IPDQQA8WY1zdf0lkjOdDC) | 2:31 | 2023-03-03 | 2025-01-16 |
-| [Nova](https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E) | [8 D Dreaming](https://open.spotify.com/artist/1JhEH0zN1gIRtl5jSsuvpq) | [Nova](https://open.spotify.com/album/6cCeoHK61KUkKWuE06Orel) | 2:27 | 2024-02-06 |  |
+| [Nova](https://open.spotify.com/track/1GryGrQ72Nc5xczICPws4E) | [8 D Dreaming](https://open.spotify.com/artist/1JhEH0zN1gIRtl5jSsuvpq) | [Nova](https://open.spotify.com/album/6cCeoHK61KUkKWuE06Orel) | 2:27 | 2024-02-06 | 2025-10-23 |
 | [Ocean Birds](https://open.spotify.com/track/2WxsSHPMb206URoGTNwAOQ) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Ocean Birds](https://open.spotify.com/album/5Yyy0uhrkeLfkWXt0kzETm) | 3:08 | 2024-02-06 | 2025-06-12 |
 | [October 21st](https://open.spotify.com/track/76cFbynsPU5uVPXifbsmfZ) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [October 21st](https://open.spotify.com/album/5olmbwDm6khNLIvNyWSBpC) | 2:24 | 2023-03-03 | 2025-05-17 |
 | [On Quietude](https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [On Quietude](https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB) | 2:48 | 2024-03-05 | 2025-06-12 |

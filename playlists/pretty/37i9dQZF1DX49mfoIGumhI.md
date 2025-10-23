@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,560 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,664 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 64 | [Enamorado ¿Y Qué?](https://open.spotify.com/track/3SHxpoqH97ODVLsWdmtnQe) | [Morist Jiménez](https://open.spotify.com/artist/4vMHqTfGSyUnTJWXXyxDiV) | [Amor Exagerado](https://open.spotify.com/album/15sVH88nISJQmSDSsDGTIE) | 3:33 |
 | 65 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
 | 66 | [A Fuego Lento](https://open.spotify.com/track/1Srn5mpWz7eS0rdy0EtHxJ) | [Mario Ortiz Y Su Orquesta](https://open.spotify.com/artist/2PdbGJ20Zy4ZxWMpRJarfO), [Anthony Cruz](https://open.spotify.com/artist/23XjDf1pxXEUzkfoLg6oXr), [Luigui Valentin](https://open.spotify.com/artist/0YvHEDgHZq5KnDCEf9xCbc), [Nelson Rodriguez](https://open.spotify.com/artist/1zL7uW1Irj5r3kHTtwikfb), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Primi Cruz](https://open.spotify.com/artist/7cLvr0L2gwaooIkr31AfSa) | [Sexy Salsa](https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv) | 5:00 |
-| 67 | [Dejame Sentirte](https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:32 |
-| 68 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
+| 67 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
+| 68 | [Dejame Sentirte](https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:32 |
 | 69 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
 | 70 | [Si Me Ves Llorar](https://open.spotify.com/track/0vMywJjFDTF7fhUxTBD3a3) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 5:28 |
 | 71 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |
-| 72 | [Tu](https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:13 |
-| 73 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 |
+| 72 | [Esa Mujer](https://open.spotify.com/track/2GBTcQdwU4pEEreRvAQkqI) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3zA2XZrvoW8Yatqlbv2Orf) | 5:51 |
+| 73 | [Tu](https://open.spotify.com/track/2SXhR5RyU56gSWRANsTzJf) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [De Amor y Salsa](https://open.spotify.com/album/021o25wvfikSTFTS43DRrc) | 5:13 |
 | 74 | [Vestida De Blanco](https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2) | [German Carreño Y Su Orquesta](https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY) | [Exitos Bailables](https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo) | 4:42 |
 | 75 | [Caradura](https://open.spotify.com/track/1ngWLwko1GnliVV9kHj4CC) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/1GtGW64AKrjOsAOrHO30uW) | 5:17 |
 

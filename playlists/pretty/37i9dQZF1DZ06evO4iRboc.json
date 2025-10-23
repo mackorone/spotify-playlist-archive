@@ -1,13 +1,29 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 332384,
+  "num_followers": 332625,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABcb2cKZxUyoAc5knda17dH",
+  "snapshot_id": "aPbNAAAAAABmSqBJpcAn57fe2K4cMAPi",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
     {
       "added_at": null,
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
     },
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Matter of Time",
         "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Too Little, Too Late",
-      "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Castle in Hollywood",
-      "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 210826,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Castle in Hollywood",
+      "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mr. Eclectic",
-      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 204813,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mr. Eclectic",
+      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 225360,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "Bewitched",
+      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 239308,
       "name": "No One Knows (with Laufey)",
       "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "Bewitched",
-      "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Matter of Time (Standard Edition)",
-        "url": "https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Seems Like Old Times - Bonus Track",
-      "url": "https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 171253,
       "name": "What Love Will Do to You",
       "url": "https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Matter of Time (Standard Edition)",
+        "url": "https://open.spotify.com/album/6lauK4mNENDUMSoekDVDNG"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "Seems Like Old Times - Bonus Track",
+      "url": "https://open.spotify.com/track/5mAFfXu5wUJWicmzxjJRKo"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
       "duration_ms": 175970,
       "name": "James",
       "url": "https://open.spotify.com/track/2y1NtQ2ZfIq0zBUP3tOlbX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Big Bold Beautiful Journey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "The Risk",
+      "url": "https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5"
     }
   ],
   "unique_name": "This Is Laufey",

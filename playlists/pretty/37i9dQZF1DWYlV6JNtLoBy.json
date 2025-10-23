@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 7817,
+  "num_followers": 7821,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
+        "name": "Grave Robber",
+        "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 170854,
+      "name": "Grave Robber",
+      "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
         "name": "The Maverick Way Complete",
         "url": "https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth)",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
-        "name": "Grave Robber",
-        "url": "https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 170854,
-      "name": "Grave Robber",
-      "url": "https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -943,18 +943,22 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "Mkono Wa Bwana",
-        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
+        "name": "My God Can",
+        "url": "https://open.spotify.com/album/2EsJkUcFBmJxhwhFU6dZnI"
       },
       "artists": [
         {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 349492,
-      "name": "Mkono Wa Bwana",
-      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
+      "duration_ms": 193253,
+      "name": "My God Can",
+      "url": "https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP"
     }
   ],
   "unique_name": "Sunday Service",

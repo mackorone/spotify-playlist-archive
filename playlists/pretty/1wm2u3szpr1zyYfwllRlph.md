@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Mr\. Belt &amp; Wezol
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 55,725 likes - 130 songs - 6 hr 27 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 55,716 likes - 130 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

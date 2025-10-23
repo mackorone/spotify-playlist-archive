@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,663 likes - 772 songs - 2 day 3 hr 28 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,662 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -447,7 +447,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 437 | [Brian Eno](https://open.spotify.com/track/4QbVaPjV46w52zemaIWYl8) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 4:31 |
 | 438 | [What Do You Want from Me](https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 4:21 |
 | 439 | [Head On/Pill](https://open.spotify.com/track/1QRF2G6fikn2HfRiasawb2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Float Along \- Fill Your Lungs](https://open.spotify.com/album/2ejooTHUieuzc8Lh9IfTTG) | 16:01 |
-| 440 | [The Warmth Of The Sun \- Remastered](https://open.spotify.com/track/1kfiVmfrGvHKdZORtXCaVS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 2:50 |
+| 440 | [The Warmth Of The Sun \- Remastered 2007](https://open.spotify.com/track/1kfiVmfrGvHKdZORtXCaVS) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Warmth Of The Sun](https://open.spotify.com/album/2dZC8JN4oGdw4BrRzmvS4m) | 2:50 |
 | 441 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
 | 442 | [Souk Eye](https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:34 |
 | 443 | [Cuttooth](https://open.spotify.com/track/6SpiFBcx6AnV3hJIAH6dLy) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Knives Out](https://open.spotify.com/album/57Y0vXSekxJYg9NqBmVSQc) | 5:23 |

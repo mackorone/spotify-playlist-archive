@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" ©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,584 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,583 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 45 | [ノンフィクション!!](https://open.spotify.com/track/0wmhZDwpQ5GrHmUw0gptpB) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [ノンフィクション!! / Starlight Prologue \(第10話盤\)](https://open.spotify.com/album/5rh6WW5CgGcvHVbPrxG8xp) | 3:23 |
 | 46 | [Message](https://open.spotify.com/track/3xuAptuZOk4bTa9FpO20XR) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:45 |
 | 47 | [私のSymphony \- 2023Ver.](https://open.spotify.com/track/48G3gVCSvekCASVHf4Uacu) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 3:58 |
-| 48 | [Second Sparkle](https://open.spotify.com/track/45f4GDIfxYJempbVqaxvtV) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:25 |
-| 49 | [FANTASTiC](https://open.spotify.com/track/5izlH6xpEMvlBiusUYA9zp) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 3:35 |
-| 50 | [私のSymphony \- 2022 Version](https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:57 |
+| 48 | [FANTASTiC](https://open.spotify.com/track/5izlH6xpEMvlBiusUYA9zp) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/1aBcNwS0BGSJG5F0WGxXAA) | 3:35 |
+| 49 | [私のSymphony \- 2022 Version](https://open.spotify.com/track/0uSJF9rlX5ZxyCfzeuSugO) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:57 |
+| 50 | [Second Sparkle](https://open.spotify.com/track/45f4GDIfxYJempbVqaxvtV) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:25 |
 
 Snapshot ID: `AAAAACxXST60Uz/po7WPHx0sSgL+YdGV`

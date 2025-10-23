@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Elias Rønnenfelt  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,966 likes - 238 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,968 likes - 238 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

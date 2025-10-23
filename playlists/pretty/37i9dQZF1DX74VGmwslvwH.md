@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,620 likes - 129 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,744 likes - 129 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 128 | [Simoom](https://open.spotify.com/track/7gR19CaxVW3DfvSfJEGRMT) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:41 |
 | 129 | [Nainital Honeymoon](https://open.spotify.com/track/4ImoheUJchq404T34HH5lN) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Nainital Honeymoon](https://open.spotify.com/album/2wd6EhW4H94OL8n0x4GBmx) | 4:15 |
 
-Snapshot ID: `AAAAALkRB3Yciz3RjtShUe10SdBgkgZt`
+Snapshot ID: `AAAAAKBPrZSAfuh+cVMf7dLGMO4bZ200`

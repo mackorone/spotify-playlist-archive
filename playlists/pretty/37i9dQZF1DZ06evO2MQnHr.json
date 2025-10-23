@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACSTN78h92qG0hqP+5fEX2q",
+  "snapshot_id": "aPbNAAAAAAB+8L9Fzmki1hzAbXqcnpWb",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country Crush (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
+        "name": "You'll Think Of Me",
+        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
       },
       "artists": [
-        {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
-        },
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 222022,
-      "name": "To Have You Stay",
-      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
+      "duration_ms": 247026,
+      "name": "You'll Think Of Me",
+      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
     },
     {
       "added_at": null,
@@ -379,18 +371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "You'll Think Of Me",
-        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
+        "name": "Country Crush (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd"
       },
       "artists": [
+        {
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 247026,
-      "name": "You'll Think Of Me",
-      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
+      "duration_ms": 222022,
+      "name": "To Have You Stay",
+      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 216270,
-      "name": "What If I Am",
-      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+      "duration_ms": 216270,
+      "name": "What If I Am",
+      "url": "https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR"
     },
     {
       "added_at": null,

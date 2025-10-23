@@ -3282,12 +3282,12 @@
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
           "name": "DJ Snake",
           "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
           "name": "TRXGGX",
@@ -12854,7 +12854,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 217714,
       "name": "Kingsound",
       "url": "https://open.spotify.com/track/6wvyABCsDRGp9hN1xNNnAe"
@@ -17190,7 +17190,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 167412,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/03SpTUQVge8DtUGqGxzgTL"

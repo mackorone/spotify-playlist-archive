@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 209685,
+  "num_followers": 209713,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAD/Jw6edhy68WjybbpwHCrm",
+  "snapshot_id": "aPbNAAAAAAA0ZCHMoL2q3smgfG/LAii3",
   "tracks": [
     {
       "added_at": null,
@@ -1083,30 +1083,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Dono do Lugar",
-        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
       "artists": [
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 268074,
-      "name": "do menor",
-      "url": "https://open.spotify.com/track/3TpjXJJj6Lz25plCU6iWK2"
+      "duration_ms": 173600,
+      "name": "5 da manh\u00e3",
+      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
     },
     {
       "added_at": null,
@@ -1131,18 +1119,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+        "name": "O Dono do Lugar",
+        "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
       },
       "artists": [
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 173600,
-      "name": "5 da manh\u00e3",
-      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
+      "duration_ms": 268074,
+      "name": "do menor",
+      "url": "https://open.spotify.com/track/3TpjXJJj6Lz25plCU6iWK2"
     },
     {
       "added_at": null,
@@ -1191,30 +1191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinopse",
-        "url": "https://open.spotify.com/album/0xJrF4kjy8wwsjT0Nt3W3e"
-      },
-      "artists": [
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 201355,
-      "name": "Sinopse",
-      "url": "https://open.spotify.com/track/52NRuwUkXByg4dk99RbraN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
       },
@@ -1255,6 +1231,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinopse",
+        "url": "https://open.spotify.com/album/0xJrF4kjy8wwsjT0Nt3W3e"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 201355,
+      "name": "Sinopse",
+      "url": "https://open.spotify.com/track/52NRuwUkXByg4dk99RbraN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Dono do Lugar",
         "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
       },
@@ -1279,8 +1279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
       },
       "artists": [
         {
@@ -1288,13 +1288,17 @@
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Yodabren",
+          "url": "https://open.spotify.com/artist/2m8hZOT5QUrECPyIHd1ZrQ"
         }
       ],
-      "duration_ms": 262400,
-      "name": "LADR\u00c3O",
-      "url": "https://open.spotify.com/track/1SoVbAACWECOhsVZY4M1Jb"
+      "duration_ms": 279253,
+      "name": "Santa Ceia",
+      "url": "https://open.spotify.com/track/1NFfZNNGAl0pbjiK9NuHsW"
     }
   ],
   "unique_name": "This Is Djonga",

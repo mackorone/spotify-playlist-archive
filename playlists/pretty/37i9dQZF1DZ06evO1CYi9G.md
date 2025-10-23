@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,806 likes - 41 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,814 likes - 41 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 4 | [Not Falling](https://open.spotify.com/track/15TzkwxGNvM3RGib0YkH4T) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:03 |
 | 5 | [Forget to Remember \- From Saw II \- Original Soundtrack](https://open.spotify.com/track/0h5D9uxuZRAfq6qMMX34vN) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:35 |
 | 6 | [Death Blooms](https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:51 |
-| 7 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
-| 8 | [Do What You Do](https://open.spotify.com/track/4Icu8prpEka7ufeeyVlj7a) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:36 |
+| 7 | [Do What You Do](https://open.spotify.com/track/4Icu8prpEka7ufeeyVlj7a) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:36 |
+| 8 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
 | 9 | [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 |
 | 10 | [Sticks and Stones](https://open.spotify.com/track/7vEtEZXHMAk8oZksZ6xftE) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Sticks And Stones](https://open.spotify.com/album/2dHPDll7CHkR15u1shRGBU) | 3:53 |
 | 11 | [World So Cold](https://open.spotify.com/track/0I5Fgl7pT26M1qSIixlzR2) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 5:36 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 26 | [Have It Your Way](https://open.spotify.com/track/1Vsjo3i3pnWhN9DU3TlEDp) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:45 |
 | 27 | [Trapped In the Wake of a Dream](https://open.spotify.com/track/0vO8Q8lAmmoQU8lx0ugE39) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 4:41 |
 | 28 | [Closer](https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 3:21 |
-| 29 | [Cultivate](https://open.spotify.com/track/2UZ9GX5u2B8zGJkbhTGe7d) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 4:17 |
+| 29 | [IMN](https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 5:51 |
 | 30 | [Fish Out Of Water](https://open.spotify.com/track/05l9Tn84hsMBO95rBnyMj7) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:30 |
-| 31 | [IMN](https://open.spotify.com/track/5g924DBWMk3Crw134IO0Sj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 5:51 |
+| 31 | [Cultivate](https://open.spotify.com/track/2UZ9GX5u2B8zGJkbhTGe7d) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 4:17 |
 | 32 | [Beautiful And Strange](https://open.spotify.com/track/2fsL0tTdpSQnktNRUwRTiK) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 5:03 |
 | 33 | [On The Move \- Demo](https://open.spotify.com/track/1IdIsjIw9rCpuLB7vkb7rX) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 3:55 |
 | 34 | [Seed](https://open.spotify.com/track/2FSaIjUhyJ21nEwIe0JApd) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:27 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 40 | [Coal](https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 5:03 |
 | 41 | [Central Disposal](https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:16 |
 
-Snapshot ID: `aPV7gAAAAADP/X6uYbaRMq+h+I2LCLLo`
+Snapshot ID: `aPbNAAAAAAC96o5Hx8FHHNqquApzsbG8`

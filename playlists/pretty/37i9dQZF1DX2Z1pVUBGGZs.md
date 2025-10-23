@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Erin LeCount ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,839 likes - 120 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,810 likes - 120 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 37 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
 | 38 | [Lucky October](https://open.spotify.com/track/6fuRXJSho4RxGVVzEFQPpT) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:41 |
 | 39 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
-| 40 | [Sun Time](https://open.spotify.com/track/0aTJDB5KAbxHPhAh61DRF9) | [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g) | [Sun Time](https://open.spotify.com/album/5DhJIa24Zu8rpMtUKprvzT) | 3:02 |
+| 40 | [Sun Time](https://open.spotify.com/track/0aTJDB5KAbxHPhAh61DRF9) | [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [Lily Afield](https://open.spotify.com/artist/4Gx8WSAZtHsd11BhFEV7cv) | [Sun Time](https://open.spotify.com/album/5DhJIa24Zu8rpMtUKprvzT) | 3:02 |
 | 41 | [Down To The Wire](https://open.spotify.com/track/6mNWA5l4FIFQ4UAcUHlSqD) | [Little Dog Star](https://open.spotify.com/artist/2DayGMoy8DCtrJpBq8p0PH) | [Down To The Wire](https://open.spotify.com/album/3uhrzab6thCIF1bX2FihLl) | 3:16 |
 | 42 | [All The Same](https://open.spotify.com/track/3YdPA3KVj4XAVxsG8ExiaP) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1), [Ryan Amber](https://open.spotify.com/artist/01YJBuanxkPGr6EGC5yDLP) | [All The Same](https://open.spotify.com/album/2xErki2v93UMr0abpbQKnL) | 2:39 |
 | 43 | [Go Go Girl](https://open.spotify.com/track/1J8pJUeHUt1NZCf0qapDtI) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Go Go Girl](https://open.spotify.com/album/4OugZBZADlAltOm5Pexbbf) | 3:22 |

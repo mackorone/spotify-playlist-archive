@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 99689,
+  "num_followers": 99696,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADK+ZAHLnz79xhHYB8Ir0Bi",
+  "snapshot_id": "aPbNAAAAAAD5ZB1o5o8b4JQsZH0AwJ7h",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Yeah Boy",
-      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 172533,
       "name": "To The Men That Love Women After Heartbreak",
       "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Yeah Boy",
+      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Love Me Like You Mean It",
-      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PATTERNS (Stripped Session)",
         "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 155200,
       "name": "Baggage (Stripped Version)",
       "url": "https://open.spotify.com/track/2t1pIl7vd9cDFS3u1Qeix5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Love Me Like You Mean It",
+      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+        "name": "PATTERNS (Stripped Session)",
+        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 172371,
-      "name": "Better Luck Next Time",
-      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+      "duration_ms": 163986,
+      "name": "We Broke Up (Stripped Version)",
+      "url": "https://open.spotify.com/track/3x4eE3NjK46g6MUrmbSg9d"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS (Stripped Session)",
-        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 163986,
-      "name": "We Broke Up (Stripped Version)",
-      "url": "https://open.spotify.com/track/3x4eE3NjK46g6MUrmbSg9d"
+      "duration_ms": 172371,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 172146,
-      "name": "I Would, Would You",
-      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 178746,
-      "name": "Leave Me Again",
-      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+      "duration_ms": 172146,
+      "name": "I Would, Would You",
+      "url": "https://open.spotify.com/track/06Db3gqF8HfzbiYxyFaGBx"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
       "duration_ms": 148826,
       "name": "Future Tripping",
       "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "WAIT!",
-      "url": "https://open.spotify.com/track/6l9ponCrul5GMirw4xqwVc"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "WAIT!",
+      "url": "https://open.spotify.com/track/6l9ponCrul5GMirw4xqwVc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "This Time Last Year",
-      "url": "https://open.spotify.com/track/2Ve9kb1yvuZL1uo00p1BdS"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "This Time Last Year",
+      "url": "https://open.spotify.com/track/2Ve9kb1yvuZL1uo00p1BdS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
@@ -779,22 +779,6 @@
       "duration_ms": 223213,
       "name": "First Rodeo",
       "url": "https://open.spotify.com/track/6HHQ2d7MMqoc1x6nXki8m3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "Beg For Your Love",
-      "url": "https://open.spotify.com/track/7ppbeg2hnsQQ4q4FF5Lnex"
     },
     {
       "added_at": null,
@@ -819,6 +803,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "PATTERNS (Stripped Session)",
+        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Sorry Mom (Stripped Version)",
+      "url": "https://open.spotify.com/track/6Ln1dikWGYzicMyim5mWqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "Beg For Your Love",
+      "url": "https://open.spotify.com/track/7ppbeg2hnsQQ4q4FF5Lnex"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 198053,
       "name": "Just Married",
       "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS (DELUXE)",
-        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/5trFyrNAm7vhF6Msz2UPxw"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

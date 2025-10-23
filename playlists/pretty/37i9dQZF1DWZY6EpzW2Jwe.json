@@ -1,12 +1,12 @@
 {
   "description": "Remembering Ozzy Osbourne",
-  "num_followers": 426473,
+  "num_followers": 426683,
   "original_name": "This Is Ozzy Osbourne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/BqLzf8+EKO5+97xmM6sKHo1Jz",
+  "snapshot_id": "AAAAAElDeCr7bmJvKzBAlcEobqXOc7ZK",
   "tracks": [
     {
       "added_at": "2025-07-22 18:51:20",
@@ -71,6 +71,26 @@
       "duration_ms": 257120,
       "name": "Bark at the Moon",
       "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
+    },
+    {
+      "added_at": "2025-10-22 19:09:52",
+      "album": {
+        "name": "War Pigs (Charity Version)",
+        "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 484779,
+      "name": "War Pigs - Charity Version",
+      "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
     },
     {
       "added_at": "2025-07-22 18:51:20",
@@ -151,22 +171,6 @@
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
-    },
-    {
-      "added_at": "2025-07-22 18:51:20",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 474359,
-      "name": "War Pigs / Luke's Wall - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1"
     },
     {
       "added_at": "2025-07-22 18:51:20",

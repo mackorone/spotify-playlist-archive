@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81971,
+  "num_followers": 81966,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADKJmqvbEzPam1+icBbTHoN",
+  "snapshot_id": "aPbNAAAAAADhzedD6z8fmtI4kbK9DEkJ",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beira Mar",
+        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Mundo da Lua / Abra\u00e7o",
         "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 338861,
       "name": "No Mundo da Lua / Abra\u00e7o",
       "url": "https://open.spotify.com/track/2KyjaRrklvkqdIGUEJSGto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beira Mar",
-        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 180032,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
     },
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Culpa \u00c9 das Igrejas / Sinais",
+        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 247975,
+      "name": "A Culpa \u00c9 das Igrejas / Sinais",
+      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica Ep. Jeri",
         "url": "https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi"
       },
@@ -975,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Culpa \u00c9 das Igrejas / Sinais",
-        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 247975,
-      "name": "A Culpa \u00c9 das Igrejas / Sinais",
-      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1015,22 +1015,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+        "name": "Pode Sair / Pode Ficar",
+        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Math Basso",
+          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
         },
         {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 173989,
-      "name": "Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
+      "duration_ms": 173042,
+      "name": "Pode Sair / Pode Ficar",
+      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
         }
       ],
-      "duration_ms": 183708,
-      "name": "Eu Penso",
-      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
+      "duration_ms": 173989,
+      "name": "Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
     },
     {
       "added_at": null,
@@ -1139,30 +1139,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
       },
       "artists": [
         {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
         }
       ],
-      "duration_ms": 211363,
-      "name": "Sos",
-      "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
+      "duration_ms": 183708,
+      "name": "Eu Penso",
+      "url": "https://open.spotify.com/track/2mdV9aef4MkBJ9Mmnilqa0"
     },
     {
       "added_at": null,
@@ -1191,26 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pode Sair / Pode Ficar",
-        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
-      },
-      "artists": [
-        {
-          "name": "Math Basso",
-          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 173042,
-      "name": "Pode Sair / Pode Ficar",
-      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beira Mar, Pt. 2",
         "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
       },
@@ -1231,50 +1203,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poetisas no Topo 4",
-        "url": "https://open.spotify.com/album/3ysU9DYelUV6ML80xGMki9"
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
       },
       "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
         },
         {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         },
         {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "prodbymvfa",
-          "url": "https://open.spotify.com/artist/2FJxiMBUFCPXN1ZVYHGSDa"
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
         }
       ],
-      "duration_ms": 414703,
-      "name": "Poetisas no Topo 4",
-      "url": "https://open.spotify.com/track/5eAsjTMGdKEUgNhRJUc9YU"
+      "duration_ms": 211363,
+      "name": "Sos",
+      "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desmoronar",
+        "url": "https://open.spotify.com/album/7DsJeTsbZrDzkgdMMTx6uv"
+      },
+      "artists": [
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Desmoronar",
+      "url": "https://open.spotify.com/track/7f24oT0v5BiURjxYVjfZD0"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

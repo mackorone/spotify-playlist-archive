@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cWx7nd0uuW.md) - [plain]
 
 > Challenging norms, breaking boundaries with Advisry's Keith Herron\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,691 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,702 likes - 42 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cWx7nd0uuW.md) - [plain]
 | 19 | [DOTS FREESTYLE REMIX](https://open.spotify.com/track/6cvMj4aI5W6wVXUWkDbAIA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Buzzy Lee](https://open.spotify.com/artist/0cz2DZrX5wGn1XUdIPKYYQ), [Abdu Ali](https://open.spotify.com/artist/1sCfVwDw9jhng9PUMNcqlo) | [All My Heroes Are Cornballs](https://open.spotify.com/album/5ilsl5R2lGACTnPZMKIp7o) | 2:07 |
 | 20 | [I! Gits! Weary!](https://open.spotify.com/track/1ZeubAX1d0y0BO3gO0fmLd) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [Forever, Ya Girl](https://open.spotify.com/album/4jZGBAQ1iYaWlYndJ8h7LS) | 2:05 |
 | 21 | [On The Street](https://open.spotify.com/track/5MYZe0fRl0CWjaTAU0tR1V) | [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Love Streak](https://open.spotify.com/album/58BwQStbSy52d8XfgLbvmt) | 2:29 |
-| 22 | [Tell Me Where To Go](https://open.spotify.com/track/28rYYAT4AF7aeUV5rzCOBB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 2:53 |
+| 22 | [Tell Me Where To Go](https://open.spotify.com/track/28rYYAT4AF7aeUV5rzCOBB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/2vMpqIUldNe7m83WAUqIdC) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 2:53 |
 | 23 | [Swoosh 23](https://open.spotify.com/track/5VrYlyfcUtWZhlPFl77AoH) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Beware of the Monkey](https://open.spotify.com/album/52743dknIjnsCqQrKSIX5r) | 2:35 |
 | 24 | [Horse](https://open.spotify.com/track/2bLHcJ6UsFRTnF64jK7c8T) | [Quadron](https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ) | [Quadron](https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ) | 4:01 |
 | 25 | [Sink In](https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Sink In](https://open.spotify.com/album/4B96zJ2Iam0bCgntIJEO6E) | 3:57 |

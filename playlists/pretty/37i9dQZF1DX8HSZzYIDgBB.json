@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Maffio en portada.",
-  "num_followers": 39798,
+  "num_followers": 39803,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "iLevitable",
+        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 249853,
+      "name": "Te Quiero Con Bugal\u00fa",
+      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Palo Santo",
         "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 184000,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "iLevitable",
-        "url": "https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 249853,
-      "name": "Te Quiero Con Bugal\u00fa",
-      "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
         "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 200510,
       "name": "atravesao",
       "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "El arca de Mima",
-        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
         }
       ],
-      "duration_ms": 262318,
-      "name": "El arca de Mima",
-      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+        "name": "El arca de Mima",
+        "url": "https://open.spotify.com/album/2NPa1SuUyIDcdrSZbHr63n"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
         }
       ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
+      "duration_ms": 262318,
+      "name": "El arca de Mima",
+      "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
     },
     {
       "added_at": "2025-10-03 06:00:06",

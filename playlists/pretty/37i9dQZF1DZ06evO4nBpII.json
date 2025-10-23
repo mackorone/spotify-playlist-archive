@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1132476,
+  "num_followers": 1132579,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADg2LD9nS4hCDE/W36Uquzm",
+  "snapshot_id": "aPbNAAAAAACRAKvPzbmg+Y45S8y5HHYO",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+      "duration_ms": 260936,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"
     },
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 260936,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 493400,
-      "name": "Holiday / Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 232826,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0lvhEsN1zkMzfp2M1o17yy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 493400,
+      "name": "Holiday / Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/0MsrWnxQZxPAcov7c74sSo"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 548253,
-      "name": "Jesus of Suburbia",
-      "url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 168226,
       "name": "Minority",
       "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 548253,
+      "name": "Jesus of Suburbia",
+      "url": "https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Redundant",
-      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 213106,
       "name": "Macy's Day Parade",
       "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Redundant",
+      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 132080,
-      "name": "The Grouch",
-      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution Radio",
         "url": "https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 205440,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "The Grouch",
+      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Scattered",
-      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 196794,
       "name": "Suzie Chapstick",
       "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Church on Sunday",
+      "url": "https://open.spotify.com/track/1a2aGhclRcNXQ8wq4V06x4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Fun Mondays",
         "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 134671,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Church on Sunday",
-      "url": "https://open.spotify.com/track/1a2aGhclRcNXQ8wq4V06x4"
     },
     {
       "added_at": null,

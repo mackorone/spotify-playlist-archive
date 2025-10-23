@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGe3coPVOS4.md) - [plain]
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,303 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,317 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

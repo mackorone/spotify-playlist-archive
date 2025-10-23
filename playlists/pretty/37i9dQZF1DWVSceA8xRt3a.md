@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSceA8xRt3a.md) - [plain]
 
 > Celine Song of A24's Past Lives curates a playlist of "love songs about cities"
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,609 likes - 47 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,627 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

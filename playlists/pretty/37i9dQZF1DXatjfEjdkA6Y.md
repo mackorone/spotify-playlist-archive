@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,452 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,457 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 23 | [Yo soy aquél](https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Grandes éxitos](https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl) | 2:39 |
 | 24 | [Se Piangi Se Ridi](https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL) | [Bobby Solo](https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn) | [Bobby Solo Cantaitalia](https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy) | 3:24 |
 | 25 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
-| 26 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
-| 27 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 |
-| 28 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
-| 29 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
+| 26 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 |
+| 27 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
+| 28 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
+| 29 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
 | 30 | [Jennie Jennie](https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Musik vi minns..\. / Lasse Berghagen](https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH) | 3:26 |
 | 31 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
 | 32 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 34 | [Nous les amoureux](https://open.spotify.com/track/35PWl4T8d2U3a5AboajXXw) | [Jean\-Claude Pascal](https://open.spotify.com/artist/42UBmNWaHgsHF305Q32lIy) | [nous les amoureux](https://open.spotify.com/album/5PiFvrgJCnWMc8jbc3dPrK) | 3:07 |
 | 35 | [Save Your Kisses For Me \- Re\-Recording](https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [The Definitive Collection](https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43) | 3:03 |
 | 36 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 |
-| 37 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
-| 38 | [Congratulations \- 1998 Remaster](https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Singles Collection](https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO) | 2:35 |
+| 37 | [Congratulations \- 1998 Remaster](https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Singles Collection](https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO) | 2:35 |
+| 38 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
 | 39 | [Sol och vår](https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H) | [Inger Berggren](https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS) | [Sol och vår](https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE) | 3:08 |
 | 40 | [Oh Oh Ik Heb Zorgen](https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [Het Beste Van Louis Neefs](https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O) | 2:25 |
 | 41 | [Angelique](https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI) | [Dario Campeotto](https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE) | [Angelique](https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq) | 3:59 |

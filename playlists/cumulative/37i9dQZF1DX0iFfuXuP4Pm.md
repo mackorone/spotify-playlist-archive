@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Rob Deniel
+> Mga nangunguna sa mundo ng OPM\. Cover: Over October
 
-411 songs - 1 day 1 hr 29 min
+413 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-24 | 2024-12-12 |
 | [KABANATA](https://open.spotify.com/track/0XAd307ZQhPFVtnVrqwUsd) | [JAO](https://open.spotify.com/artist/6Bc3V3kVnWpY5kqQN6nio5) | [KABANATA](https://open.spotify.com/album/4ORFzQtMyd3xR7SnLFnod9) | 3:48 | 2025-03-26 | 2025-07-03 |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-18 |  |
+| [Kahit 1 month pa lang](https://open.spotify.com/track/4zx0T8X11XdeyHntqRPLeX) | [Hattus](https://open.spotify.com/artist/0jFhoFzinngkDsmalRO9mP), [Eunice Rain](https://open.spotify.com/artist/6bd7dF5PF46dezapDpHouS) | [Kahit 1 month pa lang](https://open.spotify.com/album/4lV3xMGinhtp7SEybSEZTe) | 2:27 | 2025-10-22 |  |
 | [Kahit Saglit](https://open.spotify.com/track/7GtJ65ONCbbcDYizn9T4lE) | [Similar Sky](https://open.spotify.com/artist/5v3Pm6onpGC3AHLCO6Da45) | [Kahit Saglit](https://open.spotify.com/album/7rMoGXai8iHlLPxzyvAGW5) | 3:33 | 2024-08-07 | 2024-09-05 |
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-24 | 2024-09-05 |
 | [Kailan?](https://open.spotify.com/track/4tbkaANOZqYfGbvAKcWvUx) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Kailan?](https://open.spotify.com/album/2VH6PnJ5Hn2angmeDpnjqn) | 3:19 | 2024-12-11 | 2025-02-07 |
@@ -281,7 +282,7 @@
 | [Pagbigyan](https://open.spotify.com/track/6hHyv6Lw3z6wlQO8f8unOC) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Pagbigyan](https://open.spotify.com/album/35FpOjf15ugBMGuf3Bem3w) | 4:44 | 2024-07-31 | 2024-11-07 |
 | [Pagbilang ng Tatlo](https://open.spotify.com/track/0RFS0I6c0tIaB0rdPa652Z) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Pagbilang ng Tatlo](https://open.spotify.com/album/5zDHRmcJnKJ3rwebiucYI4) | 3:15 | 2024-11-20 | 2025-03-19 |
 | [pagod na \(sayo\)](https://open.spotify.com/track/64AtBQlNawUk2nVIsLxwVF) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [pagod na \(sayo\)](https://open.spotify.com/album/1EB8V0k7Dy67Ind6gCvIiF) | 4:56 | 2024-05-15 | 2024-07-25 |
-| [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 | 2025-06-11 |  |
+| [Pahinga](https://open.spotify.com/track/2IqrQdX1ZF0xOcDKfaBs6V) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [jgh \(Deluxe\)](https://open.spotify.com/album/4yLcE8r2jZTxMhxp78RyTo) | 4:21 | 2025-06-11 | 2025-10-23 |
 | [Pakiusap](https://open.spotify.com/track/5TKqcoMpPC5qjX6wVIJX3V) | [J\-King](https://open.spotify.com/artist/3b1iS74Wn1vc8DMDoxXu3s), [Michael Dutchi Libranda](https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8) | [Pakiusap](https://open.spotify.com/album/7uuqT5zw4aQXPPcu2IxxH6) | 4:23 | 2024-01-24 | 2024-02-22 |
 | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Pakundangan \(feat\. Hev Abi\)](https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW) | 3:17 | 2024-01-24 | 2024-03-28 |
 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 | 2024-01-24 | 2024-02-08 |
@@ -355,6 +356,7 @@
 | [Shagidi](https://open.spotify.com/track/7zKYsYbbC7N8C5QOOtTlZx) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Shagidi](https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ) | 2:28 | 2025-06-11 | 2025-07-10 |
 | [Sikulo](https://open.spotify.com/track/4UIfLmvtfUdSnoC9O6uXvv) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH), [Nhiko](https://open.spotify.com/artist/1aW2DEplQwLEpQ68PMpHQa) | [Sikulo](https://open.spotify.com/album/2nR17tFk4I05vKtmOKdxfL) | 4:41 | 2024-03-27 | 2024-09-12 |
 | [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 | 2024-09-04 | 2024-09-27 |
+| [Silong](https://open.spotify.com/track/5D9HON23VZD4UMeSvklhCY) | [Caña](https://open.spotify.com/artist/1gmvYFMrUzI3qL11GrmtD8) | [Silong](https://open.spotify.com/album/4wn5vVfyQuKgAHPaj5wRdG) | 5:42 | 2025-10-22 |  |
 | [Silver](https://open.spotify.com/track/3eZMRJkj4Q78YJ2iGxKjgI) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Silver](https://open.spotify.com/album/50NmyXmki7sJlAmJcIdMMl) | 3:43 | 2025-05-14 | 2025-07-10 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-12 | 2024-11-28 |
 | [Sisig](https://open.spotify.com/track/27yg8NUSbUr0KBMB9JyNOV) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Sisig](https://open.spotify.com/album/7IIl5vFvQSUsMmoZcvo8WB) | 3:58 | 2024-08-29 | 2024-11-21 |
@@ -387,7 +389,7 @@
 | [This Na Malambing](https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [This Na Malambing](https://open.spotify.com/album/4gNnQzuEStRVzmWvpK1s6T) | 3:50 | 2024-06-20 | 2024-10-24 |
 | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Through The Years \(From “Lolo and the Kid"\)](https://open.spotify.com/album/5Q9CEhY1XZsLljY7e7EI7w) | 3:58 | 2024-09-04 | 2025-04-17 |
 | [Thug](https://open.spotify.com/track/0PTYkBpalg3l8p3ABlfVNE) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [DRUGS](https://open.spotify.com/album/5g7qNOVyfZA3sZIFIcb6ia) | 2:44 | 2024-06-05 | 2024-07-04 |
-| [Tibok](https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 5:26 | 2025-03-13 |  |
+| [Tibok](https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 5:26 | 2025-03-13 | 2025-10-23 |
 | [Tiger](https://open.spotify.com/track/2dLNWQzhAn3w9iBUVnXZb3) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Thanks For Everything](https://open.spotify.com/album/2x4KmypZUlBJ7YYsKYeYnr) | 4:21 | 2024-06-05 | 2024-07-04 |
 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 | 2025-04-30 | 2025-07-03 |
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2024-01-24 | 2024-07-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 9421,
+  "num_followers": 9436,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,26 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 200494,
-      "name": "Fabuloso",
-      "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
+      "duration_ms": 213666,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -495,26 +499,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Quieres",
-        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Quieres",
-      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+      "duration_ms": 200494,
+      "name": "Fabuloso",
+      "url": "https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "Zorra",
+        "url": "https://open.spotify.com/album/6Syxhy1xpKZXWO8KPm34G3"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 186120,
+      "name": "Zorra",
+      "url": "https://open.spotify.com/track/0OP1RzrglC008kj79Httv3"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "Zorra",
-        "url": "https://open.spotify.com/album/6Syxhy1xpKZXWO8KPm34G3"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 186120,
-      "name": "Zorra",
-      "url": "https://open.spotify.com/track/0OP1RzrglC008kj79Httv3"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "Flow 2000",
+        "url": "https://open.spotify.com/album/2WmNz0gzO5w5YyPIl2Pc0N"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Flow 2000",
+      "url": "https://open.spotify.com/track/1BOLgpXolZEcIaCEIuFhPM"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -807,26 +823,6 @@
       "duration_ms": 172621,
       "name": "te pongo mal(prendelo)",
       "url": "https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "EL TONTO",
-        "url": "https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 188087,
-      "name": "EL TONTO",
-      "url": "https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -855,6 +851,26 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "EL TONTO",
+        "url": "https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 188087,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -871,38 +887,6 @@
       "duration_ms": 184000,
       "name": "Brazilera",
       "url": "https://open.spotify.com/track/6jPFaBQGvDFrcyf5kQAJ6G"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 156223,
-      "name": "Quien TV",
-      "url": "https://open.spotify.com/track/2ThSBT4fDS83BWu3iMjMRn"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "Flow 2000",
-        "url": "https://open.spotify.com/album/2WmNz0gzO5w5YyPIl2Pc0N"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 155213,
-      "name": "Flow 2000",
-      "url": "https://open.spotify.com/track/1BOLgpXolZEcIaCEIuFhPM"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 156223,
+      "name": "Quien TV",
+      "url": "https://open.spotify.com/track/2ThSBT4fDS83BWu3iMjMRn"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Amanecemos",
-        "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
+        "name": "Hookah",
+        "url": "https://open.spotify.com/album/0xLKGRXpMLJ9wNpAJZwbVJ"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 198183,
-      "name": "Amanecemos",
-      "url": "https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh"
+      "duration_ms": 179893,
+      "name": "Hookah",
+      "url": "https://open.spotify.com/track/4piZ5m1vZGDkfyHga5U97m"
     }
   ],
   "unique_name": "Con B de Bichota",

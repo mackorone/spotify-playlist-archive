@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain]
 
 > Remembering Ozzy Osbourne
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,473 likes - 40 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,683 likes - 40 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain]
 | 2 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 3 | [Changes](https://open.spotify.com/track/5QdBAG8cpZhM3kIAQLDRN2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 4:42 |
 | 4 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 |
-| 5 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
-| 6 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
-| 7 | [Black Sabbath \- 2014 Remaster](https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 6:18 |
-| 8 | [Sabbath Bloody Sabbath \- 2014 Remaster](https://open.spotify.com/track/2bku1YWarHpKlxVC2FB9dH) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath \(2014 Remaster\)](https://open.spotify.com/album/1qQ2ig3pvig30zVyXLzij8) | 5:46 |
-| 9 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
-| 10 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 |
+| 5 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 |
+| 6 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
+| 7 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
+| 8 | [Black Sabbath \- 2014 Remaster](https://open.spotify.com/track/0xIZPPBfLqQEAj1BLmGrNc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 6:18 |
+| 9 | [Sabbath Bloody Sabbath \- 2014 Remaster](https://open.spotify.com/track/2bku1YWarHpKlxVC2FB9dH) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath \(2014 Remaster\)](https://open.spotify.com/album/1qQ2ig3pvig30zVyXLzij8) | 5:46 |
+| 10 | [No More Tears](https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 7:23 |
 | 11 | [The Wizard \- 2014 Remaster](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 4:22 |
 | 12 | [N.I.B.](https://open.spotify.com/track/2GnVuaoKSkB6Xa07l1BBg8) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 6:04 |
 | 13 | [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain]
 | 39 | [Over the Mountain](https://open.spotify.com/track/0i1RTnH2Lj5gTDRU5wtyT2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Diary Of A Madman](https://open.spotify.com/album/4xiRrFE0Gq4Si9mAfPB3hZ) | 4:31 |
 | 40 | [Iron Head](https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 4:11 |
 
-Snapshot ID: `AAAAAD/BqLzf8+EKO5+97xmM6sKHo1Jz`
+Snapshot ID: `AAAAAElDeCr7bmJvKzBAlcEobqXOc7ZK`

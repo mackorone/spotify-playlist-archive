@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22SFGl79ttWFeXmEF9KsOt.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 8 songs - 45 min 25 sec
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 9 songs - 52 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,5 +16,6 @@ pretty - [cumulative](/playlists/cumulative/22SFGl79ttWFeXmEF9KsOt.md) - [plain]
 | 6 | [Open Your Eyes](https://open.spotify.com/track/6FfvrL8fR8xRoQQWtYtoCu) | [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [In Search of Sunrise 3 Mixed by Tiësto \(Panama\)](https://open.spotify.com/album/4reFpxSBc8nFj3K4AucUEp) | 5:38 |
 | 7 | [Don't You Want Me \- KI/KI Remix](https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Don't You Want Me \(KI/KI Remix\)](https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ) | 3:47 |
 | 8 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
+| 9 | [Open Your Eyes](https://open.spotify.com/track/54lDR8IsmOUggY6lwVV6qo) | [At The Villa People](https://open.spotify.com/artist/6WeFGEkmMp2YiEdi5jNtw2) | [The Sound Of Belgium Vol\. 2](https://open.spotify.com/album/7lqYvtKcR6MUQwAghvxhVz) | 7:19 |
 
-Snapshot ID: `AAAADBhLCLx3CQJhTeM5dKW5/Wz0Mrpu`
+Snapshot ID: `AAAADVhCK2scmW5tbbuDftoO02WSsc0j`

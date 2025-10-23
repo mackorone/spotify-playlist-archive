@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Donny Hathaway",
+        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325946,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr"
+    },
+    {
+      "album": {
         "name": "a thousand years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 214074,
       "name": "Gimme Love (Reasonable Woman Version)",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
@@ -3279,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "Have You Ever Been In Love",
+        "url": "https://open.spotify.com/album/2Gs2LM43HOxcR113X9rMLz"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/6GWHPde8HiG1FyqHlRNjIU"
+    },
+    {
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -3858,7 +3894,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 314226,
       "name": "So in Love",
       "url": "https://open.spotify.com/track/7gmB6hVMsv0XbjfiTgpATI"

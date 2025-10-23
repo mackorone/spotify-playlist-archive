@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,797 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,812 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 73 | [3 Am](https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [15 Years, the Wild Ride](https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW) | 4:32 |
 | 74 | [Clay Pigeons](https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Clay Pigeons](https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz) | 3:50 |
 | 75 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
-| 76 | [You're Still The One](https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [You're Still The One](https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD) | 3:15 |
-| 77 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
+| 76 | [If You Want Love](https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [If You Want Love](https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0) | 3:24 |
+| 77 | [You're Still The One](https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [You're Still The One](https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD) | 3:15 |
 | 78 | [Hallelujah](https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Hallelujah](https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE) | 3:49 |
 | 79 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 |
 | 80 | [Seminole Wind](https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 4:38 |

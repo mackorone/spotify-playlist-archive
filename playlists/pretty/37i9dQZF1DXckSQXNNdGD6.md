@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto:  David Rees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,111 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,108 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 23 | [OK](https://open.spotify.com/track/73bGv9sy8CVi4wtJvAOjUG) | [Laskaar](https://open.spotify.com/artist/2dR0oV49jNebqozvLZ8wci) | [OK](https://open.spotify.com/album/1bv6HVNEHgKLlZY0Du9Ajz) | 4:01 |
 | 24 | [pies sin plomo](https://open.spotify.com/track/4CLP5XEbqjJAMbg03kO2S5) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [pies sin plomo](https://open.spotify.com/album/5wKYsfSm0ed3Dbe8AfoItZ) | 3:31 |
 | 25 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
-| 26 | [Debería estar brillando](https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Debería estar brillando](https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq) | 2:32 |
-| 27 | [Delirio](https://open.spotify.com/track/4D1zZkiizVMPLY0qQHbb8y) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Top Hits, Ballads, etc...](https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5) | 2:05 |
+| 26 | [Delirio](https://open.spotify.com/track/4D1zZkiizVMPLY0qQHbb8y) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Top Hits, Ballads, etc...](https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5) | 2:05 |
+| 27 | [Debería estar brillando](https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Debería estar brillando](https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq) | 2:32 |
 | 28 | [Virgen de Magallón](https://open.spotify.com/track/6isno2Q3cVT0XA9Adnkanz) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Recardelino](https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H) | 2:31 |
 | 29 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
 | 30 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |

@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 604982,
+  "num_followers": 605061,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-10-03 15:04:40",
       "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 173198,
-      "name": "Sem Lei",
-      "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
-    },
-    {
-      "added_at": "2025-10-03 15:04:40",
-      "album": {
         "name": "Nossa Resenha",
         "url": "https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 161277,
       "name": "Nossa Resenha",
       "url": "https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL"
+    },
+    {
+      "added_at": "2025-10-03 15:04:40",
+      "album": {
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 173198,
+      "name": "Sem Lei",
+      "url": "https://open.spotify.com/track/6C8H63gGFeDqAYJ75uLPA6"
     },
     {
       "added_at": "2025-10-03 15:04:40",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-10-03 15:04:40",
       "album": {
+        "name": "Meu Esquema",
+        "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 188203,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
+    },
+    {
+      "added_at": "2025-10-03 15:04:40",
+      "album": {
         "name": "Maria Beth\u00e2nia - Noite Luzidia (ao Vivo)",
         "url": "https://open.spotify.com/album/5SGR9EAQOqls8xrn8fnuHa"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 239707,
       "name": "Depois de Ter Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2OGTo6ZsIrRr1F7rtd7PbP"
-    },
-    {
-      "added_at": "2025-10-03 15:04:40",
-      "album": {
-        "name": "Meu Esquema",
-        "url": "https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 188203,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"
     },
     {
       "added_at": "2025-10-03 15:04:40",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-10-03 15:04:40",
       "album": {
-        "name": "Meu Xod\u00f3",
-        "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
-      },
-      "artists": [
-        {
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 197584,
-      "name": "Meu Xod\u00f3",
-      "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
-    },
-    {
-      "added_at": "2025-10-03 15:04:40",
-      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 237696,
       "name": "Estrela",
       "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
+    },
+    {
+      "added_at": "2025-10-03 15:04:40",
+      "album": {
+        "name": "Meu Xod\u00f3",
+        "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
+      },
+      "artists": [
+        {
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 197584,
+      "name": "Meu Xod\u00f3",
+      "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
     },
     {
       "added_at": "2025-10-03 15:04:40",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2025-10-03 15:04:40",
       "album": {
-        "name": "Beb\u00ea",
-        "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 173672,
-      "name": "Beb\u00ea",
-      "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
-    },
-    {
-      "added_at": "2025-10-03 15:04:40",
-      "album": {
         "name": "Calm\u00f4",
         "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 254558,
       "name": "Calm\u00f4",
       "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
+    },
+    {
+      "added_at": "2025-10-03 15:04:40",
+      "album": {
+        "name": "Beb\u00ea",
+        "url": "https://open.spotify.com/album/6HvOPuBicSOthMOgXvMPuT"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 173672,
+      "name": "Beb\u00ea",
+      "url": "https://open.spotify.com/track/5eGKoukqxNOcO2SWkqGNqE"
     },
     {
       "added_at": "2025-10-03 15:04:40",
@@ -1703,22 +1703,22 @@
     {
       "added_at": "2025-10-03 15:04:40",
       "album": {
-        "name": "Cheirinho (Feat. YO\u00d9N)",
-        "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
+        "name": "da primeira vez (from the first time)",
+        "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         },
         {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 173994,
-      "name": "Cheirinho - Feat. YO\u00d9N",
-      "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
+      "duration_ms": 201183,
+      "name": "da primeira vez (from the first time)",
+      "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
     },
     {
       "added_at": "2025-10-03 15:04:40",
@@ -1759,22 +1759,22 @@
     {
       "added_at": "2025-10-03 15:04:40",
       "album": {
-        "name": "da primeira vez (from the first time)",
-        "url": "https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY"
+        "name": "Cheirinho (Feat. YO\u00d9N)",
+        "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
         },
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
         }
       ],
-      "duration_ms": 201183,
-      "name": "da primeira vez (from the first time)",
-      "url": "https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx"
+      "duration_ms": 173994,
+      "name": "Cheirinho - Feat. YO\u00d9N",
+      "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
     },
     {
       "added_at": "2025-10-03 15:04:40",

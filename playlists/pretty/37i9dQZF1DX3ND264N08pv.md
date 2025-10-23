@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,312 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,344 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 25 | [Dynamite \- 2025 OST](https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Dynamite \(2025 OST\)](https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ) | 2:53 |
 | 26 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 |
 | 27 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 |
-| 28 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 |
-| 29 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
+| 28 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
+| 29 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 |
 | 30 | [Straight To The Core](https://open.spotify.com/track/2ajb1wQhU6yjmHyktCqnox) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Straight To The Core](https://open.spotify.com/album/0qGohB6U4hU6e0lNovxQKH) | 2:51 |
 | 31 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 | 32 | [Open Your Eyes](https://open.spotify.com/track/6yTmSclJ0xW8YBhmybhD7a) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Open Your Eyes](https://open.spotify.com/album/5uL5wxLcfTFgmgooFQ02Lt) | 2:47 |

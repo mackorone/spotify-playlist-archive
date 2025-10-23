@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 359,072 likes - 122 songs - 8 hr 1 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 359,289 likes - 122 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 4 | [God Story](https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Story](https://open.spotify.com/album/58oNXHgb7gR5PEO3CYvUVd) | 3:07 |
 | 5 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
 | 6 | [Fight Like Heaven](https://open.spotify.com/track/43EXydjWVDtpvsp75PEBaz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Fight Like Heaven](https://open.spotify.com/album/1HFtYu2cRGDxkF4qSHtQVB) | 2:57 |
-| 7 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 |
-| 8 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 |
-| 9 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 |
+| 7 | [Holy Forever](https://open.spotify.com/track/1jnU6ZJXnSSwxfmjGGed2J) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE) | 5:08 |
+| 8 | [Somebody Prayed](https://open.spotify.com/track/1ukqYsTRhTM4jsfb2S8wrz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [The EXILE](https://open.spotify.com/album/3Z5eTl8JjXIWoMx3M8GRsN) | 3:46 |
+| 9 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 |
 | 10 | [All This In A Name](https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/1TQQSpRadfiF6FUBEv9HOe) | 4:26 |
 | 11 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 |
 | 12 | [Hold Your Horses](https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:10 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 14 | [Church Clothes](https://open.spotify.com/track/2GyzxYTYOcOn2gABrdIUmU) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Church Clothes](https://open.spotify.com/album/15lWZw31EqIp9YKOqu24Fp) | 3:04 |
 | 15 | [The Lord Will Provide \- Live From Passion 2024](https://open.spotify.com/track/3uqLs8EuMOuCNxKtqUWElW) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Landon Wolfe](https://open.spotify.com/artist/2SpckG1WSOarR05nGg5tjE) | [The Lord Will Provide \(Live From Passion 2024\)](https://open.spotify.com/album/7vj92osEZGcvAfQrOwDnMJ) | 5:36 |
 | 16 | [Let The Church Sing](https://open.spotify.com/track/1Kb56ii7Gr2DgRMon5tgmD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Let The Church Sing](https://open.spotify.com/album/0MeSS7BlmQYdx0vRXWUnpn) | 3:16 |
-| 17 | [Take You At Your Word](https://open.spotify.com/track/292BtqhxZ6U8fHIBPO2XWc) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 3:44 |
-| 18 | [My Jesus](https://open.spotify.com/track/7ETprIldSufrqcGF8MSBCZ) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:37 |
-| 19 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
+| 17 | [My Jesus](https://open.spotify.com/track/7ETprIldSufrqcGF8MSBCZ) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:37 |
+| 18 | [Church](https://open.spotify.com/track/4FQXeaugZnVS5XfIwBLJ7T) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 4:02 |
+| 19 | [Take You At Your Word](https://open.spotify.com/track/292BtqhxZ6U8fHIBPO2XWc) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Take You At Your Word](https://open.spotify.com/album/0TG1Zk3TWOGZvVrbqx2lnT) | 3:44 |
 | 20 | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/track/1IrganK1YSvjYDvGNYu3aa) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Can't Steal My Joy \(feat\. Brandon Lake\)](https://open.spotify.com/album/5Fa88waql5QY9FE23Hj9bI) | 3:33 |
 | 21 | [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 |
 | 22 | [Take It All Back](https://open.spotify.com/track/4AjyX21TX61oa8AFaKZmxc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:13 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 121 | [Christ In Me](https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [I Will Follow](https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V) | 3:31 |
 | 122 | [I Surrender All](https://open.spotify.com/track/278oT0aaxxijjC6N37EOYH) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [I Surrender All](https://open.spotify.com/album/1qeZcSNuLbBjW3shvZ5scs) | 2:18 |
 
-Snapshot ID: `AAAlnU1XDiY7UgSDQgjEvi3K8rbOfo2z`
+Snapshot ID: `AAAln9rilkd27/siJKHDWZFHUA6DBT33`

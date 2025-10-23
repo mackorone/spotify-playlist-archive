@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Lucifena",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Gaerea",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 163000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4PLDxqsxWe6fmZW9P4ydUd"
@@ -446,10 +446,28 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 173400,
       "name": "ASTEROID",
       "url": "https://open.spotify.com/track/4J2ZPiEqb6r9XzX7HVwFXK"
+    },
+    {
+      "album": {
+        "name": "At Pains",
+        "url": "https://open.spotify.com/album/3gJNgGS8jvNjDhhrLnpHUS"
+      },
+      "artists": [
+        {
+          "name": "The Talon",
+          "url": "https://open.spotify.com/artist/2Tjzc5qmjZitZGevgFdBQj"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273055,
+      "name": "At Pains",
+      "url": "https://open.spotify.com/track/3Nld5w1EB4E42YjEST6bF4"
     },
     {
       "album": {
@@ -468,10 +486,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 242553,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/3p0yOrPChxUXZQgIUg4OLZ"
+    },
+    {
+      "album": {
+        "name": "BACKHAND",
+        "url": "https://open.spotify.com/album/2UwXZenbcUH99yHt2WEUHC"
+      },
+      "artists": [
+        {
+          "name": "Max Diaz",
+          "url": "https://open.spotify.com/artist/1pS55lIysppNO0zbvF3qlB"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211113,
+      "name": "BACKHAND",
+      "url": "https://open.spotify.com/track/7jSjuqs6KNuK9Trjlvvle9"
     },
     {
       "album": {
@@ -1171,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Bruised",
+        "url": "https://open.spotify.com/album/0ofgnfS0nzFKnTWGEFy7Pz"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Bruised",
+      "url": "https://open.spotify.com/track/1EvYAo0qfXX8ug2tnzsRmO"
+    },
+    {
+      "album": {
         "name": "Summer Ends. Some Are Long Gone.",
         "url": "https://open.spotify.com/album/59lJU2Z9daZkq5uSrLSjpA"
       },
@@ -1330,6 +1384,24 @@
       "duration_ms": 215094,
       "name": "Business as Usual",
       "url": "https://open.spotify.com/track/4Z5r0skOvxWDamrWtzc3t0"
+    },
+    {
+      "album": {
+        "name": "By Divide",
+        "url": "https://open.spotify.com/album/7fMZQwzhuShKjhcExFMqmz"
+      },
+      "artists": [
+        {
+          "name": "Scro",
+          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245900,
+      "name": "By Divide",
+      "url": "https://open.spotify.com/track/6I3Lurb6sNFq23PTHLmflX"
     },
     {
       "album": {
@@ -1885,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "damnation",
+        "url": "https://open.spotify.com/album/3BoE4OM4nnj8NekXVmUdyo"
+      },
+      "artists": [
+        {
+          "name": "IMPVLSE",
+          "url": "https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191314,
+      "name": "damnation",
+      "url": "https://open.spotify.com/track/0yCUuQgt0NhnXVjbd7xcw5"
+    },
+    {
+      "album": {
         "name": "Dance Like That",
         "url": "https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ"
       },
@@ -2160,7 +2250,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 133825,
       "name": "Dementia",
       "url": "https://open.spotify.com/track/77fEqINefqHTLzTuvTWZLQ"
@@ -2374,6 +2464,24 @@
       "duration_ms": 142258,
       "name": "do what u want",
       "url": "https://open.spotify.com/track/2UEYApdp3CswiCo5sR2ztU"
+    },
+    {
+      "album": {
+        "name": "Doesn't Feel Like Home",
+        "url": "https://open.spotify.com/album/3fXJCR6e7wTlMnTr4COtDv"
+      },
+      "artists": [
+        {
+          "name": "LIMBS",
+          "url": "https://open.spotify.com/artist/6iXX6v3cFowf2ikYwA6uHX"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200909,
+      "name": "Doesn't Feel Like Home",
+      "url": "https://open.spotify.com/track/2CTmBlHAZhm9gQyRFgKuMS"
     },
     {
       "album": {
@@ -2720,6 +2828,28 @@
       "duration_ms": 216379,
       "name": "Erased",
       "url": "https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n"
+    },
+    {
+      "album": {
+        "name": "Error",
+        "url": "https://open.spotify.com/album/011YIxnyt9ZrmwNzffOMfT"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        },
+        {
+          "name": "Steven Jones",
+          "url": "https://open.spotify.com/artist/5fEW2qab1fjpjXIQ1RoynW"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/3Ok6maBmblVB8ZNtHEViw2"
     },
     {
       "album": {
@@ -3161,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Fight Or Flight",
+        "url": "https://open.spotify.com/album/6W4BQxf2fUZOm4iFAiPzvR"
+      },
+      "artists": [
+        {
+          "name": "Caution Thieves",
+          "url": "https://open.spotify.com/artist/0IZfNjNXbYfr3r0l4keSff"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "Fight Or Flight",
+      "url": "https://open.spotify.com/track/37amh0QldOgEKh5EsDkuQY"
+    },
+    {
+      "album": {
         "name": "Flooded Eyes",
         "url": "https://open.spotify.com/album/2zSd6cfv7s3Fe0bdbI1q4K"
       },
@@ -3338,7 +3486,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 145438,
       "name": "Front Door Phobia",
       "url": "https://open.spotify.com/track/043HFVMO9yNXRxUs97Fmal"
@@ -3619,6 +3767,24 @@
     },
     {
       "album": {
+        "name": "Grasp",
+        "url": "https://open.spotify.com/album/5P8Iz56JaTOQP986f3a7Ju"
+      },
+      "artists": [
+        {
+          "name": "Empty Shell Casing",
+          "url": "https://open.spotify.com/artist/2k180xyVia1kQlgNbmQuwK"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174576,
+      "name": "Grasp",
+      "url": "https://open.spotify.com/track/3l1Bi0S9B7aBv2ECaJ3ahD"
+    },
+    {
+      "album": {
         "name": "Greed",
         "url": "https://open.spotify.com/album/6P1GJZxQnj9T690tVcdfhq"
       },
@@ -3782,7 +3948,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 196656,
       "name": "Hard 2 Kill",
       "url": "https://open.spotify.com/track/5cFOgrjddNiyrz38FAG1pW"
@@ -3800,7 +3966,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 212523,
       "name": "HCNO",
       "url": "https://open.spotify.com/track/1CyEWlc9opUYsO50GZUQy1"
@@ -3866,6 +4032,42 @@
       "duration_ms": 185000,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/7K9ukB3P4IaWTCa6lHFPOT"
+    },
+    {
+      "album": {
+        "name": "Hellbound",
+        "url": "https://open.spotify.com/album/7IEbw0XUFwM20tXrveBpep"
+      },
+      "artists": [
+        {
+          "name": "Gaerea",
+          "url": "https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323025,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/3eJSJwvXZhlSmXnjwoKFhz"
+    },
+    {
+      "album": {
+        "name": "Hell Is Right In Front of Us",
+        "url": "https://open.spotify.com/album/724LcAbzW1bzqns2jCa3oF"
+      },
+      "artists": [
+        {
+          "name": "Immortal Disfigurement",
+          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345653,
+      "name": "Hellhole",
+      "url": "https://open.spotify.com/track/2dmULWjQIYucUxoRaILKQE"
     },
     {
       "album": {
@@ -4288,7 +4490,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 360000,
       "name": "In Eternal Woods, Pts. 2-3 - Single Version",
       "url": "https://open.spotify.com/track/04viyG4nmYYkT8I449mfix"
@@ -5053,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/2UzUnyNMR8FQ7H2Xu1GWsf"
+      },
+      "artists": [
+        {
+          "name": "LEXX",
+          "url": "https://open.spotify.com/artist/4ofinupphwqEBqASKEAKWd"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225777,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/1qKsMKW5L3KN3Q5zav32bW"
+    },
+    {
+      "album": {
         "name": "LV Vest",
         "url": "https://open.spotify.com/album/29MaeaoIkGIcPuN8SdVtNJ"
       },
@@ -5350,7 +5570,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 200907,
       "name": "Murderers",
       "url": "https://open.spotify.com/track/54KpFhLOqTfX0VRj4JUWqu"
@@ -5732,7 +5952,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 265032,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/25Ho0i27A6tGWZHF4EdaUt"
@@ -5826,10 +6046,28 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 312750,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/7MuVMzOoomIlcdTRPx4hiP"
+    },
+    {
+      "album": {
+        "name": "Obsolete",
+        "url": "https://open.spotify.com/album/6WMiiKGfJtXAcllpzrTIi3"
+      },
+      "artists": [
+        {
+          "name": "Wiltwither",
+          "url": "https://open.spotify.com/artist/3HoW6Io7vdOF0scarlinO5"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Obsolete",
+      "url": "https://open.spotify.com/track/4QMQEp5DlreObCrcQox4UZ"
     },
     {
       "album": {
@@ -6266,7 +6504,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 214135,
       "name": "Pretty Skin",
       "url": "https://open.spotify.com/track/74nZP5AFjhATYHivIjbh44"
@@ -6905,6 +7143,24 @@
     },
     {
       "album": {
+        "name": "I Thought I Missed You",
+        "url": "https://open.spotify.com/album/2wiKR3eunCFHNP3hchatpy"
+      },
+      "artists": [
+        {
+          "name": "Sink With Me",
+          "url": "https://open.spotify.com/artist/1jRTuz4sZfpc7nnSbGUoOW"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "Shades Of Despair",
+      "url": "https://open.spotify.com/track/1QYUfiRclz6J0PFKRy3V2a"
+    },
+    {
+      "album": {
         "name": "Shadow Dancer",
         "url": "https://open.spotify.com/album/1SmYK5HhYBJcJNcVKCfeME"
       },
@@ -7168,7 +7424,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 178360,
       "name": "SMOKEBOMB",
       "url": "https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n"
@@ -7378,6 +7634,28 @@
       "duration_ms": 146233,
       "name": "Steel Spine",
       "url": "https://open.spotify.com/track/5X1e5ufWieZ1rg2EFDMIwt"
+    },
+    {
+      "album": {
+        "name": "Stella F.C",
+        "url": "https://open.spotify.com/album/65mwtaOflSOUjCayyUR2SJ"
+      },
+      "artists": [
+        {
+          "name": "Pintglass",
+          "url": "https://open.spotify.com/artist/6b6QVdUlocAllySCrU4gQs"
+        },
+        {
+          "name": "Matt Honeycutt",
+          "url": "https://open.spotify.com/artist/3l3aszE2AlLuQ0LP4H54zO"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174324,
+      "name": "STELLA F.C",
+      "url": "https://open.spotify.com/track/0OBD9mEBTmXBraF7ScW32E"
     },
     {
       "album": {
@@ -7630,7 +7908,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 164914,
       "name": "Sworn To Repay",
       "url": "https://open.spotify.com/track/7eotZ4yZxAh6ktFjowQnXA"
@@ -8128,7 +8406,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 233442,
       "name": "The Sun Of Another World",
       "url": "https://open.spotify.com/track/6fcLbhHIb0f0DpXig48AFN"
@@ -8533,6 +8811,24 @@
     },
     {
       "album": {
+        "name": "Keys To The City",
+        "url": "https://open.spotify.com/album/6R9JatwRXocbajKarpTqPy"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200456,
+      "name": "Traffic",
+      "url": "https://open.spotify.com/track/3gpWJdEl2siwZTran2nhRH"
+    },
+    {
+      "album": {
         "name": "Trauma Souba",
         "url": "https://open.spotify.com/album/5dncEX5Tx83gUPSqqGwUND"
       },
@@ -8808,7 +9104,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 204186,
       "name": "Vile",
       "url": "https://open.spotify.com/track/7tjHxz4XWPKUlCW9Q82GKR"
@@ -8956,6 +9252,28 @@
       "duration_ms": 164977,
       "name": "Walls",
       "url": "https://open.spotify.com/track/1rMJ6bNrboaJw9cJpGLlwF"
+    },
+    {
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/6wGB9zcSIiloNj9HU0ET1C"
+      },
+      "artists": [
+        {
+          "name": "PARIAH",
+          "url": "https://open.spotify.com/artist/3PP5mEG3X0CjthaqiEXqJU"
+        },
+        {
+          "name": "Heal The Hurt",
+          "url": "https://open.spotify.com/artist/6ZTUkCnG7AQ85xxoC9fuNN"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "Wanderer (Lose Myself)",
+      "url": "https://open.spotify.com/track/6abVCsWeuQAAhvgmddIztf"
     },
     {
       "album": {
@@ -9194,7 +9512,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 231201,
       "name": "Whispers In The Corridor",
       "url": "https://open.spotify.com/track/5dZ7I2d5xEYdQceT3t3IXm"

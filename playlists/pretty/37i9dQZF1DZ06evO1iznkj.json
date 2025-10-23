@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 185243,
+  "num_followers": 185349,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAB06vG/nk+rCoNfyMstR4Lm",
+  "snapshot_id": "aPbNAAAAAADh35/jdaR0tLMuestQ2cSq",
   "tracks": [
     {
       "added_at": null,
@@ -882,19 +882,11 @@
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 199011,
-      "name": "Oh Okay (feat. Young Thug & Lil Baby)",
-      "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
+      "duration_ms": 145796,
+      "name": "Helluva Price",
+      "url": "https://open.spotify.com/track/5bFym95c4l7Q7cVIYArOzC"
     },
     {
       "added_at": null,
@@ -970,11 +962,19 @@
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 145796,
-      "name": "Helluva Price",
-      "url": "https://open.spotify.com/track/5bFym95c4l7Q7cVIYArOzC"
+      "duration_ms": 199011,
+      "name": "Oh Okay (feat. Young Thug & Lil Baby)",
+      "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
     }
   ],
   "unique_name": "This Is Gunna",

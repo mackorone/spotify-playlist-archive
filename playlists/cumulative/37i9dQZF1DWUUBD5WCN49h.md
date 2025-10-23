@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Esoterica
 
-1,378 songs - 2 day 18 hr 6 min
+1,379 songs - 2 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1321,6 +1321,7 @@
 | [What I Need](https://open.spotify.com/track/5b1lVbGspiud4hIIiSCgGG) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Vynyl Sky](https://open.spotify.com/artist/1MSBh2UA3aK4YHajopxdLZ) | [With Love, Cozï](https://open.spotify.com/album/6Zh5AjQosM2aRzdIldGxKP) | 2:35 | 2025-04-18 | 2025-05-17 |
 | [What It Was](https://open.spotify.com/track/4OlQ74x5B5Wtjc69oercOv) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [What It Was](https://open.spotify.com/album/50XAWfjkgBYO4P9dU19cNF) | 2:48 | 2025-01-31 | 2025-05-17 |
 | [What you wanna do?](https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [What you wanna do?](https://open.spotify.com/album/2HEe16IuFDnQOnb8dT3zam) | 4:27 | 2023-04-14 | 2023-04-21 |
+| [What You Want](https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A) | [Uche B](https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v), [Mangodance](https://open.spotify.com/artist/4ZHLtUjqMxXhA05qiDgnH1) | [What You Want](https://open.spotify.com/album/3gUojms7owZ051gB5AWlTG) | 3:10 | 2025-10-16 |  |
 | [Whats Up](https://open.spotify.com/track/5RlU3YgPw5lVgSBdyKwXtC) | [KWEKU PEE](https://open.spotify.com/artist/1moWgmfzDrNtohnVWhZOmO), [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Whats Up](https://open.spotify.com/album/7JUmIEYeCXGkbCkaU6OJWn) | 2:45 | 2024-04-12 | 2024-05-03 |
 | [When I Am Home](https://open.spotify.com/track/4egw8ZWUgQF7LfxPJCA7Nd) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE), [Kidda X](https://open.spotify.com/artist/5egalTdmPOZMftBz4n0nrC), [Chuks BK](https://open.spotify.com/artist/6RKxYmaJnCRs01HNsj8JDS) | [This Is Me, Thinking Out Loud...](https://open.spotify.com/album/1MAq3lQX2tkx4TFdO5sQEU) | 3:12 | 2025-08-01 | 2025-08-24 |
 | [When I Wake Up \(feat\. Moliy\)](https://open.spotify.com/track/2pp6w1jE7bT4EPUHt211HL) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [When I Wake Up \(feat\. Moliy\)](https://open.spotify.com/album/0vtcPSUCkDWJoEFYgVVeTS) | 3:02 | 2024-05-31 | 2024-07-27 |

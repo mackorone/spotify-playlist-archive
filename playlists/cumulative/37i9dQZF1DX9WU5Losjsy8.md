@@ -4,7 +4,7 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-185 songs - 9 hr 17 min
+186 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Biertornado](https://open.spotify.com/track/5u7QargOKXO82nXcAU9s8L) | [PA69](https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h) | [Biertornado](https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK) | 3:38 | 2024-11-07 |  |
 | [Bleib in der Schule](https://open.spotify.com/track/14ZdGRgEojosST783o66CX) | [Trailerpark](https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB) | [Crackstreet Boys 3 \(Bonus Tracks Version\)](https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK) | 4:25 | 2023-07-14 | 2024-04-19 |
 | [Blockflötenunterricht](https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Pottsau](https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6) | [Blockflötenunterricht](https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8) | 2:35 | 2023-08-10 | 2023-10-22 |
+| [Blödsinn](https://open.spotify.com/track/1I5CfY3wRscxoIwqSnbT5x) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Blödsinn](https://open.spotify.com/album/4sx7yVVezQeqjO3a4pOKFa) | 2:25 | 2025-10-16 |  |
 | [Bock auf Bier](https://open.spotify.com/track/6MvRkE1BZHAEg92WQcR9Pw) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Bock auf Bier](https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f) | 2:52 | 2024-07-19 | 2025-04-02 |
 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 | 2023-07-14 |  |
 | [Bruttosozialprodukt](https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Das Beste von Geier Sturzflug](https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3) | 3:01 | 2023-07-14 | 2023-11-04 |
@@ -90,7 +91,7 @@
 | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt) | 2:40 | 2025-01-20 |  |
 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 | 2023-07-14 | 2024-01-30 |
 | [Hey Macarena!](https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK) | [Pietro Basile](https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc) | [Hey Macarena!](https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9) | 2:44 | 2025-09-25 |  |
-| [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 |  |
+| [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 | 2025-10-23 |
 | [Holland](https://open.spotify.com/track/0aZaOgEpKiRKWgK2lIr9wr) | [257ers](https://open.spotify.com/artist/6ihLfpY3cmdGyWEnItn30w) | [Mikrokosmos](https://open.spotify.com/album/1I8OPTq8yblRNjn01TLIXl) | 3:08 | 2025-03-25 | 2025-05-23 |
 | [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 | 2025-01-01 |
 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 | 2023-07-14 |  |

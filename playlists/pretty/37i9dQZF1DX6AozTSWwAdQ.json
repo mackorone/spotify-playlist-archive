@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60848,
+  "num_followers": 60847,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 164682,
+      "name": "BABY SAID",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 164682,
-      "name": "BABY SAID",
-      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -327,18 +327,18 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "say something",
-        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 144544,
-      "name": "say something",
-      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -359,34 +359,18 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
-        "name": "Invincible (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 155495,
-      "name": "Invincible - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -403,6 +387,22 @@
       "duration_ms": 198896,
       "name": "Born Without a Heart",
       "url": "https://open.spotify.com/track/6i5jBmnB22alUpJ7hpznuj"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
+        "name": "Invincible (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 155495,
+      "name": "Invincible - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
         "name": "Fools Gold",
         "url": "https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Broken & Beautiful",
-        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 218948,
-      "name": "Broken & Beautiful",
-      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
         "name": "The Funeral",
         "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 211197,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
+        "name": "Broken & Beautiful",
+        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 218948,
+      "name": "Broken & Beautiful",
+      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o"
-      },
-      "artists": [
-        {
-          "name": "Big Time Rush",
-          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
-        }
-      ],
-      "duration_ms": 184473,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 250763,
       "name": "Bad Habits (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        }
+      ],
+      "duration_ms": 184473,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -999,30 +999,6 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Cailin Russo",
-          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
-        },
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
         "name": "Wake Up & It's Over",
         "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
     },
     {
       "added_at": "2025-10-19 16:00:30",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Chrome Jets",
-        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 216747,
-      "name": "Chrome Jets",
-      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
         "name": "Bones (feat. OneRepublic)",
         "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
+        "name": "Chrome Jets",
+        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Chrome Jets",
+      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-10-19 16:00:30",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4GCj0i9QUjt0IxnoxOwp6G"
-      },
-      "artists": [
-        {
-          "name": "Olly Murs",
-          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
-        }
-      ],
-      "duration_ms": 174919,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/5Oqoyydz7aYxTezM4irIbB"
-    },
-    {
-      "added_at": "2025-10-19 16:00:30",
-      "album": {
         "name": "Let Go (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 223717,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi"
+    },
+    {
+      "added_at": "2025-10-19 16:00:30",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4GCj0i9QUjt0IxnoxOwp6G"
+      },
+      "artists": [
+        {
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        }
+      ],
+      "duration_ms": 174919,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/5Oqoyydz7aYxTezM4irIbB"
     },
     {
       "added_at": "2025-10-19 16:00:30",

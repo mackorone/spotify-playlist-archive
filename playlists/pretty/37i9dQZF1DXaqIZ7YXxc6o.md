@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Sonny Fodera, Poppy Baskcomb & D.O.D
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,237 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,240 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 24 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 25 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 |
 | 26 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 |
-| 27 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
+| 27 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
 | 28 | [The Boy](https://open.spotify.com/track/4sJj3nlx2SO2YJCV13T2CZ) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [The Boy / Moon](https://open.spotify.com/album/2D6VMDBpN8qEy5ceRKoRZY) | 3:27 |
 | 29 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
 | 30 | [This Is Our Haus](https://open.spotify.com/track/0PYxjuza1vSdRbT1jHMwjC) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ), [Loosie Grind](https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv) | [This Is Our Haus](https://open.spotify.com/album/59Knt83dZ3IiJODE4c1e3Z) | 3:17 |

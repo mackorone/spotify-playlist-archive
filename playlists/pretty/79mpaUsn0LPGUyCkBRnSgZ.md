@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 600 songs - 1 day 15 hr 23 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 600 songs - 1 day 15 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -595,18 +595,18 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 585 | [Against the Fall of Night](https://open.spotify.com/track/2kDOhhKHJfACIeWDNeRj1P) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF) | [Against the Fall of Night](https://open.spotify.com/album/1dixxA709bADWmK1rxnvug) | 3:59 |
 | 586 | [Sowing Season \(Yeah\)](https://open.spotify.com/track/5CyzIHM2IRSLz2Ke9hWwjz) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 4:30 |
 | 587 | [Anything](https://open.spotify.com/track/4NBMaIRzUTUUKWivAJGZ9d) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Able Bodies](https://open.spotify.com/album/7E6ctLR5KdMHeM3Y83BbYw) | 4:02 |
-| 588 | [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 |
-| 589 | [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 |
-| 590 | [People Settle Down](https://open.spotify.com/track/5NmBkXFDDRCWdopPXZPr0L) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 3:17 |
-| 591 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
-| 592 | [Night Night \(feat\. Kehlani\)](https://open.spotify.com/track/7I8uO1htDS5K05xNIBmBNb) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 1:44 |
-| 593 | [Rewild](https://open.spotify.com/track/74UNDSNfpDq4bLw65Iu8JG) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Hymnal](https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X) | 4:31 |
-| 594 | [Untitled](https://open.spotify.com/track/0VsjkAEkZvaUoDt0PAzJxC) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 0:12 |
-| 595 | [Okolona River Bottom Band](https://open.spotify.com/track/58n4w23hXUwot69NOvIB2x) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [The Delta Sweete](https://open.spotify.com/album/1SiGaqffPGAqWYzdoNCHJn) | 3:04 |
-| 596 | [Jailer](https://open.spotify.com/track/0ggGTGpdhiWCQHY7UoNDI2) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ASA \(Asha\) \[Deluxe Edition\]](https://open.spotify.com/album/6jJE2t5ZfWq3I7n5KhF89d) | 4:07 |
-| 597 | [Questar](https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [My Song](https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v) | 9:10 |
-| 598 | [Save Me](https://open.spotify.com/track/6pVg5dJBMeJylAHUZqkNCw) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 4:32 |
-| 599 | [Simmer](https://open.spotify.com/track/2moHnkHTSXBe9KjvPSQJvg) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 4:26 |
-| 600 | [Kind Of \(Type of Way\)](https://open.spotify.com/track/5cVSOtzpgC3o6gZaxXkxUu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Car Therapy Sessions](https://open.spotify.com/album/3zbrqKb1xBeeEoutRFq44t) | 5:39 |
+| 588 | [Nested in Tangles](https://open.spotify.com/track/0Hhq3MM4eHvq4IdQgFPw17) | [Hannah Frances](https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz) | [Nested in Tangles](https://open.spotify.com/album/3Hu47i4DAj7RS20JPt5VAv) | 5:27 |
+| 589 | [People Settle Down](https://open.spotify.com/track/5NmBkXFDDRCWdopPXZPr0L) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 3:17 |
+| 590 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
+| 591 | [Night Night \(feat\. Kehlani\)](https://open.spotify.com/track/7I8uO1htDS5K05xNIBmBNb) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 1:44 |
+| 592 | [Rewild](https://open.spotify.com/track/74UNDSNfpDq4bLw65Iu8JG) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Hymnal](https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X) | 4:31 |
+| 593 | [Untitled](https://open.spotify.com/track/0VsjkAEkZvaUoDt0PAzJxC) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 0:12 |
+| 594 | [Okolona River Bottom Band](https://open.spotify.com/track/58n4w23hXUwot69NOvIB2x) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [The Delta Sweete](https://open.spotify.com/album/1SiGaqffPGAqWYzdoNCHJn) | 3:04 |
+| 595 | [Jailer](https://open.spotify.com/track/0ggGTGpdhiWCQHY7UoNDI2) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [ASA \(Asha\) \[Deluxe Edition\]](https://open.spotify.com/album/6jJE2t5ZfWq3I7n5KhF89d) | 4:07 |
+| 596 | [Questar](https://open.spotify.com/track/1ChYuSIoOFDVY6fHSXF6zS) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [My Song](https://open.spotify.com/album/6ID17PzjagQlFsc1KFha5v) | 9:10 |
+| 597 | [Save Me](https://open.spotify.com/track/6pVg5dJBMeJylAHUZqkNCw) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Ingénue \(25th Anniversary Edition\)](https://open.spotify.com/album/1XHEQqyatYvfK5cEJfkPeK) | 4:32 |
+| 598 | [Simmer](https://open.spotify.com/track/2moHnkHTSXBe9KjvPSQJvg) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 4:26 |
+| 599 | [Kind Of \(Type of Way\)](https://open.spotify.com/track/5cVSOtzpgC3o6gZaxXkxUu) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Car Therapy Sessions](https://open.spotify.com/album/3zbrqKb1xBeeEoutRFq44t) | 5:39 |
+| 600 | [Mundian To Bach Ke](https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Album](https://open.spotify.com/album/4M7pIA0U45CEENfXwbGB0g) | 4:05 |
 
-Snapshot ID: `AAAH5w47DYIq4Rf4bVnABvXSSeyh1VdM`
+Snapshot ID: `AAAH6SSt/lkBG0ifwcsSOtEgx27+SYcB`

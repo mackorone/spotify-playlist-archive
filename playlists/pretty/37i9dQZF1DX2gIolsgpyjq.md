@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Girl Scout
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,040 likes - 101 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,051 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

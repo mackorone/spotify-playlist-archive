@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,113 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,134 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 34 | [Mama's Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/4sxNwFc2YHfuhpDd8rXJS3) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [The Great Country Songbook](https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan) | 4:03 |
 | 35 | [A Little Further North](https://open.spotify.com/track/77lErsyeAfTywgOud05g8E) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 3:38 |
 | 36 | [Where Country Is](https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Where Country Is](https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR) | 3:52 |
-| 37 | [Bird On A Wire](https://open.spotify.com/track/0JeAfKpnBuiRVQdolUtRr7) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Double Happiness](https://open.spotify.com/album/3bU4pTLcfbfy3o61QcPDpn) | 4:28 |
-| 38 | [Cowboy](https://open.spotify.com/track/6xvD3k8rlUZLnzr2GBVIK7) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Here We Go](https://open.spotify.com/album/5Zwpz8j2OBECUD2oYRHM3M) | 2:57 |
+| 37 | [Cowboy](https://open.spotify.com/track/6xvD3k8rlUZLnzr2GBVIK7) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Here We Go](https://open.spotify.com/album/5Zwpz8j2OBECUD2oYRHM3M) | 2:57 |
+| 38 | [Bird On A Wire](https://open.spotify.com/track/0JeAfKpnBuiRVQdolUtRr7) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Double Happiness](https://open.spotify.com/album/3bU4pTLcfbfy3o61QcPDpn) | 4:28 |
 | 39 | [Lights on the Hill](https://open.spotify.com/track/6bxrMOOJyjIAkbBcp5IPQh) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [The Great Country Songbook](https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan) | 3:14 |
 | 40 | [Down City Streets](https://open.spotify.com/track/4eY6lTOvMqWwy5IVk0A2lb) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 4:04 |
 | 41 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 44 | [Born to Survive](https://open.spotify.com/track/1qJztvv77KYdBm4tce1D1K) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Long Way Home](https://open.spotify.com/album/64yV9WmwQecMCo9ojKgrSx) | 4:27 |
 | 45 | [My Hometown](https://open.spotify.com/track/1islrJG5v7TIwGIl5xOdyp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Kickin' Up Dust](https://open.spotify.com/album/5W5mmNSOK53lh0WyqPVIeW) | 3:47 |
 | 46 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
-| 47 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 |
-| 48 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
+| 47 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
+| 48 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 |
 | 49 | [Chandelier of Stars](https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:15 |
 | 50 | [Poster Girl \- Wrong Side of the World](https://open.spotify.com/track/0Otqe3FHmD1LmJb6Ml22bs) | [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Feel This Free](https://open.spotify.com/album/0bkUg5k6yo3Sx9MzcNte80) | 4:01 |
 | 51 | [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 |

@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183269,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
+    },
+    {
+      "album": {
         "name": "Baby Blue",
         "url": "https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW"
       },
@@ -4317,7 +4335,7 @@
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197400,
+      "duration_ms": 197410,
       "name": "CAOS",
       "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
     },
@@ -20964,7 +20982,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"

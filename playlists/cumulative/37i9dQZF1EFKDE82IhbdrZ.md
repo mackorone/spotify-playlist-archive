@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-355 songs - 19 hr 43 min
+356 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,8 +295,9 @@
 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 | 2024-08-13 |  |
 | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/track/35kFg7GL288P9IK0r5oSh5) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Solita \(feat\. Rich The Kid\)](https://open.spotify.com/album/5rkPX1n2MJs9vSUMBMo9Q7) | 3:06 | 2024-08-13 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-08-13 |  |
+| [Somethin' 'Bout A Woman](https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:27 | 2025-10-22 |  |
 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/2GnohZK1q5obRmQ2SuASyT) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [About A Woman \(From A Small Town\)](https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci) | 3:27 | 2025-05-11 | 2025-10-03 |
-| [Somethin' 'Bout A Woman](https://open.spotify.com/track/2ZDGws55sbURppviSWfy5V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa) | 3:27 | 2025-10-02 |  |
+| [Somethin' 'Bout A Woman](https://open.spotify.com/track/2ZDGws55sbURppviSWfy5V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa) | 3:27 | 2025-10-02 | 2025-10-23 |
 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 | 2024-12-17 | 2025-05-12 |
 | [Somewhere We Can Be Alone](https://open.spotify.com/track/612HMpIFnryiPCFdtDZH4P) | [GUNNAR](https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn) | [old shit](https://open.spotify.com/album/5cQYXYQya0oPKmhJr3LHl0) | 3:02 | 2024-08-13 | 2024-09-07 |
 | [Somewhere We Can Be Alone](https://open.spotify.com/track/4JD8cPfPPjkyc8wAeHur1h) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:02 | 2024-09-06 |  |

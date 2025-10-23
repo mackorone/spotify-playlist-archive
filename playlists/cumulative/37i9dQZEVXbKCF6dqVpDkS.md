@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-2,114 songs - 4 day 13 hr 17 min
+2,115 songs - 4 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [100 BOTTLES](https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY) | [Reset The Levels IV](https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE) | 3:16 | 2022-11-12 | 2022-11-17 |
 | [100 Doezoe Cash](https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [100 Doezoe Cash](https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb) | 3:14 | 2023-09-14 | 2023-10-15 |
 | [100 SMSjes](https://open.spotify.com/track/4MA4LxSsJRbj4axg1uTi2n) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [100 SMSjes](https://open.spotify.com/album/1HmekW64bQZwKdjXqxhSmG) | 2:31 | 2022-04-23 | 2022-07-04 |
-| [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 | 2025-02-22 |  |
+| [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 | 2025-02-22 | 2025-10-23 |
 | [100%](https://open.spotify.com/track/4DuoeeTE8RqdZJVTpMdnaV) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [IK](https://open.spotify.com/album/7Mb79TcTVswCowAorjNWZu) | 2:31 | 2025-06-14 | 2025-06-18 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-15 | 2023-04-16 |
 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-23 |  |
@@ -1968,6 +1968,7 @@
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-05-23 | 2025-06-11 |
 | [wacced out murals](https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 5:17 | 2024-11-24 | 2024-11-30 |
 | [wacht niet](https://open.spotify.com/track/6Vp77dpK9nn9RAhyxQ5D8O) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [wacht niet](https://open.spotify.com/album/3oSok1QJ9AjsMfDalJtMwb) | 2:42 | 2025-01-25 | 2025-01-27 |
+| [Wacht Op Mij](https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wacht Op Mij](https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV) | 3:06 | 2025-10-22 |  |
 | [Wacht Op Mij](https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wacht Op Mij](https://open.spotify.com/album/2WSQUoSEGPgHz5dcZGahpg) | 2:17 | 2023-10-28 | 2024-01-09 |
 | [Wackelkontakt](https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB) | 2:48 | 2025-02-22 | 2025-05-18 |
 | [Waistline](https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Waistline](https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6) | 2:45 | 2022-04-02 | 2022-04-11 |

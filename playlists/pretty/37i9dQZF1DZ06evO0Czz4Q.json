@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 135999,
+  "num_followers": 136010,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACCA8ezVzOtgP1wqfDPEAxt",
+  "snapshot_id": "aPbNAAAAAACb1m15YsWp+gDtDx/Ow3An",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Any Love",
+        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 302533,
+      "name": "Any Love",
+      "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance With My Father",
         "url": "https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 385506,
       "name": "The Closer I Get to You (feat. Beyonc\u00e9 Knowles)",
       "url": "https://open.spotify.com/track/0VTmXSB75O28EzhKBWvLhd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Any Love",
-        "url": "https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 302533,
-      "name": "Any Love",
-      "url": "https://open.spotify.com/track/6BixR2rv0aozttgKLDlC5s"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Night With You: The Best Of Love, Volume 2",
-        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 327920,
-      "name": "It's All About You",
-      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
+      "duration_ms": 294000,
+      "name": "All The Woman I Need",
+      "url": "https://open.spotify.com/track/2VcUWg5UIQo0H5AqeA38zc"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+        "name": "One Night With You: The Best Of Love, Volume 2",
+        "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 294000,
-      "name": "All The Woman I Need",
-      "url": "https://open.spotify.com/track/2VcUWg5UIQo0H5AqeA38zc"
+      "duration_ms": 327920,
+      "name": "It's All About You",
+      "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
     },
     {
       "added_at": null,

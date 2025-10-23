@@ -1,6 +1,6 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1330450,
+  "num_followers": 1330219,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
         "name": "mi refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -987,30 +987,6 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "Los Gal\u00e1cticos",
-        "url": "https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Nes",
-          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
-        }
-      ],
-      "duration_ms": 141274,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
         "name": "SI NO ES CONTIGO (REMIX)",
         "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 289131,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
+        "name": "Los Gal\u00e1cticos",
+        "url": "https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "duration_ms": 141274,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/4mvD8af1IQary3hoe0KgOU"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "Dame Un Grrr",
-        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
       },
       "artists": [
         {
-          "name": "Fantomel",
-          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
-        },
-        {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 133220,
-      "name": "Dame Un Grrr",
-      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+        "name": "Dame Un Grrr",
+        "url": "https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Fantomel",
+          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
+        },
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
         }
       ],
-      "duration_ms": 186521,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+      "duration_ms": 133220,
+      "name": "Dame Un Grrr",
+      "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "ENAMORARSE PARA QUE",
-        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
-      },
-      "artists": [
-        {
-          "name": "VIUS",
-          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
-        }
-      ],
-      "duration_ms": 184239,
-      "name": "ENAMORARSE PARA QUE",
-      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
         "name": "D\u00d3NDE",
         "url": "https://open.spotify.com/album/0d4XSCou4VSovhL0Ce0oAT"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 193386,
       "name": "D\u00d3NDE",
       "url": "https://open.spotify.com/track/3RA4UWdsQ1rQ9CMUesTW7a"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
+        "name": "ENAMORARSE PARA QUE",
+        "url": "https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ"
+      },
+      "artists": [
+        {
+          "name": "VIUS",
+          "url": "https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE"
+        }
+      ],
+      "duration_ms": 184239,
+      "name": "ENAMORARSE PARA QUE",
+      "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1883,22 +1883,26 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+        "name": "SEND\u00c9",
+        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
         }
       ],
-      "duration_ms": 198493,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
+      "duration_ms": 168000,
+      "name": "BOMBASTIK<3",
+      "url": "https://open.spotify.com/track/2Kx9AfJPaJib9DwAdDYdB9"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -1939,26 +1943,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "SEND\u00c9",
-        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 168000,
-      "name": "BOMBASTIK<3",
-      "url": "https://open.spotify.com/track/2Kx9AfJPaJib9DwAdDYdB9"
+      "duration_ms": 198493,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -2107,22 +2107,22 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
+        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
+        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
         },
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+      "duration_ms": 158210,
+      "name": "LA FREAK",
+      "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -2151,22 +2151,38 @@
     {
       "added_at": "2025-09-28 08:08:53",
       "album": {
-        "name": "C\u00d3DiGOS DE MU\u00d1EKA",
-        "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
       "artists": [
         {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 158210,
-      "name": "LA FREAK",
-      "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+    },
+    {
+      "added_at": "2025-09-28 08:08:53",
+      "album": {
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Mi Vida Mi Muerte",
+      "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
     },
     {
       "added_at": "2025-09-28 08:08:53",
@@ -2187,22 +2203,6 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
-    },
-    {
-      "added_at": "2025-09-28 08:08:53",
-      "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/3leHvDNdXWXRhKoxRDBh97"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Mi Vida Mi Muerte",
-      "url": "https://open.spotify.com/track/6xcDsAPb70i1ZdxIFxItFV"
     },
     {
       "added_at": "2025-09-28 08:08:53",

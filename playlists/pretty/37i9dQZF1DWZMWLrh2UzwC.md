@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from, Luqman Podolski, 5 Seconds of Summer, Joji, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,206 likes - 111 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,209 likes - 111 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 70 | [the floor \- fred remix](https://open.spotify.com/track/03g9zBj3bCqIuF7KvRw72z) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [the floor](https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L) | 5:41 |
 | 71 | [X](https://open.spotify.com/track/6BBlYYRR4W2iaDqKJxOB1h) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [TEENAGE RAMBLE](https://open.spotify.com/album/3SZWTqmG06bLCSdGTSvPCw) | 3:19 |
 | 72 | [Broken World \- Netflix影集《回魂計》片尾曲](https://open.spotify.com/track/14F1jiXQWTgDhlA7l8j5mq) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Broken World \(Netflix影集《回魂計》片尾曲\)](https://open.spotify.com/album/6LpR4eq2qWiBP8dPSuWgQh) | 2:32 |
-| 73 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:34 |
+| 73 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 |
 | 74 | [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 |
 | 75 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 |
 | 76 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 |

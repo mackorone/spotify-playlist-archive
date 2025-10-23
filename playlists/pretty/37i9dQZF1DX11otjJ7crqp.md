@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,221 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,822 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 8 | [Made Of](https://open.spotify.com/track/22onNzFK5B1ODEONKsmKu0) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Made Of](https://open.spotify.com/album/1vJuIv0rmtE6AMR91rmhOR) | 2:52 |
 | 9 | [The Flood](https://open.spotify.com/track/6mE8xGsznYSnsKA33FbHUu) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [The Flood](https://open.spotify.com/album/51oPichyQMEloL4vmfFi36) | 3:01 |
 | 10 | [6 Feet Under](https://open.spotify.com/track/41n5NNDfMFv9nhSutXMXPX) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Coydog](https://open.spotify.com/album/07XhF0Jlpkb0jCey7j9Tsn) | 3:30 |
-| 11 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 11 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 12 | [If You’re Into That](https://open.spotify.com/track/4BkQq2ZQ5ziixtXfMS8Oab) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Roses](https://open.spotify.com/album/6SELPx1TMG3G328lQ9euY7) | 2:41 |
 | 13 | [Party Dress](https://open.spotify.com/track/64dGLwqLm3PZIjN1b3mIcT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Party Dress](https://open.spotify.com/album/2mGYw1P9Et8mq9awaIcmj1) | 3:31 |
 | 14 | [The Field](https://open.spotify.com/track/07lAcpDgwODHa2tQsSGZfL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [After EP 2](https://open.spotify.com/album/4wrJJTECEgSMnwHeoBzoGz) | 3:28 |

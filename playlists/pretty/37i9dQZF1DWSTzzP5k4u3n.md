@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,555 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,556 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,22 +14,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 4 | [Loppuaikana](https://open.spotify.com/track/5lGpLp2RPTGIAuT835JbrK) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Loppuaikana](https://open.spotify.com/album/4Wbjl6LuNdqroP97Nadsyx) | 3:14 |
 | 5 | [Yksinäiset sudet](https://open.spotify.com/track/7iPGcbfCfguRhFidCaL6mL) | [Technicolour](https://open.spotify.com/artist/2A1NhQyrtt36D6ZHYgBKFw) | [Yksinäiset sudet](https://open.spotify.com/album/0R18mLNTbCQNIokk70VTWB) | 3:06 |
 | 6 | [Lähetään menee](https://open.spotify.com/track/2BJXx4y4aHREIIC2Z3h1UI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Odotin näpyä, tuli laaka](https://open.spotify.com/album/1UeNJBQIxRGIjfb9zS24E6) | 3:43 |
-| 7 | [Sä tunsit mut](https://open.spotify.com/track/5QmRWEFgpmiZPUlzF2dcPb) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny) | [Sä tunsit mut](https://open.spotify.com/album/2Hk93WcCuT2LbZz6jijurB) | 6:51 |
-| 8 | [Viimeinen kesäpäivä](https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Viimeinen kesäpäivä](https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0) | 2:58 |
-| 9 | [Hyppää Kyytiin Hani](https://open.spotify.com/track/2QJuMP3BEl9edMN4FwqQbW) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ) | [Hyppää Kyytiin Hani](https://open.spotify.com/album/7tMr43LqPAe2FGlG6Gem9I) | 3:01 |
-| 10 | [Janne paina kaasua \(JPK\)](https://open.spotify.com/track/3oCfkdQXRhryVoxWXB3XG2) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Janne paina kaasua \(JPK\)](https://open.spotify.com/album/5Z88T4GfkQo5Wcmfakal0u) | 2:57 |
-| 11 | [Domino](https://open.spotify.com/track/4yObsIr4sNWathGTbjU3Sz) | [51koodia](https://open.spotify.com/artist/000BblCiHJeKvtiq5aiHOs) | [Domino](https://open.spotify.com/album/7shkFNgtHy5uZtDGLxxntQ) | 3:22 |
-| 12 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
-| 13 | [Mitä naapuritkin ajattelis?](https://open.spotify.com/track/1ZlrXTRTFGdePWYgxBVQ2t) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Mitä naapuritkin ajattelis?](https://open.spotify.com/album/0NBuTZ1Nxhh9SWkiKN4TFM) | 2:36 |
-| 14 | [Iloisten Laulujemme Maa](https://open.spotify.com/track/2KQnDjLje3gw9GmpUxnsqn) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF), [Kullervo](https://open.spotify.com/artist/1ltjLfs2LwirnXSkOjkCCN) | [Iloisten Laulujemme Maa](https://open.spotify.com/album/1TXHG800To5XNtsoAUYhAH) | 2:53 |
-| 15 | [O ou](https://open.spotify.com/track/5bvOzv8FuhWfCdbjwjbiVn) | [Luukas Oja](https://open.spotify.com/artist/5uenn60DKWeIDiIqC3EcLn) | [O ou](https://open.spotify.com/album/01rzDqLWFEMHW7fV99WYxq) | 2:14 |
-| 16 | [Viime yöltä](https://open.spotify.com/track/5oRFkREa4Q7saOaGXv16jr) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Viime yöltä](https://open.spotify.com/album/40S9QCmuGFABwGHxvCCXE8) | 3:45 |
-| 17 | [Miks sil on väliä sulle?](https://open.spotify.com/track/3je3aRaXqPnzx5U8tSCE9E) | [ILO](https://open.spotify.com/artist/29PSvcmaFVFfpfv12p1nud) | [Miks sil on väliä sulle?](https://open.spotify.com/album/0AR1xmi93zxYweydNPQrQd) | 2:49 |
-| 18 | [Sen minä lupaan](https://open.spotify.com/track/469FQsqbctrlCb0iQEJaz6) | [A.P\. Salonen](https://open.spotify.com/artist/4ClqhdqfN85nQRZc2Adia5) | [Jälkeen surutyön](https://open.spotify.com/album/3msfy1BcD89AeKtDzVeGR9) | 3:44 |
-| 19 | [Pese selkää](https://open.spotify.com/track/2jqCYjO8GFsMkFZsO4fHqQ) | [Arttu Lindeman](https://open.spotify.com/artist/0AK0qOs8ykb6CsaYks1xwK) | [Pese selkää](https://open.spotify.com/album/46dfTPHa3nUYUxlzcO4V40) | 2:27 |
-| 20 | [Uusi isä](https://open.spotify.com/track/2fkX7g0pNpmbXtbA0xUAMp) | [Heikki Kuula](https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q), [Mara Balls](https://open.spotify.com/artist/1Jh4IqgvAA9gsBdCajOZ9u) | [Uusi isä](https://open.spotify.com/album/4cqYJZNc0KMxKPu3yKu0g8) | 3:27 |
-| 21 | [Taivaanpaloja](https://open.spotify.com/track/5nErauhcLh4HRTxOCHWWDQ) | [Tommi Kalenius](https://open.spotify.com/artist/1qjLtuPfpeVmDE54cuHKZJ) | [Taivaanpaloja](https://open.spotify.com/album/4HZMS3nvZ7TzLP8EdQaBZH) | 3:34 |
-| 22 | [Eeva](https://open.spotify.com/track/5UsS8o4Mis0xnGceIT7z0B) | [Susanna Leppänen](https://open.spotify.com/artist/2tu1KfwJKZi0is9Fbraz81) | [Eeva](https://open.spotify.com/album/30NZnytaIoWJ5aSDaHGkQY) | 2:35 |
+| 7 | [Viimeinen kesäpäivä](https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Viimeinen kesäpäivä](https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0) | 2:58 |
+| 8 | [Hyppää Kyytiin Hani](https://open.spotify.com/track/2QJuMP3BEl9edMN4FwqQbW) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ) | [Hyppää Kyytiin Hani](https://open.spotify.com/album/7tMr43LqPAe2FGlG6Gem9I) | 3:01 |
+| 9 | [Janne paina kaasua \(JPK\)](https://open.spotify.com/track/3oCfkdQXRhryVoxWXB3XG2) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Janne paina kaasua \(JPK\)](https://open.spotify.com/album/5Z88T4GfkQo5Wcmfakal0u) | 2:57 |
+| 10 | [Domino](https://open.spotify.com/track/4yObsIr4sNWathGTbjU3Sz) | [51koodia](https://open.spotify.com/artist/000BblCiHJeKvtiq5aiHOs) | [Domino](https://open.spotify.com/album/7shkFNgtHy5uZtDGLxxntQ) | 3:22 |
+| 11 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
+| 12 | [Mitä naapuritkin ajattelis?](https://open.spotify.com/track/1ZlrXTRTFGdePWYgxBVQ2t) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Mitä naapuritkin ajattelis?](https://open.spotify.com/album/0NBuTZ1Nxhh9SWkiKN4TFM) | 2:36 |
+| 13 | [Iloisten Laulujemme Maa](https://open.spotify.com/track/2KQnDjLje3gw9GmpUxnsqn) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF), [Kullervo](https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs) | [Iloisten Laulujemme Maa](https://open.spotify.com/album/1TXHG800To5XNtsoAUYhAH) | 2:53 |
+| 14 | [O ou](https://open.spotify.com/track/5bvOzv8FuhWfCdbjwjbiVn) | [Luukas Oja](https://open.spotify.com/artist/5uenn60DKWeIDiIqC3EcLn) | [O ou](https://open.spotify.com/album/01rzDqLWFEMHW7fV99WYxq) | 2:14 |
+| 15 | [Viime yöltä](https://open.spotify.com/track/5oRFkREa4Q7saOaGXv16jr) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Viime yöltä](https://open.spotify.com/album/40S9QCmuGFABwGHxvCCXE8) | 3:45 |
+| 16 | [Miks sil on väliä sulle?](https://open.spotify.com/track/3je3aRaXqPnzx5U8tSCE9E) | [ILO](https://open.spotify.com/artist/29PSvcmaFVFfpfv12p1nud) | [Miks sil on väliä sulle?](https://open.spotify.com/album/0AR1xmi93zxYweydNPQrQd) | 2:49 |
+| 17 | [Sen minä lupaan](https://open.spotify.com/track/469FQsqbctrlCb0iQEJaz6) | [A.P\. Salonen](https://open.spotify.com/artist/4ClqhdqfN85nQRZc2Adia5) | [Jälkeen surutyön](https://open.spotify.com/album/3msfy1BcD89AeKtDzVeGR9) | 3:44 |
+| 18 | [Pese selkää](https://open.spotify.com/track/2jqCYjO8GFsMkFZsO4fHqQ) | [Arttu Lindeman](https://open.spotify.com/artist/0AK0qOs8ykb6CsaYks1xwK) | [Pese selkää](https://open.spotify.com/album/46dfTPHa3nUYUxlzcO4V40) | 2:27 |
+| 19 | [Uusi isä](https://open.spotify.com/track/2fkX7g0pNpmbXtbA0xUAMp) | [Heikki Kuula](https://open.spotify.com/artist/2EuQqDENk0vVonzvKya24Q), [Mara Balls](https://open.spotify.com/artist/1Jh4IqgvAA9gsBdCajOZ9u) | [Uusi isä](https://open.spotify.com/album/4cqYJZNc0KMxKPu3yKu0g8) | 3:27 |
+| 20 | [Taivaanpaloja](https://open.spotify.com/track/5nErauhcLh4HRTxOCHWWDQ) | [Tommi Kalenius](https://open.spotify.com/artist/1qjLtuPfpeVmDE54cuHKZJ) | [Taivaanpaloja](https://open.spotify.com/album/4HZMS3nvZ7TzLP8EdQaBZH) | 3:34 |
+| 21 | [Eeva](https://open.spotify.com/track/5UsS8o4Mis0xnGceIT7z0B) | [Susanna Leppänen](https://open.spotify.com/artist/2tu1KfwJKZi0is9Fbraz81) | [Eeva](https://open.spotify.com/album/30NZnytaIoWJ5aSDaHGkQY) | 2:35 |
+| 22 | [Sä tunsit mut](https://open.spotify.com/track/5QmRWEFgpmiZPUlzF2dcPb) | [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny) | [Sä tunsit mut](https://open.spotify.com/album/2Hk93WcCuT2LbZz6jijurB) | 6:51 |
 | 23 | [Never Give Up](https://open.spotify.com/track/5qQhb7PNKCOb0yf6rDRQhL) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Never Give Up](https://open.spotify.com/album/3bNDI3VgVEpgnsdX38lWeG) | 3:00 |
 | 24 | [Satu peikoista](https://open.spotify.com/track/4MksHrlGvTndcGcTAFxOiY) | [Suski](https://open.spotify.com/artist/3eAFW1Pf7062zlPtfaEbPE) | [Satu peikoista](https://open.spotify.com/album/0D77k8aHK7BxBYwT3goIo2) | 5:54 |
 | 25 | [Aika loppuu](https://open.spotify.com/track/2m03FQ7x7YGGHZoiy558Ta) | [Venkulit](https://open.spotify.com/artist/6iTidGnUAg4NMXtPtUJ49v) | [Aika loppuu](https://open.spotify.com/album/4vUoF09PxElLpcCRBXeW7e) | 4:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Tankkaan rakkautta](https://open.spotify.com/track/3NLyHNGljkUdEOGHPEEB3O) | [Lumottu Apina](https://open.spotify.com/artist/5Mdiip7nTjBxc29Lu9K9iY) | [Tankkaan rakkautta](https://open.spotify.com/album/6mdiZqQtVQXllrrJWxgxaO) | 3:04 |
 | 80 | [Uni](https://open.spotify.com/track/528qaRmD1cLOMA0ZEjul1w) | [Taiminen](https://open.spotify.com/artist/55P4ZXc5mKxkhty6fqYPIx) | [Uni](https://open.spotify.com/album/7c8nunEbnOjtK6p5pRyXRJ) | 3:42 |
 
-Snapshot ID: `AAAAAFeqeWWR7xqNzmMtBX/KJChBAoP9`
+Snapshot ID: `AAAAAPuOmSN941RQAL3aQH1TPpaOCo9a`

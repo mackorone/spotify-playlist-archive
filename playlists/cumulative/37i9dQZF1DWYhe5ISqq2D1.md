@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: TOMOO
 
-960 songs - 2 day 12 hr 19 min
+960 songs - 2 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [BEAT](https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BEAT](https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww) | 3:37 | 2025-04-29 |  |
 | [beat up](https://open.spotify.com/track/0Qf8NxhLakZn0UtUzpAKYr) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [beat up](https://open.spotify.com/album/6kp2Nv24kf6nWdpm92EUVL) | 2:53 | 2025-09-30 | 2025-10-09 |
 | [Believe It](https://open.spotify.com/track/6swXNfuOM0rp3WecD55izx) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Believe It](https://open.spotify.com/album/0u8xDjoZouDECRUb9ijn4m) | 3:10 | 2024-12-03 | 2024-12-11 |
-| [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [](https://open.spotify.com/album/null) | 5:29 | 2025-10-21 |  |
+| [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 | 2025-10-21 |  |
 | [Blank Map](https://open.spotify.com/track/2qfaJzMbHr4fOBCnyVfQh9) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [Blank Map](https://open.spotify.com/album/5DeXns7O9kdY6q4lx6I8u9) | 5:02 | 2025-02-11 | 2025-02-26 |
 | [BLESS](https://open.spotify.com/track/0pSnidX6DW8FhHvBDLz81Z) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [BLESS](https://open.spotify.com/album/0dGKPWll1u8wFLNPoUZyFg) | 3:08 | 2025-10-08 | 2025-10-15 |
 | [Blouse and Phantom](https://open.spotify.com/track/3hzsfClQwIP2myaMsIGFgH) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [Blouse and Phantom](https://open.spotify.com/album/1LVwKigZOJj4C8YkSzPJ7l) | 3:18 | 2025-04-22 | 2025-04-30 |
@@ -222,6 +222,7 @@
 | [Koe](https://open.spotify.com/track/6LMalCG7UkF5QnnJIuZcSI) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt) | [Koe](https://open.spotify.com/album/44O4YxHUDh9uNcArDZW05C) | 5:12 | 2025-01-28 | 2025-04-17 |
 | [Korean Girl](https://open.spotify.com/track/1kBoAqh5HYLwyjZ07Rr0ge) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [Korean Girl](https://open.spotify.com/album/1QaqHmVeOaPno2GsoWIV8V) | 2:44 | 2024-11-19 | 2024-12-11 |
 | [Kumori nochi hare](https://open.spotify.com/track/0USZ5ZtZIdlqt6c52A7yPX) | [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Kumori nochi hare](https://open.spotify.com/album/3r61XCzJZQVNHlRySvLIxD) | 4:10 | 2025-01-14 | 2025-02-12 |
+| [Kurayami](https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Kurayami/Get used to it](https://open.spotify.com/album/3mOFUx8wl2HKNQ5GAg2854) | 3:38 | 2025-10-21 |  |
 | [Kyowa Seijinnohi](https://open.spotify.com/track/0mO967dMxwjZ8oI8TAGWze) | [Takehara Pistol](https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA) | [Kyowa Seijinnohi](https://open.spotify.com/album/3QFKbshAIES6ITbWwvROoQ) | 2:39 | 2025-01-07 | 2025-01-15 |
 | [L4DY](https://open.spotify.com/track/4S7rVcmRg9wEpAwu05ynvc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [L4DY](https://open.spotify.com/album/45h4CMmgfsSyBoXWWLZoap) | 2:32 | 2024-07-30 | 2024-12-25 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2024-07-02 | 2024-11-20 |
@@ -311,7 +312,7 @@
 | [Peaches](https://open.spotify.com/track/7sH58ftqX5GPmraf2vRUVt) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Stillness of a New Dawn](https://open.spotify.com/album/6eL24SSZkAPbOhn727RZDW) | 1:55 | 2025-05-07 | 2025-05-28 |
 | [Pearl](https://open.spotify.com/track/7ftpHJHd9AUycFXaXL89hM) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Pearl](https://open.spotify.com/album/6Fu58AfDv5ohCkJXvRT6F9) | 3:32 | 2025-01-21 | 2025-02-19 |
 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 | 2024-09-03 | 2024-09-18 |
-| [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 | 2025-10-22 |
+| [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 |  |
 | [Pineapple Rock](https://open.spotify.com/track/3Fks5VtxTq7j0GF2RpzzGL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Pineapple Rock](https://open.spotify.com/album/5RnnbDNs52JZ5kRmNw3yOI) | 2:39 | 2025-06-17 | 2025-06-25 |
 | [PINK PUNCH](https://open.spotify.com/track/1hRT4tRsLgOkejN2KGqukf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [PINK PUNCH](https://open.spotify.com/album/6vgybAHVnds7q6FgoDkeFq) | 2:07 | 2025-04-15 | 2025-05-22 |
 | [Pioneer \- 2024 mined ver.](https://open.spotify.com/track/6Jt0NgRCBuFvCUBSgqmXh2) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Pioneer \(2024 mined ver.\)](https://open.spotify.com/album/5SspPJZnGKmHBF3FG2gQeh) | 3:52 | 2024-09-03 | 2024-09-11 |
@@ -399,7 +400,6 @@
 | [TOKYO OVERSELL](https://open.spotify.com/track/6xTxLiGaCt67nq6goAsx0C) | [kiyu](https://open.spotify.com/artist/3aEOW8dsrbkcL3iA3w1tXu) | [TOKYO OVERSELL](https://open.spotify.com/album/06MHOhm3XLpEm7d2cgjv7F) | 2:23 | 2025-05-27 | 2025-06-04 |
 | [tomato](https://open.spotify.com/track/0fvg4lNtdROo83CGCfgyNF) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [tomato](https://open.spotify.com/album/7wRw76TSgb16kQfeGvGtal) | 4:40 | 2025-06-11 | 2025-10-22 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 1](https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-21 |  |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |
 | [Tsubasa](https://open.spotify.com/track/7K2HP1SXZZ31yrJjbHtZRt) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Tsubasa](https://open.spotify.com/album/3GjF80YwlbsgjIcYLvH8k2) | 3:00 | 2025-04-29 | 2025-05-24 |
@@ -478,7 +478,7 @@
 | [きれいなおじさん](https://open.spotify.com/track/7LvVO2U8Sot0EFyV1bcDsx) | [井上園子](https://open.spotify.com/artist/1CrUJuV3FPAvDK7do7QQRm) | [ほころび](https://open.spotify.com/album/4hI1UKKAgliU95KADRBtiZ) | 7:12 | 2024-09-03 | 2024-09-18 |
 | [ここに春が訪れる](https://open.spotify.com/track/4HeNTkLmFYWcPzAbJVsgbH) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [ここに春が訪れる](https://open.spotify.com/album/1Owr5fIaplGJSjZkgIa5n0) | 5:36 | 2025-04-08 | 2025-04-16 |
 | [ことさら](https://open.spotify.com/track/7qkQVI205qumPd2D4Hgtv1) | [江沼郁弥](https://open.spotify.com/artist/73pLdo9qAhHq5k992znDeV) | [ことさら EP](https://open.spotify.com/album/4tj9Z1Iq4qnTqIXpzC90gu) | 3:38 | 2025-09-30 | 2025-10-08 |
-| [このオンガクと共に](https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [このオンガクと共に](https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6) | 2:45 | 2025-09-23 |  |
+| [このオンガクと共に](https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [このオンガクと共に](https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6) | 2:45 | 2025-09-23 | 2025-10-23 |
 | [この世界に二人だけ](https://open.spotify.com/track/568SN1Qz6PNLvrme0dNOHh) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [この世界に二人だけ](https://open.spotify.com/album/2aIsC5qb9trcNgREyQGaZI) | 3:40 | 2025-02-18 | 2025-08-02 |
 | [この世界に国が無かったら](https://open.spotify.com/track/129vY7oCXRRzEeb8PETl6H) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [この世界に国が無かったら](https://open.spotify.com/album/3xew462pPgsDMWwwCC5lut) | 4:19 | 2024-11-26 | 2025-10-22 |
 | [ごはんをたくさん食べる \- Radio Edit](https://open.spotify.com/track/0sK8rpoAzEduk9wtwxgkHq) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [Alfa](https://open.spotify.com/album/5Bn73uE9l7Q9aTChkxsIqZ) | 3:50 | 2025-06-11 | 2025-06-18 |

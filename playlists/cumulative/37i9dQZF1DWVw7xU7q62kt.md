@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-671 songs - 1 day 5 hr 25 min
+672 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [FRAGILE](https://open.spotify.com/track/1BY7dyFvIb0GilbJp7MZ82) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [OCEAN](https://open.spotify.com/album/4OhdSAUk38vuqxwdWEBLn4) | 4:47 | 2023-11-10 | 2024-08-05 |
 | [FRAGILE](https://open.spotify.com/track/6s5yV1VjNxtuMZZbxPIWDS) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [OCEAN](https://open.spotify.com/album/6xLTeSHt4h9gj0VDNXnoL4) | 4:47 | 2023-12-01 | 2024-04-19 |
 | [Fragments](https://open.spotify.com/track/3BvyotmsH79tsYMTi1866L) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Fragments](https://open.spotify.com/album/6Bqr1RCqqU6lagfTtBmBFG) | 2:10 | 2024-10-25 |  |
+| [Free Flowing](https://open.spotify.com/track/0QIvzyV00cdv3UIWldwDtt) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Free Flowing](https://open.spotify.com/album/2nGNo7aW940zjCUIUw7Kx2) | 2:01 | 2025-10-17 |  |
 | [Fresh out the shower](https://open.spotify.com/track/57Sy84Hxj9rEiUyvphRpMO) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Fresh out the shower](https://open.spotify.com/album/3S2Lnq0i89pJ47FZkUHV19) | 2:38 | 2024-11-08 |  |
 | [Fresh Pots](https://open.spotify.com/track/3juEMd8URzkwbNFS3FiSG2) | [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu) | [Fresh Pots](https://open.spotify.com/album/6RmP1A0GDtekJU1Kn6ohTS) | 2:32 | 2024-01-26 | 2025-05-17 |
 | [Frizzante](https://open.spotify.com/track/14QGxLHg3jVkSjQI1pt66e) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Frizzante](https://open.spotify.com/album/6X2AajUzE8zAXa7mxSqjtq) | 2:16 | 2025-01-24 | 2025-02-04 |
@@ -509,7 +510,7 @@
 | [Sleepyhead](https://open.spotify.com/track/3nVPHHcZnLDDZ4nbTLML5u) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Sleepyhead](https://open.spotify.com/album/5AtoWsRvIWvSeVQdC3z6Tn) | 2:07 | 2025-03-28 |  |
 | [Slide Along](https://open.spotify.com/track/0aV3DqM7ZUhtohHz4J7hut) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Slide Along](https://open.spotify.com/album/2bUqwKMiC9EMKtwYU8DOI2) | 2:39 | 2025-02-03 |  |
 | [Slipping Slowly](https://open.spotify.com/track/3utuOUxyj2ur3Hh2b1Hi9W) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [CHAERIN](https://open.spotify.com/artist/5VhgcFVd77oNJ2eZ2OynMc) | [Slipping Slowly](https://open.spotify.com/album/00ejlsopWmxDclwu12Vgz4) | 2:18 | 2024-08-23 | 2025-05-17 |
-| [Slow Down](https://open.spotify.com/track/2cC0dkN1nkcjOaSWPbAwce) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Slow Down](https://open.spotify.com/album/6Ow6ln163aqINuMKpNYTkM) | 1:58 | 2025-09-26 |  |
+| [Slow Down](https://open.spotify.com/track/2cC0dkN1nkcjOaSWPbAwce) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Slow Down](https://open.spotify.com/album/6Ow6ln163aqINuMKpNYTkM) | 1:58 | 2025-09-26 | 2025-10-23 |
 | [Slumber](https://open.spotify.com/track/45dCxZ1b32IMjK5FVNI38a) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [Slumber](https://open.spotify.com/album/6EKg89pPDJnHjrqdygWrOi) | 2:23 | 2024-10-18 |  |
 | [Smiley](https://open.spotify.com/track/3bVzCiIlDQHRj6AceYv5IQ) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [birty](https://open.spotify.com/artist/4p81Kbhx0mkop7JXpKoqlA) | [Smiley](https://open.spotify.com/album/4qrWD7B7c7y3sUACC1VPwD) | 2:34 | 2025-04-25 | 2025-05-17 |
 | [Smooth Rush](https://open.spotify.com/track/5Jw8bFyOFGSHc76SufSoZd) | [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Victor Staal](https://open.spotify.com/artist/2bgAoii05IWMcjX8TBPWMp) | [Smooth Rush](https://open.spotify.com/album/71xU082Io0evYU0s9ICVBA) | 2:00 | 2024-10-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 91351,
+  "num_followers": 91371,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 150027,
+      "name": "MALAMENTE - Cap.1: Augurio",
+      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 177697,
       "name": "Just A Stranger (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 150027,
-      "name": "MALAMENTE - Cap.1: Augurio",
-      "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 272902,
       "name": "Lemon Boy",
       "url": "https://open.spotify.com/track/3Yvk0ZLxMlt6ioasvdN6vB"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Lemon Boy",
+        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "RIP Indo Hisashi",
         "url": "https://open.spotify.com/album/5l156gMmHiFQKaAqCWRkI4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 195501,
       "name": "Narcissist (feat. The 1975)",
       "url": "https://open.spotify.com/track/4qjLvvBh5ZeKEPyShKRf06"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Lemon Boy",
-        "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 233785,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "High As Hope",
         "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 226160,
       "name": "Sky Full Of Song",
       "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 215445,
       "name": "Lie",
       "url": "https://open.spotify.com/track/2s1AhFYnZAtSU5rk4lvwB7"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "diary 001",
-        "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        },
-        {
-          "name": "Rejjie Snow",
-          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
-        }
-      ],
-      "duration_ms": 135016,
-      "name": "Hello?",
-      "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "You Are Someone Else",
         "url": "https://open.spotify.com/album/7LdUzhm4SloDil5y0sRen0"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 188251,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1G79vIY7FPXPjBj9cpweZD"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "diary 001",
+        "url": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        },
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 135016,
+      "name": "Hello?",
+      "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life (Extended Version)",
-        "url": "https://open.spotify.com/album/4e4SeM1BjQUEbMOoppxNXL"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 214432,
-      "name": "Bee-Sting",
-      "url": "https://open.spotify.com/track/0Irnw775vIj4UjNl8vaeOX"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Love Is Dead",
         "url": "https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 231359,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/7cSlVOkKI5rY3ZTO5Pbh3O"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Beautiful People Will Ruin Your Life (Extended Version)",
+        "url": "https://open.spotify.com/album/4e4SeM1BjQUEbMOoppxNXL"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 214432,
+      "name": "Bee-Sting",
+      "url": "https://open.spotify.com/track/0Irnw775vIj4UjNl8vaeOX"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 239010,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 184693,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1507,6 +1507,22 @@
       "duration_ms": 234055,
       "name": "Drown",
       "url": "https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1623,22 +1639,6 @@
       "duration_ms": 208760,
       "name": "Calm",
       "url": "https://open.spotify.com/track/5mLTKuS2yHKBgxvm4Jn27a"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/01GO03odsNlNLtvNETukWT"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/2AF5Kzxb4pz7j79Ity84pP"
     },
     {
       "added_at": "2024-03-18 13:22:22",

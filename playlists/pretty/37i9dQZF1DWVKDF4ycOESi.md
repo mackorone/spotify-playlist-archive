@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Angelina Mango, Irama, Charlie Puth,  Kim Petras, MOLIY e Tyla e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,194 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,185 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 2 | [Tutto Tranne Questo](https://open.spotify.com/track/6xFT1P0mwVvtQ0jnwAtsTN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Antologia Della Vita e Della Morte](https://open.spotify.com/album/7uHhBNrQ4PR4121dBMddIm) | 2:42 |
 | 3 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 4 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
-| 5 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 5 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 6 | [DON'T KILL THE PARTY \(feat\. Quavo & Juicy J\)](https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 2:12 |
-| 7 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
+| 7 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
 | 8 | [LA STESSA CANZONE](https://open.spotify.com/track/5Wkb7ahMx0TGohZWShBSD4) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [LA STESSA CANZONE](https://open.spotify.com/album/2T4bGFAsZYjhN4s2MEKsFj) | 3:41 |
 | 9 | [Hooligan](https://open.spotify.com/track/1EHgSsxhARHChEt4mbHDS6) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Hooligan](https://open.spotify.com/album/2nAA78saQypIBDktWAHfXV) | 2:49 |
 | 10 | [Ragazzina](https://open.spotify.com/track/7FyxANPDgfcq4TXH4pDzRv) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Ragazzina](https://open.spotify.com/album/6WE48UOg2niHYQjmGqWhU9) | 3:12 |

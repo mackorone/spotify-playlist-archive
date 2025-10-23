@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Limi
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,142 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,146 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:34 |
+| 1 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 |
 | 2 | [Broken World \- Netflix影集《回魂計》片尾曲](https://open.spotify.com/track/14F1jiXQWTgDhlA7l8j5mq) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Broken World \(Netflix影集《回魂計》片尾曲\)](https://open.spotify.com/album/6LpR4eq2qWiBP8dPSuWgQh) | 2:32 |
 | 3 | [幻覺 \(NRP\)](https://open.spotify.com/track/6lFMGi9Yo5h6maKTNaDO2N) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Levii](https://open.spotify.com/artist/7tbJBCI0iwZEvOfjp8q1zZ) | [幻覺 \(NRP\)](https://open.spotify.com/album/0WTKA98lJhIQ5W7AeqfLbT) | 3:50 |
 | 4 | [Hush Between Waves](https://open.spotify.com/track/3IveU4KSU8kI2IwaiEg3He) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [Hush Between Waves](https://open.spotify.com/album/30LLAEtyM3j0Co56jyGCyC) | 3:56 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 49 | [Let Me Be Me](https://open.spotify.com/track/2ANnz9Yz84AjRvQbesAN0y) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Let Me Be Me](https://open.spotify.com/album/6ZKIfOnERnUGU5vm73Q68B) | 3:05 |
 | 50 | [DOVE](https://open.spotify.com/track/0c7bWZxmcn4SYbTzAWaVmV) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [DOVE](https://open.spotify.com/album/2nv06C1P6MMcoRVnFi6tE6) | 4:11 |
 | 51 | [All I Know](https://open.spotify.com/track/2TDK3J9sqhU6UMlkmMX0wz) | [Ray Hou](https://open.spotify.com/artist/19A8GRUBh001nRwAaOuoe2) | [All I Know](https://open.spotify.com/album/5QrifpN1wLUUfdyehjWNtH) | 3:13 |
-| 52 | [Nothing Fancy](https://open.spotify.com/track/7bwi0VXnjJAWRZcxM93f2D) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Nothing Fancy](https://open.spotify.com/album/4RNg9Z28V9wGz1Tqs7ss0z) | 3:23 |
+| 52 | [Nothing Fancy](https://open.spotify.com/track/7bwi0VXnjJAWRZcxM93f2D) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Nothing Fancy](https://open.spotify.com/album/4RNg9Z28V9wGz1Tqs7ss0z) | 3:22 |
 | 53 | [May flowers](https://open.spotify.com/track/7DdpBxdbpYBMXPPTVrrD6m) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [May flowers](https://open.spotify.com/album/4OJ6X8eazX6FSN3ShfoJUD) | 3:12 |
 | 54 | [Fantasy, Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
 | 55 | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/track/16xxMRn4v1fKbPvA9wVm1H) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/album/4N3jtleWnWAv6O9i259aTi) | 3:25 |

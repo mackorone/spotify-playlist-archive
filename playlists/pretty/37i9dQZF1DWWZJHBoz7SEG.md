@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Llegó tu dotación de rolitas nuevas con sabor a pumpkin spice en compañía de Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,065 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,024 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

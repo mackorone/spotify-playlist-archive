@@ -4,7 +4,7 @@
 
 > PH vibin' cover: ALLMO$T
 
-395 songs - 21 hr 42 min
+397 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dimes](https://open.spotify.com/track/16AJqIiU7tcXSvweFAWv32) | [Keyshia](https://open.spotify.com/artist/5yAQQQfO9QNt3LtRZXlr5t) | [Dimes](https://open.spotify.com/album/4XYYwGYViQqsAxFofX5ffZ) | 3:18 | 2023-10-27 | 2024-05-04 |
 | [DKL](https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha) | [MYR](https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY) | [DKL](https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT) | 3:10 | 2023-09-13 | 2024-02-10 |
 | [DKSI!](https://open.spotify.com/track/3z5GSDFNexYsTnswjJAYTe) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [L0VER G!RL](https://open.spotify.com/album/5ifAePO10zjHrgzi6IXGck) | 3:14 | 2024-01-15 | 2024-06-22 |
+| [Dominga](https://open.spotify.com/track/4Nyyfm1HlgI2QsaKfuu6Ol) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx), [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Dominga](https://open.spotify.com/album/1eTlYrqqUnN724pPwrCNbt) | 3:47 | 2025-10-22 |  |
 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 | 2024-02-09 | 2025-01-17 |
 | [DON'T WANNA THINK ABOUT U](https://open.spotify.com/track/27AGaNzgfWtygmqQ1zjiEL) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Mark Mendez](https://open.spotify.com/artist/35LEv5q2KA07FyZNoRE4FG), [Bolo](https://open.spotify.com/artist/2tNvirxo0YPPpZ6KMnDVaF) | [DON'T WANNA THINK ABOUT U](https://open.spotify.com/album/7CngBsQ3ChbQybleq7hKlF) | 3:48 | 2025-09-26 |  |
 | [Down](https://open.spotify.com/track/6hZMKAVfEpzyu4DV9P1N1s) | [Ty Raquin](https://open.spotify.com/artist/0TPGrHros3vvU1eR2dgDQp) | [Rendezvous](https://open.spotify.com/album/3E8ctYqz5kNmvYeTvIAtKZ) | 2:57 | 2023-11-10 | 2024-02-07 |
@@ -332,6 +333,7 @@
 | [SEEN](https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [SEEN](https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n) | 2:52 | 2023-07-28 | 2024-03-09 |
 | [self talk](https://open.spotify.com/track/3h83G3DtJTNxYZrnvrEK2z) | [Annie Lux](https://open.spotify.com/artist/54vSGePBrdJojNSXh13DwN) | [self talk](https://open.spotify.com/album/0pXuT6nfO7jEPaG90OjBht) | 2:01 | 2022-10-12 | 2023-05-03 |
 | [Selfish](https://open.spotify.com/track/6ZTXLtZ9EBhji6rcowVW8s) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M) | [Selfish](https://open.spotify.com/album/4Mud55B7qxmzQecqObcG6e) | 2:38 | 2025-07-21 |  |
+| [Selfish \- Remix](https://open.spotify.com/track/5aXg6tECTTyUjtDG2EubBk) | [kyleaux](https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [Selfish](https://open.spotify.com/album/0ppBQhMLm2yvMEB7ISJJ32) | 2:38 | 2025-10-22 |  |
 | [Serendipity](https://open.spotify.com/track/2llVd6DO8eRkeeJoQHWNVY) | [KXLE](https://open.spotify.com/artist/4fBrMkpNH1BKJzprol0cUg) | [Serendipity](https://open.spotify.com/album/2JAm6w34GQ88LbPgXgxmGA) | 2:33 | 2025-08-27 |  |
 | [Shawty](https://open.spotify.com/track/0S7aR94L2NOJYDHWB97Yy6) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Shawty](https://open.spotify.com/album/51qJ7XaO2Eh4DLIyS8SzZ0) | 3:07 | 2024-02-09 | 2025-01-17 |
 | [showbiz lang, sorry babe...](https://open.spotify.com/track/7ybvHpVseTzAMUKLczNlLL) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:55 | 2024-08-23 | 2025-03-22 |

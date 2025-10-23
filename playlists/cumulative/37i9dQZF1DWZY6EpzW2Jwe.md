@@ -4,7 +4,7 @@
 
 > Remembering Ozzy Osbourne
 
-40 songs - 3 hr 23 min
+41 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Sweet Leaf \- 2014 Remaster](https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2014 Remaster\)](https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D) | 5:04 | 2025-07-22 |  |
 | [Take What You Want \(feat\. Ozzy Osbourne & Travis Scott\)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:49 | 2025-07-22 |  |
 | [The Wizard \- 2014 Remaster](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 4:22 | 2025-07-22 |  |
-| [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 | 2025-07-22 |  |
+| [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 | 2025-10-22 |  |
+| [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 | 2025-07-22 | 2025-10-23 |
 
 \*This playlist was first scraped on 2025-07-23. Prior content cannot be recovered.

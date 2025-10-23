@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Bruna Karla
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,640 likes - 49 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,683 likes - 49 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

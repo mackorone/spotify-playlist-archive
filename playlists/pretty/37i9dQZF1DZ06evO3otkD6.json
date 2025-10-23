@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 87187,
+  "num_followers": 87281,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADN+0Wfxz7aZwPewDqDLESf",
+  "snapshot_id": "aPbNAAAAAADx8Kh1PZ6gsBBKkNCjacZ7",
   "tracks": [
     {
       "added_at": null,
@@ -35,38 +35,6 @@
       "duration_ms": 254713,
       "name": "CANCI\u00d3N PARA REGRESAR",
       "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras: La Serie (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Mariana Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
-        },
-        {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
-        },
-        {
-          "name": "Regina Bland\u00f3n",
-          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
-      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
     },
     {
       "added_at": null,
@@ -163,6 +131,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
+          "name": "Regina Bland\u00f3n",
+          "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Bella Traicion",
+      "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 147804,
       "name": "El Me Minti\u00f3, Mentiras, Mentiras",
       "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Bella Traicion",
-      "url": "https://open.spotify.com/track/5eIsMbKPT1IJ0b0rdvgtlZ"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Luz Sin Gravedad",
+      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 168140,
       "name": "Amiga M\u00eda, Ese hombre No Se Toca",
       "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Luz Sin Gravedad",
-      "url": "https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "300 Noches",
+        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "300 Noches",
+      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 125470,
       "name": "Castillos (feat. Regina Bland\u00f3n)",
       "url": "https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "300 Noches",
-        "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "300 Noches",
-      "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras: La Serie (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 116611,
-      "name": "De Color De Rosa",
-      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The King Is Back",
         "url": "https://open.spotify.com/album/5N6P3Eh36VTePIz2g2n3Pu"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 185480,
       "name": "Si No Te Quisiera",
       "url": "https://open.spotify.com/track/0wLqXnCLseMice1Hwq6yLz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 116611,
+      "name": "De Color De Rosa",
+      "url": "https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras: La Serie (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 110224,
-      "name": "Es Ella Mas Que Yo",
-      "url": "https://open.spotify.com/track/76U0tk9qvImvBhwPgSw2z9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4.0",
         "url": "https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 233080,
       "name": "D\u00e9jate Llevar",
       "url": "https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 110224,
+      "name": "Es Ella Mas Que Yo",
+      "url": "https://open.spotify.com/track/76U0tk9qvImvBhwPgSw2z9"
     },
     {
       "added_at": null,

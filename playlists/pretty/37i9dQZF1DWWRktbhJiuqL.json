@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2028054,
+  "num_followers": 2028111,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
+        "name": "Orgy of the Damned",
+        "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 273520,
+      "name": "Oh Well feat. Chris Stapleton",
+      "url": "https://open.spotify.com/track/0o16V4WswA4aknX8WmVDsQ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 247010,
       "name": "Living In A Ghost Town",
       "url": "https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "Orgy of the Damned",
-        "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
-      },
-      "artists": [
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 273520,
-      "name": "Oh Well feat. Chris Stapleton",
-      "url": "https://open.spotify.com/track/0o16V4WswA4aknX8WmVDsQ"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -1985,38 +1985,6 @@
       "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
     },
     {
-      "added_at": "2025-09-19 04:00:13",
-      "album": {
-        "name": "Milestone",
-        "url": "https://open.spotify.com/album/29vi4lP3QGpUMnoaSZQiUf"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 275099,
-      "name": "So Much So Right",
-      "url": "https://open.spotify.com/track/0zGDgUAduvKAqcD2Q2r3Cn"
-    },
-    {
-      "added_at": "2025-02-14 05:00:20",
-      "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
       "added_at": "2025-02-14 05:00:20",
       "album": {
         "name": "Just Another Rainbow",
@@ -2035,6 +2003,38 @@
       "duration_ms": 336218,
       "name": "Just Another Rainbow",
       "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
+    },
+    {
+      "added_at": "2025-02-14 05:00:20",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2025-09-19 04:00:13",
+      "album": {
+        "name": "Milestone",
+        "url": "https://open.spotify.com/album/29vi4lP3QGpUMnoaSZQiUf"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 275099,
+      "name": "So Much So Right",
+      "url": "https://open.spotify.com/track/0zGDgUAduvKAqcD2Q2r3Cn"
     },
     {
       "added_at": "2025-02-14 05:00:20",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2025-02-14 05:00:20",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/1AP1CpLlnQa4nPzDT8rR2v"
+        "name": "Bones Owens",
+        "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
       },
       "artists": [
         {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
         }
       ],
-      "duration_ms": 233596,
-      "name": "Blank Generation (Studio Version) - Recorded at Electric Lady Studios",
-      "url": "https://open.spotify.com/track/7rklSHokP7SFLERdaCbheh"
+      "duration_ms": 210239,
+      "name": "Rambler - Bonus Track",
+      "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"
     }
   ],
   "unique_name": "Pure Rock & Roll",

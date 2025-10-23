@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 83106,
+  "num_followers": 83114,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADzAM5tpygbEIDY6keawJad",
+  "snapshot_id": "aPbNAAAAAACZ7TYgNZPV7HvGuU4vt+BL",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Para Poder Llegar A Ti",
-      "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
         "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 210946,
       "name": "Corrido De Chito Cano",
       "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Para Poder Llegar A Ti",
+      "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
-        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 144426,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
         "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 184973,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/1w1uxMoBEwQGBIq5eKSYWb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 144426,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo...El Hombre Y Su Musica",
-        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "La Vecina Me Puso El Dedo - (En Vivo)",
-      "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recu\u00e9rdame Y Ven A M\u00ed",
         "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 185280,
       "name": "Recuerdos Tristes",
       "url": "https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "La Vecina Me Puso El Dedo - (En Vivo)",
+      "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
-        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
-      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
+        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
+      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
     },
     {
       "added_at": null,

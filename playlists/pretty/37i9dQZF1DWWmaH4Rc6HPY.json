@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Joaquina en portada.",
-  "num_followers": 36940,
+  "num_followers": 36948,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Vinculo",
-        "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 256713,
-      "name": "Vinculo",
-      "url": "https://open.spotify.com/track/2JXWGqA83AR8QDrYHnWabc"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 198841,
       "name": "TRANKIS",
       "url": "https://open.spotify.com/track/1wNDU9iweBU4ZZpWBUW9O5"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Vinculo",
+        "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 256713,
+      "name": "Vinculo",
+      "url": "https://open.spotify.com/track/2JXWGqA83AR8QDrYHnWabc"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
-        "name": "Aeropuerto",
-        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Aeropuerto",
-      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
         "name": "Igual de gris",
         "url": "https://open.spotify.com/album/01ue76B6p752PENdJ6eurO"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 196395,
       "name": "Igual de gris",
       "url": "https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
+        "name": "Aeropuerto",
+        "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Aeropuerto",
+      "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "claroqno",
         "url": "https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 154488,
       "name": "claroqno",
       "url": "https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
     },
     {
       "added_at": "2025-10-17 06:00:28",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-10-17 06:00:28",
       "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2025-10-17 06:00:28",
+      "album": {
         "name": "\u00bfQu\u00e9 vas a saber?",
         "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
-    },
-    {
-      "added_at": "2025-10-17 06:00:28",
-      "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2025-10-17 06:00:28",

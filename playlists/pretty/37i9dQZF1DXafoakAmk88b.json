@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: John Glacier",
-  "num_followers": 57564,
+  "num_followers": 57570,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
         "name": "Flood",
         "url": "https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
       "added_at": "2025-06-13 18:04:13",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
-        "name": "Like A Ribbon",
-        "url": "https://open.spotify.com/album/7C0m3PiCmlHtpCVG0cwzwC"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 204916,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/5MIjWtoQYHEifN8KGHuPAU"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
         "name": "Glimmer of God",
         "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 226693,
       "name": "You're Bleeding Everywhere",
       "url": "https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
+        "name": "Like A Ribbon",
+        "url": "https://open.spotify.com/album/7C0m3PiCmlHtpCVG0cwzwC"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 204916,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/5MIjWtoQYHEifN8KGHuPAU"
     },
     {
       "added_at": "2025-06-13 18:04:13",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-06-13 18:04:13",
       "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 107563,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
-    },
-    {
-      "added_at": "2025-06-13 18:04:13",
-      "album": {
         "name": "CHARLOTTE",
         "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
+    },
+    {
+      "added_at": "2025-06-13 18:04:13",
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2DDhjNTlNh2tkhxwIfgrY5"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 107563,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/1bHjlcErAwz7qh8ME68iIR"
     }
   ],
   "unique_name": "Indie Frequency",

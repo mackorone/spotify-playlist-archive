@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,079 likes - 361 songs - 19 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,081 likes - 361 songs - 19 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

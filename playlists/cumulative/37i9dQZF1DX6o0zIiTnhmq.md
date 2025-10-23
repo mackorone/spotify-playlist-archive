@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-184 songs - 1 day 19 hr 18 min
+185 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Gayatri Mantra](https://open.spotify.com/track/6hqclMTlC1XSreZ7Ij4e87) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7) | 45:06 | 2022-01-24 | 2024-12-31 |
 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/3DsFfzvxc9kHbG1q7l5eZJ) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/3KuTEH3Gcspp4jz1icbKzi) | 36:50 | 2024-02-15 | 2024-04-19 |
 | [Gayatri Mantra \(108 Times\)](https://open.spotify.com/track/5PFiiReo58SGPeKfEnRuc8) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW) | [Gayatri Mantra](https://open.spotify.com/album/6yAEcjB0tVVFcrJB7i0FdB) | 36:50 | 2023-09-15 | 2024-12-31 |
+| [Gayatri Mantra \- Meditative Chants](https://open.spotify.com/track/5RUSSmZ7vbtRc3ZPDoENoP) | [Bhakti Choir](https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl) | [Gayatri Mantra \- Meditative Chants](https://open.spotify.com/album/3oxxfzWdXsWc7XuZn7sU5l) | 6:34 | 2025-10-22 |  |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/3ZkrJk4fRxrRmY9vTnPqfb) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/2ghS5qaKObWNuoXbRgD9LU) | 47:29 | 2022-01-24 | 2023-06-23 |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/6WX94Hv9LXIzxKvJYJUhMy) | [Dr\. Rahul Joshi](https://open.spotify.com/artist/71cFvaV1O8Jb5jzJc86YLr) | [Gayatri Mantra 108 Times \- Single](https://open.spotify.com/album/76rIJ92IJGiqPju3epWuoM) | 47:29 | 2022-01-24 | 2023-03-12 |
 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/2v1mkc6rK4XB5zWiMwsIgG) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/0ujyZG2HtKKNH2Q6Wu01rw) | 23:24 | 2024-09-29 |  |
@@ -149,7 +150,7 @@
 | [Sahaswara Mantra for Crown Chakra with AUM Sound](https://open.spotify.com/track/72jQQX6TwitG7CVRAk8g3D) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:02:33 | 2025-02-07 | 2025-04-21 |
 | [Sangam](https://open.spotify.com/track/4gS89qIiXDXkOgTBM68ULw) | [Siddhant Bhatia](https://open.spotify.com/artist/7Gbxd12w8HXhZGCH27LtxS), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ), [Jim "Kimo" West](https://open.spotify.com/artist/51aljngqSf5fmjeQEOXp0k), [Ron Korb](https://open.spotify.com/artist/4Xjxonsw8YU2tX5MR7n0r8), [Charu Suri](https://open.spotify.com/artist/74kDoHOU6cjB6MFeCDsoZX), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds) | [Sounds of Kumbha](https://open.spotify.com/album/40vzDzmODup1OWQqnLeUCO) | 5:42 | 2025-07-07 |  |
 | [Saraswati Rhythm](https://open.spotify.com/track/1AwW1ElTc2Gb844Or8nmcu) | [Bass Rebellion](https://open.spotify.com/artist/7D2HBoOVlNYCwvIXLWALXe) | [Saraswati Rhythm](https://open.spotify.com/album/4ulkvp5UVQf3DI0FHF8bmR) | 3:05 | 2023-05-23 | 2023-09-09 |
-| [Sarveshaam Svastir Bhavatu](https://open.spotify.com/track/3EEpjsPaW823RgMoBkOSTV) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/album/30RNKePqnsWCUbo6ryWwrr) | 5:19 | 2025-02-07 |  |
+| [Sarveshaam Svastir Bhavatu](https://open.spotify.com/track/3EEpjsPaW823RgMoBkOSTV) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Sarveshaam Svastir Bhavatu](https://open.spotify.com/album/30RNKePqnsWCUbo6ryWwrr) | 5:19 | 2025-02-07 | 2025-10-23 |
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/10hYBr0KXyCNtuvc388Rn8) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1RRMH04ndZk2LWEgDAkUG7) | 45:17 | 2022-01-24 | 2024-12-31 |
 | [Sarvesham Svastir Bhavatu](https://open.spotify.com/track/3wPDOm3yUZdZtxjkDTIUcm) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Deep Inner Peace](https://open.spotify.com/album/1jugrSJ5ZNJFaeZvki19Z4) | 45:17 | 2022-08-05 | 2022-11-13 |
 | [Sarvesham Svastir Bhavtu](https://open.spotify.com/track/0ttVqRISNySDktBhdJsJZv) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 45:17 | 2022-01-24 | 2024-04-19 |

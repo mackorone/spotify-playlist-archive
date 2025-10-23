@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Start you day with God and let these songs set you up to have a GOoD morning!
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,641 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,672 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 30 | [Perfect](https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Perfect](https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH) | 3:07 |
 | 31 | [You Shine](https://open.spotify.com/track/7xErthsNR0N0Q6jCfTrgF0) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [You Shine](https://open.spotify.com/album/72jFirpOEYhHfEPNC0kpQt) | 3:24 |
 | 32 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 |
-| 33 | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q) | [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl) | 3:20 |
-| 34 | [Monday Morning Faith \- Acoustic](https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Monday Morning Faith \(Acoustic\)](https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi) | 5:38 |
+| 33 | [Monday Morning Faith \- Acoustic](https://open.spotify.com/track/2V7ozI3jvpPyLVxnvSac3z) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Monday Morning Faith \(Acoustic\)](https://open.spotify.com/album/4u5miLlJ3i9y6mOgoE2HWi) | 5:38 |
+| 34 | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q) | [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Rise My Soul, The Lord Is Risen](https://open.spotify.com/album/6k2NpIoDbowre3D5Tloqyl) | 3:20 |
 | 35 | [Thank God I'm Free](https://open.spotify.com/track/2yolugG5vuEjiiDq7A47mE) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Thank God I'm Free](https://open.spotify.com/album/5fqWCD1SxUfcvMkN7x2NN4) | 2:51 |
 | 36 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 |
 | 37 | [Water](https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Water](https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M) | 2:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 40 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
 | 41 | [So Good](https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [So Good](https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB) | 2:51 |
 | 42 | [Hopeful](https://open.spotify.com/track/0xujGe3mc7mKc7N655UpdL) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hopeful](https://open.spotify.com/album/3Ol2xD0wKSn172kgB85JnM) | 4:27 |
-| 43 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
-| 44 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
+| 43 | [05 \(Morning\)](https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk) | [Tom Read](https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd) | [05 \(Morning\)](https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5) | 3:48 |
+| 44 | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [Beautiful Day \(House of the Lord\)](https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv) | 3:47 |
 | 45 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
 | 46 | [Makes My Day](https://open.spotify.com/track/3bqhH2SWF53d9TfQ8B6JcA) | [Cory Montell Scott](https://open.spotify.com/artist/4yXA1CoD2NZa6wechuaepF), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Makes My Day](https://open.spotify.com/album/6I2CtfYURnq4OXtpEXgEu8) | 4:55 |
 | 47 | [morning always comes](https://open.spotify.com/track/5yuj9iWkGmOxFeuW3lYOwz) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [morning always comes](https://open.spotify.com/album/5Ui84kuDZfTlmSgip0NnXJ) | 3:20 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 71 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
 | 72 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
 | 73 | [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 |
-| 74 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 |
-| 75 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
+| 74 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
+| 75 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 |
 
 Snapshot ID: `AAAAACA8+Bn6McUgZ9cEeRBcxvNG9Cq7`

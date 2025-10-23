@@ -984,7 +984,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 156452,
       "name": "Brainrot Rap (brr brr) - Exteneded",
       "url": "https://open.spotify.com/track/7KTmTezZjoo7c4lcYrFYkF"
@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 321642,
       "name": "Devil's Pie",
       "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 382333,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z"
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 143624,
       "name": "How Do You Do",
       "url": "https://open.spotify.com/track/3BlHcmJ9ii6OCweTceTPOf"
@@ -3360,7 +3360,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 240453,
       "name": "I Found My Smile Again (Radio Edit)",
       "url": "https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH"
@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 236714,
       "name": "Lay My Heart Down Easy",
       "url": "https://open.spotify.com/track/0LKX3Svu3iSWTaXvPkSVZP"
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 301668,
       "name": "Name Of The DJ - Extended Mixxx Remastered",
       "url": "https://open.spotify.com/track/1s8etFdWyUVex757Jxuymr"
@@ -7043,6 +7043,24 @@
     },
     {
       "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
+    },
+    {
+      "album": {
         "name": "Heat The Streets",
         "url": "https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB"
       },
@@ -7692,7 +7710,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 344893,
       "name": "When We Get By",
       "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE"
@@ -7862,10 +7880,28 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 146000,
       "name": "which one x 1er gaou",
       "url": "https://open.spotify.com/track/6eynivQry1ZjQ4FxWTMZTi"
+    },
+    {
+      "album": {
+        "name": "which one x 1er gaou",
+        "url": "https://open.spotify.com/album/76B5zgv8Wqe480CVArJKI5"
+      },
+      "artists": [
+        {
+          "name": "sugarcoma",
+          "url": "https://open.spotify.com/artist/2zrqIcaKlvKacewBRPfn7v"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "which one x 1er gaou",
+      "url": "https://open.spotify.com/track/6uguscH5KD6gwFC0NlI0aJ"
     },
     {
       "album": {
@@ -7887,20 +7923,24 @@
     },
     {
       "album": {
-        "name": "Wish (orchestra version)",
+        "name": "Wish (Audiomack Trap Symphony Version)",
         "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
       },
       "artists": [
         {
           "name": "Trippie Redd",
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 180604,
-      "name": "Wish - orchestra version",
+      "name": "Wish - Audiomack Trap Symphony Version",
       "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
     },
     {

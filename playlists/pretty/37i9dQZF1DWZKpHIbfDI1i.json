@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
-  "num_followers": 803861,
+  "num_followers": 804061,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 153394,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "Mi Decisi\u00f3n",
         "url": "https://open.spotify.com/album/1oLoLphydD0kRsMnTvP8NM"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 183456,
       "name": "Mi Decisi\u00f3n",
       "url": "https://open.spotify.com/track/7sh3XoqpbDU62VcWHD7mNP"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 153394,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -627,6 +627,26 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 171344,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -667,22 +687,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Veo Veo",
-        "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
+        "name": "Me Est\u00e1 Doliendo",
+        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
       "artists": [
         {
-          "name": "Sayuri & Sopholov",
-          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 171344,
-      "name": "Veo Veo",
-      "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
+      "duration_ms": 202941,
+      "name": "Me Est\u00e1 Doliendo",
+      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -707,26 +727,6 @@
       "duration_ms": 155294,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/7r0HxydZCYOG5ZqE66WCQC"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "Me Est\u00e1 Doliendo",
-        "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 202941,
-      "name": "Me Est\u00e1 Doliendo",
-      "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Mexicano Soy",
-        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 152562,
-      "name": "Mexicano Soy",
-      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
         "name": "DPM",
         "url": "https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 213428,
       "name": "DPM",
       "url": "https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
+        "name": "Mexicano Soy",
+        "url": "https://open.spotify.com/album/5GZMtgqovc3UrzjdjVOpQY"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 152562,
+      "name": "Mexicano Soy",
+      "url": "https://open.spotify.com/track/1do505QmrjLQUvQLbwMdId"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
+        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
+        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 189620,
+      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
+      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
+    },
+    {
+      "added_at": "2025-10-17 06:00:27",
+      "album": {
         "name": "Las Cuentas",
         "url": "https://open.spotify.com/album/0TIvuANOmxZzbDlojhslDI"
       },
@@ -1251,18 +1267,22 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "Querida Socia (En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles)",
-        "url": "https://open.spotify.com/album/3qnSzRXbp4lSPZcnCcpv0K"
+        "name": "\u00bfQui\u00e9n + Como Yo?",
+        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 189620,
-      "name": "Querida Socia - En Vivo Desde la Plaza de Toros la M\u00e9xico - Spotify Singles",
-      "url": "https://open.spotify.com/track/6z6BWC3DfdhlNv6nkauPUk"
+      "duration_ms": 186285,
+      "name": "EBVSY",
+      "url": "https://open.spotify.com/track/2hmJqWAAbkb2kM2KLoIqio"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1303,26 +1323,6 @@
       "duration_ms": 230222,
       "name": "BESOS",
       "url": "https://open.spotify.com/track/2wwPT2D9wADniE3XzFHyEY"
-    },
-    {
-      "added_at": "2025-10-17 06:00:27",
-      "album": {
-        "name": "\u00bfQui\u00e9n + Como Yo?",
-        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "EBVSY",
-      "url": "https://open.spotify.com/track/2hmJqWAAbkb2kM2KLoIqio"
     },
     {
       "added_at": "2025-10-17 06:00:27",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2025-10-17 06:00:27",
       "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+        "name": "OMNI",
+        "url": "https://open.spotify.com/album/7DM14YL838M0SuNf2GKR99"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Que Emoci\u00f3n",
-      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
+      "duration_ms": 201506,
+      "name": "La Blindada",
+      "url": "https://open.spotify.com/track/20R5Q4VGBfDpsX51M6U0Jk"
     }
   ],
   "unique_name": "Top M\u00e9xico",

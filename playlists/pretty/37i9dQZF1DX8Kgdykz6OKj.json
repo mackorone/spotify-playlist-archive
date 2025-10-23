@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1527671,
+  "num_followers": 1528130,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "Scarecrows",
-        "url": "https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 206174,
-      "name": "456 semm",
-      "url": "https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
+        "name": "Scarecrows",
+        "url": "https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 206174,
+      "name": "456 semm",
+      "url": "https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -891,46 +891,6 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "Life Is Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
         "name": "Madvillainy Demos",
         "url": "https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ"
       },
@@ -955,6 +915,46 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
+        "name": "Life Is Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
       },
@@ -967,26 +967,6 @@
       "duration_ms": 183269,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
-        "name": "PRiNCE GEORGE",
-        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "PRiNCE GEORGE",
-      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1031,6 +1011,26 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
+        "name": "PRiNCE GEORGE",
+        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "PRiNCE GEORGE",
+      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
+        "name": "One of Those Feelings",
+        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
+      },
+      "artists": [
+        {
+          "name": "Classik",
+          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
+        },
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "One of Those Feelings",
+      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1383,22 +1403,18 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "One of Those Feelings",
-        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
       "artists": [
         {
-          "name": "Classik",
-          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
-        },
-        {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
         }
       ],
-      "duration_ms": 156342,
-      "name": "One of Those Feelings",
-      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
         "name": "Burnout 5",
         "url": "https://open.spotify.com/album/4IhkrsR02UX0lXwquTTsjk"
       },
@@ -1463,30 +1463,6 @@
       "duration_ms": 139073,
       "name": "Calamari",
       "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
-        "name": "my friend",
-        "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Sector 202",
-          "url": "https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP"
-        }
-      ],
-      "duration_ms": 244404,
-      "name": "my friend",
-      "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1535,6 +1511,30 @@
       "duration_ms": 185160,
       "name": "Chase It",
       "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
+        "name": "my friend",
+        "url": "https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Sector 202",
+          "url": "https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP"
+        }
+      ],
+      "duration_ms": 244404,
+      "name": "my friend",
+      "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+      },
+      "artists": [
+        {
+          "name": "freekind.",
+          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+        }
+      ],
+      "duration_ms": 216883,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
         "name": "Out Of My Hands (feat. Oddisee)",
         "url": "https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB"
       },
@@ -1695,18 +1711,18 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
       },
       "artists": [
         {
-          "name": "freekind.",
-          "url": "https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV"
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
         }
       ],
-      "duration_ms": 216883,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+      "duration_ms": 127594,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1755,22 +1771,6 @@
       "duration_ms": 167657,
       "name": "Choosing Shoes",
       "url": "https://open.spotify.com/track/4aeSDgqZ4kzHVX19jh0CNN"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
-        "name": "NIGHTS LIKE THIS",
-        "url": "https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        }
-      ],
-      "duration_ms": 127594,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
     },
     {
       "added_at": "2025-10-17 04:00:55",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-10-17 04:00:55",
       "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2025-10-17 04:00:55",
-      "album": {
         "name": "Mi Casa, Su Casa",
         "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 117933,
       "name": "Truth Serum",
       "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
+    },
+    {
+      "added_at": "2025-10-17 04:00:55",
+      "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2025-10-17 04:00:55",

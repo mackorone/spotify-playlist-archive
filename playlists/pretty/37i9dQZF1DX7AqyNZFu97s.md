@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Ceebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,845 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,836 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 18 | [Reverse Cowboy](https://open.spotify.com/track/2X9z16JOWqCeXMsDSm3VsJ) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [Reverse Cowboy](https://open.spotify.com/album/7wcJCn9OfEnAMHVesh9dPA) | 3:32 |
 | 19 | [Clothes Off The Rack](https://open.spotify.com/track/12NXMk1yIubZ7JnZx65wgw) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Clothes Off The Rack](https://open.spotify.com/album/3WXdNdWZxGiMvw8BtkQhvT) | 3:17 |
 | 20 | [Home](https://open.spotify.com/track/2wwhnQUeMbGdstVQLPeTvG) | [Gravy](https://open.spotify.com/artist/6uCFv1Lo45PC3udGTuHRNP) | [Home](https://open.spotify.com/album/6BrEosMR76xffzJfYdBpjp) | 4:14 |
-| 21 | [Sun Time](https://open.spotify.com/track/0aTJDB5KAbxHPhAh61DRF9) | [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g) | [Sun Time](https://open.spotify.com/album/5DhJIa24Zu8rpMtUKprvzT) | 3:02 |
+| 21 | [Sun Time](https://open.spotify.com/track/0aTJDB5KAbxHPhAh61DRF9) | [5amDiaries](https://open.spotify.com/artist/0jzizURp4Zz01l8OmSeZ2g), [Lily Afield](https://open.spotify.com/artist/4Gx8WSAZtHsd11BhFEV7cv) | [Sun Time](https://open.spotify.com/album/5DhJIa24Zu8rpMtUKprvzT) | 3:02 |
 | 22 | [Fade](https://open.spotify.com/track/027QQV3rywenJC1rEhaTIa) | [Bodhi](https://open.spotify.com/artist/1C545778m57qWQwISWGAHD) | [Fade](https://open.spotify.com/album/25YIBPkU9cu4DFICOurORz) | 4:45 |
 | 23 | [Pomegranate](https://open.spotify.com/track/5xG8zZlNA77WAN2tOBeAfy) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Pomegranate](https://open.spotify.com/album/1Mt6MI8JFoSOkWWSP1CHJw) | 3:10 |
 | 24 | [The Truth Can Wait](https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [The Truth Can Wait](https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non servium
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,020 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,033 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 62 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
 | 63 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 64 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
-| 65 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
-| 66 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
+| 65 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
+| 66 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 67 | [Presa](https://open.spotify.com/track/1D1W1kKQjb1q76FZfUgsFf) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l) | [Presa](https://open.spotify.com/album/6m1XbIXmuClVFa4lBCMlve) | 3:12 |
-| 68 | [El Baile de los que Sobran](https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [El Baile de los que Sobran](https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r) | 4:34 |
+| 68 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
 | 69 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
-| 70 | [El Trabajo No Dignifica](https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP) | [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet) | [Música Máquina](https://open.spotify.com/album/6I6dbNqrD5WISOWiXfuCU7) | 4:00 |
-| 71 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
-| 72 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 70 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 71 | [El Baile de los que Sobran](https://open.spotify.com/track/72aFZcLNh1iJnm5UGzvpC2) | [Último Rekurso](https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9) | [El Baile de los que Sobran](https://open.spotify.com/album/4dv9fBdeJW7BgSLSQqVa6r) | 4:34 |
+| 72 | [El Trabajo No Dignifica](https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP) | [Medalla](https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet) | [Música Máquina](https://open.spotify.com/album/6I6dbNqrD5WISOWiXfuCU7) | 4:00 |
 | 73 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
 | 74 | [Camino por las Calles](https://open.spotify.com/track/0NmsHoexCCAUxeQ2HtS0dO) | [Espasmódicos](https://open.spotify.com/artist/0DkaMx7gQxsi5Lt6sZwX0l) | [Canciones Olvidadas](https://open.spotify.com/album/1yudE4YRDDXux4L0NOlZtn) | 3:04 |
 | 75 | [Las 13:12](https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [...Y Una Mierda](https://open.spotify.com/album/7HstxEug5UmMcjngQLblJj) | 2:37 |

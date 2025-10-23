@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1422479,
+  "num_followers": 1422613,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADo9/amlHCwtO7PdAGI0ECx",
+  "snapshot_id": "aPbNAAAAAACwrqo3+ZYR23jtTpV/elp2",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "New God Flow",
+        "url": "https://open.spotify.com/album/3gFzpNzh1Kb48CwztWkeLu"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 294906,
+      "name": "New God Flow",
+      "url": "https://open.spotify.com/track/1DbeslBYnckTqqTcc1Y2Tg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 111477,
       "name": "BURN",
       "url": "https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New God Flow",
-        "url": "https://open.spotify.com/album/3gFzpNzh1Kb48CwztWkeLu"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 294906,
-      "name": "New God Flow",
-      "url": "https://open.spotify.com/track/1DbeslBYnckTqqTcc1Y2Tg"
     },
     {
       "added_at": null,

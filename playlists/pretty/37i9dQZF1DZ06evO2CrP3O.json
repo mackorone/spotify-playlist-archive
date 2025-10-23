@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139441,
+  "num_followers": 139465,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADFsEbX1B1G0ZimkFZ1eOcy",
+  "snapshot_id": "aPbNAAAAAACFM+Opmo1hvn8i9gKSBhv7",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Fan Mail - Remastered",
-      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
       "artists": [
         {
@@ -696,9 +680,25 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 259493,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
+      "duration_ms": 158800,
+      "name": "Fan Mail - Remastered",
+      "url": "https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunday Girl",
+        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Sunday Girl - French Version",
+      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Girl",
-        "url": "https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw"
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 194386,
-      "name": "Sunday Girl - French Version",
-      "url": "https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP"
+      "duration_ms": 259493,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Already Naked",
-      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Autoamerican (Remastered 2001)",
         "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 249666,
       "name": "Live It Up - Remastered 2001",
       "url": "https://open.spotify.com/track/3DCatgVUgQ3nOvTmuOtq9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Already Naked",
+      "url": "https://open.spotify.com/track/1ssGNcB3gVAXxFOaTcj0nE"
     },
     {
       "added_at": null,

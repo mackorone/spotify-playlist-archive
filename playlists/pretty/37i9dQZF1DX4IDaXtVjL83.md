@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JISOO & ZYAN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,065 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,222 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 24 | [Bad Influence \(Prod\. by Pharrell Williams\)](https://open.spotify.com/track/6uJlw4VHZulMvz6s3J2bO2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:47 |
 | 25 | [Damage \(HOSHI Solo\) \(feat\. Timbaland\)](https://open.spotify.com/track/6zfIQ48qCIugcDsrdC5tyn) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:43 |
 | 26 | [Silver](https://open.spotify.com/track/3eZMRJkj4Q78YJ2iGxKjgI) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Silver](https://open.spotify.com/album/50NmyXmki7sJlAmJcIdMMl) | 3:43 |
-| 27 | [See U Tonight \(feat\. YUNAH & MINJU of ILLIT\)](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 |
+| 27 | [See U Tonight](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 |
 | 28 | [Call It Off](https://open.spotify.com/track/0CVfsusVjjnR7CfDAlp25o) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Call It Off](https://open.spotify.com/album/5eLFx3qaedNQ1VOYdQZf7V) | 3:36 |
 | 29 | [so nice](https://open.spotify.com/track/3kCr7cWUfZlNpJkKnfd6QY) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [EPEX & joan 1st Digital Single ‘so nice’](https://open.spotify.com/album/0oSDDyxUWLmqgEGHsI838v) | 2:32 |
 | 30 | [After 3](https://open.spotify.com/track/7fucJHWl7ssOzaaf5ubYiq) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Acoustic Romantics](https://open.spotify.com/album/6rUpTn5A0sCI8AB1CJBvx4) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 99 | [Please Don't Change \(feat\. DJ Snake\)](https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:26 |
 | 100 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/28PCjIXE4NJWDIqpRsD3rl) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/0Q4tlx5e1q5IJl44nb49rv) | 2:53 |
 
-Snapshot ID: `AAAAAA3iaq+l2UoAD2T1xVeVLQBFkyMe`
+Snapshot ID: `AAAAAFOsibwD7WQv6UdgUi47/UTzEcvQ`

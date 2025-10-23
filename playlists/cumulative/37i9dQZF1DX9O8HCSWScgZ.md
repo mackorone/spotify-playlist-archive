@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-105 songs - 4 hr 3 min
+107 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Golden Spices](https://open.spotify.com/track/4fqT0kNekNtRVzGu6Ln5bB) | [Bandarr](https://open.spotify.com/artist/7rOTQynBDwYkAxZpy9bSEi) | [Porcelain Nebula](https://open.spotify.com/album/1OE5DSycVW3eHCONqFsPAc) | 2:40 | 2024-10-18 | 2025-10-17 |
 | [Gravity of Love](https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a) | [Kadeen B](https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV) | [Gravity of Love](https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8) | 2:51 | 2024-10-18 |  |
 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 | 2024-10-18 |  |
-| [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 | 2024-10-18 |  |
+| [Hopefull Afterall](https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10) | [sienna whisper](https://open.spotify.com/artist/6QXEwlJU7oOCVoSYTuoYk0) | [Hopefull Afterall](https://open.spotify.com/album/2EBAgVcsdxHA9eJkxmNTag) | 2:14 | 2024-10-18 | 2025-10-23 |
 | [Hotaru](https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Muscot](https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI) | 2:37 | 2024-10-18 |  |
 | [In The Clouds](https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [In The Clouds](https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e) | 2:24 | 2024-10-18 |  |
 | [Inconspicuous](https://open.spotify.com/track/2OnnVbgVtWHzLLSne6IXT8) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [Inconspicuous](https://open.spotify.com/album/7njxinH6A0xtEB5QPO3A6b) | 1:57 | 2024-10-18 |  |
@@ -87,7 +87,7 @@
 | [On The Surface](https://open.spotify.com/track/5VT8EXUki1C1aZdKmMbsXI) | [Shayla Sereno](https://open.spotify.com/artist/0d2oMUkzD4I5It0MFXNVpb) | [On The Surface](https://open.spotify.com/album/6VJ3WlHiq8GOMOddlNgvx3) | 2:05 | 2024-10-18 | 2025-09-06 |
 | [Open Doors](https://open.spotify.com/track/7GhpBmlLkehIvowAgeU7wU) | [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [At Ease](https://open.spotify.com/album/16qoJEqdBZ3s71UCX3GfaG) | 2:30 | 2024-10-18 |  |
 | [Our Feelings](https://open.spotify.com/track/6Afhf3If4W91Y1SaubBPQK) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Our Feelings](https://open.spotify.com/album/1Wl54blA680GecLnFfJoGS) | 2:20 | 2024-10-18 |  |
-| [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 | 2024-10-18 |  |
+| [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 | 2024-10-18 | 2025-10-23 |
 | [plateau](https://open.spotify.com/track/0qi4Lk7uRGRSImdN33hgg7) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [plateau](https://open.spotify.com/album/6ydJwHuW8t3BN4hfgXPKl6) | 2:56 | 2024-10-18 | 2024-10-21 |
 | [rainfall](https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [rainfall](https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s) | 2:42 | 2024-11-15 | 2024-11-23 |
 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 | 2025-09-06 |
@@ -103,6 +103,7 @@
 | [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 | 2024-10-18 |  |
 | [still images](https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [still images](https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg) | 2:07 | 2024-11-29 |  |
 | [Sueca](https://open.spotify.com/track/51YcG5rNWcsUsOwSQPVqk0) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Sueca](https://open.spotify.com/album/6BfuxejSYU5Ovn8ecWfTvX) | 2:24 | 2024-10-18 | 2024-11-09 |
+| [Summer's End](https://open.spotify.com/track/1q0dOeLENSRPQE7Diz6Yld) | [morning green](https://open.spotify.com/artist/3FItRGy5Od4t19e3GvlDKZ) | [Summer's End](https://open.spotify.com/album/6xQ5CrNGGpgWP2gHMZraXI) | 2:03 | 2025-10-22 |  |
 | [sunrise](https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72) | [mxgnetic](https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9) | [sunrise](https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc) | 2:37 | 2025-09-25 |  |
 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 | 2024-10-18 |  |
 | [The Tallest Mountain](https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [The Tallest Mountain](https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy) | 2:16 | 2024-10-24 |  |
@@ -111,6 +112,7 @@
 | [Undertone](https://open.spotify.com/track/50VLwwvzjpemTbpK4hdSCr) | [hiking trip](https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts) | [Undertone](https://open.spotify.com/album/7u04oReVWqQQcabJa7vgAL) | 2:20 | 2025-09-25 |  |
 | [Walk Away](https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Couch Potato](https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI) | 2:26 | 2024-11-22 |  |
 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 | 2024-12-11 |  |
+| [when the leaves](https://open.spotify.com/track/627rDXLovcxPJRbarsYQxP) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [when the leaves](https://open.spotify.com/album/6dtMISjjExmxOq1mqcY3X6) | 2:03 | 2025-10-22 |  |
 | [Windmill](https://open.spotify.com/track/31EArKgvKgR8hdPSahd7QK) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Windmill](https://open.spotify.com/album/27pD2gQL69w78Wtf9CbjUa) | 2:01 | 2024-12-11 |  |
 | [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 | 2024-10-18 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1071506,
+  "num_followers": 1071671,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAC7anfVAh+CBeMlXCb6NgbS",
+  "snapshot_id": "aPbNAAAAAADWI2K/te47DzVmfkCizKnh",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
-        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 275683,
-      "name": "Te Equivocaste (En Vivo)",
-      "url": "https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Canse de Amarte",
         "url": "https://open.spotify.com/album/3dICCmVAjGk6jEStG8ajYD"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 198294,
       "name": "Me Canse de Amarte",
       "url": "https://open.spotify.com/track/2aGJ0y8jMmS4szjb4COtMG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
+        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 275683,
+      "name": "Te Equivocaste (En Vivo)",
+      "url": "https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta Que un d\u00eda",
+        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Hasta Que un d\u00eda",
+      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Que un d\u00eda",
-        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Hasta Que un d\u00eda",
-      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
     },
     {
       "added_at": null,

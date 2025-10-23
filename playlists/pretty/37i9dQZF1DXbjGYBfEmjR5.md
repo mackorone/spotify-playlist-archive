@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,347 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,410 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 34 | [Sunset](https://open.spotify.com/track/0rVZXO2gmrENbl7MRfa2h9) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/49xi5l1GZwRLowxwHAiyyv) | 2:40 |
 | 35 | [Emotions](https://open.spotify.com/track/1vxCTGgZMs4LFCAlswRiS2) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Best Before 1998](https://open.spotify.com/album/4MeikwvA8AgiIEPqIaGBxC) | 2:58 |
 | 36 | [Dancefloor Sneakers](https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Beaches](https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y) | 2:08 |
-| 37 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
-| 38 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
+| 37 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
+| 38 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 |
 | 39 | [Ｂｒｅａｋｉｎｇ　Ａｗａｙ](https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [ナイトライフ](https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK) | 3:48 |
-| 40 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
+| 40 | [Anita](https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:16 |
 | 41 | [Crazy Nights](https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N) | [Future Girlfriend Music](https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB) | [Pink Dance EP](https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV) | 2:33 |
 | 42 | [Niito na Gogosanji \- Night Tempo Showa Groove Mix](https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Night Tempo Presents the Showa Groove](https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR) | 3:58 |
 | 43 | [Static Startup](https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 3:28 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 47 | [Lovely Road](https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 1:43 |
 | 48 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
 | 49 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
-| 50 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
-| 51 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
+| 50 | [Sailor Saturn](https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [SAILORWAVE III](https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V) | 2:44 |
+| 51 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
 | 52 | [Why Future Funk ROCKED in '17](https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Shine On](https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4) | 2:53 |
 | 53 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
 | 54 | [You Can't Run](https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [You Can't Run](https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf) | 3:21 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 94 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 |
 | 95 | [CHERRY BLOSSOMS](https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [SOUL MATES](https://open.spotify.com/album/4NiQpP9xDQlWntAa1VGj9C) | 2:29 |
 | 96 | [Cheetahs in Barcelona](https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Cheetahs in Barcelona](https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC) | 2:49 |
-| 97 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 |
+| 97 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 |
 | 98 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
-| 99 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 |
-| 100 | [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 |
+| 99 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 |
+| 100 | [Nostalgic Love](https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 2:50 |
 
 Snapshot ID: `AAAAALeEMQ4u4g+tJ+p11F/YOMDp0VtG`

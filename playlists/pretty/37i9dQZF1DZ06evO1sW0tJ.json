@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 476,
+  "num_followers": 492,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABXjDCbqKVN1VlPH3p/CVqW",
+  "snapshot_id": "aPbNAAAAAAB8m64lPUqYTbmBLTy7Ocr5",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Female Power: Piano Works",
-        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
       },
       "artists": [
         {
@@ -176,13 +176,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Anna Lipiak",
-          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
         }
       ],
-      "duration_ms": 163360,
-      "name": "Sonata in G Minor: II. Adagio",
-      "url": "https://open.spotify.com/track/4aiB681ZvQ8Dw7QxAyJqBG"
+      "duration_ms": 165045,
+      "name": "Piano Sonata in G Minor: II. Adagio",
+      "url": "https://open.spotify.com/track/2VQuevTETCknce3C4rtJQW"
     },
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Piano Sonata in G Minor: II. Adagio",
-      "url": "https://open.spotify.com/track/2VQuevTETCknce3C4rtJQW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -271,26 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturnes Part: 4",
-        "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
+        "name": "Female Power: Piano Works",
+        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
       },
       "artists": [
-        {
-          "name": "Bart Van Oort",
-          "url": "https://open.spotify.com/artist/0YNohiXjeYgl50fzuF2Eq1"
-        },
         {
           "name": "Clara Schumann",
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Peter Arts",
-          "url": "https://open.spotify.com/artist/2kzdrryRVblHyTXAlBZcpO"
+          "name": "Anna Lipiak",
+          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
         }
       ],
-      "duration_ms": 307500,
-      "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
-      "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
+      "duration_ms": 163360,
+      "name": "Sonata in G Minor: II. Adagio",
+      "url": "https://open.spotify.com/track/4aiB681ZvQ8Dw7QxAyJqBG"
     },
     {
       "added_at": null,
@@ -347,6 +323,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nocturnes Part: 4",
+        "url": "https://open.spotify.com/album/2r5y5S0KKUpodigEGIFmw9"
+      },
+      "artists": [
+        {
+          "name": "Bart Van Oort",
+          "url": "https://open.spotify.com/artist/0YNohiXjeYgl50fzuF2Eq1"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Peter Arts",
+          "url": "https://open.spotify.com/artist/2kzdrryRVblHyTXAlBZcpO"
+        }
+      ],
+      "duration_ms": 307500,
+      "name": "Nocturne In F Major, Op 6, No 2 From: Soire\u00e9s Musicales",
+      "url": "https://open.spotify.com/track/3oJS2loNFEfeGHTwV5qfiH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Echoes of Women - International Women's Day 2024",
         "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
       },
@@ -391,74 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
-        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
-        }
-      ],
-      "duration_ms": 305706,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/1EpgYZP6ytXTxDupr0gfza"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Wiegenlied\" & Other Brahms Masterpieces",
-        "url": "https://open.spotify.com/album/3WwxtFaLtEFDqv9vKI5DRL"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Anne-Sophie Mutter",
-          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
-        },
-        {
-          "name": "Pablo Ferrandez",
-          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
-        },
-        {
-          "name": "Lambert Orkis",
-          "url": "https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3"
-        }
-      ],
-      "duration_ms": 423493,
-      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
-      "url": "https://open.spotify.com/track/4oxdnghKVtmte3coMMeFzM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Echoes of Women - International Women's Day 2024",
-        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 58093,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. IV",
-      "url": "https://open.spotify.com/track/6oixOO4CI7zAN8o0UUGReP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann: Piano Sonata in G Minor",
         "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
       },
@@ -492,29 +424,9 @@
           "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
         }
       ],
-      "duration_ms": 439946,
-      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
-      "url": "https://open.spotify.com/track/7uDF7mOD0K9RLZxfkB1UXz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Female Power: Piano Works",
-        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Anna Lipiak",
-          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "Sonata in G Minor: IV. Rondo",
-      "url": "https://open.spotify.com/track/00YkLGD1ggwCviFFGNYnoq"
+      "duration_ms": 305706,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/1EpgYZP6ytXTxDupr0gfza"
     },
     {
       "added_at": null,
@@ -535,6 +447,34 @@
       "duration_ms": 73433,
       "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. III",
       "url": "https://open.spotify.com/track/7wtj7MLTrsLUkyd2Xgmpuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Wiegenlied\" & Other Brahms Masterpieces",
+        "url": "https://open.spotify.com/album/3WwxtFaLtEFDqv9vKI5DRL"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "Pablo Ferrandez",
+          "url": "https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt"
+        },
+        {
+          "name": "Lambert Orkis",
+          "url": "https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3"
+        }
+      ],
+      "duration_ms": 423493,
+      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
+      "url": "https://open.spotify.com/track/4oxdnghKVtmte3coMMeFzM"
     },
     {
       "added_at": null,
@@ -572,29 +512,9 @@
           "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
         }
       ],
-      "duration_ms": 327906,
-      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/4dfPJ0m7vQCsZFbDREb6xQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Female Power: Piano Works",
-        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Anna Lipiak",
-          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "Sonata in G Minor: III. Scherzo",
-      "url": "https://open.spotify.com/track/2puCyidnDgVaE8Vm5YsCya"
+      "duration_ms": 439946,
+      "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
+      "url": "https://open.spotify.com/track/7uDF7mOD0K9RLZxfkB1UXz"
     },
     {
       "added_at": null,
@@ -612,9 +532,29 @@
           "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 60147,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. V",
-      "url": "https://open.spotify.com/track/4soPH2kdUzvS9A9aZfs00v"
+      "duration_ms": 58093,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. IV",
+      "url": "https://open.spotify.com/track/6oixOO4CI7zAN8o0UUGReP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Female Power: Piano Works",
+        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anna Lipiak",
+          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "Sonata in G Minor: IV. Rondo",
+      "url": "https://open.spotify.com/track/00YkLGD1ggwCviFFGNYnoq"
     },
     {
       "added_at": null,
@@ -643,6 +583,66 @@
       "duration_ms": 580586,
       "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1tVnqMLSjwbn0uhbD5siGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
+        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 327906,
+      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/4dfPJ0m7vQCsZFbDREb6xQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Echoes of Women - International Women's Day 2024",
+        "url": "https://open.spotify.com/album/0wmLZVzrWZrwmNH20OdYrd"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 60147,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. V",
+      "url": "https://open.spotify.com/track/4soPH2kdUzvS9A9aZfs00v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Female Power: Piano Works",
+        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anna Lipiak",
+          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "Sonata in G Minor: III. Scherzo",
+      "url": "https://open.spotify.com/track/2puCyidnDgVaE8Vm5YsCya"
     },
     {
       "added_at": null,
@@ -692,17 +692,17 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Tasmanian Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
-        },
-        {
           "name": "Howard Shelley",
           "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
+        },
+        {
+          "name": "Tasmanian Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
         }
       ],
-      "duration_ms": 363560,
-      "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
-      "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
+      "duration_ms": 631906,
+      "name": "Piano Concerto in A Minor, Op. 7: III. Finale. Allegro non troppo",
+      "url": "https://open.spotify.com/track/2nuMDKqYbDnaAK6pqkYwz2"
     },
     {
       "added_at": null,
@@ -772,23 +772,23 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Howard Shelley",
-          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
-        },
-        {
           "name": "Tasmanian Symphony Orchestra",
           "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
+        },
+        {
+          "name": "Howard Shelley",
+          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
         }
       ],
-      "duration_ms": 631906,
-      "name": "Piano Concerto in A Minor, Op. 7: III. Finale. Allegro non troppo",
-      "url": "https://open.spotify.com/track/2nuMDKqYbDnaAK6pqkYwz2"
+      "duration_ms": 363560,
+      "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
+      "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Female Power: Piano Works",
-        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
       },
       "artists": [
         {
@@ -796,13 +796,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Anna Lipiak",
-          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
         }
       ],
-      "duration_ms": 369880,
-      "name": "Sonata in G Minor: I. Allegro",
-      "url": "https://open.spotify.com/track/7dFWxHqtehbfIr3gKro77j"
+      "duration_ms": 512721,
+      "name": "Piano Sonata in G Minor: I. Allegro",
+      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 82384,
-      "name": "Drei Romanzen, Opus 21 Nr 2 Allegretto - Piano",
-      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Female Power: Piano Works",
         "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
       },
@@ -876,29 +860,25 @@
           "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
         }
       ],
-      "duration_ms": 308653,
-      "name": "Romanze, Op. 21, No. 1",
-      "url": "https://open.spotify.com/track/4WeMGXF0o9X29uIHFy1iSk"
+      "duration_ms": 369880,
+      "name": "Sonata in G Minor: I. Allegro",
+      "url": "https://open.spotify.com/track/7dFWxHqtehbfIr3gKro77j"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
       },
       "artists": [
         {
           "name": "Clara Schumann",
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
         }
       ],
-      "duration_ms": 512721,
-      "name": "Piano Sonata in G Minor: I. Allegro",
-      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
+      "duration_ms": 82384,
+      "name": "Drei Romanzen, Opus 21 Nr 2 Allegretto - Piano",
+      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
     },
     {
       "added_at": null,
@@ -919,22 +899,6 @@
       "duration_ms": 105047,
       "name": "\u201cO Lust, O Lust\u201d (Hauffen)",
       "url": "https://open.spotify.com/track/6NMDYdfD9fdjGYXbDuycd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 235728,
-      "name": "Drei Romanzen, Opus 21 Nr 3 Agitato - Piano",
-      "url": "https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK"
     },
     {
       "added_at": null,
@@ -967,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
-        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
+        "name": "Female Power: Piano Works",
+        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
       },
       "artists": [
         {
@@ -976,13 +940,29 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Nash Ensemble",
-          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+          "name": "Anna Lipiak",
+          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
         }
       ],
-      "duration_ms": 628133,
-      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
+      "duration_ms": 308653,
+      "name": "Romanze, Op. 21, No. 1",
+      "url": "https://open.spotify.com/track/4WeMGXF0o9X29uIHFy1iSk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 235728,
+      "name": "Drei Romanzen, Opus 21 Nr 3 Agitato - Piano",
+      "url": "https://open.spotify.com/track/1ql1TfPAGIzdCUG7IqKBoK"
     },
     {
       "added_at": null,
@@ -1003,6 +983,26 @@
       "duration_ms": 174196,
       "name": "\u201cAm Strande\u201d (Geibel)",
       "url": "https://open.spotify.com/track/3QpwROBzAorokKDbXtSZog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
+        "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "duration_ms": 628133,
+      "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
     },
     {
       "added_at": null,

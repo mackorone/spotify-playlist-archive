@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21528,
+  "num_followers": 21536,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABCLSbtjCPyu1q+5ReAE6iB",
+  "snapshot_id": "aPbNAAAAAAA2K+Do5hToCpKYUgkNIgZ0",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 312386,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 277160,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 312386,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
     },
     {
       "added_at": null,

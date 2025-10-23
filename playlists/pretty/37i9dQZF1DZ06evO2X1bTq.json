@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1255784,
+  "num_followers": 1255848,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAATNHGaH0OieFLGc5x9j1La",
+  "snapshot_id": "aPbNAAAAAACEcvNVKFCbfIFsdIsh3z6v",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 278480,
-      "name": "Until The End Of The World",
-      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
+      "duration_ms": 221373,
+      "name": "Even Better Than The Real Thing",
+      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 221373,
-      "name": "Even Better Than The Real Thing",
-      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
+      "duration_ms": 278480,
+      "name": "Until The End Of The World",
+      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atomic City",
-        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 210842,
-      "name": "Atomic City",
-      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Line On The Horizon",
         "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 444306,
       "name": "Moment Of Surrender",
       "url": "https://open.spotify.com/track/2PwwiKJYMYbuWh7j5yAbwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atomic City",
+        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 210842,
+      "name": "Atomic City",
+      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
     },
     {
       "added_at": null,

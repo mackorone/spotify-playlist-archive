@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 654434,
+  "num_followers": 654543,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACXqsPj3wNxQdjrELeN3Wcn",
+  "snapshot_id": "aPbNAAAAAACvXrVm0Inm6A82Ab4nHJxJ",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+      "duration_ms": 269813,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 269813,
-      "name": "Nebraska",
-      "url": "https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie"
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
       "duration_ms": 177733,
       "name": "If I Should Fall Behind",
       "url": "https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 218240,
+      "name": "Johnny 99",
+      "url": "https://open.spotify.com/track/2ohcpZDvcIRdCE3lWxu6Tc"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 218240,
-      "name": "Johnny 99",
-      "url": "https://open.spotify.com/track/2ohcpZDvcIRdCE3lWxu6Tc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 268453,
       "name": "The Promised Land",
       "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Mansion on the Hill",
+      "url": "https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Mansion on the Hill",
-      "url": "https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ghost Of Tom Joad",
         "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 263466,
       "name": "The Ghost of Tom Joad",
       "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Highway Patrolman",
+      "url": "https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Highway Patrolman",
-      "url": "https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 237440,
       "name": "Prove It All Night",
       "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Used Cars",
+      "url": "https://open.spotify.com/track/1LDz5dqGxxWSOxNWjuzclb"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
       "duration_ms": 205146,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Used Cars",
-      "url": "https://open.spotify.com/track/1LDz5dqGxxWSOxNWjuzclb"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 412973,
+      "name": "Racing in the Street",
+      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only the Strong Survive",
         "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 147040,
       "name": "Do I Love You (Indeed I Do)",
       "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 272426,
-      "name": "Darkness On the Edge of Town",
-      "url": "https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 272426,
+      "name": "Darkness On the Edge of Town",
+      "url": "https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Red, White and Jersey / Hollow Man (with Bruce Springsteen)",
         "url": "https://open.spotify.com/album/19nHtI253SJMwVFvZ40XF0"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 293219,
       "name": "Hollow Man (with Bruce Springsteen)",
       "url": "https://open.spotify.com/track/4C4DYyYoCob3UwqCJAgg8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 412973,
-      "name": "Racing in the Street",
-      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"
     },
     {
       "added_at": null,

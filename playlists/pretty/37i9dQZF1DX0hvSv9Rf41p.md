@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Jkyl & Hyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 988,352 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 988,377 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 14 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 |
 | 15 | [ALIVE](https://open.spotify.com/track/5uaGvrkuejhZ6ROQGac5Qs) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [9 LIVES](https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb) | 2:13 |
 | 16 | [Hot Like This](https://open.spotify.com/track/0fKtiAbqCyxDdxNBTYVtUh) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [Hot Like This](https://open.spotify.com/album/6lSD297Seff9EEXKmu8XpI) | 2:27 |
-| 17 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
+| 17 | [Bring The House Down](https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [Bring The House Down](https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG) | 3:42 |
 | 18 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
 | 19 | [Lost In The Sauce](https://open.spotify.com/track/0x5Y3R7CoTgzlYivoWWIol) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [Lost In The Sauce](https://open.spotify.com/album/0XqCZbow3yFwdNhNoL2LDS) | 4:24 |
 | 20 | [Still Into You](https://open.spotify.com/track/5VIi4tVFzOVZIiXhaAzY6v) | [ARKIIN](https://open.spotify.com/artist/3cMxYJXz3hB6rmjmp12DK3), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Still Into You](https://open.spotify.com/album/3wKXVmDZnccmtnT59c4nk9) | 3:05 |

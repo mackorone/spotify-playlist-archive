@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Naykilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,011 likes - 154 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,015 likes - 154 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 45 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 46 | [Mulai](https://open.spotify.com/track/2gfuoYUfvZwcolvIcpV0ic) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh) | [Mulai](https://open.spotify.com/album/2YKI1MqW9OCXphZCF7qWc4) | 3:26 |
 | 47 | [Kacamata](https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Kacamata](https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP) | 3:16 |
-| 48 | [Always Will](https://open.spotify.com/track/48yxxt9sOxDfhsAcR2fKjg) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Always Will](https://open.spotify.com/album/3Ba8PEOzhT7yHXSE5heydr) | 4:00 |
+| 48 | [Always Will](https://open.spotify.com/track/48yxxt9sOxDfhsAcR2fKjg) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Always Will](https://open.spotify.com/album/3Ba8PEOzhT7yHXSE5heydr) | 3:59 |
 | 49 | [SELEK](https://open.spotify.com/track/1eidbGhE2kzcGxryRLPYeg) | [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SELEK](https://open.spotify.com/album/0HJ6oxmtVE0AqB4zBKjil7) | 2:02 |
 | 50 | [Cari](https://open.spotify.com/track/2Mw6tQcNyvdcieWTBGzwpt) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Cari](https://open.spotify.com/album/6WjIcxK3PneU3eze5r2hPP) | 2:55 |
 | 51 | [Asal Kau Bahagia](https://open.spotify.com/track/1faglnLfyd7cMcr9rEIx4y) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Asal Kau Bahagia](https://open.spotify.com/album/4ywNGHwCDgdBIOd3ZoehcP) | 3:06 |

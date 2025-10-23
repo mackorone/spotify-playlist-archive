@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan\. Cover: Yui Ogura
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,652 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,647 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [Hightail it](https://open.spotify.com/track/5nQRKu1jjYW9iSswDbieQG) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [Hightail it](https://open.spotify.com/album/43hGYDTU08DhJiYs7fYTuD) | 3:17 |
 | 50 | [イルミネイト](https://open.spotify.com/track/5dVMqpeSDyNJczw40sBM5p) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [イルミネイト](https://open.spotify.com/album/6m4bSupxD18k5Jswp9ySPc) | 4:21 |
 
-Snapshot ID: `AAAAAExDGeS9kEMT03EG4ELx03TOURJp`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

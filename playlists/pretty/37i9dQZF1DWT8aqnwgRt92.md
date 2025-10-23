@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,912 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,870 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 12 | [プラットフォーム](https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プラットフォーム](https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12) | 3:30 |
 | 13 | [ACTION](https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [ACTION](https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt) | 3:19 |
 | 14 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
-| 15 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [](https://open.spotify.com/album/null) | 4:08 |
+| 15 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
 | 16 | [いのちのパレヱド](https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [いのちのパレヱド](https://open.spotify.com/album/1rVMxPiU2H6GVFLEmZV695) | 2:49 |
 | 17 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
 | 18 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |

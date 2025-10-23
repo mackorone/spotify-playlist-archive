@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Taylor Swift",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Samar Jafri",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat",
       "url": "https://open.spotify.com/track/7w781Nnk4MnRsZrZ4TO2XY"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 248275,
       "name": "ANDAAZ E BAYAN",
       "url": "https://open.spotify.com/track/4b2ZcyejM0nAQi7Cye5Atf"
@@ -1171,6 +1171,28 @@
     },
     {
       "album": {
+        "name": "Baat Unkahi",
+        "url": "https://open.spotify.com/album/51YBYjJFoQGNF7jcLIap73"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        },
+        {
+          "name": "Samra Khan",
+          "url": "https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339044,
+      "name": "Baat Unkahi",
+      "url": "https://open.spotify.com/track/2q8rYQmDCRdJlv0efz5K0n"
+    },
+    {
+      "album": {
         "name": "Bach Ke",
         "url": "https://open.spotify.com/album/0tyVwjM84T8Q9RUC7zLa13"
       },
@@ -1285,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Balenci",
+        "url": "https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182282,
+      "name": "Balenci",
+      "url": "https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw"
+    },
+    {
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
       },
@@ -1358,7 +1398,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 304800,
       "name": "Banjarapun - Original Soundtrack from \"Jinn Ki Shadi Unki Shadi\"",
       "url": "https://open.spotify.com/track/3busaIZzDQdHFsNMiPCITM"
@@ -1380,7 +1420,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 357127,
       "name": "Barbaad (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
@@ -1735,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160796,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic"
+    },
+    {
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/6OBfhob2INheouZ1RGW91s"
       },
@@ -1985,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "Chalo Door Kahin",
+        "url": "https://open.spotify.com/album/65sQMiosPhNePUKN2KKlL0"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158961,
+      "name": "Chalo Door Kahin",
+      "url": "https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9"
+    },
+    {
+      "album": {
         "name": "CHAN MAHIYA (ACOUSTIC)",
         "url": "https://open.spotify.com/album/5vmXNcR4ciAXN6a1ucZZT5"
       },
@@ -2172,7 +2252,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 163398,
       "name": "Courtside (Live)",
       "url": "https://open.spotify.com/track/2hNF5M3qIIRNokdCcw4UeJ"
@@ -2241,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Gunkali (Original Score)",
+        "url": "https://open.spotify.com/album/1lCyYMOz15QK4vhcUxHxEW"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243226,
+      "name": "Daikho",
+      "url": "https://open.spotify.com/track/5GTKYA7UTjPFNmIjaQ0wQ7"
+    },
+    {
+      "album": {
         "name": "Daku",
         "url": "https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR"
       },
@@ -2300,6 +2398,28 @@
       "duration_ms": 131641,
       "name": "Darkest Hour - Asim Azhar Version",
       "url": "https://open.spotify.com/track/6W8UyjragKGJ40siaZ2oKN"
+    },
+    {
+      "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193246,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/1dlCoq7vdDnuAzo3DYPTY4"
     },
     {
       "album": {
@@ -3504,7 +3624,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 166137,
       "name": "Ghafoor",
       "url": "https://open.spotify.com/track/4Ywwc43oYbL2zRWWcbSo1c"
@@ -5089,6 +5209,32 @@
     },
     {
       "album": {
+        "name": "Kanwal",
+        "url": "https://open.spotify.com/album/6HJGTGOa9H0t8WUv2PpxpG"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "Kanwal",
+      "url": "https://open.spotify.com/track/1ZriJmDC61hn2z2eajgooI"
+    },
+    {
+      "album": {
         "name": "KAR KAR MINTAAN",
         "url": "https://open.spotify.com/album/37kJbwrmyzqEUKYkhRNGjM"
       },
@@ -5318,6 +5464,24 @@
       "duration_ms": 162018,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/4D8eFUu6Hvulrq6CGqGaLR"
+    },
+    {
+      "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/4ok6iTtVe1NLcLaoEy2jEV"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Hassan",
+          "url": "https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/4eipeAaWX1I6bY3w32EDao"
     },
     {
       "album": {
@@ -5600,7 +5764,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 256148,
       "name": "Laal Pari (From \"Housefull 5\")",
       "url": "https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis"
@@ -5722,7 +5886,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 154788,
       "name": "Last Leaves of Autumn",
       "url": "https://open.spotify.com/track/1pRXl5XAwEZUcsTS9BqNR6"
@@ -5848,7 +6012,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 189762,
       "name": "Lehnga (From \"Jatt & Juliet 3\")",
       "url": "https://open.spotify.com/track/1xJRsUJZoL6LvBpBGWks8L"
@@ -6204,7 +6368,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 202013,
       "name": "Mafia",
       "url": "https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV"
@@ -6582,7 +6746,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 158333,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2O0sJTtjLKvMhd7cWyNdbe"
@@ -7013,6 +7177,28 @@
     },
     {
       "album": {
+        "name": "Dil Kay Parday",
+        "url": "https://open.spotify.com/album/2syS3QElH8i353yYdXNBam"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shehryar Khan",
+          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "Nashe Me Hun",
+      "url": "https://open.spotify.com/track/0mWYexF10TClNnseYf009u"
+    },
+    {
+      "album": {
         "name": "Neray Neray Vas",
         "url": "https://open.spotify.com/album/6EpM6TDOrXbJp65oKySgCt"
       },
@@ -7296,7 +7482,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "O Yaara",
       "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
@@ -7438,7 +7624,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -7577,6 +7763,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Noori",
+          "url": "https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666000,
+      "name": "Par Chanaa De",
+      "url": "https://open.spotify.com/track/2y7fdOLYBFFbuuMs96KndV"
+    },
+    {
+      "album": {
         "name": "Par Chanaa De (Coke Studio Season 9)",
         "url": "https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv"
       },
@@ -7684,7 +7892,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 243035,
       "name": "Parindey (From \"Jatt Nuu Chudail Takri\")",
       "url": "https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm"
@@ -7728,7 +7936,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
@@ -7886,6 +8094,24 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "album": {
+        "name": "PIXELATED KISSES",
+        "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110430,
+      "name": "PIXELATED KISSES",
+      "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
     },
     {
       "album": {
@@ -8838,7 +9064,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 304285,
       "name": "Sanwal Yaar Piya - Original Score",
       "url": "https://open.spotify.com/track/35eS61h5bP349RqzguOi3z"
@@ -8878,7 +9104,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 132000,
       "name": "SARGOSHI",
       "url": "https://open.spotify.com/track/1JX4YjJ6EtxOheUjer7Vsu"
@@ -8984,7 +9210,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 124000,
       "name": "SEMPERO - Slowed",
       "url": "https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44"
@@ -10030,7 +10256,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 208039,
       "name": "Tera Kasoor",
       "url": "https://open.spotify.com/track/3i0NJapaxroNdrS4ffFbDY"
@@ -10366,7 +10592,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 169472,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
@@ -10835,6 +11061,28 @@
     },
     {
       "album": {
+        "name": "The Simpsons",
+        "url": "https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K"
+      },
+      "artists": [
+        {
+          "name": "Cheema Y",
+          "url": "https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200258,
+      "name": "Tutor",
+      "url": "https://open.spotify.com/track/2KQBM1PYjg2ZpeA5xbTjrJ"
+    },
+    {
+      "album": {
         "name": "Open Letter",
         "url": "https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD"
       },
@@ -11236,7 +11484,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

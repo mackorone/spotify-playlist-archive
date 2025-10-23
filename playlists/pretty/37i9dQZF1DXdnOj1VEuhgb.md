@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Mavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,696 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,685 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KAYKAY](https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [KAYKAY](https://open.spotify.com/album/29kZS6Qv2zGpM8j0FbUDw1) | 1:47 |
 | 2 | [ABKB](https://open.spotify.com/track/5rzK4eeJMgbFCed9wF4250) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [ABKB](https://open.spotify.com/album/7kIqFAbOWkTodElNoG9wBn) | 2:52 |
-| 3 | [gelemez](https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [gelemez](https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW) | 2:32 |
-| 4 | [SİS VE GECE](https://open.spotify.com/track/5CHr3v5gQ4xoFAU2X8Croq) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Harim](https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ), [Vesca](https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw), [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1) | [MANHATTAN PROJECT](https://open.spotify.com/album/0GTfvJS2PD2tVRB21n9S3T) | 3:58 |
-| 5 | [Yan Benimle](https://open.spotify.com/track/2TcX5FJtcxEW4cA3M0oKIz) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [2004](https://open.spotify.com/album/0rBKpqrIJ9NKtTziFmONr9) | 2:49 |
-| 6 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 |
+| 3 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 |
+| 4 | [gelemez](https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [gelemez](https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW) | 2:32 |
+| 5 | [SİS VE GECE](https://open.spotify.com/track/5CHr3v5gQ4xoFAU2X8Croq) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS), [Harim](https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ), [Vesca](https://open.spotify.com/artist/3XQjRLbSnGpqd83IMoO4dv), [aspi](https://open.spotify.com/artist/3xkZhfJeT4MB8w7pGhjKGw), [Zizzy](https://open.spotify.com/artist/70F9edYyvSgjhSByO9Vwp1) | [MANHATTAN PROJECT](https://open.spotify.com/album/0GTfvJS2PD2tVRB21n9S3T) | 3:58 |
+| 6 | [Yan Benimle](https://open.spotify.com/track/2TcX5FJtcxEW4cA3M0oKIz) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [2004](https://open.spotify.com/album/0rBKpqrIJ9NKtTziFmONr9) | 2:49 |
 | 7 | [RASTAFARAY](https://open.spotify.com/track/0N29vFxHBTLsY0YF2j5OEo) | [ERU](https://open.spotify.com/artist/3ijnQoOmFlFrGvYgUZC8tq), [Jeng](https://open.spotify.com/artist/7swJkXQei7QMD6LrBUah0X), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [RASTAFARAY](https://open.spotify.com/album/6eyLvy4Tg4QUuyzvQYSUzs) | 2:09 |
 | 8 | [Dur gitme](https://open.spotify.com/track/4PGJxIjZCe8DfmTFlcRrXC) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Dur gitme](https://open.spotify.com/album/1fY3EVuSO17sJBtBkyeqRz) | 2:43 |
 | 9 | [TİKTOK](https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TİKTOK](https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
 | 50 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 
-Snapshot ID: `AAAAACY4liuX9xSgBUMSnNGCh4j/92N6`
+Snapshot ID: `AAAAAJvL8/UQLI6JyY+2YWxqTy/r4oL+`

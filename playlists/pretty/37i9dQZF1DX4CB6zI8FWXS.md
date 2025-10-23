@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R.I.P\. cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,991 likes - 89 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,996 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 11 | [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg) | 2:43 |
 | 12 | [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 |
 | 13 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 |
-| 14 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 14 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 15 | [Play This Song \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:44 |
 | 16 | [Too Much](https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A) | 2:46 |
 | 17 | [Water](https://open.spotify.com/track/0iPRaGu0MkIfLHRjFfWedg) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Water](https://open.spotify.com/album/6SIDaB4Fx0pxAdHloPWNXp) | 3:34 |

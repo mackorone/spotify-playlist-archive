@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-191 songs - 13 hr 31 min
+193 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 | 2025-03-25 |  |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2023-03-23 | 2025-03-26 |
 | [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 | 2025-10-06 |  |
-| [Ikot](https://open.spotify.com/track/5gQyJNVUEydHMciwhih7EK) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 4:10 | 2025-08-23 |  |
+| [Ikot](https://open.spotify.com/track/5gQyJNVUEydHMciwhih7EK) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 4:10 | 2025-08-23 | 2025-10-23 |
 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 | 2022-04-19 |  |
 | [Ipagpatawad Mo](https://open.spotify.com/track/3On64r714N7t1Q4KuqMYlO) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq), [Star Music](https://open.spotify.com/artist/3x9i2nnioY7wlQE9oPEHqv) | [Tersera](https://open.spotify.com/album/5ZNxJGEM28nI1M8SKQcXNr) | 4:02 | 2022-09-20 | 2023-12-15 |
 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 | 2023-01-04 |  |
@@ -117,7 +117,7 @@
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2023-09-13 |  |
 | [Nadarang](https://open.spotify.com/track/6LJ1p1h5EcMK4VPeCLDSoF) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/7MCYCgE6fQHYkhj29FHRcY) | 3:52 | 2022-06-13 | 2023-01-09 |
 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 | 2023-01-04 | 2024-04-19 |
-| [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-10-06 |  |
+| [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-10-06 | 2025-10-23 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2024-04-17 | 2025-01-29 |
 | [Nahuhulog Na Sa'yo](https://open.spotify.com/track/0EFa7HXaZUAzu9q1UdVPBR) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nahuhulog Na Sa'yo](https://open.spotify.com/album/3QPcdcXJZ4uophss504wCg) | 3:37 | 2023-09-13 | 2024-01-10 |
 | [Namumula](https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Namumula](https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc) | 2:54 | 2025-07-23 | 2025-10-11 |
@@ -132,6 +132,7 @@
 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 | 2022-06-13 |  |
 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-01-10 | 2025-03-26 |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-04-19 |  |
+| [Pahinga](https://open.spotify.com/track/5gsrnGObHgA9RxbzSbsHj9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Pahinga](https://open.spotify.com/album/5kR9f0sM2O0w0S7BC3TaSP) | 4:21 | 2025-10-22 |  |
 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 | 2025-04-23 | 2025-08-24 |
 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 | 2023-09-13 | 2025-03-26 |
 | [Pangarap Lang Kita](https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4), [Happee Sy](https://open.spotify.com/artist/4OxMtvmCYCgJHjueLFwJHr) | [Middle\-Aged Juvenile Novelty Pop Rockers](https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0) | 3:14 | 2025-08-23 |  |
@@ -184,6 +185,7 @@
 | [The Day You Said Goodnight](https://open.spotify.com/track/0HZ3OUVrGHxttD2EuHqRm3) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn) | 4:51 | 2022-04-19 | 2023-01-07 |
 | [The Way You Look at Me](https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC) | [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Christian Bautista](https://open.spotify.com/album/0qEwvzXNVsPFK7eftFej7Q) | 3:27 | 2022-04-19 | 2023-01-17 |
 | [Tibok](https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 5:26 | 2025-03-25 | 2025-09-19 |
+| [Tibok](https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Tibok](https://open.spotify.com/album/0adQix0U0hF4YN1xxbSgUU) | 5:26 | 2025-10-22 |  |
 | [Till I Met You](https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA) | [Angeline Quinto](https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649) | [She's Dating the Gangster \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc) | 4:00 | 2022-04-19 | 2023-04-07 |
 | [Till My Heartaches End \- From "The Significant Other"](https://open.spotify.com/track/4isDU5tDNqFLQ5xQ9NgPmz) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Till My Heartaches End \(From "The Significant Other"\)](https://open.spotify.com/album/6Mt2ypZ8Q48fAdqiVkw1kH) | 4:16 | 2022-04-19 | 2023-06-05 |
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2023-09-13 |  |

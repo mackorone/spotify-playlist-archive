@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Manisha Eerabathini
 
-417 songs - 1 day 1 hr 5 min
+418 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Naa Kallalona](https://open.spotify.com/track/2vPgqs4VLTcdQnbkNC4IOP) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/4C6JnvQbuHnDXrwbYs2TpM) | 3:46 | 2023-05-23 | 2024-02-22 |
 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 | 2023-05-23 | 2024-02-18 |
 | [Naa Kannula Mungitlo](https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4) | [Yamini Gowribhatla](https://open.spotify.com/artist/09eHXlBRFrtxi4kSKTnJUl), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Naa Kannula Mungitlo](https://open.spotify.com/album/2bMW2uDJtNrGiHVoWxZ7OA) | 4:25 | 2024-10-10 |  |
+| [Naa Peru Nagrj](https://open.spotify.com/track/2y0jg3j3d9Ao931RaSw6IC) | [Nagrj](https://open.spotify.com/artist/1MoSSCdPlQSolyNClfVpxx) | [Naa Peru Nagrj](https://open.spotify.com/album/3249NMeFZaBRBa7GmiHGpb) | 1:51 | 2025-10-22 |  |
 | [Naa Praanama](https://open.spotify.com/track/4aWHaOhVZohcuId23MxVFC) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Naa Praanama](https://open.spotify.com/album/2vCR1uAaMVJUh3VOVgp8v4) | 3:17 | 2025-08-14 |  |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 | 2023-06-01 |
 | [Naatho Nene](https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Naatho Nene](https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN) | 2:52 | 2024-10-01 | 2024-12-21 |

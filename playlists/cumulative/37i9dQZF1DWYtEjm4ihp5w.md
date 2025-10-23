@@ -4,7 +4,7 @@
 
 > Cover: Tagne
 
-445 songs - 23 hr 25 min
+446 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Bombonera](https://open.spotify.com/track/4xxNysr35mMhcRpfw6v1Fu) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 3:31 | 2025-06-05 | 2025-07-29 |
 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 | 2025-07-01 |  |
 | [Bondagani](https://open.spotify.com/track/0f442OjFSbQ5gpbBlvaJTI) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Bondagani](https://open.spotify.com/album/3Wy4j63JGo378KN31SdPgb) | 2:14 | 2023-06-22 | 2023-08-31 |
+| [BOOM](https://open.spotify.com/track/61HBQ151SsOvfYq383oK7T) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [BOOM](https://open.spotify.com/album/7InGVZYEVFzVHMVKaKXWlw) | 2:05 | 2025-10-22 |  |
 | [BOOS](https://open.spotify.com/track/4MGqqcMJt5Qe9Irx2YS1Vp) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [NSR](https://open.spotify.com/album/6zoFZL2tZLsk899SQYuP3B) | 2:56 | 2024-02-17 | 2024-05-18 |
 | [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2022-11-14 | 2023-12-12 |
 | [Business](https://open.spotify.com/track/0m329rtCU8m21ddjEjn9qB) | [Lemhllwess](https://open.spotify.com/artist/454idLWxvkeePy4v39nP0J), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Business](https://open.spotify.com/album/6dImfvOvOjXN6x9WB1IUvH) | 3:06 | 2022-11-14 | 2022-11-19 |
@@ -270,7 +271,7 @@
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-04-29 | 2023-05-13 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-09 | 2023-05-08 |
 | [Money Cash](https://open.spotify.com/track/37enI5HLEliszFasVgpjlz) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 2:50 | 2025-05-28 |  |
-| [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 | 2024-12-26 |  |
+| [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 | 2024-12-26 | 2025-10-23 |
 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 | 2025-07-16 |  |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-11-14 | 2023-06-14 |
 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 | 2022-11-14 | 2023-12-08 |

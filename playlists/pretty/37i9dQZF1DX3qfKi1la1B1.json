@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127163,
+  "num_followers": 127166,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-09-18 15:00:42",
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2025-09-18 15:00:42",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 250603,
       "name": "I might say something stupid featuring the 1975 & jon hopkins",
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
-    },
-    {
-      "added_at": "2025-09-18 15:00:42",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
     },
     {
       "added_at": "2025-09-18 15:00:42",

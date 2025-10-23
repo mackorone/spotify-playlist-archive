@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 275817,
+  "num_followers": 275878,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
-        "name": "Modjo (Remastered)",
-        "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 307153,
-      "name": "Lady - Hear Me Tonight",
-      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
-    },
-    {
-      "added_at": "2025-04-04 14:59:32",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 320357,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "added_at": "2025-04-04 14:59:32",
+      "album": {
+        "name": "Modjo (Remastered)",
+        "url": "https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 307153,
+      "name": "Lady - Hear Me Tonight",
+      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
     },
     {
       "added_at": "2025-04-04 14:59:32",

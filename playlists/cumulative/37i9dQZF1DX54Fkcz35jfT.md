@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: BAND\-MAID
 
-436 songs - 1 day 1 hr 3 min
+436 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Light my fire](https://open.spotify.com/track/5UqYxHu2f1fumEZdYZ8el1) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode / Octave](https://open.spotify.com/album/05bEOygcDYO7vClLouhuuQ) | 4:09 | 2024-06-03 | 2024-07-10 |
 | [Listen](https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Listen](https://open.spotify.com/album/5duMvcqwktn0TEvcoRkDJm) | 4:10 | 2023-07-20 | 2023-08-02 |
 | [living dead!!](https://open.spotify.com/track/3oamfw1nAipiBdqnnaIMHL) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [living dead!!](https://open.spotify.com/album/01wPQIcyuFaHT5OzqKjIVI) | 2:27 | 2023-07-20 | 2024-12-16 |
-| [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [](https://open.spotify.com/album/null) | 4:08 | 2025-10-21 |  |
+| [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 | 2025-10-21 |  |
 | [LOOPLINE](https://open.spotify.com/track/4btdnpbFCZGRjfdnFMEzEo) | [TIGER&DRAGON](https://open.spotify.com/artist/75XpMJGYvVgIBTM8bJk5C1) | [LOOPLINE](https://open.spotify.com/album/2JW1byxbmL4SHPOIrpvY3M) | 3:04 | 2023-10-24 | 2023-11-01 |
 | [Love at First Sight](https://open.spotify.com/track/3eXeHEeoFn0Fc9BkHuvQOS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dance & Scream](https://open.spotify.com/album/16MNF4dTAOiVhgVtlFM1PP) | 4:12 | 2023-12-26 | 2024-04-19 |
 | [Love at First Sight](https://open.spotify.com/track/6NLHGKCYCnXt7pU6VQSrAf) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Dance & Scream](https://open.spotify.com/album/3FOmxufq21hJt1qWq0MABi) | 4:12 | 2023-08-24 | 2023-12-08 |
@@ -247,6 +247,7 @@
 | [PLAYDEAD](https://open.spotify.com/track/1c4hhwfHiqpjYXDO9tLXOf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 2:00 | 2023-09-26 | 2023-11-22 |
 | [PLAYDEAD](https://open.spotify.com/track/6xI23gJ23oTq2EAwjE3gjb) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 2:00 | 2023-09-26 | 2023-09-28 |
 | [Player](https://open.spotify.com/track/7pCPywA8iN4WVJdNcPXOSL) | [Bubble Baby](https://open.spotify.com/artist/4g3C4VejuB09XqHyNhs1AC) | [Player](https://open.spotify.com/album/21XW1pX2rCszRc5YRrQloP) | 3:11 | 2024-01-31 | 2024-02-21 |
+| [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 |  |
 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 | 2024-07-09 | 2024-11-07 |
 | [PSYCHO SISTER!!!!!](https://open.spotify.com/track/7KOEnaAtgweLXXtwlLNJT8) | [首振りDolls](https://open.spotify.com/artist/5YkHlLjqjiBcL9Jv5PImcE) | [PSYCHO SISTER!!!!!](https://open.spotify.com/album/2vG6YILPwBSvmytTQPvki1) | 4:07 | 2023-10-24 | 2023-11-01 |
 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 | 2025-01-21 |  |
@@ -337,7 +338,6 @@
 | [Touchdown the Killer](https://open.spotify.com/track/0pxS0pJKLrPSVo9ZgcdWMU) | [RED ORCA](https://open.spotify.com/artist/1GqbNKmjVqs5j55FCOPR9t) | [beyond the darkn \(Es\) s](https://open.spotify.com/album/6b6aW52OviOUCqISTnjfGk) | 4:11 | 2023-07-20 | 2023-09-27 |
 | [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-07-20 | 2023-11-22 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-10-18 |
-| [Track 1](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-21 |  |
 | [TRAINWRECK](https://open.spotify.com/track/6M9JP2dPz86JPyXeSIyOoh) | [Tomoya on the Big Moon](https://open.spotify.com/artist/3irvo30qLgiAyKyHGBAFBS), [vinny from Falling Asleep](https://open.spotify.com/artist/2qpkeVa1yPozQVjsQyiIv0) | [TRAINWRECK \(feat\. vinny from Falling Asleep\)](https://open.spotify.com/album/6oyVKEbKfCB2A6wfowachp) | 3:36 | 2024-02-06 | 2024-02-21 |
 | [Tropical Therapy](https://open.spotify.com/track/3gap4AuGFSfeR0oOSPTNsk) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX \(International Version\)](https://open.spotify.com/album/3MAE3S3GzzErgUKqLq2UKr) | 3:28 | 2025-02-25 |  |
 | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF) | 3:53 | 2024-07-30 |  |

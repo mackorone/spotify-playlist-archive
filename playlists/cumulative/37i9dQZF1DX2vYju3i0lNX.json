@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Again and again",
+        "url": "https://open.spotify.com/album/5yaFNgGYleoWI1XjqDnzXY"
+      },
+      "artists": [
+        {
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172025,
+      "name": "Again and again",
+      "url": "https://open.spotify.com/track/2VWq0XuGkepTo5APDBmSSr"
+    },
+    {
+      "album": {
         "name": "Ahead Of Us",
         "url": "https://open.spotify.com/album/6k2n4F9pnvnOWU7gAS7TRm"
       },
@@ -3639,6 +3657,24 @@
     },
     {
       "album": {
+        "name": "Central Park Stroll",
+        "url": "https://open.spotify.com/album/5vfOxpqBTzqU9V8JS2p7iZ"
+      },
+      "artists": [
+        {
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220723,
+      "name": "Central Park Stroll",
+      "url": "https://open.spotify.com/track/6HqntWF4Ergp1aTtT3FCCZ"
+    },
+    {
+      "album": {
         "name": "Chances Are",
         "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
       },
@@ -3902,7 +3938,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 245221,
       "name": "Circles",
       "url": "https://open.spotify.com/track/0CaKn04Yi6cu4sK8chFXFN"
@@ -4550,7 +4586,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 204038,
       "name": "Dancing Shadows",
       "url": "https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C"
@@ -5726,6 +5762,24 @@
       "duration_ms": 211863,
       "name": "Even If It Breaks My Heart",
       "url": "https://open.spotify.com/track/2smYdzIk06dlNfIK509OHl"
+    },
+    {
+      "album": {
+        "name": "Evening Sun",
+        "url": "https://open.spotify.com/album/47uiCpOa5y5ZEwBjkhwve0"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "Evening Sun",
+      "url": "https://open.spotify.com/track/5Kwzs76HmFATFfdAHEN1tw"
     },
     {
       "album": {
@@ -9635,6 +9689,24 @@
     },
     {
       "album": {
+        "name": "Internal River",
+        "url": "https://open.spotify.com/album/0FrHbuoALee4X3GknPyisI"
+      },
+      "artists": [
+        {
+          "name": "Diminished Fusion",
+          "url": "https://open.spotify.com/artist/13Anjo6ZdAzx6h71JaMYso"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126848,
+      "name": "Internal River",
+      "url": "https://open.spotify.com/track/4xCG4EKXcO8yjvLpwCnOXv"
+    },
+    {
+      "album": {
         "name": "Interpret as You May",
         "url": "https://open.spotify.com/album/27kM4gSwJZcuaaKCprR5Ih"
       },
@@ -9862,7 +9934,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 160141,
       "name": "It's Easier Than You Might Think",
       "url": "https://open.spotify.com/track/1lC6fXNgq6Bxgz8GpTkxEY"
@@ -17696,7 +17768,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 214460,
       "name": "Steady Wind",
       "url": "https://open.spotify.com/track/2jZZBgRqzNbF5zQnv9SNLO"

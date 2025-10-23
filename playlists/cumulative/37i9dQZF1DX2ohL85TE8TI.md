@@ -2,7 +2,7 @@
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: 폭군의 셰프\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 우주메리미 \(Would You Merry Me?\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
 1,126 songs - 2 day 20 hr 18 min
 

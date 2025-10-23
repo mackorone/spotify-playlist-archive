@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Simba La Rue,  Flaco G e IvanBi,  Leon Faun, Dedde e LILCR, Kuremino e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,432 likes - 104 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,431 likes - 104 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
+| 1 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
 | 2 | [HAPPINESS](https://open.spotify.com/track/4h5JQTc5HEDYUGRS0dM7pT) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [HAPPINESS](https://open.spotify.com/album/2n28fhR5NPZhNlXtKy6Zi4) | 3:00 |
 | 3 | [Polvere Da Sparo](https://open.spotify.com/track/6WKbL69QIF2bc65ZJk31ED) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos) | [Polvere Da Sparo](https://open.spotify.com/album/5OLJtybBFITS3qNCvYL9c1) | 2:18 |
 | 4 | [Felicità 2](https://open.spotify.com/track/0RIUPuefusjS3MWDLvhP8c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Felicità 2](https://open.spotify.com/album/3AH2rrreD1bv10NB7pSbx9) | 2:52 |

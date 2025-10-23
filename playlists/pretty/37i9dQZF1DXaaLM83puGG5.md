@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with FRNDS Only! Get your tickets for  FRNDS FEST <a href="https://posh.vip/e/frnds\-fest\-2025?t=spt">here</a>, featuring Metro Boomin, Blxst and Ty Dolla $ign.
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,617 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,884 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 76 | [Went Legit](https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Greatest Rapper Alive](https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8) | 2:20 |
 | 77 | [Kickboxer](https://open.spotify.com/track/1DZVU51224wv6TtRvAzmaZ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Kickboxer](https://open.spotify.com/album/7jX65RgVNEKN649tBrLEAn) | 3:50 |
 
-Snapshot ID: `AAAAADfSu83l1hiYQahtMu72JV9XhGUO`
+Snapshot ID: `AAAAABIQaz7q60i3hDl00QTa3/7rDf+f`

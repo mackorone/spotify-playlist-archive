@@ -634,7 +634,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 233253,
       "name": "Grounded or Dead",
       "url": "https://open.spotify.com/track/6M7nNhyPts6QFD7xaDu2On"
@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7cO3VWZieGiyYbZk77oqyV"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201358,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/494b5aTzaNZBVm2VKMGryH"
+    },
+    {
+      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 135373,
       "name": "Tuff Luck",
       "url": "https://open.spotify.com/track/6QDUktkEmZNKOyFkfco3Ko"

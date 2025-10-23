@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-191 songs - 10 hr 52 min
+192 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Central Lane](https://open.spotify.com/track/79HKtscyW35mcbQkzVOmYK) | [QM](https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j), [Lee Hyun Jun](https://open.spotify.com/artist/6HoP7A5DchkLchV82jDLDm) | [Hannah](https://open.spotify.com/album/3muvhUWEyFNqZ77wUwUFYl) | 4:06 | 2022-06-20 | 2022-07-10 |
 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 | 2022-05-11 |  |
 | [Chingchingching \(Feat\. DeVita\)](https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 3:02 | 2022-06-03 |  |
+| [City Life](https://open.spotify.com/track/0js8Q0TXxvg288AO0MPM0U) | [ara](https://open.spotify.com/artist/08v6oPQmhA9hQisGpjRQ9A), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [House of Girls, Episode 4](https://open.spotify.com/album/3GATj9YiABtlzaoCk7sjdu) | 3:37 | 2025-10-22 |  |
 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 | 2022-05-11 |  |
 | [Cockroach](https://open.spotify.com/track/3zE0IW0EkOqKT0pk3LtLdn) | [Doplamingo](https://open.spotify.com/artist/1T7DSjrtX5ydHFT9xJOQCn) | [The Gateless Gate](https://open.spotify.com/album/7x50GGhigFVzm7NGuCOmtk) | 3:06 | 2022-05-11 | 2022-06-04 |
 | [Coffee](https://open.spotify.com/track/44NrYLVtWcwizNgFva0zUt) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [Home](https://open.spotify.com/album/1uDSyPokcsWjykNxR61SbI) | 3:00 | 2024-06-14 | 2024-11-06 |
@@ -94,7 +95,7 @@
 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 | 2022-05-11 |  |
 | [Insta Crush](https://open.spotify.com/track/2l5FvesT4vjxSPNrBXQ2nE) | [Snacky Chan](https://open.spotify.com/artist/4UTKdKB32XqCsQGLjZEfmw), [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi) | [Insta Crush](https://open.spotify.com/album/2o0TAVFnEMUUHFlWHhPV83) | 3:43 | 2022-05-11 | 2022-07-28 |
 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 | 2022-05-11 |  |
-| [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 | 2024-04-05 |  |
+| [JAMI \(feat\. THAMA\)](https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [JAMI \(feat\. THAMA\)](https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k) | 3:04 | 2024-04-05 | 2025-10-23 |
 | [Jazztext](https://open.spotify.com/track/770OKFkhuymVE3g2l9Ci3F) | [IKYO](https://open.spotify.com/artist/0pI8Vy1QRwQPVFFDVjuT49) | [Jazztext](https://open.spotify.com/album/32ljwHV48VSWXQq6uJjMj0) | 4:03 | 2022-05-11 | 2022-07-13 |
 | [Jean Jacket \(Feat\. Geegooin\)](https://open.spotify.com/track/6eUPB3noow0nUIwJ69rND9) | [ZIZO](https://open.spotify.com/artist/3hEJREUS7yu89cUN0D13Sx), [Geegooin](https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua) | [CAMPFIRE](https://open.spotify.com/album/3n4CuFapVKZHPaOJy9QOVp) | 3:09 | 2022-07-22 | 2022-07-29 |
 | [Journey](https://open.spotify.com/track/0ecHDdv7sgeV7KNIUwwR4R) | [Jazzyfact](https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8) | [Waves Like](https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE) | 3:53 | 2022-05-11 |  |

@@ -59,22 +59,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Bossa De Urso",
-        "url": "https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 191181,
-      "name": "O Maior Sol",
-      "url": "https://open.spotify.com/track/63wRyjLypeKCjDIKZjdRM4"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 284165,
       "name": "Vila Bela",
       "url": "https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Bossa De Urso",
+        "url": "https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO"
+      },
+      "artists": [
+        {
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
+        }
+      ],
+      "duration_ms": 191181,
+      "name": "O Maior Sol",
+      "url": "https://open.spotify.com/track/63wRyjLypeKCjDIKZjdRM4"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -643,30 +643,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Sincronia",
-        "url": "https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0"
+        "name": "April Child",
+        "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
       },
       "artists": [
         {
-          "name": "Trio Corrente",
-          "url": "https://open.spotify.com/artist/2CJ5GDZmO801WYjUTvSAis"
+          "name": "Marcelo Mariano",
+          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
         },
         {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+          "name": "Marcos Romera",
+          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
         },
         {
-          "name": "Fabio Torres",
-          "url": "https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh"
-        },
-        {
-          "name": "Paulo Paulelli",
-          "url": "https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y"
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
         }
       ],
-      "duration_ms": 395219,
-      "name": "Feira de Mangaio",
-      "url": "https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK"
+      "duration_ms": 424404,
+      "name": "April Child",
+      "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -699,26 +695,30 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "April Child",
-        "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
+        "name": "Sincronia",
+        "url": "https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0"
       },
       "artists": [
         {
-          "name": "Marcelo Mariano",
-          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+          "name": "Trio Corrente",
+          "url": "https://open.spotify.com/artist/2CJ5GDZmO801WYjUTvSAis"
         },
         {
-          "name": "Marcos Romera",
-          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
         },
         {
-          "name": "Joao Parahyba",
-          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+          "name": "Fabio Torres",
+          "url": "https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh"
+        },
+        {
+          "name": "Paulo Paulelli",
+          "url": "https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y"
         }
       ],
-      "duration_ms": 424404,
-      "name": "April Child",
-      "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
+      "duration_ms": 395219,
+      "name": "Feira de Mangaio",
+      "url": "https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Pimenta - Tributo a Elis Regina",
-        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Malta",
-          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
-        }
-      ],
-      "duration_ms": 90760,
-      "name": "Fascina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
         "name": "Varanda",
         "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 345319,
       "name": "Varanda",
       "url": "https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Pimenta - Tributo a Elis Regina",
+        "url": "https://open.spotify.com/album/0GD98aEIFGilBEC8Ld8qjL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Malta",
+          "url": "https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM"
+        }
+      ],
+      "duration_ms": 90760,
+      "name": "Fascina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/48atPa1H0RXxJeGe79D6IE"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1015,22 +1015,30 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Reviravolta",
-        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
+        "name": "EIN 002 \u2013 Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
+        "url": "https://open.spotify.com/album/2DmxRJXJkrxeX5Mon0hcJO"
       },
       "artists": [
         {
-          "name": "Z\u00e9li Silva",
-          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+          "name": "EIN",
+          "url": "https://open.spotify.com/artist/5d2MOazh8u8fKATMLTUdSJ"
         },
         {
-          "name": "Z\u00e9li Silva Quarteto",
-          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
+          "name": "Debora Gurgel",
+          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
+        },
+        {
+          "name": "Vanessa Ferreira",
+          "url": "https://open.spotify.com/artist/3atbA4m90glj10iQfVVA3K"
+        },
+        {
+          "name": "Vera Figueiredo",
+          "url": "https://open.spotify.com/artist/7q65lVFF3bh8TBzUwb9TmX"
         }
       ],
-      "duration_ms": 266226,
-      "name": "Novidade",
-      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
+      "duration_ms": 364822,
+      "name": "NUNCA SAI DE MODA",
+      "url": "https://open.spotify.com/track/2mMNQeblz797f79e1qe8Th"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1051,18 +1059,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
+        "name": "Reviravolta",
+        "url": "https://open.spotify.com/album/7gyPUqSn2UEK5WZ9NoYWFb"
       },
       "artists": [
         {
-          "name": "Edu Sangirardi",
-          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
+          "name": "Z\u00e9li Silva",
+          "url": "https://open.spotify.com/artist/4jio39DG0XFxnaScND06to"
+        },
+        {
+          "name": "Z\u00e9li Silva Quarteto",
+          "url": "https://open.spotify.com/artist/5X8d8k9Va0BBjVTRUFAn3E"
         }
       ],
-      "duration_ms": 271656,
-      "name": "Canto de Aruanda",
-      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
+      "duration_ms": 266226,
+      "name": "Novidade",
+      "url": "https://open.spotify.com/track/1IsM9rXpKG4AXBBu1u5RfP"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1103,30 +1115,18 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "EIN 002 \u2013 Debora Gurgel, Vanessa Ferreira, Vera Figueiredo",
-        "url": "https://open.spotify.com/album/2DmxRJXJkrxeX5Mon0hcJO"
+        "name": "Um",
+        "url": "https://open.spotify.com/album/278T99dsaxiUd5LR1I99jO"
       },
       "artists": [
         {
-          "name": "EIN",
-          "url": "https://open.spotify.com/artist/5d2MOazh8u8fKATMLTUdSJ"
-        },
-        {
-          "name": "Debora Gurgel",
-          "url": "https://open.spotify.com/artist/4yMK2n4V4BuobNJfW6agFT"
-        },
-        {
-          "name": "Vanessa Ferreira",
-          "url": "https://open.spotify.com/artist/3atbA4m90glj10iQfVVA3K"
-        },
-        {
-          "name": "Vera Figueiredo",
-          "url": "https://open.spotify.com/artist/7q65lVFF3bh8TBzUwb9TmX"
+          "name": "Edu Sangirardi",
+          "url": "https://open.spotify.com/artist/6PEgT2D62o90YC60iAuf02"
         }
       ],
-      "duration_ms": 364822,
-      "name": "NUNCA SAI DE MODA",
-      "url": "https://open.spotify.com/track/2mMNQeblz797f79e1qe8Th"
+      "duration_ms": 271656,
+      "name": "Canto de Aruanda",
+      "url": "https://open.spotify.com/track/3GkEqnzs4ZtcKdz7LMZdQ6"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+        "name": "Funktastic",
+        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
       },
       "artists": [
         {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+          "name": "Hammond Grooves",
+          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
         }
       ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
+      "duration_ms": 355961,
+      "name": "Funktastic",
+      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1215,38 +1215,18 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Funktastic",
-        "url": "https://open.spotify.com/album/56R5wcChDUvvcZGwF56GS0"
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
       },
       "artists": [
         {
-          "name": "Hammond Grooves",
-          "url": "https://open.spotify.com/artist/5m68N3CcLGw2VOzMrqlrhO"
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
         }
       ],
-      "duration_ms": 355961,
-      "name": "Funktastic",
-      "url": "https://open.spotify.com/track/1wpmyzpjVRNxEjShO5Aymz"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1275,6 +1255,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
+      },
+      "artists": [
+        {
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "When the Answer Is a Question",
         "url": "https://open.spotify.com/album/2FBNA5BgJ4AlPqNf7DNSH6"
       },
@@ -1299,38 +1299,6 @@
       "duration_ms": 457386,
       "name": "When the Answer Is a Question",
       "url": "https://open.spotify.com/track/1tbvdk5fjRFIS96qKqQU3m"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Choramundo",
-        "url": "https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU"
-      },
-      "artists": [
-        {
-          "name": "Nelson Latif",
-          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
-        },
-        {
-          "name": "Pablo Nahar",
-          "url": "https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK"
-        },
-        {
-          "name": "Praful",
-          "url": "https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO"
-        },
-        {
-          "name": "Joeri de Graaf",
-          "url": "https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3"
-        },
-        {
-          "name": "Olaf Keus",
-          "url": "https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Costa da Mina",
-      "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1371,6 +1339,62 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Experimento 1",
+        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
+      },
+      "artists": [
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
+        },
+        {
+          "name": "Jo\u00e3o Taubkin",
+          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        }
+      ],
+      "duration_ms": 576170,
+      "name": "Experimento 1",
+      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Choramundo",
+        "url": "https://open.spotify.com/album/4A259Tg4wksVs2FuHeaPIU"
+      },
+      "artists": [
+        {
+          "name": "Nelson Latif",
+          "url": "https://open.spotify.com/artist/0zaH41rdJncnNnh6MDLG51"
+        },
+        {
+          "name": "Pablo Nahar",
+          "url": "https://open.spotify.com/artist/3FPl7qUgljLraR4vJ8kKIK"
+        },
+        {
+          "name": "Praful",
+          "url": "https://open.spotify.com/artist/1CTc17XcooaxP99IdyVhzO"
+        },
+        {
+          "name": "Joeri de Graaf",
+          "url": "https://open.spotify.com/artist/7unlmnm8l7biNSIQObR5w3"
+        },
+        {
+          "name": "Olaf Keus",
+          "url": "https://open.spotify.com/artist/6JNEM6MvA6AehG2EN9OGmv"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Costa da Mina",
+      "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "Mirada Pervertida (Bossa Guitar)",
         "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
       },
@@ -1395,26 +1419,30 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Experimento 1",
-        "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
+        "name": "Pro Carnaval Voltar",
+        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
       },
       "artists": [
+        {
+          "name": "Oran Etkin",
+          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
+        },
         {
           "name": "Benjamim Taubkin",
           "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
         },
         {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        },
-        {
           "name": "Jo\u00e3o Taubkin",
           "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
+        },
+        {
+          "name": "Kab\u00e9 Pinheiro",
+          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
         }
       ],
-      "duration_ms": 576170,
-      "name": "Experimento 1",
-      "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
+      "duration_ms": 481925,
+      "name": "Pro Carnaval Voltar",
+      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1447,34 +1475,6 @@
       "duration_ms": 313880,
       "name": "Francamente",
       "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Pro Carnaval Voltar",
-        "url": "https://open.spotify.com/album/7kL1OkviidQqo32KssBYlD"
-      },
-      "artists": [
-        {
-          "name": "Oran Etkin",
-          "url": "https://open.spotify.com/artist/1UbVxOOCTpW3AZkRlvvEcO"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        },
-        {
-          "name": "Jo\u00e3o Taubkin",
-          "url": "https://open.spotify.com/artist/5RUKQNNnVb67S4HJuEHgzc"
-        },
-        {
-          "name": "Kab\u00e9 Pinheiro",
-          "url": "https://open.spotify.com/artist/6pcIIwCAElxXLUu3iw3xAF"
-        }
-      ],
-      "duration_ms": 481925,
-      "name": "Pro Carnaval Voltar",
-      "url": "https://open.spotify.com/track/5t2qmr2NKocar4Y1re3j2j"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1519,6 +1519,30 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Factotum",
+        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Ballest\u00e9",
+          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
+        },
+        {
+          "name": "Emile Saubole",
+          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
+        },
+        {
+          "name": "Pablo Arruda",
+          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
+        }
+      ],
+      "duration_ms": 396106,
+      "name": "Factotum",
+      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "CasaBrancaBrinCadeira",
         "url": "https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48"
       },
@@ -1551,46 +1575,6 @@
       "duration_ms": 396331,
       "name": "CasaBrancaBrinCadeira",
       "url": "https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Factotum",
-        "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Ballest\u00e9",
-          "url": "https://open.spotify.com/artist/5Mpgro8TiHUY9WAkHuSUOC"
-        },
-        {
-          "name": "Emile Saubole",
-          "url": "https://open.spotify.com/artist/0ECgND59XbeVYWNwkBuYTx"
-        },
-        {
-          "name": "Pablo Arruda",
-          "url": "https://open.spotify.com/artist/4MQMAQPoIxPt8HAQGFCWGS"
-        }
-      ],
-      "duration_ms": 396106,
-      "name": "Factotum",
-      "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Odalisca",
-        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
-      },
-      "artists": [
-        {
-          "name": "Caetano Brasil",
-          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
-        }
-      ],
-      "duration_ms": 365120,
-      "name": "Can\u00e7\u00e3o da Odalisca",
-      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
+        "name": "Can\u00e7\u00e3o da Odalisca",
+        "url": "https://open.spotify.com/album/1OZtzAd1bGvkgwI4gz0LCh"
+      },
+      "artists": [
+        {
+          "name": "Caetano Brasil",
+          "url": "https://open.spotify.com/artist/7tLeUzTAGpSFzlYyQACBNP"
+        }
+      ],
+      "duration_ms": 365120,
+      "name": "Can\u00e7\u00e3o da Odalisca",
+      "url": "https://open.spotify.com/track/7m81jgiqOawSB9F7eP8wpn"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
         "name": "MOA",
         "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
@@ -1667,50 +1667,22 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Amilton Godoy 80 Anos",
-        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
+        "name": "Sidiel Vieira Quinteto",
+        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
       },
       "artists": [
         {
-          "name": "Amilton Godoy",
-          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
-        },
-        {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
+          "name": "Sidiel Vieira Quinteto",
+          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
         },
         {
           "name": "Sidiel Vieira",
           "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Ponteio 49",
-      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Rosi",
-        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
-      },
-      "artists": [
-        {
-          "name": "Rubinho Antunes",
-          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
-        },
-        {
-          "name": "Nailor \"Proveta\" Azevedo",
-          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
-        },
-        {
-          "name": "Rosicler Barbosa",
-          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
-        }
-      ],
-      "duration_ms": 239992,
-      "name": "Rosi",
-      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
+      "duration_ms": 506440,
+      "name": "Atrevido",
+      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1739,22 +1711,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Sidiel Vieira Quinteto",
-        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
+        "name": "Amilton Godoy 80 Anos",
+        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
       "artists": [
         {
-          "name": "Sidiel Vieira Quinteto",
-          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
+          "name": "Amilton Godoy",
+          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
+        },
+        {
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
         },
         {
           "name": "Sidiel Vieira",
           "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
         }
       ],
-      "duration_ms": 506440,
-      "name": "Atrevido",
-      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
+      "duration_ms": 166933,
+      "name": "Ponteio 49",
+      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1779,6 +1755,22 @@
       "duration_ms": 300659,
       "name": "Fugindo do Sete",
       "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Cinepoesia: Samba do \u00c1rvore",
+        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Freire",
+          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Cinepoesia: Samba do \u00c1rvore",
+      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1815,18 +1807,26 @@
     {
       "added_at": "2025-09-19 14:12:16",
       "album": {
-        "name": "Cinepoesia: Samba do \u00c1rvore",
-        "url": "https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk"
+        "name": "Rosi",
+        "url": "https://open.spotify.com/album/6ERXnIhZoR4lPSQzAbp7Kq"
       },
       "artists": [
         {
-          "name": "L\u00e9a Freire",
-          "url": "https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo"
+          "name": "Rubinho Antunes",
+          "url": "https://open.spotify.com/artist/0Odq6rEmYDIkPqGjBuq4zh"
+        },
+        {
+          "name": "Nailor \"Proveta\" Azevedo",
+          "url": "https://open.spotify.com/artist/23ikif4nFpn6JXvJlrxVZu"
+        },
+        {
+          "name": "Rosicler Barbosa",
+          "url": "https://open.spotify.com/artist/2KoXlrmnYSzAECUSgEvAYI"
         }
       ],
-      "duration_ms": 163169,
-      "name": "Cinepoesia: Samba do \u00c1rvore",
-      "url": "https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4"
+      "duration_ms": 239992,
+      "name": "Rosi",
+      "url": "https://open.spotify.com/track/0R4tcxlHEl92dHT4SrOfXE"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1843,6 +1843,26 @@
       "duration_ms": 407033,
       "name": "Influ\u00eancia",
       "url": "https://open.spotify.com/track/6uqoJ3moFgpHqeDAmWDLTv"
+    },
+    {
+      "added_at": "2025-09-19 14:12:16",
+      "album": {
+        "name": "Entroncamento",
+        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
+      },
+      "artists": [
+        {
+          "name": "Julio Borba",
+          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
+        },
+        {
+          "name": "Santiago Beis",
+          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
+        }
+      ],
+      "duration_ms": 253167,
+      "name": "Nos Dias de Hoje",
+      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
     },
     {
       "added_at": "2025-09-19 14:12:16",
@@ -1879,26 +1899,6 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
-    },
-    {
-      "added_at": "2025-09-19 14:12:16",
-      "album": {
-        "name": "Entroncamento",
-        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
-      },
-      "artists": [
-        {
-          "name": "Julio Borba",
-          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
-        },
-        {
-          "name": "Santiago Beis",
-          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
-        }
-      ],
-      "duration_ms": 253167,
-      "name": "Nos Dias de Hoje",
-      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
     },
     {
       "added_at": "2025-09-19 14:12:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 
 > Potras, rancherxs y la 🧀 Carolina Ross y Los Horóscopos de Durango en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,459 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,517 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa57Li9i9TJK.md) - [plain]
 | 88 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
 | 89 | [Y Me Besa](https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:41 |
 | 90 | [Con La Misma Piedra](https://open.spotify.com/track/0hMFR6ilUckSVYvsDpDPLg) | [Grupo Limite](https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C) | [Por Puro Amor](https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe) | 3:41 |
-| 91 | [X Perro](https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [X Perro](https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3) | 2:24 |
-| 92 | [En realidad](https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [Encuentro Romántico](https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk) | 3:43 |
+| 91 | [En realidad](https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9) | [Abracadabra](https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ) | [Encuentro Romántico](https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk) | 3:43 |
+| 92 | [X Perro](https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [X Perro](https://open.spotify.com/album/5bneoIW82fBlBZSoSLSnE3) | 2:24 |
 | 93 | [Así Fue](https://open.spotify.com/track/4APtMcMgEWjzUeBz8gA1qk) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Así Fue](https://open.spotify.com/album/53hagbhSdOxZhGeNky20bS) | 4:22 |
-| 94 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
-| 95 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 |
+| 94 | [Te Felicito](https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Felicito](https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7) | 3:44 |
+| 95 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
 | 96 | [COMO ESTRELLA](https://open.spotify.com/track/5joTJbm9LkcqVwLPkYlhkl) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [COMO ESTRELLA](https://open.spotify.com/album/1WYKM4nrEjzDH1iXfxsFYN) | 2:35 |
 | 97 | [Simbolo Sexual](https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Simbolo Sexual](https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ) | 3:00 |
-| 98 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
-| 99 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [La Historia De Los Exitos Pop A La Mexicana \(Version Mexico\)](https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK) | 4:00 |
+| 98 | [Quítame Ese Hombre Del Corazón \- Norteña Version](https://open.spotify.com/track/1JffhRkcjxOEN2fDDVWCHA) | [Pilar Montenegro](https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF) | [La Historia De Los Exitos Pop A La Mexicana \(Version Mexico\)](https://open.spotify.com/album/7MKVC6X35HgOEhE2Pp61oK) | 4:00 |
+| 99 | [Ya No Vuelvas](https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Ya No Vuelvas](https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ) | 3:33 |
 | 100 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 |
 
 Snapshot ID: `AAAAAHTmXYizdPsITFDuKAOdGRv3RImn`

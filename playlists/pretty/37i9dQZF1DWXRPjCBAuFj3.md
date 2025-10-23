@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈 Morad in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,170 likes - 98 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,250 likes - 98 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

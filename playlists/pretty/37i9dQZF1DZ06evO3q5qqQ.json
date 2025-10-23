@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 116054,
+  "num_followers": 116070,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAACsL0c2z8vIFdTplp9lMK2",
+  "snapshot_id": "aPbNAAAAAAD1kJqxmgeqVyW4UPRSn/Px",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La De Rogar",
-        "url": "https://open.spotify.com/album/5tvYXFyNLKENr9mKPfsJ0X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155483,
-      "name": "La De Rogar",
-      "url": "https://open.spotify.com/track/78XAj5SRKX7pkT7vlHJeDf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serafin Zambada",
         "url": "https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 128933,
       "name": "Serafin Zambada",
       "url": "https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La De Rogar",
+        "url": "https://open.spotify.com/album/5tvYXFyNLKENr9mKPfsJ0X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155483,
+      "name": "La De Rogar",
+      "url": "https://open.spotify.com/track/78XAj5SRKX7pkT7vlHJeDf"
     },
     {
       "added_at": null,
@@ -831,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey Del Desierto",
-        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
+        "name": "El Color Del Amor",
+        "url": "https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C"
       },
       "artists": [
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 179733,
-      "name": "El Rey Del Desierto",
-      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
+      "duration_ms": 262906,
+      "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
+      "url": "https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq"
     },
     {
       "added_at": null,
@@ -887,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Color Del Amor",
-        "url": "https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C"
+        "name": "El Rey Del Desierto",
+        "url": "https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         },
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 262906,
-      "name": "\u00bfEn D\u00f3nde Te Hab\u00edas Metido?",
-      "url": "https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq"
+      "duration_ms": 179733,
+      "name": "El Rey Del Desierto",
+      "url": "https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

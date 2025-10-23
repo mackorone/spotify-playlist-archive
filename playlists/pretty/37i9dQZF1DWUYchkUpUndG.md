@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Tim Godfrey and Oxlade
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,611 likes - 101 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,628 likes - 101 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 70 | [His Love No Go End](https://open.spotify.com/track/6LrLUViOIBcqVLxmx156o6) | [Steve Elite](https://open.spotify.com/artist/47VkiDb1iXeoDfDrebngyk) | [Unfailing](https://open.spotify.com/album/1FbIcmpKmTajPGS06gZ5pd) | 2:39 |
 | 71 | [Explode](https://open.spotify.com/track/10lqGUjYt2KMc3zO1kNpWu) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Uno Genre](https://open.spotify.com/artist/4Wj4wdjGep1CoCQThDn8KX), [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [Explode](https://open.spotify.com/album/4UM3JJQqfzy2i0iWdltVqh) | 2:31 |
 | 72 | [Jesu \- Apostolic Version](https://open.spotify.com/track/5aJbSBPUsGcG6Wvfo5gx0c) | [Leke Benson](https://open.spotify.com/artist/6ViFGBRU6q7GUEk8RwmaVV), [Daniel Addo](https://open.spotify.com/artist/31iYtormNmbWwEugCqguSk) | [Jesu \(Apostolic Version\)](https://open.spotify.com/album/4IxiydrUQFHGFn63swMgR4) | 5:05 |
-| 73 | [Awa N'shine](https://open.spotify.com/track/4RqCgk9tTmmthcqq21pCdH) | [Dave Ugbor](https://open.spotify.com/artist/59Y8p5NxB6KoHSMLGu9j5W) | [Awa N'shine](https://open.spotify.com/album/2tzzYOsoJo99U8HKJFjJtM) | 4:48 |
+| 73 | [Awa N'shine](https://open.spotify.com/track/4RqCgk9tTmmthcqq21pCdH) | [Dave Ugbor](https://open.spotify.com/artist/59Y8p5NxB6KoHSMLGu9j5W) | [Awa N'shine](https://open.spotify.com/album/2tzzYOsoJo99U8HKJFjJtM) | 4:51 |
 | 74 | [New Face](https://open.spotify.com/track/642VvtTlmNlyhq37E45xhv) | [Mr.Sbeatz](https://open.spotify.com/artist/6smtubj4mOwgz9A83p2wRr), [Esperanza](https://open.spotify.com/artist/2OESEn9e5pKa7F8oiYWBoU) | [New Face](https://open.spotify.com/album/5Vqn7jb7ztB2HkyBXp3qkt) | 3:31 |
 | 75 | [ONYEOMA](https://open.spotify.com/track/6yccBlKJzuHXb3cvRpO5Gz) | [King Mirasong](https://open.spotify.com/artist/2tGaQV7J6ORyHQbtgcuF1i) | [ONYEOMA](https://open.spotify.com/album/1THskMB2X5CVCrpvvqG8oZ) | 3:34 |
 | 76 | [GREATEST IN THE ROOM](https://open.spotify.com/track/3FTcdDAuJqNdbiZ0lrMiY4) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [GREATEST IN THE ROOM](https://open.spotify.com/album/5TrExN86q2JzML7W49AW3k) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,681 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,712 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 16 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 17 | [Cherry](https://open.spotify.com/track/2TudsWFxqQy4fJRkMO7TQF) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Cherry](https://open.spotify.com/album/17dAMvsknRZag8Kz8jzY9L) | 2:28 |
 | 18 | [DIFFERENT \- English ver.](https://open.spotify.com/track/0Slvwx0p3H5wyB4s8EB7Aj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT \(English ver.\)](https://open.spotify.com/album/5p6KkE9SBq8MJPD0EFrNAF) | 2:21 |
-| 19 | [See U Tonight \(feat\. YUNAH & MINJU of ILLIT\)](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 |
+| 19 | [See U Tonight](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 |
 | 20 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:01 |
 | 21 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 |
 | 22 | [If He Wanted To He Would](https://open.spotify.com/track/04M4fiBT94oATcrfWjyjE7) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [If He Wanted To He Would](https://open.spotify.com/album/5Kr0iC2BIiUYb2knzDlTbE) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 74 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
 | 75 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 
-Snapshot ID: `AAAAANg3F1enyJpMWwu7OTJper/Yqpsj`
+Snapshot ID: `AAAAANlnnBOqjDQjUvsQnvT+kknjN6+j`

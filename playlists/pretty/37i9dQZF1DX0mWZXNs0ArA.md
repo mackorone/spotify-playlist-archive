@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,965,300 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,965,233 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 45 | [Say Yes To Heaven \- Sped Up](https://open.spotify.com/track/2f5WkystuejnBzgV18GTGa) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 2:36 |
 | 46 | [girls like me don't cry \(sped up\)](https://open.spotify.com/track/1EMWN9uomtQxEw2mZKrb2C) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(sped up\)](https://open.spotify.com/album/6oAHui1V8db4Ns78vWHJlN) | 2:44 |
 | 47 | [9 bis 9 Sped Up \- Shirli Version](https://open.spotify.com/track/5FmcqoKNe4pZqWrCVlVASl) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Shirli](https://open.spotify.com/artist/55OIH32lgBeGjYZRpw4RNv) | [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/album/5MjrVXkV1bRv2wxuYCdPgq) | 1:41 |
-| 48 | [Wannabe \- Sped Up Version](https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe \(Sped Up Version\)](https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ) | 3:19 |
-| 49 | [FRI\(END\)S \(Sped Up\)](https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:03 |
+| 48 | [FRI\(END\)S \(Sped Up\)](https://open.spotify.com/track/0v6wAlWCzHYj1OuJrVuH7J) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:03 |
+| 49 | [Wannabe \- Sped Up Version](https://open.spotify.com/track/6BP729RazoZBV8nrOUJI85) | [why mona](https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU) | [Wannabe \(Sped Up Version\)](https://open.spotify.com/album/78cUelBdPNPOmQ5IumegJQ) | 3:19 |
 | 50 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 |
 | 51 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 |
 | 52 | [HYPNOTIC DATA \- Sped Up](https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [XIII SORROWS \(ODECORE MIX\)](https://open.spotify.com/album/6wrKIZQJP4vyo7eIsAv5vE) | 1:57 |

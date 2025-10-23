@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 706049,
+  "num_followers": 706193,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/6DLnBf2xooYa5UniuggpnD"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "I Love a Rainy Night",
-      "url": "https://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Let It Roll",
         "url": "https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 179653,
       "name": "Baby's Got Her Blue Jeans On",
       "url": "https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6DLnBf2xooYa5UniuggpnD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "I Love a Rainy Night",
+      "url": "https://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 218613,
       "name": "Mountain Music",
       "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Lord I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Lord, I Hope This Day Is Good - Single Version",
-      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Friday Night Blues",
         "url": "https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 198453,
       "name": "Friday Night Blues",
       "url": "https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Lord I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Lord, I Hope This Day Is Good - Single Version",
+      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 181426,
-      "name": "That's the Way Love Goes",
-      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
+      "duration_ms": 203600,
+      "name": "Twinkle, Twinkle Lucky Star",
+      "url": "https://open.spotify.com/track/5lxDdFXillBqYvKe9gsYT1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 251560,
       "name": "Don't Close Your Eyes",
       "url": "https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "I'd Love To Lay You Down",
-      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/0bP76IDtXusEmR3b1MG3ao"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 167426,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
+      "duration_ms": 199600,
+      "name": "I'd Love To Lay You Down",
+      "url": "https://open.spotify.com/track/4VF5XIZ7EiMfLElRzYG2E8"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Who's Gonna Fill Their Shoes",
-      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Ten Years Of Hits",
         "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 215106,
       "name": "Stand By Me - Single Version",
       "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Who's Gonna Fill Their Shoes",
+      "url": "https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
-      },
-      "artists": [
-        {
-          "name": "T. Graham Brown",
-          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "I Tell It Like It Used To Be",
-      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Big Dreams In A Small Town",
         "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 287000,
       "name": "The Bluest Eyes In Texas",
       "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8"
+      },
+      "artists": [
+        {
+          "name": "T. Graham Brown",
+          "url": "https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "I Tell It Like It Used To Be",
+      "url": "https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Forester Sisters",
-        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
-      },
-      "artists": [
-        {
-          "name": "The Forester Sisters",
-          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "Mama's Never Seen Those Eyes",
-      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 220426,
       "name": "I Loved 'Em Every One",
       "url": "https://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "The Forester Sisters",
+        "url": "https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA"
+      },
+      "artists": [
+        {
+          "name": "The Forester Sisters",
+          "url": "https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "Mama's Never Seen Those Eyes",
+      "url": "https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2323,6 +2323,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Best Of Gene Watson",
+        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Got No Reason Now For Goin' Home",
+      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
       },
@@ -2339,22 +2355,6 @@
       "duration_ms": 160773,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "Best Of Gene Watson",
-        "url": "https://open.spotify.com/album/4aXbfgzVBIXaed4zapgq6J"
-      },
-      "artists": [
-        {
-          "name": "Gene Watson",
-          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Got No Reason Now For Goin' Home",
-      "url": "https://open.spotify.com/track/0suqXVpX1uJpSrmaDOnxwx"
     },
     {
       "added_at": "2024-10-14 21:15:40",

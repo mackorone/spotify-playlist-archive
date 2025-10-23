@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACTqSJM0pQD1UozkfWRwHA0",
+  "snapshot_id": "aPbNAAAAAABqNQ+h/IwiCVJpCf3Yj5nt",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empathy (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
       "artists": [
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Empathy - MUNA Remix",
-      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+      "duration_ms": 208000,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj"
     },
     {
       "added_at": null,
@@ -159,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinners",
         "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Remixes)",
-        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 242552,
-      "name": "Echoes - Edeema Remix",
-      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fools",
         "url": "https://open.spotify.com/album/4UTVF9k92LuO1Uow4XrHiH"
       },
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
+        "name": "Echoes (Remixes)",
+        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
       },
       "artists": [
         {
@@ -232,25 +232,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 237338,
-      "name": "Thinking About",
-      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
+      "duration_ms": 242552,
+      "name": "Echoes - Edeema Remix",
+      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
     },
     {
       "added_at": null,
@@ -271,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad People",
-        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
       "artists": [
         {
@@ -280,9 +264,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 196660,
-      "name": "Bad People",
-      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
+      "duration_ms": 237338,
+      "name": "Thinking About",
+      "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
     },
     {
       "added_at": null,
@@ -303,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+        "name": "Bad People",
+        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
       },
       "artists": [
         {
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 202848,
-      "name": "Suddenly Strangers",
-      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+      "duration_ms": 196660,
+      "name": "Bad People",
+      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
     },
     {
       "added_at": null,
@@ -331,6 +315,22 @@
       "duration_ms": 221000,
       "name": "Square One",
       "url": "https://open.spotify.com/track/0qc4TkLNFjmIhxffll7hME"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 202848,
+      "name": "Suddenly Strangers",
+      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isn\u2019t It Strange?",
-        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 239468,
-      "name": "How Would You Like It?",
-      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liars",
         "url": "https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 247000,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4WB0MpDC1CmiKBmXIGjI2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isn\u2019t It Strange?",
+        "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 239468,
+      "name": "How Would You Like It?",
+      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 209896,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 209896,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghost World",
         "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 111780,
       "name": "Teenage Self",
       "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Knife",
+        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 238446,
       "name": "Out Of Our Depth",
       "url": "https://open.spotify.com/track/0azPcAj5JzQcpI3HTfcQmZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Knife",
-        "url": "https://open.spotify.com/album/5lwCJrOOBc4y6xrspWuPsM"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/3OUNyFSFAjddyeErrZJ4e1"
     },
     {
       "added_at": null,

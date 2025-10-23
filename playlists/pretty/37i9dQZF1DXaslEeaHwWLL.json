@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 80325,
+  "num_followers": 80372,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Pa Ti",
-        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 246382,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -479,6 +479,26 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195213,
+      "name": "Perro Fiel (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 412631,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "Perro Fiel (feat. Nicky Jam)",
-      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
     },
     {
       "added_at": "2024-07-13 01:15:47",

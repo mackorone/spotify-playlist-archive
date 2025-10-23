@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6z0YyO7RUp5t7ZwkGKApUK">Kim Petras</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,476 likes - 114 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,475 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 31 | [brrr](https://open.spotify.com/track/1mkzOD6x9qpMS9FV7NmCXK) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:32 |
 | 32 | [In The Next Life](https://open.spotify.com/track/4q9EwMju6FNZEhRyJe2Fw5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 3:44 |
 | 33 | [Wrong Turn](https://open.spotify.com/track/79zoBfcQDNQgSpvojwkfk8) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:20 |
-| 34 | [Sweet Spot](https://open.spotify.com/track/0kJxW8nJoFDqriiIh1u6HU) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:14 |
-| 35 | [Turn Off The Light](https://open.spotify.com/track/1CExoYjHyP0NK7WkEobYpi) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Elvira, Mistress of theDark](https://open.spotify.com/artist/22GgOLXAbnO8KkICxdWu3G) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 3:11 |
+| 34 | [Turn Off The Light](https://open.spotify.com/track/1CExoYjHyP0NK7WkEobYpi) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Elvira, Mistress of theDark](https://open.spotify.com/artist/22GgOLXAbnO8KkICxdWu3G) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 3:11 |
+| 35 | [Sweet Spot](https://open.spotify.com/track/0kJxW8nJoFDqriiIh1u6HU) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:14 |
 | 36 | [YOUNG & WILD](https://open.spotify.com/track/3ntDOwTcuLTRbBmzaULcbN) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/5N2fOk0ShnKd8hUD66kI1e) | 3:01 |
 | 37 | [Tell Me It's A Nightmare](https://open.spotify.com/track/3ZNmfaWQ6soWvtvNIilVsz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 4:08 |
 | 38 | [Made You Look \(feat\. Kim Petras\)](https://open.spotify.com/track/63ehxyfRWRnMPE0yItoWFo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:27 |
@@ -116,11 +116,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 106 | [Deeper](https://open.spotify.com/track/1gL6hgpNACDSXQbuLrYySn) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:56 |
 | 107 | [Something About U](https://open.spotify.com/track/0tjcprSHFM5YRuOUXVXtNT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 3:01 |
 | 108 | [Love Ya Leave Ya](https://open.spotify.com/track/0wxoMdXupqx7khTzmOB0Uh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 2:26 |
-| 109 | [Heartbeat \- Original Mix](https://open.spotify.com/track/7IxdBPYV0foP6Hr0tpQMAH) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Heartbeat](https://open.spotify.com/album/5kKROk68SN3T8L2VAzsjXq) | 6:04 |
-| 110 | [Flight to Paris \- Radio Edit](https://open.spotify.com/track/5EQkA7J6DBBs2plPJJJ9dT) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Flight To Paris](https://open.spotify.com/album/69R61npQJZiMr8GrDO2I8w) | 3:52 |
-| 111 | [BTR 2GTHR](https://open.spotify.com/track/07si5E6G70Th983QqoxVYy) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Planet Y2K](https://open.spotify.com/album/6X3Glpjp9e2zbvPfqipFOj) | 2:58 |
-| 112 | [Chameleon](https://open.spotify.com/track/3OlielSZQ91C6OYSOx6Uvl) | [Rome Will Burn](https://open.spotify.com/artist/4PyHHTsXyvS7RdZDZ9fi3u) | [Rome Will Burn](https://open.spotify.com/album/3UC5ElZHlLhAQSJpoNGiOH) | 3:07 |
-| 113 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
-| 114 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
+| 109 | [I Like Ur Look](https://open.spotify.com/track/4FNFhDMEj39Tf6is8RvZ4A) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Like Ur Look](https://open.spotify.com/album/4fG8zkWcN388e0nM0wRaj2) | 2:51 |
+| 110 | [Heartbeat \- Original Mix](https://open.spotify.com/track/7IxdBPYV0foP6Hr0tpQMAH) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Heartbeat](https://open.spotify.com/album/5kKROk68SN3T8L2VAzsjXq) | 6:04 |
+| 111 | [Flight to Paris \- Radio Edit](https://open.spotify.com/track/5EQkA7J6DBBs2plPJJJ9dT) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Flight To Paris](https://open.spotify.com/album/69R61npQJZiMr8GrDO2I8w) | 3:52 |
+| 112 | [BTR 2GTHR](https://open.spotify.com/track/07si5E6G70Th983QqoxVYy) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Planet Y2K](https://open.spotify.com/album/6X3Glpjp9e2zbvPfqipFOj) | 2:58 |
+| 113 | [Chameleon](https://open.spotify.com/track/3OlielSZQ91C6OYSOx6Uvl) | [Rome Will Burn](https://open.spotify.com/artist/4PyHHTsXyvS7RdZDZ9fi3u) | [Rome Will Burn](https://open.spotify.com/album/3UC5ElZHlLhAQSJpoNGiOH) | 3:07 |
+| 114 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
+| 115 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `Ab/fMgAAAAAXSm69wkCrPikbWGsLNMXV`
+Snapshot ID: `Ab/k+gAAAABxu7T/9tty2gSM4sqc5C4e`

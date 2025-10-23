@@ -1573,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Dominga",
+        "url": "https://open.spotify.com/album/1eTlYrqqUnN724pPwrCNbt"
+      },
+      "artists": [
+        {
+          "name": "La Mave",
+          "url": "https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227619,
+      "name": "Dominga",
+      "url": "https://open.spotify.com/track/4Nyyfm1HlgI2QsaKfuu6Ol"
+    },
+    {
+      "album": {
         "name": "don't matter",
         "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
       },
@@ -6490,6 +6512,28 @@
       "duration_ms": 158970,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/6ZTXLtZ9EBhji6rcowVW8s"
+    },
+    {
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/0ppBQhMLm2yvMEB7ISJJ32"
+      },
+      "artists": [
+        {
+          "name": "kyleaux",
+          "url": "https://open.spotify.com/artist/0CPN6hsvntQd2izYTDVO7M"
+        },
+        {
+          "name": "Madman Stan",
+          "url": "https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Selfish - Remix",
+      "url": "https://open.spotify.com/track/5aXg6tECTTyUjtDG2EubBk"
     },
     {
       "album": {

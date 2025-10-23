@@ -7232,7 +7232,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Baby Steps",
       "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
@@ -37466,7 +37466,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 190129,
       "name": "Jaane Na Tu",
       "url": "https://open.spotify.com/track/2PNAKNrINLMHHrk5iMKNzA"
@@ -50721,6 +50721,24 @@
     },
     {
       "album": {
+        "name": "MONTAGEM MUEVELOU",
+        "url": "https://open.spotify.com/album/5cUDQKJg4uSeYjiWTQVBz4"
+      },
+      "artists": [
+        {
+          "name": "VIXZY",
+          "url": "https://open.spotify.com/artist/0kWUYXcvgnzitf04C98qXP"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137369,
+      "name": "MONTAGEM MUEVELOU",
+      "url": "https://open.spotify.com/track/6YRzHINHGFHeK9Z6AYuGtl"
+    },
+    {
+      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },
@@ -51634,7 +51652,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 135659,
       "name": "MUEVELOU",
       "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
@@ -55846,7 +55864,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/3VOfcm1jnPfLNa2QhVsA4j"
@@ -55864,7 +55882,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
@@ -80916,7 +80934,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 232701,
       "name": "Unshaken",
       "url": "https://open.spotify.com/track/5aozioXEMgxyttOvxCsckp"
@@ -83985,6 +84003,24 @@
     },
     {
       "album": {
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486840,
+      "name": "Weightless Part 1",
+      "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
+    },
+    {
+      "album": {
         "name": "Welcome To The Mato",
         "url": "https://open.spotify.com/album/322x7JkIl0C3IayQinHyIM"
       },
@@ -85262,6 +85298,10 @@
         {
           "name": "Trippie Redd",
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
       "date_added": "2025-10-07",

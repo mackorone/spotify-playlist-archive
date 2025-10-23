@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31646,
+  "num_followers": 31647,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQ1g3iziH6+govUW1xCTuMselY+Nd/",
+  "snapshot_id": "AAAQ2MlJQmpkYqLLCwW1n2ioaATraJom",
   "tracks": [
     {
       "added_at": "2025-09-08 16:26:08",
@@ -231,6 +231,26 @@
       "duration_ms": 296682,
       "name": "Mesa Mesa",
       "url": "https://open.spotify.com/track/1msa48qu8yDKW3KKza18Nk"
+    },
+    {
+      "added_at": "2025-10-22 18:21:29",
+      "album": {
+        "name": "Boundary Rider",
+        "url": "https://open.spotify.com/album/5acfdsTeybq9WNzMStHK3g"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "Paul Banks",
+          "url": "https://open.spotify.com/artist/6h7Y3QR7IjzAD05Qw5QYO4"
+        }
+      ],
+      "duration_ms": 224943,
+      "name": "Boundary Rider",
+      "url": "https://open.spotify.com/track/5w9XvpOBv2FviDF7lSV5Kb"
     },
     {
       "added_at": "2025-09-08 16:27:27",

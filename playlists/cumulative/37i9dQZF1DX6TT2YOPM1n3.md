@@ -4,7 +4,7 @@
 
 > Home to the greatest Pakistani hits 🎶 Cover: Umair
 
-253 songs - 17 hr 12 min
+254 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Baat \(From "Meem Se Mohabbat"\)](https://open.spotify.com/track/4yQQJ9Tj3DDYG3zgHhEgtq) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Qirat Haider](https://open.spotify.com/artist/1wY7OsIekAW9BGIPnPRinW) | [Baat \(From "Meem Se Mohabbat"\)](https://open.spotify.com/album/4RcxIGslWPqZJ4XgzmVyci) | 3:22 | 2025-04-11 |  |
 | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/track/5qxSNZz2m8wNH61JYo7bVL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Atta Ullah Khan Esakhelvi](https://open.spotify.com/artist/5goEfEtiQpnBEZBfGGeCrL) | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/album/22RiQmJXIj68bbqOUNlVAm) | 3:22 | 2024-05-06 | 2024-06-15 |
 | [Beby](https://open.spotify.com/track/5XfpEc8bp8UTHdMQt2ayE5) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 3:03 | 2023-11-13 | 2023-11-30 |
-| [Bematlab](https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 3:48 | 2024-04-29 |  |
+| [Bematlab](https://open.spotify.com/track/1p6AnftoxhGTuei5RnsvIy) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 3:48 | 2024-04-29 | 2025-10-23 |
 | [Beparwah](https://open.spotify.com/track/1BkYDk1hrLKkPi10OVSrhR) | [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Beparwah](https://open.spotify.com/album/5AntNs7eAxvw6zn9YZeP6J) | 4:32 | 2025-10-15 | 2025-10-19 |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2023-05-04 | 2025-06-30 |
 | [Beqadra](https://open.spotify.com/track/5I5i0H4j9lVLEAbdA4Ja9P) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/53a0qNQZJfYlx2UAWvJjVy) | 3:05 | 2024-12-04 | 2024-12-20 |
@@ -51,6 +51,7 @@
 | [Bulleya](https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Bulleya](https://open.spotify.com/album/3c7tSHkLyybTCmtaNlYLSJ) | 3:41 | 2023-05-30 | 2023-11-30 |
 | [Chal Diye Tum Kahan](https://open.spotify.com/track/6RRMrws5dVKALzhTvH8GFL) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Kabhi Main Kabhi Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BDuL4Ca5r5EHnyR8uJ6OY) | 4:35 | 2024-08-12 |  |
 | [Chal Diye Tum Kahan \(From "Kabhi Main Kabhi Tum"\)](https://open.spotify.com/track/0C8SMUhJhFXzr4PICotjyB) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Chal Diye Tum Kahan \(From "Kabhi Main Kabhi Tum"\)](https://open.spotify.com/album/2UnoNjV8gXzHcOLpVx2yHX) | 4:35 | 2024-12-04 | 2024-12-20 |
+| [Chalo Door Kahin](https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Chalo Door Kahin](https://open.spotify.com/album/65sQMiosPhNePUKN2KKlL0) | 2:38 | 2025-10-22 |  |
 | [Cham Cham](https://open.spotify.com/track/17FEA6kt7Xyjhat3Lv7LAw) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R) | [Cham Cham](https://open.spotify.com/album/5Cn9Qx5mPJjY0PKa756LCx) | 3:46 | 2024-01-12 | 2024-01-20 |
 | [Chan Kithan](https://open.spotify.com/track/3DJVLBNKQi8fzhTWFxAzS6) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chan Kithan](https://open.spotify.com/album/4BWqJqgYMTHT8SJfIriqzz) | 3:53 | 2024-12-04 |  |
 | [Chand Mahiya](https://open.spotify.com/track/5IDp6JFNNccPdMDCrClH2I) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Chand Mahiya](https://open.spotify.com/album/7dvAfiilxT3posAAV0I4lo) | 2:58 | 2023-09-08 | 2023-11-07 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 198437,
+  "num_followers": 198460,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACNBRK/Lvr8KRrKbzllskdv",
+  "snapshot_id": "aPbNAAAAAAC3I1jpmgSPOa2p/nnvWLqq",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 260506,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Wild Wild Life",
-      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -299,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        },
+        {
+          "name": "Jerry Harrison",
+          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
+        }
+      ],
+      "duration_ms": 220680,
+      "name": "Wild Wild Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4u6rcmlhDDgS0YAo8ZMI4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
@@ -331,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Swamp - 2005 Remaster",
-      "url": "https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Creatures (Deluxe Version)",
         "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
       },
@@ -359,6 +347,22 @@
       "duration_ms": 222413,
       "name": "Stay up Late - 2005 Remaster",
       "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Swamp - 2005 Remaster",
+      "url": "https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l"
     },
     {
       "added_at": null,
@@ -395,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 345573,
-      "name": "Moon Rocks - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -423,6 +411,22 @@
       "duration_ms": 129800,
       "name": "Thank You for Sending Me an Angel - Live",
       "url": "https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 345573,
+      "name": "Moon Rocks - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v"
     },
     {
       "added_at": null,
@@ -463,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 354213,
-      "name": "Making Flippy Floppy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -491,6 +479,22 @@
       "duration_ms": 195373,
       "name": "Found a Job - Live",
       "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "Making Flippy Floppy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
     },
     {
       "added_at": null,
@@ -527,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Talking Heads",
-        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Love \u2192 Building on Fire - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6io3AG4PaHu5Ksx41r4zHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -555,6 +543,22 @@
       "duration_ms": 360640,
       "name": "What a Day That Was - Live; Edit",
       "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of Talking Heads",
+        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Love \u2192 Building on Fire - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6io3AG4PaHu5Ksx41r4zHw"
     },
     {
       "added_at": null,
@@ -719,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+        "name": "The Best of Talking Heads",
+        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
       "artists": [
         {
@@ -728,9 +732,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Creatures of Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
+      "duration_ms": 298960,
+      "name": "Blind - 2003 Remaster",
+      "url": "https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS"
     },
     {
       "added_at": null,
@@ -751,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Talking Heads",
-        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -760,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Blind - 2003 Remaster",
-      "url": "https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS"
+      "duration_ms": 255800,
+      "name": "Creatures of Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
     },
     {
       "added_at": null,

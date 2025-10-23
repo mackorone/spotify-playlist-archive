@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,010 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,002 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 9 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
 | 10 | [6 Feet Under](https://open.spotify.com/track/41n5NNDfMFv9nhSutXMXPX) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Coydog](https://open.spotify.com/album/07XhF0Jlpkb0jCey7j9Tsn) | 3:30 |
 | 11 | [Keep Love Waiting](https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [BLINK](https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF) | 3:57 |
-| 12 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 12 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 13 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 14 | [PT Cruiser](https://open.spotify.com/track/1yM1QQCim0YssOxDDJQbse) | [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [PT Cruiser](https://open.spotify.com/album/466dbk7Myb4b5ptqAFwrGv) | 3:44 |
 | 15 | [Greed](https://open.spotify.com/track/6SeKBq8l79WLvnDWQDd3GZ) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [SOLACE](https://open.spotify.com/album/3IwmHrw566MMhJk0hsIZrQ) | 3:32 |

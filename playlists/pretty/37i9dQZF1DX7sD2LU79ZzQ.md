@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Harra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,586 likes - 116 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,613 likes - 116 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

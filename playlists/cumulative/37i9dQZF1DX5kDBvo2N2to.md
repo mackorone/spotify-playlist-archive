@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-430 songs - 22 hr 58 min
+431 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-06-28 | 2024-08-30 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2024-08-08 | 2025-04-18 |
 | [I Miss My Adidas](https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth) | [Gina Hannuksela](https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs), [CharlyC](https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV) | [I Miss My Adidas](https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4) | 2:10 | 2024-08-08 | 2024-09-15 |
-| [i miss you](https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i miss you](https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J) | 3:25 | 2025-04-17 |  |
+| [i miss you](https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i miss you](https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J) | 3:25 | 2025-04-17 | 2025-10-23 |
 | [I natt é hela staden vår](https://open.spotify.com/track/1znQMIGsOv5BlrU2BL90wb) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I natt é hela staden vår](https://open.spotify.com/album/42VKHmLNWldELuIPVLr5M4) | 3:20 | 2024-10-04 | 2025-05-23 |
 | [I Was A Sailor](https://open.spotify.com/track/2qO4PvWDojlplbvSrCBUvF) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [I Was A Sailor](https://open.spotify.com/album/2RPZ0G0ZFhbewbFhi6u4em) | 4:00 | 2024-06-28 | 2024-08-23 |
 | [I'll be fine](https://open.spotify.com/track/34JnZt7LU9dKbkbopyFu1G) | [FRANKIE OCTOBER](https://open.spotify.com/artist/40DZ0XYPJCrVu76o6nzyHw) | [I'll be fine](https://open.spotify.com/album/49MrsIN3l1vn2TtQJ3ilqt) | 2:22 | 2025-05-22 | 2025-05-30 |
@@ -325,6 +325,7 @@
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 | 2025-03-13 |
 | [Rocko](https://open.spotify.com/track/1JpvGIVCdc7BRbHEVEk27r) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Rocko](https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU) | 3:18 | 2025-06-12 | 2025-10-17 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2025-04-25 |
+| [Run It Up](https://open.spotify.com/track/6K54qTmlXf6MW1YQvZDFVA) | [Tasha17k](https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd) | [Run It Up](https://open.spotify.com/album/4SyiWqVrp8NbHkTJoTmIx1) | 2:03 | 2025-10-16 |  |
 | [Safada](https://open.spotify.com/track/4EDbi1VU7nPBlvyv2aXFat) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Safada](https://open.spotify.com/album/1keYW8BnJ3zory5U2AnFD2) | 2:36 | 2025-10-16 |  |
 | [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 | 2024-09-19 | 2025-01-17 |
 | [Sakte Film](https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sakte Film](https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa) | 2:37 | 2025-07-31 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 111254,
+  "num_followers": 111256,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Chau Chau",
-        "url": "https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 164575,
-      "name": "Chau Chau",
-      "url": "https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "En Peligro de Extinci\u00f3n",
         "url": "https://open.spotify.com/album/2lrLv3S0wuWr1U0iAsTyQ5"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 221823,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/3iJBKJpJ410zMHs2XgNifm"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "Chau Chau",
+        "url": "https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 164575,
+      "name": "Chau Chau",
+      "url": "https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya"
     },
     {
       "added_at": "2025-07-18 03:00:26",

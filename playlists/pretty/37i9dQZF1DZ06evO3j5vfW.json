@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72384,
+  "num_followers": 72383,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABGJtAkvE3kPlKtL+jEKRG2",
+  "snapshot_id": "aPbNAAAAAAAp4grg8tMqvpInsSjXU9JB",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toulouse (Bobby Anthony Vocal Mix)",
+        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Toulouse - Bobby Anthony Vocal Mix",
+      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where Do I Go",
         "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toulouse (Bobby Anthony Vocal Mix)",
-        "url": "https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Toulouse - Bobby Anthony Vocal Mix",
-      "url": "https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99"
     },
     {
       "added_at": null,
@@ -619,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be There",
-        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Emiel Monte",
-          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be There",
+        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Emiel Monte",
+          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
     },
     {
       "added_at": null,
@@ -711,30 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting For Me",
-        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 138102,
-      "name": "Waiting For Me",
-      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'll Follow You",
         "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting For Me",
+        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 138102,
+      "name": "Waiting For Me",
+      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rave Music",
-        "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "Rave Music",
-      "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow Comes",
         "url": "https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rave Music",
+        "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 180461,
+      "name": "Rave Music",
+      "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hero (Nicky Romero Remix)",
         "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
       },
@@ -1023,6 +1003,50 @@
       "duration_ms": 192380,
       "name": "Hero - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
+        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 187380,
+      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
     },
     {
       "added_at": null,
@@ -1055,30 +1079,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
-        "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 187380,
-      "name": "Drown (feat. Clinton Kane) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
         "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
       },
@@ -1099,26 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here We Go (Hey Boy, Hey Girl)",
-        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Here We Go (Hey Boy, Hey Girl)",
-      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensation",
         "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 174665,
       "name": "Sensation",
       "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here We Go (Hey Boy, Hey Girl)",
+        "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Here We Go (Hey Boy, Hey Girl)",
+      "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
     },
     {
       "added_at": null,

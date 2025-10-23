@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Madison forever an angel 💗💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,107,232 likes - 108 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,107,113 likes - 108 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,028 songs - 4 day 9 hr 5 min
+2,029 songs - 4 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,7 @@
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 | 2025-08-08 |  |
 | [Explosion](https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Explosion](https://open.spotify.com/album/20rt7cmBrpIM9iKGtOrWWq) | 3:06 | 2023-10-26 | 2024-02-09 |
-| [Extraordinär](https://open.spotify.com/track/5ruFvhnLQFmUxpDxkyp0Cv) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Extraordinär](https://open.spotify.com/album/0471t7yUn97TJ0Z23pAAPp) | 2:17 | 2025-09-25 |  |
+| [Extraordinär](https://open.spotify.com/track/5ruFvhnLQFmUxpDxkyp0Cv) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Extraordinär](https://open.spotify.com/album/0471t7yUn97TJ0Z23pAAPp) | 2:17 | 2025-09-25 | 2025-10-23 |
 | [F\*n va bra](https://open.spotify.com/track/5W4zgLC5lBqTZOeBx8rpT2) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [F\*n va bra](https://open.spotify.com/album/0xNDN5H4kvqo7n3057oAZZ) | 2:14 | 2024-04-26 | 2024-05-24 |
 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 | 2025-05-23 |  |
 | [Fade Into A Dream](https://open.spotify.com/track/77dJLayRVnZpqhReztMZ1l) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Fade Into A Dream](https://open.spotify.com/album/6GCENCYB7bj7ZKEZivC1as) | 2:51 | 2021-12-16 | 2022-05-13 |
@@ -762,6 +762,7 @@
 | [Hit and Run](https://open.spotify.com/track/7kf9xh5Xaa4bTE6ChoorYu) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hit and Run](https://open.spotify.com/album/7xtEVZCtImCqZOFKxwkShR) | 3:10 | 2022-03-10 | 2022-06-08 |
 | [Hit Me Up](https://open.spotify.com/track/4ujGi7FbYuGehdDf92mW4W) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Hit Me Up](https://open.spotify.com/album/36s8qD60OBWulfZUoqtlfj) | 2:28 | 2024-02-08 | 2024-02-16 |
 | [Hitta någon](https://open.spotify.com/track/4ynlOOjOoEU6mGveaHNJQ8) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hitta någon](https://open.spotify.com/album/4zt7rMMlgz1YMvkSGOzVna) | 2:17 | 2025-05-22 | 2025-09-26 |
+| [Hittat hem](https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3), [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Hittat hem](https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE) | 3:04 | 2025-10-16 |  |
 | [Hjärtan i brand](https://open.spotify.com/track/1mjSAufxOuJSTSY1i217qn) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Hjärtan i brand](https://open.spotify.com/album/6PwRzelXpodKRSOrm3qOLr) | 2:52 | 2024-03-07 | 2024-04-19 |
 | [Hjärtan i sanden](https://open.spotify.com/track/17dy0wgbBnd0FV206w5jz3) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [Hjärtan i sanden](https://open.spotify.com/album/4MT1Q26z105pJdEd82MtHC) | 3:12 | 2023-10-26 | 2024-02-09 |
 | [Hjärtattack](https://open.spotify.com/track/3fbGWzPkiNSKPjfQl4cFyc) | [MODE](https://open.spotify.com/artist/3juZ3UG7m6HjJTM1Oyz3kr), [StudioMode](https://open.spotify.com/artist/4v7EXvmI6QaJj5jAvmt2oe) | [Hjärtattack](https://open.spotify.com/album/3MSdOUeRxZ1WY0J9gwnJuB) | 2:55 | 2024-05-02 | 2024-05-24 |

@@ -4,7 +4,7 @@
 
 > Simply rain
 
-359 songs - 16 hr 31 min
+360 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Cosy Sunday Rain](https://open.spotify.com/track/7kUpfYMUijFCcNsKMnFvhv) | [Sjourn](https://open.spotify.com/artist/1XVR8eiXBwT6bnv7Bx6qFp) | [Cosy Sunday Rain](https://open.spotify.com/album/2nD8pACY6boiON9uVSaLJm) | 2:32 | 2022-11-16 | 2025-09-24 |
 | [Cozier Rain](https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO) | [Aqualogic](https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP) | [Late Night Drizzle](https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6) | 2:14 | 2021-11-08 |  |
 | [Cozy Midnight Rain](https://open.spotify.com/track/4VvuuVmZ0cWBexdOnpSAQ6) | [Aqualand](https://open.spotify.com/artist/5vMLhcMsB19f7u6bZ2f9GM) | [Cozy Midnight Rain](https://open.spotify.com/album/6CHXA9rmCyoti36afWq1AU) | 2:27 | 2022-11-16 |  |
+| [Crisp Rain](https://open.spotify.com/track/5RaYPTkKLybxCUmtq8dXW9) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Crisp Rain](https://open.spotify.com/album/6U5VOLhQw92Fm8hon9cDmG) | 2:39 | 2025-09-23 |  |
 | [Cuadro lluvioso \#1](https://open.spotify.com/track/3eXqbAlUa9tjjWHwcYiDtb) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Cuadros lluviosos](https://open.spotify.com/album/3lESRnfiOFJBTVFHqwfVQH) | 2:29 | 2023-02-13 | 2025-02-28 |
 | [Damp Camping](https://open.spotify.com/track/0a0ikMrb22bYbPyOoLvjNo) | [Unhappy Campers](https://open.spotify.com/artist/6fjsKLQve6XDhg870LDNo2) | [Wet Terrain](https://open.spotify.com/album/3HUBias9HKd0fxmDMZX9lD) | 2:33 | 2023-02-13 | 2025-02-28 |
 | [Darkened Nights](https://open.spotify.com/track/57fdbNKvnuUL0E5NxBEtsp) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Rainfall](https://open.spotify.com/album/1hcIsPiPlRtfRmY1pxpRXT) | 3:36 | 2021-11-08 |  |
@@ -122,7 +123,7 @@
 | [Heavy Rain Under Cover](https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5) | [Pioggia Notturna](https://open.spotify.com/artist/0Hus0cAybME524CqgViKck) | [Giardini](https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4) | 2:18 | 2021-11-08 |  |
 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2022-11-16 | 2025-10-08 |
 | [Hybrid Clouds](https://open.spotify.com/track/4mJnhL0Wxk8S1H3sKKeI5Q) | [Vapourse](https://open.spotify.com/artist/7EF6zIKi6Qb6Ky3Y9GSsxW) | [Enjoy The Sky](https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf) | 1:55 | 2021-11-08 | 2023-06-17 |
-| [in love with the sound of rain](https://open.spotify.com/track/74HrNfXAGVqeZwecmBPyl7) | [Sweet Nature](https://open.spotify.com/artist/61YIe67dmQ4BisRP0t40Tl) | [Relaxing Rain](https://open.spotify.com/album/66dp9VeQUqBNtZLk7L8m52) | 2:28 | 2022-11-16 |  |
+| [in love with the sound of rain](https://open.spotify.com/track/74HrNfXAGVqeZwecmBPyl7) | [Sweet Nature](https://open.spotify.com/artist/61YIe67dmQ4BisRP0t40Tl) | [Relaxing Rain](https://open.spotify.com/album/66dp9VeQUqBNtZLk7L8m52) | 2:28 | 2022-11-16 | 2025-10-23 |
 | [In The Clouds](https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg) | [The Stormwater](https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU) | [Weather Front](https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx) | 2:42 | 2021-11-08 |  |
 | [In The Spring](https://open.spotify.com/track/5T8Nx9uWYe5uqGGUygt657) | [Liquidge](https://open.spotify.com/artist/44CkWXtsMCZodXHR6EDFvP) | [Lifting Air](https://open.spotify.com/album/5LSCejKgU0qOmu0FWxquED) | 2:18 | 2021-11-08 |  |
 | [Infinity Drops](https://open.spotify.com/track/3X9pFeZuH3o1IcNSIFblfw) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Rain Sounds For Insomnia](https://open.spotify.com/album/0hhEtLrqoFfTleIsxfSdHY) | 2:42 | 2021-11-08 |  |

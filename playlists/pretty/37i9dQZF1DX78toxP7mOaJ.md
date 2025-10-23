@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Liquid Mike
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,617 likes - 152 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,636 likes - 152 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 151 | [A Fair Life](https://open.spotify.com/track/5UTfWvdVDA8dXQaL9iSuUH) | [The Youth Play](https://open.spotify.com/artist/66HAxyy84qo8z9CNDDUpwo) | [A Fair Life](https://open.spotify.com/album/72uIIt0fFEghe9DgHCz9sv) | 3:24 |
 | 152 | [Waves](https://open.spotify.com/track/5fi8Emf9BiIQGlRLVTGgS8) | [ISTA](https://open.spotify.com/artist/0Wo5Di3TXMWoJ5o99sXETX) | [Waves](https://open.spotify.com/album/5G2LYebIGGYd4U0JPE5Qa7) | 4:05 |
 
-Snapshot ID: `AAAAAOZLazWlDdy9KC3dPCnyFseTtvCA`
+Snapshot ID: `AAAAANlBCtGqBdO/5vtN+ED+r1rNSA/z`

@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: OG",
-  "num_followers": 466987,
+  "num_followers": 467391,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADZIvUmqfHg3KSkEwWeg3wuSNtD3",
+  "snapshot_id": "AAAAAGzVdcJupFCkQi8kePT9K47iqmMA",
   "tracks": [
     {
       "added_at": "2025-08-04 05:46:30",
@@ -281,6 +281,26 @@
       "url": "https://open.spotify.com/track/7peNClR7CbF9bDYCmOiy4L"
     },
     {
+      "added_at": "2025-10-22 07:37:22",
+      "album": {
+        "name": "Samarasimha Reddy",
+        "url": "https://open.spotify.com/album/6YXLhCltwciwzcth6xiA9z"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Chitra",
+          "url": "https://open.spotify.com/artist/4Wvw8PC3M8SQte331Dlloq"
+        }
+      ],
+      "duration_ms": 310597,
+      "name": "Nandamoori Nayaka",
+      "url": "https://open.spotify.com/track/1iMxSFjzfzZPajtimRKcGJ"
+    },
+    {
       "added_at": "2025-08-22 07:23:49",
       "album": {
         "name": "Mallika Gandha (From \"Telusu Kada\")",
@@ -387,6 +407,26 @@
       "duration_ms": 271964,
       "name": "Netho Cheppana",
       "url": "https://open.spotify.com/track/5RfNlQ6GrTWmAXpmUUhDzF"
+    },
+    {
+      "added_at": "2025-10-22 07:37:22",
+      "album": {
+        "name": "Aayudham",
+        "url": "https://open.spotify.com/album/327xDQpZuwBRIIgPdZPGwl"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Nishma",
+          "url": "https://open.spotify.com/artist/3vSAPYBGtvhVcYBhBzbuVu"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "Idemitamma",
+      "url": "https://open.spotify.com/track/2HYBqFoPNFhXerWnJAc5tx"
     },
     {
       "added_at": "2025-10-08 05:36:53",
@@ -887,26 +927,6 @@
     {
       "added_at": "2024-02-12 09:26:05",
       "album": {
-        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
-      },
-      "artists": [
-        {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 267682,
-      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
-      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
-    },
-    {
-      "added_at": "2024-02-12 09:26:05",
-      "album": {
         "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
         "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8"
-      },
-      "artists": [
-        {
-          "name": "Siddharth",
-          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
-        },
-        {
-          "name": "Prasanthini",
-          "url": "https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9"
-        }
-      ],
-      "duration_ms": 282426,
-      "name": "Oy..Oy..",
-      "url": "https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx"
     }
   ],
   "unique_name": "Trending Now Telugu",

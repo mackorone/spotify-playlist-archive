@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-798 songs - 1 day 16 hr 10 min
+799 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,6 +792,7 @@
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2023-11-16 | 2023-11-30 |
 | [Y Que Fue?](https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Y Que Fue?](https://open.spotify.com/album/6ZhfK221NirEZkXoXdTyQw) | 2:43 | 2025-05-08 |  |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 | 2023-05-01 | 2023-05-26 |
+| [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 | 2025-10-22 |  |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-17 |  |
 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 | 2024-07-03 | 2025-02-11 |
 | [You Will See](https://open.spotify.com/track/7l6AuWpDlecpVxI0Yq4zmI) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ) | [You Will See](https://open.spotify.com/album/3msZ8noFEpIw19fsd3fxay) | 2:23 | 2024-03-26 | 2024-11-01 |

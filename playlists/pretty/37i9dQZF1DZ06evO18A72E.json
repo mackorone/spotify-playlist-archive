@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777616,
+  "num_followers": 777664,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADbFMAdUXKZf3D65CulKcy/",
+  "snapshot_id": "aPbNAAAAAABRNKefpPFNAt9py+Rs4HsC",
   "tracks": [
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 189132,
-      "name": "Into the Unknown - Panic! At The Disco Version",
-      "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
+      "duration_ms": 213520,
+      "name": "Let's Kill Tonight",
+      "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
       "artists": [
         {
@@ -432,9 +432,25 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 213520,
-      "name": "Let's Kill Tonight",
-      "url": "https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig"
+      "duration_ms": 189132,
+      "name": "Into the Unknown - Panic! At The Disco Version",
+      "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Karma Police - Live In Denver",
+      "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
     },
     {
       "added_at": null,
@@ -451,6 +467,22 @@
       "duration_ms": 186600,
       "name": "Roaring 20s",
       "url": "https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Sarah Smiles",
+      "url": "https://open.spotify.com/track/00h6syYCxPKVsInPHXhdZ1"
     },
     {
       "added_at": null,
@@ -487,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Tonight, Tonight - Live In Denver",
+      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -496,25 +544,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 213320,
-      "name": "Sarah Smiles",
-      "url": "https://open.spotify.com/track/00h6syYCxPKVsInPHXhdZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 160746,
-      "name": "King of the Clouds",
-      "url": "https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb"
+      "duration_ms": 256466,
+      "name": "Nearly Witches (Ever Since We Met...)",
+      "url": "https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL"
     },
     {
       "added_at": null,
@@ -551,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 160746,
+      "name": "King of the Clouds",
+      "url": "https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -560,9 +608,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 256466,
-      "name": "Nearly Witches (Ever Since We Met...)",
-      "url": "https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL"
+      "duration_ms": 217026,
+      "name": "Ready to Go (Get Me Out of My Mind)",
+      "url": "https://open.spotify.com/track/7m4HUtdXRUHEitLIqbVWxf"
     },
     {
       "added_at": null,
@@ -628,9 +676,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Ready to Go (Get Me Out of My Mind)",
-      "url": "https://open.spotify.com/track/7m4HUtdXRUHEitLIqbVWxf"
+      "duration_ms": 265333,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs"
     },
     {
       "added_at": null,
@@ -683,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
       "artists": [
         {
@@ -692,9 +740,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 265333,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs"
+      "duration_ms": 200333,
+      "name": "I Write Sins Not Tragedies - Live In Denver",
+      "url": "https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8"
     },
     {
       "added_at": null,

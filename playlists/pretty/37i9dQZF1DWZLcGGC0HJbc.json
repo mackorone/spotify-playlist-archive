@@ -1,6 +1,6 @@
 {
   "description": "als het woud een playlist zou zijn",
-  "num_followers": 96153,
+  "num_followers": 96158,
   "original_name": "indie folk vibes",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-10-17 07:57:43",
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 282559,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD"
+    },
+    {
+      "added_at": "2025-10-17 07:57:43",
+      "album": {
         "name": "For Tomorrow's Sake",
         "url": "https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 208180,
       "name": "happiness - live",
       "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
-    },
-    {
-      "added_at": "2025-10-17 07:57:43",
-      "album": {
-        "name": "Ashes",
-        "url": "https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 282559,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD"
     },
     {
       "added_at": "2025-10-17 07:57:43",
@@ -791,8 +791,8 @@
     {
       "added_at": "2025-10-17 07:57:43",
       "album": {
-        "name": "Peach Sky",
-        "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
+        "name": "In My House / Like A Thorn",
+        "url": "https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
         }
       ],
-      "duration_ms": 181806,
-      "name": "Peach Sky",
-      "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
+      "duration_ms": 183088,
+      "name": "In My House",
+      "url": "https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3"
     },
     {
       "added_at": "2025-10-17 07:57:43",

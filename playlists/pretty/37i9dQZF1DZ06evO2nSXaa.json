@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 350980,
+  "num_followers": 351404,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAAFFqo/Q0FUk2+AoDbvjJzQ",
+  "snapshot_id": "aPbNAAAAAACU9YNMq7kMm7aYU/VgYZid",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 175956,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
     },
     {
       "added_at": null,
@@ -204,9 +188,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 152049,
-      "name": "guilty conscience",
-      "url": "https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P"
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 152049,
+      "name": "guilty conscience",
+      "url": "https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 203480,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 122416,
-      "name": "hurt my feelings",
-      "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
     },
     {
       "added_at": null,
@@ -327,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 122416,
+      "name": "hurt my feelings",
+      "url": "https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i used to think i could fly",
         "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 175533,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 180392,
-      "name": "we're not alike",
-      "url": "https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 180392,
+      "name": "we're not alike",
+      "url": "https://open.spotify.com/track/0tFRxPQHvAUMTbWYRJUo8R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 133562,
-      "name": "think later",
-      "url": "https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 173826,
       "name": "stupid",
       "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 133562,
+      "name": "think later",
+      "url": "https://open.spotify.com/track/44c9MsAwxoAdAYpCVRBAG1"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
       "duration_ms": 187386,
       "name": "r u ok",
       "url": "https://open.spotify.com/track/2ng0NW0HhJK0KTNZzZajRv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "all my friends are fake",
-      "url": "https://open.spotify.com/track/3xF2FcXiJjWQUqUYvrp4NT"
     }
   ],
   "unique_name": "This Is Tate McRae",

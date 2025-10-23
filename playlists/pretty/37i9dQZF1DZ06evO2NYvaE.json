@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 46090,
+  "num_followers": 46112,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAB5vIhySQopq1PmExielApH",
+  "snapshot_id": "aPbNAAAAAABmzBIPK8VrGKnLuTanOkvw",
   "tracks": [
     {
       "added_at": null,
@@ -167,38 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Be",
-        "url": "https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 245830,
-      "name": "Blessed Be",
-      "url": "https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
         "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
       },
@@ -223,6 +191,38 @@
       "duration_ms": 231848,
       "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
       "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/6Pd8HUW71iIjalkxJbo8FP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed Be",
+        "url": "https://open.spotify.com/album/0ZauJNaozUOLRC4kaaWzP5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 245830,
+      "name": "Blessed Be",
+      "url": "https://open.spotify.com/track/6EJwjtqOu69c0NRAk4RRcA"
     },
     {
       "added_at": null,
@@ -330,15 +330,11 @@
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
         }
       ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket - feat. Sam Carter",
-      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+      "duration_ms": 237693,
+      "name": "The Summit",
+      "url": "https://open.spotify.com/track/6PmAWNUMqIJbTbfCOuhwSf"
     },
     {
       "added_at": null,
@@ -398,11 +394,15 @@
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
         }
       ],
-      "duration_ms": 237693,
-      "name": "The Summit",
-      "url": "https://open.spotify.com/track/6PmAWNUMqIJbTbfCOuhwSf"
+      "duration_ms": 198067,
+      "name": "Yellowjacket - feat. Sam Carter",
+      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
     },
     {
       "added_at": null,

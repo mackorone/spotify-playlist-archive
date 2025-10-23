@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAA0ICqmVsQZ+7yhrYgdU3hk",
+  "snapshot_id": "aPbNAAAAAAAhGNkq8spo9uvJzXNpbLe4",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164933,
-      "name": "American in Paris",
-      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+      "duration_ms": 164933,
+      "name": "American in Paris",
+      "url": "https://open.spotify.com/track/5gB9Gv6bWUDEThBzZA4gDj"
     },
     {
       "added_at": null,

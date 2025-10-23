@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400 likes - 28 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399 likes - 28 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 27 | [Summer](https://open.spotify.com/track/5cDp8qgQCsni5pD2YKdh5J) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS) | 5:01 |
 | 28 | [Bloom](https://open.spotify.com/track/56qwKyIluESgf6AfXO3CAf) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS) | 4:37 |
 
-Snapshot ID: `aPV7gAAAAACEYQEkTtn1KmmnLe2nNTjJ`
+Snapshot ID: `aPbNAAAAAACLkR2ZsMfw3ytO3hLsVFKq`

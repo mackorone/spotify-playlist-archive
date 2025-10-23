@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 73818,
+  "num_followers": 73824,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABOCUJIDQf7EFnOiD7mHNa9",
+  "snapshot_id": "aPbNAAAAAAD9yNvR17tHGnaL4LlUHFJx",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 354853,
-      "name": "\u7f8e\u5f71\u610f\u5fd7",
-      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7\uff54\uff48 Trigger",
         "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 275306,
       "name": "AWAYOKUBA-\u65ac\u308b",
       "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+        "name": "PROGLUTION",
+        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 328506,
-      "name": "MONDO PIECE",
-      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
+      "duration_ms": 272000,
+      "name": "\u6d6e\u4e16CROSSING",
+      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PROGLUTION",
-        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 272000,
-      "name": "\u6d6e\u4e16CROSSING",
-      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
+      "duration_ms": 328506,
+      "name": "MONDO PIECE",
+      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
     },
     {
       "added_at": null,

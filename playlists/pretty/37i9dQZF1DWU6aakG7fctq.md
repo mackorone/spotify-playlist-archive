@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: ZTVZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,700 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,643 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 9 | [Azul](https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Azul](https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH) | 3:22 |
 | 10 | [cohete](https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [cohete](https://open.spotify.com/album/18Gy88oYgwb0ddL7hPhcuh) | 3:03 |
 | 11 | [Desvelado](https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Desvelado](https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr) | 2:54 |
-| 12 | [Déjame Ser](https://open.spotify.com/track/5HE4LJrZlzTgadmAiCCEwR) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Alex etc.](https://open.spotify.com/artist/5HJfikshCXA946oV7QhUZG) | [Déjame Ser](https://open.spotify.com/album/5USUPhUOkht1gE290mq8Cj) | 2:55 |
+| 12 | [Déjame Ser](https://open.spotify.com/track/5HE4LJrZlzTgadmAiCCEwR) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Alex etc.](https://open.spotify.com/artist/5HJfikshCXA946oV7QhUZG) | [Déjame Ser](https://open.spotify.com/album/5USUPhUOkht1gE290mq8Cj) | 2:57 |
 | 13 | [Only A Dream](https://open.spotify.com/track/28Z2OxIisSLEPQqpPwOXRU) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Only A Dream](https://open.spotify.com/album/5dcXpnLc2tOZCIgUBsMHMu) | 4:01 |
 | 14 | [Autostop](https://open.spotify.com/track/1GKikZgdJliKOTAdkYm09d) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Autostop](https://open.spotify.com/album/5gq24maZQ3liS0IROVFOEf) | 3:16 |
 | 15 | [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 |

@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26454,
+  "num_followers": 26452,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Let You Love Me",
+        "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Swing (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 269431,
       "name": "Swing - Mahmut Orhan Remix",
       "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Let You Love Me",
-        "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Let You Love Me",
-      "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Like It Is",
         "url": "https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Polaroid",
-        "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        },
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        }
-      ],
-      "duration_ms": 193377,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 225972,
       "name": "Heart to Break",
       "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        },
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 193377,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Call Me Now",
-        "url": "https://open.spotify.com/album/2DAC8ojG0pgvJUoiwmcS3F"
-      },
-      "artists": [
-        {
-          "name": "Michael Calfan",
-          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 146866,
-      "name": "Call Me Now",
-      "url": "https://open.spotify.com/track/5ZSIKIjJtKnqT9lJcP6BvM"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "FRIENDS KEEP SECRETS 2",
         "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 169094,
       "name": "You (with Marshmello & Vance Joy)",
       "url": "https://open.spotify.com/track/3wCk9LASPqyp2VovekThtF"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Call Me Now",
+        "url": "https://open.spotify.com/album/2DAC8ojG0pgvJUoiwmcS3F"
+      },
+      "artists": [
+        {
+          "name": "Michael Calfan",
+          "url": "https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 146866,
+      "name": "Call Me Now",
+      "url": "https://open.spotify.com/track/5ZSIKIjJtKnqT9lJcP6BvM"
     },
     {
       "added_at": "2024-07-03 14:32:39",

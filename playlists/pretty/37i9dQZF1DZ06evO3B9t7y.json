@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1094858,
+  "num_followers": 1095039,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADb8E3q9T+BdEO5OterOrUK",
+  "snapshot_id": "aPbNAAAAAABk4lQQB8S4nRJZURNAAo+6",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In\u00e9dito",
         "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
       },
@@ -639,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+      "duration_ms": 159200,
+      "name": "\u20601",
+      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
       "duration_ms": 168124,
       "name": "El Correcto",
       "url": "https://open.spotify.com/track/0rvGl8ZQBLhOZcqc33gPbw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "\u20601",
-      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
     },
     {
       "added_at": null,
@@ -759,6 +759,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Otra Vida - Con Carin Leon",
+        "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 150974,
+      "name": "En Otra Vida - Con Carin Leon",
+      "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 154525,
       "name": "Decret\u00e9",
       "url": "https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Otra Vida - Con Carin Leon",
-        "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 150974,
-      "name": "En Otra Vida - Con Carin Leon",
-      "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
     },
     {
       "added_at": null,

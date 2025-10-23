@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 66 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 20 | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/track/0rwaGvuSd4rCKuCt9w82Nm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/album/5at4UMpAW5bTh8d4jLeUmz) | 3:36 |
 | 21 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
 | 22 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
-| 23 | [Let it Lie](https://open.spotify.com/track/7gT2JSjZWWw1EvZfnuFie4) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let it Lie](https://open.spotify.com/album/5KYxtISj2XF8yd14w2r25S) | 2:32 |
-| 24 | [Cute Aggression](https://open.spotify.com/track/0OINNXl2Ig4r1WkkYm5L1M) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:36 |
+| 23 | [Cute Aggression](https://open.spotify.com/track/0OINNXl2Ig4r1WkkYm5L1M) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:36 |
+| 24 | [Let it Lie](https://open.spotify.com/track/7gT2JSjZWWw1EvZfnuFie4) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let it Lie](https://open.spotify.com/album/5KYxtISj2XF8yd14w2r25S) | 2:32 |
 | 25 | [Straitjacket \- Bonus Track](https://open.spotify.com/track/318jRYcDGfYdKHFaQRwMIC) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:40 |
 | 26 | [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 |
 | 27 | [Faccio un casino](https://open.spotify.com/track/1knOlvwv1A6AVadKwM2UR8) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/1r3kQVZ87tRU00QVzvN0oO) | 2:53 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 30 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 |
 | 31 | [Cruise Control](https://open.spotify.com/track/6KHznvkaHF4g5oZDYCBU8c) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 2](https://open.spotify.com/album/6yy1V5XpYgD9u7s6mDBxxL) | 3:22 |
 | 32 | [3D Woman](https://open.spotify.com/track/1BNJP9eruFJyNKvbe6J2m7) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [One Bad Night](https://open.spotify.com/album/0kIaHXgYSK2eE5Makr8vdK) | 3:05 |
-| 33 | [American Adrenaline](https://open.spotify.com/track/5UFAGUdeoNHlm0Y6nLH8Fo) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 2:43 |
-| 34 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
+| 33 | [French Riviera](https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [French Riviera](https://open.spotify.com/album/3Irs9pckio6dyVVeNt3LQL) | 3:35 |
+| 34 | [American Adrenaline](https://open.spotify.com/track/5UFAGUdeoNHlm0Y6nLH8Fo) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [KAWALA Collection](https://open.spotify.com/album/2Pv5jT6q20fLACpKLLZpIt) | 2:43 |
 | 35 | [Talk to Me](https://open.spotify.com/track/7IWE8DBJVrIas5nODDWK4h) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/1trxnFmxnQgpGBQRupbTjZ) | 2:53 |
 | 36 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
 | 37 | [Echoes](https://open.spotify.com/track/3UXZT8ySbWDR5lwD9MS2KM) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Atmosphere](https://open.spotify.com/album/483EKCZkSrdOZ5dEsew7sV) | 3:20 |
@@ -74,7 +74,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 64 | [Dandelion](https://open.spotify.com/track/21ajEr2zd8s87TRnnweZZ3) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2) | [Do What Makes You Happy](https://open.spotify.com/album/4EA5ATYJ4DsZSOq5eRAKzE) | 3:06 |
 | 65 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 66 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
-| 67 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
-| 68 | [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 |
 
-Snapshot ID: `Ab/fMgAAAAD15KJ08qfSJnW4ueodkRT3`
+Snapshot ID: `Ab/k3AAAAABDnQXugp7bBU3ALO7N5d7h`

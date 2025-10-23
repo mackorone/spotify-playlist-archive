@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1056616,
+  "num_followers": 1056787,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACS6S+pR/kBhP6h5UAgd3bd",
+  "snapshot_id": "aPbNAAAAAACvBzgkMVinFxGd9msx7SMt",
   "tracks": [
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 195893,
-      "name": "El Problema - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/30pKCtnq9axMXlyLat7Rnu"
+      "duration_ms": 199293,
+      "name": "El Sill\u00f3n",
+      "url": "https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 199293,
-      "name": "El Sill\u00f3n",
-      "url": "https://open.spotify.com/track/4SHTLje9c6RLnx6kOPt9L6"
+      "duration_ms": 195893,
+      "name": "El Problema - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/30pKCtnq9axMXlyLat7Rnu"
     },
     {
       "added_at": null,
@@ -351,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Tu Amor Es M\u00edo",
+      "url": "https://open.spotify.com/track/5yisW7LnNMivTeZP4Wk7Wb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 196666,
       "name": "Seguramente",
       "url": "https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Tu Amor Es M\u00edo",
-      "url": "https://open.spotify.com/track/5yisW7LnNMivTeZP4Wk7Wb"
     },
     {
       "added_at": null,

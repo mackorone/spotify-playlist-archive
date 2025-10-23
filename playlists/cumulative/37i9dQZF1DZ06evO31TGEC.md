@@ -4,7 +4,7 @@
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 4 min
+102 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Que Se Mueran De Envidia](https://open.spotify.com/track/3Sdwkjg9DUWcrydhmpzYRh) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Que Se Mueran De Envidia](https://open.spotify.com/album/57idnjdwyf4z35QGSSdbId) | 2:55 | 2023-12-19 | 2024-01-13 |
 | [Que Se Mueran de Envidia](https://open.spotify.com/track/06kCDtb1mG5nCjf8VOZmxD) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Que Se Mueran de Envidia](https://open.spotify.com/album/040eUd8jkUXnYW8ceUAVOQ) | 3:34 | 2022-06-01 |  |
 | [Que Te Ha Dado Esa Mujer](https://open.spotify.com/track/5RPtcMJ9q1zfgw2OfTbFlQ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Exitos](https://open.spotify.com/album/56x9DFswcIstlVuPa0WG13) | 3:15 | 2022-06-01 | 2022-10-13 |
-| [Quisiera Ser Un Mago](https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 2:56 | 2023-02-24 |  |
+| [Quisiera Ser Un Mago](https://open.spotify.com/track/7cd0tW4ARJtOLRxPQxGhU0) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 2:56 | 2023-02-24 | 2025-10-23 |
+| [Quisiera Ser Un Mago](https://open.spotify.com/track/0u4zq0V8sImdJD3vfX1KUs) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Quisiera Ser Un Mago](https://open.spotify.com/album/4A5Nj0jfBvn0U69gbSizWC) | 2:57 | 2025-10-23 |  |
 | [Recostada En La Cama](https://open.spotify.com/track/50tmOF513elS7K3HrwYq29) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:02 | 2022-06-01 |  |
 | [Regalo del Cielo](https://open.spotify.com/track/28YNal6Gsq8v6xDNfXQ717) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corazon de Nino](https://open.spotify.com/album/5Q38BESdZOYUbUQokXuBJh) | 2:40 | 2023-11-10 |  |
 | [Salvaje](https://open.spotify.com/track/1kiTM1ByxHSTFscROWBH86) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Salvaje](https://open.spotify.com/album/2NQx76UjA38rcdzf76vG8G) | 2:57 | 2025-06-22 | 2025-09-16 |

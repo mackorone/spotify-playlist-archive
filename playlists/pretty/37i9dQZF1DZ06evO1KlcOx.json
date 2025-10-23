@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACq/GNn3kCY3S0HyjydThJL",
+  "snapshot_id": "aPbNAAAAAABdy1P53mtCrQcWK6eYYM+X",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Water People 7\"",
-        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
+        "name": "Cover the Windows and the Walls",
+        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 247713,
-      "name": "Water People",
-      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
+      "duration_ms": 362253,
+      "name": "It Feels Alright",
+      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cover the Windows and the Walls",
-        "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
       },
       "artists": [
         {
@@ -596,25 +596,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 362253,
-      "name": "It Feels Alright",
-      "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "Towers",
-      "url": "https://open.spotify.com/track/16B3iA9vo22DeOe8ohyTcZ"
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Little Boat/Bone Dance (Audrey)",
-      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+      "duration_ms": 319200,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/16B3iA9vo22DeOe8ohyTcZ"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Little Boat/Bone Dance (Audrey)",
+      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 313680,
       "name": "A Lie",
       "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 317749,
       "name": "Basement Mix",
       "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "added_at": null,

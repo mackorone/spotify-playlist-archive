@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173279,
+  "num_followers": 173277,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAD2oEv+J3JWaOvip6WPblNM",
+  "snapshot_id": "aPbNAAAAAAAw3/zDXNxWn35vyoVr34ay",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
-      },
-      "artists": [
-        {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essa \u00c9 a Nossa M\u00fasica",
         "url": "https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 237120,
       "name": "Seu Jogo",
       "url": "https://open.spotify.com/track/7eCfwimC5tQcGIEd4BkX5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": null,
@@ -807,26 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
       "artists": [
         {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
         }
       ],
-      "duration_ms": 249373,
-      "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
-      "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+      "duration_ms": 340080,
+      "name": "A Ordem Natural das Coisas / Chiclete com Banana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu"
     },
     {
       "added_at": null,
@@ -875,22 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
         },
         {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 340080,
-      "name": "A Ordem Natural das Coisas / Chiclete com Banana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu"
+      "duration_ms": 249373,
+      "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
     },
     {
       "added_at": null,
@@ -1083,30 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
-      },
-      "artists": [
-        {
-          "name": "Cidade Negra",
-          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Oi Compadre - Ao Vivo",
-      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Sou a Mar\u00e9 Viva",
         "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 274145,
       "name": "Manifesto (feat. Lenine & Emicida)",
       "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Oi Compadre - Ao Vivo",
+      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
     },
     {
       "added_at": null,

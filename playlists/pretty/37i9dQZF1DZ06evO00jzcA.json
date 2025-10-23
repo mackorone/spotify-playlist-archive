@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 482873,
+  "num_followers": 482951,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAC6eRlfPxghBNCWcERVxWpv",
+  "snapshot_id": "aPbNAAAAAABFI5gXfDMeuVOnkBBC8RS+",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 240266,
-      "name": "Reason To Live",
-      "url": "https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb"
+      "duration_ms": 169026,
+      "name": "Shout It Out Loud",
+      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Shout It Out Loud",
-      "url": "https://open.spotify.com/track/3qyHjQ1zTLvPeA99CP3K9N"
+      "duration_ms": 240266,
+      "name": "Reason To Live",
+      "url": "https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psycho Circus",
-        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 330360,
-      "name": "Psycho Circus",
-      "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 295386,
       "name": "2,000 Man",
       "url": "https://open.spotify.com/track/3TjM3SIVQksTj3pNVUZPv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 330360,
+      "name": "Psycho Circus",
+      "url": "https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psycho Circus",
-        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "We Are One",
-      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unmasked",
         "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 216866,
       "name": "Shandi",
       "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psycho Circus",
+        "url": "https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "We Are One",
+      "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
     },
     {
       "added_at": null,
@@ -564,41 +564,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 279066,
-      "name": "Every Time I Look At You",
-      "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 366533,
-      "name": "I Still Love You - 2022 Remastered",
-      "url": "https://open.spotify.com/track/5InrTlQeClBr55lHREONCp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotter Than Hell",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Hotter Than Hell",
-      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
+      "duration_ms": 240493,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
     },
     {
       "added_at": null,
@@ -619,6 +587,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Hotter Than Hell",
+      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 366533,
+      "name": "I Still Love You - 2022 Remastered",
+      "url": "https://open.spotify.com/track/5InrTlQeClBr55lHREONCp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revenge",
         "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 240493,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
+      "duration_ms": 279066,
+      "name": "Every Time I Look At You",
+      "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "100,000 Years",
+      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Gun",
         "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 264133,
       "name": "Hide Your Heart",
       "url": "https://open.spotify.com/track/47o525G86mLspoGnUCaMd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "100,000 Years",
-      "url": "https://open.spotify.com/track/4G6sunnUbGwwcvsXZeebjh"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 783218,
+  "num_followers": 783369,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Doll Domination (Deluxe)",
         "url": "https://open.spotify.com/album/7mDkWKTghwBDuHCJmH6qR5"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 245680,
       "name": "When I Grow Up",
       "url": "https://open.spotify.com/track/21pySLskKIKrhDziCX5ojQ"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "If U Seek Amy",
-      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "If U Seek Amy",
+      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
+        "name": "Pink Venom",
+        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Pink Venom",
+      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
         "name": "Chromatica",
         "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Pink Venom",
-        "url": "https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Pink Venom",
-      "url": "https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 177813,
       "name": "Ice Cream (with Selena Gomez)",
       "url": "https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Everybody (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Pink Friday Girls",
-      "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Love. Angel. Music. Baby. (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 222360,
       "name": "Bubble Pop Electric",
       "url": "https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Pink Friday Girls",
+      "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
     },
     {
       "added_at": "2025-04-04 04:00:30",

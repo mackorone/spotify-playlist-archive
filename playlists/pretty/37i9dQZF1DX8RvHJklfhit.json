@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 214515,
+  "num_followers": 214588,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Nuestra",
-        "url": "https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt"
-      },
-      "artists": [
-        {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Flamingo",
-      "url": "https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 181894,
       "name": "Ambar Bossa Nova - Spotify Singles",
       "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Nuestra",
+        "url": "https://open.spotify.com/album/7kSxnf1JIMeFMIKKC5xDtt"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Flamingo",
+      "url": "https://open.spotify.com/track/0KuIShA8b0JR6X94q8JuoV"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Verano Panor\u00e1mico",
-        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 127704,
-      "name": "That's Playa",
-      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "\u00bfYpqsp?",
         "url": "https://open.spotify.com/album/2uhxgkK5p7FmO1KQ0IPjmX"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 272511,
       "name": "\u00bfYpqsp?",
       "url": "https://open.spotify.com/track/0llXdaOFchJsMrPJTikF9D"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Verano Panor\u00e1mico",
+        "url": "https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 127704,
+      "name": "That's Playa",
+      "url": "https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe"
     },
     {
       "added_at": "2024-07-12 18:08:37",

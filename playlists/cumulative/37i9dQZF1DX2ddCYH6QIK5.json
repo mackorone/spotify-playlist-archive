@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Leon Wiesmann, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: berlinangst, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5cYeXD8v7lb1GL8EeHxbl8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Glass",
+          "url": "https://open.spotify.com/artist/2vd3rkxlOKCMJYEkpKruY1"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185978,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7L2Xv2vNjfAgoiSzfg9bSe"
+    },
+    {
+      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/4pmuwZkuQCrdlLsLPxsqrc"
       },
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 197342,
       "name": "als w\u00e4re es egal",
       "url": "https://open.spotify.com/track/70MyEMBQ3lUBxBwIXkqeAI"
@@ -7298,7 +7316,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 211714,
       "name": "Elvis",
       "url": "https://open.spotify.com/track/5mOt1FMCEano6QdVSQYeIP"
@@ -8294,7 +8312,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 196776,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5XEjlY8KYNzHNpPo9OfDMr"
@@ -9396,7 +9414,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 179574,
       "name": "givenchy",
       "url": "https://open.spotify.com/track/6OF8uQoDLYe7JRqAF4dDrh"
@@ -11522,7 +11540,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 151516,
       "name": "H\u00f6rt auf",
       "url": "https://open.spotify.com/track/1c5QeFZU1CvSi9fk6bSFBj"
@@ -12838,6 +12856,24 @@
       "duration_ms": 254769,
       "name": "Jagen",
       "url": "https://open.spotify.com/track/3SoRTfoCmMsGbmJro8YT2I"
+    },
+    {
+      "album": {
+        "name": "Jeany",
+        "url": "https://open.spotify.com/album/4j4xh2NA2QHB1cORCMNCLk"
+      },
+      "artists": [
+        {
+          "name": "berlinangst",
+          "url": "https://open.spotify.com/artist/1FikoOp5PSvhAkKjbbfqCf"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jeany",
+      "url": "https://open.spotify.com/track/60dw0UxHu6rZyQVLaQ0YlD"
     },
     {
       "album": {
@@ -15530,7 +15566,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 210386,
       "name": "Maybe Tonight",
       "url": "https://open.spotify.com/track/3AaLsQGkdjAjNoeMejbfpO"
@@ -16459,6 +16495,24 @@
     },
     {
       "album": {
+        "name": "My Love Is Easy",
+        "url": "https://open.spotify.com/album/2Mgy8YTVohBk1TJSYFbRnc"
+      },
+      "artists": [
+        {
+          "name": "l\u00f9isa",
+          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203273,
+      "name": "My Love Is Easy",
+      "url": "https://open.spotify.com/track/37mIBIb4vG4fq1eSL4hInp"
+    },
+    {
+      "album": {
         "name": "MY SONG",
         "url": "https://open.spotify.com/album/73Yc4JuapVcQXfqYCSOXSM"
       },
@@ -16940,6 +16994,24 @@
       "duration_ms": 228853,
       "name": "Night Dive",
       "url": "https://open.spotify.com/track/3HTmeBzVuuIDVipmH1LYUA"
+    },
+    {
+      "album": {
+        "name": "Nightlight",
+        "url": "https://open.spotify.com/album/7msnEn18aVUSzst2YjAq7g"
+      },
+      "artists": [
+        {
+          "name": "Brandomusik",
+          "url": "https://open.spotify.com/artist/2UppD2T7doeKjdDYUKAw35"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191428,
+      "name": "Nightlight",
+      "url": "https://open.spotify.com/track/5QtPuYCjj22bKXfEkrjkUC"
     },
     {
       "album": {
@@ -20553,6 +20625,24 @@
     },
     {
       "album": {
+        "name": "Saldr\u00e1s De Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5FCLfAFRv7b9FtD2BFBtNw"
+      },
+      "artists": [
+        {
+          "name": "Joel Miles",
+          "url": "https://open.spotify.com/artist/6rdwSiFsCT89qffpb3Q4hR"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Saldr\u00e1s De Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4r8TdSopFCzdNl6Zo2vIpN"
+    },
+    {
+      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/0L3BXG37WlJRAz80lgwGYO"
       },
@@ -23531,6 +23621,28 @@
     },
     {
       "album": {
+        "name": "Taugenichts",
+        "url": "https://open.spotify.com/album/7dtgSWiV8N8WFkkZZAqcFA"
+      },
+      "artists": [
+        {
+          "name": "Anderswo",
+          "url": "https://open.spotify.com/artist/5h3y3xLjFKmB8LcL5sM74H"
+        },
+        {
+          "name": "prodbydako",
+          "url": "https://open.spotify.com/artist/6baDmua5CWw4wDDGBq3htg"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Taugenichts",
+      "url": "https://open.spotify.com/track/7aZhWlevNi6KQ2ZEhNSXLY"
+    },
+    {
+      "album": {
         "name": "Tausend Tage",
         "url": "https://open.spotify.com/album/1KCUc8t5F1Avqb1nWBkJgZ"
       },
@@ -25781,6 +25893,24 @@
     },
     {
       "album": {
+        "name": "Vietnam",
+        "url": "https://open.spotify.com/album/4UvfGpafs46ZvaLA7THMDg"
+      },
+      "artists": [
+        {
+          "name": "SOFTPOWER",
+          "url": "https://open.spotify.com/artist/72uwIRIojHpm4ufG7sL375"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183318,
+      "name": "Vietnam",
+      "url": "https://open.spotify.com/track/4amFrAHWTm6rsuQUGXP6a3"
+    },
+    {
+      "album": {
         "name": "Villain",
         "url": "https://open.spotify.com/album/1PzmgB0ZiowDNC68xdEWRV"
       },
@@ -26918,7 +27048,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 208524,
       "name": "Wie du liebst",
       "url": "https://open.spotify.com/track/5FYjxZvMgWtrrFMfqXKjzH"

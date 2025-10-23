@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Paco\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,043 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,066 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [crisis EXistencial](https://open.spotify.com/track/0wFt3NziYE88OQBfraoZ2b) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [crisis EXistencial](https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin) | 3:15 |
 | 50 | [Me Caigo](https://open.spotify.com/track/0Q9YmrINbpJss0MBVSfMeE) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Me Caigo](https://open.spotify.com/album/3mIzqnZrrwgdJx7ojyFU9v) | 1:43 |
 
-Snapshot ID: `AAAAAH9wgoMo0nOjke8nZoJuB0sNl98b`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

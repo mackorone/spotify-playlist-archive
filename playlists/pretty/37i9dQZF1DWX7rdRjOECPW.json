@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1599364,
+  "num_followers": 1599194,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "A me mi piace",
-        "url": "https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 140669,
-      "name": "A me mi piace",
-      "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "A me mi piace",
+        "url": "https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 140669,
+      "name": "A me mi piace",
+      "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "JHart",
+          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
+        }
+      ],
+      "duration_ms": 158150,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 153103,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "PRIDE",
-        "url": "https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "JHart",
-          "url": "https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ"
-        }
-      ],
-      "duration_ms": 158150,
-      "name": "PRIDE",
-      "url": "https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO"
     }
   ],
   "unique_name": "Sommerhits 2025",

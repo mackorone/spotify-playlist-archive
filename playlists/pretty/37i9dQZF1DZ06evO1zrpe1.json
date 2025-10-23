@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAB+c2mB8ug228dtgMMqa7FH",
+  "snapshot_id": "aPbNAAAAAABjNMfUGH4nVZz2TtrPn0FW",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Hablamos en Tijuana",
-        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 167223,
-      "name": "Asi Hablamos en Tijuana",
-      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00edtame ese Hombre",
         "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 196874,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Asi Hablamos en Tijuana",
+        "url": "https://open.spotify.com/album/1ZJdq8T70yjgAoQ5dq6t7Z"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 167223,
+      "name": "Asi Hablamos en Tijuana",
+      "url": "https://open.spotify.com/track/5yR0SsJoB4Z8ZnUU2DTOaU"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "La Que Sigue de Mi",
+      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belik Bellak",
         "url": "https://open.spotify.com/album/4R4iKszPrXW6tqCpz3v3qX"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 163125,
       "name": "Belik Bellak",
       "url": "https://open.spotify.com/track/3yy00SXfaBb6pDgbMcd7qW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "La Que Sigue de Mi",
-      "url": "https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fuimos",
-        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "No Fuimos",
-      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contundente",
         "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 171392,
       "name": "La Catedral",
       "url": "https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Fuimos",
+        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "No Fuimos",
+      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Ya Sabemos",
         "url": "https://open.spotify.com/album/0DFY26ziXu4HvSIC3Mi3KS"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 216132,
       "name": "Si Ya Sabemos",
       "url": "https://open.spotify.com/track/4QLGl9Uknn2xmIH8589tqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cigarra",
-        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 241726,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 212803,
       "name": "Al\u00e9rgica",
       "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cigarra",
+        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 241726,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
     },
     {
       "added_at": null,
@@ -484,41 +484,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 199582,
-      "name": "Si no vas a Volver para Quedarte",
-      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentimientos de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "Sentimientos de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+      "duration_ms": 200728,
+      "name": "Yo soy Buena Mujer",
+      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
     },
     {
       "added_at": null,
@@ -539,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentimientos de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "Sentimientos de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -548,9 +548,25 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 200728,
-      "name": "Yo soy Buena Mujer",
-      "url": "https://open.spotify.com/track/5TPe8X3ngcYaglWrocitbz"
+      "duration_ms": 199582,
+      "name": "Si no vas a Volver para Quedarte",
+      "url": "https://open.spotify.com/track/270VW4EqAzP7tzliEmpmuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 231971,
+      "name": "Empiezo a Recordarte - En Vivo",
+      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
     },
     {
       "added_at": null,
@@ -567,6 +583,38 @@
       "duration_ms": 214954,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Nuevo",
+        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 179427,
+      "name": "Nada Nuevo",
+      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 172751,
+      "name": "Cuidado con El Perro",
+      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
     },
     {
       "added_at": null,
@@ -599,54 +647,6 @@
       "duration_ms": 253147,
       "name": "D\u00f3nde Est\u00e1n?",
       "url": "https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 172751,
-      "name": "Cuidado con El Perro",
-      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Nuevo",
-        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 179427,
-      "name": "Nada Nuevo",
-      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 231971,
-      "name": "Empiezo a Recordarte - En Vivo",
-      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 201286,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Donde Esta Tu Amor",
         "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
       },
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+        "name": "El Carlitos",
+        "url": "https://open.spotify.com/album/42shtjuBd6DhoXfjABcJRw"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 201286,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
+      "duration_ms": 139145,
+      "name": "El Carlitos",
+      "url": "https://open.spotify.com/track/6u8BKNLNsVUIG4LQQVwiv6"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 230230,
       "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
       "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Carlitos",
-        "url": "https://open.spotify.com/album/42shtjuBd6DhoXfjABcJRw"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 139145,
-      "name": "El Carlitos",
-      "url": "https://open.spotify.com/track/6u8BKNLNsVUIG4LQQVwiv6"
     },
     {
       "added_at": null,

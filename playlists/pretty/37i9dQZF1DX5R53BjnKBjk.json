@@ -335,22 +335,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Repara",
-        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
-      },
-      "artists": [
-        {
-          "name": "Maielle",
-          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Repara",
-      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Repara",
+        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
+      },
+      "artists": [
+        {
+          "name": "Maielle",
+          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Repara",
+      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Como \u00c9 Que Faz",
-        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
-      },
-      "artists": [
-        {
-          "name": "Dogge",
-          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
-        }
-      ],
-      "duration_ms": 160747,
-      "name": "Como \u00c9 Que Faz",
-      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Poema Suspenso",
         "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 178935,
       "name": "(((V\u00eanus)))",
       "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Como \u00c9 Que Faz",
+        "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
+      },
+      "artists": [
+        {
+          "name": "Dogge",
+          "url": "https://open.spotify.com/artist/7J39epHKObBDnn6fWcDHSF"
+        }
+      ],
+      "duration_ms": 160747,
+      "name": "Como \u00c9 Que Faz",
+      "url": "https://open.spotify.com/track/4MSEDP06PEA2fcdTkxhYgx"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Canal Laranja",
         "url": "https://open.spotify.com/album/02C3OtPh10TYHuXsV8Qr2n"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Bate Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
+        "name": "Jardins",
+        "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
       },
       "artists": [
         {
-          "name": "Malu Azevedo",
-          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
+          "name": "Ceano",
+          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
         }
       ],
-      "duration_ms": 201734,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
+      "duration_ms": 167551,
+      "name": "Jardins",
+      "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Jardins",
-        "url": "https://open.spotify.com/album/06SSk5GYDJEMlIS77KOTZT"
-      },
-      "artists": [
-        {
-          "name": "Ceano",
-          "url": "https://open.spotify.com/artist/7uViNGetdqssmndt2tdRbi"
-        }
-      ],
-      "duration_ms": 167551,
-      "name": "Jardins",
-      "url": "https://open.spotify.com/track/7oOrG9wjvIDmbKgkhWgXN8"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
       },
@@ -623,22 +607,6 @@
       "duration_ms": 211998,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Meu Mantra pra Te Esquecer",
-        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 233019,
-      "name": "Meu Mantra pra Te Esquecer",
-      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -675,6 +643,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "Meu Mantra pra Te Esquecer",
+        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 233019,
+      "name": "Meu Mantra pra Te Esquecer",
+      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/6rLTqTd9CpYuWxbVZRGPwS"
       },
@@ -707,22 +691,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "tudo que eu fa\u00e7o",
-        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4",
-          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
-        }
-      ],
-      "duration_ms": 143766,
-      "name": "tudo que eu fa\u00e7o",
-      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Deixa Pra L\u00e1",
         "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
       },
@@ -735,6 +703,38 @@
       "duration_ms": 152137,
       "name": "Deixa Pra L\u00e1",
       "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
+      },
+      "artists": [
+        {
+          "name": "Malu Azevedo",
+          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
+        }
+      ],
+      "duration_ms": 201734,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "tudo que eu fa\u00e7o",
+        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4",
+          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
+        }
+      ],
+      "duration_ms": 143766,
+      "name": "tudo que eu fa\u00e7o",
+      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "N\u00e3o Complica",
+        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
+      },
+      "artists": [
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
+        }
+      ],
+      "duration_ms": 161668,
+      "name": "N\u00e3o Complica",
+      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "N\u00e3o Complica",
-        "url": "https://open.spotify.com/album/5cVTeir11bJByiSLJcadLQ"
-      },
-      "artists": [
-        {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f"
-        }
-      ],
-      "duration_ms": 161668,
-      "name": "N\u00e3o Complica",
-      "url": "https://open.spotify.com/track/6tKDV2xTSe9yTzy4xt6Q2A"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 239360,
       "name": "Ideia Errada",
       "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
-      },
-      "artists": [
-        {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "vc \u00e9 uma bagun\u00e7a",
-        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
         }
       ],
-      "duration_ms": 171084,
-      "name": "vc \u00e9 uma bagun\u00e7a",
-      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "vc \u00e9 uma bagun\u00e7a",
+        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "vc \u00e9 uma bagun\u00e7a",
+      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "De repente voc\u00ea",
         "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 160500,
       "name": "De repente voc\u00ea",
       "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Me Liga",
-        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
-      },
-      "artists": [
-        {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
-        }
-      ],
-      "duration_ms": 176398,
-      "name": "Me Liga",
-      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -935,18 +919,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Cardeal",
-        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
       "artists": [
         {
-          "name": "Unidade Nova Praia",
-          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
         }
       ],
-      "duration_ms": 215251,
-      "name": "\u00c9 preciso Calma",
-      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
+      "duration_ms": 176398,
+      "name": "Me Liga",
+      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -967,18 +951,18 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "VERO",
-        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+        "name": "Cardeal",
+        "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
       },
       "artists": [
         {
-          "name": "M. Costta",
-          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+          "name": "Unidade Nova Praia",
+          "url": "https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Bom Vivant",
-      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
+      "duration_ms": 215251,
+      "name": "\u00c9 preciso Calma",
+      "url": "https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -995,6 +979,22 @@
       "duration_ms": 159736,
       "name": "Disfar\u00e7a",
       "url": "https://open.spotify.com/track/15k0GNy0sK5l8W14UGX4dL"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "VERO",
+        "url": "https://open.spotify.com/album/7hBWRiIx6wh4gsItx2Ojmi"
+      },
+      "artists": [
+        {
+          "name": "M. Costta",
+          "url": "https://open.spotify.com/artist/7qzpPNkxALTx1RzpP7gguE"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Bom Vivant",
+      "url": "https://open.spotify.com/track/6EOfe5qiplnVypBCxsDrPT"
     },
     {
       "added_at": "2024-05-22 08:00:00",

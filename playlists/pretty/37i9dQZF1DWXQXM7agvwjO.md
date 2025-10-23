@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Rangga Jones \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,356 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,351 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 87 | [DOVE](https://open.spotify.com/track/0c7bWZxmcn4SYbTzAWaVmV) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [DOVE](https://open.spotify.com/album/2nv06C1P6MMcoRVnFi6tE6) | 4:11 |
 | 88 | [Glacial](https://open.spotify.com/track/4tidPc7OulW5mIUc17zQ5q) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Behind Closed Doors](https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X) | 4:29 |
 | 89 | [Summer Blue](https://open.spotify.com/track/2Ms27lG6wgCr77OMRx02un) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [Summer Blue](https://open.spotify.com/album/0Td7rlUSPGymoGyzkXRCZB) | 4:23 |
-| 90 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:34 |
+| 90 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 |
 | 91 | [Falling](https://open.spotify.com/track/6fy8BFwRgwwJHeCvlJAj1S) | [NYK](https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx), [Kuszanagi](https://open.spotify.com/artist/7G8U6CwUfY85f2PzV6rcTO) | [Falling](https://open.spotify.com/album/0ATeTy0c1pbtskdSzcr9dk) | 3:40 |
 | 92 | [Copeland Heights](https://open.spotify.com/track/3mcFfeXrk3MjYK1vv2ggeq) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Sun Blanket](https://open.spotify.com/album/4ZTrujnFuaY7IMct5EX4Dd) | 5:17 |
 | 93 | [つけっぱなし](https://open.spotify.com/track/3sn6CUT1TMMzjO8Y9q6jQn) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [リトル・トラベラー / つけっぱなし](https://open.spotify.com/album/5jcmBp8OeadeWLptozp4a1) | 3:38 |

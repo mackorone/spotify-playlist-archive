@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,554 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,680 likes - 69 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

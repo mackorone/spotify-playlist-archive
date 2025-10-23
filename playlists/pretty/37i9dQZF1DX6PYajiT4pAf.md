@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Luis Cortés x Marta Santos,  Maluma x Maisak, NATHY PELUSO, Sech x Kapo, Juseph x La Pantera x Lucho RK y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,843 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,849 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,425 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,437 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 |
 | 75 | [A Ponte](https://open.spotify.com/track/6yg96cJGwxKU9GLmrGZsMF) | [Chuva Doce](https://open.spotify.com/artist/2Q4gXuyaPtaw7nXSrNslhf) | [A Ponte](https://open.spotify.com/album/1uRCT8pB7Gd2cndvPS4lNF) | 3:44 |
 
-Snapshot ID: `AAAAAEaecvRm6gXnftZ9rpXc9B1aywlZ`
+Snapshot ID: `AAAAAK7oTxWv2exLrrL0jZ3Y02blTjrK`

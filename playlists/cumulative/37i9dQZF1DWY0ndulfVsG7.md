@@ -4,7 +4,7 @@
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-123 songs - 8 hr 26 min
+124 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Demi Cinta](https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ) | [Kerispatih](https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ) | [Tak Lekang Oleh Waktu](https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d) | 4:42 | 2024-01-12 |  |
 | [Demi Waktu](https://open.spotify.com/track/150GrtIUJF0IDT1KQb8JR8) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Melayang](https://open.spotify.com/album/6PxHRLYt5tTsX8xSoeRVAt) | 5:07 | 2024-07-05 | 2025-09-03 |
 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/3P4GuhNOuhUVomoKZiIVVl) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 | 2024-07-19 | 2024-07-27 |
-| [Di Matamu](https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Di Matamu](https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc) | 4:07 | 2024-06-21 |  |
+| [Di Matamu](https://open.spotify.com/track/5jAqkM00R41cm1Y2T0mGzb) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa) | [Di Matamu](https://open.spotify.com/album/521xA0pwxGzGgoSNAp0vZc) | 4:07 | 2024-06-21 | 2025-10-23 |
 | [Di Pinggir Kayangan](https://open.spotify.com/track/6w2PYLtHs67gahfWGkCrWa) | [Aishah](https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb) | [Di Pinggir Kayangan](https://open.spotify.com/album/4kXz7HwrDUPDmMnCUVTNjS) | 4:13 | 2024-07-19 | 2024-07-27 |
 | [Diam Diam Jatuh Cinta](https://open.spotify.com/track/2dTuI3gIUrxuLp7D1lGszE) | [Ramlah Ram](https://open.spotify.com/artist/4MHFCJ8NF67BZ2jl8gF7FX) | [Diam Diam Jatuh Cinta](https://open.spotify.com/album/1BdhJAyPNNk3G4oTreX9Gk) | 3:30 | 2024-10-31 | 2024-11-08 |
 | [Disebut Jangan Dikenang Jangan](https://open.spotify.com/track/4nuUpXxTPDvqJmKEb69oEW) | [Aishah](https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb) | [Disebut Jangan Dikenang Jangan](https://open.spotify.com/album/049BoEvbGWb4fXDQAhgha7) | 3:44 | 2024-11-14 | 2024-11-30 |
@@ -52,6 +52,7 @@
 | [Hatiku Milikmu](https://open.spotify.com/track/4MwpF3wrsriEDRSAhR1CSB) | [Nera](https://open.spotify.com/artist/0Kt6innlQ0yy0xxChAM15b) | [Bintang AF9](https://open.spotify.com/album/5Vx4WaEEaLLFuoTRcHLSfT) | 4:33 | 2024-06-21 | 2024-07-06 |
 | [Havoc \(feat\. Altimet & SonaOne\)](https://open.spotify.com/track/5xvmqp0lIr7pQaCtH8B8nF) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [Altimet](https://open.spotify.com/artist/4Ulybpn8rpXfcOLNJM6544), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Havoc](https://open.spotify.com/album/29seGjcBfLLxrnUVb5ZZ8A) | 2:54 | 2024-07-05 | 2024-07-20 |
 | [Infiniti Cinta \(feat\. Kaka\)](https://open.spotify.com/track/6wqrJ8bTBXUiUj9TRQjKdr) | [Zizan Razak](https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD), [Kaka](https://open.spotify.com/artist/0l837MyEH2h1Au2Ex3f9v5) | [Infiniti Cinta \(feat\. Kaka\)](https://open.spotify.com/album/4NxFtMRaChpHqbpFep5qej) | 4:39 | 2024-06-21 | 2024-07-06 |
+| [Isabella](https://open.spotify.com/track/39t7DAuFCoyGmzNluMLsSM) | [Search](https://open.spotify.com/artist/4LADVWbGgajvchOHelqZv2) | [Fenomena](https://open.spotify.com/album/2FjQr9dvsfICcVuQgOsect) | 5:08 | 2024-11-29 |  |
 | [Jangan Nakal \(Reimagined\)](https://open.spotify.com/track/1DhFrVT25RMhUrDQZVOriy) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Akhiri Penantianku \(Reimagined EP\)](https://open.spotify.com/album/2xNnNmNksWkPyU8SfjEVit) | 3:43 | 2024-10-17 | 2024-11-01 |
 | [Jangan Pernah Berubah](https://open.spotify.com/track/3gKJ43RQY6niVmpbe9hh4D) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Marcell](https://open.spotify.com/album/5hSfmtI2yqt541RTjuC8TU) | 4:15 | 2024-11-29 |  |
 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 | 2024-01-12 |  |

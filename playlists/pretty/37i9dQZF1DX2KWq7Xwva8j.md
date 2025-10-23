@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 42 | [Joga Bonito](https://open.spotify.com/track/5LEMwbRY353rXCH2KqivIR) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Joga Bonito](https://open.spotify.com/album/1eTSgzybuVPF0NlBz6OTLf) | 2:42 |
 | 43 | [BRILLO EN LOS DIENTES](https://open.spotify.com/track/6pwVgTHKcg1K6RHcVqk5Dt) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [BRILLO EN LOS DIENTES](https://open.spotify.com/album/2X2D3xdb5dpFn87CS8onNQ) | 2:18 |
 | 44 | [Enamorada de tu](https://open.spotify.com/track/6YKh9DusNfJJcLgfEv72b9) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.III : COM AQUELL AGOST](https://open.spotify.com/album/4GBj3aiTw8fXmShzPoe5CI) | 3:09 |
-| 45 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
+| 45 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 |
 | 46 | [NOVIO GOLDEN](https://open.spotify.com/track/7HlNux6hxyop8Dws2mxRsY) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [NOVIO GOLDEN](https://open.spotify.com/album/2EQKi80GtJoeeGdYC7S8sR) | 2:37 |
-| 47 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 |
+| 47 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
 
 Snapshot ID: `AAAAAFxNQo5mcS5sTCAmwqqXXH4v+aX/`

@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy music. Cover: Witch Fever",
-  "num_followers": 498733,
+  "num_followers": 498701,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJEBB2BDIwebfi6YrTi80QSPN+lB",
+  "snapshot_id": "AAAAACyEJqviHnXL78y+tcaMfWxA6O3E",
   "tracks": [
     {
       "added_at": "2025-10-03 16:03:25",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/19T9dCuDC2IumQmi6OB1xa"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/0Api4AdCfRrGYhj8AeSjNp"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "can u see me in the dark?",
         "url": "https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 238756,
       "name": "can u see me in the dark?",
       "url": "https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/19T9dCuDC2IumQmi6OB1xa"
-      },
-      "artists": [
-        {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/0Api4AdCfRrGYhj8AeSjNp"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "milk of the madonna",
-        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "milk of the madonna",
-      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 209835,
       "name": "Static",
       "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "milk of the madonna",
+        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+        "name": "Delusion:All",
+        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
       },
       "artists": [
         {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
+      "duration_ms": 184909,
+      "name": "Delusion:All",
+      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -803,22 +819,6 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "Delusion:All",
-        "url": "https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 184909,
-      "name": "Delusion:All",
-      "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 203521,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "MAD (feat. Ice Nine Kills)",
         "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 198393,
       "name": "MAD (feat. Ice Nine Kills)",
       "url": "https://open.spotify.com/track/7EP3LwGH0bAhDuupm4xspD"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 203521,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk"
     },
     {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "CRUISING TO SELF SOOTHE",
-        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
-      },
-      "artists": [
-        {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "CRUISING TO SELF SOOTHE",
-      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
-    },
-    {
       "added_at": "2025-10-10 12:52:53",
       "album": {
         "name": "Punks And Demons",
@@ -1051,6 +1035,22 @@
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "CRUISING TO SELF SOOTHE",
+        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
+      },
+      "artists": [
+        {
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "CRUISING TO SELF SOOTHE",
+      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1153,6 +1153,22 @@
       "url": "https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG"
     },
     {
+      "added_at": "2025-10-10 12:52:53",
+      "album": {
+        "name": "rot.exe / ra.exe",
+        "url": "https://open.spotify.com/album/6E4AB1ezZM633pOFabjszx"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "rot.exe",
+      "url": "https://open.spotify.com/track/3HAHQjEbEF0IVuRFlsyMa6"
+    },
+    {
       "added_at": "2025-10-03 16:03:25",
       "album": {
         "name": "Feed (feat. DeathbyRomy)",
@@ -1209,22 +1225,6 @@
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
     },
     {
-      "added_at": "2025-10-10 12:52:53",
-      "album": {
-        "name": "rot.exe / ra.exe",
-        "url": "https://open.spotify.com/album/6E4AB1ezZM633pOFabjszx"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "rot.exe",
-      "url": "https://open.spotify.com/track/3HAHQjEbEF0IVuRFlsyMa6"
-    },
-    {
       "added_at": "2025-10-03 16:03:25",
       "album": {
         "name": "VIBE COP",
@@ -1255,6 +1255,22 @@
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Angels Calling",
+        "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 175186,
+      "name": "Angels Calling",
+      "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1291,38 +1307,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Angels Calling",
-        "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 175186,
-      "name": "Angels Calling",
-      "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "I Will Not Break",
         "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "Hype Man",
         "url": "https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068"
       },
@@ -1367,26 +1367,6 @@
       "duration_ms": 248523,
       "name": "Hype Man",
       "url": "https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "V.A.N",
-        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 274098,
-      "name": "V.A.N",
-      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
+        "name": "V.A.N",
+        "url": "https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 274098,
+      "name": "V.A.N",
+      "url": "https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
         "name": "All That I Remember",
         "url": "https://open.spotify.com/album/4ngLHfUxdQ555esOkn4rng"
       },
@@ -1439,22 +1439,6 @@
       "duration_ms": 234000,
       "name": "All That I Remember",
       "url": "https://open.spotify.com/track/2BZY8Q6HAhRkNBe2yXpUiv"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
-        "name": "GALLOWS",
-        "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Gallows",
-      "url": "https://open.spotify.com/track/2F7iBRVk0vEdugeCLJ2yjk"
     },
     {
       "added_at": "2025-10-10 12:52:53",
@@ -1471,6 +1455,22 @@
       "duration_ms": 192125,
       "name": "Broken and Blind",
       "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "GALLOWS",
+        "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Gallows",
+      "url": "https://open.spotify.com/track/2F7iBRVk0vEdugeCLJ2yjk"
     },
     {
       "added_at": "2025-10-03 16:03:25",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-10-03 16:03:25",
       "album": {
-        "name": "Pain to Power",
-        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Bloodsport",
-      "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
-    },
-    {
-      "added_at": "2025-10-03 16:03:25",
-      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 281124,
       "name": "GUTSY",
       "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
+    },
+    {
+      "added_at": "2025-10-03 16:03:25",
+      "album": {
+        "name": "Pain to Power",
+        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Bloodsport",
+      "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
     },
     {
       "added_at": "2025-10-03 16:03:25",

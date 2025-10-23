@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 80 | [Ljuger för mig själv](https://open.spotify.com/track/3zCm30Ye2uvSnny2TlIddt) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Murphy](https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya) | 2:08 |
 | 81 | [Follow Your Heart](https://open.spotify.com/track/2LvmiyPIdtW6T3pybKwcSc) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:21 |
 | 82 | [Regn över Zinken](https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Regn över Zinken](https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb) | 4:04 |
-| 83 | [Din Låt](https://open.spotify.com/track/5Mo1sg5UVCUlgxZ2HXIMMc) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:04 |
-| 84 | [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 |
+| 83 | [Saltvatten](https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Saltvatten](https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz) | 3:46 |
+| 84 | [Din Låt](https://open.spotify.com/track/5Mo1sg5UVCUlgxZ2HXIMMc) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:04 |
 | 85 | [Caroline](https://open.spotify.com/track/1kzd1siJdw7QMix3uPQB45) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Caroline](https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj) | 3:13 |
 | 86 | [Emptied Out](https://open.spotify.com/track/6yY9BHa8Z2BnGR6uyf6FWf) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 2:59 |
 | 87 | [Obscene](https://open.spotify.com/track/5o6pZbA04aNAe8rAPapFpO) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Mad Woman](https://open.spotify.com/album/1jG11sbwvgBovDtIvWMQlq) | 2:49 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 110 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 111 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `Ab/fKAAAAACmfdpBfDtx55lUdi9Q7+k0`
+Snapshot ID: `Ab/k8AAAAADhbbADlIHYgmmfDauqx/Eg`

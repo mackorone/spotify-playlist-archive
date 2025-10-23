@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Caetano & Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,450,821 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,451,155 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 37 | [Sangue latino](https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 2:08 |
 | 38 | [O Mundo É Um Moinho](https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 3:55 |
 | 39 | [Chuva de Prata \- Ao Vivo](https://open.spotify.com/track/4vrW1O3nZJM8QQN8gzXubU) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A Pele do Futuro Ao Vivo](https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a) | 3:49 |
-| 40 | [Ex\-Amor](https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ex\-Amor](https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf) | 4:05 |
-| 41 | [Amor I Love You \(feat\. Arnaldo Antunes\) \- Ao Vivo](https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Memórias \(2001\) \- Ao Vivo](https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK) | 3:20 |
+| 40 | [Amor I Love You \(feat\. Arnaldo Antunes\) \- Ao Vivo](https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Memórias \(2001\) \- Ao Vivo](https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK) | 3:20 |
+| 41 | [Ex\-Amor](https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ex\-Amor](https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf) | 4:05 |
 | 42 | [Chão de Giz](https://open.spotify.com/track/1VNBEmjVEaS6BedHSdYxKS) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Antologia Acustica \- Vol\. 1](https://open.spotify.com/album/5wHlY7AE8cBuRkMMiv9E8G) | 4:31 |
 | 43 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 | 44 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 50 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
 | 51 | [Outra Vez](https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Outra Vez](https://open.spotify.com/album/2NylFxVu73peifK68z2fuc) | 4:14 |
 | 52 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
-| 53 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 |
+| 53 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
 | 54 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 |
 | 55 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
 | 56 | [Mutirão de Amor \- Ao Vivo](https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Eterna Alegria \(Special Edition\) \[Ao Vivo\]](https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z) | 3:25 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 91 | [Aquarela](https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Novas Cores, Eternas Canções \(Deluxe\)](https://open.spotify.com/album/5oqdvIvL2zEZv6UFUMwClP) | 3:25 |
 | 92 | [A Sua / Sampler: Coqueiro De Itapoan](https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Marisa Monte](https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L) | 3:02 |
 | 93 | [Odara](https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl) | 3:19 |
-| 94 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
+| 94 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 |
 | 95 | [Construção](https://open.spotify.com/track/1ECean5dVz7mYQ07mdVGKT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/5YARZzYbonX4CbZ5hucHPc) | 6:23 |
 | 96 | [Não é um Bolero](https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw) | 4:21 |
 | 97 | [A Morte](https://open.spotify.com/track/1rjSHnr77R8UTtgXr8jax9) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa \(Compacto de 1972\)](https://open.spotify.com/album/2Zic84dsU9R3lGjnWIlYj8) | 2:47 |

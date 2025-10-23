@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-566 songs - 1 day 8 hr 10 min
+567 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Legini Legini](https://open.spotify.com/track/2TXoPenrvYt9Uir0fWxC2y) | [Prasanna Bhoojashettar](https://open.spotify.com/artist/4OhmZdanQ6mk5jNgVuI0cy) | [Legini Legini](https://open.spotify.com/album/5shEBUWgQZ9JsHBZ2yQpRF) | 3:39 | 2023-01-04 | 2023-06-08 |
 | [Lekka](https://open.spotify.com/track/6WAjdVHT9iOqpmDDqXwDri) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Lekka](https://open.spotify.com/album/0Ylf2B2m39ZjB00Sv5rQrd) | 1:50 | 2024-11-04 | 2025-02-12 |
 | [Lemme know](https://open.spotify.com/track/52do3BlT1cljawMI2jUVHj) | [Rd Tillu](https://open.spotify.com/artist/1BWba6jCmo7OnYO052llOx), [Ponnamma](https://open.spotify.com/artist/3q46DthMtPWUhsoJUyGw2N) | [Lemme know](https://open.spotify.com/album/7hy987UBUHXMHVtT2UgttW) | 3:01 | 2023-12-19 | 2024-06-14 |
+| [Life Is Casino](https://open.spotify.com/track/7Hxk8pCTMLbznT45Pe14Vi) | [Chandan Shetty](https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk), [Chris Gayle \(UniverseBoss\)](https://open.spotify.com/artist/5mK0ENhGjR5aGlUYeoBt5V) | [Life Is Casino](https://open.spotify.com/album/5SVm1UvQuDgoJVburb1lmv) | 3:34 | 2025-10-22 |  |
 | [LIFE IS SIMPLE](https://open.spotify.com/track/4roerOpvixe6aTcZNonScu) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [LIFE IS SIMPLE](https://open.spotify.com/album/4j6aGPJX3yfneX32rTKYaN) | 3:07 | 2025-02-20 | 2025-07-16 |
 | [Live Lakshmi](https://open.spotify.com/track/1kgvfvXFjAEpUwKYqZcc54) | [Praveen Kadapatti](https://open.spotify.com/artist/3g5LvlyMO7x7Pn0sCIFvst), [Kishor](https://open.spotify.com/artist/6GYVBglYMAmbDVoLAX02kD), [Kavya SM](https://open.spotify.com/artist/7HrXhvguvaak7G4Luv63yu) | [Live Lakshmi](https://open.spotify.com/album/32fNJbDr7iUAZZx1dBi8f1) | 1:57 | 2023-08-24 | 2024-02-17 |
 | [Lokada Kalaji \(Rendition\) \- SKODA Deccan Beats](https://open.spotify.com/track/3CrD7UchbZpqrm3Q6rzFGp) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay) | [Lokada Kalaji \(Rendition\) \[SKODA Deccan Beats\]](https://open.spotify.com/album/6pIZpEbcqhKgVJJXw5CTxd) | 1:45 | 2023-07-24 | 2023-08-09 |
@@ -565,7 +566,7 @@
 | [Yako Summane](https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/1szU4FhUx9R0noVqGn2tQF) | 3:31 | 2023-05-02 | 2024-02-09 |
 | [Yako Summane](https://open.spotify.com/track/6wXLAGmcocKOh846HxQMEW) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/7cdGMetF7ex4TgwDFvKv5g) | 3:31 | 2023-05-02 | 2024-01-03 |
 | [Yarig Bek E Jeevana](https://open.spotify.com/track/7JTOGxj0yVSjy9QMIXhkd1) | [Shree Natana](https://open.spotify.com/artist/0v3N5Wa2w1em8ni3fxnHSy) | [Yarig Bek E Jeevana](https://open.spotify.com/album/1Ptw3Okj7fR17TY3f3T1qJ) | 3:15 | 2025-03-11 | 2025-07-23 |
-| [Yelladi Nanna Gelati 2](https://open.spotify.com/track/7vvVvF2haaaBRikZEQh57P) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Yelladi Nanna Gelati 2](https://open.spotify.com/album/3o1CraR30nGxVff7l54x21) | 5:29 | 2025-03-11 |  |
+| [Yelladi Nanna Gelati 2](https://open.spotify.com/track/7vvVvF2haaaBRikZEQh57P) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Yelladi Nanna Gelati 2](https://open.spotify.com/album/3o1CraR30nGxVff7l54x21) | 5:29 | 2025-03-11 | 2025-10-23 |
 | [Yello Saagidhe](https://open.spotify.com/track/5GMw5NQLxl7A9bYrSpWmml) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Yello Saagidhe](https://open.spotify.com/album/1UEGhdSV0i83EqS03iwsZv) | 3:03 | 2023-08-16 | 2023-09-07 |
 | [Yello Saagidhe](https://open.spotify.com/track/2N2hCq7Y9zjrNLRDFuvFQY) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Sachin S Jannur](https://open.spotify.com/artist/2LNuWmANUCqYcJsPaNpCfj) | [Yello Saagidhe](https://open.spotify.com/album/7yvC4BCoMlyzOpwOmcczAN) | 3:06 | 2025-06-26 |  |
 | [Yenaagide](https://open.spotify.com/track/2iO7QR9TKXGECiozwKR9yP) | [Swaroop](https://open.spotify.com/artist/0KnRzWyUIlpEw1yYrVWZum), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Yenaagide](https://open.spotify.com/album/18gnmJSKZfTc8Pdkk1OrsE) | 3:36 | 2023-07-10 | 2023-07-25 |

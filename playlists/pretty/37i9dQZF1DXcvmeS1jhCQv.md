@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: MOIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 805 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [Waiting Room](https://open.spotify.com/track/32ZKLt3sWi1E6UsFhjoqDH) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [Waiting Room](https://open.spotify.com/album/25R3RUlOhwyroov3MpT5Eo) | 3:17 |
 | 80 | [Bet On Beauty](https://open.spotify.com/track/2oX4mCEcN2oV6F48gtcHMe) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Bet On Beauty](https://open.spotify.com/album/2077zAocbofNbqEVimAIHV) | 4:22 |
 
-Snapshot ID: `AAAAAGfzVy6ruAyJt6ggDLWTUyQmuIZA`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

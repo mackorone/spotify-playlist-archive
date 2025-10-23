@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,386 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,510 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 22 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 |
 | 23 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 |
 | 24 | [Policías En Helicóptero \(con El Aarón\)](https://open.spotify.com/track/0xwnJOZfxDuqmTWsUSgCOs) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Deja Vú](https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd) | 3:23 |
-| 25 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
-| 26 | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP) | [Tha Mexakinz](https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN) | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7) | 3:47 |
+| 25 | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP) | [Tha Mexakinz](https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN) | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7) | 3:47 |
+| 26 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 27 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
 | 28 | [Las Armas las Karga el Dyablo](https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [Mafya Azteca](https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 5:57 |
 | 29 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 45 | [Comprendes, Mendes?](https://open.spotify.com/track/1yshNtExWJOfvjfvUqGcnu) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/1OGemrG3upLMC7nVj8OZX2) | 3:35 |
 | 46 | [Rucón](https://open.spotify.com/track/6TDtGJSk3MDTnM6nTDu5Zu) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T) | 2:48 |
 | 47 | [Chingo de Cheve](https://open.spotify.com/track/1GUK48Vm37ng2jwxWjWb4z) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/4T7ICgMnMPR72nLkQCEWE2) | 3:29 |
-| 48 | [Esta Vida Me Encanta](https://open.spotify.com/track/17vupJrjeDfny9XLt2micF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy por el Sueño de Muchos](https://open.spotify.com/album/6edIhKzuFGTwMA512iHPXn) | 5:09 |
-| 49 | [Pesao \(feat\. Cartel de Santa & Millonario\)](https://open.spotify.com/track/6yly6C4QeDi4N1CpnFrJc7) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp) | 3:28 |
+| 48 | [El Diablo Anda Suelto](https://open.spotify.com/track/2vfp3rtorzJs4l9nhrP0e1) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1SHoj7rZ5IFEehFytPa1Df) | 6:21 |
+| 49 | [Esta Vida Me Encanta](https://open.spotify.com/track/17vupJrjeDfny9XLt2micF) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy por el Sueño de Muchos](https://open.spotify.com/album/6edIhKzuFGTwMA512iHPXn) | 5:09 |
 | 50 | [Si Señor](https://open.spotify.com/track/4z3x73OqkRMTm5vG8MyCpg) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/7HgtmenilcpT51uM8aY0vv) | 4:13 |
 
 Snapshot ID: `AAAAAAU4aoG9Wzd8ShfVAk9lVEfnzoF7`

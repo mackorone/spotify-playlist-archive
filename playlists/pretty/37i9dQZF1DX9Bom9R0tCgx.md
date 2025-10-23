@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,203 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,324 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 71 | [Come On Baddie Let's Go Party](https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Come On Baddie Let's Go Party](https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2) | 2:33 |
 | 72 | [Jerk It Out](https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Jerk It Out](https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY) | 2:33 |
 | 73 | [All Of The Lights](https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [All Of The Lights](https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov) | 4:01 |
-| 74 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 |
-| 75 | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY) | 2:32 |
+| 74 | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY) | 2:32 |
+| 75 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 |
 | 76 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 |
 | 77 | [Hit The Road Jack](https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf), [Millows](https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG) | [Hit The Road Jack](https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu) | 2:06 |
 | 78 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 |

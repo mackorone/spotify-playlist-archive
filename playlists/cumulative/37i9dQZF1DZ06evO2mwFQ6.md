@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-116 songs - 6 hr 38 min
+118 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,8 +108,10 @@
 | [Sweet Home Alabama \(feat\. Adam Brand\)](https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC) | [Jason Owen](https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Life Is A Highway](https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7) | 4:30 | 2023-06-17 |  |
 | [That Changes Everything](https://open.spotify.com/track/3qOdYOBLsGKhTPts5F54KM) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 3:59 | 2024-12-02 | 2024-12-06 |
 | [That Changes Everything](https://open.spotify.com/track/6GKzNfRphjAXwjCmPzazKS) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 4:03 | 2024-12-06 | 2024-12-30 |
-| [The Anzac](https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc) | 4:51 | 2023-06-17 |  |
+| [The ANZAC](https://open.spotify.com/track/2a3LVayVnftmmlFyXrwNQQ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/3lHKHRM23ctBS8tJjISrJZ) | 4:51 | 2025-10-23 |  |
+| [The Anzac](https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc) | 4:51 | 2023-06-17 | 2025-10-23 |
 | [This Time Of Year](https://open.spotify.com/track/2tUmlrVjQTApBuGezymW7r) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:58 | 2024-11-09 | 2025-10-22 |
+| [This Time Of Year](https://open.spotify.com/track/6IEZSsTVESxddW1CqMClGs) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 3:58 | 2025-10-23 |  |
 | [Thump](https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 2:53 | 2023-06-17 |  |
 | [Time Of Our Lives](https://open.spotify.com/track/795tyoi1WIxGSMRwRe8PzH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Jordan Brooker](https://open.spotify.com/artist/7MhkhYdulwE1sjZ8K3bucH) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:18 | 2023-06-30 | 2024-04-01 |
 | [Way Out West](https://open.spotify.com/track/079DxgUPBayPga0ijJymx0) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:53 | 2024-12-08 | 2025-07-11 |
@@ -119,7 +121,7 @@
 | [What Your Love Looks Like](https://open.spotify.com/track/3f7R49NWWrJc9OHRdXLJqj) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side Of The Street](https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF) | 3:37 | 2024-12-07 | 2024-12-08 |
 | [When I Get My Wheels](https://open.spotify.com/track/3ywGy9lryMdJgILUv0SUoa) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:36 | 2025-04-18 | 2025-05-07 |
 | [When The Needle Hits The Vinyl](https://open.spotify.com/track/6fZosvn3HVvfG9L4U9MQbW) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:34 | 2024-01-15 | 2025-10-18 |
-| [Working Class Man](https://open.spotify.com/track/3Q1PITIQJbmwxxOiZmCxeE) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:06 | 2025-10-22 |  |
+| [Working Class Man](https://open.spotify.com/track/3Q1PITIQJbmwxxOiZmCxeE) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:06 | 2025-10-22 | 2025-10-23 |
 | [You Are Not Alone](https://open.spotify.com/track/5mP1Lr0EfB2rj2BAfYaZag) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [Speed of Life](https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng) | 3:25 | 2024-12-08 |  |
 | [You Are Not Alone](https://open.spotify.com/track/6CavrLdJAXl9bn0DQEgBm4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:25 | 2023-06-17 | 2024-12-08 |
 | [You Are To Me](https://open.spotify.com/track/2Lij4vqXoPkRfXAI4baQ1c) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:12 | 2023-06-17 |  |

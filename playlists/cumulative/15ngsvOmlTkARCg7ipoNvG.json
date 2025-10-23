@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Autumn Sunset",
+        "url": "https://open.spotify.com/album/0AtAFrvNq2bAm5vcnOvifI"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60243,
+      "name": "Autumn Sunset",
+      "url": "https://open.spotify.com/track/3OcTsfD1TDIA8kvgbvd7xJ"
+    },
+    {
+      "album": {
         "name": "Awaiting",
         "url": "https://open.spotify.com/album/3LW69C1BGvvwgrheV8pYwe"
       },

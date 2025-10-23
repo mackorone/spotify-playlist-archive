@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 67395,
+  "num_followers": 67417,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAB+37BpPGi9rVmWAVkNeNIZ",
+  "snapshot_id": "aPbNAAAAAABYpoGIVSA0wtwO173g05tM",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 240426,
       "name": "Amigo M\u00edo - Dueto Con Lalo Mora",
       "url": "https://open.spotify.com/track/5lJCiAk7S2WNglqzEVS3JE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,696 likes - 145 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697 likes - 145 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 7 | [Birthday](https://open.spotify.com/track/1NOZvdCovG42qQV7ftVD5d) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 |
 | 8 | [C'Mon](https://open.spotify.com/track/4bO6IzKXMWhmncfIO9GBq2) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:34 |
 | 9 | [Queen](https://open.spotify.com/track/53b4d9jHQZq89EtQxwUURr) | [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Queen](https://open.spotify.com/album/5acYgqkqRhxgbeRzHqIIqv) | 2:40 |
-| 10 | [Hold It Against Me](https://open.spotify.com/track/3C6ZG8ocGe2qLq78FBgOQR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:48 |
+| 10 | [Hold It Against Me](https://open.spotify.com/track/3C6ZG8ocGe2qLq78FBgOQR) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:49 |
 | 11 | [Kiss the Sky](https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Kiss the Sky](https://open.spotify.com/album/1PslxdbL4bn2GLzjBpjyrR) | 3:42 |
 | 12 | [How We Do \(Party\)](https://open.spotify.com/track/5zBDg6Pp5LFyhaSCqm3p5d) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/3wVudWLcF1D7jK5kTj6hlA) | 4:07 |
 | 13 | [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 17 | [Inside Out](https://open.spotify.com/track/3dqe8FDx7F1yxNY4LldJ7R) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Inside Out](https://open.spotify.com/album/4TKuzR1FrlmM05FeRloCzY) | 3:08 |
 | 18 | [Dumb Blonde \(feat\. Nicki Minaj\)](https://open.spotify.com/track/1Spmq0UazGU6ovMIlGldZX) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Head Above Water](https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz) | 3:34 |
 | 19 | [Vacation](https://open.spotify.com/track/326ICMkp2gWSYcJdba9s7d) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Vacation](https://open.spotify.com/album/1CPu7lwOIp84AQyBtQvbpg) | 3:37 |
-| 20 | [San Francisco](https://open.spotify.com/track/0IzF2RW5WoYTFXcnLtxfjX) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Sounds Good Feels Good \(Deluxe\)](https://open.spotify.com/album/43v9cUsP5K0hvu9iyuAzmZ) | 4:19 |
-| 21 | [Up All Night](https://open.spotify.com/track/5U3qK5UVDDn8ir0ktbK11Q) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:10 |
+| 20 | [Up All Night](https://open.spotify.com/track/5U3qK5UVDDn8ir0ktbK11Q) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind \(Special Edition\)](https://open.spotify.com/album/5J4SS8wTmXdyIEVYjmHzpZ) | 3:10 |
+| 21 | [San Francisco](https://open.spotify.com/track/0IzF2RW5WoYTFXcnLtxfjX) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Sounds Good Feels Good \(Deluxe\)](https://open.spotify.com/album/43v9cUsP5K0hvu9iyuAzmZ) | 4:19 |
 | 22 | [Ghost](https://open.spotify.com/track/2Vl6VlxpDQk99QU7TfQGjO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:23 |
 | 23 | [Heart Wants What It Wants](https://open.spotify.com/track/5iaa3eXgzedzQckwFNtIrl) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:02 |
 | 24 | [Wish U Were Here \- Acoustic](https://open.spotify.com/track/4812NLW48dCoABairmUF0p) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Paradise \(Expanded\)](https://open.spotify.com/album/66SngXhMQwIwDa6MDOjNzQ) | 3:36 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 33 | [Presidential \(with Jenn Carter, Kyle Richh,TaTa\)](https://open.spotify.com/track/5RhLGbNLr8oGGbLuxJkjf5) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Chill Guy / Presidential](https://open.spotify.com/album/2eYFNV7126p2tJVgfUiF1y) | 2:32 |
 | 34 | [Let There Be Love](https://open.spotify.com/track/5u5wvBQcUTzRzN7dwkrFUB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Lotus \(Deluxe Version\)](https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q) | 3:21 |
 | 35 | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/track/4eP9Et7gkdPf6eeCRNal75) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Too Soon \(feat\. Maty Noyes\)](https://open.spotify.com/album/1P4e2cMIcjR9zM709Bd8QY) | 3:56 |
-| 36 | [Inside Out](https://open.spotify.com/track/5lHndfQNCimM1zHRgJiQCA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:38 |
+| 36 | [Inside Out](https://open.spotify.com/track/5lHndfQNCimM1zHRgJiQCA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:37 |
 | 37 | [Supernatural](https://open.spotify.com/track/1UKDcxiR4VNad3toIHpJZ6) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:10 |
 | 38 | [Cuckoo](https://open.spotify.com/track/7j1SWWci3yWLgmMSZwurgd) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:02 |
 | 39 | [Hey Alligator](https://open.spotify.com/track/1wMgSz5vW6txvc0RkbsvSY) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:29 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 144 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 | 145 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 
-Snapshot ID: `Ab/fMgAAAACnvBAJXME7J7z3Jo6jYcFO`
+Snapshot ID: `Ab/k8AAAAADrczBVnhmftl3G17z0rFgo`

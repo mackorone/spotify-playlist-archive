@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Dum Chica
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,381 likes - 56 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,382 likes - 56 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 20 | [qué más da](https://open.spotify.com/track/6KVV3sZhXKfRXBKfPR6yIB) | [paco te quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc) | [qué más da](https://open.spotify.com/album/6yyQA8ZrVFeM3IBTwJypUG) | 3:46 |
 | 21 | [armadura](https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [relicario](https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD) | 2:42 |
 | 22 | [In the City](https://open.spotify.com/track/4DQZKpUgBpF9ziGboNAGFg) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [In the City](https://open.spotify.com/album/22bZNVYw96xAOKsgwAfbyv) | 3:49 |
-| 23 | [Soy Lo Peor](https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DepresionTrickz](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:53 |
+| 23 | [Soy Lo Peor](https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DSxBB](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:53 |
 | 24 | [Unidad y Movimiento](https://open.spotify.com/track/7j86mErJ38bHz57shaf6Yr) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Unidad y Movimiento](https://open.spotify.com/album/00HVYMnMR4wOeW2q7qcoxB) | 3:51 |
 | 25 | [Hasta que me quede sin voz](https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Hasta que me quede sin voz](https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx) | 5:06 |
 | 26 | [Mala Prensa](https://open.spotify.com/track/0TjWln3dlSMwbB0gvHxlaU) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Hecho En Tiempos De Paz](https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo) | 3:24 |

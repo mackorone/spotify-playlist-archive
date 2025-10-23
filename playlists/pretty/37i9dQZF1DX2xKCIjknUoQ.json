@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 54008,
+  "num_followers": 54029,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
-      },
-      "artists": [
-        {
-          "name": "Mickey 3d",
-          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227973,
       "name": "Travel The World",
       "url": "https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
+      },
+      "artists": [
+        {
+          "name": "Mickey 3d",
+          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "Jouer dehors",
+        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
+      },
+      "artists": [
+        {
+          "name": "Mademoiselle K",
+          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Jouer dehors",
+      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Vegas 76",
         "url": "https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 181573,
       "name": "Va y avoir du sport",
       "url": "https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Jouer dehors",
-        "url": "https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs"
-      },
-      "artists": [
-        {
-          "name": "Mademoiselle K",
-          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Jouer dehors",
-      "url": "https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Plates coutures",
-        "url": "https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN"
-      },
-      "artists": [
-        {
-          "name": "Matmatah",
-          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
-        }
-      ],
-      "duration_ms": 248013,
-      "name": "Mar\u00e9e haute",
-      "url": "https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "\u00c7a me vexe",
         "url": "https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 226800,
       "name": "Jalouse",
       "url": "https://open.spotify.com/track/0z7ZXj10QgNhvoxGAVqdOT"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Plates coutures",
+        "url": "https://open.spotify.com/album/35KPICCxAelsB81JKpLZjN"
+      },
+      "artists": [
+        {
+          "name": "Matmatah",
+          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
+        }
+      ],
+      "duration_ms": 248013,
+      "name": "Mar\u00e9e haute",
+      "url": "https://open.spotify.com/track/4nHA9dbzEp6Q4lH6P8zN9E"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -783,6 +783,42 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
+        "name": "De jour comme de nuit",
+        "url": "https://open.spotify.com/album/2Qstn4PgalHk3b9w6YFJI0"
+      },
+      "artists": [
+        {
+          "name": "Astonvilla",
+          "url": "https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7"
+        },
+        {
+          "name": "Jean Baptiste Mory",
+          "url": "https://open.spotify.com/artist/1U8rYQJV2ZRLToXUNElojh"
+        },
+        {
+          "name": "Greg Baudrier",
+          "url": "https://open.spotify.com/artist/7GuuhlWi6XzX44SqqS9hHR"
+        },
+        {
+          "name": "Emmanuel Baroux",
+          "url": "https://open.spotify.com/artist/4GLhnY37gfDwczctnvppiB"
+        },
+        {
+          "name": "Franck Pilant",
+          "url": "https://open.spotify.com/artist/6dVTsBmqhIN3K2lPOg11N5"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Franchitti",
+          "url": "https://open.spotify.com/artist/3CFp5YtgEajDtIcDUJ420F"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "Regarde-moi",
+      "url": "https://open.spotify.com/track/6Fo0iSM2LaVTCLS3WkTXgz"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T"
       },
@@ -795,22 +831,6 @@
       "duration_ms": 155706,
       "name": "Le bonheur",
       "url": "https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
-        "name": "Abricotine",
-        "url": "https://open.spotify.com/album/49A5xZlHxQq92tl58EAAlC"
-      },
-      "artists": [
-        {
-          "name": "Eiffel",
-          "url": "https://open.spotify.com/artist/5IiWXFMbz2luGGkdzSBNhJ"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Te revoir",
-      "url": "https://open.spotify.com/track/1IG7yiK7vAUD1bg5wfMmEO"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

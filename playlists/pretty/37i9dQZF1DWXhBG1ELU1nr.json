@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 235077,
+  "num_followers": 235067,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered",
-      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "G N' R Lies",
         "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 354400,
       "name": "Patience",
       "url": "https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered",
+      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
     },
     {
       "added_at": "2024-02-27 20:15:05",

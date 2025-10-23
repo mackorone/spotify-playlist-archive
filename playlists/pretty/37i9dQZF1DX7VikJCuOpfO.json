@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Eugenia Le\u00f3n\ud83c\udf39",
-  "num_followers": 366191,
+  "num_followers": 366196,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
+        "name": "Que Hare Sin Ti",
+        "url": "https://open.spotify.com/album/4VFA5nTJcmgbXQPOPrCSVn"
+      },
+      "artists": [
+        {
+          "name": "Mirla Avila",
+          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
+        }
+      ],
+      "duration_ms": 167231,
+      "name": "Que Hare Sin Ti",
+      "url": "https://open.spotify.com/track/7senB1xXn6ii7Q2TmadqOT"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
         "name": "Se Me Hizo Tarde",
         "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
       },
@@ -447,42 +463,18 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Que Hare Sin Ti",
-        "url": "https://open.spotify.com/album/4VFA5nTJcmgbXQPOPrCSVn"
-      },
-      "artists": [
-        {
-          "name": "Mirla Avila",
-          "url": "https://open.spotify.com/artist/5ZO4Fg66pphCa8wrFzm9Kd"
-        }
-      ],
-      "duration_ms": 167231,
-      "name": "Que Hare Sin Ti",
-      "url": "https://open.spotify.com/track/7senB1xXn6ii7Q2TmadqOT"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
-        "name": "Los Laureles",
-        "url": "https://open.spotify.com/album/7w2q18216uYakqsqunta9s"
+        "name": "Mi Suerte Es Ser Mexicano",
+        "url": "https://open.spotify.com/album/6CFRm5Yl5Xs7AKfUs9l0sr"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 147521,
-      "name": "Los Laureles",
-      "url": "https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2"
+      "duration_ms": 183168,
+      "name": "Vamos Tarde",
+      "url": "https://open.spotify.com/track/2U1OgtH2exZnlcPvcijznV"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -523,22 +515,6 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Bailando De A Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 204850,
-      "name": "Bailando De A Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
         "name": "Hubi\u00e9ramos Sido",
         "url": "https://open.spotify.com/album/79S757DsRfH1K3wvyQHsPC"
       },
@@ -555,18 +531,42 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Mi Suerte Es Ser Mexicano",
-        "url": "https://open.spotify.com/album/6CFRm5Yl5Xs7AKfUs9l0sr"
+        "name": "Bailando De A Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 204850,
+      "name": "Bailando De A Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
+        "name": "Los Laureles",
+        "url": "https://open.spotify.com/album/7w2q18216uYakqsqunta9s"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 183168,
-      "name": "Vamos Tarde",
-      "url": "https://open.spotify.com/track/2U1OgtH2exZnlcPvcijznV"
+      "duration_ms": 147521,
+      "name": "Los Laureles",
+      "url": "https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -623,42 +623,6 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Veracruz",
-        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Jos\u00e9 Carrillo",
-          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
-        }
-      ],
-      "duration_ms": 222236,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
-        "name": "Que Llueva Tequila",
-        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 189273,
-      "name": "Mira Qui\u00e9n Lo Dice",
-      "url": "https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
         "name": "Vu\u00e9lveme a Querer",
         "url": "https://open.spotify.com/album/7ebsAIjaxazDs1R6IXdpzq"
       },
@@ -679,18 +643,18 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "De Rey A Rey (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
-        "url": "https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib"
+        "name": "Que Llueva Tequila",
+        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 171365,
-      "name": "El Rey - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
-      "url": "https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX"
+      "duration_ms": 189273,
+      "name": "Mira Qui\u00e9n Lo Dice",
+      "url": "https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -707,6 +671,42 @@
       "duration_ms": 160010,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
+        "name": "De Rey A Rey (En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024)",
+        "url": "https://open.spotify.com/album/4C6CdEZgz7f80AoFvYMYib"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 171365,
+      "name": "El Rey - En Vivo Desde La Plaza de Toros La M\u00e9xico, 2024",
+      "url": "https://open.spotify.com/track/5a1K8Y2DUYBtfsCnmpIhaX"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
+        "name": "Veracruz",
+        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Jos\u00e9 Carrillo",
+          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
+        }
+      ],
+      "duration_ms": 222236,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
+        "name": "Pa Encontrarnos",
+        "url": "https://open.spotify.com/album/7s85xC8CmqiPhZ7P28iSVM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 204192,
+      "name": "Pa Encontrarnos",
+      "url": "https://open.spotify.com/track/7HNyTf16EHng9u5TWBI0M9"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
         "name": "Se Cancela La Llorada",
         "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
       },
@@ -859,6 +875,22 @@
       "duration_ms": 180000,
       "name": "Se Cancela La Llorada",
       "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
+        "name": "Traigan Las Otras",
+        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "Traigan Las Otras",
+      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -903,34 +935,18 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Traigan Las Otras",
-        "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
       },
       "artists": [
         {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 230806,
-      "name": "Traigan Las Otras",
-      "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
-        "name": "Pa Encontrarnos",
-        "url": "https://open.spotify.com/album/7s85xC8CmqiPhZ7P28iSVM"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 204192,
-      "name": "Pa Encontrarnos",
-      "url": "https://open.spotify.com/track/7HNyTf16EHng9u5TWBI0M9"
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -947,22 +963,6 @@
       "duration_ms": 180373,
       "name": "No Puedo Dormir Sin Ti",
       "url": "https://open.spotify.com/track/773beyEPLYvmszoKYz9n2L"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Cu\u00e1ndo Se Ha Visto",
-        "url": "https://open.spotify.com/album/2mYR3EjQrhTxCQy9B7QsKb"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Cu\u00e1ndo Se Ha Visto",
-      "url": "https://open.spotify.com/track/2f22XJZsgMvo4tQlRICvjH"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
         "name": "Lo que no fue no ser\u00e1",
         "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 217693,
       "name": "Lo que no fue no ser\u00e1",
       "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
+        "name": "Cu\u00e1ndo Se Ha Visto",
+        "url": "https://open.spotify.com/album/2mYR3EjQrhTxCQy9B7QsKb"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Cu\u00e1ndo Se Ha Visto",
+      "url": "https://open.spotify.com/track/2f22XJZsgMvo4tQlRICvjH"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN"
+        "name": "Carita de Cielo",
+        "url": "https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ"
+      "duration_ms": 185000,
+      "name": "Carita de Cielo",
+      "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Carita de Cielo",
-        "url": "https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Carita de Cielo",
-      "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/22C9ulEE7oDldOCmTtGf5b"
       },
@@ -1207,18 +1191,34 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4fp66cjYLUX7kdKCB7oCFN"
       },
       "artists": [
         {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 167133,
-      "name": "Dame un Beso",
-      "url": "https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP"
+      "duration_ms": 169440,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2XntX9F4ABFZOoSJHJsiuQ"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -1255,18 +1255,38 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
       "artists": [
         {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
+      "duration_ms": 167133,
+      "name": "Dame un Beso",
+      "url": "https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP"
+    },
+    {
+      "added_at": "2025-10-17 06:00:18",
+      "album": {
+        "name": "La Pla\u00f1idera",
+        "url": "https://open.spotify.com/album/6UCJhAiOIEb0YvoXgrmF5z"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+        }
+      ],
+      "duration_ms": 229034,
+      "name": "La Pla\u00f1idera",
+      "url": "https://open.spotify.com/track/6pQ8cHgtiGSBXkj82gNfue"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -1355,26 +1375,6 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "La Pla\u00f1idera",
-        "url": "https://open.spotify.com/album/6UCJhAiOIEb0YvoXgrmF5z"
-      },
-      "artists": [
-        {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
-        },
-        {
-          "name": "Mariachi Romanza de Rodrigo Rodriguez",
-          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
-        }
-      ],
-      "duration_ms": 229034,
-      "name": "La Pla\u00f1idera",
-      "url": "https://open.spotify.com/track/6pQ8cHgtiGSBXkj82gNfue"
-    },
-    {
-      "added_at": "2025-10-17 06:00:18",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/0H6pKP6ySporHiDCG6DKmu"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "\u00bfSeguimos o No?",
-        "url": "https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq"
+        "name": "Despecho Puro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
       "artists": [
         {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
         }
       ],
-      "duration_ms": 141710,
-      "name": "\u00bfSeguimos o No?",
-      "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"
+      "duration_ms": 173173,
+      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
+      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2025-10-17 06:00:18",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-10-17 06:00:18",
       "album": {
-        "name": "Despecho Puro (En Vivo)",
-        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
+        "name": "\u00bfSeguimos o No?",
+        "url": "https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq"
       },
       "artists": [
         {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 173173,
-      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
-      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
+      "duration_ms": 141710,
+      "name": "\u00bfSeguimos o No?",
+      "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"
     },
     {
       "added_at": "2025-10-17 06:00:18",

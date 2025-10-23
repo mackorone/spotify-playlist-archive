@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-943 songs - 2 day 14 hr 34 min
+944 songs - 2 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [I\. Deep Blue \(You Beat Me\)](https://open.spotify.com/track/43es6Mxw89bV0Yv0f1ZEon) | [William Brittelle](https://open.spotify.com/artist/466nMSvwGWb3f8G7hR4Gja), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Rough Magic](https://open.spotify.com/album/5LCUG6zhXjBOUQm89nO81d) | 4:39 | 2024-01-29 |  |
 | [I\. Midnight Moon Pool \(Womb Of The Soul\)](https://open.spotify.com/track/0hIIMnXX29I6IoJiKKWmFp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6), [Jamal Shakeri](https://open.spotify.com/artist/3B193UMTjl6fyV4ShzC4ve), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:25 | 2024-11-22 |  |
 | [I\. The Sun](https://open.spotify.com/track/3shp7WxHTjIWGTPf3Pww7c) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [Mount Eerie](https://open.spotify.com/album/5qvuDzzdqHFID4IlUMGZcb) | 17:11 | 2024-10-14 |  |
-| [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 | 2025-10-09 |  |
+| [Ice In My OJ](https://open.spotify.com/track/5mmnCxPS0eJIVySUDVNGsV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 2:11 | 2025-10-09 | 2025-10-23 |
 | [if im honest](https://open.spotify.com/track/0Fv07HimnYZTgDxoVkPt4t) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [somebody in hell loves you](https://open.spotify.com/album/73L8Gv41xHG3RYdhXoFggn) | 2:50 | 2025-01-06 |  |
 | [If Not Now, Then When?](https://open.spotify.com/track/1nkMRXPRGtwWGIfWaXt3na) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:50 | 2024-01-15 |  |
 | [If This Tour Doesn't Kill You, I Will](https://open.spotify.com/track/273GJ8gvmeGI4LXKlcbBGJ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:18 | 2024-01-18 | 2025-04-25 |
@@ -543,6 +543,7 @@
 | [Mother \- Remastered 2010](https://open.spotify.com/track/43Ud1IajwtBvw6ONj6aK2Q) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 5:36 | 2023-08-17 | 2023-12-14 |
 | [Motion Sickness](https://open.spotify.com/track/3G7mNgJKJaOfIIYrcQJJyT) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7) | 5:20 | 2025-09-23 |  |
 | [Movement 1](https://open.spotify.com/track/0QkT7SfXL9eR6tuQ7xb9ya) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 6:24 | 2024-01-12 | 2024-10-24 |
+| [Mundian To Bach Ke](https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Album](https://open.spotify.com/album/4M7pIA0U45CEENfXwbGB0g) | 4:05 | 2025-10-23 |  |
 | [My Friend Goo](https://open.spotify.com/track/3BbPWMc572VSVDC7okGwJx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 2:18 | 2024-01-17 |  |
 | [My Garage \(with Zac Brown\)](https://open.spotify.com/track/0L9aSYUIDijRCT1yzsKAsr) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:36 | 2024-08-05 | 2024-08-17 |
 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 | 2024-05-28 |  |

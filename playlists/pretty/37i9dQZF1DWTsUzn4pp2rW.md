@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,410 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,483 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 43 | [Much Rain](https://open.spotify.com/track/3R7Cy7vHabyoHeWey6n6Dn) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Much Rain](https://open.spotify.com/album/6Rl3a9T2VTGwCita9jJTeo) | 4:46 |
 | 44 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 |
 | 45 | [A Better One for You](https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS) | [Guilherme Cunha Ribeiro](https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5) | [Free Afternoon](https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i) | 3:53 |
-| 46 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
-| 47 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
+| 46 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 |
+| 47 | [Sunshine & Lullaby](https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY) | [Matthew Hermosura](https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy) | [Sunshine & Lullaby](https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT) | 4:07 |
 | 48 | [Cup of Tea](https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s) | [Francesca Castro](https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf) | [Day by Day](https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt) | 6:34 |
 | 49 | [A Voice](https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [A Voice](https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M) | 4:25 |
 | 50 | [What Love Is For](https://open.spotify.com/track/7caN9iQewEakwTWWRrS3Uo) | [PRD](https://open.spotify.com/artist/7w5X03XwXcR7pxV6iY1swZ) | [What Love Is For](https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs) | 3:09 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 58 | [My One and Only Love](https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK) | [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [My One and Only Love](https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S) | 4:06 |
 | 59 | [Break In](https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05) | [Break In](https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO) | 3:19 |
 | 60 | [Do You Believe](https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Melodic Canvas](https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG) | 3:27 |
-| 61 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 |
+| 61 | [Sugilite](https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT) | [Jeanne Newhall](https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t) | [Sugilite](https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN) | 4:38 |
 | 62 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 |
-| 63 | [Sugilite](https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT) | [Jeanne Newhall](https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t) | [Sugilite](https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN) | 4:38 |
+| 63 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 |
 | 64 | [No Meanness](https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [No Meanness](https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj) | 3:58 |
 | 65 | [the road is narrow](https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD) | [Jecca](https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg) | [The Road Is Narrow](https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b) | 3:14 |
 | 66 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 75 | [Loneliness](https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Loneliness](https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd) | 3:05 |
 | 76 | [River](https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [River](https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq) | 2:57 |
 | 77 | [A Bridge](https://open.spotify.com/track/4PGyTgWYuHcMWhJBT7Rulv) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [A Bridge](https://open.spotify.com/album/6wFwaP0tCpw8N8PPYFEQIZ) | 4:03 |
-| 78 | [Peace \- First Sessions Demo](https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Midnight Jones](https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg) | 3:53 |
-| 79 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
+| 78 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
+| 79 | [Peace \- First Sessions Demo](https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Midnight Jones](https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg) | 3:53 |
 | 80 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 |
 | 81 | [Hope](https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Hope](https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb) | 4:03 |
 | 82 | [Visions](https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 5:11 |

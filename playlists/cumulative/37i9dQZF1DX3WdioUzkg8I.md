@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-334 songs - 15 hr 47 min
+336 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Gavina](https://open.spotify.com/track/3dl8ypgkuvNw4vn3HFE1ky) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Gavina](https://open.spotify.com/album/4RteWlcqa9xzb6iKmo0ZAr) | 5:34 | 2022-01-04 | 2022-04-29 |
 | [Gentle Vortex](https://open.spotify.com/track/6wdyLelm2YoQkB0m8bK7vS) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Gentle Vortex](https://open.spotify.com/album/1OwRPJ3z2iVdITKiGfoxor) | 2:35 | 2025-01-31 | 2025-07-24 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-01-04 | 2024-11-21 |
+| [Glowfall](https://open.spotify.com/track/3MDAGUzIwtNfriGkxJAazG) | [Stardustara](https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS) | [Glowfall](https://open.spotify.com/album/6Aszp5YqbWTov0plJQbmsc) | 2:48 | 2025-10-22 |  |
 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 | 2022-01-04 | 2025-06-17 |
 | [Goodwill](https://open.spotify.com/track/1BfkOTr6W7SyXsfappHLHy) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Goodwill](https://open.spotify.com/album/5AkNMQIU6nLtldzxl4YGYH) | 3:26 | 2022-01-04 | 2025-10-01 |
 | [Growing Old](https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2) | [Ezequiel Johnson](https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC) | [Growing Old](https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS) | 2:06 | 2022-01-04 | 2025-03-06 |
@@ -240,6 +241,7 @@
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2022-03-01 | 2025-10-01 |
 | [Reading by Lamplight](https://open.spotify.com/track/1WBBxJc4heW6AQWXYkDtmK) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [Reading by Lamplight](https://open.spotify.com/album/0PEUr9dvYIlQHUpgueoxRt) | 3:11 | 2022-04-28 | 2025-10-01 |
 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 | 2025-04-01 |  |
+| [Recurrence](https://open.spotify.com/track/5cfaj5if1pr3lju6l6IlmR) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Recurrence](https://open.spotify.com/album/25v4Zjjg6TbMPcAFAPA50W) | 2:32 | 2025-10-22 |  |
 | [Reflections](https://open.spotify.com/track/1eEPjmaDkD3kQdHCZTqIuB) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Reflections](https://open.spotify.com/album/0igeDK2JW9B81QAkJ8bISO) | 3:31 | 2022-04-01 | 2025-04-02 |
 | [Refreshing](https://open.spotify.com/track/6d4hQC6SMrJQayOCwxffSn) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Flourishing](https://open.spotify.com/album/2iybo2YjIrMyHuYmhIcbd8) | 2:27 | 2022-01-04 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2022-01-04 |  |
@@ -275,7 +277,7 @@
 | [Solitude](https://open.spotify.com/track/23xaPw50MI2yuX666Jiyag) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Solitude](https://open.spotify.com/album/5UYaZ6FoT2W2RlU9H2lrZt) | 2:39 | 2022-01-04 | 2025-09-25 |
 | [Song for You](https://open.spotify.com/track/20v3MJLKuVwMjAfXlCkVvY) | [Quies Mentis](https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT) | [Song for You](https://open.spotify.com/album/6MAOc8ruWuzxdXztcNiCzO) | 2:55 | 2024-08-14 |  |
 | [Spirit In Nature](https://open.spotify.com/track/0yESmRQrIBwPooYVwz3vq7) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hope](https://open.spotify.com/album/25RZ4UlU87BazPvvU23qQ5) | 3:04 | 2022-01-04 | 2024-10-16 |
-| [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 | 2025-01-31 |  |
+| [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 | 2025-01-31 | 2025-10-23 |
 | [Still](https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Still](https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB) | 2:31 | 2022-01-04 | 2025-02-01 |
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-01-04 |  |
 | [Sueno](https://open.spotify.com/track/6ZUPb0L9JcZM1e7c1nGCIx) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Sueno](https://open.spotify.com/album/6y6lWnmpKOMXvYJgNcXKvs) | 2:43 | 2022-01-04 | 2024-10-16 |

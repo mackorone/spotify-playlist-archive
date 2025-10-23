@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,706 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,818 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 29 | [Can't Stop Us Now \- Nitti Gritti Remix](https://open.spotify.com/track/1v9Aa7OuqDjyvkz3K6NooH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Can't Stop Us Now \(Nitti Gritti Remix\)](https://open.spotify.com/album/7wpxV2k81rIXblCBX7weRp) | 3:00 |
 | 30 | [Raise Your Glass \(feat\. DINER\)](https://open.spotify.com/track/131K9WHjrZSqKIJh4kO1A7) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [DINER](https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC) | [Raise Your Glass \(feat\. DINER\)](https://open.spotify.com/album/2wzAMQg6TnW1GH64P9YWkn) | 2:00 |
 | 31 | [Tequila \- R3HAB Remix](https://open.spotify.com/track/3fsT6VEOxJz3j8cqhzK19Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tequila \(The Remixes\)](https://open.spotify.com/album/0mbXdG2oPnAa1FY1H5EpxZ) | 2:37 |
-| 32 | [Carrying the Club feat\. Cooper Alan and Shaylen](https://open.spotify.com/track/4NreLKfvwVCgrWmIsw6aLB) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Carrying the Club feat\. Cooper Alan and Shaylen](https://open.spotify.com/album/67NJIEphGhAxR3z1zrV69E) | 2:58 |
+| 32 | [Carrying the Club](https://open.spotify.com/track/4NreLKfvwVCgrWmIsw6aLB) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Carrying the Club](https://open.spotify.com/album/67NJIEphGhAxR3z1zrV69E) | 2:58 |
 | 33 | [Whiskey On You \- MOTi Remix](https://open.spotify.com/track/71lK60jidcsiwpbajRFVYX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Whiskey On You \(MOTi Remix\)](https://open.spotify.com/album/6cfd4vhDiISxkUnPIjWztR) | 3:06 |
 | 34 | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/track/1YW8olrB29icos92vsWPvd) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98) | 2:57 |
 | 35 | [Lose You Tonight](https://open.spotify.com/track/0OUREF7q7wQjbUHZYWHl28) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [Lose You Tonight](https://open.spotify.com/album/1OCiQ5H78tMxbdc4UN8heu) | 3:20 |

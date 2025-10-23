@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Dream the future\. Cover: NCT DREAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,559 likes - 26 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,539 likes - 26 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 25 | [Rocket](https://open.spotify.com/track/2hr3geQBSViX9Oi2OsnY3c) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 2:55 |
 | 26 | [Heavenly](https://open.spotify.com/track/5rwjMLBy2NA0PxmGTXsvQD) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 2:43 |
 
-Snapshot ID: `AAAAAGC/AVXw3ZVb1kaIj4/PsDw3d9kp`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

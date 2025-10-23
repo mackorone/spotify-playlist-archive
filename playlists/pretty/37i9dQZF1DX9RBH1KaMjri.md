@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RBH1KaMjri.md) - [plain]
 
 > From the clubs to the piano bars, from yesterday to today, these are the sounds of queer NYC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,366 likes - 49 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,372 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

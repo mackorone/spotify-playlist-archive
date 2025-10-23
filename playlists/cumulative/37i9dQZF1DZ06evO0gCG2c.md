@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-125 songs - 7 hr 42 min
+126 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [I Wanna Love You](https://open.spotify.com/track/6NncjnSD7JLEetWb9KqMRY) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:07 | 2021-12-28 | 2022-03-21 |
 | [I Wanna Love You \- Album Version \(Edited\)](https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i) | 2:58 | 2024-05-12 |  |
 | [I Wanna Love You \- Remix](https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:36 | 2025-05-07 |  |
-| [I'll Still Kill](https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Curtis](https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm) | 3:43 | 2021-12-28 |  |
+| [I'll Still Kill](https://open.spotify.com/track/0XV3lm3ZxKUr6FiWVdJuyk) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Curtis](https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h) | 3:43 | 2025-10-23 |  |
+| [I'll Still Kill](https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Curtis](https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm) | 3:43 | 2021-12-28 | 2025-10-23 |
 | [I'm So Paid](https://open.spotify.com/track/5264rU21ndum3CYYaSGUUm) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/7EZP6OSbWvMZTrEmlBt1HX) | 4:23 | 2021-12-28 | 2023-08-14 |
 | [I'm So Paid](https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:24 | 2023-08-13 |  |
 | [Just Go](https://open.spotify.com/track/6WZnq7grXmrbNDLQHdKhrg) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Just Go](https://open.spotify.com/album/0SF4YWvJFsZBXublew4PsF) | 4:16 | 2024-05-12 | 2024-05-13 |

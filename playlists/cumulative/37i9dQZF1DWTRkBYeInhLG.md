@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-235 songs - 15 hr 24 min
+236 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Akad](https://open.spotify.com/track/5CwcXgsF9jcyqwkl5uxKnD) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Akad](https://open.spotify.com/album/3v9VmN1VsLKLTiJyOV4Rye) | 4:19 | 2024-03-05 | 2024-09-13 |
 | [Aku Tempatmu Pulang](https://open.spotify.com/track/2THSRFEIrQHhW6zgMb4aJI) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:10 | 2025-03-03 | 2025-04-09 |
 | [Aku Tenang](https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 3:49 | 2022-12-14 | 2024-04-19 |
+| [Aku Wanita \(with Dipha Barus\)](https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [It's Me BCL](https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B) | 3:31 | 2025-10-07 |  |
 | [Aku Yang Salah](https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Aku Yang Salah](https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh) | 4:10 | 2022-12-14 | 2023-10-01 |
 | [Aku Yang Salah](https://open.spotify.com/track/4D41thx2lQiCY2r0QsfVYc) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Aku Yang Salah](https://open.spotify.com/album/7swcI60yTRtgNUncVzGyRx) | 4:11 | 2023-10-11 | 2024-04-19 |
 | [AN ISLAND](https://open.spotify.com/track/7EGR1RPJXmlPItqBHKcZff) | [Bin Idris](https://open.spotify.com/artist/1NWQaDr8SmaIKtiNz0GBG8) | [III](https://open.spotify.com/album/6YplJhAiQyfLRyUGRoqEvf) | 3:51 | 2025-06-30 | 2025-08-12 |
@@ -49,7 +50,7 @@
 | [Dari Mata](https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Dari Mata](https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh) | 3:43 | 2022-12-14 |  |
 | [daydreaming](https://open.spotify.com/track/7M9PnaNMpqqyXfSNdpYt15) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0), [Ramcey](https://open.spotify.com/artist/6yeRd57A9IoyJTODsK0H7F) | [daydreaming](https://open.spotify.com/album/65DoUqu0Ju170xKPsKLIGy) | 3:48 | 2023-09-20 | 2023-10-12 |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2022-12-14 | 2024-04-19 |
-| [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 | 2022-12-14 |  |
+| [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 | 2022-12-14 | 2025-10-23 |
 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 | 2022-12-14 |  |
 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 | 2024-03-05 |  |
 | [Dia Milikku](https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:31 | 2022-12-14 |  |

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-916 songs - 1 day 23 hr 40 min
+917 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Jamais de nous](https://open.spotify.com/track/3ujfC75PQpg3DI5bpJXYoS) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:34 | 2024-09-13 | 2025-01-07 |
 | [Je fais le sourd](https://open.spotify.com/track/2c5V0zLWBGh6qg15AJZOAn) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [L'ovni](https://open.spotify.com/album/4YdMS0CiZ3Il1tCQfi4E2E) | 3:04 | 2024-05-31 | 2024-09-28 |
 | [Je la connais](https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Anarchie](https://open.spotify.com/album/7hv9Xs3hmzGbxLPhH7Nog5) | 3:39 | 2023-03-24 | 2024-02-03 |
-| [JE M'ARRÊTE PLUS](https://open.spotify.com/track/2J09V3BdgKHhgEKQdNZU9u) | [Moumlame](https://open.spotify.com/artist/6FWvdv4pA5qYfCUf19uZob) | [JE M'ARRÊTE PLUS](https://open.spotify.com/album/6Z90bS1oJmXrn7SVHU42fd) | 3:21 | 2025-09-26 |  |
+| [JE M'ARRÊTE PLUS](https://open.spotify.com/track/2J09V3BdgKHhgEKQdNZU9u) | [Moumlame](https://open.spotify.com/artist/6FWvdv4pA5qYfCUf19uZob) | [JE M'ARRÊTE PLUS](https://open.spotify.com/album/6Z90bS1oJmXrn7SVHU42fd) | 3:21 | 2025-09-26 | 2025-10-23 |
 | [Je m'en vais](https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [Vianney](https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O) | 3:18 | 2024-10-11 | 2024-11-09 |
 | [Je me lâche](https://open.spotify.com/track/4EK7yl0mGD7LRUNSDZrsId) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Je me lâche](https://open.spotify.com/album/1rm91x9PyFtoEyS42qy7cQ) | 3:07 | 2025-03-21 | 2025-04-19 |
 | [Je serai le président de tous les Français](https://open.spotify.com/track/4qYBR4KCtaTeOBwQA2wc66) | [Malto](https://open.spotify.com/artist/1oo0gAsGtsm3jXI2gk6fSc) | [Je serai le président de tous les Français](https://open.spotify.com/album/1ILQ2BrYOxWliYAUwvLSOL) | 1:56 | 2023-06-28 | 2023-09-10 |
@@ -487,6 +487,7 @@
 | [Love Me](https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 4:15 | 2024-01-05 | 2024-05-18 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-03-07 | 2025-08-08 |
 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 | 2023-10-27 | 2024-03-23 |
+| [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 | 2025-10-22 |  |
 | [LoveHate Thing \(feat\. Sam Dew\)](https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:27 | 2025-02-14 | 2025-04-04 |
 | [Lovely](https://open.spotify.com/track/4anIBmLsJh7ymtaDardUgP) | [Léa Castel](https://open.spotify.com/artist/53ZDw5ZHldHJgaUjcJhdGc), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Lovely](https://open.spotify.com/album/479ElAHKCETeARGxSuoDA3) | 3:22 | 2025-07-09 | 2025-07-26 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 | 2023-09-26 |

@@ -908,7 +908,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX"
@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Chirapunji - From Saina Music Indie",
       "url": "https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 307879,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns"
@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2Kq0IZCEKLj7sMqUvNTMUz"
+      },
+      "artists": [
+        {
+          "name": "Jake Llaguno",
+          "url": "https://open.spotify.com/artist/6pSMaTA9Nv7fECiJPQzr4J"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/24U5rkoHV2WnFntFfHQLWr"
+    },
+    {
+      "album": {
         "name": "Some Mad Hope",
         "url": "https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu"
       },
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 206386,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 237906,
       "name": "Daughters",
       "url": "https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ"
@@ -1958,7 +1976,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 171515,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/5w44L6XIQM1SHPPEWGxcwq"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 234400,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 223714,
       "name": "Dilshad",
       "url": "https://open.spotify.com/track/487NdFWy4ie4r5xb0avzKw"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 278373,
       "name": "Dirty Paws",
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 144013,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/1EZJBB6bvCcrvYRlOyoHuf"
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "Ee Mazha Megham",
       "url": "https://open.spotify.com/track/6XiDeVfyySA2LnBPsnwXbI"
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 206735,
       "name": "Finding Her (Female Version)",
       "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 161052,
       "name": "First Time On Earth",
       "url": "https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8"
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 370920,
       "name": "Fool in the Rain - Remaster",
       "url": "https://open.spotify.com/track/3i25w2HOWoafnTIiWJCL71"
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 160147,
       "name": "FOREVER AGAIN",
       "url": "https://open.spotify.com/track/3CVQG2E6CL91pTeggbJOSj"
@@ -3210,7 +3228,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 160133,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
@@ -3452,7 +3470,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 201766,
       "name": "how do you dance?",
       "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 229303,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/2TUzU4IkfH8kcvY2MUlsd2"
@@ -3728,7 +3746,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 220588,
       "name": "If You Were the Rain",
       "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 228750,
       "name": "Ilakozhiye - From \"Thalavara\"",
       "url": "https://open.spotify.com/track/0bWSEjbLs9Byx02grLa6AX"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 99844,
       "name": "Im Doing Fine",
       "url": "https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a"
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 261219,
       "name": "Kadha Thudarum - Version, 03",
       "url": "https://open.spotify.com/track/42jdzHdxmCmSPte11RFNyl"
@@ -4628,7 +4646,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 194584,
       "name": "Kanavukalil (from \"Philips & The Monkey Pen\")",
       "url": "https://open.spotify.com/track/5TPqA5Ro6Dw4meQy60euxp"
@@ -4816,7 +4834,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 170070,
       "name": "Khalbinnakame (From \"Abhilasham\")",
       "url": "https://open.spotify.com/track/1z6yXgDAujKC9g0f3KPA5f"
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 199693,
       "name": "Led Me To You (From the Netflix Film \u2018A Beautiful Life\u2019)",
       "url": "https://open.spotify.com/track/0gyU9InhpKAg39XxTkO6qZ"
@@ -5348,7 +5366,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-13",
+      "date_removed": null,
       "duration_ms": 177034,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3LUgQ8dvw2Osf8A0nZcOo6"
@@ -5640,7 +5658,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 249534,
       "name": "Mazhamegham",
       "url": "https://open.spotify.com/track/4uY3rCTpHlq1enEiFMDrNf"
@@ -6082,7 +6100,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 275093,
       "name": "Moongil Thottam",
       "url": "https://open.spotify.com/track/5PNZX8yqzqqAMPpl3UAoaP"
@@ -6650,7 +6668,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 290000,
       "name": "Nenjukkule",
       "url": "https://open.spotify.com/track/7FEWG1bL31YAcnxJQvxJJO"
@@ -6886,7 +6904,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "No One Wants To Die Alone - Acoustic Version",
       "url": "https://open.spotify.com/track/54Lie66KFAGm0g2GDXOVtg"
@@ -6904,7 +6922,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
@@ -6958,7 +6976,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 165320,
       "name": "Numb Little Bug - Piano Version",
       "url": "https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu"
@@ -7005,6 +7023,24 @@
     },
     {
       "album": {
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
+    },
+    {
+      "album": {
         "name": "Old Phone",
         "url": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
       },
@@ -7034,7 +7070,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 221831,
       "name": "Old Phone",
       "url": "https://open.spotify.com/track/6cuGUclNrYm0QHVO2sGqow"
@@ -7164,7 +7200,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -8060,7 +8096,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 269626,
       "name": "Raye",
       "url": "https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP"
@@ -8186,7 +8222,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
@@ -8420,7 +8456,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 192288,
       "name": "Same Questions",
       "url": "https://open.spotify.com/track/0To6muig0PdccsPEezAhB8"
@@ -8522,7 +8558,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 197573,
       "name": "Save You a Seat",
       "url": "https://open.spotify.com/track/0TdacYZkgRxz8ZvHUtpimP"
@@ -8648,7 +8684,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 159068,
       "name": "She Loves the Rain",
       "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
@@ -8840,7 +8876,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
@@ -8898,7 +8934,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 179854,
       "name": "SOMEONE TO YOU",
       "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
@@ -9024,7 +9060,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 266906,
       "name": "Stay Alive - From \"The Secret Life of Walter Mitty\" Soundtrack",
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
@@ -9042,7 +9078,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -9100,7 +9136,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 279000,
       "name": "Stubborn Love",
       "url": "https://open.spotify.com/track/4wG82w1L31yQhgGiWt6gIb"
@@ -9126,7 +9162,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 178193,
       "name": "Sumahaasithe - The Waiting (From \"Abhilasham\")",
       "url": "https://open.spotify.com/track/668FHAzmLQ3HefgUHfrp2b"
@@ -9180,7 +9216,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 254853,
       "name": "Sunday Morning - Acoustic",
       "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
@@ -9762,7 +9798,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 239626,
       "name": "The Mates Of Soul - Remastered",
       "url": "https://open.spotify.com/track/0l5yhFHoOfcsNMWxMVc77W"
@@ -9802,7 +9838,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 233333,
       "name": "The Romance Of Power Paandi - Venpani Malare (Male)",
       "url": "https://open.spotify.com/track/1fXxypihXmL3LElLDg2dok"
@@ -9874,7 +9910,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 135386,
       "name": "The Way I Am",
       "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
@@ -10294,7 +10330,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -10330,7 +10366,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 215253,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3W5pRioKB2zByypTAeehyP"
@@ -10984,7 +11020,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 268973,
       "name": "Why Georgia",
       "url": "https://open.spotify.com/track/1c7UYTut2SBOPq64o2t0uN"
@@ -11110,7 +11146,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 213173,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"

@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 59578,
+  "num_followers": 59601,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 127261,
+      "name": "Cumberland Gap - Live",
+      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "A Man Must Carry On",
         "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
@@ -723,18 +739,26 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+        "name": "Putting on the Ring",
+        "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
         }
       ],
-      "duration_ms": 127261,
-      "name": "Cumberland Gap - Live",
-      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+      "duration_ms": 161309,
+      "name": "Putting on the Ring",
+      "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -767,30 +791,6 @@
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Putting on the Ring",
-        "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        },
-        {
-          "name": "John Showman",
-          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
-        },
-        {
-          "name": "Chris Coole",
-          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
-        }
-      ],
-      "duration_ms": 161309,
-      "name": "Putting on the Ring",
-      "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Americana Master Series: Best Of The Sugar Hill Years",
         "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 392200,
       "name": "We Hide And Seek",
       "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Toward the Fray",
         "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
@@ -1059,8 +1043,8 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
       "artists": [
         {
@@ -1068,13 +1052,13 @@
           "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
         },
         {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
         }
       ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 242431,
+      "name": "Two Rivers Waltz",
+      "url": "https://open.spotify.com/track/5KL3TNSegGUYRDxtiwiYmj"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1091,6 +1075,22 @@
       "duration_ms": 305160,
       "name": "Blue Men Of The Sahara",
       "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Concrete and Steel",
         "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
       },
@@ -1143,26 +1163,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
-        }
-      ],
-      "duration_ms": 242431,
-      "name": "Two Rivers Waltz",
-      "url": "https://open.spotify.com/track/5KL3TNSegGUYRDxtiwiYmj"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
         "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 221706,
       "name": "Stoney Lonesome",
       "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Bop Your Head",
-        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
-      },
-      "artists": [
-        {
-          "name": "Allen & Bright",
-          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "Bop Your Head",
-      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1219,6 +1203,22 @@
       "duration_ms": 224986,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Bop Your Head",
+        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
+      },
+      "artists": [
+        {
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "Bop Your Head",
+      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Marigold Hair",
-        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
-      },
-      "artists": [
-        {
-          "name": "David Brimer",
-          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
-        },
-        {
-          "name": "Mark Grundhoefer",
-          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
-        }
-      ],
-      "duration_ms": 153622,
-      "name": "Marigold Hair",
-      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Marigold Hair",
+        "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
+      },
+      "artists": [
+        {
+          "name": "David Brimer",
+          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+        },
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "Marigold Hair",
+      "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
         "name": "Finnland",
         "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
         }
       ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1623,6 +1607,22 @@
       "duration_ms": 318613,
       "name": "Five Points",
       "url": "https://open.spotify.com/track/0qjp00N4Q0k4qoTlmXRjFD"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
       "added_at": "2025-02-21 05:00:42",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-02-21 05:00:42",
       "album": {
+        "name": "Carolina Avenue",
+        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "Carolina Avenue",
+      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
+    },
+    {
+      "added_at": "2025-02-21 05:00:42",
+      "album": {
         "name": "Whiskey in the Jar",
         "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 135453,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
-    },
-    {
-      "added_at": "2025-02-21 05:00:42",
-      "album": {
-        "name": "Carolina Avenue",
-        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "Carolina Avenue",
-      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
     },
     {
       "added_at": "2025-02-21 05:00:42",

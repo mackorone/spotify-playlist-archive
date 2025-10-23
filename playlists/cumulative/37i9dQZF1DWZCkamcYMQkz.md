@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-187 songs - 12 hr 40 min
+188 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All Of You](https://open.spotify.com/track/65O89M7GMB8pA88VyxxJm7) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:44 | 2022-05-25 |  |
 | [All of You \(feat\. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | ['Round About Midnight](https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K) | 7:00 | 2021-12-16 | 2023-08-19 |
 | [Alright, Okay, You Win](https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:02 | 2021-12-16 |  |
+| [Ami's Dance](https://open.spotify.com/track/6grxCw2w7dCPLGaouf2CXX) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Rhythm, Melody and Harmony](https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL) | 6:36 | 2025-09-26 |  |
 | [Anything Goes](https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 3:39 | 2023-11-22 | 2024-04-19 |
 | [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 | 2021-12-16 | 2023-10-28 |
 | [Back Beat](https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Jazz Masters 35: Johnny Hodges](https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr) | 7:27 | 2023-01-17 | 2024-04-19 |
@@ -45,7 +46,7 @@
 | [Doozy](https://open.spotify.com/track/6qszUQoH3QJYvSNwFP9yJB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 5:33 | 2021-12-16 | 2022-07-29 |
 | [Doozy \- 1966 Album Version](https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 5:31 | 2022-06-28 | 2024-04-19 |
 | [Dream a Little Dream of Me](https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing With A Beat](https://open.spotify.com/album/16nNC5RMywKfmx9shprH12) | 2:41 | 2021-12-16 |  |
-| [Easy come easy go \- Edit](https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Easy come easy go \(Edit\)](https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL) | 5:14 | 2023-06-20 |  |
+| [Easy come easy go \- Edit](https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Easy come easy go \(Edit\)](https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL) | 5:14 | 2023-06-20 | 2025-10-23 |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2021-12-16 |  |
 | [El Día Feliz Que Está Llegando](https://open.spotify.com/track/3tDgxtrndyfPWSZNiBpJXl) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV) | [El Día Feliz Que Está Llegando](https://open.spotify.com/album/4hcdtal5UPhzK9Ix9yWy4f) | 4:15 | 2022-02-24 | 2023-01-12 |
 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 | 2022-06-28 | 2024-04-19 |

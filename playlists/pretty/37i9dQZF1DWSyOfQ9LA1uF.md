@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,839 likes - 75 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,843 likes - 75 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 31 | [Nightcall \- Breakbot Remix](https://open.spotify.com/track/199fvGLqoH23blptlIIz86) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 3:39 |
 | 32 | [Walkman](https://open.spotify.com/track/3vPpGtZWKVevB6FtZc9Aiv) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Ross Ross Ross](https://open.spotify.com/album/341yoHp5PzASrdmqCug1wv) | 4:59 |
 | 33 | [Hustler](https://open.spotify.com/track/6bvg95U7d69pYKPwDEyGC3) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:43 |
-| 34 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Shazam](https://open.spotify.com/artist/22gK1Q6l2AO3L8g7p4cgTW) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 |
-| 35 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 6:19 |
+| 34 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 6:19 |
+| 35 | [We Are The People \- Shazam Remix](https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Shazam](https://open.spotify.com/artist/22gK1Q6l2AO3L8g7p4cgTW) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 5:44 |
 | 36 | [& Down](https://open.spotify.com/track/3TMwHtO5c4jlnnFZK8MuBH) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Oi Oi Oi](https://open.spotify.com/album/5McKybquvC9GQ3Ppifsmxf) | 4:18 |
 | 37 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
 | 38 | [Sleep Deprivation](https://open.spotify.com/track/2E1ZDtrJtsWdkyIbPDwFTu) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 4:58 |

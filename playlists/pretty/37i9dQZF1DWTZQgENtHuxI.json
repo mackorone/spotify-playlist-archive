@@ -1,6 +1,6 @@
 {
   "description": "Sortez les pantalons pattes d\u2018eph et les chemises en satin !",
-  "num_followers": 140776,
+  "num_followers": 140771,
   "original_name": "Disco Club",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "In the Heat of the Night",
-        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 387866,
-      "name": "Just an Illusion",
-      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 375400,
       "name": "He's the Greatest Dancer - 1995 Remaster",
       "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "In the Heat of the Night",
+        "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 387866,
+      "name": "Just an Illusion",
+      "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Wordy Rappinghood",
-        "url": "https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 335000,
-      "name": "Genius Of Love",
-      "url": "https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Soup for One (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 493989,
       "name": "Why - 12\" Version",
       "url": "https://open.spotify.com/track/3hI05NM8JnJvQLZMUnRvMa"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Wordy Rappinghood",
+        "url": "https://open.spotify.com/album/68Iowv229lKyHJZxSrfKL3"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 335000,
+      "name": "Genius Of Love",
+      "url": "https://open.spotify.com/track/11aqD66CgNU4UXKGz9DtfZ"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
     }
   ],
   "unique_name": "Disco Club",

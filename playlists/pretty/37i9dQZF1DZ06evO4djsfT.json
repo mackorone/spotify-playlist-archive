@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27720,
+  "num_followers": 27725,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACf7T3UoRhnwfdcJhbMg5V1",
+  "snapshot_id": "aPbNAAAAAACfQnnCmRbqA8xqAK0EQsgh",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blameless",
-        "url": "https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hill Perry",
-          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 163037,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COUNT 'EM / TEAR OFF THE ROOF (REMIXES)",
         "url": "https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 245133,
       "name": "COUNT 'EM (REMIX)",
       "url": "https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blameless",
+        "url": "https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 163037,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 223107,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Prodigal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 156480,
       "name": "Prove It",
       "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santo (HLY FOREVER)",
         "url": "https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 166803,
       "name": "Santo (HLY FOREVER)",
       "url": "https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": null,
@@ -655,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
       "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+      "duration_ms": 173179,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
     },
     {
       "added_at": null,
@@ -715,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Epilogue.",
-        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
       "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 173179,
-      "name": "Built For This",
-      "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     },
     {
       "added_at": null,

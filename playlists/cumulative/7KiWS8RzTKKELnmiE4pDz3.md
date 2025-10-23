@@ -4,7 +4,7 @@
 
 > 
 
-1,198 songs - 2 day 13 hr 28 min
+1,199 songs - 2 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,6 +1194,7 @@
 | [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-07-12 | 2023-12-14 |
 | [Xposed](https://open.spotify.com/track/5kEcA3809KnRGpI7ml48cV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:50 | 2025-06-01 |  |
 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 | 2022-12-25 | 2023-05-09 |
+| [Ya Know](https://open.spotify.com/track/5MvaqbI1U6kXyxeH3aeKJv) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glock Bond](https://open.spotify.com/album/1J4REuUZfX1OjjQhi9whzA) | 3:04 | 2025-10-23 |  |
 | [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 | 2025-05-31 |  |
 | [Yavo \- Live](https://open.spotify.com/track/2RHV212J44yjlh0Ahi7ZvR) | [Yerachmiel Begun & The Miami Boys Choir](https://open.spotify.com/artist/6s2HLzlqGE56ToNhMvWu7Q) | [Miami On Social Media](https://open.spotify.com/album/5ZNfrmc30yRwOEFMUQNT4P) | 5:27 | 2025-08-23 |  |
 | [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 | 2025-08-16 |  |

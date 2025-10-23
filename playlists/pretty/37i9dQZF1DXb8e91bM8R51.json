@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52842,
+  "num_followers": 52846,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
         "name": "Nothing Changed",
         "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 199111,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
         "name": "I GOT ISSUES",
         "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 253913,
       "name": "Sober (feat. Roddy Ricch & Post Malone)",
       "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1890,19 +1890,11 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Die Hard",
-      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1919,30 +1911,6 @@
       "duration_ms": 223944,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
-        "name": "The Jackie (with J. Cole & Lil Tjay)",
-        "url": "https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU"
-      },
-      "artists": [
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 204434,
-      "name": "The Jackie (with J. Cole & Lil Tjay)",
-      "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1971,6 +1939,30 @@
       "duration_ms": 315102,
       "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
       "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "The Jackie (with J. Cole & Lil Tjay)",
+        "url": "https://open.spotify.com/album/6xiJPpCpSaM5l4Fz8IYjyU"
+      },
+      "artists": [
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 204434,
+      "name": "The Jackie (with J. Cole & Lil Tjay)",
+      "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
     },
     {
       "added_at": "2025-10-02 21:45:45",

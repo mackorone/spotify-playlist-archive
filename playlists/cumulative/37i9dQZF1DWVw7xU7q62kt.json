@@ -4095,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "Free Flowing",
+        "url": "https://open.spotify.com/album/2nGNo7aW940zjCUIUw7Kx2"
+      },
+      "artists": [
+        {
+          "name": "Gaslamp",
+          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Free Flowing",
+      "url": "https://open.spotify.com/track/0QIvzyV00cdv3UIWldwDtt"
+    },
+    {
+      "album": {
         "name": "Fresh out the shower",
         "url": "https://open.spotify.com/album/3S2Lnq0i89pJ47FZkUHV19"
       },
@@ -10546,7 +10564,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 118536,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2cC0dkN1nkcjOaSWPbAwce"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,385 likes - 38 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,411 likes - 38 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 37 | [Ooops](https://open.spotify.com/track/1RvhTbg8D5p4dUZSPKA4pK) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [ex:el](https://open.spotify.com/album/5q3FCcPTqLUT0UkrqMb45z) | 4:42 |
 | 38 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
 
-Snapshot ID: `aPV7gAAAAAC5Db817BWOe5pEERS2f/Tr`
+Snapshot ID: `aPbNAAAAAAB+xsJhhSLPyMAD7W/RJnOS`

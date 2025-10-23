@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367535,
+  "num_followers": 367540,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACDsiZaBnTtSeticRLPQimp",
+  "snapshot_id": "aPbNAAAAAAByt3zNw9R6IiUsNzyDqUo1",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 183013,
-      "name": "Look Up Child",
-      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 215613,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+      "duration_ms": 183013,
+      "name": "Look Up Child",
+      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Light of the World",
+        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Light of the World",
+      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hear (Live)",
         "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 364586,
       "name": "You Alone - Live",
       "url": "https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light of the World",
-        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Light of the World",
-      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
     },
     {
       "added_at": null,

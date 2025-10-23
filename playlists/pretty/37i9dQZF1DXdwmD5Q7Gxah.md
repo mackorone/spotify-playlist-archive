@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter is live 🪿</a> ft Elias Rønnenfelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,848 likes - 199 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,828 likes - 199 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

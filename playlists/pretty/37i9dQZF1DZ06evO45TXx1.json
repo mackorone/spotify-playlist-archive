@@ -1,41 +1,13 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15121,
+  "num_followers": 15127,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACsXaWko9GmZLeME7npSXvn",
+  "snapshot_id": "aPbNAAAAAABUFPb0TyyqjxZB7vSJYwT8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Botano (\u00datero Baixo)",
-        "url": "https://open.spotify.com/album/76LH5qUwb68C2J1RGtzzTp"
-      },
-      "artists": [
-        {
-          "name": "DJ Caio Prince",
-          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "DJ Thiago Martins",
-          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Botano (\u00datero Baixo)",
-      "url": "https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr"
-    },
     {
       "added_at": null,
       "album": {
@@ -199,6 +171,34 @@
       "duration_ms": 166153,
       "name": "Trabalhosa",
       "url": "https://open.spotify.com/track/36NzzUckVlKlfpvM1UQEor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Botano (\u00datero Baixo)",
+        "url": "https://open.spotify.com/album/76LH5qUwb68C2J1RGtzzTp"
+      },
+      "artists": [
+        {
+          "name": "DJ Caio Prince",
+          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Thiago Martins",
+          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Botano (\u00datero Baixo)",
+      "url": "https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr"
     },
     {
       "added_at": null,
@@ -499,6 +499,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quase Pronta Mixtape",
+        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "YORI",
+          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Sexo Hot",
+      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Queridinho de Deus",
         "url": "https://open.spotify.com/album/12FBYClyofbdrOns5C79yq"
       },
@@ -527,34 +555,6 @@
       "duration_ms": 261463,
       "name": "A Paz Que Eu Busco",
       "url": "https://open.spotify.com/track/7duBCdhN373REJUUtUHvlb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quase Pronta Mixtape",
-        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "YORI",
-          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Sexo Hot",
-      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 110071,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 163846,
       "name": "Rude",
       "url": "https://open.spotify.com/track/76uuhlsoVlG3F6Umr8mnHX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 110071,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
     },
     {
       "added_at": null,
@@ -1123,26 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "JayP",
-          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
-        }
-      ],
-      "duration_ms": 106549,
-      "name": "Atacante",
-      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 201951,
       "name": "Notas",
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/54SQtN4KEfykOFgjtKXLzr"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "JayP",
+          "url": "https://open.spotify.com/artist/1lHdqt2eVlrG5ZYyWujdu3"
+        }
+      ],
+      "duration_ms": 106549,
+      "name": "Atacante",
+      "url": "https://open.spotify.com/track/4IJJsRnEZOXgglgVEXyyAi"
     },
     {
       "added_at": null,
@@ -1275,58 +1275,6 @@
       "duration_ms": 180004,
       "name": "CUSSY",
       "url": "https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afirma Freestyle",
-        "url": "https://open.spotify.com/album/2qUEuvra3mR08zFfls6VDR"
-      },
-      "artists": [
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 165325,
-      "name": "Afirma Freestyle",
-      "url": "https://open.spotify.com/track/1v5mxZ26QrXoDIcCOyRvCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c1cido na Boca",
-        "url": "https://open.spotify.com/album/2aseP6ITCcqf11e9Y97w01"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Menorzinha",
-          "url": "https://open.spotify.com/artist/3RJgdABmH81bLY7UPixlnZ"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "\u00c1cido na Boca",
-      "url": "https://open.spotify.com/track/0vmAjXhJSBKmMMkoEXu2CI"
     }
   ],
   "unique_name": "This Is Mc Luanna",

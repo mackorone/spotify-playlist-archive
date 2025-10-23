@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2025\. Cover: BGYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,380 likes - 62 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,383 likes - 62 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 61 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 |
 | 62 | [Mailap](https://open.spotify.com/track/19qY0adCmXoYTRfZoA0P2f) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Mailap](https://open.spotify.com/album/2B0dFSFQiQYxQPVrNHzyIV) | 3:08 |
 
-Snapshot ID: `AAAAADFBkwwTOj6pPF/gU5tl0PhFCclL`
+Snapshot ID: `AAAAAPD4qYi4K1HTat9V9hEBbevBUlV0`

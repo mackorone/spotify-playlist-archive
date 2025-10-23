@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 518383,
+  "num_followers": 518550,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "Days Of Future Passed (Deluxe Version)",
@@ -375,6 +359,22 @@
       "duration_ms": 269106,
       "name": "Nights In White Satin - Single Version / Mono",
       "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 169160,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "The Very Best Of Aaron Neville",
-        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 2 (1950-1952)",
@@ -1247,6 +1231,22 @@
       "duration_ms": 182573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "The Very Best Of Aaron Neville",
+        "url": "https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Music From Big Pink (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "The Weight - Remastered",
+      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
       },
@@ -2179,6 +2195,22 @@
       "duration_ms": 162493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2215,38 +2247,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Music From Big Pink (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "The Weight - Remastered",
-      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Chapel of Love",
         "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
       },
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ain't That Good News (Remastered)",
-        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Best Of Bee Gees, Vol. 1",
         "url": "https://open.spotify.com/album/0YD5pkRnCzXeCM2z8YlvjU"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 150000,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ain't That Good News (Remastered)",
+        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
     },
     {
       "added_at": "2022-05-30 13:00:37",

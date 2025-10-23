@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,020 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,026 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 25 | [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 |
 | 26 | [إحساسي \- من مسلسل نفس](https://open.spotify.com/track/4ESpKLv5VIWpMTOc6a93Lw) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [إحساسي \(من مسلسل نفس\)](https://open.spotify.com/album/0udL0OEeCCNxKWxavW3I0L) | 3:16 |
 | 27 | [Al Najdain \(النجدين\)](https://open.spotify.com/track/2wX6tRMGNryOFsc8vuqZ4B) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Al Najdain \(النجدين\)](https://open.spotify.com/album/54N1rRSxWZlAqkEnslrOf1) | 4:13 |
-| 28 | [انا فوقت](https://open.spotify.com/track/2yYxh4hwfB6IxB4ymVKNA0) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [انا فوقت](https://open.spotify.com/album/1PcEjK3sDoZ3Swtarh7v4V) | 2:32 |
+| 28 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
 | 29 | [Chehal S3ib](https://open.spotify.com/track/2XwZYLH0bvpk3DanCENM00) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Chehal S3ib](https://open.spotify.com/album/5wZvCZrZHa7LiOpwkwoGty) | 3:15 |
-| 30 | [Al Eshrin](https://open.spotify.com/track/2lsACaA6SJEaZfsJQgNqkq) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Al Eshrin](https://open.spotify.com/album/663sqKvRzDmNsSMqICmCU6) | 3:03 |
+| 30 | [انا فوقت](https://open.spotify.com/track/2yYxh4hwfB6IxB4ymVKNA0) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [انا فوقت](https://open.spotify.com/album/1PcEjK3sDoZ3Swtarh7v4V) | 2:32 |
 | 31 | [Khatyah Ani](https://open.spotify.com/track/4FXdcubswDigCSIdx9IFNA) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Mosalsal Seher Aswad](https://open.spotify.com/album/0EqNrd5iUYdBRPZt9w9IG4) | 3:28 |
 | 32 | [فيك سر \- من مسلسل في لحظة](https://open.spotify.com/track/2Cy2I1IWv7J3tBwc7p30vi) | [Ahmed Fahmi](https://open.spotify.com/artist/76Rq7hIe7VzoXmNFnySa1j) | [فيك سر \(من مسلسل في لحظة\)](https://open.spotify.com/album/1R46ohQ0Ljs8cyk9sn8brq) | 2:32 |
 | 33 | [Ala Allah](https://open.spotify.com/track/14JaIJEJOfCBO0gL7b2oE4) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Ala Allah](https://open.spotify.com/album/4mKbrclkqbx6NBmA2hVdGh) | 3:14 |

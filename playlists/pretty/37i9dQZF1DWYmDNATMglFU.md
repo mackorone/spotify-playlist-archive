@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. meet me @ the altar
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,256 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,253 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [Problems](https://open.spotify.com/track/4s87x3NYR5myUhWS4osRXb) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Problems](https://open.spotify.com/album/7q8APfy5c1dRc78xh2gQVg) | 3:35 |
 | 80 | [Light Night Mountains All That](https://open.spotify.com/track/7F6UQyVvrmYAVyxxUF2MhT) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Light Night Mountains All That](https://open.spotify.com/album/70luuxMCnRdkfUwiEr6nKg) | 5:58 |
 
-Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`
+Snapshot ID: `AAAAANPZ5M7+603RTky7MVENSlG35V7P`

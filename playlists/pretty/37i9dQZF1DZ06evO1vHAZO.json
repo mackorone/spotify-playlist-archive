@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6157,
+  "num_followers": 6162,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAC4nG775gDzkCn8xni2oMNu",
+  "snapshot_id": "aPbNAAAAAABh2ak9jMSFB12NkRD/SiRR",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 283786,
-      "name": "Supersonic - Remastered",
-      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/7rpUsVjQyitDQ27NRybgZl"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Definitely Maybe (Remastered)",
-        "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 382266,
-      "name": "Whatever - Remastered",
-      "url": "https://open.spotify.com/track/7rpUsVjQyitDQ27NRybgZl"
+      "duration_ms": 283786,
+      "name": "Supersonic - Remastered",
+      "url": "https://open.spotify.com/track/4jJfa4mO5JjV9Tz2aAxE2M"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
       "duration_ms": 233640,
       "name": "Let's All Make Believe",
       "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Turn Up The Sun",
+      "url": "https://open.spotify.com/track/3TYfwCR3kT7ijbiGTGc5kM"
     }
   ],
   "unique_name": "This Is Oasis",

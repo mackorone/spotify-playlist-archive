@@ -4,7 +4,7 @@
 
 > Tropical nature sounds for bedtime.
 
-133 songs - 7 hr 43 min
+134 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Frogs and Rain near the River](https://open.spotify.com/track/6e5HVs8ctp5QxGShtMlEMY) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Frogs and Rain near the River](https://open.spotify.com/album/7DDVhkJ1acgUJlMFXPz73p) | 2:20 | 2023-06-20 |  |
 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 | 2021-12-22 |  |
 | [Ghosts of the Woods](https://open.spotify.com/track/2Z3NZCHCW05TxANQYPyuYj) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Evening Soundscapes](https://open.spotify.com/album/0JPQTfhNspilaTkduVToOf) | 2:31 | 2024-03-27 | 2025-07-08 |
+| [Grasshopper Song](https://open.spotify.com/track/2jJa0x8vU6LhjKbo9S5Iwo) | [Xiskko](https://open.spotify.com/artist/4UMyTN1UI04MCa5s5HO2sg) | [Grasshopper Song](https://open.spotify.com/album/2Ga9oIbuiKxZJdZdRslgd7) | 3:10 | 2025-07-21 |  |
 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 | 2022-01-06 | 2024-03-28 |
 | [Heavy Island of Borneo Ambience](https://open.spotify.com/track/42MugaGyjJt5jHcn6uXgQw) | [Nature Sound Collection](https://open.spotify.com/artist/0qhhlPFVV3YoxoB4jtqvkx) | [200 Nature Sounds](https://open.spotify.com/album/4GWSfEGWNCOGWvTkkiIgYn) | 6:00 | 2022-07-06 | 2024-04-19 |
 | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/track/4RGPG1DbWsUS6uBNxUkTnv) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/album/6VvWeQKdLlo7BiLQXBsp8k) | 2:35 | 2024-12-03 |  |
@@ -81,7 +82,7 @@
 | [Night Time Forest + Jungle Waterfall Soundscape](https://open.spotify.com/track/07mULeXBpE2Midfs1dM9Ni) | [Atmosphere Asmr](https://open.spotify.com/artist/3j1PxrhmexE5lPn5jBvBQv) | [Relaxing Nature Sounds \(Deluxe Edition\) \[Rain, Thunder, Crickets, Waves, Waterfalls, River and Spa Soundscapes\]](https://open.spotify.com/album/7o9X31puUg4szGY6eexPmZ) | 10:00 | 2021-12-22 |  |
 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 | 2023-02-20 |  |
 | [Pluie Nocturne](https://open.spotify.com/track/5PcMDn9rYtXjebDSYpkHeh) | [Birdieu](https://open.spotify.com/artist/1nXNa1ENIdB7fGKeqSAyjr) | [Pluie Nocturne](https://open.spotify.com/album/1lduLJdv1PQOwxnVdwVbJC) | 2:08 | 2022-05-24 |  |
-| [Pouring Forest](https://open.spotify.com/track/7MWXKEqFGcCV2k9EKeuYd0) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [Pouring Forest](https://open.spotify.com/album/2bHq8aLgcn4r73M5GOhzgw) | 2:02 | 2021-12-22 |  |
+| [Pouring Forest](https://open.spotify.com/track/7MWXKEqFGcCV2k9EKeuYd0) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [Pouring Forest](https://open.spotify.com/album/2bHq8aLgcn4r73M5GOhzgw) | 2:02 | 2021-12-22 | 2025-10-23 |
 | [Rain & Birds](https://open.spotify.com/track/5dWXEeQTiyFdC8xAG1TZVh) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Meditative Rain](https://open.spotify.com/album/6aOKFZw9ZBxQAaezNz5QcX) | 3:49 | 2021-12-22 |  |
 | [Rain and Bird Noise for Sleep](https://open.spotify.com/track/0BA90uMfA9Y0Ccoz1ywKf5) | [Majestic Waters](https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk) | [Green Noise Elements](https://open.spotify.com/album/0rfnM3fcNzAvv0bqMv2K1k) | 3:08 | 2023-02-20 | 2025-07-23 |
 | [Rain and Bird Sounds](https://open.spotify.com/track/1a2tFSMQyFHt8vSuQnFgl0) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Sounds of the Jungle](https://open.spotify.com/album/6KR8ekx3goy7PjLYhINlgQ) | 3:00 | 2021-12-22 |  |

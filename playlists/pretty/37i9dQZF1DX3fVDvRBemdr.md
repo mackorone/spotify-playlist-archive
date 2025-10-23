@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en Volkspop\. Cover: Samuel Welten \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR\-artiest</a>\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,600 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,604 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

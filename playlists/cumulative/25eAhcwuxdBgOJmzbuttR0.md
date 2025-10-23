@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-408 songs - 1 day 4 hr 0 min
+412 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 | 2023-03-28 |  |
 | [Broken](https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Disclaimer II](https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi) | 4:18 | 2023-10-08 |  |
 | [Build God, Then We'll Talk](https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:40 | 2023-05-09 |  |
+| [Build God, Then We'll Talk \- Live In Denver](https://open.spotify.com/track/3WIgVyhvuleR2o90Tr9bED) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 5:04 | 2025-10-22 |  |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2023-03-28 |  |
 | [CABIN IN THE WOODS](https://open.spotify.com/track/6MKIiSoBFmtTQ7G04d3hPW) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [CITY MORGUE VOLUME 3: BOTTOM OF THE BARREL](https://open.spotify.com/album/06QKM7WJc1kybQdxhYNdep) | 2:08 | 2023-03-28 |  |
 | [Cameltosis \(feat\. Slimkid 3\)](https://open.spotify.com/track/52etae4ON7iYMTHUuwjv11) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Slimkid3](https://open.spotify.com/artist/0So8Xye3CXwNVfv1EFa6gA) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:38 | 2023-06-08 |  |
@@ -374,10 +375,13 @@
 | [The Thing That Should Not Be \(Remastered\)](https://open.spotify.com/track/0Zo0GJhGcT2qKFb5NxY3Vf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 6:36 | 2023-03-28 |  |
 | [The Unforgiven](https://open.spotify.com/track/2lF8jQFhIjpmQa501sYXxR) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH) | 6:27 | 2023-03-28 |  |
 | [The Well Of Souls](https://open.spotify.com/track/1Z1GPw6RpIN7HvRysZ6RjC) | [Candlemass](https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5) | [Nightfall](https://open.spotify.com/album/5y8FM8jR8VZZnn5JqYNB8X) | 7:26 | 2025-07-09 |  |
+| [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet](https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:16 | 2025-10-22 |  |
+| [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet \- Live In Denver](https://open.spotify.com/track/4JVRqhImADrfx2Uegn1HVd) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:23 | 2025-10-22 |  |
 | [This Is The New S\*\*t](https://open.spotify.com/track/3C84jaEdYxiq8LC4jwYqj6) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The Golden Age Of Grotesque](https://open.spotify.com/album/38FWu0ePBmlNQdpg6WiLld) | 4:19 | 2023-06-27 |  |
 | [This Place Is Death](https://open.spotify.com/track/1PcF8Ics0EDPUSyLyE19Ge) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes \(Deluxe\)](https://open.spotify.com/album/4RQnFSkkZlA65Xxchhnaha) | 3:48 | 2023-04-05 |  |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2023-03-28 |  |
 | [Through the Never \(Remastered\)](https://open.spotify.com/track/0Nl9491E3l4mDUBlHhuWpD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 4:04 | 2023-03-28 |  |
+| [Tonight, Tonight \- Live In Denver](https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:06 | 2025-10-22 |  |
 | [Tornado](https://open.spotify.com/track/4eeDLPmnhz1HsNkVTBqAkP) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [Tighter](https://open.spotify.com/album/1R7cyLXrVT4Y7PnXNk7NQl) | 1:51 | 2023-03-28 |  |
 | [Tourniquet](https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:38 | 2023-03-28 |  |
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2023-03-28 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAC/6a6OyuYxbpCWICFf4/cb",
+  "snapshot_id": "aPbNAAAAAAACZKFAyCiKdyVkZflL630x",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forse 1",
+        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esc",
         "url": "https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 377533,
       "name": "Dietrofront",
       "url": "https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forse 1",
-        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 180920,
-      "name": "Retaliation",
-      "url": "https://open.spotify.com/track/5kScxhOPotAJiwbKWbM5NN"
+      "duration_ms": 57946,
+      "name": "Heart of the Volcano",
+      "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forse 3",
-        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
+        "name": "Bushido (Alessandro Cortini Re-Work)",
+        "url": "https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 414738,
-      "name": "Retta",
-      "url": "https://open.spotify.com/track/6qITKTzGwoOE5BeRmsesvT"
+      "duration_ms": 259120,
+      "name": "Bushido (Alessandro Cortini Re-Work)",
+      "url": "https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 57946,
-      "name": "Heart of the Volcano",
-      "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
+      "duration_ms": 180920,
+      "name": "Retaliation",
+      "url": "https://open.spotify.com/track/5kScxhOPotAJiwbKWbM5NN"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memorie I",
-        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
+        "name": "Forse 3",
+        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 584000,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/3jTwPA0lkh5CDH9Oa2wu6v"
+      "duration_ms": 414738,
+      "name": "Retta",
+      "url": "https://open.spotify.com/track/6qITKTzGwoOE5BeRmsesvT"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 246773,
-      "name": "Splinter Hell",
-      "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
+      "duration_ms": 106866,
+      "name": "Forgotten Paths",
+      "url": "https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bushido (Alessandro Cortini Re-Work)",
-        "url": "https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE"
+        "name": "Memorie I",
+        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 259120,
-      "name": "Bushido (Alessandro Cortini Re-Work)",
-      "url": "https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6"
+      "duration_ms": 584000,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/3jTwPA0lkh5CDH9Oa2wu6v"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 106866,
-      "name": "Forgotten Paths",
-      "url": "https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ"
+      "duration_ms": 246773,
+      "name": "Splinter Hell",
+      "url": "https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 439648,
-      "name": "Aspettare",
-      "url": "https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra"
+      "duration_ms": 458393,
+      "name": "Nonfare",
+      "url": "https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 458393,
-      "name": "Nonfare",
-      "url": "https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl"
+      "duration_ms": 439648,
+      "name": "Aspettare",
+      "url": "https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra"
     },
     {
       "added_at": null,
@@ -759,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forse 3",
-        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 769843,
-      "name": "Senza Aria",
-      "url": "https://open.spotify.com/track/3GcUWe6Fq1ULIJHKlRTyki"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento",
-        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 549544,
-      "name": "Mentre",
-      "url": "https://open.spotify.com/track/1wEdRafjcJbshtr473AHLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immediate Horizon",
         "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
       },
@@ -811,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NATI INFINITI",
-        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
       },
       "artists": [
         {
@@ -820,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 532309,
-      "name": "II",
-      "url": "https://open.spotify.com/track/17l9asCXRjqpcHnk32Hm5Q"
+      "duration_ms": 549544,
+      "name": "Mentre",
+      "url": "https://open.spotify.com/track/1wEdRafjcJbshtr473AHLg"
     },
     {
       "added_at": null,
@@ -843,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento",
-        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
+        "name": "Forse 3",
+        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
       },
       "artists": [
         {
@@ -852,9 +820,41 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Spezia",
-      "url": "https://open.spotify.com/track/6pzIffWCizN2DBqEMkajpE"
+      "duration_ms": 769843,
+      "name": "Senza Aria",
+      "url": "https://open.spotify.com/track/3GcUWe6Fq1ULIJHKlRTyki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonno",
+        "url": "https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Dell'influenza",
+      "url": "https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NATI INFINITI",
+        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 532309,
+      "name": "II",
+      "url": "https://open.spotify.com/track/17l9asCXRjqpcHnk32Hm5Q"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NATI INFINITI",
-        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 305749,
-      "name": "IV",
-      "url": "https://open.spotify.com/track/2d7tJaU6LaXMwntag1BD4k"
+      "duration_ms": 324705,
+      "name": "Grigio",
+      "url": "https://open.spotify.com/track/4m9fsS1W9PcOCyR0HVpyvc"
     }
   ],
   "unique_name": "This Is Alessandro Cortini",

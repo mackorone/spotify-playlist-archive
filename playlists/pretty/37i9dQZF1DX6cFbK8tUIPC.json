@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 561932,
+  "num_followers": 562333,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "Songs from the Valley",
+        "url": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -467,26 +483,6 @@
       "duration_ms": 170824,
       "name": "Boys Of Faith (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "The Alcott (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2025-10-17 10:54:21",
@@ -507,18 +503,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Songs from the Valley",
-        "url": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 256519,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Dream Team",
-        "url": "https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "Dream Team",
-      "url": "https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "how can i pretend?",
         "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2025-10-17 10:54:21",
+      "album": {
+        "name": "All is Love and Pain in the Mouse Parade",
+        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Tuna in a Can",
+      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -929,10 +929,26 @@
       "url": "https://open.spotify.com/track/4WFh8KiLmaCLu7QwFgTzA2"
     },
     {
-      "added_at": "2025-10-17 10:54:21",
+      "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "All is Love and Pain in the Mouse Parade",
-        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Dream Team",
+        "url": "https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ"
       },
       "artists": [
         {
@@ -940,9 +956,9 @@
           "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 186320,
-      "name": "Tuna in a Can",
-      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
+      "duration_ms": 188626,
+      "name": "Dream Team",
+      "url": "https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -959,22 +975,6 @@
       "duration_ms": 288890,
       "name": "How Could I Have Known",
       "url": "https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Just Be Simple / Leave The City",
-        "url": "https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx"
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
       "artists": [
         {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
         }
       ],
-      "duration_ms": 236033,
-      "name": "Just Be Simple",
-      "url": "https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U"
+      "duration_ms": 420458,
+      "name": "Call It Easy",
+      "url": "https://open.spotify.com/track/57s098FVVLAFdDNINJRogc"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Racing Mount Pleasant",
-        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
+        "name": "Just Be Simple / Leave The City",
+        "url": "https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx"
       },
       "artists": [
         {
-          "name": "Racing Mount Pleasant",
-          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 420458,
-      "name": "Call It Easy",
-      "url": "https://open.spotify.com/track/57s098FVVLAFdDNINJRogc"
+      "duration_ms": 236033,
+      "name": "Just Be Simple",
+      "url": "https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1553,6 +1553,22 @@
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     },
     {
+      "added_at": "2025-10-17 10:54:21",
+      "album": {
+        "name": "I OWE IT TO YOU",
+        "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "I OWE IT TO YOU",
+      "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
+    },
+    {
       "added_at": "2025-09-23 14:16:54",
       "album": {
         "name": "RUSHMERE",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Triple Marathon",
-        "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
+        "name": "Mudroom",
+        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 157223,
-      "name": "Triple Marathon",
-      "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
+      "duration_ms": 239895,
+      "name": "Mudroom",
+      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Mudroom",
-        "url": "https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc"
+        "name": "Triple Marathon",
+        "url": "https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
         }
       ],
-      "duration_ms": 239895,
-      "name": "Mudroom",
-      "url": "https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj"
+      "duration_ms": 157223,
+      "name": "Triple Marathon",
+      "url": "https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1651,22 +1667,6 @@
       "duration_ms": 270934,
       "name": "the warmth",
       "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 142097,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
     }
   ],
   "unique_name": "pumpkin spice",

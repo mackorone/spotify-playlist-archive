@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4827,
+  "num_followers": 4831,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADsAfCNMz5QRyxSYsMvz/HX",
+  "snapshot_id": "aPbNAAAAAADYZIxcmSoHbuYSwQmihD5y",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
+        "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
+      },
+      "artists": [
+        {
+          "name": "BreezyLYN",
+          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 190902,
+      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
+      "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8"
       },
@@ -415,30 +439,6 @@
       "duration_ms": 160723,
       "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
       "url": "https://open.spotify.com/track/4eTa1ZOffRhCQtnM2Ag9cB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
-        "url": "https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW"
-      },
-      "artists": [
-        {
-          "name": "BreezyLYN",
-          "url": "https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
-        }
-      ],
-      "duration_ms": 190902,
-      "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
-      "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Girl Maybach",
-        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 140409,
-      "name": "Hot Girl Maybach",
-      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Had",
         "url": "https://open.spotify.com/album/6Jgitf1VZ72NiolDFPlvX7"
       },
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wet",
-        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+        "name": "Hot Girl Maybach",
+        "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
       },
       "artists": [
         {
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 136980,
-      "name": "Wet",
-      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+      "duration_ms": 140409,
+      "name": "Hot Girl Maybach",
+      "url": "https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Just A Girl",
         "url": "https://open.spotify.com/album/5zrhSvsc1mfyrNDVkFVgSH"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 148471,
-      "name": "Toxic Chocolate",
-      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blow It (feat. Kaliii)",
         "url": "https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 163011,
       "name": "Blow It (feat. Kaliii)",
       "url": "https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148471,
+      "name": "Toxic Chocolate",
+      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 116506,
+      "name": "Stand On It",
+      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "German Engineering Zwei",
         "url": "https://open.spotify.com/album/1essCNzwTRw1tv49AuOnG2"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 169186,
       "name": "What's Tea? - with Kaliii",
       "url": "https://open.spotify.com/track/05jGCR85ce49vONuaW97ms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 116506,
-      "name": "Stand On It",
-      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Results Take Time",
-        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 155476,
-      "name": "Street Nigga (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ouuhh!!",
         "url": "https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 197066,
       "name": "Ouuhh!!",
       "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/6qWkHLpJ0T1fQGbqN1HWtD"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 155476,
+      "name": "Street Nigga (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
     }
   ],
   "unique_name": "This Is Kaliii",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,420 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,422 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Se Dice De Mi](https://open.spotify.com/track/7rb5qQHrnnwUwS4udW6J8H) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:28 |
-| 2 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
+| 2 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
 | 3 | [La noche ha caído](https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La noche ha caído](https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP) | 4:10 |
-| 4 | [Poema](https://open.spotify.com/track/1idKcTuIojEwcXXn0DyfTu) | [Romántica Milonguera](https://open.spotify.com/artist/2yN99QuwGDm319KHi1aSeY) | [Romántica Milonguera](https://open.spotify.com/album/4W4hc8GZG12mLZY9s93fvf) | 3:17 |
+| 4 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 |
 | 5 | [Vida Mia](https://open.spotify.com/track/1P77zNEkaHp4h3onP8eeMY) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vida Mía](https://open.spotify.com/album/6Zt7hlarp5sKgg01d3taj8) | 3:58 |
 | 6 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 |
 | 7 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 39 | [La Morocha](https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Cronología \- La Estrella de Buenos Aires \(1968\)](https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2) | 2:35 |
 | 40 | [Muñeca Brava](https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6) | [Malena Muyala](https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1) | [Temas Pendientes](https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB) | 2:45 |
 | 41 | [Mano a Mano](https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Puñal de Sombra](https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh) | 3:33 |
-| 42 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
-| 43 | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z) | [Ada Falcón](https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3) | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy) | 3:28 |
+| 42 | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z) | [Ada Falcón](https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3) | [Yo No Se Que Me Han Hecho Tus Ojos](https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy) | 3:28 |
+| 43 | [Soledad](https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC) | [Carolina Winograd](https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO) | [Soledad](https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj) | 3:51 |
 | 44 | [Fuga de Ausencias](https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Cabeza Negra](https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5) | 2:34 |
 | 45 | [Nunca Tuvo Novio](https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu) | [Rita Cortese](https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3) | [El Amor Ese Loco Berretin](https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj) | 3:38 |
 | 46 | [Milonga Sentimental](https://open.spotify.com/track/2kxlAkGkl4gptyF2yQI0CU) | [Mercedes Simone](https://open.spotify.com/artist/3MqKTtxz6LzNrRJugeYh8W) | [The Roots Of Tango \- Milonga Sentimental](https://open.spotify.com/album/2Rwg8FpWYzn8GD9vN5JIhw) | 2:38 |

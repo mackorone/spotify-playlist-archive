@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275529,
+  "num_followers": 275547,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACaGF0ZTQ6LnW/UtBsG+OuV",
+  "snapshot_id": "aPbNAAAAAAAR90PXxbm6znojOeCabNAk",
   "tracks": [
     {
       "added_at": null,
@@ -719,18 +719,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bionic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+        "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+        "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 257252,
-      "name": "You Lost Me",
-      "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
+      "duration_ms": 216737,
+      "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+      "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
     },
     {
       "added_at": null,
@@ -767,30 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
-        "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 216737,
-      "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
-      "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+      "duration_ms": 257252,
+      "name": "You Lost Me",
+      "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
     },
     {
       "added_at": null,

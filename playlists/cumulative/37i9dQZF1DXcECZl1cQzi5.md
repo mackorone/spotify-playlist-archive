@@ -4,14 +4,14 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-188 songs - 8 hr 59 min
+189 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [174 Hz Luminous Reefs](https://open.spotify.com/track/2PETf9K3bPRYLU7YbDtnlz) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [174 Hz Luminous Reefs](https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd) | 2:05 | 2024-03-01 | 2025-08-18 |
 | [432 Hz All One](https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs) | [Stella Oceans](https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x) | [432 Hz All One](https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV) | 2:43 | 2023-10-23 | 2025-07-05 |
 | [432 Hz Rahu \(Ocean Waves\)](https://open.spotify.com/track/21Kay5ZRTabqcBn8bopV4r) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [432 Hz Rahu \(Ocean Waves\)](https://open.spotify.com/album/2nPV7DFNF7zmTvKhG9dRvj) | 2:30 | 2024-02-06 | 2024-04-11 |
-| [432 Hz Tsiatso](https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [432 Hz Tsiatso](https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q) | 3:00 | 2024-02-06 |  |
+| [432 Hz Tsiatso](https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [432 Hz Tsiatso](https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q) | 3:00 | 2024-02-06 | 2025-10-23 |
 | [528 Hz Ocean Rest](https://open.spotify.com/track/7pT0ETj5KQ3V8JgQK0gooG) | [Particles And Waves](https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa) | [528 Hz Ocean Rest](https://open.spotify.com/album/1r5Mcxa5dDPDpTFr0Ahu5A) | 2:30 | 2023-11-24 | 2025-10-10 |
 | [A Beautiful Morning](https://open.spotify.com/track/2hgYVIsC4Bf5mBrNUlOaUE) | [Artemis](https://open.spotify.com/artist/5QtH96QxDC56UY5ZRAxI5C) | [A Beautiful Morning](https://open.spotify.com/album/7edfrheVW25c7AfjMLQ8Ix) | 2:30 | 2025-04-01 |  |
 | [A Lake Almost Still](https://open.spotify.com/track/5Ggw3iFi1C3BzAfihTX0Nu) | [Adored Swan](https://open.spotify.com/artist/4l336DEMdfVDdYuPzhp4tp) | [A Lake Almost Still](https://open.spotify.com/album/5DchAi775MrqmFUbjRBzXq) | 2:17 | 2023-10-23 | 2025-02-20 |
@@ -69,6 +69,7 @@
 | [Driftwood](https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Driftwood](https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I) | 2:33 | 2023-10-23 |  |
 | [Eclipse](https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F) | [Ember Rivera](https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS) | [Eclipse](https://open.spotify.com/album/1miJHX1yvb8kITGSeTV8a0) | 3:44 | 2025-05-21 |  |
 | [Embedded Waves](https://open.spotify.com/track/5M0bzHl4Xer4ZwiQs2ZPLR) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Embedded Waves](https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO) | 2:42 | 2024-02-06 | 2025-10-16 |
+| [Embracing Waves](https://open.spotify.com/track/4UirKhdDpOZ8tMCtrIjDw1) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Embracing Waves](https://open.spotify.com/album/5uZcvjRq5fMPywlByqJ2Yp) | 3:25 | 2025-10-02 |  |
 | [Endless 432 Hz](https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Endless 432 Hz](https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM) | 3:19 | 2023-10-23 | 2025-09-18 |
 | [Endless Ocean](https://open.spotify.com/track/3Hu72NQywzDjGwBlZttKdp) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Endless Ocean](https://open.spotify.com/album/6G1vgA7HXZf5nDHBsnl7E3) | 3:10 | 2025-01-15 |  |
 | [Enlightened Adrift](https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Enlightened Adrift](https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp) | 2:30 | 2024-02-06 | 2025-04-05 |

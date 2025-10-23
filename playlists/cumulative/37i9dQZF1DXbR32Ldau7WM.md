@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Ling Tosite Sigure 凛として時雨
 
-1,421 songs - 3 day 21 hr 0 min
+1,421 songs - 3 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Lonely Girl, Dreaming Girl](https://open.spotify.com/track/6oHJLXkgQIlpoTD0vMbX0r) | [PORTABLE ROCK](https://open.spotify.com/artist/1vKnlXAnuztfdvpAsZ3yDg) | [Lonely Girl, Dreaming Girl](https://open.spotify.com/album/6TaeLymFoZzPRnxBgSzkSy) | 3:43 | 2022-05-10 | 2022-05-18 |
 | [LONG LIVE ROCK](https://open.spotify.com/track/08GmQyjnL0kkMUuzaYsOFo) | [Radio Caroline](https://open.spotify.com/artist/5HtJaOrfES9nYNOPSyiXwX) | [High Tide](https://open.spotify.com/album/0jW26wQcK5ZviH3M9rGlUV) | 4:10 | 2023-09-12 | 2023-09-14 |
 | [Long Live Rock](https://open.spotify.com/track/7IYrXDZhuYP1O3k7UUxWAf) | [Radio Caroline](https://open.spotify.com/artist/5HtJaOrfES9nYNOPSyiXwX) | [High Tide](https://open.spotify.com/album/1XjgZE1HSKJxITFxH5RMX4) | 4:10 | 2023-09-12 | 2023-09-20 |
-| [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [](https://open.spotify.com/album/null) | 4:08 | 2025-10-21 |  |
+| [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 | 2025-10-21 |  |
 | [Loss\(Angels\)](https://open.spotify.com/track/2oHluzjZJkIA28X5H1zLKG) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Loss\(Angels\)](https://open.spotify.com/album/5qGkEHJOnzfmNCeDdlzvVA) | 4:01 | 2023-12-05 | 2024-01-24 |
 | [LOST](https://open.spotify.com/track/6oNx3YLmwhEY3QxcJBugzU) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/3hZAZRM8TWSL3Hby4t2myS) | 4:02 | 2023-11-21 | 2023-12-09 |
 | [LOST](https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOST](https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu) | 4:03 | 2023-11-21 | 2023-11-23 |
@@ -552,6 +552,7 @@
 | [pray](https://open.spotify.com/track/3oreXQb2kmZj1EJD98NjCq) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 4:12 | 2023-07-11 | 2023-07-13 |
 | [pray](https://open.spotify.com/track/7BkGZVTdlz0lQfecp07RR5) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 4:12 | 2023-07-11 | 2023-07-19 |
 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 | 2025-06-24 | 2025-09-10 |
+| [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 |  |
 | [Psycho flowers](https://open.spotify.com/track/7ojiNfzXOK27Uy2nXKovfE) | [OUTRAGE](https://open.spotify.com/artist/0olIu1jyt7RrXOQVAdc5LG) | ["Psycho flowers" "Summer rain"](https://open.spotify.com/album/1anvZ9uXENT23a2jg5I3kC) | 3:52 | 2022-08-23 | 2022-09-07 |
 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 | 2025-01-21 | 2025-10-09 |
 | [Pure Green](https://open.spotify.com/track/5BTPjsqZlFKsvXaSaNEnTc) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Pure Green](https://open.spotify.com/album/145Ga4i1lUhkXAFLBFBco1) | 4:02 | 2024-04-30 | 2024-09-04 |
@@ -771,7 +772,6 @@
 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 | 2022-11-08 | 2022-11-16 |
 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2023-06-28 |
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-07-30 | 2024-10-09 |
-| [Track 1](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-21 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-08-06 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-25 |  |

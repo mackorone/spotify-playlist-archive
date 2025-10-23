@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 466865,
+  "num_followers": 467078,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -507,8 +507,8 @@
     {
       "added_at": "2025-09-24 08:35:19",
       "album": {
-        "name": "LOS CUADROS",
-        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 160409,
-      "name": "LOS CUADROS",
-      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
+      "duration_ms": 225480,
+      "name": "GAVIL\u00c1N II",
+      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
     },
     {
       "added_at": "2025-09-24 08:35:19",
@@ -611,8 +611,8 @@
     {
       "added_at": "2025-09-24 08:35:19",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "LOS CUADROS",
+        "url": "https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 225480,
-      "name": "GAVIL\u00c1N II",
-      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
+      "duration_ms": 160409,
+      "name": "LOS CUADROS",
+      "url": "https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W"
     },
     {
       "added_at": "2025-09-24 08:35:19",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-09-24 08:35:19",
       "album": {
-        "name": "Patrullon",
-        "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        },
-        {
-          "name": "Clase Personal",
-          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
-        }
-      ],
-      "duration_ms": 158517,
-      "name": "Patrullon",
-      "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
-    },
-    {
-      "added_at": "2025-09-24 08:35:19",
-      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 166821,
       "name": "Igualito a Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
+    },
+    {
+      "added_at": "2025-09-24 08:35:19",
+      "album": {
+        "name": "Patrullon",
+        "url": "https://open.spotify.com/album/5xj5BZBQvm6wcXf5iFrDiP"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        },
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        }
+      ],
+      "duration_ms": 158517,
+      "name": "Patrullon",
+      "url": "https://open.spotify.com/track/54AkMJKLhLmw8lQTYiLh8g"
     },
     {
       "added_at": "2025-09-24 08:35:19",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-09-24 08:35:19",
       "album": {
-        "name": "No Eramos Pobres",
-        "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "No Eramos Pobres",
-      "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
-    },
-    {
-      "added_at": "2025-09-24 08:35:19",
-      "album": {
         "name": "Hasta Enfrente",
         "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 164565,
       "name": "Hasta Enfrente",
       "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
+    },
+    {
+      "added_at": "2025-09-24 08:35:19",
+      "album": {
+        "name": "No Eramos Pobres",
+        "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "No Eramos Pobres",
+      "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
     },
     {
       "added_at": "2025-09-24 08:35:19",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2025-09-24 08:35:19",
       "album": {
-        "name": "Contrato A La Vida",
-        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 186366,
-      "name": "Chambeando En Lo Verde",
-      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
-    },
-    {
-      "added_at": "2025-09-24 08:35:19",
-      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 158918,
       "name": "Punto y Aparte",
       "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+    },
+    {
+      "added_at": "2025-09-24 08:35:19",
+      "album": {
+        "name": "Contrato A La Vida",
+        "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 186366,
+      "name": "Chambeando En Lo Verde",
+      "url": "https://open.spotify.com/track/7qfEXN9F6xhtgpsadxQu8m"
     },
     {
       "added_at": "2025-09-24 08:35:19",

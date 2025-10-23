@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,908 likes - 120 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,003 likes - 120 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 119 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 |
 | 120 | [Lichtung](https://open.spotify.com/track/0Kj7AJaaO6g18tGGWmLR41) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Lichtung](https://open.spotify.com/album/4wDAAvscm1eZwclWzkogB0) | 7:19 |
 
-Snapshot ID: `AAAAAFESaQgikSf/Ux+DPBvGDjHYqihB`
+Snapshot ID: `AAAAAESp/yNtdUajUsmjgFlsaNXMCSGk`

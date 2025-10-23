@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,364 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,194 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 49 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 |
 | 50 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 |
 | 51 | [Wenn das Liebe ist](https://open.spotify.com/track/1E7xmNFzqkkh1DMwBomBg3) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wenn das Liebe ist](https://open.spotify.com/album/6YqNO9MXKvaazkweRM4xpY) | 2:44 |
-| 52 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
-| 53 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
+| 52 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 |
+| 53 | [A me mi piace](https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [A me mi piace](https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ) | 2:20 |
 | 54 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 55 | [Bella Napoli](https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Bella Napoli](https://open.spotify.com/album/1yRV305TLlttFq1RqXy9we) | 3:55 |
 | 56 | [CONNECTED](https://open.spotify.com/track/4uFOYZtzKEJElfzpbqbk6N) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [CONNECTED](https://open.spotify.com/album/2g4OdxufIvT7n1QyJhosWC) | 2:38 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 66 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 |
 | 67 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 |
 | 68 | [Helele](https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU) | [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Helele](https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de) | 2:10 |
-| 69 | [Flowers](https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Flowers](https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ) | 2:33 |
-| 70 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 |
+| 69 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 |
+| 70 | [Flowers](https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Flowers](https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ) | 2:33 |
 
 Snapshot ID: `AAAAAFD6G8R6WiS5vx5+29YD3npAAGxF`

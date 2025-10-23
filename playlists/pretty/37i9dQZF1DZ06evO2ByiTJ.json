@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15574,
+  "num_followers": 15576,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAAhoZBhckHoM8Tw0FhnTSjj",
+  "snapshot_id": "aPbNAAAAAABFMP0irVfFhqa6OqQDK7KW",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 323361,
+      "name": "Tempo de Deus",
+      "url": "https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 323361,
-      "name": "Tempo de Deus",
-      "url": "https://open.spotify.com/track/3mB35vJRJwwiwGawPACdHW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ex\u00e9rcito de Deus",
         "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Templo Fit Remix",
-        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Volte a Sonhar Remix",
-      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 247246,
       "name": "Lindo Presente",
       "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Templo Fit Remix",
+        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Volte a Sonhar Remix",
+      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elaine Martins (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -567,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
       },
       "artists": [
         {
@@ -576,9 +560,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 249786,
-      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
+      "duration_ms": 313946,
+      "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 253000,
       "name": "Ningu\u00e9m Pode Impedir (Ao Vivo)",
       "url": "https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 249786,
+      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 271534,
-      "name": "Buscar Tua Face \u00e9 Preciso",
-      "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e1gina em Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 309243,
       "name": "P\u00e1gina em Branco (Ao Vivo)",
       "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 271534,
+      "name": "Buscar Tua Face \u00e9 Preciso",
+      "url": "https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU"
     },
     {
       "added_at": null,
@@ -775,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumpra o Seu Chamado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
+        "name": "Ora Um Pouco Mais",
+        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
       },
       "artists": [
-        {
-          "name": "\u00c1lvaro Tito",
-          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
-        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 258670,
-      "name": "O Reino (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
+      "duration_ms": 278517,
+      "name": "Ora Um Pouco Mais",
+      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ora Um Pouco Mais",
-        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
+        "name": "Cumpra o Seu Chamado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS"
       },
       "artists": [
+        {
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+        },
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 278517,
-      "name": "Ora Um Pouco Mais",
-      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
+      "duration_ms": 258670,
+      "name": "O Reino (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 282447,
-      "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Elyon",
         "url": "https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 240976,
       "name": "El Elyon",
       "url": "https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 282447,
+      "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bastidores da Alma",
+        "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Bastidores da Alma",
+      "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Filho Volta (Ao Vivo)",
         "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 260062,
       "name": "Filho Volta (Ao Vivo)",
       "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bastidores da Alma",
-        "url": "https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Bastidores da Alma",
-      "url": "https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD"
     }
   ],
   "unique_name": "This Is Elaine Martins",

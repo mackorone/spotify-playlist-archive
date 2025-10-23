@@ -4,7 +4,7 @@
 
 > Brand new music from The Last Dinner Party, Sam Fender, Tame Impala and more!
 
-18,876 songs - 42 day 12 hr 28 min
+18,877 songs - 42 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2090,7 +2090,7 @@
 | [Body Behave](https://open.spotify.com/track/0ljwpHmpnB97a2QTdttJeY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns \(Extended\)](https://open.spotify.com/album/6ZgeiRUwdC9MaBCeL8EV3a) | 2:51 | 2025-10-02 | 2025-10-10 |
 | [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-01-27 | 2023-02-03 |
 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 | 2023-08-24 | 2023-09-01 |
-| [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-16 |  |
+| [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-16 |  |
 | [Body Groovin'](https://open.spotify.com/track/2KFZwkak8Co1SMmg4kUKon) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groovin'](https://open.spotify.com/album/5VXjvir3QYAi1lwXf0epRa) | 2:47 | 2023-09-14 | 2023-09-22 |
 | [Body Language](https://open.spotify.com/track/3WNX469Jqc1TeeOGPw75LV) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY) | [Body Language](https://open.spotify.com/album/6Zp9uGDkMnSIhsdSV9tg9g) | 3:21 | 2024-05-02 | 2024-05-10 |
 | [Body Language](https://open.spotify.com/track/1ac3DHLii728GuifgZRjFh) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Body Language](https://open.spotify.com/album/0zK4P8P0z9Hcf5uQISQ2fT) | 2:13 | 2025-01-24 | 2025-01-31 |
@@ -3537,6 +3537,7 @@
 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 | 2025-05-01 | 2025-05-09 |
 | [Crystal Body](https://open.spotify.com/track/0KXYTCpCehiCuJMKO8WDea) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Crystal Body](https://open.spotify.com/album/4buETyZvDwjVzVZlZdxKQt) | 4:30 | 2025-02-07 | 2025-02-14 |
 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 | 2024-03-15 | 2024-03-22 |
+| [Crystallise](https://open.spotify.com/track/3kReiSUQNYZkY8e96EZFDz) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Crystallise](https://open.spotify.com/album/6DGXwJI6H1wDfDo52X6KqQ) | 4:24 | 2025-10-16 |  |
 | [Crystallize \(feat\. Nu\-La\)](https://open.spotify.com/track/2xrrsL3J9uvCjwxtw4EQcG) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Crystallize \(feat\. Nu\-La\)](https://open.spotify.com/album/6eiNWAqnBCvy6DguvD3q9r) | 3:14 | 2025-08-21 | 2025-08-29 |
 | [crystallized \(feat\. Inéz\)](https://open.spotify.com/track/6YiIWuVXS4AqF1KvUGMwyx) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [crystallized \(feat\. Inéz\)](https://open.spotify.com/album/5PnlLTo9MLkbd4noHgisk9) | 3:37 | 2025-09-12 | 2025-09-20 |
 | [CRÈME BRÛLÉE!](https://open.spotify.com/track/0vG00tUzNqeQ4Yt2y5Bcyb) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [CRÈME BRÛLÉE!](https://open.spotify.com/album/58eBBZo09rnbbhX03ggp9c) | 2:15 | 2022-11-11 | 2022-11-18 |

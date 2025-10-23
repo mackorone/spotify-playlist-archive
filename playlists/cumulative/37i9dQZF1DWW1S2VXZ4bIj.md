@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: WANYAi, Z9
 
-557 songs - 1 day 9 hr 49 min
+558 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [คนจริงใจ \(feat\. พงศ์ พัทลุง, ปู่จ๋าน ลองไมค์ & Lamyai Haitongkam\)](https://open.spotify.com/track/3PRRNMQUjnFbZhvtPd37F3) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [พงศ์ พัทลุง](https://open.spotify.com/artist/5qNjSZ0y0Z9qqP1DFC5fnc), [ปู่จ๋าน ลองไมค์](https://open.spotify.com/artist/23YWwPEvaO5HLqEMgiUXJa), [Lamyai Haitongkam](https://open.spotify.com/artist/2JERRcsJmtVhbc9uTH7h4t) | [Fate Ωmega](https://open.spotify.com/album/1vnKkFW0EK0ihTX5Z912ca) | 4:23 | 2025-07-31 |  |
 | [คนฝั่งทน \(Unbreakable\)](https://open.spotify.com/track/2qeWMl96NWlhVmYBjRl2hJ) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [TaitosmitH](https://open.spotify.com/artist/0CR1aLS3JQTlekHgHTga60) | [คนฝั่งทน \(Unbreakable\)](https://open.spotify.com/album/5FdN3jDCc2M7vDCx0eTYWZ) | 4:06 | 2025-05-16 | 2025-05-23 |
 | [คนเดียวบนโลก\(U\)](https://open.spotify.com/track/2rcDi4sIkOPg102RWc3dmy) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [คนเดียวบนโลก\(U\)](https://open.spotify.com/album/2wmjvtFbwS4sWKuSYqnJqN) | 4:08 | 2024-12-26 | 2025-01-25 |
-| [คนโปรด \(Close Friend\)](https://open.spotify.com/track/28o3xMVVQgHe0QS3BSy75N) | [Muzik Move Artists](https://open.spotify.com/artist/6cKC0i2lrwvcx7t4tldxCZ) | [คนโปรด \(Close Friend\)](https://open.spotify.com/album/6jzfV0QbpCmK1Sk6JBqn5u) | 3:39 | 2025-10-10 |  |
+| [คนโปรด \(Close Friend\)](https://open.spotify.com/track/28o3xMVVQgHe0QS3BSy75N) | [Muzik Move Artists](https://open.spotify.com/artist/6cKC0i2lrwvcx7t4tldxCZ) | [คนโปรด \(Close Friend\)](https://open.spotify.com/album/6jzfV0QbpCmK1Sk6JBqn5u) | 3:39 | 2025-10-10 | 2025-10-23 |
 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 | 2024-08-30 |  |
 | [คล้ายสวรรค์​ \(close to heaven\)](https://open.spotify.com/track/76RK8f6XK2r34jvWU6YDac) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [คล้ายสวรรค์​ \(close to heaven\)](https://open.spotify.com/album/6ma4cXM7rSS0qcPPcSxmth) | 3:35 | 2025-02-21 | 2025-06-01 |
 | [ความคาดหวัง](https://open.spotify.com/track/4n8TKmRLfD82RWnhb6HMNw) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [ตูน BODYSLAM](https://open.spotify.com/artist/4fJPoRaV3IZGDVFIMQ3EWw), [ปั๊บ Potato](https://open.spotify.com/artist/2tm6jmamokqIxFSaOEEyRz) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:23 | 2024-08-30 |  |
@@ -447,7 +447,7 @@
 | [หยอกไม่หลอก \(TRICK OR TREAT\)](https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \- Single](https://open.spotify.com/album/0KX3FdLHvQZtbKwri44BmX) | 3:37 | 2024-11-01 | 2024-11-09 |
 | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/track/1E7wgi9Ni4WhS6ZpqZpRqQ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/album/5yORwvTp3m9IWnLib8cdhf) | 3:16 | 2025-08-08 | 2025-08-22 |
 | [หยุดรัก](https://open.spotify.com/track/25fT6Vb2RXblQ47z0QeKg2) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB), [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [หยุดรัก](https://open.spotify.com/album/1VFxDd6tmkZazPDr9VzrwW) | 4:40 | 2025-09-19 | 2025-10-04 |
-| [หยุดเวลา](https://open.spotify.com/track/2UvP41BxmpflMDrcdQlKG1) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [หยุดเวลา](https://open.spotify.com/album/3MpQIjMCMgWRnL8AAekbyk) | 4:40 | 2025-10-10 |  |
+| [หยุดเวลา](https://open.spotify.com/track/2UvP41BxmpflMDrcdQlKG1) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [หยุดเวลา](https://open.spotify.com/album/3MpQIjMCMgWRnL8AAekbyk) | 4:40 | 2025-10-10 | 2025-10-23 |
 | [หลง](https://open.spotify.com/track/3PsB1HkYkzegKJfz4I5q4e) | [JODAI](https://open.spotify.com/artist/0eKqmbA0GNAKxYXr5mLIPd) | [หลง](https://open.spotify.com/album/41Xmy2NIDNjo8f8g5SRHxL) | 3:46 | 2024-06-27 | 2024-07-13 |
 | [หลับตาลง \(Dream A Dream\)](https://open.spotify.com/track/01JmglS4X4Adg9qmsUoB6Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [หลับตาลง \(Dream A Dream\)](https://open.spotify.com/album/3eQRcl3CUXwk2J6cnzrI5H) | 4:05 | 2024-08-16 | 2024-09-20 |
 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 | 2025-10-10 |  |
@@ -519,6 +519,7 @@
 | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/album/4WuZYQx6xvRxwvhlNqroZl) | 4:03 | 2025-07-18 | 2025-08-01 |
 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 | 2024-06-27 | 2024-07-06 |
 | [เอ็นดู](https://open.spotify.com/track/2ZHtauPTfmZJhlbRdlyM9P) | [Paradox](https://open.spotify.com/artist/32bq0Oy4ygWPR5ItUM5J5M) | [เอ็นดู \- Single](https://open.spotify.com/album/2sRprySk4hYdhwebAIDDxY) | 3:27 | 2024-07-05 | 2024-07-20 |
+| [แก้บน](https://open.spotify.com/track/1tBFg7D6aSmZb9KUl7FPbu) | [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv) | [แก้บน](https://open.spotify.com/album/5fBqn3HW1usEd3Cl5Y5lq8) | 3:48 | 2025-10-22 |  |
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-27 | 2025-04-11 |
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-06-27 | 2025-05-02 |
 | [แบบที่ฉันเคยทำ](https://open.spotify.com/track/3lR3TCz0rBkXxL9XTpBMNB) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [แบบที่ฉันเคยทำ](https://open.spotify.com/album/4obX6QrYrEGPI2LgVVWnoL) | 4:16 | 2024-06-27 | 2024-09-07 |

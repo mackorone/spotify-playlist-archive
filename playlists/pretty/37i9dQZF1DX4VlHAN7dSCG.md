@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 理想混蛋 \(Bestards\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,529 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,534 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 4 | [愛我別走 \- 滾石撞樂隊2 \(原唱:張震嶽\)](https://open.spotify.com/track/6xbfFnHhCCfuGivH5IRbXU) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [滾石撞樂隊2 \- 愛我別走](https://open.spotify.com/album/789k5EdFRazxLONcSv6LwD) | 3:17 |
 | 5 | [星星在跳舞 \(feat\. 張立長\)](https://open.spotify.com/track/1cf33PEfVJS6NBbtOwabCw) | [宋德鶴](https://open.spotify.com/artist/6jRVqBhXHlT61Nr3j3H9eI), [張立長](https://open.spotify.com/artist/0tmxnTgO4iNaYPxBQI4gvP) | [星星在跳舞](https://open.spotify.com/album/1HtI20IAu4RCsbkXvbi8s3) | 3:36 |
 | 6 | [巷仔尾ㄟ歌 \- 嘻哈版](https://open.spotify.com/track/0c5MTXDH0SF7HertBbfcIe) | [壞胚子BAD MAN](https://open.spotify.com/artist/4fk1PPhCwppRvWS0VtbFRK) | [巷仔尾ㄟ歌 \(嘻哈版\)](https://open.spotify.com/album/3VaETp1fnhpQsHOhE722ex) | 2:48 |
-| 7 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:34 |
+| 7 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 |
 | 8 | [Riddle Puzzle \- Live](https://open.spotify.com/track/4l8zUJUtAMkRjtmOCQIuUD) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA), [CINEMAPHONIC](https://open.spotify.com/artist/3RH6MrwIQhIVvfpE3Ireae) | [布萊梅 Bremen Entertainment Inc\. on CINEMAPHONIC \(Live\)](https://open.spotify.com/album/7jzcct9zNfeOceCdsAz1fJ) | 5:06 |
 | 9 | [Invincible \- Netflix影集《回魂計》插曲](https://open.spotify.com/track/3ESaFhPZh7MvuJTJmNmerc) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [Invincible \(Netflix影集《回魂計》插曲\)](https://open.spotify.com/album/7McbXC1sD4dgXKWDgtJczg) | 3:21 |
 | 10 | [如果過去能夠過去 \- 夏日戀情版](https://open.spotify.com/track/6qrxFLATE74xXdQXHaPMUb) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [如果過去能夠過去 \(夏日戀情版\)](https://open.spotify.com/album/0CnktrQEi4tyMscGBkEy8N) | 4:35 |

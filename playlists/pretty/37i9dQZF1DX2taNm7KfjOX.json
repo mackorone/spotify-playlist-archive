@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Big Thief",
-  "num_followers": 1361146,
+  "num_followers": 1361076,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Forever Is A Feeling",
-        "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 203490,
-      "name": "Bullseye (with Hozier)",
-      "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Forever Is A Feeling",
+        "url": "https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 203490,
+      "name": "Bullseye (with Hozier)",
+      "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "I Saw The Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 264664,
-      "name": "I Saw The Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "My Finest Work Yet",
         "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 317413,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/7oChm7YC5PS1NvEkRCgswG"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "I Saw The Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "I Saw The Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "goodbye",
-        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "goodbye",
-      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "You'd Kill Me If You Could",
         "url": "https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 207000,
       "name": "You'd Kill Me If You Could",
       "url": "https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 144186,
       "name": "Half Your Love",
       "url": "https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "rain",
         "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
         "name": "Chaos Angel",
         "url": "https://open.spotify.com/album/5AyYM1rZBAiLO0EcgLEaJ2"
       },
@@ -1403,38 +1403,6 @@
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/6F49TZfQKs658WuxeKgF4R"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "Living",
-        "url": "https://open.spotify.com/album/3C4N0csezUXLqo5aEsR4Ae"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "Living",
-      "url": "https://open.spotify.com/track/41RCdAt1hvIfBOg5gsdCdz"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1455,6 +1423,38 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Living",
+        "url": "https://open.spotify.com/album/3C4N0csezUXLqo5aEsR4Ae"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "Living",
+      "url": "https://open.spotify.com/track/41RCdAt1hvIfBOg5gsdCdz"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
         "name": "My Light, My Destroyer",
         "url": "https://open.spotify.com/album/5Px8e7X2ohQr0Tf3a73oLJ"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "The Explorer",
-        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "The Explorer",
-      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Dirty Laundry",
         "url": "https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 156414,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "The Explorer",
+        "url": "https://open.spotify.com/album/0u4sYVjIp7dE8n6r2VlNp9"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 174200,
+      "name": "The Explorer",
+      "url": "https://open.spotify.com/track/7xvrPR9nT6BAaUKgkqvJh2"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "The Space Between",
-        "url": "https://open.spotify.com/album/73BxuAtQLUMR30pRPN535y"
-      },
-      "artists": [
-        {
-          "name": "Hannah Frances",
-          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
-        },
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 347484,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/6pdbsf3L7iqDwqRe6VNHeu"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Mark William Lewis",
         "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 262205,
       "name": "Slow Running",
       "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/73BxuAtQLUMR30pRPN535y"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        },
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 347484,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/6pdbsf3L7iqDwqRe6VNHeu"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Can\u2019t Do Much",
-      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1895,6 +1879,42 @@
       "duration_ms": 210353,
       "name": "Kyoto - Spotify Singles",
       "url": "https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Can\u2019t Do Much",
+      "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        },
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 143560,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1927,26 +1947,6 @@
       "duration_ms": 272065,
       "name": "Stick Around",
       "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        },
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 143560,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 203235,
-      "name": "Lonely Cowboy - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Snowpath",
         "url": "https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 133000,
       "name": "Snowpath",
       "url": "https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Lacy",
-        "url": "https://open.spotify.com/album/6rrtxFE9v7KoFtQTOaRIcL"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hill",
-          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "Lacy",
-      "url": "https://open.spotify.com/track/6ESHqiMe8ZZ3SCORdbGx0F"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "I Imagine You Are Happy",
         "url": "https://open.spotify.com/album/3aEZw35iy4byUNEc6vcK25"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 217570,
       "name": "I Imagine You Are Happy",
       "url": "https://open.spotify.com/track/6xoNSCZMDFOgLSFsOz1YjL"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Lacy",
+        "url": "https://open.spotify.com/album/6rrtxFE9v7KoFtQTOaRIcL"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hill",
+          "url": "https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Lacy",
+      "url": "https://open.spotify.com/track/6ESHqiMe8ZZ3SCORdbGx0F"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2467,26 +2467,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Always Were",
-        "url": "https://open.spotify.com/album/1ySX3mzn9jz0DwFiZbZRrS"
-      },
-      "artists": [
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        },
-        {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
-        }
-      ],
-      "duration_ms": 266003,
-      "name": "Always Were",
-      "url": "https://open.spotify.com/track/7CC1QCR58qZER0CGlOaxU2"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -2499,6 +2479,22 @@
       "duration_ms": 245776,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Halloween Store",
+      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2519,18 +2515,22 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+        "name": "Always Were",
+        "url": "https://open.spotify.com/album/1ySX3mzn9jz0DwFiZbZRrS"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
         }
       ],
-      "duration_ms": 179280,
-      "name": "Halloween Store",
-      "url": "https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV"
+      "duration_ms": 266003,
+      "name": "Always Were",
+      "url": "https://open.spotify.com/track/7CC1QCR58qZER0CGlOaxU2"
     },
     {
       "added_at": "2025-10-17 04:00:57",

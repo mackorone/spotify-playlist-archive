@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,064 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,141 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 16 | [River Roots](https://open.spotify.com/track/2g8lc5nr98KWHdQHh0FdNP) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Weather and Nature Sounds](https://open.spotify.com/album/3wWgSu413Q50AqwXnc6Ui7) | 3:02 |
 | 17 | [Recordings from Avaiki Cave](https://open.spotify.com/track/2eA1w9Q6bfMusKEbOe7bSb) | [Shoreline](https://open.spotify.com/artist/79VpsHg6Cb4FOzObCEh42h) | [Recordings from Avaiki Cave](https://open.spotify.com/album/6JBeZUOWw58Ou5sjJNBa6l) | 3:20 |
 | 18 | [A Babbling Brook](https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Babbling Stream in the Forest](https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda) | 3:21 |
-| 19 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
-| 20 | [Mossy Mountain Calm](https://open.spotify.com/track/65Mbf2HRXivSYfCVBxORBL) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Mossy Mountain Calm](https://open.spotify.com/album/6H0se40CddIdv18qdMnU6N) | 3:55 |
+| 19 | [Mossy Mountain Calm](https://open.spotify.com/track/65Mbf2HRXivSYfCVBxORBL) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Mossy Mountain Calm](https://open.spotify.com/album/6H0se40CddIdv18qdMnU6N) | 3:55 |
+| 20 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
 | 21 | [Overflowing Stream](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 |
 | 22 | [Gentle River in Bad Kleinkirchheim](https://open.spotify.com/track/4Pgvc6FHv0mQVQTzWHR89b) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Streaming Waters](https://open.spotify.com/album/2S1r91o8tF7X2mxaT8DV4A) | 3:28 |
 | 23 | [Brown Noise Inner Peace](https://open.spotify.com/track/0glhSisKxAKCjF4z4Hv3Yd) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Brown Noise Inner Peace](https://open.spotify.com/album/2nXBaaO1BQ2ucogV2REqCS) | 3:26 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 47 | [Sound Of The Brook](https://open.spotify.com/track/7uowYLfmCRzUsGsWUGUTZR) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Sound Of The Brook](https://open.spotify.com/album/5Zmh803Q2FStZrPpisw5Qy) | 3:51 |
 | 48 | [Forest Creek for Sleeping](https://open.spotify.com/track/4z328Z1jztGtCgTSixowmY) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Forest Creek](https://open.spotify.com/album/4Gd0bYZO9u4i6UPN0rCSok) | 2:12 |
 | 49 | [Deep River Rapid Flow](https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:02 |
-| 50 | [Zenful Water](https://open.spotify.com/track/3Umi1MexD0B01HXRjo0k48) | [Japanese Garden](https://open.spotify.com/artist/3oIpb7nuzcXKzS9hgh4LAQ) | [Stream Of Life](https://open.spotify.com/album/1RaCPUrWLHhG5D2q8uHCJN) | 2:22 |
+| 50 | [Calm River Noise](https://open.spotify.com/track/4khXlaLUgJZnC683jmW6wF) | [The Outdoor Library](https://open.spotify.com/artist/3LhW1K0Q3xRX4PzqLlEx0F) | [Calm River Noise](https://open.spotify.com/album/0yZJu6HXP6Xxit4hdkak7I) | 3:21 |
 
 Snapshot ID: `AAAAAFnvzh58XYSDbqGW+qYb0s27ZrhG`

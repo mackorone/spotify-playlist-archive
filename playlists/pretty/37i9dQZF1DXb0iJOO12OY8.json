@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 212688,
+  "num_followers": 212677,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "On One",
-        "url": "https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY"
-      },
-      "artists": [
-        {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
-        }
-      ],
-      "duration_ms": 163364,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
         "name": "Cut the shit",
         "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 153161,
       "name": "Cut the shit",
       "url": "https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "On One",
+        "url": "https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 163364,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -603,22 +603,18 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "fairytale",
-        "url": "https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv"
+        "name": "Memoarer",
+        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
       },
       "artists": [
         {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "Alexander Rybak",
-          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 149538,
-      "name": "fairytale",
-      "url": "https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1"
+      "duration_ms": 183813,
+      "name": "Memoarer",
+      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -663,18 +659,22 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
+        "name": "fairytale",
+        "url": "https://open.spotify.com/album/0GhZQH23THeKz9bXubBEyv"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "Alexander Rybak",
+          "url": "https://open.spotify.com/artist/3LLNDXrxL4uxXtnUJS5XWM"
         }
       ],
-      "duration_ms": 183813,
-      "name": "Memoarer",
-      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
+      "duration_ms": 149538,
+      "name": "fairytale",
+      "url": "https://open.spotify.com/track/31hPMfO7V6NNkIGnnqZbD1"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -711,18 +711,34 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
       "artists": [
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 201459,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
+      "duration_ms": 266346,
+      "name": "Zanotti",
+      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Pust i bakken",
+        "url": "https://open.spotify.com/album/7ueGnow0PO4JXVzw6Qz5yr"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 163624,
+      "name": "Pust i bakken",
+      "url": "https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -743,18 +759,38 @@
     {
       "added_at": "2025-10-16 22:00:44",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
         }
       ],
-      "duration_ms": 266346,
-      "name": "Zanotti",
-      "url": "https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE"
+      "duration_ms": 170146,
+      "name": "BIPOLAR",
+      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
+    },
+    {
+      "added_at": "2025-10-16 22:00:44",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -775,26 +811,6 @@
       "duration_ms": 161571,
       "name": "Djevelens Salong",
       "url": "https://open.spotify.com/track/5D6svoWxjXsiSDc5iBfeNT"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        },
-        {
-          "name": "Kaja Gunnufsen",
-          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "BIPOLAR",
-      "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
     },
     {
       "added_at": "2025-10-16 22:00:44",
@@ -867,22 +883,6 @@
       "duration_ms": 154042,
       "name": "Samma det",
       "url": "https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh"
-    },
-    {
-      "added_at": "2025-10-16 22:00:44",
-      "album": {
-        "name": "Pust i bakken",
-        "url": "https://open.spotify.com/album/7ueGnow0PO4JXVzw6Qz5yr"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 163624,
-      "name": "Pust i bakken",
-      "url": "https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV"
     }
   ],
   "unique_name": "ung, dum & lovende",

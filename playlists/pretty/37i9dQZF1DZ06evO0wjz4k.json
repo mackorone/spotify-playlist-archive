@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 33599,
+  "num_followers": 33608,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACZNl8vGR95lUN5O3R4QPFj",
+  "snapshot_id": "aPbNAAAAAABtRMqjkGhKR6CUzcrVbDnV",
   "tracks": [
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Probably Wrong",
-        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
+        "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+        "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
       },
       "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 201573,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
+      "duration_ms": 200773,
+      "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
+      "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
     },
     {
       "added_at": null,
@@ -339,28 +343,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
-        "url": "https://open.spotify.com/album/4cZTfhwa23rh3wtYhfGX78"
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci"
       },
       "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 200773,
-      "name": "Sounds Like Something I'd Say (Feat. Parker McCollum)",
-      "url": "https://open.spotify.com/track/6jyLcUzl4HwCdtsTe0RiGl"
+      "duration_ms": 201573,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/4Ojm1pLLjRWdYqIv8boIFw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+        "name": "Hollywood Gold",
+        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 225801,
-      "name": "Tails I Lose",
-      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
+      "duration_ms": 183653,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood Gold",
-        "url": "https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD"
+      "duration_ms": 225801,
+      "name": "Tails I Lose",
+      "url": "https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E"
     },
     {
       "added_at": null,

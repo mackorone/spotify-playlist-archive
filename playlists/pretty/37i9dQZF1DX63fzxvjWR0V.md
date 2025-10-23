@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > ¡VGLY y todo el crew están de regreso!  Disponible en HBO Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,800 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,818 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 9 | [Perkos y Rivos](https://open.spotify.com/track/2YOZllybZ1fdTP0J3hhHc6) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Juan Pablo Villa](https://open.spotify.com/artist/6y0HSYs6eoikiiC3PoilJu), [Coro infantil VM](https://open.spotify.com/artist/4958MU2Lksc8fOXt8bX9Km) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 1:39 |
 | 10 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 |
 | 11 | [TEAMOTEXTRAÑO](https://open.spotify.com/track/5YtyauPmUam1mUfTicD5rC) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Trippy Bacha](https://open.spotify.com/artist/1pZPO8AZYa8tuRD1x975wN) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:45 |
-| 12 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 |
+| 12 | [DOS DÍAS](https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:33 |
 | 13 | [CAPOCAPOCAPO](https://open.spotify.com/track/4O0gP68kMFZlesjH8mCLVK) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:35 |
-| 14 | [DOS DÍAS](https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:33 |
+| 14 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 |
 | 15 | [Flow Violento](https://open.spotify.com/track/45uc6QtfcPAC8mp1VCqlmx) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:45 |
 | 16 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 |
 | 17 | [Bbl1k0n](https://open.spotify.com/track/3k3lEBetWA7jAyWpoq6ue6) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [BEBELIKON](https://open.spotify.com/artist/6Alg9v4wtTc9CKOSIGBuwg) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 3:45 |

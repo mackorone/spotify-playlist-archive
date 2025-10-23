@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>Yerin Baek\(백예린\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>JINBO the SuperFreak\)
 
-867 songs - 1 day 21 hr 53 min
+868 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 | 2025-05-20 |  |
 | [Empty cup \(feat\. OLNL\)](https://open.spotify.com/track/0aFtrI1ULAEx7F5Xw1WhoL) | [Baneul 바늘](https://open.spotify.com/artist/5xIzk6DGZeavSBU8iI9vrW), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [Empty cup \(feat\. OLNL\)](https://open.spotify.com/album/143JvNY8kNbp0NPfpLlpL6) | 4:20 | 2022-04-19 | 2022-04-21 |
 | [Encourage](https://open.spotify.com/track/4yitm2JyWU6MvIXkVeAzej) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Encourage](https://open.spotify.com/album/5krAfT1ml81CaLIPDZVwZ9) | 3:31 | 2022-04-22 | 2022-06-27 |
-| [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-08-20 |  |
+| [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-08-20 | 2025-10-23 |
 | [Enough \(prod\. APRO\)](https://open.spotify.com/track/2jVUq760yHNIYtYoVFLbK1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [정유미](https://open.spotify.com/artist/2Ul0NBshcBFPOy5Sth8w7t), [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O) | [Enough](https://open.spotify.com/album/2fRLICt6oO6ut0IkerAWPr) | 3:03 | 2022-04-19 | 2022-07-27 |
 | [Enough \(Prod\. Primary\)](https://open.spotify.com/track/3LJZMmngKDvo1X04dBYG0J) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Little Women, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/58xp3aLV0FLfzuQAg4HKe3) | 3:45 | 2022-09-20 | 2022-10-08 |
 | [Escape](https://open.spotify.com/track/4hVNcfboZ0jhrM2tb8nYZv) | [Rosy](https://open.spotify.com/artist/2wMzCCeiXSV9NFSzGzwVyv), [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Escape](https://open.spotify.com/album/3fcyxmVS8xyWcqJwifUsad) | 3:08 | 2022-05-04 | 2022-06-02 |
@@ -307,6 +307,7 @@
 | [Going](https://open.spotify.com/track/1WAnRiglmcnYck613DhH9Q) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Going](https://open.spotify.com/album/4yA4rbocHJnZuDoDiSVD3A) | 3:15 | 2022-04-22 | 2022-06-28 |
 | [Gold](https://open.spotify.com/track/2FfYNplOlQYWelhK2TeqW1) | [Kass](https://open.spotify.com/artist/1A9G5MsTWqa7fJkwEJlGOC) | [Gold](https://open.spotify.com/album/5DjrsUv4LHT4ThG3FqcI6O) | 2:46 | 2023-01-23 | 2023-02-14 |
 | [gold \(Feat\. Dean\)](https://open.spotify.com/track/0EYOhg4jMf7hCLeQIxlvKL) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [DEAN](https://open.spotify.com/artist/2AP2dAjeRdX48EXcLMXOjf) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:56 | 2022-04-19 | 2022-04-21 |
+| [Gold Skin](https://open.spotify.com/track/2VyBPmbkD188Pib9Ssa2HH) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [Jbfm](https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q) | 3:46 | 2025-10-22 |  |
 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 | 2022-12-19 | 2022-12-24 |
 | [GOOD BYE SONG](https://open.spotify.com/track/3hkgdFiadUyNVcXq85NO6W) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [popeye](https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:10 | 2023-02-14 | 2023-02-22 |
 | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/album/7998eG5cX4aNYpQoBZ9GHG) | 2:48 | 2024-08-30 | 2024-10-10 |

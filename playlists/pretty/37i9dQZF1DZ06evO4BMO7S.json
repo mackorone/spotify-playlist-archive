@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 23205,
+  "num_followers": 23206,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACvoNJ/DgkgG8VUtk8yKWeQ",
+  "snapshot_id": "aPbNAAAAAAAEOfvtKjwYI7iGFFgRsWuN",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NamgungFEFERE",
-        "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
       "artists": [
-        {
-          "name": "Silica Gel",
-          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
-        },
         {
           "name": "Japanese Breakfast",
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 228544,
-      "name": "NamgungFEFERE (feat. Japanese Breakfast)",
-      "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
+      "duration_ms": 171000,
+      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
+      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+        "name": "NamgungFEFERE",
+        "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
       },
       "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        },
         {
           "name": "Japanese Breakfast",
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Glider - from \"Sable\" Original Video Game Soundtrack",
-      "url": "https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG"
+      "duration_ms": 228544,
+      "name": "NamgungFEFERE (feat. Japanese Breakfast)",
+      "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
     },
     {
       "added_at": null,

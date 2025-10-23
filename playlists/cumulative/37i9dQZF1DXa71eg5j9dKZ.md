@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Lawrence Hart
 
-1,303 songs - 3 day 16 hr 43 min
+1,304 songs - 3 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Cruel Love](https://open.spotify.com/track/10NDK7nxUJzG4Csso2zxJM) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [Cruel Love](https://open.spotify.com/album/5uPvGiPcHdEqwtFolFtru1) | 4:39 | 2025-06-05 |  |
 | [Crush \(feat\. Erika de Casier\) \- Live Edit](https://open.spotify.com/track/6qz1e5rvxbp41zNXyIHOlk) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph in the Wild](https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU) | 3:03 | 2023-07-27 | 2023-10-27 |
 | [Crying at Supermac's](https://open.spotify.com/track/5TjCAivTzVEWxF6rzDL6d2) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Crying at Supermac's](https://open.spotify.com/album/3he3Kfqa5Ul4Kb6rP1ilWD) | 2:51 | 2023-04-20 | 2023-06-16 |
+| [Crystallise](https://open.spotify.com/track/3kReiSUQNYZkY8e96EZFDz) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Orem](https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL) | [Crystallise](https://open.spotify.com/album/6DGXwJI6H1wDfDo52X6KqQ) | 4:24 | 2025-10-16 |  |
 | [Cut](https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Healers Vol\. 1](https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8) | 1:58 | 2023-11-10 | 2024-04-12 |
 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 | 2022-09-15 | 2023-01-20 |
 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 | 2024-08-29 | 2025-02-07 |

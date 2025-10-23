@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26320,
+  "num_followers": 26336,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -411,30 +411,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "R. Strauss: Vier letzte Lieder; Ein Heldenleben (Live at Philharmonie, Berlin, 2014)",
-        "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Berlin",
-          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Ein Heldenleben, Op. 40: I. Der Held - Live",
-      "url": "https://open.spotify.com/track/0PNYkBH06gRTUKvQiIMyCm"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Capriccio - Works for Violin and Piano [Digital version]",
         "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 217973,
       "name": "Strauss, R: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle (Arr. P\u0159\u00edhoda for Violin and Piano)",
       "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "R. Strauss: Vier letzte Lieder; Ein Heldenleben (Live at Philharmonie, Berlin, 2014)",
+        "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Ein Heldenleben, Op. 40: I. Der Held - Live",
+      "url": "https://open.spotify.com/track/0PNYkBH06gRTUKvQiIMyCm"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -623,34 +623,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Verklarte Nacht",
-        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Artemis Quartet",
-          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
-        },
-        {
-          "name": "Thomas Kakuska",
-          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
-        },
-        {
-          "name": "Valentin Erben",
-          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
-        }
-      ],
-      "duration_ms": 577160,
-      "name": "Strauss: Capriccio, Op. 85: Einleitung",
-      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -679,6 +651,34 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
+        "name": "Verklarte Nacht",
+        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        },
+        {
+          "name": "Thomas Kakuska",
+          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
+        },
+        {
+          "name": "Valentin Erben",
+          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
+        }
+      ],
+      "duration_ms": 577160,
+      "name": "Strauss: Capriccio, Op. 85: Einleitung",
+      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
         "name": "Momentum [2]: Korngold, Strauss",
         "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
       },
@@ -699,6 +699,30 @@
       "duration_ms": 508453,
       "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
       "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
+        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        }
+      ],
+      "duration_ms": 1070973,
+      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
+      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -727,30 +751,6 @@
       "duration_ms": 266160,
       "name": "4 Letzte Lieder, TrV 296: No. 2, September",
       "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
-        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
-        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        }
-      ],
-      "duration_ms": 1070973,
-      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
-      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
     },
     {
       "added_at": "2025-09-15 14:00:17",

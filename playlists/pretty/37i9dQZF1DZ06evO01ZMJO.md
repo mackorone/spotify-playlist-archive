@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,015 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,027 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 7 | [Free \(feat\. Starsplash\)](https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Starsplash](https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz) | [Free \(feat\. Starsplash\)](https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf) | 2:30 |
 | 8 | [Million Dreams](https://open.spotify.com/track/5TfhOWqTOEGgXSurbbZHGu) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Million Dreams](https://open.spotify.com/album/2c6rJHcR8KDnDTI4jV6D4z) | 3:07 |
 | 9 | [Irrenhaus](https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Irrenhaus](https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif) | 3:23 |
-| 10 | [Ruinen Dieser Welt](https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Ruinen Dieser Welt](https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J) | 3:10 |
-| 11 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
+| 10 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
+| 11 | [Ruinen Dieser Welt](https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Ruinen Dieser Welt](https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J) | 3:10 |
 | 12 | [Huichelaar \- Original Mix](https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Huichelaar \(Original Mix\)](https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI) | 3:00 |
 | 13 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
 | 14 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [HUTS \- Outsiders & The Darkraver Remix](https://open.spotify.com/track/5flW9RYORo5SH5XEF7dcIf) | [The Blockparty](https://open.spotify.com/artist/1zmmIiBBODh2QxbdUqYbdU), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Mouad Locos](https://open.spotify.com/artist/0FwFGRp5bp9KWyPiCI1CYX), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [HUTS \(Remixpack\)](https://open.spotify.com/album/67GjgbnGGaNbHZG1BeUxGe) | 2:26 |
 | 50 | [Adrenaline](https://open.spotify.com/track/3n5GXYHCAnK9VskjAseOEr) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Adrenaline](https://open.spotify.com/album/2SXDYAcPeTsKSdQJYT86VM) | 3:09 |
 
-Snapshot ID: `aPV7gAAAAABr7CfrMKURsqxo7qL8Kxk3`
+Snapshot ID: `aPbNAAAAAADS3fAH95xjsEq0FblWX/BV`

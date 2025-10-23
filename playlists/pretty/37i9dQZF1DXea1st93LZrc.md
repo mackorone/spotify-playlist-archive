@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXea1st93LZrc.md) - [plain]
 
 > Οι καλλιτέχνες που ακούστηκαν περισσότερο μέσα στο 2024\. Εξώφυλλο: TOQUEL, RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,723 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,720 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

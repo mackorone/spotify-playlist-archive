@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Blaqbonez, Ayra Starr, MOLIY and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,074 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,157 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 |
 | 2 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
-| 3 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 3 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 4 | [Full Control](https://open.spotify.com/track/2xr0ywPuXSYyS76fwcIIrd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Full Control](https://open.spotify.com/album/0pvp4xWgpyl4ftXfJA8izS) | 2:27 |
 | 5 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 |
 | 6 | [Gbenkule](https://open.spotify.com/track/4HWPPlmRIsquYwpD61fQ96) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [ADISA](https://open.spotify.com/album/7xzQAUxUFDCFfLK0B97SJ5) | 2:30 |

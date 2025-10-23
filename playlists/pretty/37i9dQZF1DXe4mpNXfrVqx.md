@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: LARINHX, Marisa Pecadora
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,313 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,359 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [CUSSY](https://open.spotify.com/track/7m11QHa9VLJ4aY019j1yAc) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [CUSSY](https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo) | 3:00 |
 | 75 | [Sinto Te Dizer](https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Sinto Te Dizer](https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V) | 3:22 |
 
-Snapshot ID: `AAAAAMu6/30sK77nUPfXn0WJ7Y4G8wDI`
+Snapshot ID: `AAAAAJtbLx3lxoZT9mwZl6rbwmYQCBN8`

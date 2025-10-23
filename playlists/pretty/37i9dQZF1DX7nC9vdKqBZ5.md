@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516,397 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,376 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 57 | [Rei do Luau \- Infusão](https://open.spotify.com/track/3AX8SrWe9k85uV3ZGTrRdS) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 2:54 |
 | 58 | [Energia Surreal \- Acústica](https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Energia Surreal \(Acústica\)](https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc) | 2:57 |
 | 59 | [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 |
-| 60 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
-| 61 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
+| 60 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
+| 61 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
 | 62 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |
 | 63 | [Outra Vida](https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Outra Vida](https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ) | 3:04 |
 | 64 | [Cola Comigo](https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Versões Que Eu Fiz](https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2) | 3:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,844 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,892 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 42 | [Cheerleader](https://open.spotify.com/track/2WG9JA4opUdNucD9kAiT7L) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Cheerleader](https://open.spotify.com/album/2L276JUtx0LarSYMGJxt22) | 3:39 |
 | 43 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 |
 | 44 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
-| 45 | [Euro Summer](https://open.spotify.com/track/5y7LHWSdqrpQJUhuN9MClU) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Euro Summer](https://open.spotify.com/album/2mosYbpraEEAs3vKVHlv1Q) | 3:53 |
-| 46 | [bist du noch da](https://open.spotify.com/track/67WyEYAexmClJHbBs7obFI) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [bist du noch da](https://open.spotify.com/album/0zwVsM14zRUH1K7F5osVUr) | 2:50 |
+| 45 | [bist du noch da](https://open.spotify.com/track/67WyEYAexmClJHbBs7obFI) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [bist du noch da](https://open.spotify.com/album/0zwVsM14zRUH1K7F5osVUr) | 2:50 |
+| 46 | [Euro Summer](https://open.spotify.com/track/5y7LHWSdqrpQJUhuN9MClU) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Euro Summer](https://open.spotify.com/album/2mosYbpraEEAs3vKVHlv1Q) | 3:53 |
 | 47 | [Girlfriend](https://open.spotify.com/track/4HhgQBjlOcrkCixjZ70fS6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [PARADE](https://open.spotify.com/album/5Ter0eYmIOlOHSTV3gAAoT) | 1:57 |
 | 48 | [Lost Indieboy](https://open.spotify.com/track/18RDGWmoWjE6VtUT3AB728) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [SNACKS](https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV) | 3:19 |
 | 49 | [So Cool](https://open.spotify.com/track/4bvTEIeoIOmzhU7HCDlRhK) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/1SJmTXlw4jklwqqAovdRDX) | 2:57 |

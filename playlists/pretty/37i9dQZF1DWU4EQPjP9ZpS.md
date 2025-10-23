@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,463 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,501 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 52 | [Dreams](https://open.spotify.com/track/2YpY3UKrjEh9ZfhxDk9gPN) | [Trushinitas](https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Dreams](https://open.spotify.com/album/7E3gWMH1S8VE6uxJxARh8v) | 3:09 |
 | 53 | [Dawn Rest](https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [Dawn Rest](https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn) | 3:41 |
 | 54 | [Training Day](https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:34 |
-| 55 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 |
-| 56 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 |
+| 55 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 |
+| 56 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 |
 | 57 | [so be it](https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw) | [glhf](https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te) | [so be it](https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj) | 6:28 |
 | 58 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
 | 59 | [Veranda](https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Illuminations](https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo) | 3:16 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 83 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
 | 84 | [Screensaver](https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090) | [Screensaver](https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe) | 2:27 |
 | 85 | [You're no one](https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp) | [Somburd](https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7) | [You're no one](https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR) | 2:24 |
-| 86 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
-| 87 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
+| 86 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
+| 87 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
 | 88 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
 | 89 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
 | 90 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 |
 | 91 | [Vcrheadaches \- Purge](https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT) | [King Quartz](https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri), [VCRheadaches](https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI) | [The 33rd Split](https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn) | 4:20 |
 | 92 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
 | 93 | [Private Eyes](https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Body Double](https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ) | 1:31 |
-| 94 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
-| 95 | [Glass Prism](https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 3:30 |
+| 94 | [Glass Prism](https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 3:30 |
+| 95 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
 | 96 | [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 |
 | 97 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 |
 | 98 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
-| 99 | [vaporgroove \~](https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [vaporgroove \(singles\)](https://open.spotify.com/album/2D1r01r3ZgUpURmPHXreaY) | 3:23 |
-| 100 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
+| 99 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
+| 100 | [vaporgroove \~](https://open.spotify.com/track/7aXuldX1C1OIWdFGGDZlbu) | [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv) | [vaporgroove \(singles\)](https://open.spotify.com/album/2D1r01r3ZgUpURmPHXreaY) | 3:23 |
 
 Snapshot ID: `AAAAACd5bsDncuj7hP9d+aehWbTvCnq4`

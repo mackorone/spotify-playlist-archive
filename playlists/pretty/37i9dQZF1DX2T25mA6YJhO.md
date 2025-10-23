@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Las Petunias.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,187 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,195 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 70 | [Nena, no estás](https://open.spotify.com/track/0008pgN5Z0F4pXYYsbb2mm) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Nena, no estás](https://open.spotify.com/album/7pwjXZKNYOqhKBRTJwDmTZ) | 2:36 |
 | 71 | [Curso Avanzado de Perra](https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Curso Avanzado de Perra](https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p) | 2:58 |
 | 72 | [Lento](https://open.spotify.com/track/0f1QC1Emch84pONpGMEQd4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Brindis](https://open.spotify.com/album/79YdnVubJaG6D8QDEgkm46) | 3:18 |
-| 73 | [Soy Lo Peor](https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DepresionTrickz](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:53 |
+| 73 | [Soy Lo Peor](https://open.spotify.com/track/3gddoedYU7FMPAZnLUbzkO) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [DSxBB](https://open.spotify.com/album/2Wn59zrfT2qdLTZShNZDE6) | 1:53 |
 | 74 | [Ciegos](https://open.spotify.com/track/5aCUsb2JPQl8RFl2VVzqXs) | [Nuevo Berlín](https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI) | [Manual para perderse](https://open.spotify.com/album/6XqXcDfhF7udWZNKLzC4OV) | 3:49 |
 | 75 | [Flores a la Guerra](https://open.spotify.com/track/1egWhb5waRWLWKegCYnpMY) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Flores a la Guerra](https://open.spotify.com/album/2gaEAA8H24C9yst7jH3KiO) | 3:52 |
 | 76 | [De Viaje](https://open.spotify.com/track/3LMI65OUMtvYj0jVU55maX) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:30 |

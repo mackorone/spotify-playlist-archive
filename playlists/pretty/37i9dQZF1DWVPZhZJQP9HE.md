@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhinesh Nagarajan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,502 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,524 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 7 | [Aayiram](https://open.spotify.com/track/0C082Q1AZAUGfYzGHrlk0Y) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Aayiram](https://open.spotify.com/album/3VQmk19UWS9xIQrCxfaybH) | 3:03 |
 | 8 | [Kimchi Dosa](https://open.spotify.com/track/10CGE3JHF9XMDaicnLD46D) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [AOORA](https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy), [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN) | [Kimchi Dosa](https://open.spotify.com/album/2nLirBUQhM557pbuMgbnCP) | 4:02 |
 | 9 | [Oh Maname](https://open.spotify.com/track/6Ucqq4GbNq7AOaPryxwRo1) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Oh Maname](https://open.spotify.com/album/09XMViCQAJWB4qNQ1iUwLB) | 3:50 |
-| 10 | [222](https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [222](https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh) | 4:44 |
-| 11 | [Trippila](https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Trippila](https://open.spotify.com/album/0GazuCuHE6SvoJwFa7ssBv) | 2:37 |
-| 12 | [Ulaa](https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ulaa](https://open.spotify.com/album/3TS2lHekqjnrUrwxoz3Cwy) | 4:25 |
-| 13 | [Illai Illai](https://open.spotify.com/track/39GXOnXzJDNIz96XRoOltR) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1), [Lokesh Sambath Kumar](https://open.spotify.com/artist/4MuRbk7Za0fITveN2rOPbv) | [Illai Illai](https://open.spotify.com/album/1UZcV7bCzck2xgS5QILn9p) | 3:33 |
+| 10 | [KODI MINNAL](https://open.spotify.com/track/0cooXT2uO5YjDDDicq3pLA) | [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [KODI MINNAL](https://open.spotify.com/album/6z59ZmYJx78LIsld9guBWp) | 3:10 |
+| 11 | [222](https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [222](https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh) | 4:44 |
+| 12 | [Trippila](https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Trippila](https://open.spotify.com/album/0GazuCuHE6SvoJwFa7ssBv) | 2:37 |
+| 13 | [Ulaa](https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ulaa](https://open.spotify.com/album/3TS2lHekqjnrUrwxoz3Cwy) | 4:25 |
 | 14 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 |
 | 15 | [Kattumarakaran](https://open.spotify.com/track/66QWHaxLYMzPPQtaz80Dot) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Vibin Baskar](https://open.spotify.com/artist/3OisU7UGOiAZ7PmJrV128w) | [Kattumarakaran](https://open.spotify.com/album/7dN6UDvteVN2BaX89uPey3) | 4:32 |
 | 16 | [Champagini \- From "Think Indie"](https://open.spotify.com/track/5K2mySnr02sfLS3MMJZICc) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Champagini \(From "Think Indie"\)](https://open.spotify.com/album/6ku33EXLIvrxSPSet3xTfM) | 1:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 49 | [Kannadi Mugam](https://open.spotify.com/track/7C1DDjUdXv8943utkD7DG2) | [Vishnu](https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA) | [Kannadi Mugam](https://open.spotify.com/album/59sCXh6exZFMoCO0eNgvnM) | 3:32 |
 | 50 | [Kadhal Serkaadho \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5OxjuxmvQG3a58SrVcWfuK) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H) | [Kadhal Serkaadho \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/0oGz2fpEeYJmA5dR6v8sjV) | 3:14 |
 
-Snapshot ID: `AAAAADE3GKHl2yDoVahV2BDrcDF7IPsg`
+Snapshot ID: `AAAAACFyrNAYEW1Mm/k8Mq4pKdqtcttI`

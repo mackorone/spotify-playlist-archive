@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 438238,
+  "num_followers": 438474,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACGrmBrKxNVwa3zcdBszEqd",
+  "snapshot_id": "aPbNAAAAAAAtZ82rHbKYiadd5ZK8CTw7",
   "tracks": [
     {
       "added_at": null,
@@ -276,13 +276,17 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         },
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
+      "duration_ms": 191454,
+      "name": "She Got It (feat. Coco Jones & GloRilla)",
+      "url": "https://open.spotify.com/track/68TlifACKo87EevLEQd1HV"
     },
     {
       "added_at": null,
@@ -342,11 +346,31 @@
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 214874,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
     },
     {
       "added_at": null,
@@ -371,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 214874,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
       },
@@ -399,6 +407,22 @@
       "duration_ms": 166890,
       "name": "911",
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
     },
     {
       "added_at": null,
@@ -435,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 175017,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FACE MYSELF",
         "url": "https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u"
       },
@@ -451,22 +491,6 @@
       "duration_ms": 227903,
       "name": "FACE MYSELF",
       "url": "https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 175017,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
     },
     {
       "added_at": null,
@@ -703,22 +727,6 @@
       "duration_ms": 236000,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/6NqAWmbOYL2P2wEXcFUIUF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 215740,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
     },
     {
       "added_at": null,

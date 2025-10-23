@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,371 songs - 12 day 12 hr 8 min
+5,374 songs - 12 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1218,6 +1218,7 @@
 | [Do This To Me](https://open.spotify.com/track/3SsDNoQIPbvi72S83zqLES) | [Love Level](https://open.spotify.com/artist/5rvUlI4cK6csRpgrOEeuRb) | [Love Level](https://open.spotify.com/album/4kICkffmL9wkUmIkKyuHit) | 3:50 | 2021-08-26 | 2021-09-11 |
 | [Do Time](https://open.spotify.com/track/4hNWqOYjh5hH3zPY3tEs3E) | [Centric](https://open.spotify.com/artist/7CfeQernC8nexrn8owJpQ4), [Cjae](https://open.spotify.com/artist/39eRKnOmTsTh7heIhTULti) | [Do Time](https://open.spotify.com/album/0g6nRx8wwf5DqP0WsYVFLj) | 4:26 | 2024-06-12 | 2024-06-24 |
 | [Do Wit It](https://open.spotify.com/track/4TMdJC1TS254KjzJaw27se) | [Rich Girl Fulani](https://open.spotify.com/artist/3uOczg1Dd0TqWN1lJCt67W) | [Do Wit It](https://open.spotify.com/album/5vCL12slQctY2AL4PQbgzJ) | 2:40 | 2024-06-22 | 2024-07-03 |
+| [Do You Dream](https://open.spotify.com/track/0CdbdO0hTwyByIgaP0MekH) | [Caylea](https://open.spotify.com/artist/7rFRcnh52T0pnVJ4e4JMWT) | [Do You Dream](https://open.spotify.com/album/31YoWR1LOUe48t1eSYiglk) | 3:50 | 2025-10-22 |  |
 | [Do You Feel?](https://open.spotify.com/track/2sSY3K85CvWtK7KAHaHbMj) | [Slatty K](https://open.spotify.com/artist/6M1OUdpdIBG9uwwVVw80En), [AAP](https://open.spotify.com/artist/0LNjllgatcEOXzClhJDyMx), [Jadhe](https://open.spotify.com/artist/1rxAD6xp9NiycI83htzv5P) | [Still Luv](https://open.spotify.com/album/3K984cTKmKdox6Q6B3o5e3) | 4:34 | 2024-01-28 | 2024-02-05 |
 | [Do You Know What I Mean](https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg) | [Sol Y Motion](https://open.spotify.com/artist/24AY9nmcbCmv0EHlXmE01o) | [Do You Know What I Mean](https://open.spotify.com/album/5yFbic3Mwt73OdJJKuQGF5) | 3:37 | 2022-05-11 | 2022-06-01 |
 | [Do You Still Need Me](https://open.spotify.com/track/3BK9LjyD588ftoH6i3OTn4) | [Marty O'Neill](https://open.spotify.com/artist/3tIkLvNAAQfZdJwbDASQsz) | [Do You Still Need Me](https://open.spotify.com/album/1LWjlADn0hZq25HpauruAI) | 3:52 | 2024-09-07 | 2024-09-17 |
@@ -2640,6 +2641,7 @@
 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 | 2022-07-26 | 2024-04-30 |
 | [Let's Go Dancin](https://open.spotify.com/track/0frL2SQgk7X9Vu5EY7luA0) | [Channing Armour](https://open.spotify.com/artist/5LtquIruwgS2aRP2xQPABK) | [Let's Go Dancin](https://open.spotify.com/album/4y4YGZMOf9fr4HsfTcCclx) | 3:48 | 2024-11-18 | 2024-11-30 |
 | [Let's Ride](https://open.spotify.com/track/7LoWNvxyVnXYil90YINbT0) | [Bryan Hayes](https://open.spotify.com/artist/4gBWMy2vVn8uPFlv5eiTym) | [Farther Down the Line](https://open.spotify.com/album/5qHWY2DOU5bnfu1CJ3i0WW) | 4:12 | 2023-06-16 | 2023-07-09 |
+| [Let's Start A Fire](https://open.spotify.com/track/4JXWnAUgtJLN9wSPsKBJnH) | [Michael Inge](https://open.spotify.com/artist/7vzrBRFNaxaeKnrcFX8bkA) | [Let's Start A Fire](https://open.spotify.com/album/6m5SBx5N0IDS3UXQOiIY8W) | 4:13 | 2025-10-22 |  |
 | [Let's Stay Together](https://open.spotify.com/track/6UgSIl72NG9gTLxqHQ8qqP) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [All The Best](https://open.spotify.com/album/64PNGg3YLgOkJ2ySlbrmPZ) | 5:18 | 2023-05-29 | 2023-07-21 |
 | [Let's Stay Together](https://open.spotify.com/track/2xyLXWXUEmV7c6Kxr5Kq7G) | [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [The Al Green Songbook](https://open.spotify.com/album/0UPcmItNqT1C5omupcVhH9) | 4:08 | 2024-04-28 | 2024-05-11 |
 | [LET'S TALK](https://open.spotify.com/track/4k4nsdOSOHkHcpU6fCsK2K) | [AGON](https://open.spotify.com/artist/7ekkWpaENoJp9DD9P92D0C) | [LET'S TALK](https://open.spotify.com/album/482QEaskIJHzTLErCTDsVF) | 3:17 | 2024-12-14 | 2024-12-26 |
@@ -5139,6 +5141,7 @@
 | [When I Was](https://open.spotify.com/track/3FypUAjMTxLs4yGCDzW88A) | [Peach Cooler](https://open.spotify.com/artist/7Btrtoqh1o8nLUhpKOB3lp) | [When I Was](https://open.spotify.com/album/7bIzsHQ1eqvIjSIEFAY6mH) | 3:56 | 2024-04-05 | 2024-04-20 |
 | [When I'm Gone](https://open.spotify.com/track/1haljdGyAvjViOyfFPKnJu) | [Bleary](https://open.spotify.com/artist/4rthkb9PaygrlQWGlbLaZm) | [To Baby, With Love](https://open.spotify.com/album/0cxRe62UureFeu7ZgmOj9t) | 3:15 | 2023-05-19 | 2023-06-11 |
 | [When It Comes To You](https://open.spotify.com/track/6TUbMH4LDpkNQ7nNTcFXPr) | [dezabel](https://open.spotify.com/artist/02qYPfeUvEdhSqLG8ercxJ) | [When It Comes To You](https://open.spotify.com/album/1OfPORCllbShl0pBy2EOLB) | 3:15 | 2020-06-03 | 2020-07-02 |
+| [When It Rains](https://open.spotify.com/track/0XRjmXjWR1mSQ7Y3VW3kNI) | [Lu'Ah](https://open.spotify.com/artist/673M4zVKpMERotVRxvIDGb) | [When It Rains](https://open.spotify.com/album/3RosBNwMnaJVmeTMwrMmN7) | 3:32 | 2025-10-22 |  |
 | [When it's Gone](https://open.spotify.com/track/3XSRryeonl2y5xRcjFtyPz) | [FAKE SUEDE](https://open.spotify.com/artist/3TPkxwAXlQDOcD91eFZWUW), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [When it's Gone](https://open.spotify.com/album/3eXdda5b3gTd7gSTNvP8N3) | 3:20 | 2025-08-01 | 2025-09-06 |
 | [When It's Over](https://open.spotify.com/track/5oghg06pi10Z40VOsnyWRN) | [Pai Napple](https://open.spotify.com/artist/2ThmJGkh8s6D3bEu3WCYpU), [The Crushboys](https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z) | [When It's Over](https://open.spotify.com/album/5ZdQo5CNJX979DkqZSJPCh) | 2:21 | 2023-08-27 | 2023-09-26 |
 | [When It's Over](https://open.spotify.com/track/5eFy5YJF9TC4PSRk4hDAlL) | [VYLEM](https://open.spotify.com/artist/4bhKuRZCxmN4nvwjI8vLFh) | [When It's Over](https://open.spotify.com/album/0aTSWICSC7DZyTzXQImxCo) | 5:23 | 2022-11-25 | 2022-12-17 |

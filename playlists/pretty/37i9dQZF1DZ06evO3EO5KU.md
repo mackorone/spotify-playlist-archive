@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,024 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,059 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 22 | [Con Palabras Sencillas](https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:26 |
 | 23 | [Mi Riqueza](https://open.spotify.com/track/4JXI9yB7EWRsHRfMKfwXUf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:29 |
 | 24 | [La Careada](https://open.spotify.com/track/6e4PEGCmSvAiAak4cDLisG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:32 |
-| 25 | [Hablemos](https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:07 |
+| 25 | [Por No Perderte Te Perdí](https://open.spotify.com/track/0kOhwMN7TRxbxIgS0SBCaI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:20 |
 | 26 | [Me Llamas \- En Vivo](https://open.spotify.com/track/1fwGf1n0CaEuwA87zLZINk) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s) | 4:42 |
 | 27 | [Un Mentado Ariel](https://open.spotify.com/track/4I2UXGEolCq5jFyoeQcLqm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/5GPyPEE1GyNaKNcclNASQW) | 3:16 |
 | 28 | [Me Gustas y Se Nota](https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:49 |
-| 29 | [Por No Perderte Te Perdí](https://open.spotify.com/track/0kOhwMN7TRxbxIgS0SBCaI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:20 |
+| 29 | [Hablemos](https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:07 |
 | 30 | [Dado A La Vida](https://open.spotify.com/track/6aY11ZLwdFwkCHX0gaoYYr) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Dado A La Vida](https://open.spotify.com/album/6tUh9wo5wFmFn1XHL3q2DC) | 2:47 |
 | 31 | [No Puedo Olvidarla \- En Vivo](https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:46 |
 | 32 | [Buscamos Lo Mismo](https://open.spotify.com/track/7AtzltjKi7N6ga5qSNUAXh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscamos Lo Mismo](https://open.spotify.com/album/6sys2zlZ6to8LH8JKVqDfH) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Yo No Tengo Ex](https://open.spotify.com/track/3WDhe3EqrhPpbGQa3jm7SJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Yo No Tengo Ex](https://open.spotify.com/album/5QIhmDkhNCfLavoHIgTb7o) | 2:37 |
 | 50 | [Mariposa Traicionera](https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mariposa Traicionera](https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ) | 4:04 |
 
-Snapshot ID: `aPV7gAAAAABs2DBjfRvtHKA2sbnaWGdx`
+Snapshot ID: `aPbNAAAAAAAO14GONl/GS40a46QKSLHH`

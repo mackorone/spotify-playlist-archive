@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks around the world this year\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,603 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,601 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 57 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 |
 | 58 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
 | 59 | [Blue Blood](https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [Blue Blood](https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4) | 2:34 |
-| 60 | [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 |
-| 61 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
+| 60 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 |
+| 61 | [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 |
 | 62 | [CAMERINO](https://open.spotify.com/track/59NAwiZv9xBZq5lqerdaSj) | [NICO B.](https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe) | [AERIAL DISPLAY](https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G) | 3:10 |
 | 63 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 |
 | 64 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 |

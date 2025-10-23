@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,451 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,593 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 19 | [Gözler](https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Gözler](https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1) | 2:24 |
 | 20 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 |
 | 21 | [MA CHÉRIE](https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 2:35 |
-| 22 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 |
-| 23 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 |
+| 22 | [Sana Güvenmiyorum \- Dedub Sessions](https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sana Güvenmiyorum \(Dedub Sessions\)](https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv) | 3:24 |
+| 23 | [Benden Sonra](https://open.spotify.com/track/5uh8vQEAZeIFEYhAg52BNS) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Benden Sonra](https://open.spotify.com/album/0nvknd97mQC4LvfqwHB6hi) | 2:43 |
 | 24 | [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 |
 | 25 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 26 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 36 | [Gözlerinden Gözlerine](https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Gözlerinden Gözlerine](https://open.spotify.com/album/2FMZfDpMhD6ZCzb1eolrYU) | 2:56 |
 | 37 | [Rüya](https://open.spotify.com/track/6AlxlCtYgf7yBGRZGzAjJ4) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R), [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Rüya](https://open.spotify.com/album/42WVSYrFoBB5IpyBQhdkrj) | 3:05 |
 | 38 | [Galata](https://open.spotify.com/track/0w5mKLexkMJqgcMpjLmqq6) | [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [İncir Reçeli 2 \(Soundtrack\)](https://open.spotify.com/album/2pH6A5ZsYaq1b1eJSJiF8D) | 4:24 |
-| 39 | [Koy](https://open.spotify.com/track/5Uz3PqGIxuc1hCJuYKUjp2) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m) | [Koy](https://open.spotify.com/album/4VIFtQNyVrLJIayxICQTEk) | 2:37 |
-| 40 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
+| 39 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 |
+| 40 | [Koy](https://open.spotify.com/track/5Uz3PqGIxuc1hCJuYKUjp2) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m) | [Koy](https://open.spotify.com/album/4VIFtQNyVrLJIayxICQTEk) | 2:37 |
 | 41 | [Çık Artık Aklımdan](https://open.spotify.com/track/5Q9eu9rQJd9tOGszZqqsQf) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Çık Artık Aklımdan](https://open.spotify.com/album/1L3Ug4NGRpZyRvDoxXDPrt) | 3:44 |
 | 42 | [Vicdanın Affetsin](https://open.spotify.com/track/3i8uJcfgdvKk1oHHnoGJlv) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Yaş Hikayesi](https://open.spotify.com/album/5eq3H5KnYcr0uU8VjDe32W) | 3:55 |
 | 43 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 |
-| 44 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 |
-| 45 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 |
+| 44 | [Mendil](https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Mendil](https://open.spotify.com/album/2qeb0VmAMVPV812lWjRvcB) | 3:34 |
+| 45 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 |
 | 46 | [Yok Başka Hayalim](https://open.spotify.com/track/6VDMOQPxx7JTv82AAZ83RZ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Yok Başka Hayalim](https://open.spotify.com/album/2pZkhpw70j61o5uAkDnaBn) | 5:11 |
 | 47 | [Vursunlar \- Roman Version](https://open.spotify.com/track/4NVORBJGV2lcttgSE8vZks) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [Vursunlar \(Roman Version\)](https://open.spotify.com/album/6ln0LvC52yulV78k184v1c) | 2:37 |
 | 48 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 213393,
+  "num_followers": 213482,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABS1Ge4cHWXde8WbwyHrhbn",
+  "snapshot_id": "aPbNAAAAAADvxA+EXIN/AKwo8FsBtrx5",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Felt Good About You",
-      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
+      "duration_ms": 256868,
+      "name": "I Knew It, I Know You - Live From Vevo",
+      "url": "https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1"
     },
     {
       "added_at": null,
@@ -564,25 +564,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 256868,
-      "name": "I Knew It, I Know You - Live From Vevo",
-      "url": "https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "minor",
-      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+      "duration_ms": 164693,
+      "name": "Felt Good About You",
+      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 170805,
       "name": "Better",
       "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "minor",
+      "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Under / Over",
-      "url": "https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 255007,
       "name": "Hard to Sleep",
       "url": "https://open.spotify.com/track/3ofi5ZcJjLuRgS3FX4U6yG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Under / Over",
+      "url": "https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y"
     }
   ],
   "unique_name": "This Is Gracie Abrams",

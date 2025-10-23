@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,730 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,729 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 19 | [LECĘ BO CHCĘ](https://open.spotify.com/track/27Xvm20KQ8qMzVvaz32I98) | [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp) | [LECĘ BO CHCĘ](https://open.spotify.com/album/2ZQVhK7B598PmTwpZPoQHf) | 2:33 |
 | 20 | [PG$](https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [PG$](https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs) | 3:04 |
 | 21 | [GENERACJA CUZI](https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [GENERACJA CUZI](https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU) | 1:53 |
-| 22 | [HERO](https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq), [papablessbeatz](https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY) | [HERO](https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo) | 2:44 |
-| 23 | [Na ostatnią chwilę](https://open.spotify.com/track/2VT0v5EcOEdWMb8JsFewLF) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Na ostatnią chwilę](https://open.spotify.com/album/4E6AW29gNzNYwPph1O7HnH) | 2:46 |
+| 22 | [Na ostatnią chwilę](https://open.spotify.com/track/2VT0v5EcOEdWMb8JsFewLF) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Na ostatnią chwilę](https://open.spotify.com/album/4E6AW29gNzNYwPph1O7HnH) | 2:46 |
+| 23 | [HERO](https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq), [papablessbeatz](https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY) | [HERO](https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo) | 2:44 |
 | 24 | [STRZELAM PETEM](https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH) | [Guzior](https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV) | [STRZELAM PETEM](https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE) | 3:03 |
 | 25 | [Vanitas](https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [Vanitas](https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9) | 3:36 |
 | 26 | [MADONNA](https://open.spotify.com/track/4fyuRAFi2Zigy7kgk5Sq4v) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [TRAP OR DIE](https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS) | 2:39 |

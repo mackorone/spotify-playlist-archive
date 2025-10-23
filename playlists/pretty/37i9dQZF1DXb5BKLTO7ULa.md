@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Tame Impala, Russo & Ronnie Flex, Mart Hoogkamer & Miss Montreal en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,565 likes - 93 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,556 likes - 93 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 7 | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Talk To You \(ft\. Elton John\)](https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb) | 5:17 |
 | 8 | [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 |
 | 9 | [Hasj In De Air](https://open.spotify.com/track/0zxuJsbL1OkjkZPd1Dn4Xm) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Hasj In De Air](https://open.spotify.com/album/1D4bG7zg4UxOiHkl00fsLk) | 2:44 |
-| 10 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 10 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 11 | [Pretender](https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Pretender](https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq) | 3:12 |
 | 12 | [Think About Us](https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Think About Us](https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V) | 2:58 |
 | 13 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 |

@@ -4,7 +4,7 @@
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 51 min
+71 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,10 @@
 | [Hurricane](https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:25 | 2023-12-13 |  |
 | [I Have Friends in Holy Spaces](https://open.spotify.com/track/4E1R0vG10ed0wDhjn09kTG) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 1:56 | 2024-10-16 | 2024-11-16 |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2023-12-13 |  |
+| [I Write Sins Not Tragedies \- Live In Denver](https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 3:20 | 2025-10-23 |  |
 | [Impossible Year](https://open.spotify.com/track/5j9yOfRB2s6OMS1YwwYiMw) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:22 | 2024-06-28 | 2024-06-30 |
 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 | 2023-12-13 |  |
+| [Karma Police \- Live In Denver](https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 3:25 | 2025-10-23 |  |
 | [King of the Clouds](https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 2:40 | 2023-12-13 |  |
 | [LA Devotee](https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:16 | 2023-12-13 |  |
 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 | 2023-12-13 |  |
@@ -70,6 +72,7 @@
 | [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet](https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:16 | 2023-12-13 | 2025-07-13 |
 | [This Is Gospel](https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:07 | 2023-12-13 |  |
 | [Time to Dance](https://open.spotify.com/track/4C2i4NymWRem1LOVEqwWV6) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:22 | 2024-05-18 |  |
+| [Tonight, Tonight \- Live In Denver](https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:06 | 2025-10-23 |  |
 | [Trade Mistakes](https://open.spotify.com/track/62lc21zAcKWs11pbSOabO9) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:36 | 2024-05-10 | 2025-09-11 |
 | [Vegas Lights](https://open.spotify.com/track/0zewUY3RSh8yaV7q66Okem) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:09 | 2024-05-12 | 2025-01-20 |
 | [Victorious](https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:58 | 2023-12-13 |  |

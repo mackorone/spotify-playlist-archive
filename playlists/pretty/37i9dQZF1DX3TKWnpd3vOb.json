@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: De Saloon",
-  "num_followers": 187688,
+  "num_followers": 187686,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "De La Luz",
-        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
-      },
-      "artists": [
-        {
-          "name": "Kuervos del Sur",
-          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
-        }
-      ],
-      "duration_ms": 281133,
-      "name": "\u00danete A Mi Ser",
-      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "LA WE\u00c1",
         "url": "https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 170328,
       "name": "LA WE\u00c1",
       "url": "https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "De La Luz",
+        "url": "https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0"
+      },
+      "artists": [
+        {
+          "name": "Kuervos del Sur",
+          "url": "https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj"
+        }
+      ],
+      "duration_ms": 281133,
+      "name": "\u00danete A Mi Ser",
+      "url": "https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -691,38 +691,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
-      },
-      "artists": [
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
-        "name": "Si es de morir",
-        "url": "https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 224419,
-      "name": "Si es de morir",
-      "url": "https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "Cahu\u00edn",
         "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
       },
@@ -739,18 +707,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
         }
       ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -775,6 +743,38 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Si es de morir",
+        "url": "https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 224419,
+      "name": "Si es de morir",
+      "url": "https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
         "name": "La Cuenta",
         "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "P\u00e1lida Forma Nocturna",
-        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ilabaca",
-          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
-        }
-      ],
-      "duration_ms": 224235,
-      "name": "P\u00e1lida Forma Nocturna",
-      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "Mis Hermanos Sue\u00f1an Despiertos",
         "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 204829,
       "name": "Mis Hermanos Sue\u00f1an Despiertos",
       "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "P\u00e1lida Forma Nocturna",
+        "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilabaca",
+          "url": "https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A"
+        }
+      ],
+      "duration_ms": 224235,
+      "name": "P\u00e1lida Forma Nocturna",
+      "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Bien",
-        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
-      },
-      "artists": [
-        {
-          "name": "99 Payasos",
-          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
-        }
-      ],
-      "duration_ms": 177487,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "Plumas",
         "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 262530,
       "name": "Todo Cae",
       "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
+      },
+      "artists": [
+        {
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
+        }
+      ],
+      "duration_ms": 177487,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Un D\u00eda por Concepci\u00f3n",
-        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
-      },
-      "artists": [
-        {
-          "name": "Billy Norton",
-          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "Un D\u00eda por Concepci\u00f3n",
-      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "La Pelea",
         "url": "https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 205434,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Un D\u00eda por Concepci\u00f3n",
+        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
+      },
+      "artists": [
+        {
+          "name": "Billy Norton",
+          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "Un D\u00eda por Concepci\u00f3n",
+      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Despertar (Cuando Todo Quema)",
-        "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
-      },
-      "artists": [
-        {
-          "name": "Massonico",
-          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
-        }
-      ],
-      "duration_ms": 201496,
-      "name": "Despertar (Cuando Todo Quema)",
-      "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "Lo Que Es Real",
         "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 223593,
       "name": "Lo Que Es Real",
       "url": "https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Despertar (Cuando Todo Quema)",
+        "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
+      },
+      "artists": [
+        {
+          "name": "Massonico",
+          "url": "https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB"
+        }
+      ],
+      "duration_ms": 201496,
+      "name": "Despertar (Cuando Todo Quema)",
+      "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
     },
     {
       "added_at": "2025-09-05 03:00:38",

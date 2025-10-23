@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 146915,
+  "num_followers": 146938,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACq9LkHSyAp9RdcgCxuOR60",
+  "snapshot_id": "aPbNAAAAAADLy/t3T+JxZ7o05xz23/B1",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "An Evening With Billie Holiday",
+        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
+      "duration_ms": 221280,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Evening With Billie Holiday",
-        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 221280,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Musical Romance",
-        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
-      "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Are Brewin'",
         "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 193053,
       "name": "Baby, I Don't Cry Over You",
       "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Musical Romance",
+        "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
+      "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
     },
     {
       "added_at": null,

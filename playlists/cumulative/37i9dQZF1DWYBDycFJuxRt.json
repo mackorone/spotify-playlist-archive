@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u3042\u3044\u307f\u3087\u3093 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/341412\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u3042\u3044\u307f\u3087\u3093 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/341563\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -16437,8 +16437,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Belt of Venus",
+        "url": "https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0"
       },
       "artists": [
         {
@@ -39027,8 +39027,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "ALL HAZE",
+        "url": "https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ"
       },
       "artists": [
         {
@@ -61403,6 +61403,32 @@
     },
     {
       "album": {
+        "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
+        "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208730,
+      "name": "Hips Don't Lie - Spotify Anniversary Version",
+      "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
+    },
+    {
+      "album": {
         "name": "No.\u2160 (Deluxe)",
         "url": "https://open.spotify.com/album/3OH4JlJZ6J7A1yhA0XmnPR"
       },
@@ -68126,6 +68152,28 @@
       "duration_ms": 328133,
       "name": "In the Core of My Heart",
       "url": "https://open.spotify.com/track/0DLr3MyMwfW30PTlhnXbqj"
+    },
+    {
+      "album": {
+        "name": "JOJO",
+        "url": "https://open.spotify.com/album/5tjDLmTaKy9PVTzcU1LvRQ"
+      },
+      "artists": [
+        {
+          "name": "ZIN",
+          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
+        },
+        {
+          "name": "grooveman Spot",
+          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252270,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/3Edi0aYdLj2asJ5dPmNZYX"
     },
     {
       "album": {
@@ -75793,6 +75841,24 @@
     },
     {
       "album": {
+        "name": "Kurayami/Get used to it",
+        "url": "https://open.spotify.com/album/3mOFUx8wl2HKNQ5GAg2854"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "Kurayami",
+      "url": "https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne"
+    },
+    {
+      "album": {
         "name": "kurayamisaka yori ai wo komete",
         "url": "https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO"
       },
@@ -80891,8 +80957,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Lost God of SASORI",
+        "url": "https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1"
       },
       "artists": [
         {
@@ -80903,7 +80969,7 @@
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 248866,
+      "duration_ms": 248876,
       "name": "Loo% Who%",
       "url": "https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd"
     },
@@ -110762,6 +110828,24 @@
       "duration_ms": 248551,
       "name": "Present",
       "url": "https://open.spotify.com/track/52rJ1uFs9NTfLPQ9Zqww71"
+    },
+    {
+      "album": {
+        "name": "SCOOOOOP",
+        "url": "https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231606,
+      "name": "Present Perfect",
+      "url": "https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX"
     },
     {
       "album": {
@@ -145640,60 +145724,6 @@
       "duration_ms": 244174,
       "name": "TOY BOY - feat. DEAN FUJIOKA",
       "url": "https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "date_added": "2025-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "date_added": "2025-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "ZIN",
-          "url": "https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS"
-        }
-      ],
-      "date_added": "2025-10-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/3Edi0aYdLj2asJ5dPmNZYX"
     },
     {
       "album": {

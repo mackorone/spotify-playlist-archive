@@ -4,7 +4,7 @@
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-56 songs - 5 hr 51 min
+57 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Don't give up](https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 7:28 | 2025-07-20 |  |
 | [Driftin' \- Remastered 2007](https://open.spotify.com/track/4Vyq3McGW0wr0sGLHYXys7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:57 | 2025-07-20 |  |
 | [Empty Pockets \- Remastered 2007](https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:12 | 2025-07-20 |  |
+| [Fat Albert Rotunda](https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 6:29 | 2025-10-23 |  |
 | [Fat Mama](https://open.spotify.com/track/2UiZAyT2L529zh4PuDvH4J) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 3:49 | 2025-07-20 |  |
 | [Gentle Thoughts](https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 7:02 | 2025-07-20 |  |
 | [Hang Up Your Hang Ups](https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 7:26 | 2025-08-24 |  |
@@ -61,7 +62,7 @@
 | [Three Bags Full \- Remastered 2007](https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 5:26 | 2025-07-20 |  |
 | [Toys](https://open.spotify.com/track/0GeGIfL8CsPec8Z2bMhttW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 5:52 | 2025-07-20 | 2025-08-24 |
 | [Vein Melter](https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 9:09 | 2025-07-20 |  |
-| [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 | 2025-07-20 |  |
+| [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 | 2025-07-20 | 2025-10-23 |
 | [Wiggle Waggle](https://open.spotify.com/track/2akqjwBZxyDIEJEJXq4Cvx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:51 | 2025-07-20 |  |
 | [Yams](https://open.spotify.com/track/57B6gMEI1E4E3kKLKvfX3U) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:00 | 2025-07-20 |  |
 

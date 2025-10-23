@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23015,
+  "num_followers": 23027,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABr7CfrMKURsqxo7qL8Kxk3",
+  "snapshot_id": "aPbNAAAAAADS3fAH95xjsEq0FblWX/BV",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Weisse Nase",
+        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Weisse Nase",
+      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ruinen Dieser Welt",
         "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 190451,
       "name": "Ruinen Dieser Welt",
       "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weisse Nase",
-        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Weisse Nase",
-      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
     },
     {
       "added_at": null,

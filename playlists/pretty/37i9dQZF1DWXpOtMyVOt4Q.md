@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,298 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,308 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 19 | [It feels like I've forgotten something](https://open.spotify.com/track/3zaFQTIBcEjLKuh2E2CX6X) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [It feels like I've forgotten something](https://open.spotify.com/album/29bbl8fqzfY2Xi7RIuuhUH) | 2:12 |
 | 20 | [this feeling](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling](https://open.spotify.com/album/4pxgrlu74Sk31RrGRH8FjL) | 1:34 |
 | 21 | [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 |
-| 22 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
+| 22 | [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 |
 | 23 | [i was only temporary 2 u](https://open.spotify.com/track/1xyN0kSLjNWV1n9aSpia2m) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary 2 u](https://open.spotify.com/album/4hWU6zvJs0p0eUdUmjQHBj) | 1:36 |
-| 24 | [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 |
+| 24 | [limerence](https://open.spotify.com/track/2EuEUEInXrlb7NZqyTOJ3f) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [limerence](https://open.spotify.com/album/12G2OhdDoWlxrEsoEutcJv) | 2:48 |
 | 25 | [Pebbles](https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Pebbles](https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U) | 1:36 |
 | 26 | [not noise](https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [not noise](https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt) | 2:28 |
 | 27 | [rescue](https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [ashess](https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow) | [rescue](https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA) | 2:16 |

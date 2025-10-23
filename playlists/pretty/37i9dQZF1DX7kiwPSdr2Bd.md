@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,451 likes - 80 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,494 likes - 80 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 38 | [Era a Mão de Deus \- Ao Vivo](https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Era a Mão de Deus \(Ao Vivo\)](https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z) | 5:47 |
 | 39 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
 | 40 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
-| 41 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
-| 42 | [Vigor \(Ao Vivo\)](https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Vigor \(Ao Vivo\)](https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf) | 4:26 |
+| 41 | [Vigor \(Ao Vivo\)](https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Vigor \(Ao Vivo\)](https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf) | 4:26 |
+| 42 | [Jesus Cristo Basta \(Jesucristo Basta\) \- Ao Vivo](https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Jesus Cristo Basta \(Jesucristo Basta\) \[Ao Vivo\]](https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw) | 4:47 |
 | 43 | [Não Temerei Jamais \- Ao Vivo](https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Temerei Jamais \(Ao Vivo\)](https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7) | 5:52 |
 | 44 | [Tudo Que Eu Mais Quero \- Ao Vivo](https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Tudo Que Eu Mais Quero \(Ao Vivo\)](https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu) | 4:15 |
 | 45 | [Vem, Espírito de Deus \- Ao Vivo](https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Vem, Espírito de Deus \(Ao Vivo\)](https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV) | 4:24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 14493,
+  "num_followers": 14508,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABx97LovWWAkYpYa1PfNJX3",
+  "snapshot_id": "aPbNAAAAAACwS4IuDe6WcYVk7vxwtZuZ",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Bebe",
+      "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 227950,
       "name": "Holy Water (feat. Victony & Musa Keys)",
       "url": "https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 164324,
       "name": "Sawa",
       "url": "https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c8K\u00d3 GROOVE",
-        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "EARLY",
-      "url": "https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj"
       },
@@ -687,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Not You, It's Summer",
-        "url": "https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV"
+        "name": "\u00c8K\u00d3 GROOVE",
+        "url": "https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z"
       },
       "artists": [
         {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 192822,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3"
+      "duration_ms": 167586,
+      "name": "EARLY",
+      "url": "https://open.spotify.com/track/2jFwuGsah0FYLnvYth3D8X"
     },
     {
       "added_at": null,
@@ -727,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jailer",
-        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
+        "name": "It's Not You, It's Summer",
+        "url": "https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
         },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 230588,
-      "name": "Jailer",
-      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
+      "duration_ms": 192822,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
       "duration_ms": 197000,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/34YiLztdZohs4iwKXxcVgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jailer",
+        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Jailer",
+      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
     },
     {
       "added_at": null,

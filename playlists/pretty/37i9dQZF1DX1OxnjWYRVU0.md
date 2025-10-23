@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,213 likes - 370 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,218 likes - 370 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,7 +232,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 222 | [Astronaut In The Ocean](https://open.spotify.com/track/02SYgGfAb4sD5JiPfu8JKk) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42) | [Astronaut In The Ocean](https://open.spotify.com/album/4QxNGi6jYv1kGGluY7jqa7) | 3:01 |
 | 223 | [Eyes for U](https://open.spotify.com/track/3xThx06ANxb5a4ftqJcJWO) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Eyes for U](https://open.spotify.com/album/5nHfDJJDjB9jGM3UksJSBz) | 2:38 |
 | 224 | [Clint Eastwood](https://open.spotify.com/track/1hzT2Tv7whPOSMzXZDwIKp) | [MKJ](https://open.spotify.com/artist/2mdhxkqoWFBLtEC5FRkMD0), [IMKK](https://open.spotify.com/artist/5dtKB0tw4Yc39wYRzA9u4R) | [Clint Eastwood](https://open.spotify.com/album/7qcJuxZEUDrqSdAkaxhFmd) | 2:36 |
-| 225 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK) | [MELON](https://open.spotify.com/artist/1oDtJURxLhhWxs83N9ZRh9), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN) | 2:12 |
+| 225 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/5WyD2lZhEeTNg91oEF0TYK) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt), [Dance Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/2Ev260A0m7FJyCcnHYLKZN) | 2:12 |
 | 226 | [In the Shadows](https://open.spotify.com/track/08CHIJpxNSHJzxAfvkbQlc) | [JETFIRE](https://open.spotify.com/artist/1flYnVP7znbiEcL0ELwwTt), [Jay Mason](https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA) | [In the Shadows](https://open.spotify.com/album/0QgbNWzG6iH9F9oUtl2lIT) | 2:20 |
 | 227 | [Funky Nutcracker](https://open.spotify.com/track/6fuz8f4OPpqwxU1RK8KUIs) | [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W), [Ruff Ryders](https://open.spotify.com/artist/49pQfWTLlSww8C7K7unpUC) | [Funky Nutcracker](https://open.spotify.com/album/5W8i1VEtyWkYXiqhoXNoiw) | 1:52 |
 | 228 | [Cry For You](https://open.spotify.com/track/1Y7GfGztj5Djt2DWT7Gbgt) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Cry For You](https://open.spotify.com/album/2GQCnQigOLkPacuPotRygB) | 2:29 |

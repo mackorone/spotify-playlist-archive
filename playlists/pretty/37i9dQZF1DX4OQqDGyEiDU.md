@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,244 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,259 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,16 +35,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 25 | [ダイダイダイダイダイキライ](https://open.spotify.com/track/1gFVXBVuYlDUIEdwOrN5T8) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [ダイダイダイダイダイキライ](https://open.spotify.com/album/2OfdrTwI2aGBqRVUqyrWmt) | 2:36 |
 | 26 | [シャルル](https://open.spotify.com/track/54ezuGQj5s0ot4J7ktWb2h) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [Corridor](https://open.spotify.com/album/0D4d9uUnuR956q8bhJJ06Z) | 3:53 |
 | 27 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 |
-| 28 | [春嵐](https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv) | 2:41 |
-| 29 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
+| 28 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
+| 29 | [春嵐](https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv) | 2:41 |
 | 30 | [君が生きてなくてよかった](https://open.spotify.com/track/2CNKxSQ5HrP6tEZXUH6Q06) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [零号](https://open.spotify.com/album/1td6420oV2v558v9rQhgrq) | 4:24 |
 | 31 | [ウミユリ海底譚](https://open.spotify.com/track/7d66NXUtZmUpHKYMgk9Q77) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 3:56 |
 | 32 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 |
 | 33 | [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 |
 | 34 | [QUEEN](https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq) | 2:21 |
-| 35 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |
+| 35 | [テレキャスタービーボーイ \- long ver.](https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [パンデミック](https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag) | 2:44 |
 | 36 | [テレパシ](https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [テレパシ](https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh) | 2:17 |
-| 37 | [テレキャスタービーボーイ \- long ver.](https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [パンデミック](https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag) | 2:44 |
+| 37 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |
 | 38 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
 | 39 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 |
 | 40 | [マリオネットダンサー](https://open.spotify.com/track/6ipfY4NbzUNNTzvntTKVK4) | [ひらぎ](https://open.spotify.com/artist/2lcVy7y2fmmwtiTw8ajozQ) | [マリオネットダンサー](https://open.spotify.com/album/5eDfTC0MnDfg5KyVlwqcKL) | 2:18 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 45 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 |
 | 46 | [グッバイ宣言](https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [グッバイ宣言](https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs) | 2:52 |
 | 47 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
-| 48 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
-| 49 | [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 |
+| 48 | [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 |
+| 49 | [人マニア](https://open.spotify.com/track/4H89WUjBaQMIiqcnMSVX1j) | [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3) | [人マニア](https://open.spotify.com/album/0oUGAS1qyR8O5jbNe71uKn) | 2:07 |
 | 50 | [お呪い](https://open.spotify.com/track/59ojJ2W9aV1BpYogNMycAF) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [お呪い](https://open.spotify.com/album/3gOIqdMqe8hz5xeXHJyaOr) | 1:57 |
 
-Snapshot ID: `AAAAAK1YdO/ujhXNQaDnLizaPz5/kIvg`
+Snapshot ID: `AAAAAARveLm/TEn7lMLZ7/LXhN9yWC2j`

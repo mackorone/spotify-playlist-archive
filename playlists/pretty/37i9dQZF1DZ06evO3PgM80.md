@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,528 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,536 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 8 | [Além do Rio Azul \- Ao Vivo](https://open.spotify.com/track/7vnA8F8Eu1Wcye76U7CKkh) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Além do Rio Azul \(Ao Vivo\)](https://open.spotify.com/album/5jYmlFT4rPKgl3LJ9BJkVp) | 5:06 |
 | 9 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 |
 | 10 | [Amor Infinito / A Mensagem da Cruz \- Ao Vivo](https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Amor Infinito / A Mensagem da Cruz \(Ao Vivo\)](https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI) | 5:55 |
-| 11 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
-| 12 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 |
+| 11 | [Não Mais Escravos](https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Não Mais Escravos](https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG) | 5:12 |
+| 12 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
 | 13 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 |
 | 14 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
 | 15 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 49 | [Fome e Sede](https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Fome e Sede](https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq) | 6:01 |
 | 50 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [The Mystery Of Christ](https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd) | 7:29 |
 
-Snapshot ID: `aPV7gAAAAABCLSbtjCPyu1q+5ReAE6iB`
+Snapshot ID: `aPbNAAAAAAA2K+Do5hToCpKYUgkNIgZ0`

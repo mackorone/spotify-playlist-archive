@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Saucy Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,603 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,608 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 6 | [Droopy Eyes](https://open.spotify.com/track/0e6gFVDT07RdwGOxBXcwAg) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Just Punk Rock!](https://open.spotify.com/album/5EfZIqlCrpsWAO7PBXLxv3) | 3:56 |
 | 7 | [だからなんだって話](https://open.spotify.com/track/5WihpZNbe6UrVphH3bM9Jl) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [だからなんだって話](https://open.spotify.com/album/6G9qwO6BxtKgjpA6mXJelS) | 3:37 |
 | 8 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
-| 9 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [](https://open.spotify.com/album/null) | 4:08 |
+| 9 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
 | 10 | [カーマイン](https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [カーマイン](https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c) | 3:24 |
 | 11 | [wasurerumaeni](https://open.spotify.com/track/4gUjQJheIwz5ALZyeGXHXo) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [wasurerumaeni](https://open.spotify.com/album/0YEgYchI5FGy7g2zqrdsjF) | 4:02 |
 | 12 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 37 | [TOGE](https://open.spotify.com/track/11V0ZqAECzIKV2f1RHbFKN) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [TOGE](https://open.spotify.com/album/7lFfHjC3q539cmhX71Dlhz) | 4:12 |
 | 38 | [Call me](https://open.spotify.com/track/4UuGCxgFnD661LajvDYWzs) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Call me](https://open.spotify.com/album/6WgE0eomCV72pR5RQf3Sp0) | 2:52 |
 | 39 | [Let's eat food](https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Let's eat food](https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9) | 3:07 |
-| 40 | [Track 1](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 40 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
 | 41 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
 | 42 | [夜空を蝕んで](https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [泡沫の夢は幻に](https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2) | 3:08 |
 | 43 | [OVERNIGHT](https://open.spotify.com/track/2TKEFI0aHDF77p4WFfK9VO) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [OVERNIGHT](https://open.spotify.com/album/3a8y8iBMxoyI65dqEkGrIz) | 3:49 |

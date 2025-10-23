@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "Kallu Song",
+        "url": "https://open.spotify.com/album/51eZEXdRR32QG0Gw5YBmKX"
+      },
+      "artists": [
+        {
+          "name": "RAK",
+          "url": "https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Kallu Song",
+      "url": "https://open.spotify.com/track/1KzqlTr90YD1kxXsmo3ece"
+    },
+    {
+      "album": {
         "name": "KARMA II",
         "url": "https://open.spotify.com/album/26VenaVuTneUUqXQ9dihry"
       },

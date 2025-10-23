@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,315 likes - 69 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,534 likes - 69 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,16 +56,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 46 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 |
 | 47 | [Asleep On The Wing \- Pt\. 4](https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1) | [Asleep On The Wing](https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k) | 3:40 |
 | 48 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
-| 49 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 |
-| 50 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
+| 49 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
+| 50 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 |
 | 51 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 |
 | 52 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
 | 53 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
 | 54 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 55 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
-| 56 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
-| 57 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
-| 58 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 |
+| 56 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 57 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 |
+| 58 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
 | 59 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |
 | 60 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
 | 61 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 63 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
 | 64 | [And They Will Fall](https://open.spotify.com/track/7v5EO7IGRc4PnK3coVrdjG) | [Nik Sudan](https://open.spotify.com/artist/4zQ53leKAM0j0hyRuSP5lD) | [And They Will Fall](https://open.spotify.com/album/3JJqbD5SjeRnDJCMEgkAZk) | 4:01 |
 | 65 | [Spectral](https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 8:09 |
-| 66 | [Under The Bed](https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Under The Bed](https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp) | 9:54 |
-| 67 | [Perpetual Care](https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 3:20 |
+| 66 | [Perpetual Care](https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e) | [Vile Karimi](https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL) | [Womb Trails](https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG) | 3:20 |
+| 67 | [Under The Bed](https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Under The Bed](https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp) | 9:54 |
 | 68 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 69 | [Stray](https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [The Beautiful World](https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD) | 2:58 |
 

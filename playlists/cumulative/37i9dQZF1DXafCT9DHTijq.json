@@ -150,10 +150,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 442693,
       "name": "Danse Macabre, Op. 40, R.171",
       "url": "https://open.spotify.com/track/4PRnYCH5hoxypKVcOBvx3a"
+    },
+    {
+      "album": {
+        "name": "The Hours (Music from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264600,
+      "name": "Dead Things",
+      "url": "https://open.spotify.com/track/5cO4UTeekZFqlszyGuqnJf"
     },
     {
       "album": {
@@ -464,6 +482,32 @@
       "duration_ms": 108253,
       "name": "Goldberg Variations Bwv 988: Aria - Da Capo",
       "url": "https://open.spotify.com/track/4Cr7xmAJyVbX6qgS4Pxl66"
+    },
+    {
+      "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "Grieg: Suite No. 1 from Peer Gynt, Op. 46: IV. In the Hall of the Mountain King",
+      "url": "https://open.spotify.com/track/30OTI6K70f6AvoiTK1GWk2"
     },
     {
       "album": {
@@ -869,6 +913,40 @@
     },
     {
       "album": {
+        "name": "Mozart: Requiem in D Minor",
+        "url": "https://open.spotify.com/album/72WH8dqxQEehMeZbo3T2fv"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Caroline Maria Petrig/Christel Borchers/Peter Straka/Mathias H\u00f6lle/Philharmonischer Chor M\u00fcnchen/M\u00fcnchner Philharmoniker/Sergi\u00f9 Celibidache",
+          "url": "https://open.spotify.com/artist/3hSKqdaq8ovLuvsFOhLxbt"
+        },
+        {
+          "name": "Philharmonischer Chor M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/6Q3PSZlcMFJqwMXt31j60H"
+        },
+        {
+          "name": "Sergiu Celibidache",
+          "url": "https://open.spotify.com/artist/6Aqj71kXAhQv3GncDt9gfx"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "Mozart: Requiem in D Minor, K. 626: VIII. Lacrimosa",
+      "url": "https://open.spotify.com/track/0XZsB7VdPjaSlLuVgTGwb3"
+    },
+    {
+      "album": {
         "name": "Berlioz: Symphonie fantastique; Dukas: The Sorcerer's Apprentice; Mussorgsky: Night on a Bald Mountain",
         "url": "https://open.spotify.com/album/3vSDu9qt7coA7uSD5k7T3f"
       },
@@ -974,7 +1052,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 153266,
       "name": "Peer Gynt, Op. 23: Act II, 7, In the Hall of the Mountain King",
       "url": "https://open.spotify.com/track/3VQ7hwiEfaHDl3AySgyaiR"
@@ -1204,6 +1282,88 @@
       "duration_ms": 81693,
       "name": "Run To The Church",
       "url": "https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK"
+    },
+    {
+      "album": {
+        "name": "Saint-Sa\u00ebns: Carnival of the Animals & Symphony No. 3, Op. 78 \"Organ Symphony\"",
+        "url": "https://open.spotify.com/album/2biqXEV4QnCBHgvmMlHowu"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80533,
+      "name": "Saint-Sa\u00ebns: Carnival of the Animals: XII. Fossils",
+      "url": "https://open.spotify.com/track/3vXCsfCjG7xqS9eAXhQqKu"
+    },
+    {
+      "album": {
+        "name": "Spatial Audio - The 3D Orchestral Collection",
+        "url": "https://open.spotify.com/album/2bYfXI8UJEIZwrKg6ipLHD"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Orchestre Philharmonique De Strasbourg",
+          "url": "https://open.spotify.com/artist/6ovcFUr31ei4FmtLIXtyNa"
+        },
+        {
+          "name": "Marko Letonja",
+          "url": "https://open.spotify.com/artist/7Hw2FhfcVUOeKkV7mJvuUB"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409800,
+      "name": "Saint-Sa\u00ebns: Danse macabre, Op. 40",
+      "url": "https://open.spotify.com/track/3WGH4JLJImdVNSIOfLoAkB"
+    },
+    {
+      "album": {
+        "name": "Schubert: Erlk\u00f6nig",
+        "url": "https://open.spotify.com/album/0VYTyaCh89OoOaMLbfH1I8"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Delirium Musicum",
+          "url": "https://open.spotify.com/artist/6cehH0C4lbI8AmQJ4LAOwZ"
+        },
+        {
+          "name": "\u00c9tienne Gara",
+          "url": "https://open.spotify.com/artist/3nHanVpXy2JPDHQye9f5Wp"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Schubert: Erlk\u00f6nig",
+      "url": "https://open.spotify.com/track/7BPv2l12nEHSmw8EQa1elW"
     },
     {
       "album": {
@@ -1550,10 +1710,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 1213413,
       "name": "The Water Goblin, Op. 107, B. 195",
       "url": "https://open.spotify.com/track/4b1brNQBEcvw4Eut1JHEfw"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "The Werewolf Scene",
+      "url": "https://open.spotify.com/track/5A6R7xh2NYE5gSTDSeUosJ"
     },
     {
       "album": {
@@ -1826,6 +2004,28 @@
       "duration_ms": 206560,
       "name": "Waltz Suite, Op. 110: III. Mephisto Waltz (From Lermontov)",
       "url": "https://open.spotify.com/track/5pcj8ZPk34gmuRP9Qbw8W9"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k: Tone Poems",
+        "url": "https://open.spotify.com/album/4cXQ94P1A25uc4pn1BfbJ9"
+      },
+      "artists": [
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420120,
+      "name": "Water Goblin: Allegro vivo",
+      "url": "https://open.spotify.com/track/2B7kM4FV45rXLF8lF6ReMX"
     },
     {
       "album": {

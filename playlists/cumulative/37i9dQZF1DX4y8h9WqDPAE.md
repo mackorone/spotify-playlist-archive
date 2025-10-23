@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Ty Dolla $ign
 
-1,158 songs - 2 day 11 hr 52 min
+1,159 songs - 2 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,6 +850,7 @@
 | [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 | 2025-09-05 | 2025-10-20 |
 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-19 |  |
 | [Saint Tropez](https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 3:02 | 2024-10-25 | 2025-01-25 |
+| [SAN ANDREAS](https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SAN ANDREAS](https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo) | 2:00 | 2025-10-17 |  |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-23 |  |
 | [Save Your Tears](https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Save Your Tears](https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9) | 2:24 | 2024-10-04 | 2025-05-10 |
 | [Say Somethin' \- Solange Southern Star Remix](https://open.spotify.com/track/0rBLc5x6p3gmSanFkfOgan) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [John Key](https://open.spotify.com/artist/047PSL4fRQ080yPASSLT94) | [The Emancipation Of Mimi \(20th Anniversary Edition\)](https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO) | 2:52 | 2025-05-30 | 2025-06-07 |
@@ -989,7 +990,7 @@
 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-07-21 | 2024-03-16 |
 | [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 | 2025-02-21 | 2025-07-30 |
 | [Taste of Ya](https://open.spotify.com/track/0FlsFg9HH5zI2NKyS7gXcC) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [It'll All Make Sense Later \(Deluxe\)](https://open.spotify.com/album/0p3gMzAZcxlKnjxyH8MgFw) | 2:30 | 2025-03-14 | 2025-05-10 |
-| [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-04-18 |  |
+| [Teach Me How To Love](https://open.spotify.com/track/1WIwqy57xMadhpG3cP0yvc) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Teach Me How To Love](https://open.spotify.com/album/0OMWABEZWBwe1dI5DQCkHd) | 3:02 | 2025-04-18 | 2025-10-23 |
 | [Tell Her](https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Tell Her](https://open.spotify.com/album/1Sr1nrKVq8nYCrxvjPiHcA) | 3:19 | 2025-09-05 |  |
 | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz) | 2:36 | 2024-09-13 | 2025-09-10 |
 | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws) | 2:43 | 2024-08-30 | 2025-05-10 |

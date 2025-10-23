@@ -1,4 +1,4 @@
-## Playlists \(8817\)
+## Playlists \(8818\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3061,6 +3061,7 @@
 - [IRIS](/playlists/pretty/37i9dQZF1DX42OMh36xkYf.md)
 - [IRL ANGEL](/playlists/pretty/37i9dQZF1DX7Ocjwy96xTX.md)
 - [ITZY THE 1ST WORLD TOUR <CHECKMATE> in JAPAN](/playlists/pretty/0EMU2v4In7YduH1ICRz6xr.md)
+- [IVE WORLD TOUR \[SHOW WHAT I AM\]](/playlists/pretty/37i9dQZF1DXazThYU5RTu6.md)
 - [IVE WORLD TOUR \[SHOW WHAT i HAVE\]](/playlists/pretty/37i9dQZF1DX89eFqyQeAQP.md)
 - [Ibiza 2025](/playlists/pretty/37i9dQZF1DXaCACvgOVs5K.md)
 - [Ibiza Classics](/playlists/pretty/37i9dQZF1DWZK99LPvBBfP.md)

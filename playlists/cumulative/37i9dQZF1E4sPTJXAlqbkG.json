@@ -730,7 +730,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 178800,
       "name": "All For Me",
       "url": "https://open.spotify.com/track/7vIDhgD7WWTMpvgJebImoN"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
@@ -3852,7 +3852,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 212565,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu"
@@ -4590,7 +4590,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh"
@@ -4780,6 +4780,24 @@
       "duration_ms": 188630,
       "name": "Goat 2.0 (feat. Wale)",
       "url": "https://open.spotify.com/track/11IyNk8uSeu54YQnSbtY6N"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177922,
+      "name": "Godspeed",
+      "url": "https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x"
     },
     {
       "album": {
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 272946,
       "name": "How Many Drinks?",
       "url": "https://open.spotify.com/track/4LiQ8uAynrXFWY0vimnAa1"
@@ -8120,7 +8138,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 190111,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
@@ -9196,7 +9214,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
@@ -10490,7 +10508,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 253386,
       "name": "She",
       "url": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
@@ -10892,7 +10910,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 202519,
       "name": "Spread Thin",
       "url": "https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF"
@@ -12620,7 +12638,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 103000,
       "name": "Want You",
       "url": "https://open.spotify.com/track/5Zl2RWTjTQlIvDKVVtNoX6"
@@ -13056,7 +13074,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 195053,
       "name": "With You",
       "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B"

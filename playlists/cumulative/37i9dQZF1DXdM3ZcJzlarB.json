@@ -4686,7 +4686,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 188614,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/24WY0ThqTZLADGzgUvhlmG"
@@ -6288,6 +6288,28 @@
       "duration_ms": 432000,
       "name": "Undertones 2 - Remix",
       "url": "https://open.spotify.com/track/3NCaewb7OXm9eXmW3ECd0b"
+    },
+    {
+      "album": {
+        "name": "Us Forever",
+        "url": "https://open.spotify.com/album/3msyNGBzQzOBqKPXS3DCCG"
+      },
+      "artists": [
+        {
+          "name": "Gueva",
+          "url": "https://open.spotify.com/artist/05Pn4YBKlafyqay7CrSS17"
+        },
+        {
+          "name": "Nosssia",
+          "url": "https://open.spotify.com/artist/0AwiZyTdsQf0abors9p7FR"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "Us Forever",
+      "url": "https://open.spotify.com/track/2Pdjj0oK5nK8DaUoDZsCad"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,365 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,368 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 39 | [星をめざして](https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0) | [芹沢あさひ \(CV.田中有紀\)](https://open.spotify.com/artist/0PuvZFUqYkzgGUivjSpJSF) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:26 |
 | 40 | [いつか Shiny Days \- 2023 Version](https://open.spotify.com/track/1oAw8Wewcm0SOpHnkVtd8H) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 01 \(2023 Version\)](https://open.spotify.com/album/2IxyJP4X09Ixe5idwVqQky) | 5:14 |
 | 41 | [Fly and Fly](https://open.spotify.com/track/3ENUIr1ITc6ozpXh0Kwj0j) | [シーズ](https://open.spotify.com/artist/0kBiJtv0WCJ5ZT2cR8IyNM) | [THE IDOLM@STER SHINY COLORS L@YERED WING 08](https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv) | 4:05 |
-| 42 | [純白トロイメライ \- 2023 Version](https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 03 \(2023 Ver.\)](https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E) | 4:04 |
-| 43 | [夢が夢じゃなくなるその日まで](https://open.spotify.com/track/1tFHnPunvgQHFVXWcjLf99) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS "CANVAS" 06](https://open.spotify.com/album/3EarCSn4p3bjZfE5dEvXFd) | 3:21 |
-| 44 | [Darling you!](https://open.spotify.com/track/0blUADIOntOI8r0qRpVyvy) | [桑山千雪 \(CV.芝崎典子\)](https://open.spotify.com/artist/6R8tCdnZadSp7NbPv2VQSd) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:10 |
-| 45 | [スローモーション](https://open.spotify.com/track/1v4HYDQBtCnyP7vawUltrO) | [風野灯織 \(CV.近藤玲奈\)](https://open.spotify.com/artist/0popzRDPjNmChemuz9WB0k) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 4:17 |
-| 46 | [有彩色ユリイカ](https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK) | [アンティーカ](https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:49 |
-| 47 | [Twinkle way](https://open.spotify.com/track/5U9EvPR8M5IrFTmyremxuZ) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 02](https://open.spotify.com/album/1pewpwUqImQRPBxJlLFXv3) | 4:45 |
-| 48 | [くだらないや](https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:45 |
-| 49 | [abyss of conflict \- 2023 Version](https://open.spotify.com/track/6b7GQPqweKWFErkjF3iCL4) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS L@YERED WING 03 \(2023 Version\)](https://open.spotify.com/album/6H0pUpoITkHIMVePzUGiUF) | 4:09 |
-| 50 | [グラデーション](https://open.spotify.com/track/0CyvcEW1dnPPwxqJRf9wXb) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS "CANVAS" 04](https://open.spotify.com/album/3VGtdqoBVfUQxjJb4vO6dd) | 3:51 |
+| 42 | [Overdrive Emotion](https://open.spotify.com/track/4QS85NG0Sq6kMSJZUZdnvW) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 06](https://open.spotify.com/album/40jerhrEfhhYjWUh9AA4EU) | 3:36 |
+| 43 | [純白トロイメライ \- 2023 Version](https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 03 \(2023 Ver.\)](https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E) | 4:04 |
+| 44 | [夢が夢じゃなくなるその日まで](https://open.spotify.com/track/1tFHnPunvgQHFVXWcjLf99) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS "CANVAS" 06](https://open.spotify.com/album/3EarCSn4p3bjZfE5dEvXFd) | 3:21 |
+| 45 | [Darling you!](https://open.spotify.com/track/0blUADIOntOI8r0qRpVyvy) | [桑山千雪 \(CV.芝崎典子\)](https://open.spotify.com/artist/6R8tCdnZadSp7NbPv2VQSd) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:10 |
+| 46 | [スローモーション](https://open.spotify.com/track/1v4HYDQBtCnyP7vawUltrO) | [風野灯織 \(CV.近藤玲奈\)](https://open.spotify.com/artist/0popzRDPjNmChemuz9WB0k) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Luna\- \(2022 Version\)](https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT) | 4:17 |
+| 47 | [有彩色ユリイカ](https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK) | [アンティーカ](https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:49 |
+| 48 | [Twinkle way](https://open.spotify.com/track/5U9EvPR8M5IrFTmyremxuZ) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 02](https://open.spotify.com/album/1pewpwUqImQRPBxJlLFXv3) | 4:45 |
+| 49 | [くだらないや](https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:45 |
+| 50 | [abyss of conflict \- 2023 Version](https://open.spotify.com/track/6b7GQPqweKWFErkjF3iCL4) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS L@YERED WING 03 \(2023 Version\)](https://open.spotify.com/album/6H0pUpoITkHIMVePzUGiUF) | 4:09 |
 
 Snapshot ID: `AAAAAIOKJutxmc6qAnd4go8010BWxhOz`

@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84207,
+  "num_followers": 84227,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+      },
+      "artists": [
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "De Laatste (De Nachtbrakers Remix)",
         "url": "https://open.spotify.com/album/5p8PEyTaHYcWCrYM9JbYOz"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 160000,
       "name": "De Laatste - De Nachtbrakers Remix",
       "url": "https://open.spotify.com/track/75zPlFNjN0P92jD67UMIU2"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
-      },
-      "artists": [
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
       "added_at": "2025-10-21 11:57:23",

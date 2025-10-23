@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Klassik Frescobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,507 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,547 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 52 | [Cloud 9](https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Cloud 9](https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR) | 3:28 |
 | 53 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 54 | [Blessing](https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR) | [Blaka Dan](https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s) | [Blessing](https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN) | 3:07 |
-| 55 | [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 |
-| 56 | [Anxiety](https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Anxiety](https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq) | 3:40 |
+| 55 | [Anxiety](https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Anxiety](https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq) | 3:40 |
+| 56 | [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 |
 | 57 | [Gyal Owner](https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Tight Squeeze Riddim](https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3) | 3:23 |
 | 58 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
 | 59 | [Carnival Contract](https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Carnival Contract](https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J) | 3:58 |
 | 60 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
 | 61 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 62 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 |
-| 63 | [Energy](https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Energy](https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk) | 3:32 |
-| 64 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 |
+| 63 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 |
+| 64 | [Energy](https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Energy](https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk) | 3:32 |
 | 65 | [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 |
 | 66 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 |
 | 67 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 85 | [Search Party](https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Search Party](https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g) | 3:26 |
 | 86 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 |
 | 87 | [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 |
-| 88 | [Jab Supremacy](https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Supremacy](https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH) | 3:00 |
-| 89 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
+| 88 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 |
+| 89 | [Jab Supremacy](https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Supremacy](https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH) | 3:00 |
 | 90 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
 | 91 | [Sit on My Face](https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc) | [Zido](https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq) | [Sit on My Face](https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg) | 1:27 |
 | 92 | [Spoil You](https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE) | [Shemmy J](https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2) | [Spoil You](https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb) | 3:08 |

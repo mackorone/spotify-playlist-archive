@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2025年10月18日\(土\)に大阪城ホールで開催されるヒップホップフェスティバル<a href="https://popyours.jp/osaka2025">『POP YOURS』</a>の公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,998 likes - 37 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,002 likes - 37 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

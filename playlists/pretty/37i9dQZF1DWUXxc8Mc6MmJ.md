@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,487 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,786 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 41 | [You are so beautiful](https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Guardian \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu) | 3:15 |
 | 42 | [It\`s you](https://open.spotify.com/track/3dvPPS5KXskeRbrSY80gwt) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Whats wrong with secretary kim OST Part.2](https://open.spotify.com/album/33Pnr6Xe94tVdfMvZKKntT) | 3:39 |
 | 43 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
-| 44 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
-| 45 | [All with You](https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut) | 3:53 |
+| 44 | [All with You](https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut) | 3:53 |
+| 45 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 46 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
 | 47 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 |
 | 48 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 65 | [파라다이스 \(메인 테마\)](https://open.spotify.com/track/6HmqWhnp3mAgm8glPBzYVw) | [T\-Max](https://open.spotify.com/artist/4zYdTQheeWFEGotJyvhYJB) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:25 |
 | 66 | [I Love You, I Remember You](https://open.spotify.com/track/5nclYlcWMW9QgnBZU2apZh) | [I.O.I](https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5fWzkB75o6HICDEDzWq5tf) | 4:06 |
 | 67 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
-| 68 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 |
-| 69 | [I′ll Be There](https://open.spotify.com/track/61957qi95EnJmPoklmcc5p) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:52 |
+| 68 | [I′ll Be There](https://open.spotify.com/track/61957qi95EnJmPoklmcc5p) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/5imt2fu9plNVvxIsHqdqpX) | 3:52 |
+| 69 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 |
 | 70 | [Wind](https://open.spotify.com/track/6pWeveORQ9qaXy64mv5Yi4) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 11](https://open.spotify.com/album/3M3w0anYS8V9rEdljRMwPK) | 3:37 |
 | 71 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
 | 72 | [Goodbye](https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The Beauty Inside Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY) | 3:13 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 96 | [Confession Is Not Flashy](https://open.spotify.com/track/584hTOO20B2WKK8PjPB1Gw) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2D5vry1OpxezOMaUEkCGd3) | 3:48 |
 | 97 | [You Are My Everything \- English Version](https://open.spotify.com/track/659eroHArk1V6qzOBDaLDL) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 |
 | 98 | [From now on](https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) | 3:10 |
-| 99 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
-| 100 | [The man](https://open.spotify.com/track/2OGANfvwjjyCGshEfeG0FX) | [HYUN BIN](https://open.spotify.com/artist/7u0vBjg2cyEOum1UzgH8W6) | [SECRET GARDEN DRAMA OST Part.5](https://open.spotify.com/album/7Kj4iWxj46ndA8bZPJrJqy) | 4:31 |
+| 99 | [The man](https://open.spotify.com/track/2OGANfvwjjyCGshEfeG0FX) | [HYUN BIN](https://open.spotify.com/artist/7u0vBjg2cyEOum1UzgH8W6) | [SECRET GARDEN DRAMA OST Part.5](https://open.spotify.com/album/7Kj4iWxj46ndA8bZPJrJqy) | 4:31 |
+| 100 | [Sweet](https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Sweet \(A Business Proposal OST Part.1\)](https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ) | 3:36 |
 
 Snapshot ID: `AAAAAEg0/UPIXqdzvkIOx7LoCaQwKhwa`

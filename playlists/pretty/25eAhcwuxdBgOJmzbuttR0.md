@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 403 songs - 1 day 3 hr 34 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 407 songs - 1 day 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -411,5 +411,9 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 401 | [milk of the madonna](https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 |
 | 402 | [Floods](https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 6:59 |
 | 403 | [Karma Police \- Live In Denver](https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 3:25 |
+| 404 | [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet \- Live In Denver](https://open.spotify.com/track/4JVRqhImADrfx2Uegn1HVd) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:23 |
+| 405 | [There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet](https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:16 |
+| 406 | [Tonight, Tonight \- Live In Denver](https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:06 |
+| 407 | [Build God, Then We'll Talk \- Live In Denver](https://open.spotify.com/track/3WIgVyhvuleR2o90Tr9bED) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 5:04 |
 
-Snapshot ID: `AAABpYYUelVWaEnBzuPZIf9HnbABwJhZ`
+Snapshot ID: `AAABqZ5D10l+yWy05feQ6kAS9jDkm4OU`

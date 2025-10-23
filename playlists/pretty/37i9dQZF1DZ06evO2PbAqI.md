@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 
 > This is Lacuna Coil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,378 likes - 49 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,382 likes - 49 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PbAqI.md) - [plain]
 | 48 | [Stars](https://open.spotify.com/track/3oi4Cdf6zfpxRtpGMr3Xie) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [The Eps\- Lacuna Coil/halflife](https://open.spotify.com/album/4pPjBhZFubAGdhIVTSj8VG) | 4:41 |
 | 49 | [Daylight Dancer XX](https://open.spotify.com/track/6axoZ12xNleLVD0RVuHyU4) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Comalies XX](https://open.spotify.com/album/3bNmQxUHeb14nG9y3sxjqD) | 3:46 |
 
-Snapshot ID: `aPV7gAAAAAB3t1xwldj1CiwnujNiBvuT`
+Snapshot ID: `aPbNAAAAAADxcEWgzlQCpBu4lM73Gvu5`

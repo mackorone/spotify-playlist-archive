@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 kor! y ZEEVA en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,511 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,523 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 7 | [Esto no termina asi](https://open.spotify.com/track/58avauVBWbkh2vo0VWDnjN) | [Esker Ongaku](https://open.spotify.com/artist/2wU9Z5WTHEx6FHPJcbCfq5), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [Esto no termina asi](https://open.spotify.com/album/6bI9zb2wwgmCqiES22RQKf) | 2:35 |
 | 8 | [Lucky](https://open.spotify.com/track/1fNVYUWkalXzEt08ozR77x) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [iNUiNUiNU](https://open.spotify.com/album/7Kxwe22VxMRSyeTTX86muQ) | 2:40 |
 | 9 | [A A A A](https://open.spotify.com/track/0PX4JOqMRoUc8TzN51zenN) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [ESTÁ BIEN LLORAR </3](https://open.spotify.com/album/4DK5K8U2hXa3tn1xBTAWCC) | 2:25 |
-| 10 | [Claroscuro](https://open.spotify.com/track/5pKBW0LCUcnfEj3NcgpYaK) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Claroscuro](https://open.spotify.com/album/4s1wqrNzhzzihwAK1QeySq) | 4:06 |
+| 10 | [Claroscuro](https://open.spotify.com/track/5pKBW0LCUcnfEj3NcgpYaK) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Claroscuro](https://open.spotify.com/album/4s1wqrNzhzzihwAK1QeySq) | 4:09 |
 | 11 | [CONGELADO](https://open.spotify.com/track/0aJRbbQgKMZg9HO7V7Vj6w) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ), [Kusuomario](https://open.spotify.com/artist/2tt8YLhRQoHy89FMDwqg1o) | [CONGELADO](https://open.spotify.com/album/0kQqlWcacdLs5hnqTwhrPh) | 2:34 |
 | 12 | [paranormal](https://open.spotify.com/track/5sNJ4okiWlOOYP4I66Qhuv) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares+](https://open.spotify.com/album/7vS5TDQ9oUakyWAtBqlldL) | 2:55 |
 | 13 | [techno s3x!](https://open.spotify.com/track/3TWPapEzNeVlkPqCIMDxpe) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [techno s3x!](https://open.spotify.com/album/2PVldRuU7VY5l29EHD4FBc) | 2:25 |

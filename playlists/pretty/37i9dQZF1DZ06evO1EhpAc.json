@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9624,
+  "num_followers": 9627,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABu7a8KHi1s1B1ZzLF2v00h",
+  "snapshot_id": "aPbNAAAAAACoLEM6PBa3B7J/FiRK8aj+",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 182957,
+      "name": "break it even",
+      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mirror (feat. Jessy Lanza & Yaeji)",
         "url": "https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 168500,
       "name": "Mirror (feat. Jessy Lanza & Yaeji)",
       "url": "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 182957,
-      "name": "break it even",
-      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yaeji",
-        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 196923,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yaeji",
+        "url": "https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,

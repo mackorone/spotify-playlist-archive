@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,935 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,934 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 40 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 |
 | 41 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
 | 42 | [mario](https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [mario](https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID) | 2:45 |
-| 43 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
-| 44 | [Bruce](https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 2:50 |
+| 43 | [Bruce](https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [12](https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz) | 2:50 |
+| 44 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
 | 45 | [Co noc](https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Co noc](https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd) | 2:39 |
 | 46 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 |
 | 47 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 55 | [Nie pozwolę Ci wyjść](https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Nie pozwolę Ci wyjść](https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd) | 2:41 |
 | 56 | [Tanie Komplementy](https://open.spotify.com/track/14FuUTQ1zihfwWU7Y1O5oA) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Światłocienie](https://open.spotify.com/album/5dSS0GeF843KrF4YFiaVNC) | 2:57 |
 | 57 | [Na dno](https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Na dno](https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs) | 3:40 |
-| 58 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 |
-| 59 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
+| 58 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
+| 59 | [Bez Ciebie](https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 3:37 |
 | 60 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
 
 Snapshot ID: `AAAAAPEQsreSlFIedLsj4cyZBZANPxli`

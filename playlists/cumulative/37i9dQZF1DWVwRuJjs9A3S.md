@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Svart Ridå.
 
-957 songs - 2 day 7 hr 19 min
+958 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-05 | 2024-11-01 |
 | [Till hälften människa, till hälften moderat](https://open.spotify.com/track/6X1QmXwBadartUpzhUfgjS) | [The Tarantula Waltz](https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR), [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Till hälften människa, till hälften moderat](https://open.spotify.com/album/7M2UQRwp5YgXHE2PvMShgG) | 4:44 | 2024-06-27 | 2024-07-27 |
 | [Time Moves](https://open.spotify.com/track/3HNBUxmA65NuwLBgJu6Kc8) | [Tussilago](https://open.spotify.com/artist/4t6RTEVNwReIHzr23UUF25), [Petter Sebastian](https://open.spotify.com/artist/02qM8e0kuLtDBx9BEQIg5e) | [Time Moves](https://open.spotify.com/album/4t8PvsCUalhrCQUV7lKQ30) | 4:49 | 2025-05-08 | 2025-10-10 |
+| [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 | 2025-10-22 |  |
 | [Time To Walk Home](https://open.spotify.com/track/44ZIQVc7rcVi5CbJZsWlrJ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt), [Irya Gmeyner](https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x) | [Time To Walk Home](https://open.spotify.com/album/0UsLYsTdFk2IdmGUNepR81) | 4:14 | 2024-10-03 | 2024-11-15 |
 | [Tiny Little Pieces](https://open.spotify.com/track/7mXb7r1bsXAWet4DpqmXGk) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Tiny Little Pieces](https://open.spotify.com/album/6F969S0HFye4BgE11IpO3r) | 3:26 | 2024-11-14 | 2025-01-24 |
 | [Titanic](https://open.spotify.com/track/629NNjrfuSWC1xCbDdE4Am) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Titanic](https://open.spotify.com/album/3F6AWrmaA9OeE2qIzNeGyJ) | 3:44 | 2025-06-12 | 2025-10-17 |

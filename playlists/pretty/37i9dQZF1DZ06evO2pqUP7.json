@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69522,
+  "num_followers": 69529,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADS6EuBrolUWyGhjdlCcLzt",
+  "snapshot_id": "aPbNAAAAAADi62Nl1llHHp2ON7NhAFsn",
   "tracks": [
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMIGA CON BENEFICIOS",
         "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 633564,
+  "num_followers": 633621,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAC7Z81YVIk680d1hgW3Smbo",
+  "snapshot_id": "aPbNAAAAAACEuKgeY4h2HGUumGDLw3A5",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 268097,
-      "name": "All at Once",
-      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Whitney",
         "url": "https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 255733,
       "name": "One Of Those Days",
       "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 268097,
+      "name": "All at Once",
+      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
     },
     {
       "added_at": null,
@@ -694,11 +694,15 @@
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
         }
       ],
-      "duration_ms": 281066,
-      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
+      "duration_ms": 298106,
+      "name": "Same Script, Different Cast",
+      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
     },
     {
       "added_at": null,
@@ -766,15 +770,11 @@
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
         }
       ],
-      "duration_ms": 298106,
-      "name": "Same Script, Different Cast",
-      "url": "https://open.spotify.com/track/2vufJ1gR16JlpDiZGTrg0c"
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5s2RMsTabBqpOSZb86vPJt"
     },
     {
       "added_at": null,

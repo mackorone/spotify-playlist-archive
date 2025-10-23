@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,896 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,903 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 41 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 |
 | 42 | [El](https://open.spotify.com/track/6mWDXotbiEeRWZeQB9muCl) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/7tLkIgVXrErZK0K9RIyN4w) | 3:24 |
 | 43 | [Otra Oportunidad](https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3) | 3:51 |
-| 44 | [Soñar](https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Soñar](https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k) | 3:29 |
-| 45 | [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 |
+| 44 | [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 |
+| 45 | [Soñar](https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Soñar](https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k) | 3:29 |
 | 46 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 |
 | 47 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
-| 48 | [Cheque En Blanco](https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Cheque En Blanco](https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8) | 2:47 |
-| 49 | [⁠ ⁠⁠La Luz](https://open.spotify.com/track/25pDTDC3mcCHVEXwNICGDQ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Mañana Será Otro Día](https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS) | 3:33 |
+| 48 | [⁠ ⁠⁠La Luz](https://open.spotify.com/track/25pDTDC3mcCHVEXwNICGDQ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Mañana Será Otro Día](https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS) | 3:33 |
+| 49 | [Cheque En Blanco](https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Cheque En Blanco](https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8) | 2:47 |
 | 50 | [Tú](https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Tú](https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA) | 2:58 |
 
-Snapshot ID: `aPV7gAAAAAAKgMTJ2yJ9kyq/PSS8/b5R`
+Snapshot ID: `aPbNAAAAAADkcIOHwdgrwu65ug+ydPkm`

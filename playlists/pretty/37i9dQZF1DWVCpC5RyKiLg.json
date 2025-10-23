@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 743041,
+  "num_followers": 743090,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-04-18 06:06:19",
       "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 161678,
+      "name": "Beijo De Varanda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
+    },
+    {
+      "added_at": "2025-04-18 06:06:19",
+      "album": {
         "name": "Tchau Brigado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 163402,
       "name": "Tchau Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
-    },
-    {
-      "added_at": "2025-04-18 06:06:19",
-      "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 161678,
-      "name": "Beijo De Varanda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
     },
     {
       "added_at": "2025-04-18 06:06:19",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-04-18 06:06:19",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi"
-      },
-      "artists": [
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Madri - Ao Vivo",
-      "url": "https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN"
-    },
-    {
-      "added_at": "2025-04-18 06:06:19",
-      "album": {
         "name": "De Volta aos Bares",
         "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 217666,
       "name": "Pode Ir Embora - Ao Vivo",
       "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
+    },
+    {
+      "added_at": "2025-04-18 06:06:19",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Am9uQ1h1iWP2VdnLg0KVi"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Madri - Ao Vivo",
+      "url": "https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN"
     },
     {
       "added_at": "2025-04-18 06:06:19",

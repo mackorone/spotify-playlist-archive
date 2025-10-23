@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Edgardo Nuñez en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,761 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,820 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 60 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 |
 | 61 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 |
 | 62 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 |
-| 63 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
-| 64 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como En Los Viejos Tiempos](https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P) | 4:05 |
+| 63 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como En Los Viejos Tiempos](https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P) | 4:05 |
+| 64 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 65 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 |
 | 66 | [Cuando La Vida Sea Trago](https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Cuando La Vida Sea Trago](https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x) | 2:53 |
 | 67 | [Aqui Voy](https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Aqui Voy](https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F) | 4:02 |
@@ -109,11 +109,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [GPI](https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [GPI](https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9) | 2:34 |
 | 100 | [PENSANDO Y PENSANDO](https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [PENSANDO Y PENSANDO](https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO) | 3:26 |
 | 101 | [Buenas Rachas](https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Buenas Rachas](https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e) | 2:33 |
-| 102 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
-| 103 | [Déjenla Que Sea Feliz](https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH) | [Chacho Y Su Vagancia](https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6) | [Déjenla Que Sea Feliz](https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3) | 2:55 |
+| 102 | [Déjenla Que Sea Feliz](https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH) | [Chacho Y Su Vagancia](https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6) | [Déjenla Que Sea Feliz](https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3) | 2:55 |
+| 103 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
 | 104 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 |
-| 105 | [Amor De Locos](https://open.spotify.com/track/7zNQPNfOm4DtUdNbkNLNxN) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Chuyito](https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65) | [Amor De Locos](https://open.spotify.com/album/6tvjCm0QciHYaud26Q6SiQ) | 3:17 |
-| 106 | [Besito Con Humo](https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Besito Con Humo](https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H) | 2:25 |
+| 105 | [Besito Con Humo](https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Besito Con Humo](https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H) | 2:25 |
+| 106 | [Amor De Locos](https://open.spotify.com/track/7zNQPNfOm4DtUdNbkNLNxN) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Chuyito](https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65) | [Amor De Locos](https://open.spotify.com/album/6tvjCm0QciHYaud26Q6SiQ) | 3:17 |
 | 107 | [Hoy la Vi Con Él \- En Vivo](https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy la Vi Con Él \(En Vivo\)](https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX) | 3:43 |
 | 108 | [Agua Y Aceite](https://open.spotify.com/track/4Pc3MZc2ozA54Yqo8Zf1c7) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Agua Y Aceite](https://open.spotify.com/album/3KhNz9VGhRCFPqXQcuSccP) | 2:56 |
 | 109 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Don Nadie](https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Don Nadie](https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A) | 3:11 |
 | 125 | [Mercedes](https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Mercedes](https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX) | 2:13 |
 
-Snapshot ID: `AAAAAE00TDXmI5aDSMrZbEpXdjuSz7/H`
+Snapshot ID: `AAAAAMxsnJwOi19a/eFqTwbZrDuRAXYa`

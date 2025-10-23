@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-117 songs - 5 hr 41 min
+118 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Adorable Mentirosa](https://open.spotify.com/track/5pdyC8dxuOxAIIZ0T8w0uP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:42 | 2022-06-01 | 2023-06-09 |
 | [Amar Y Vivir](https://open.spotify.com/track/7j7y45409vTBOFgGATgr21) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:29 | 2022-06-01 | 2023-06-09 |
 | [Así lo Quiso Él](https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:13 | 2022-06-01 | 2025-05-07 |
+| [Aunque Te Enamores](https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:59 | 2025-10-23 |  |
 | [Aunque Te Enamores](https://open.spotify.com/track/3hYcxOVvz56QOyqFSYkLOu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:59 | 2022-06-01 | 2023-06-09 |
 | [Baila](https://open.spotify.com/track/1MiPQr7yIqBOskWia7ZMIs) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:58 | 2022-06-01 |  |
 | [Busca Amor](https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:37 | 2022-06-01 |  |

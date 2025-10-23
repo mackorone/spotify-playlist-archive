@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,225 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,323 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 18 | [Dekha Hai Aise Bhi](https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Sifar](https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF) | 3:58 |
 | 19 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
 | 20 | [Deewana Tera](https://open.spotify.com/track/2bJZCUnAI9Se6MmtQy8Fcv) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 6:00 |
-| 21 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
-| 22 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 21 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 22 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
 | 23 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
 | 24 | [Kabhi Yaadon Mein Aaun](https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Tere Bina](https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ) | 6:07 |
 | 25 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 42 | [Gori](https://open.spotify.com/track/1wqw75urLC2sLsE7gLGAAE) | [A Band Of Boys](https://open.spotify.com/artist/7fxBPUc2bTUgl7GLuqjajk) | [Ye Bhi Woh Bhi](https://open.spotify.com/album/38Xw5OWbtsvXFlSFG6rGyG) | 4:12 |
 | 43 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
 | 44 | [Saade Dil Te Chhuriyan Chaliyan](https://open.spotify.com/track/4MmlE62E59WSZtH90Kbu5C) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx) | [Ho Jayegi Balle Balle](https://open.spotify.com/album/3GRXDOkaGugQQWm0dQgdxM) | 3:12 |
-| 45 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
-| 46 | [Koyi Jo Mila Toh Mujeh Aisa Lagata Tha](https://open.spotify.com/track/3Uy8cbGXOrZRCR6YGdPBrr) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Breathless](https://open.spotify.com/album/4jQCpF7PQfcIjZY3omeXZq) | 3:05 |
+| 45 | [Koyi Jo Mila Toh Mujeh Aisa Lagata Tha](https://open.spotify.com/track/3Uy8cbGXOrZRCR6YGdPBrr) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Breathless](https://open.spotify.com/album/4jQCpF7PQfcIjZY3omeXZq) | 3:05 |
+| 46 | [Paree](https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg) | [Suneeta Rao](https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd) | [Dhuan](https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW) | 6:01 |
 | 47 | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/track/3LZYmdTuRWMgajd91up13j) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Saawan Mein Lag Gayee Aag](https://open.spotify.com/album/1ZOAdeDl57AM0k8Em2X7Mv) | 4:08 |
 | 48 | [Aaja Sohneya](https://open.spotify.com/track/1DfskI6r7ufeVEiV1DQZf6) | [Bally Jagpal](https://open.spotify.com/artist/3mMwnm3FuucDtmcuWRoKiG), [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S) | [Dark & Dangerous](https://open.spotify.com/album/1CDM75MwzrJdekLr7O92bu) | 7:22 |
 | 49 | [Lover Girl](https://open.spotify.com/track/44NcO3sv7gVBH03tNRmwDR) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:46 |

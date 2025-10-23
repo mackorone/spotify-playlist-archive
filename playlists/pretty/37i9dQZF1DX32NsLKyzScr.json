@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2599726,
+  "num_followers": 2599751,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -507,30 +507,6 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
         "name": "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
         "url": "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 176250,
       "name": "Golden - David Guetta REM/X",
       "url": "https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 197549,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -1411,8 +1411,8 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
+        "name": "Inside Our Hearts",
+        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
       "artists": [
         {
@@ -1420,17 +1420,17 @@
           "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
         }
       ],
-      "duration_ms": 169326,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
+      "duration_ms": 234086,
+      "name": "Inside Our Hearts",
+      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -1495,6 +1495,50 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 184938,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "duration_ms": 169326,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1519,30 +1563,6 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
-        "name": "Inside Our Hearts",
-        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
-        }
-      ],
-      "duration_ms": 234086,
-      "name": "Inside Our Hearts",
-      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -1587,26 +1607,6 @@
       "duration_ms": 173217,
       "name": "Let's Ride Away",
       "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 184938,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
-        "name": "You Take Me Home",
-        "url": "https://open.spotify.com/album/3JM8C4XlSk1EFLrk5Z23W8"
-      },
-      "artists": [
-        {
-          "name": "MC4D",
-          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
-        },
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "You Take Me Home",
-      "url": "https://open.spotify.com/track/1XtQrATtfkmMt2g9PIFV5W"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 156126,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
+        "name": "You Take Me Home",
+        "url": "https://open.spotify.com/album/3JM8C4XlSk1EFLrk5Z23W8"
+      },
+      "artists": [
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "You Take Me Home",
+      "url": "https://open.spotify.com/track/1XtQrATtfkmMt2g9PIFV5W"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -1979,30 +1979,6 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
-        "name": "Focus (feat. CLOVES) [Alok Remix]",
-        "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Focus (feat. CLOVES) - Alok Remix",
-      "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
         "name": "Where I'm From",
         "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
       },
@@ -2023,6 +1999,30 @@
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
+        "name": "Focus (feat. CLOVES) [Alok Remix]",
+        "url": "https://open.spotify.com/album/71YUx35MIG4R7DUAAxCVfF"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Focus (feat. CLOVES) - Alok Remix",
+      "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
-        "name": "One Night Of Love",
-        "url": "https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "One Night Of Love",
-      "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
         "name": "Love Parade",
         "url": "https://open.spotify.com/album/2UfAenTFsiHb6rLqbHVMHv"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 206308,
       "name": "Love Parade",
       "url": "https://open.spotify.com/track/6sx8YefY3PQgfY8TpVg34w"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
+        "name": "One Night Of Love",
+        "url": "https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "One Night Of Love",
+      "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -2415,6 +2415,26 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
+        "name": "The Spot",
+        "url": "https://open.spotify.com/album/1lTwLUaBbL9XkC6KeASwqo"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "duration_ms": 298125,
+      "name": "The Spot",
+      "url": "https://open.spotify.com/track/5fqLqeakKq58Eu05bx2si5"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
         "name": "Waste my time",
         "url": "https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY"
       },
@@ -2435,22 +2455,22 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
-        "name": "The Spot",
-        "url": "https://open.spotify.com/album/1lTwLUaBbL9XkC6KeASwqo"
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         },
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 298125,
-      "name": "The Spot",
-      "url": "https://open.spotify.com/track/5fqLqeakKq58Eu05bx2si5"
+      "duration_ms": 192681,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e"
     },
     {
       "added_at": "2025-10-17 04:00:44",
@@ -2571,6 +2591,26 @@
     {
       "added_at": "2025-10-17 04:00:44",
       "album": {
+        "name": "It Gets Better (Chris Stussy Remix)",
+        "url": "https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "It Gets Better - Chris Stussy Remix",
+      "url": "https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O"
+    },
+    {
+      "added_at": "2025-10-17 04:00:44",
+      "album": {
         "name": "The End Of Genesys",
         "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
@@ -2587,46 +2627,6 @@
       "duration_ms": 190726,
       "name": "Human Now (feat. Luke Steele)",
       "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
-        "name": "Million Good Reasons",
-        "url": "https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 157130,
-      "name": "Million Good Reasons",
-      "url": "https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73"
-    },
-    {
-      "added_at": "2025-10-17 04:00:44",
-      "album": {
-        "name": "SISTER",
-        "url": "https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "RADIO (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx"
     }
   ],
   "unique_name": "Power Hour",

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Song Sohee\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,134 songs - 2 day 20 hr 49 min
+1,136 songs - 2 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,11 +383,11 @@
 | [Hanagae](https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Hanagae](https://open.spotify.com/album/69ojcNwWWhvRkaTxxdFkGY) | 3:13 | 2021-12-12 | 2022-07-20 |
 | [Hand](https://open.spotify.com/track/6WbBMCJjrOzpur6T7czLrK) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:51 | 2024-10-04 | 2024-10-16 |
 | [Hangang \(feat\. heyden\)](https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Hangang](https://open.spotify.com/album/0bPdAOUP9WXFrTcM9S8PMU) | 3:02 | 2025-07-23 | 2025-09-10 |
-| [Hangang II \(feat\. prettyhappy\)](https://open.spotify.com/track/6woyNdP7fe5xasTrj0oVtA) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Hangang II](https://open.spotify.com/album/5by7mr8U2nbj4m5QbyQdcf) | 4:04 | 2025-10-10 |  |
+| [Hangang II \(feat\. prettyhappy\)](https://open.spotify.com/track/6woyNdP7fe5xasTrj0oVtA) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Hangang II](https://open.spotify.com/album/5by7mr8U2nbj4m5QbyQdcf) | 4:04 | 2025-10-10 | 2025-10-23 |
 | [Hangkio](https://open.spotify.com/track/0hUYYFoOPCuSsb6stdqR0h) | [Shin Onyu](https://open.spotify.com/artist/3dSchlsDeFd5mEw4RoAMOx) | [Happy Orange](https://open.spotify.com/album/76TnC7yj8OkyDIsTBpCak5) | 3:57 | 2021-12-21 | 2022-07-01 |
 | [Happy Ending](https://open.spotify.com/track/3BgEBMpkiYoWQtWT9AAdft) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Happy Ending](https://open.spotify.com/album/0SgKOEUQhYZXOkiRDRnmCZ) | 3:36 | 2024-01-22 | 2024-05-10 |
 | [HAPPY IPARK](https://open.spotify.com/track/6JPOfa2RLi0AQAgIr9VNfV) | [a pretty day 예쁜하루](https://open.spotify.com/artist/3qflgxvWuvqXL0EtDzBWOq) | [HAPPY IPARK](https://open.spotify.com/album/1JgZjUurQfkgMrdh21zQNd) | 1:48 | 2022-03-31 | 2022-04-21 |
-| [Happyhappyhappylife](https://open.spotify.com/track/34Bb5sXf8VljzfnJgnP1t2) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Happyhappyhappylife](https://open.spotify.com/album/0tap4cMvC12zOACDSgjdNl) | 4:02 | 2025-09-05 |  |
+| [Happyhappyhappylife](https://open.spotify.com/track/34Bb5sXf8VljzfnJgnP1t2) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Happyhappyhappylife](https://open.spotify.com/album/0tap4cMvC12zOACDSgjdNl) | 4:02 | 2025-09-05 | 2025-10-23 |
 | [Hard to Say](https://open.spotify.com/track/3d66TxP7B3pPzEC9vSWKuX) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Hard to Say](https://open.spotify.com/album/6OaIRvMkFS4fJxmHEWVXn2) | 3:14 | 2025-06-27 | 2025-07-09 |
 | [Hard to say goodbye](https://open.spotify.com/track/2U7OKfz4JsIQNJo3LuJBiV) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [Secret](https://open.spotify.com/album/6hJ9uTCJk20Y8FLmV5CgBa) | 3:19 | 2024-03-28 | 2024-05-10 |
 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 | 2022-07-27 | 2024-04-19 |
@@ -492,6 +492,7 @@
 | [Ironic](https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Ironic](https://open.spotify.com/album/222uC5p2bcGmcTh8at8Iv5) | 2:30 | 2025-04-09 | 2025-05-14 |
 | [isle](https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [pigfrog](https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z) | 3:21 | 2021-12-21 | 2022-07-28 |
 | [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2021-12-21 | 2024-05-01 |
+| [It stings!](https://open.spotify.com/track/6avPD0pubMIFY55Nn0fwe7) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [FANTASY](https://open.spotify.com/album/1nhxJmX1wipzaOkihjiH4s) | 2:29 | 2025-10-23 |  |
 | [It's Alright](https://open.spotify.com/track/00vVtTOe1npIhSPDdnA0MY) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [It's Alright](https://open.spotify.com/album/25lujKqHjleqhEQaZBXHv4) | 3:48 | 2022-03-31 | 2022-04-22 |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-03-31 | 2022-04-21 |
 | [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 | 2024-05-08 | 2024-07-11 |
@@ -898,6 +899,7 @@
 | [Still, Alive](https://open.spotify.com/track/2D6y91fPS8anxXLmYuFIIm) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Still, Alive](https://open.spotify.com/album/3YQzgiNGQQo8QBK3j4oxMS) | 3:41 | 2025-07-22 | 2025-08-19 |
 | [Stillness](https://open.spotify.com/track/2r4sl4hds7xyfT9im6N1ZL) | [pylat](https://open.spotify.com/artist/1zMe4f8RnQ4rEKV6DOHER3) | [Stillness](https://open.spotify.com/album/4iK991XKjt5gyJ2YrVqIHq) | 5:25 | 2025-01-30 | 2025-04-11 |
 | [Story Line \(Feat.Dawon\) \(Korean ver.\)](https://open.spotify.com/track/51ZLM32YbcAQ1aSl292T5N) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [Story Line](https://open.spotify.com/album/5QoTyucanJ6ilfPNENdseH) | 3:36 | 2021-12-21 | 2022-07-29 |
+| [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/2YX2HNfgXhprZlfrLRPrZI) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 | 2025-10-23 |  |
 | [Struggle](https://open.spotify.com/track/0vTFne5Auul5yGMFcWsNPU) | [JaeDal](https://open.spotify.com/artist/7eRzbxCxgpBeDQf07H6cwW) | [Struggle](https://open.spotify.com/album/5YRerCvXlvSVUIdAFksZHI) | 3:30 | 2022-03-31 | 2022-04-05 |
 | [Struggling](https://open.spotify.com/track/50EwAI9bolehhOwR0BxjfX) | [Brocccoli You Too?](https://open.spotify.com/artist/1PgKa72aXVTY8GmUaGkvwl) | [I Feel Like I'd Have To Do Something](https://open.spotify.com/album/2ZhRMgJQ1upVD8p3ssaZun) | 0:29 | 2021-12-21 | 2022-07-02 |
 | [Stuck In Wheels](https://open.spotify.com/track/12Zw0Rv4rmo77OV420pR6Z) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Stuck In Wheels](https://open.spotify.com/album/23eYYVlP58Kvunu7Iq1PEo) | 3:08 | 2022-06-08 | 2022-06-14 |

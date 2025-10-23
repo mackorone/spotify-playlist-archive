@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,199 likes - 72 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,234 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,17 +27,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 17 | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi) | 3:05 |
 | 18 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
 | 19 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
-| 20 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
-| 21 | [Snowfall](https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Snowfall](https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M) | 2:33 |
-| 22 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
+| 20 | [Snowfall](https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Snowfall](https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M) | 2:33 |
+| 21 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
+| 22 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
 | 23 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 24 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |
 | 25 | [Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/track/3au3krB3QurowkgSfxM4fx) | [Remo Giazotto](https://open.spotify.com/artist/2XVw29JYdo8C5MfteMnCqL), [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Giazotto: Adagio in G Minor "Albinoni's Adagio" \(Arr\. Awadis for Piano\)](https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh) | 3:26 |
 | 26 | [Until The End](https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 5:15 |
 | 27 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 |
 | 28 | [The Innkeeper and the Moon](https://open.spotify.com/track/2NorafETAjaOLdEvoOrfj3) | [Austin Joy](https://open.spotify.com/artist/6EQ4u4zmtbB7mXX0juIcDX) | [The Innkeeper and the Moon](https://open.spotify.com/album/2I22qH9JdIVJ1GAKclAuxv) | 5:17 |
-| 29 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
-| 30 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
+| 29 | [len](https://open.spotify.com/track/7n1y7ynfqbQLK1WVilSZfr) | [Flica](https://open.spotify.com/artist/4cgwbxk8cR38EzgY9lq3Ff) | [len](https://open.spotify.com/album/14mRLH3XnpNrcXxOGwsqnI) | 2:32 |
+| 30 | [Ash](https://open.spotify.com/track/6SHUHXfhBf2q8UrmSrTvGH) | [Tommy Heap](https://open.spotify.com/artist/2XWf0wicjSVj8j3a9roU0Y) | [Ash](https://open.spotify.com/album/4r4uivM8uagpk75U7ZEef9) | 3:23 |
 | 31 | [Sóliton](https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Sóliton](https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE) | 2:02 |
 | 32 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 |
 | 33 | [Inside Me](https://open.spotify.com/track/0W9q5K8mYvwOU8tc8m7XmJ) | [Cesare Picco](https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq), [Leonardo Sapere](https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP) | [The Last Gate](https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy) | 6:48 |

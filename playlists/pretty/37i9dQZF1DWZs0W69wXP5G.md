@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Jennifer Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,983 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,999 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 79 | [If I Were a Man](https://open.spotify.com/track/7dsxoeycurkfJpmV0Le5Oi) | [Barlow & Bear](https://open.spotify.com/artist/2JymsYVZ5c5prv9mOdPB3p), [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [The Unofficial Bridgerton Musical](https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U) | 2:58 |
 | 80 | [Let's Generalize About Men \(feat\. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz\)](https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/5TVgLn3yhvSe3h2pBTEzsy), [Donna Lynne Champlin](https://open.spotify.com/artist/4W6kSTuYNVuHw97QMvb2TB), [Gabrielle Ruiz](https://open.spotify.com/artist/5MVEzr4FAatsTTkPhDXkHj), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Vella Lovell](https://open.spotify.com/artist/4QLs1KUSQaafoB2dGnxvmR) | [Crazy Ex\-Girlfriend: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o) | 2:38 |
 
-Snapshot ID: `AAAAAGmboqv63I3n6EwGrO89t9LMVeKn`
+Snapshot ID: `AAAAADCxt0ChER6aGejq5V5yJxo8MMmf`

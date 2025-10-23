@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: DYSTINCT ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,402 likes - 70 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,479 likes - 70 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 14 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 15 | [CASAMIGOS](https://open.spotify.com/track/0LUNLyK43d1NEqWtuvYfHl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [CASAMIGOS](https://open.spotify.com/album/5SNVtJO3PA2TsZWdbzge7X) | 2:37 |
 | 16 | [Kom Maar](https://open.spotify.com/track/6YJ5GZQCGmNPbuSPqbKhOv) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Kom Maar](https://open.spotify.com/album/1aXrFMas052VPlol6nsLRo) | 2:53 |
-| 17 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
+| 17 | [Body Go](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 18 | [Geen Zorgen](https://open.spotify.com/track/4VTUvI4WzherVbWgpWD44H) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Geen Zorgen](https://open.spotify.com/album/1kxnKdzVOihQteYbElLLbx) | 2:05 |
 | 19 | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Big Man Ting \(feat\. Stefflon Don & Egnever\)](https://open.spotify.com/album/6W2pcAX4Z3jJB3SPyUokWL) | 2:46 |
 | 20 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |

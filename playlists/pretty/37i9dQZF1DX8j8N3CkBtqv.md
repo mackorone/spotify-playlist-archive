@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Garvit\-Priyansh, Dikshant and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,343 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,355 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 32 | [Resham Ki Dor](https://open.spotify.com/track/0gnUcv3ZvRuW4McbtUw2wl) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Resham Ki Dor](https://open.spotify.com/album/5WajFYo8cctUuWxTk29rSU) | 2:26 |
 | 33 | [a hiatus](https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:47 |
 | 34 | [Keh Do Na](https://open.spotify.com/track/502fmSINuoFAoSrZxtJBgq) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Keh Do Na](https://open.spotify.com/album/2ZJ4ebivOziAHqnDmYcIeJ) | 2:42 |
-| 35 | [I’m Done.](https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [I’m Done.](https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT) | 2:28 |
-| 36 | [Chaand](https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Chaand](https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW) | 2:51 |
-| 37 | [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 |
-| 38 | [Manmarziyaan](https://open.spotify.com/track/6p6uc8Y7NiWolmbbxxJDNM) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Manmarziyaan](https://open.spotify.com/album/3w5CUX5d46167fkjxLrJOD) | 3:19 |
-| 39 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 |
-| 40 | [Marammat](https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF) | 3:16 |
-| 41 | [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 |
+| 35 | [Chaand](https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Chaand](https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW) | 2:51 |
+| 36 | [I’m Done.](https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [I’m Done.](https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT) | 2:28 |
+| 37 | [Marammat](https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF) | 3:16 |
+| 38 | [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 |
+| 39 | [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 |
+| 40 | [Sab Sahi](https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sab Sahi](https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE) | 3:24 |
+| 41 | [Manmarziyaan](https://open.spotify.com/track/6p6uc8Y7NiWolmbbxxJDNM) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Manmarziyaan](https://open.spotify.com/album/3w5CUX5d46167fkjxLrJOD) | 3:19 |
 | 42 | [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 |
 | 43 | [Yeh Duniya Jala Do \(Glittery Cut\)](https://open.spotify.com/track/4mOlo4BjwvHXae8ZoVQamA) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9) | [Yeh Duniya Jala Do \(Glittery Cut\)](https://open.spotify.com/album/4aiVtIs3A0VBM5mHtYfV1D) | 3:38 |
-| 44 | [Ishq Chalawa](https://open.spotify.com/track/45ZPKXU7QFh3Bz3HUh4uRj) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Ishq Chalawa](https://open.spotify.com/album/4fj1oANSu69BUrvX50cZaC) | 3:26 |
+| 44 | [Main Na Raha](https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Main Na Raha](https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA) | 4:32 |
 | 45 | [Jaane Do Mujhe](https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Jaane Do Mujhe](https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE) | 3:45 |
-| 46 | [Love or a Lesson](https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB) | 2:15 |
+| 46 | [Rukna Nahin Hai](https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Rukna Nahin Hai](https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8) | 4:03 |
 | 47 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
-| 48 | [Main Na Raha](https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI) | [Main Na Raha](https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA) | 4:32 |
-| 49 | [Rukna Nahin Hai](https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Rukna Nahin Hai](https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8) | 4:03 |
+| 48 | [Love or a Lesson](https://open.spotify.com/track/0SmgJN5AfKvvl0A32SrAd0) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/6SCtFFbWiWMgbq2zJsPelB) | 2:15 |
+| 49 | [Ishq Chalawa](https://open.spotify.com/track/45ZPKXU7QFh3Bz3HUh4uRj) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Ishq Chalawa](https://open.spotify.com/album/4fj1oANSu69BUrvX50cZaC) | 3:26 |
 | 50 | [Aadha Adhoora](https://open.spotify.com/track/4Nn9DFq3aybmKKp7tk9jYv) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Aadha Adhoora](https://open.spotify.com/album/5YWnke7xLv8imLicuEBpM5) | 2:55 |
 
 Snapshot ID: `AAAAADm1TXDEijrQLUnXbP8uSRrXki1I`

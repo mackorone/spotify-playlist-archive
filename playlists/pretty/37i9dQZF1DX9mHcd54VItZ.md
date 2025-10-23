@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Zoé
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,125 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,137 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 42 | [Ons swerwe saam](https://open.spotify.com/track/5IkiMW0R6Xv0Kz92sEhCZS) | [Riku Lätti](https://open.spotify.com/artist/4E3S8voohPSw4En4DYX130) | [Ons swerwe saam](https://open.spotify.com/album/5kmMZtFSYZoNiZv092Wd5b) | 2:44 |
 | 43 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 44 | [Arcade Machine](https://open.spotify.com/track/3Zf3455UeonFfMJV21pPV5) | [CJ Jonker](https://open.spotify.com/artist/2SvvK78Gnc0Re7Ucg4vrC1) | [Songs from my apartment](https://open.spotify.com/album/6yxlNrLWCX9kel8DjfApva) | 2:30 |
-| 45 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
+| 45 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 46 | [Na Twaalf](https://open.spotify.com/track/3FRsEtGAtsp9PXc7HXA7Qa) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Na Twaalf](https://open.spotify.com/album/2UzZ1DukLP3oeYVb9QxXZf) | 3:32 |
-| 47 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
+| 47 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
 | 48 | [Dans Kans](https://open.spotify.com/track/6SHY3tPKFGJhNJFMeMKzsG) | [Ouderdoos](https://open.spotify.com/artist/3ul7KWGY5Vh7MbbiEDYwDo) | [Dans Kans](https://open.spotify.com/album/3flVIHnoIdDoZWF4fRkNyB) | 3:08 |
 | 49 | [death\~](https://open.spotify.com/track/5PwUH6sqXKupgL1pXshfuo) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [death\~](https://open.spotify.com/album/7bjMoDctYIAITjylNYNRY2) | 1:52 |
 | 50 | [Bokbefok](https://open.spotify.com/track/0YwiKZs3LZ7nIyHYTX8fb1) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Bokbefok](https://open.spotify.com/album/4ZLqEGdLtWa98K7bA9hcPo) | 2:47 |

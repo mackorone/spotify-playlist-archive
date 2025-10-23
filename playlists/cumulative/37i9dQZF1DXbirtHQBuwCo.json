@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nYerin Baek(\ubc31\uc608\ub9b0))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nJINBO the SuperFreak)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 161789,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W"
@@ -6200,6 +6200,24 @@
       "duration_ms": 236053,
       "name": "gold (Feat. Dean)",
       "url": "https://open.spotify.com/track/0EYOhg4jMf7hCLeQIxlvKL"
+    },
+    {
+      "album": {
+        "name": "Jbfm",
+        "url": "https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q"
+      },
+      "artists": [
+        {
+          "name": "JINBO the SuperFreak",
+          "url": "https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226474,
+      "name": "Gold Skin",
+      "url": "https://open.spotify.com/track/2VyBPmbkD188Pib9Ssa2HH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 24302,
+  "num_followers": 24313,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -296,6 +296,22 @@
       },
       "artists": [
         {
+          "name": "Karin Kent",
+          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Dans Je De Hele Nacht Met Mij?",
+      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
           "name": "Adele Bloemendaal",
           "url": "https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L"
         },
@@ -315,22 +331,6 @@
       "duration_ms": 163120,
       "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
       "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Karin Kent",
-          "url": "https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Dans Je De Hele Nacht Met Mij?",
-      "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Mooiste Van Willeke Alberti",
-        "url": "https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl"
-      },
-      "artists": [
-        {
-          "name": "Willeke Alberti",
-          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Spiegelbeeld",
-      "url": "https://open.spotify.com/track/0dQB5T7YTLhS0jI41u92hP"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
         "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 160066,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Mooiste Van Willeke Alberti",
+        "url": "https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl"
+      },
+      "artists": [
+        {
+          "name": "Willeke Alberti",
+          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Spiegelbeeld",
+      "url": "https://open.spotify.com/track/0dQB5T7YTLhS0jI41u92hP"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Willeke Alberti",
-          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Morgen Ben Ik De Bruid",
-      "url": "https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van De Heikrekels - Instrumentaal",
         "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 199097,
       "name": "Ik Wil Alleen Maar Van Je Houden",
       "url": "https://open.spotify.com/track/6gCHX6FcXgtP4P9qfcqh41"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Willeke Alberti",
+          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Morgen Ben Ik De Bruid",
+      "url": "https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste Van",
-        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
-      },
-      "artists": [
-        {
-          "name": "Bob Benny",
-          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Waar En Wanneer",
-      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Het Beste van De Heikrekels - Instrumentaal",
         "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 184944,
       "name": "Mooier Dan Rode Rozen",
       "url": "https://open.spotify.com/track/4FV84ccMAe9cpTkMyiGGfx"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste Van",
+        "url": "https://open.spotify.com/album/1XeTdhNPw6BSdPQrb13TcW"
+      },
+      "artists": [
+        {
+          "name": "Bob Benny",
+          "url": "https://open.spotify.com/artist/4quJ3J41hqATpXNJFYZHUH"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Waar En Wanneer",
+      "url": "https://open.spotify.com/track/2zNv1HqUrYRoYCKry4P5bD"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "The Story of Volume 1",
-        "url": "https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ"
-      },
-      "artists": [
-        {
-          "name": "The Fouryo's",
-          "url": "https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Dans Nog Eenmaal Met Mij",
-      "url": "https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 152626,
       "name": "Ik Vraag Het Aan De Sterren",
       "url": "https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
+        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
+      },
+      "artists": [
+        {
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+        }
+      ],
+      "duration_ms": 137920,
+      "name": "Da Doo Ron Ron",
+      "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
-        "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
+        "name": "The Story of Volume 1",
+        "url": "https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ"
       },
       "artists": [
         {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+          "name": "The Fouryo's",
+          "url": "https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB"
         }
       ],
-      "duration_ms": 137920,
-      "name": "Da Doo Ron Ron",
-      "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
+      "duration_ms": 159000,
+      "name": "Dans Nog Eenmaal Met Mij",
+      "url": "https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Zingt",
-        "url": "https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R"
-      },
-      "artists": [
-        {
-          "name": "Harry Bannink",
-          "url": "https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd"
-        }
-      ],
-      "duration_ms": 493800,
-      "name": "Wil u een stekkie? In een rijtuigie. Op een mooie Pinksterdag. M'n opa.",
-      "url": "https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Vroeger - 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1",
         "url": "https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK"
+        "name": "Zingt",
+        "url": "https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R"
       },
       "artists": [
         {
-          "name": "Ben Cramer",
-          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
+          "name": "Harry Bannink",
+          "url": "https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd"
         }
       ],
-      "duration_ms": 159386,
-      "name": "Dans met mij",
-      "url": "https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY"
+      "duration_ms": 493800,
+      "name": "Wil u een stekkie? In een rijtuigie. Op een mooie Pinksterdag. M'n opa.",
+      "url": "https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1307,6 +1291,22 @@
       "duration_ms": 142066,
       "name": "Teddybeer",
       "url": "https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK"
+      },
+      "artists": [
+        {
+          "name": "Ben Cramer",
+          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
+        }
+      ],
+      "duration_ms": 159386,
+      "name": "Dans met mij",
+      "url": "https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollandse Sterren",
-        "url": "https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs"
-      },
-      "artists": [
-        {
-          "name": "Ben Cramer",
-          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Dit Is De Nacht",
         "url": "https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 148053,
       "name": "Parel Van De Zuidzee",
       "url": "https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollandse Sterren",
+        "url": "https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs"
+      },
+      "artists": [
+        {
+          "name": "Ben Cramer",
+          "url": "https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo"
     },
     {
       "added_at": "2024-07-19 06:41:15",

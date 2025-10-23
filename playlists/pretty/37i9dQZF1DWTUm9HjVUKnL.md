@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,057 likes - 1,103 songs - 2 day 18 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,064 likes - 1,103 songs - 2 day 18 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

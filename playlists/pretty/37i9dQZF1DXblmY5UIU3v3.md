@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,362 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,499 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 16 | [Die Slow](https://open.spotify.com/track/5N3miUm4C10nb8CXEFfmLZ) | [Soda](https://open.spotify.com/artist/3hnbNJJnN1jFk3MmBvcn9Z), [Voyage](https://open.spotify.com/artist/3Ruev6M4tYJtGSInO2xkSt) | [Die Slow](https://open.spotify.com/album/1c9f0oKHV367vgBypmYQoV) | 2:22 |
 | 17 | [Get Low](https://open.spotify.com/track/5KFBAzmzTkacQj5Qt02AAb) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Junior Charles](https://open.spotify.com/artist/6XoMjNBDFTRqFgBcy48zHO) | [Get Low](https://open.spotify.com/album/4bmkg3DOj8rdX6OzmWfmLE) | 2:26 |
 | 18 | [Magic Violin](https://open.spotify.com/track/1VlHp8KvN31LdtDC9orfyV) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7) | [Magic Violin](https://open.spotify.com/album/6oRdtpTdhRpyAZQlQGNCMB) | 2:16 |
-| 19 | [Overthinking](https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 3:44 |
-| 20 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
+| 19 | [Gangsta's Paradise](https://open.spotify.com/track/0LrL7mzCA0iOYGKl12OxvF) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Gangsta's Paradise](https://open.spotify.com/album/38FYUgLqzuJH0gUUpy29zx) | 3:17 |
+| 20 | [Overthinking](https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 3:44 |
 | 21 | [Ni\*\*as in Paris \- HEDEGAARD & Matt Hawk Remix](https://open.spotify.com/track/5MnY5YCv552pFeSwNdCqZw) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [Ni\*\*as in Paris \(HEDEGAARD & Matt Hawk Remix\)](https://open.spotify.com/album/6oazaMjIfrJiNU2HLKtqzs) | 4:06 |
 | 22 | [Sztoj Pa Moru](https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2) | [BROHM](https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i), [Thingstad](https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G) | [Sztoj Pa Moru](https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs) | 2:18 |
 | 23 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,468 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,465 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 27 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 28 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
 | 29 | [One Call Away \(feat\. Chris Brown\)](https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 2:31 |
-| 30 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 |
-| 31 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
+| 30 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
+| 31 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 |
 | 32 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 33 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 |
 | 34 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 65 | [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 |
 | 66 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 |
 | 67 | [Favorite One](https://open.spotify.com/track/2t2fiW1SjH8V0vGut64nCE) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Favorite One](https://open.spotify.com/album/3fJ25Pfd8sdxK5HaPiZZfL) | 2:56 |
-| 68 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 2:55 |
-| 69 | [Until the End](https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Until the End](https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU) | 2:25 |
+| 68 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 |
+| 69 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 2:55 |
 | 70 | [YOU](https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [TWIN FLAME](https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm) | 2:16 |
 | 71 | [All I Know](https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [RAIN](https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j) | [All I Know](https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU) | 2:54 |
-| 72 | [Too Many Strings](https://open.spotify.com/track/123kCRJe2ufrrZI5iJ8rhr) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties](https://open.spotify.com/album/2KH8PHZCwSqFWiFOz2jzAy) | 3:11 |
+| 72 | [Until the End](https://open.spotify.com/track/0LjJC9ng4HLCzGxSP04Yer) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Until the End](https://open.spotify.com/album/5qrj8PIjfUsdoWZTjuOlvU) | 2:25 |
 | 73 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 |
 | 74 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 75 | [Club](https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg) | [Club](https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll) | 2:39 |

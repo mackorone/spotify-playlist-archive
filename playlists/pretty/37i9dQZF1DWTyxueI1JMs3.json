@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40321,
+  "num_followers": 40322,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! First AUTUMN EP",
-        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
-      },
-      "artists": [
-        {
-          "name": "\u30eb\u30c1\u30a2\u30fc\u30ce[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
-          "url": "https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo"
-        },
-        {
-          "name": "\u30e9\u30f3\u30b9\u30ad\u30fc[\u5175\u982d\u5341\u5ea7(CV:\u6b66\u5185\u99ff\u8f14)]",
-          "url": "https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "\u4e00\u591c\u9650\u308a\u306e\u76f8\u68d2",
-      "url": "https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! VIVID SPRING EP",
         "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 236706,
       "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
       "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! First AUTUMN EP",
+        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
+      },
+      "artists": [
+        {
+          "name": "\u30eb\u30c1\u30a2\u30fc\u30ce[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
+          "url": "https://open.spotify.com/artist/5whda5r4G4TbH4Noy9OAQo"
+        },
+        {
+          "name": "\u30e9\u30f3\u30b9\u30ad\u30fc[\u5175\u982d\u5341\u5ea7(CV:\u6b66\u5185\u99ff\u8f14)]",
+          "url": "https://open.spotify.com/artist/0eeldwSQXjHIxiIIlxnu3Q"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "\u4e00\u591c\u9650\u308a\u306e\u76f8\u68d2",
+      "url": "https://open.spotify.com/track/7E8qHny0LQOQ37mxhlQzeU"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30d9\u30eb[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
-          "url": "https://open.spotify.com/artist/3w0Vs5cZKyRNSrYeKzSgi9"
-        },
-        {
-          "name": "\u30a4\u30f4\u30a1\u30f3[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
-          "url": "https://open.spotify.com/artist/3ZPTzBL7yXI70nPabrJSGt"
-        }
-      ],
-      "duration_ms": 232280,
-      "name": "RESPAWN",
-      "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! VIVID WINTER EP",
         "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! First AUTUMN EP",
-        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
       "artists": [
         {
-          "name": "\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)",
-          "url": "https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh"
+          "name": "\u30a2\u30d9\u30eb[\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)]",
+          "url": "https://open.spotify.com/artist/3w0Vs5cZKyRNSrYeKzSgi9"
+        },
+        {
+          "name": "\u30a4\u30f4\u30a1\u30f3[\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)]",
+          "url": "https://open.spotify.com/artist/3ZPTzBL7yXI70nPabrJSGt"
         }
       ],
-      "duration_ms": 238613,
-      "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9\u30a4\u30fc\u30b8\u30fc\u30e2\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m"
+      "duration_ms": 232280,
+      "name": "RESPAWN",
+      "url": "https://open.spotify.com/track/473pr8GEED1xr1EdJHRk0J"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -1059,6 +1043,22 @@
       "duration_ms": 317760,
       "name": "Don't cry\u2026",
       "url": "https://open.spotify.com/track/3fapJRiDGKeBOyzTy3nmFz"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! First AUTUMN EP",
+        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
+      },
+      "artists": [
+        {
+          "name": "\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)",
+          "url": "https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9\u30a4\u30fc\u30b8\u30fc\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m"
     }
   ],
   "unique_name": "A3!",

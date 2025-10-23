@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 134508,
       "name": "Hopefull Afterall",
       "url": "https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 138987,
       "name": "Paper Kites",
       "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Summer's End",
+        "url": "https://open.spotify.com/album/6xQ5CrNGGpgWP2gHMZraXI"
+      },
+      "artists": [
+        {
+          "name": "morning green",
+          "url": "https://open.spotify.com/artist/3FItRGy5Od4t19e3GvlDKZ"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/1q0dOeLENSRPQE7Diz6Yld"
+    },
+    {
+      "album": {
         "name": "sunrise",
         "url": "https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc"
       },
@@ -1908,6 +1926,24 @@
       "duration_ms": 112000,
       "name": "what\u00b4s my name",
       "url": "https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P"
+    },
+    {
+      "album": {
+        "name": "when the leaves",
+        "url": "https://open.spotify.com/album/6dtMISjjExmxOq1mqcY3X6"
+      },
+      "artists": [
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "when the leaves",
+      "url": "https://open.spotify.com/track/627rDXLovcxPJRbarsYQxP"
     },
     {
       "album": {

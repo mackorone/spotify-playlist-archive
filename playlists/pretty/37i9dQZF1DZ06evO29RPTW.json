@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 132615,
+  "num_followers": 132636,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADsIJH86uVO3PglEC9qsKgd",
+  "snapshot_id": "aPbNAAAAAAA2PofiCXEUbb+4JfcQZNBn",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 163066,
+      "name": "Well, Everybody's Fucking In A U.F.O.",
+      "url": "https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 215937,
       "name": "Helter Skelter",
       "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 163066,
-      "name": "Well, Everybody's Fucking In A U.F.O.",
-      "url": "https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 30400,
-      "name": "Call Of The Zombie",
-      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
+      "duration_ms": 251866,
+      "name": "Demonoid Phenomenon",
+      "url": "https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Demonoid Phenomenon",
-      "url": "https://open.spotify.com/track/5sbydPPvDB7fJ1uDo8X6nB"
+      "duration_ms": 30400,
+      "name": "Call Of The Zombie",
+      "url": "https://open.spotify.com/track/2zPjC4hu9tZWFCVAdFgagX"
     },
     {
       "added_at": null,

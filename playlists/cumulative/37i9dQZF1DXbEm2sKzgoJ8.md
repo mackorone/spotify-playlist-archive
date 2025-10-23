@@ -4,7 +4,7 @@
 
 > Set the mood just right...
 
-498 songs - 1 day 3 hr 37 min
+499 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Imported \(with 6LACK\)](https://open.spotify.com/track/5zXmmhtXrhDbYnScaYpqZg) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Imported \(with 6LACK\)](https://open.spotify.com/album/29vt4BpW3GYX7hHCbFkhfg) | 3:45 | 2021-12-10 | 2022-07-19 |
 | [in my head](https://open.spotify.com/track/4KNyf2UaWSyqQtsutwwoch) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [in my head](https://open.spotify.com/album/6OoUTCimsfbH6YSQGo5lFA) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-19 | 2024-08-27 |
-| [In Your Feelings](https://open.spotify.com/track/0QZdgoHHwhFMkDazElGqLJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:22 | 2025-09-27 |  |
+| [In Your Feelings](https://open.spotify.com/track/0QZdgoHHwhFMkDazElGqLJ) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:22 | 2025-09-27 | 2025-10-23 |
 | [Infinite Straight](https://open.spotify.com/track/6Us2KEkxAPZge1yTpCSKWd) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Infinite Straight](https://open.spotify.com/album/7C0XxDVszgIhX5V8uz250K) | 3:09 | 2022-02-04 | 2022-04-21 |
 | [Ink and Feather](https://open.spotify.com/track/2VKZK8kVCRKKvqwuhAewae) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [Ink and Feather](https://open.spotify.com/album/6Fg2clXDwHDwHOjROjH9PM) | 3:24 | 2025-08-22 | 2025-10-11 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-06-17 |  |
@@ -314,6 +314,7 @@
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2023-11-08 | 2024-12-28 |
 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2022-09-16 | 2023-02-05 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-29 |  |
+| [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 | 2025-09-27 |  |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 | 2022-08-12 |
 | [Out of Me](https://open.spotify.com/track/4sBewbIfhhrl7GmkEfGPSz) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Out of Me](https://open.spotify.com/album/0e1vw04RIwrMjoXHboNUsO) | 2:50 | 2022-06-17 | 2022-07-14 |
 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 | 2022-05-17 | 2022-07-03 |

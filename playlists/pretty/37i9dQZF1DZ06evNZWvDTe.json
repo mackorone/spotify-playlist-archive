@@ -1,33 +1,13 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13340,
+  "num_followers": 13347,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADK9uFlFn03sgivWFu+6pN4",
+  "snapshot_id": "aPbNAAAAAAD+k9tZoaw6EcFpmsV/1arO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Violence (feat. Kweku Smoke)",
-        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Violence (feat. Kweku Smoke)",
-      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 140106,
       "name": "OLOLUFE",
       "url": "https://open.spotify.com/track/1C4ndHztUaefeUlbCue2wt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Violence (feat. Kweku Smoke)",
+        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Violence (feat. Kweku Smoke)",
+      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
     },
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highest",
-        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yung L",
-          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
         "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 195555,
       "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
       "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+        "name": "M3gye Wo Girl (feat. Shatta Wale)",
+        "url": "https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4"
       },
       "artists": [
         {
@@ -696,13 +696,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "EL",
-          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
         }
       ],
-      "duration_ms": 225625,
-      "name": "U Go Kill Me (feat. El)",
-      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+      "duration_ms": 211320,
+      "name": "M3gye Wo Girl (feat. Shatta Wale)",
+      "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M3gye Wo Girl (feat. Shatta Wale)",
-        "url": "https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "M3gye Wo Girl (feat. Shatta Wale)",
-      "url": "https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 261009,
       "name": "Mary",
       "url": "https://open.spotify.com/track/4XVPHQOQlIPYsX8D2GW8uu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "EL",
+          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+        }
+      ],
+      "duration_ms": 225625,
+      "name": "U Go Kill Me (feat. El)",
+      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
       "added_at": null,

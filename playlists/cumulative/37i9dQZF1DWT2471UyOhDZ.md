@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Cate Le Bon
 
-383 songs - 1 day 0 hr 51 min
+384 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Disintegrate](https://open.spotify.com/track/1AqYckXEV1wTzNlP437u8i) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Disintegrate](https://open.spotify.com/album/1jzPMd5TByVC0cFlbvBCRI) | 3:41 | 2025-05-23 | 2025-09-24 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-06-14 | 2025-03-22 |
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-06-14 | 2025-02-28 |
+| [Don't Wanna Dance](https://open.spotify.com/track/6tQx6PTEzKxVBlfCSslZwq) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Is It Now?](https://open.spotify.com/album/2jliA7qOg03hZjRqumKssq) | 4:28 | 2025-10-02 |  |
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-03-25 |
 | [Doves](https://open.spotify.com/track/6wPjsL8ie3M8n0aLM59bDh) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Doves](https://open.spotify.com/album/1DIrTwALyxUZYJnqpxTw50) | 4:11 | 2025-03-28 | 2025-05-09 |
 | [Down to be wrong](https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg) | 4:09 | 2025-05-08 | 2025-09-21 |
@@ -139,7 +140,7 @@
 | [For the Cold Country](https://open.spotify.com/track/65SovR8Agl5vY7vtJ02wk7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [For the Cold Country](https://open.spotify.com/album/6HnC12N2Ir7bb6jUj67RfY) | 6:27 | 2025-03-28 | 2025-06-09 |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-06-14 | 2025-01-17 |
 | [Frogs](https://open.spotify.com/track/39irRnySrRADgui9AVTqdx) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Frogs](https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I) | 4:34 | 2024-06-14 | 2025-01-31 |
-| [Frozen](https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Whiplash](https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah) | 4:14 | 2024-10-17 |  |
+| [Frozen](https://open.spotify.com/track/6XIB0sa7tJkqnYWYT3dLZi) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Whiplash](https://open.spotify.com/album/1iRSudnWjT9qWRU3v0k6ah) | 4:14 | 2024-10-17 | 2025-10-23 |
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-03 |  |
 | [Fugue \(Bin Song\)](https://open.spotify.com/track/3SLy3jHtaGsaGqpGaqtYGc) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Fugue \(Bin Song\)](https://open.spotify.com/album/5jQUB8BUJk3LdtLt626xyL) | 5:22 | 2024-06-14 | 2024-08-15 |
 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 | 2025-09-04 |  |

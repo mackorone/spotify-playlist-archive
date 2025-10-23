@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 146781,
+  "num_followers": 146797,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACwtURuMyspsqV+h5mrnzgc",
+  "snapshot_id": "aPbNAAAAAAD1RKqWi8OIl63KDREe5lTt",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 342346,
-      "name": "The Shooting Star",
-      "url": "https://open.spotify.com/track/6HQfFAupOMsmfWV4CbG1Kj"
+      "duration_ms": 197906,
+      "name": "The Cell",
+      "url": "https://open.spotify.com/track/7nCD5l7GrFyt6o1mstCUFr"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 197906,
-      "name": "The Cell",
-      "url": "https://open.spotify.com/track/7nCD5l7GrFyt6o1mstCUFr"
+      "duration_ms": 342346,
+      "name": "The Shooting Star",
+      "url": "https://open.spotify.com/track/6HQfFAupOMsmfWV4CbG1Kj"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "The Axe",
-      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 332760,
       "name": "Ocean Planet",
       "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "The Axe",
+      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 399320,
-      "name": "Explosia",
-      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 144786,
       "name": "From Mars",
       "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 399320,
+      "name": "Explosia",
+      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
     },
     {
       "added_at": null,

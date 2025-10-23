@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 164638,
+  "num_followers": 164643,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABlomwIRtNIbcaDEQS+DcCf",
+  "snapshot_id": "aPbNAAAAAADB10xZCSBhuCsA97o3H8/h",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
+        "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
           "name": "Lil Nas X",
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 144324,
-      "name": "P.B.S.",
-      "url": "https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d"
+      "duration_ms": 180666,
+      "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
     },
     {
       "added_at": null,
@@ -335,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd"
+        "name": "LOVE ON DIGITAL",
+        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 180666,
-      "name": "Late To Da Party (F*CK BET) (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv"
+      "duration_ms": 144324,
+      "name": "P.B.S.",
+      "url": "https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d"
     },
     {
       "added_at": null,

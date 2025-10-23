@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Marshall Ahmed
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,228 likes - 105 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,235 likes - 105 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 104 | [One Way](https://open.spotify.com/track/3n4aBGwkNpACVuCOwytTaX) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [One Way](https://open.spotify.com/album/13ZRnt491xrqCeQPT3xgDU) | 2:32 |
 | 105 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 
-Snapshot ID: `AAAAAGan0GWzeC5WL/S+N2hEI4hGS42b`
+Snapshot ID: `AAAAAKj40lolXLC1oyelt9aPkmGFPSpz`

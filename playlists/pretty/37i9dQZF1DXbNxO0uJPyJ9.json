@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 770814,
+  "num_followers": 770920,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "80s: 100 Remixes",
-        "url": "https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s"
-      },
-      "artists": [
-        {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
-        }
-      ],
-      "duration_ms": 458786,
-      "name": "I Like Chopin - Extended Dance Version",
-      "url": "https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "They Called Him Tin Tin",
         "url": "https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 233824,
       "name": "Kiss Me (1985)",
       "url": "https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "80s: 100 Remixes",
+        "url": "https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s"
+      },
+      "artists": [
+        {
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+        }
+      ],
+      "duration_ms": 458786,
+      "name": "I Like Chopin - Extended Dance Version",
+      "url": "https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 369693,
-      "name": "Material Girl - Extended Dance Remix",
-      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Hunting High and Low (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 505093,
       "name": "The Sun Always Shines on T.V. - Extended Version",
       "url": "https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 369693,
+      "name": "Material Girl - Extended Dance Remix",
+      "url": "https://open.spotify.com/track/4vle25yO4Rf7AYkWtzSfAS"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 396920,
-      "name": "True Blue - The Color Mix",
-      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "The Riddle (Expanded Edition)",
         "url": "https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 310133,
       "name": "The Riddle - Extended Riddle",
       "url": "https://open.spotify.com/track/0igY0kvEQIEyvC9Uj9DYY1"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 501333,
-      "name": "Vogue - 12\" Version",
-      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 388533,
       "name": "Dr. Beat - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 501333,
+      "name": "Vogue - 12\" Version",
+      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "(I Wanna Give You) Devotion",
+        "url": "https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC"
+      },
+      "artists": [
+        {
+          "name": "Nomad",
+          "url": "https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM"
+        }
+      ],
+      "duration_ms": 409466,
+      "name": "(I Wanna Give You) Devotion - Original Club Mix",
+      "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 369600,
       "name": "Like a Virgin - Extended Dance Remix",
       "url": "https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "The Very Best Of Johnny Hates Jazz",
-        "url": "https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Shattered Dreams - 12'' Extended Mix",
-      "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "(I Wanna Give You) Devotion",
-        "url": "https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC"
+        "name": "The Very Best Of Johnny Hates Jazz",
+        "url": "https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB"
       },
       "artists": [
         {
-          "name": "Nomad",
-          "url": "https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM"
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
         }
       ],
-      "duration_ms": 409466,
-      "name": "(I Wanna Give You) Devotion - Original Club Mix",
-      "url": "https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A"
+      "duration_ms": 312333,
+      "name": "Shattered Dreams - 12'' Extended Mix",
+      "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Disco",
-        "url": "https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 543506,
-      "name": "West End Girls - Disco Mix",
-      "url": "https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Raspberry Beret",
         "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 400520,
       "name": "Raspberry Beret - Extended 12\" Version",
       "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/69uM5D9lGcA0ODQ8yTXfaj"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 543506,
+      "name": "West End Girls - Disco Mix",
+      "url": "https://open.spotify.com/track/56JlUxlgZS1ZFgjopdgdBt"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "80s 12'' Summer",
-        "url": "https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Gold - 12\" Mix",
-      "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 488146,
       "name": "Loverboy - Extended Mix",
       "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "80s 12'' Summer",
+        "url": "https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Gold - 12\" Mix",
+      "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Goldmine: The Best Of The Pointer Sisters",
-        "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 384626,
-      "name": "Jump (For My Love) - 12\" Long Version",
-      "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Love Changes Everything",
         "url": "https://open.spotify.com/album/1OOZe5LRh7NnklIH9QvpW7"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 462546,
       "name": "Love Changes (Everything) - Love Mix",
       "url": "https://open.spotify.com/track/6Py8P2Yx6mKpz33QuCe25y"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Goldmine: The Best Of The Pointer Sisters",
+        "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 384626,
+      "name": "Jump (For My Love) - 12\" Long Version",
+      "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
     },
     {
       "added_at": "2024-02-06 15:45:26",

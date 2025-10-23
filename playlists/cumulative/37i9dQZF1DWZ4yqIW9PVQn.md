@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-182 songs - 11 hr 1 min
+183 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Introduce me a good person](https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1PHttHhnBSqPClsqZrPp8z) | 3:03 | 2024-03-08 |  |
 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 | 2022-11-01 | 2024-04-19 |
 | [I’ve Got A Thing For You](https://open.spotify.com/track/4B2xBFnyZsYwMYdpZqiwLL) | [YEN](https://open.spotify.com/artist/2IhtAFwyLFcLh6MXMK1o2x) | [I’ve Got A Thing For You](https://open.spotify.com/album/4eHs30w2JsgW6DfcMI2OoL) | 3:08 | 2023-07-07 |  |
+| [Last Love](https://open.spotify.com/track/7y3tkXIxe9rv106X0Aouek) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Last Love](https://open.spotify.com/album/1al5wXHrHop6h0ZXKBvnO4) | 4:18 | 2025-10-22 |  |
 | [Lasting Scent](https://open.spotify.com/track/2AvcRjTfg4ZrwdDj0xoUtf) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 4th EP Album 'Untitled'](https://open.spotify.com/album/3dt51zaMmRSBrH5Wky5HrC) | 4:24 | 2023-11-02 |  |
 | [Late Night](https://open.spotify.com/track/3QRUPaizh0X42xNQMr8aPg) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Late Night](https://open.spotify.com/album/4LGqCVppg8PsAPqfVjDPsx) | 3:36 | 2022-11-01 |  |
 | [Leaf \(feat\. 10CM\)](https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Leaf \(feat\. 10CM\)](https://open.spotify.com/album/7e8DEKMXqSQ8SkQS8nWyis) | 3:19 | 2022-07-04 |  |
@@ -173,7 +174,7 @@
 | [Will You Come to Me Again?](https://open.spotify.com/track/2wIopE9bCR0s9X0pUgUYbn) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Will You Come To Me Again?](https://open.spotify.com/album/34RT4wrhuXyVzGodWuUYbU) | 3:35 | 2022-11-01 |  |
 | [Wind](https://open.spotify.com/track/1MLKahekaOgX0kGbv7i9A0) | [Odd Child](https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC) | [ha:f](https://open.spotify.com/album/7ue0IQUNPL3rWUlVpBHFys) | 2:52 | 2022-07-04 |  |
 | [가을에게](https://open.spotify.com/track/4baq5UHvCkuSwdNKTMyfDw) | [고추잠자리](https://open.spotify.com/artist/6P39ZC1SVRiunXwdJ0P11H), [려진](https://open.spotify.com/artist/7GaxsdqZnC5PNGyVaKi2wp) | [미생](https://open.spotify.com/album/0wR5rt7Wm5jSnFyCBexxbv) | 3:54 | 2025-10-15 |  |
-| [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/2VpKDKyOB4dO68biiJJAsk) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 | 2022-07-04 |  |
+| [가을의 노래](https://open.spotify.com/track/12nu4dBkgX93WL3YCF6nxE) | [신아람](https://open.spotify.com/artist/5NGCTgi9l4G8gOcC47rPkL), [Hong Seok Min](https://open.spotify.com/artist/5pKx4gs2N1sEvpwHDUboQt) | [가을의 노래](https://open.spotify.com/album/7FQMu96J8WH2TivNsULX9z) | 4:01 | 2022-07-04 |  |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 |  |
 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 |  |
 | [난 혼자가 편해](https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6) | [이단미](https://open.spotify.com/artist/2XfNRc16ttr0NXwtSy9Qq3), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/1Amy0LfByq9gxvd9DUrs96) | 3:16 | 2022-07-04 | 2024-04-19 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADNgXPEq3IcyYx9MuNKyvdZ",
+  "snapshot_id": "aPbNAAAAAACwrD5NHHaAB2kWYfunp0uQ",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 219710,
-      "name": "Femininomenon",
-      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "School Nights",
         "url": "https://open.spotify.com/album/7JjJefGCwqGcyiQG99codT"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 249236,
       "name": "School Nights",
       "url": "https://open.spotify.com/track/1EQ3XbVzPZfKxMjvx9UjBH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
     },
     {
       "added_at": null,
@@ -151,38 +151,6 @@
       "duration_ms": 242542,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0xd9Nf9PQTrssA4wHH4z2v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "School Nights",
-        "url": "https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Good Hurt",
-      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
     },
     {
       "added_at": null,
@@ -244,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Meantime",
-      "url": "https://open.spotify.com/track/1L3fMJNX5WUJ865uU406Vz"
+      "duration_ms": 192880,
+      "name": "Good Hurt",
+      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
     },
     {
       "added_at": null,
@@ -263,6 +231,38 @@
       "duration_ms": 222578,
       "name": "My Kink Is Karma",
       "url": "https://open.spotify.com/track/3bFC4mJkgF9HvTU1mncW7x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "School Nights",
+        "url": "https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Meantime",
+      "url": "https://open.spotify.com/track/1L3fMJNX5WUJ865uU406Vz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 219710,
+      "name": "Femininomenon",
+      "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
     },
     {
       "added_at": null,

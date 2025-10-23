@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 922936,
+  "num_followers": 922890,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 190498,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "The Future Is Now - The Truth",
         "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 178560,
       "name": "The Future Is Now",
       "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 190498,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 166190,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Welcome To The Future",
-        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Welcome To The Future",
-      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Ravers Bounce",
         "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 195357,
       "name": "Ravers Bounce",
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Welcome To The Future",
+        "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Welcome To The Future",
+      "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "Losing My Head",
+        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Losing My Head",
+      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -1319,18 +1335,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Losing My Head",
-        "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
       },
       "artists": [
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
         }
       ],
-      "duration_ms": 189289,
-      "name": "Losing My Head",
-      "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+      "duration_ms": 181934,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1351,26 +1371,6 @@
       "duration_ms": 151384,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6wpIGFUcDUSg2l75npKFdU"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
-        "name": "Anywhere You Go",
-        "url": "https://open.spotify.com/album/6mRvKOoHZhmm0MLoztR9ky"
-      },
-      "artists": [
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Merow",
-          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
-        }
-      ],
-      "duration_ms": 181934,
-      "name": "Anywhere You Go",
-      "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Quick Highs",
-        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 194243,
-      "name": "Quick Highs",
-      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1HSw1aVWGMkh1vi7fBG6bo"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 163809,
       "name": "No More",
       "url": "https://open.spotify.com/track/6KYAjSvbUR9ODsnNJH3O6P"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Quick Highs",
+        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 194243,
+      "name": "Quick Highs",
+      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 176309,
+      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
+      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 155520,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
-        "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-        "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 176309,
-      "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
-      "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
         "name": "Smash The Disco",
         "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 181875,
       "name": "Smash The Disco",
       "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 166954,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
-    },
-    {
-      "added_at": "2025-10-17 04:00:50",
-      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
       },
@@ -1883,22 +1863,22 @@
     {
       "added_at": "2025-10-17 04:00:50",
       "album": {
-        "name": "Gwan",
-        "url": "https://open.spotify.com/album/6MyVi0T4CyZkSjAlC29Isd"
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
       },
       "artists": [
         {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Sly Phil",
-          "url": "https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48"
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Gwan",
-      "url": "https://open.spotify.com/track/0gdRO9lOttSuGgk0MFxQ2C"
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "added_at": "2025-10-17 04:00:50",
@@ -1943,6 +1923,26 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+    },
+    {
+      "added_at": "2025-10-17 04:00:50",
+      "album": {
+        "name": "Gwan",
+        "url": "https://open.spotify.com/album/6MyVi0T4CyZkSjAlC29Isd"
+      },
+      "artists": [
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        },
+        {
+          "name": "Sly Phil",
+          "url": "https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Gwan",
+      "url": "https://open.spotify.com/track/0gdRO9lOttSuGgk0MFxQ2C"
     }
   ],
   "unique_name": "Shuffle Syndrome",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,097 songs - 2 day 13 hr 19 min
+1,099 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Bloodshot](https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Bloodshot](https://open.spotify.com/album/1zoSsT8S3mjezVLikedEOr) | 2:43 | 2024-02-05 | 2024-04-24 |
 | [Blossom](https://open.spotify.com/track/77vrwV62LCLmun3GIcC4og) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g) | [Blossom](https://open.spotify.com/album/6eWw2tFagx7hdeT7A9MfjE) | 4:09 | 2022-03-18 | 2022-05-31 |
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
+| [Blue](https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Blue](https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3) | 3:05 | 2025-10-22 |  |
 | [BLUSH](https://open.spotify.com/track/5NUhNHjkyThQGAjm2M6gni) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [BLUSH](https://open.spotify.com/album/7AuAvWclZMbjuvnNv3hGR5) | 2:52 | 2025-04-10 | 2025-07-09 |
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
 | [bones](https://open.spotify.com/track/0zfVNW3Uh0tNgZY2YEKhYB) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [bones](https://open.spotify.com/album/035rVrXDB5G9Lv2isRtqeT) | 2:32 | 2025-08-12 |  |
@@ -1090,6 +1091,7 @@
 | [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 | 2022-11-08 |
 | [World Wide Web](https://open.spotify.com/track/65XS0xY3RjsXdn0Qzy3isF) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [World Wide Web](https://open.spotify.com/album/6gEqtjzCl19g1SjJu09MgT) | 2:38 | 2024-06-04 | 2024-08-24 |
 | [Worlds Apart](https://open.spotify.com/track/43clOQYz4Jhr7AuU1hOS78) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Worlds Apart](https://open.spotify.com/album/7urxeMQpkbdTidAYJS6Cl8) | 3:07 | 2025-04-01 | 2025-06-24 |
+| [Worlds Apart \- PROFF Remix](https://open.spotify.com/track/11vdTubFrrMporME9bLiib) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Worlds Apart \(PROFF Remix\)](https://open.spotify.com/album/3WWTinkXft98zVVbuJYqdF) | 3:16 | 2025-10-22 |  |
 | [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-20 | 2024-08-14 |
 | [Worthy](https://open.spotify.com/track/5UPI2X8D7949HFbRHoyYAe) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS) | [Silk Selections 01](https://open.spotify.com/album/5iIXHLFmPol8ATbxEuLQ87) | 2:56 | 2024-09-10 | 2024-12-03 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |

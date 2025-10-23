@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40757,
+  "num_followers": 40769,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAAt9kJ6c0hbwy7O6RPKdPIo",
+  "snapshot_id": "aPbNAAAAAADiglhtxfzt2cIcTNKQgAo4",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 388960,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
+      "duration_ms": 941360,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 941360,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -299,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 422453,
-      "name": "Gentle Thoughts",
-      "url": "https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fat Albert Rotunda",
         "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
       },
@@ -327,6 +295,22 @@
       "duration_ms": 248133,
       "name": "Oh! Oh! Here He Comes",
       "url": "https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 422453,
+      "name": "Gentle Thoughts",
+      "url": "https://open.spotify.com/track/0PccCPDXV2C1QBgfJyLi9R"
     },
     {
       "added_at": null,
@@ -519,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Imagine Project",
-        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 283706,
-      "name": "Tempo de Amor",
-      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street of Minarets",
         "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"
       },
@@ -551,6 +519,22 @@
       "duration_ms": 259446,
       "name": "Bal d\u2019\u00e2me",
       "url": "https://open.spotify.com/track/3UQQNQMvK8LG2Edu3bLHKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Imagine Project",
+        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Tempo de Amor",
+      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
     },
     {
       "added_at": null,
@@ -587,6 +571,26 @@
       "duration_ms": 293493,
       "name": "My Funny Valentine (feat. Herbie Hancock)",
       "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "Sister Moon (feat. Sting)",
+      "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
     },
     {
       "added_at": null,
@@ -643,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
       },
       "artists": [
         {
           "name": "Herbie Hancock",
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 414466,
-      "name": "Sister Moon (feat. Sting)",
-      "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
+      "duration_ms": 280146,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
       "duration_ms": 510653,
       "name": "Oliloqui Valley - Remastered",
       "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 280146,
-      "name": "Riot",
-      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
     },
     {
       "added_at": null,
@@ -743,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 535293,
-      "name": "I Thought It Was You",
-      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 398040,
       "name": "Textures",
       "url": "https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 535293,
+      "name": "I Thought It Was You",
+      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 238946,
       "name": "Motor Mouth",
       "url": "https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fat Albert Rotunda",
+        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 389200,
+      "name": "Fat Albert Rotunda",
+      "url": "https://open.spotify.com/track/4K4S4huHJhTmbm0G8eF7rP"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

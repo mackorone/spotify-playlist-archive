@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,976 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,980 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 40 | [STFU](https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:16 |
 | 41 | [Trust Issues](https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 3:17 |
 | 42 | [Girl Crush \(feat\. Rico Nasty\)](https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [+/\-](https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA) | 3:48 |
-| 43 | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR) | 2:57 |
+| 43 | [Hatin](https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:20 |
 | 44 | [Let It Out](https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:28 |
-| 45 | [Hatin](https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:20 |
+| 45 | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR) | 2:57 |
 | 46 | [Butt Naked \(feat\. Rico Nasty\)](https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 2:32 |
 | 47 | [FMU](https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk) | 2:58 |
-| 48 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
-| 49 | [SUGARPARENTS \(feat\. Rico Nasty\)](https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 1:59 |
+| 48 | [SUGARPARENTS \(feat\. Rico Nasty\)](https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 1:59 |
+| 49 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
 | 50 | [Relative](https://open.spotify.com/track/2uQkZcC3640TUy5TivEgXT) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 1:20 |
 
-Snapshot ID: `aPV7gAAAAAAdPUh8Woy6rpCuakONFAQA`
+Snapshot ID: `aPbNAAAAAAA8vAZQ0Az8vXtk29mRx3wT`

@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 8385,
+  "num_followers": 8407,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAABh0HxnugNqwzC2HQ55hwm0",
+  "snapshot_id": "aPbNAAAAAAB85Ym9gQCNPIHTvfgAJc2G",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 142135,
       "name": "Space",
       "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Blame U",
-      "url": "https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soh-Soh (DJ Maphorisa & Xduppy Mix)",
-        "url": "https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/30nn36X7wfesAGAkvGero4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coffee (Don't Read Signs)",
         "url": "https://open.spotify.com/album/36IbBQlEscygW12KjL5Vrh"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 161796,
       "name": "Coffee (Don't Read Signs)",
       "url": "https://open.spotify.com/track/1Y3hIs5TYN18Ymvnhd8At2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soh-Soh (DJ Maphorisa & Xduppy Mix)",
+        "url": "https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/30nn36X7wfesAGAkvGero4"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OVMBR: Roses",
-        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184735,
-      "name": "Composure 2",
-      "url": "https://open.spotify.com/track/4y3bKF7WJdpJc5Xp1dsYDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fall In Love [Remix] (feat. JayO & Odeal)",
         "url": "https://open.spotify.com/album/244Z5c1N9pxNszkKkNWcyQ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186000,
       "name": "Fall In Love [Remix] (feat. JayO & Odeal)",
       "url": "https://open.spotify.com/track/4TesJtMLVtyHb9Xk0km8bG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OVMBR: Roses",
+        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184735,
+      "name": "Composure 2",
+      "url": "https://open.spotify.com/track/4y3bKF7WJdpJc5Xp1dsYDB"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OVMBR: Roses",
-        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 186725,
-      "name": "Benzimma",
-      "url": "https://open.spotify.com/track/1vGkLLtRHyRYYPkkJ6xAQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PDF/BE FREE",
         "url": "https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 203773,
       "name": "BE FREE",
       "url": "https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OVMBR: Roses",
+        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 186725,
+      "name": "Benzimma",
+      "url": "https://open.spotify.com/track/1vGkLLtRHyRYYPkkJ6xAQx"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 196838,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OVMBR: Roses",
         "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passenger",
-        "url": "https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 196838,
-      "name": "Passenger",
-      "url": "https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OVMBR: Maybe I\u2019m Best Alone",
         "url": "https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt"
       },
@@ -887,6 +887,26 @@
       "duration_ms": 165202,
       "name": "Twenny-Nine After Two",
       "url": "https://open.spotify.com/track/5ce2bzeaOxryegSgVkzM7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na You",
+        "url": "https://open.spotify.com/album/4wV1PM9TN583HAak6iCIQX"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/3n9c9SsiabKzoNqyjoWYdY"
+        }
+      ],
+      "duration_ms": 210687,
+      "name": "Na You",
+      "url": "https://open.spotify.com/track/2X61NkgiKmrZz1c2WHSieA"
     }
   ],
   "unique_name": "This Is Odeal",

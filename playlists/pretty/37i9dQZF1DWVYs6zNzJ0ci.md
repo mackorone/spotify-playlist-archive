@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari con Los Cafres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,105 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,089 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 87 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
 | 88 | [Fragmentos del Alma](https://open.spotify.com/track/02atfXPeeIsceeZ6fuHipQ) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [Fragmentos del Alma](https://open.spotify.com/album/3dxhNXCDa4yuKZ1BioV7Ua) | 5:21 |
 | 89 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
-| 90 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
-| 91 | [Long Time Ago](https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw) | [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh), [Lander](https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE) | [Long Time Ago](https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv) | 2:11 |
+| 90 | [Long Time Ago](https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw) | [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh), [Lander](https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE) | [Long Time Ago](https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv) | 2:11 |
+| 91 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
 | 92 | [Llegaste Tú](https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Baile de Miradas](https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu) | 3:37 |
 | 93 | [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 |
 | 94 | [Llegaste A Mí](https://open.spotify.com/track/5grcUqpWzP1TPr4cmTGGnR) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Llegaste A Mí](https://open.spotify.com/album/29bASZaLBI3n4wfIh9dren) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,556 likes - 80 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,561 likes - 80 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

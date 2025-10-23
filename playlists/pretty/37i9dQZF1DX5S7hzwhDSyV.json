@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 148607,
+  "num_followers": 148830,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 346920,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
-      },
-      "artists": [
-        {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
-        }
-      ],
-      "duration_ms": 403360,
-      "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 278253,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+      },
+      "artists": [
+        {
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+        }
+      ],
+      "duration_ms": 403360,
+      "name": "April In Paris - 2007 Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3QuSHJUfvuOyeKMS32Wckj"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
+        "name": "Sony Jazz Collection",
+        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 309666,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -443,18 +439,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Sony Jazz Collection",
-        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+      "duration_ms": 309666,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
-      },
-      "artists": [
-        {
-          "name": "Clifford Jordan",
-          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
-        }
-      ],
-      "duration_ms": 407266,
-      "name": "Sophisticated Lady - Remastered 1997",
-      "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 399000,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4kj58OYHsFRP69N2576yDp"
+      },
+      "artists": [
+        {
+          "name": "Clifford Jordan",
+          "url": "https://open.spotify.com/artist/0oJCbLnXR9ZfTkwxO9tVNn"
+        }
+      ],
+      "duration_ms": 407266,
+      "name": "Sophisticated Lady - Remastered 1997",
+      "url": "https://open.spotify.com/track/4MOg9akJ30Hz8ox8NBw2j1"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Pres and Teddy",
-        "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Teddy Wilson Quartet",
-          "url": "https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c"
-        }
-      ],
-      "duration_ms": 410666,
-      "name": "Love Me Or Leave Me",
-      "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Pres and Teddy",
+        "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Teddy Wilson Quartet",
+          "url": "https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 199573,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Criss-Cross (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 424933,
-      "name": "Don't Blame Me (Retake 1)",
-      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 447760,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 424933,
+      "name": "Don't Blame Me (Retake 1)",
+      "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Open Sesame (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 386773,
+      "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Hollywood Stampede",
         "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 346506,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Open Sesame (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 386773,
-      "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Eddie Higgins",
-        "url": "https://open.spotify.com/album/1HT2Mu1wi8V28XDnth70LL"
-      },
-      "artists": [
-        {
-          "name": "Eddie Higgins",
-          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Falling In Love With Love",
-      "url": "https://open.spotify.com/track/2AXpGYWWR7ebNYEGX7pBSg"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "The Jazz Messengers",
         "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
       },
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+        "name": "Eddie Higgins",
+        "url": "https://open.spotify.com/album/1HT2Mu1wi8V28XDnth70LL"
       },
       "artists": [
         {
-          "name": "Lennie Tristano Sextet",
-          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
+          "name": "Eddie Higgins",
+          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
         }
       ],
-      "duration_ms": 168040,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
+      "duration_ms": 275360,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/2AXpGYWWR7ebNYEGX7pBSg"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1899,6 +1883,22 @@
       "duration_ms": 253133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano Sextet",
+          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
     },
     {
       "added_at": "2024-07-08 06:51:47",

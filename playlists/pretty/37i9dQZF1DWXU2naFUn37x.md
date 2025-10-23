@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Young Hash in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,113 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,106 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Scama](https://open.spotify.com/track/4yoixiIoVeayqPFfAxIYo1) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [Scama](https://open.spotify.com/album/1sq14uYbikBnVfn1xB5erA) | 2:03 |
 | 2 | [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 |
-| 3 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
+| 3 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
 | 4 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 |
 | 5 | [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 |
 | 6 | [DUOMO](https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 3:44 |

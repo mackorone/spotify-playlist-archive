@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabrEiRjQMgs.md) - [plain]
 
 > Explore the world of ballet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,422 likes - 47 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,491 likes - 47 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

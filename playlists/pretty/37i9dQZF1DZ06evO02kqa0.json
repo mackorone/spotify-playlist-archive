@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39814,
+  "num_followers": 39819,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACeaIBMZasjc811qLS+zDbS",
+  "snapshot_id": "aPbNAAAAAACcbOs355+mnZjJluwa4gZ4",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 339666,
+      "name": "Norma (1997 Digital Remaster): Casta Diva",
+      "url": "https://open.spotify.com/track/1pqGcNI8H5i3yySTNCrD7d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puccini: Tosca",
         "url": "https://open.spotify.com/album/7jJ69AFSMTAQavq64DxYll"
       },
@@ -127,30 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 339666,
-      "name": "Norma (1997 Digital Remaster): Casta Diva",
-      "url": "https://open.spotify.com/track/1pqGcNI8H5i3yySTNCrD7d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lyric and Coloratura Arias",
         "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 292600,
       "name": "Andrea Chenier (1997 Digital Remaster): La mamma morta",
       "url": "https://open.spotify.com/track/2rnCae7ZO9bIfQFscasS3q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 121282,
-      "name": "Piangete voi",
-      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
     },
     {
       "added_at": null,
@@ -235,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 121282,
+      "name": "Piangete voi",
+      "url": "https://open.spotify.com/track/15EM1Y7lvtVBOzz9jNgw8o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lyric and Coloratura Arias",
         "url": "https://open.spotify.com/album/2FJtdO13XdtncsnpzWZOAt"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 292533,
       "name": "La Wally (1997 Digital Remaster): Ebben?...Ne andr\u00f2 lontana",
       "url": "https://open.spotify.com/track/21GgDK5XhuAyUoenrKeTey"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Casta diva",
-      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
     },
     {
       "added_at": null,
@@ -335,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Casta diva",
+      "url": "https://open.spotify.com/track/4XpNHWkzmniak64A7wT4jF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 182120,
       "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
       "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 225581,
-      "name": "Qui la voce sua soave",
-      "url": "https://open.spotify.com/track/3GFA0ARfHs9nApXXCHAJ9y"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 286014,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 230280,
       "name": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco, respiro appena... Io son l'umile ancella\" (Adriana Lecouvreur)",
       "url": "https://open.spotify.com/track/5RLoXRPwbJdWQMWUkLFdVs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 286014,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/1okigbvmDfgCIIgK1LcSDX"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 225581,
+      "name": "Qui la voce sua soave",
+      "url": "https://open.spotify.com/track/3GFA0ARfHs9nApXXCHAJ9y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 187080,
       "name": "Verdi: La traviata, Act 1: \"Ah fors'e lui\" (Violetta)",
       "url": "https://open.spotify.com/track/0tTxV5lgzchLGmbRYQSYZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 242905,
-      "name": "Vissi d'arte",
-      "url": "https://open.spotify.com/track/0NGd3IBIIedJteP0c4fzNn"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 242905,
+      "name": "Vissi d'arte",
+      "url": "https://open.spotify.com/track/0NGd3IBIIedJteP0c4fzNn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callas sings Arias from Tristano e Isotta, Norma & I puritani - Callas Remastered",
         "url": "https://open.spotify.com/album/4xWgA6PBxf3Jr6XXCoskgr"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 71506,
       "name": "Bellini: I Puritani, Act 2: \"O rendetemi la speme\" (Elvira)",
       "url": "https://open.spotify.com/track/7jXNNXcEuobCmfHDmbsCXD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 69285,
-      "name": "E che io son Medea",
-      "url": "https://open.spotify.com/track/0LZp74OA40FzOfCFjh3IK9"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 266853,
       "name": "Gluck: Alceste, Wq. 44, Act 1: \"Divinit\u00e9s du Styx\" (Alceste)",
       "url": "https://open.spotify.com/track/3byUSMrEejPJkMv9MfjUqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 69285,
+      "name": "E che io son Medea",
+      "url": "https://open.spotify.com/track/0LZp74OA40FzOfCFjh3IK9"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Verdi: Il trovatore",
+        "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
+      "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -1087,34 +1115,6 @@
       "duration_ms": 242586,
       "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
       "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Verdi: Il trovatore",
-        "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Herbert von Karajan",
-          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
-      "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
     },
     {
       "added_at": null,
@@ -1199,6 +1199,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria Callas: Rossini and Donizetti Arias",
+        "url": "https://open.spotify.com/album/6rGI3DRkuJsPmi9JQnkoeb"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "La figlia del reggimento (1997 - Remaster): Convien partir (Act I)",
+      "url": "https://open.spotify.com/track/2W2hq778KQvcSfpf77eUev"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donizetti: Lucia di Lammermoor",
         "url": "https://open.spotify.com/album/2H4FxKz0voZ5JrYomDFH16"
       },
@@ -1235,34 +1263,6 @@
       "duration_ms": 228426,
       "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Spargi d'amaro pianto\" (Lucia, Raimondo, Coro, Enrico)",
       "url": "https://open.spotify.com/track/6h35q7vz00ReemKGYykyKt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria Callas: Rossini and Donizetti Arias",
-        "url": "https://open.spotify.com/album/6rGI3DRkuJsPmi9JQnkoeb"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
-        },
-        {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "La figlia del reggimento (1997 - Remaster): Convien partir (Act I)",
-      "url": "https://open.spotify.com/track/2W2hq778KQvcSfpf77eUev"
     },
     {
       "added_at": null,

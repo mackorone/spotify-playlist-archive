@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16416,
+  "num_followers": 16420,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADetGhY/zMiOhOPTVOmPrlZ",
+  "snapshot_id": "aPbNAAAAAACs4hZzt/TLHxF/foNdM5NS",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 329240,
+      "name": "Vibin' W/Ayers",
+      "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 180549,
       "name": "Soulful and Unique",
       "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 329240,
-      "name": "Vibin' W/Ayers",
-      "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 300280,
+      "name": "Sunshine - Demo",
+      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Feeling - Yoruba Soul Remixes",
         "url": "https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 447400,
       "name": "Brand New Feeling - Yoruba Soul Mix Part 1",
       "url": "https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 300280,
-      "name": "Sunshine - Demo",
-      "url": "https://open.spotify.com/track/3MD8QD5aVUjE7DsE5eBg7t"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change Up The Groove",
-        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 280840,
-      "name": "The Boogie Back",
-      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
+      "duration_ms": 138146,
+      "name": "Escape - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+        "name": "Change Up The Groove",
+        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 138146,
-      "name": "Escape - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6"
+      "duration_ms": 280840,
+      "name": "The Boogie Back",
+      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
     },
     {
       "added_at": null,

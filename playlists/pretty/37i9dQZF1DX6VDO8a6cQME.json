@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '90s. Cover: D'Angelo",
-  "num_followers": 3795222,
+  "num_followers": 3795720,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE8h+bV38/wusXYts6oZYk61azqr",
+  "snapshot_id": "AAAAAAP6IJSPbVEEFgA6QpT2TIXQKA6t",
   "tracks": [
     {
       "added_at": "2021-08-20 04:02:00",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Baduizm",
@@ -871,6 +855,22 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2023-06-09 16:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
         "name": "Candy Rain",
         "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 350000,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
       "added_at": "2022-09-16 08:12:46",

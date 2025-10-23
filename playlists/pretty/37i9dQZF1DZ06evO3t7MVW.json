@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91776,
+  "num_followers": 91796,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAAhspJ5c0XLqg0JSOy454ky",
+  "snapshot_id": "aPbNAAAAAACj923X/hOZww4fWziWX1KQ",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Me On The Run (with Stick Figure and Pepper)",
         "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
@@ -355,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -367,42 +367,6 @@
       "duration_ms": 252693,
       "name": "In This Love",
       "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 237756,
-      "name": "Siren (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 294730,
-      "name": "Above the Storm",
-      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
     },
     {
       "added_at": null,
@@ -423,6 +387,42 @@
       "duration_ms": 210182,
       "name": "Home (with Stick Figure)",
       "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 294730,
+      "name": "Above the Storm",
+      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 237756,
+      "name": "Siren (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Eric Rachmany",
-          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Mind Block (with Eric Rachmany)",
-      "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 209032,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Eric Rachmany",
+          "url": "https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Mind Block (with Eric Rachmany)",
+      "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-784 songs - 1 day 23 hr 15 min
+785 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Future Visions](https://open.spotify.com/track/3nvwZycm39npL1xU9ifn0s) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Future Visions](https://open.spotify.com/album/5Hizp5jZT5nVmNeLI2e2o7) | 3:57 | 2023-05-25 | 2023-08-19 |
 | [Galaxy Surfing](https://open.spotify.com/track/0tI9jtQuJynzivmpQFc4Gx) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Ezra's Garden](https://open.spotify.com/album/2BtznmYidvZ9JQWhcmXVTZ) | 3:22 | 2022-05-06 | 2023-10-24 |
 | [Get It Together \- Télépopmusik Lofi Flip](https://open.spotify.com/track/0JfWDfnnfkGa30FXFnogyl) | [uChill](https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce), [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo), [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF) | [Get It Together \(Télépopmusik Lofi Flip\)](https://open.spotify.com/album/57mmXGq1pgO0OaLU235fzN) | 3:36 | 2023-06-08 | 2023-08-19 |
+| [Get Low](https://open.spotify.com/track/6lpUGFAILreoiA83KUpt7T) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [Twilight Zone](https://open.spotify.com/album/0GjQV3glseW1A5baoTqQWH) | 2:22 | 2025-04-21 |  |
 | [Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Get Me Back in the Game](https://open.spotify.com/album/2ZmCrPaswCSKEy1yIfgJ5W) | 4:32 | 2020-12-21 | 2022-04-21 |
 | [Get Well](https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:57 | 2023-08-18 |  |
 | [Ghost of Fatalia](https://open.spotify.com/track/551kejKz9qZRgGyCDa7ujF) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Last a While](https://open.spotify.com/album/73N9ZCHUsbSaIyoTyLFbcK) | 2:46 | 2023-11-21 |  |
@@ -595,7 +596,7 @@
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2022-10-28 | 2022-11-14 |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2022-07-22 | 2022-12-01 |
 | [Sea Gets Hotter](https://open.spotify.com/track/5ZK62nSchTamBy8F6HIZov) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:17 | 2023-06-15 | 2023-10-24 |
-| [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 | 2023-11-21 |  |
+| [Searching For Yourself \(feat\. Raveena\)](https://open.spotify.com/track/6m07gYVINo4QNYowLB3hUW) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Future Reference](https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg) | 3:14 | 2023-11-21 | 2025-10-23 |
 | [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 | 2024-12-20 | 2025-04-06 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2024-12-20 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2023-05-22 | 2023-10-01 |

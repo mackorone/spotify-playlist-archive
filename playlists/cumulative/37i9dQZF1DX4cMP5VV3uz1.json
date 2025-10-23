@@ -635,6 +635,32 @@
     },
     {
       "album": {
+        "name": "Bad Sound (Isaac Maya Remix)",
+        "url": "https://open.spotify.com/album/0yoqotHnU9OGvgbXZWPZI0"
+      },
+      "artists": [
+        {
+          "name": "Katalyst",
+          "url": "https://open.spotify.com/artist/6uUlcmEkt09OEokqnSQgRM"
+        },
+        {
+          "name": "Mad Sam",
+          "url": "https://open.spotify.com/artist/7k3N8YrwPhTTtY78ES8i1L"
+        },
+        {
+          "name": "Isaac Maya",
+          "url": "https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "Bad Sound - Isaac Maya Remix",
+      "url": "https://open.spotify.com/track/7BAfA05A0WeeKNC32oYxWF"
+    },
+    {
+      "album": {
         "name": "Badda (Sinais VIP)",
         "url": "https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz"
       },
@@ -2148,7 +2174,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 157941,
       "name": "Dealing With The Best",
       "url": "https://open.spotify.com/track/35WmOfRHL6qsdtfjZUrrWt"
@@ -2920,7 +2946,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 192000,
       "name": "Energy! Energy! Energy!",
       "url": "https://open.spotify.com/track/6LlMUGPDe5gYLHM6PJkHj2"
@@ -11052,7 +11078,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 165517,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"

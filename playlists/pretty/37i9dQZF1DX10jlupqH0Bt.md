@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,347 likes - 72 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,523 likes - 72 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10jlupqH0Bt.md) - [plain]
 | 71 | [Floating Through Solfeggio 852 Hz](https://open.spotify.com/track/4fNNIfCx89oWgl974GAWfH) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:11 |
 | 72 | [852 Hz The Sacred Call](https://open.spotify.com/track/0fmO230foTgdidV10QKOUf) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [852 Hz The Sacred Call](https://open.spotify.com/album/0QvNA80NWGvPAXMFeZHswv) | 2:13 |
 
-Snapshot ID: `AAAAAA5ddDHwBSYOa8B/eioZSMIra4Wl`
+Snapshot ID: `AAAAAA6GMG/XiWE6wYH9sdxuNrhslNqo`

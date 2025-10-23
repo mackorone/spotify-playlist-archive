@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 773753,
+  "num_followers": 773898,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-10-10 03:00:18",
       "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
-    },
-    {
-      "added_at": "2025-10-10 03:00:18",
-      "album": {
         "name": "Tattoo (Remix)",
         "url": "https://open.spotify.com/album/64C5QZJEp9Y81zt6XilwwN"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 158684,
       "name": "Tattoo - Remix",
       "url": "https://open.spotify.com/track/56yAIzNg5SAbUKUKR9UXmf"
+    },
+    {
+      "added_at": "2025-10-10 03:00:18",
+      "album": {
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
     },
     {
       "added_at": "2025-10-10 03:00:18",
@@ -1063,26 +1063,22 @@
     {
       "added_at": "2025-10-10 03:00:18",
       "album": {
-        "name": "Volv\u00ed",
-        "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
+        "name": "Si Fuera Tan F\u00e1cil",
+        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         },
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 170580,
-      "name": "Volv\u00ed",
-      "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
+      "duration_ms": 207843,
+      "name": "Si Fuera Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
     },
     {
       "added_at": "2025-10-10 03:00:18",
@@ -1111,22 +1107,26 @@
     {
       "added_at": "2025-10-10 03:00:18",
       "album": {
-        "name": "Si Fuera Tan F\u00e1cil",
-        "url": "https://open.spotify.com/album/7J5XvlmUNC5X6Di4tpY6aQ"
+        "name": "Volv\u00ed",
+        "url": "https://open.spotify.com/album/1RM6dC0PwIo5rI06yfMZ5b"
       },
       "artists": [
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         },
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
         }
       ],
-      "duration_ms": 207843,
-      "name": "Si Fuera Tan F\u00e1cil",
-      "url": "https://open.spotify.com/track/6JydEAAm5heqWFpxCWIsuI"
+      "duration_ms": 170580,
+      "name": "Volv\u00ed",
+      "url": "https://open.spotify.com/track/1F4r99Fjx0gh3TlJPte2M3"
     },
     {
       "added_at": "2025-10-10 03:00:18",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-10-10 03:00:18",
       "album": {
+        "name": "En la piel",
+        "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "duration_ms": 310099,
+      "name": "Te hubieras ido antes - En Vivo",
+      "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
+    },
+    {
+      "added_at": "2025-10-10 03:00:18",
+      "album": {
         "name": "A veces, a besos",
         "url": "https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2025-10-10 03:00:18",
       "album": {
-        "name": "En la piel",
-        "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
-      },
-      "artists": [
-        {
-          "name": "Ulises Bueno",
-          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
-        }
-      ],
-      "duration_ms": 310099,
-      "name": "Te hubieras ido antes - En Vivo",
-      "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
-    },
-    {
-      "added_at": "2025-10-10 03:00:18",
-      "album": {
         "name": "Imag\u00ednate (En Vivo)",
         "url": "https://open.spotify.com/album/0d2hnjRggNyqLk4Y7l8Fsb"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 153809,
       "name": "Imag\u00ednate - En Vivo",
       "url": "https://open.spotify.com/track/4MpquRs20zncElQWfdMXpw"
+    },
+    {
+      "added_at": "2025-10-10 03:00:18",
+      "album": {
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2025-10-10 03:00:18",
@@ -1247,22 +1263,6 @@
       "duration_ms": 193160,
       "name": "Paloma loca",
       "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
-    },
-    {
-      "added_at": "2025-10-10 03:00:18",
-      "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2025-10-10 03:00:18",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-10-10 03:00:18",
       "album": {
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+    },
+    {
+      "added_at": "2025-10-10 03:00:18",
+      "album": {
         "name": "Dejarnos Ir",
         "url": "https://open.spotify.com/album/4blgi7a5EMVZT2vnpRObV1"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 148653,
       "name": "Dejarnos Ir",
       "url": "https://open.spotify.com/track/4897DeNh6RkeVG4YTsM0Ee"
-    },
-    {
-      "added_at": "2025-10-10 03:00:18",
-      "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
     },
     {
       "added_at": "2025-10-10 03:00:18",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-10-10 03:00:18",
       "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2025-10-10 03:00:18",
+      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 163468,
       "name": "JULIETA & ROMEO (En Vivo)",
       "url": "https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG"
-    },
-    {
-      "added_at": "2025-10-10 03:00:18",
-      "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
     },
     {
       "added_at": "2025-10-10 03:00:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Tiara Andini,  Charlie Puth, Juicy Luicy, Fatin dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,870 likes - 105 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,895 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 67 | [Pap Pap](https://open.spotify.com/track/52m2B4KeYqMEc8KqKCNyIF) | [Baby Shima](https://open.spotify.com/artist/6b8ra1rFH1RtPCHWYEkaA5), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [Pap Pap](https://open.spotify.com/album/70airgbwn1vNAygVnPiE7q) | 2:55 |
 | 68 | [X](https://open.spotify.com/track/6BBlYYRR4W2iaDqKJxOB1h) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [TEENAGE RAMBLE](https://open.spotify.com/album/3SZWTqmG06bLCSdGTSvPCw) | 3:19 |
 | 69 | [Broken World \- Netflix影集《回魂計》片尾曲](https://open.spotify.com/track/14F1jiXQWTgDhlA7l8j5mq) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Broken World \(Netflix影集《回魂計》片尾曲\)](https://open.spotify.com/album/6LpR4eq2qWiBP8dPSuWgQh) | 2:32 |
-| 70 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:34 |
+| 70 | [Milk & Cereal](https://open.spotify.com/track/0CH4z8q6xYMlD3M7WDvbwv) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [Milk & Cereal](https://open.spotify.com/album/3UG4umqBQPCWVxw6g67V9u) | 2:36 |
 | 71 | [PICTURE PERFECT](https://open.spotify.com/track/7uKhCdAmsIjt5NlIi7k59n) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [PICTURE PERFECT](https://open.spotify.com/album/3gW0W0KQxbb61vFGe5efQQ) | 3:07 |
 | 72 | [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 |
 | 73 | [1991](https://open.spotify.com/track/3voShTcaRtbYVSPGuCLAzw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [1991](https://open.spotify.com/album/67OQ5OiQG8TpuxUWvsvytA) | 3:47 |

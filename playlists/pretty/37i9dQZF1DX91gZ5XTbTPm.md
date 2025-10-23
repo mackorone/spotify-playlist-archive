@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Veeze
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,186 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,234 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 78 | [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/track/26j5KruhbUBKNb7uN2Pyd3) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Riley N Lamilton \(Lunch Break Freestyle\)](https://open.spotify.com/album/17o2BffeZ5neJvgWDmvs9Y) | 2:25 |
 | 79 | [Drug Abuse](https://open.spotify.com/track/5mezmbMqFV411f0TJScf0t) | [Ftos Twan](https://open.spotify.com/artist/354fNGBvidh9s2kp3WToGW), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Drug Abuse](https://open.spotify.com/album/45xai8WNKwRZTT0UN2eKXB) | 2:07 |
 | 80 | [WYDT \(What You Do Today?\)](https://open.spotify.com/track/5rupynBZMGZwdHVGifikfE) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [WYDT \(What You Do Today?\)](https://open.spotify.com/album/4y2wyRW7qqyofQ8lVwwX9u) | 2:25 |
-| 81 | [Rich Guys \(Feat\. Babyfxce E\)](https://open.spotify.com/track/7a1Iw4S1eNozL4C4gv5xSg) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:58 |
+| 81 | [Rich Guys](https://open.spotify.com/track/7a1Iw4S1eNozL4C4gv5xSg) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:58 |
 | 82 | [Misfits \(feat\. Rio Da Yung OG\)](https://open.spotify.com/track/5KBFoGbuzcNkGFhqTcBThW) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Less is More](https://open.spotify.com/album/4WdviJiKtj699pNZvI9VS5) | 2:28 |
 | 83 | [Opps On Deck](https://open.spotify.com/track/7tEZ2SJzxEpfVXkIPHj8zl) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [\#FreeMyHoodFuckYoHood](https://open.spotify.com/album/7wlu5wQlVFvT4emQsSZAlQ) | 1:42 |
 | 84 | [IN SCOOM WE TRUST](https://open.spotify.com/track/6YKgDHXUHZU9uRvp3gXe7p) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB) | [IN SCOOM WE TRUST](https://open.spotify.com/album/55KPQDfobPlT204w2ByPUs) | 1:55 |

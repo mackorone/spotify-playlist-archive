@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-304 songs - 15 hr 52 min
+305 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,10 +259,11 @@
 | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY) | 2:32 | 2024-04-26 |  |
 | [SUBMARINE](https://open.spotify.com/track/2ajKYSNnU7l89EJV8job8k) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [SUBMARINE](https://open.spotify.com/album/3t3RRbPtY3llgrDrI8ceLC) | 3:23 | 2024-01-26 | 2024-08-03 |
 | [Sucker](https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Sucker](https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS) | 2:03 | 2024-08-02 |  |
-| [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 | 2023-11-17 |  |
+| [Sunglasses At Night](https://open.spotify.com/track/6eoY6XnhGFr3HInyECJdbx) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Sunglasses At Night](https://open.spotify.com/album/4hLi7mKyVQ3tL20otPQpk1) | 2:50 | 2023-11-17 | 2025-10-23 |
 | [Sweat](https://open.spotify.com/track/5SzPoxOGAl1mGWsT36KLcC) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/4d36v0DicdIJlQPPmE6vXP) | 2:12 | 2024-04-05 | 2024-04-19 |
 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2023-10-06 | 2024-06-11 |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 | 2024-06-21 |  |
+| [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx) | 3:06 | 2025-10-17 |  |
 | [Tarantella](https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Tarantella](https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq) | 2:25 | 2024-03-29 |  |
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2023-09-22 | 2025-05-22 |
 | [Techno Cobra](https://open.spotify.com/track/4rcOr7rrdAN5Q2GnB9nsdQ) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Techno Cobra](https://open.spotify.com/album/3O6bgVnLyDXX318VWfCQIx) | 3:24 | 2024-04-26 | 2024-08-10 |

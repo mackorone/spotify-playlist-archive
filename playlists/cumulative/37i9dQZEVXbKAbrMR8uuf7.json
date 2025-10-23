@@ -6524,7 +6524,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 168036,
       "name": "Complica",
       "url": "https://open.spotify.com/track/1Q9SCRgQgWwokmb6ZZbyhx"
@@ -9488,7 +9488,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 123750,
       "name": "DIAMOND",
       "url": "https://open.spotify.com/track/7fT7DPlbjJNkEgL4iOu58V"
@@ -17728,7 +17728,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -21676,7 +21676,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/61cv6dbBrjXWykPZCFXzoY"
@@ -22598,7 +22598,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -31935,6 +31935,32 @@
     },
     {
       "album": {
+        "name": "ROMEO",
+        "url": "https://open.spotify.com/album/4xL6jHWUGOURZfyJa8xYou"
+      },
+      "artists": [
+        {
+          "name": "Yk It\u2019s Junaa",
+          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+        },
+        {
+          "name": "Keyviem",
+          "url": "https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw"
+        },
+        {
+          "name": "OKEIFLOU",
+          "url": "https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171612,
+      "name": "ROMEO",
+      "url": "https://open.spotify.com/track/3oW55UpVB7LdgqPuIYlEVw"
+    },
+    {
+      "album": {
         "name": "DON KBRN",
         "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
@@ -35694,7 +35720,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 150000,
       "name": "Suave",
       "url": "https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv"
@@ -40386,7 +40412,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 114534,
       "name": "Voltio",
       "url": "https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe"

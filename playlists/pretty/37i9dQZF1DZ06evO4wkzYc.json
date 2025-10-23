@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 175989,
+  "num_followers": 176147,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAADJAlTqskvQZrU+xFE7yhp2",
+  "snapshot_id": "aPbNAAAAAAB0g8nBYRnDO6N3j7mlrRbA",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zutano",
-        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 181901,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fea",
         "url": "https://open.spotify.com/album/7la4CbuvW3PdDFhRtALq6f"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 245035,
       "name": "La Fea",
       "url": "https://open.spotify.com/track/70sOEZiQQI6Ml0TFefmAle"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zutano",
+        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 181901,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pocho (En Vivo)",
-        "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 168288,
-      "name": "El Pocho - En Vivo",
-      "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 160946,
       "name": "Amarte",
       "url": "https://open.spotify.com/track/3VsZq5Vg6TYFyIUhMlMQRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pocho (En Vivo)",
+        "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 168288,
+      "name": "El Pocho - En Vivo",
+      "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraf\u00edn",
-        "url": "https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 240605,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 247426,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/69qGjlSgEJJkkZSp4ZN3GC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seraf\u00edn",
+        "url": "https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 240605,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"
     }
   ],
   "unique_name": "This Is Edicion Especial",

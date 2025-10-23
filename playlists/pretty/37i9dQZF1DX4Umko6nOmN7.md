@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 
 > Favoritlåtar för lugna och sköna stunder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,646 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,617 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 57 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 | 58 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 |
 | 59 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
-| 60 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
-| 61 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 |
+| 60 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 |
+| 61 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 |
 | 62 | [för oss](https://open.spotify.com/track/1sxW6Pauxd9qCXrXOli0Xu) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [för oss](https://open.spotify.com/album/2hgV0AVu9hB4smSue0gPoV) | 3:01 |
-| 63 | [If You Died Today](https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X) | 2:42 |
-| 64 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
-| 65 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 |
-| 66 | [Oh love](https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Oh love](https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67) | 4:16 |
+| 63 | [Oh love](https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0) | [Kasino](https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2) | [Oh love](https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67) | 4:16 |
+| 64 | [If You Died Today](https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X) | 2:42 |
+| 65 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
+| 66 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 |
 | 67 | [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 |
 | 68 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 |
 | 69 | [Dina läppar](https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Superlativ 97](https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu) | 3:06 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 76 | [Penny \(Akustisk\) \[feat\. Penny\]](https://open.spotify.com/track/5Oz05HhOtbbO8baMJURFVj) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Penny](https://open.spotify.com/artist/5XwPvOVGPUg76AOnVfqwQU) | [Penny \(Akustisk\)](https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE) | 3:10 |
 | 77 | [It's Not Easy to Write a Love Song](https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [It's Not Easy to Write a Love Song](https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN) | 3:01 |
 | 78 | [Inatt \(Inget Stoppar Oss Nu\) \- Live in Church](https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Ellen Krauss – Acoustic Versions](https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3) | 2:48 |
-| 79 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
-| 80 | [Daughters](https://open.spotify.com/track/0QvBbxPRfekbg8hYFMO0nL) | [Moa Lignell](https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO) | [Oh Daughters](https://open.spotify.com/album/0AS2q4m3CykbM5xFiJgA4G) | 5:02 |
+| 79 | [Daughters](https://open.spotify.com/track/0QvBbxPRfekbg8hYFMO0nL) | [Moa Lignell](https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO) | [Oh Daughters](https://open.spotify.com/album/0AS2q4m3CykbM5xFiJgA4G) | 5:02 |
+| 80 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
 | 81 | [Show Me Something](https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Show Me Something](https://open.spotify.com/album/09iQb3DZanbhp8afJVzwN5) | 3:35 |
 | 82 | [Långsamt \- Piano Version](https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Långsamt \(Piano Version\)](https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk) | 3:13 |
 | 83 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Umko6nOmN7.md) - [plain]
 | 93 | [I mina armar](https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh) | [Stjärnfamiljen](https://open.spotify.com/artist/2r4Pb3a2tCSI6KNA0juZaz), [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I mina armar](https://open.spotify.com/album/4ROTWkloGXBZy2KmpC5mIQ) | 3:23 |
 | 94 | [A Wish Worth Making](https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Wish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao) | 2:53 |
 | 95 | [logical](https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8) | 3:51 |
-| 96 | [Slott av luft](https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Slott av luft](https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n) | 2:41 |
-| 97 | [I Don't Want To Be Loved](https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q) | 3:02 |
-| 98 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
+| 96 | [I Don't Want To Be Loved](https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q) | 3:02 |
+| 97 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 |
+| 98 | [Slott av luft](https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Slott av luft](https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n) | 2:41 |
 | 99 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 |
 | 100 | [Ängel](https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ängel](https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2) | 3:29 |
 

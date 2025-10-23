@@ -4,7 +4,7 @@
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-121 songs - 7 hr 36 min
+122 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Change Of Heart](https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:18 | 2022-01-13 |  |
 | [Change the Locks](https://open.spotify.com/track/6LQ9h7vlBKg2AcPt5w1t2t) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 4:53 | 2022-01-11 | 2022-03-23 |
 | [Climb That Hill](https://open.spotify.com/track/5d3uVVKg38en0klxOycXJU) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:55 | 2022-01-11 | 2022-10-13 |
+| [Counting on You](https://open.spotify.com/track/1d6Tu3TtlywCTKuAynuNE8) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 4:05 | 2025-10-23 |  |
 | [Deliver Me](https://open.spotify.com/track/4xmroGDZVdNHrNSLkzlMCz) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:27 | 2024-10-21 | 2024-12-27 |
 | [Deliver Me](https://open.spotify.com/track/2MAnZuuPH6bayqJO7EdQFs) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:28 | 2024-09-17 | 2024-10-21 |
 | [Dogs On The Run](https://open.spotify.com/track/4YbxoqB6YZlwOTRLC4ml7q) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:40 | 2022-01-15 | 2022-11-28 |
@@ -115,7 +116,7 @@
 | [The Waiting](https://open.spotify.com/track/4ZA0EXmjnZIYguEMf0Mc88) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:58 | 2022-01-11 |  |
 | [The Wild One, Forever](https://open.spotify.com/track/5ZdZppoiqEJsgjYXnJeAKA) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:03 | 2022-02-10 | 2024-07-20 |
 | [The Wild One, Forever](https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty And The Heartbreakers](https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER) | 3:03 | 2024-08-25 |  |
-| [Thirteen Days](https://open.spotify.com/track/5khakanIneOQaelzgiG7LK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:35 | 2022-01-11 |  |
+| [Thirteen Days](https://open.spotify.com/track/5khakanIneOQaelzgiG7LK) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 3:35 | 2022-01-11 | 2025-10-23 |
 | [Time is on My Side \- Live at the Fillmore, 1997](https://open.spotify.com/track/11CKXkaU9QyKosyiTv7AGV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Live at the Fillmore, 1997 \(Deluxe\)](https://open.spotify.com/album/1XtnMkxeV9wdELLvBZxktL) | 3:05 | 2022-12-02 | 2022-12-10 |
 | [Turning Point \- Original Drums Version](https://open.spotify.com/track/2tqdW2QUoZkzs1SV0kRbt4) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:01 | 2024-11-16 | 2024-12-29 |
 | [Turning Point \- Original Drums Version](https://open.spotify.com/track/4UJKr8qWBnfmRpMxy0zkaW) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Turning Point / Between Two Worlds / Straight Into Darkness](https://open.spotify.com/album/6uwrkSfRYrIDrCZe508e97) | 3:01 | 2024-10-13 | 2024-11-08 |

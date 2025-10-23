@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-332 songs - 14 hr 48 min
+333 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Green Creek Full FLow](https://open.spotify.com/track/1HmoH68v4MYUK0rvIHNKyd) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Dreamy Green Noise](https://open.spotify.com/album/3L7pAk7jfvsfIbwrPmz2L1) | 2:52 | 2023-03-10 |  |
 | [Green Drip\-Drop](https://open.spotify.com/track/1tFW89mxfwT6hCXemgjMUw) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [Green Droplets](https://open.spotify.com/album/0Ef8eDjn2bsPN1iPmlodFF) | 3:07 | 2023-01-13 |  |
 | [Green Drip\-Drops](https://open.spotify.com/track/3iENay7nImYp3v7e3Jn9lL) | [Pinkage](https://open.spotify.com/artist/4wFbCRYOgiYItOMGZM5HgJ) | [Green Noise Trickles](https://open.spotify.com/album/4v8mw78MOshQsg5rQXU0Mt) | 3:12 | 2023-03-10 |  |
-| [Green Droplets](https://open.spotify.com/track/01SjqGtEipG5cj9HRNp8qa) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [Green Droplets](https://open.spotify.com/album/0Ef8eDjn2bsPN1iPmlodFF) | 2:57 | 2023-01-13 |  |
+| [Green Droplets](https://open.spotify.com/track/01SjqGtEipG5cj9HRNp8qa) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [Green Droplets](https://open.spotify.com/album/0Ef8eDjn2bsPN1iPmlodFF) | 2:57 | 2023-01-13 | 2025-10-23 |
 | [Green Evening Ocean](https://open.spotify.com/track/2VP7RtSDwj76BLDYGQiwvX) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Green Noise Calm](https://open.spotify.com/album/3Idxh5C6Ano1xc18av9nl7) | 3:08 | 2023-03-10 |  |
 | [Green Lean Restore Machine](https://open.spotify.com/track/77rVezumBupVO5JRPKwFQU) | [Traumknaster](https://open.spotify.com/artist/1JRRm7saRlAnaZ9AcWM8Oc) | [Green Noise for Enhanced Focus](https://open.spotify.com/album/1oYGouMScArBt0krAIxZtI) | 2:18 | 2024-01-30 |  |
 | [Green Line](https://open.spotify.com/track/0AtLG24aovG3YN5g3X6WJz) | [Pink Noise Panther](https://open.spotify.com/artist/0qJsh3RHy0fi68ruyX3Kjf) | [Sleppy Green](https://open.spotify.com/album/1L6lOCw4V0fMrEPTWK4GTS) | 1:36 | 2023-03-10 | 2023-06-17 |
@@ -234,6 +234,7 @@
 | [Morning Rain \(Green Noise\)](https://open.spotify.com/track/6kl9bLSIzREKNdYOtALKdM) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:29 | 2023-05-05 |  |
 | [Morning Rain \- Green Noise](https://open.spotify.com/track/0HzYqraQscAiyZDbUgvWxt) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:08 | 2023-03-10 |  |
 | [Mossy Meditation \- Green Noise](https://open.spotify.com/track/34SUEroznWC8R56VYSGKx1) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mossy Meditation Green Noise Soundscapes](https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k) | 3:36 | 2023-06-16 |  |
+| [Mossy Mountain Calm](https://open.spotify.com/track/65Mbf2HRXivSYfCVBxORBL) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Mossy Mountain Calm](https://open.spotify.com/album/6H0se40CddIdv18qdMnU6N) | 3:55 | 2025-05-26 |  |
 | [Mountain Ascent](https://open.spotify.com/track/6BO7StXzy6FRgxhRZ6DJbZ) | [Sleep Noise Island](https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z) | [Night Green Noise](https://open.spotify.com/album/63jQGHKOhiciM8fXusNjJk) | 2:00 | 2023-05-05 |  |
 | [Mountain Glacier Green Noise](https://open.spotify.com/track/2p4DXR6onhUvquleQS8uyn) | [Natürlicher](https://open.spotify.com/artist/6YbProTCKdc1F85gbMcXvt) | [Tropical Green Noise](https://open.spotify.com/album/1u8rO3NGbrcBHsLYBAubrg) | 2:16 | 2023-05-05 |  |
 | [Movements \(500 Hz LP, 100 Hz HP\)](https://open.spotify.com/track/0SRqKEj7uiXP1FSCycYXUz) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Green Noise For Sleep](https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK) | 3:20 | 2023-02-03 |  |

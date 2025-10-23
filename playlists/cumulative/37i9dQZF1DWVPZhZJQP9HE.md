@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhinesh Nagarajan
 
-709 songs - 1 day 17 hr 39 min
+710 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Ikkiren](https://open.spotify.com/track/2Iz1hlf6vhOIWsqCMwLQ2N) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Ikkiren](https://open.spotify.com/album/0QIdn4yd0WU3uy3gtU3O4F) | 4:21 | 2022-11-24 | 2023-03-08 |
 | [Ilanthalizhe](https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn) | [Nouf Aloufiz](https://open.spotify.com/artist/0lhgeOIYdvd6JVX5Qqrd04), [Athithyan](https://open.spotify.com/artist/7luB4uNlhp3lGJAf9xVmpQ) | [Ilanthalizhe](https://open.spotify.com/album/13kI9nQ3eCTr4BqTzkeumw) | 3:10 | 2023-06-23 | 2025-03-05 |
 | [Ilavarasi](https://open.spotify.com/track/4nOHICVDNdqyMIbQjOJ8hF) | [Jecin George](https://open.spotify.com/artist/5UcUhUt9RK09Wyy3twh7rN), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Ilavarasi](https://open.spotify.com/album/0DGVvdz7xqrMJ9mB59NJJh) | 3:48 | 2023-03-10 | 2023-04-01 |
-| [Illai Illai](https://open.spotify.com/track/39GXOnXzJDNIz96XRoOltR) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1), [Lokesh Sambath Kumar](https://open.spotify.com/artist/4MuRbk7Za0fITveN2rOPbv) | [Illai Illai](https://open.spotify.com/album/1UZcV7bCzck2xgS5QILn9p) | 3:33 | 2025-10-10 |  |
+| [Illai Illai](https://open.spotify.com/track/39GXOnXzJDNIz96XRoOltR) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1), [Lokesh Sambath Kumar](https://open.spotify.com/artist/4MuRbk7Za0fITveN2rOPbv) | [Illai Illai](https://open.spotify.com/album/1UZcV7bCzck2xgS5QILn9p) | 3:33 | 2025-10-10 | 2025-10-23 |
 | [Imaigalo](https://open.spotify.com/track/5LRODMeAbWjHEItSRLGZ3b) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Imaigalo](https://open.spotify.com/album/3hujPUBf31Y80dprCKF5gj) | 2:45 | 2023-04-03 | 2025-02-11 |
 | [Imaye \- From "Think Specials"](https://open.spotify.com/track/0Ung8cwAINVSXcIcSkZLIF) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Imaye \(From "Think Specials"\)](https://open.spotify.com/album/56m9UEPRLqXL6dMJJPtU3l) | 3:30 | 2022-09-23 | 2023-02-28 |
 | [In Her Wish](https://open.spotify.com/track/0Omi2iGlADD7gVJX8KUaIT) | [Ajayy K](https://open.spotify.com/artist/1PgASqMDJgiJA5incZF56n) | [In Her Wish](https://open.spotify.com/album/5mMCxKbUXIXS0qBLnivrEk) | 2:27 | 2024-12-05 | 2025-01-22 |
@@ -292,6 +292,7 @@
 | [Kimchi Dosa](https://open.spotify.com/track/10CGE3JHF9XMDaicnLD46D) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [AOORA](https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy), [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN) | [Kimchi Dosa](https://open.spotify.com/album/2nLirBUQhM557pbuMgbnCP) | 4:02 | 2025-08-27 |  |
 | [King Brown \(Tamil\)](https://open.spotify.com/track/3ii46MrjAi0g1vXSWar5hH) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Amalraj Jothiraj](https://open.spotify.com/artist/4zkXAOhaXuYpEOZf9QdILW) | [King Brown \(Tamil\)](https://open.spotify.com/album/0uy5ieDAs3AnJzx1ZDSub7) | 4:10 | 2022-07-25 | 2023-02-07 |
 | [Kittakka Vaadi](https://open.spotify.com/track/2Dc4Kz0TR7JAPA9cW4FWLS) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Kittakka Vaadi](https://open.spotify.com/album/7CWRgvWh6YnKoNnSlfnvBt) | 1:02 | 2022-12-09 | 2023-03-23 |
+| [KODI MINNAL](https://open.spotify.com/track/0cooXT2uO5YjDDDicq3pLA) | [Nithya Mammen](https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [KODI MINNAL](https://open.spotify.com/album/6z59ZmYJx78LIsld9guBWp) | 3:10 | 2025-10-22 |  |
 | [Kollaathey](https://open.spotify.com/track/3quKD6cr7vtSpLThkcSmzp) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs) | [Kollaathey](https://open.spotify.com/album/23yUcMx7AgxBYVKTUrMuMs) | 3:02 | 2025-05-23 |  |
 | [Kolladha Kannala](https://open.spotify.com/track/1VQoHAzlQ2RSm3cmDmIFm5) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Kolladha Kannala](https://open.spotify.com/album/1DTOTwhnX4pjxPZi0N7oOs) | 2:57 | 2023-02-09 | 2023-05-10 |
 | [Kolladha Kannala](https://open.spotify.com/track/5uNvbQ0riT4c7sIwOC2iMy) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Kolladha Kannala](https://open.spotify.com/album/7BRD73WPBErPY9WUn8mZDo) | 2:57 | 2023-02-09 | 2024-03-24 |

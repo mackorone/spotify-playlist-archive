@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 91791,
+  "num_followers": 91801,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "El camino de la libertad",
-        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 207610,
-      "name": "Charlat\u00e1n",
-      "url": "https://open.spotify.com/track/7K8x1lyhqVvgRL7WbkfFqi"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "los d\u00edas en la sala",
         "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 163411,
       "name": "siempre te voy a querer",
       "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "El camino de la libertad",
+        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 207610,
+      "name": "Charlat\u00e1n",
+      "url": "https://open.spotify.com/track/7K8x1lyhqVvgRL7WbkfFqi"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 167044,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/3NAGaIPdSjlSJhAbcgRU3A"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 167044,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Silvia",
-        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 153139,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Sue\u00f1o C\u00edtrico",
         "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 202538,
       "name": "Vencimiento",
       "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Silvia",
+        "url": "https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 153139,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 257567,
       "name": "Quiero Que Me Llames",
       "url": "https://open.spotify.com/track/0iSKxxyKD0Qig0xXMNLDfF"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Una Caricia",
-        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Una Caricia",
-      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Paradisco",
         "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 233042,
       "name": "Paradisco",
       "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Una Caricia",
+      "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ojitos de Md",
-        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "Ojitos de Md",
-      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Pinamar",
         "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 179800,
       "name": "Pinamar",
       "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Ojitos de Md",
+        "url": "https://open.spotify.com/album/5CevLKYFXjNzjGl8hRi1lv"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 137052,
+      "name": "Ojitos de Md",
+      "url": "https://open.spotify.com/track/0Pkc9prDMNlz3WhP9MkwMx"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ojitos de Md (Remix)",
-        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Ojitos de Md - Remix",
-      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 187514,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Ojitos de Md (Remix)",
+        "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Ojitos de Md - Remix",
+      "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Quemarropa",
-        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Porque",
-      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        }
+      ],
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Casi Algo",
-        "url": "https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv"
-      },
-      "artists": [
-        {
-          "name": "J\u00fapiter en Casa",
-          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "Casi Algo",
-      "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Piel",
         "url": "https://open.spotify.com/album/22zFtS2ipuNixDofMq176B"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 243560,
       "name": "Llueve Sobre Mojado",
       "url": "https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv"
+      },
+      "artists": [
+        {
+          "name": "J\u00fapiter en Casa",
+          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1751,18 +1751,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
         }
       ],
-      "duration_ms": 183973,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt"
+      "duration_ms": 169363,
+      "name": "Soy un volc\u00e1n",
+      "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
     }
   ],
   "unique_name": "Radio Indie",

@@ -1,29 +1,13 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Filiah. Artwork by Paola Saliby",
-  "num_followers": 230391,
+  "description": "The best new pop music from new, independent artists.  Cover: Ruby Plume. Artwork by Paola Saliby",
+  "num_followers": 230395,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEUViAqol4wH3+DnO67tt4BRvoDh",
+  "snapshot_id": "AAAAAGEVZymq8aeVDJxD7XMyzGhAc9Xz",
   "tracks": [
-    {
-      "added_at": "2025-10-15 04:00:14",
-      "album": {
-        "name": "Sad Girl With A Punchline - EP",
-        "url": "https://open.spotify.com/album/0NyEoGaoLHB20yAQDztYQI"
-      },
-      "artists": [
-        {
-          "name": "Filiah",
-          "url": "https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl"
-        }
-      ],
-      "duration_ms": 211650,
-      "name": "Scratch",
-      "url": "https://open.spotify.com/track/7eAO3Y3lC25uK7P7DcYDkK"
-    },
     {
       "added_at": "2025-10-15 04:00:14",
       "album": {
@@ -39,6 +23,102 @@
       "duration_ms": 168573,
       "name": "Pindrop",
       "url": "https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI"
+    },
+    {
+      "added_at": "2025-10-22 04:00:28",
+      "album": {
+        "name": "Mystery Woman",
+        "url": "https://open.spotify.com/album/06Zx22LDG16fi9ZE22k4SK"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "duration_ms": 184083,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/3THln96cTn4UblX2X6oS0v"
+    },
+    {
+      "added_at": "2025-10-22 04:00:28",
+      "album": {
+        "name": "u could be something",
+        "url": "https://open.spotify.com/album/1cNWpdNVt8kmfZb3bPLuMH"
+      },
+      "artists": [
+        {
+          "name": "Maisi",
+          "url": "https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W"
+        }
+      ],
+      "duration_ms": 194452,
+      "name": "try",
+      "url": "https://open.spotify.com/track/3NxEO96YX96IRU0fSlS5TA"
+    },
+    {
+      "added_at": "2025-10-22 04:00:28",
+      "album": {
+        "name": "Wednesday's Child",
+        "url": "https://open.spotify.com/album/3cOCHvhcgPYxciEeR8fXKa"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "duration_ms": 192080,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5xSSkE1fplMv910qZ2784e"
+    },
+    {
+      "added_at": "2025-10-22 04:00:28",
+      "album": {
+        "name": "Drip Drop",
+        "url": "https://open.spotify.com/album/2HvmC1UQ13eWMPOhDg3wqv"
+      },
+      "artists": [
+        {
+          "name": "Hanna Rautzenberg",
+          "url": "https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y"
+        }
+      ],
+      "duration_ms": 162315,
+      "name": "Drip Drop",
+      "url": "https://open.spotify.com/track/4cYDBNVaEYmoftQ4aDQ9Nh"
+    },
+    {
+      "added_at": "2025-10-22 04:00:28",
+      "album": {
+        "name": "Play n Repeat",
+        "url": "https://open.spotify.com/album/7nl2YsxwatTwI8KeT1utKn"
+      },
+      "artists": [
+        {
+          "name": "EILA",
+          "url": "https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf"
+        }
+      ],
+      "duration_ms": 166785,
+      "name": "Play n Repeat",
+      "url": "https://open.spotify.com/track/3SfZm17PVsua5tI5LQNimt"
+    },
+    {
+      "added_at": "2025-10-15 04:00:14",
+      "album": {
+        "name": "Sad Girl With A Punchline - EP",
+        "url": "https://open.spotify.com/album/0NyEoGaoLHB20yAQDztYQI"
+      },
+      "artists": [
+        {
+          "name": "Filiah",
+          "url": "https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl"
+        }
+      ],
+      "duration_ms": 211650,
+      "name": "Scratch",
+      "url": "https://open.spotify.com/track/7eAO3Y3lC25uK7P7DcYDkK"
     },
     {
       "added_at": "2025-10-15 04:00:14",
@@ -459,22 +539,6 @@
     {
       "added_at": "2025-10-01 12:14:18",
       "album": {
-        "name": "Can I Come Too?",
-        "url": "https://open.spotify.com/album/5007izIDA5T2I96QI67JaO"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 200153,
-      "name": "Ugly Crier",
-      "url": "https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB"
-    },
-    {
-      "added_at": "2025-10-01 12:14:18",
-      "album": {
         "name": "Fire and Ice",
         "url": "https://open.spotify.com/album/0KfAqTp8Fljtk4Hqi7NhuB"
       },
@@ -487,22 +551,6 @@
       "duration_ms": 140094,
       "name": "Fire and Ice",
       "url": "https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf"
-    },
-    {
-      "added_at": "2025-10-01 12:14:18",
-      "album": {
-        "name": "Does This Make Me A Bitter Woman? (Deluxe)",
-        "url": "https://open.spotify.com/album/67aB0zwPzsAreTkdTZjarY"
-      },
-      "artists": [
-        {
-          "name": "Beth McKenzie",
-          "url": "https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq"
-        }
-      ],
-      "duration_ms": 132971,
-      "name": "Catching The Next Train",
-      "url": "https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b"
     },
     {
       "added_at": "2025-10-08 04:00:14",
@@ -519,38 +567,6 @@
       "duration_ms": 176000,
       "name": "Outside In",
       "url": "https://open.spotify.com/track/0oybn62hiTeMUro3g6Q4mj"
-    },
-    {
-      "added_at": "2025-10-01 12:14:18",
-      "album": {
-        "name": "something to someone",
-        "url": "https://open.spotify.com/album/0nzKi0Unor0IbnvHd4UYQK"
-      },
-      "artists": [
-        {
-          "name": "Layla Scarlet",
-          "url": "https://open.spotify.com/artist/3ct5nvvlBQexQMM9IwBIVe"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "something to someone",
-      "url": "https://open.spotify.com/track/1aJdw3usD56N2pZW9mA9WX"
-    },
-    {
-      "added_at": "2025-10-01 12:14:18",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/40sY2frEQlthRUR96TsAMU"
-      },
-      "artists": [
-        {
-          "name": "Jordan Anthony",
-          "url": "https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay"
-        }
-      ],
-      "duration_ms": 149077,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/4WmBM8XKGpXqZsmhQC8FBY"
     },
     {
       "added_at": "2025-09-24 04:00:18",
@@ -699,22 +715,6 @@
       "duration_ms": 152297,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/5aaOTRqPU5uViDREi1jeOK"
-    },
-    {
-      "added_at": "2025-09-24 04:00:18",
-      "album": {
-        "name": "Nonchalant",
-        "url": "https://open.spotify.com/album/3ZDv943r9WBfl3uDUOjFnC"
-      },
-      "artists": [
-        {
-          "name": "Seth Gauton",
-          "url": "https://open.spotify.com/artist/6lSVOhtwPDcXqEIG6uyu4N"
-        }
-      ],
-      "duration_ms": 185687,
-      "name": "Nonchalant",
-      "url": "https://open.spotify.com/track/218O6HKzXEOLFxbeqXGpjl"
     },
     {
       "added_at": "2025-09-24 04:00:18",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-08-20 04:00:26",
       "album": {
-        "name": "SEVEN",
-        "url": "https://open.spotify.com/album/0janmZ6GMg082yd8hCp9yy"
-      },
-      "artists": [
-        {
-          "name": "Lois",
-          "url": "https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "APRIL SHOWERS",
-      "url": "https://open.spotify.com/track/40Qw0s7oqA3GzlTxuw1GMe"
-    },
-    {
-      "added_at": "2025-08-20 04:00:26",
-      "album": {
         "name": "Red Wine Eyes",
         "url": "https://open.spotify.com/album/3SdqhCeBNPK1fJ80hENS1i"
       },
@@ -1715,38 +1699,6 @@
       "duration_ms": 197142,
       "name": "Who Was I To Want You?",
       "url": "https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5"
-    },
-    {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
-        "name": "water walker",
-        "url": "https://open.spotify.com/album/0Mq4c8LKnzENTQhbN8wExg"
-      },
-      "artists": [
-        {
-          "name": "abeltriesherbest",
-          "url": "https://open.spotify.com/artist/7gvOG7JnooNlhJbHnPBckr"
-        }
-      ],
-      "duration_ms": 161519,
-      "name": "water walker",
-      "url": "https://open.spotify.com/track/2amI101fkxMkDRKFSq0Sar"
-    },
-    {
-      "added_at": "2025-08-13 04:00:29",
-      "album": {
-        "name": "In My Space",
-        "url": "https://open.spotify.com/album/3Ea8r0jEwTaLSygqGucRJs"
-      },
-      "artists": [
-        {
-          "name": "romeinparis",
-          "url": "https://open.spotify.com/artist/7McKMA1gQvGDNlpP0GjjPX"
-        }
-      ],
-      "duration_ms": 163215,
-      "name": "In My Space",
-      "url": "https://open.spotify.com/track/1xBtnSp5hNB20Da3YcvvfZ"
     },
     {
       "added_at": "2025-08-13 04:00:29",

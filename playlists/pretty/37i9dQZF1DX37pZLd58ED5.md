@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,640 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,652 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 42 | [Complicato](https://open.spotify.com/track/6d7BZ0WMfu6OlgA3hIh58P) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:13 |
 | 43 | [NOTTI FREDDE](https://open.spotify.com/track/0FW9UnyHsySQEU2lei3K1q) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [NOTTI FREDDE](https://open.spotify.com/album/6tI528644uJc7vshtOzN9E) | 2:50 |
 | 44 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 |
-| 45 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
+| 45 | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/track/0Yw612BIZ8o9HEgSZaKkjb) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [PICASSO \(feat\. 3robi\)](https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp) | 3:15 |
 | 46 | [Respiro](https://open.spotify.com/track/31ePh9rOTkIERrloY8BUUc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Respiro](https://open.spotify.com/album/45ZXo91lK7a6x2lylI6siL) | 2:35 |
 | 47 | [MAYDAY \(feat\. Capo Plaza\)](https://open.spotify.com/track/7Eey0kKPfatUEQeldGmxAj) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:54 |
 | 48 | [LITORALE \(feat\. Guè\)](https://open.spotify.com/track/24nrhZIVZFCjiRfmY44YKe) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 3:52 |

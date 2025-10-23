@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,593 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,600 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 42 | [LEVÉL](https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [LEVÉL](https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh) | 2:37 |
 | 43 | [POKOL](https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [POKOL](https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94) | 3:05 |
 | 44 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 |
-| 45 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 |
-| 46 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
+| 45 | [Jégszívű lány](https://open.spotify.com/track/167o6hXLQAvk4b4R6kXh3U) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:34 |
+| 46 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 |
 | 47 | [10/10](https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [10/10](https://open.spotify.com/album/10cKEAf2bKBFIcWIrsQFKV) | 2:26 |
 | 48 | [Boldog igazán](https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA) | [DÁNIELFY](https://open.spotify.com/artist/4imSxhDqtkiuKUamV1AL2l), [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [HA MEGÉRKEZEL](https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS) | 3:11 |
 | 49 | [GIN TONIC](https://open.spotify.com/track/3ObcOmEWDsBKLeqxoyxVzu) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [GIN TONIC](https://open.spotify.com/album/5Gn66d9b7excbeLZuZygB9) | 3:28 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 70 | [az én országom](https://open.spotify.com/track/0Xymkt9jHypCBwW9NWfPoN) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [az én országom](https://open.spotify.com/album/1B0fhyY2g7APOcJW6xulVs) | 3:04 |
 | 71 | [Beházasodtam](https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa) | [HRflow](https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk) | [Beházasodtam](https://open.spotify.com/album/2Zo8W6TqE90d8omt0fW8pY) | 2:26 |
 | 72 | [JUICY](https://open.spotify.com/track/44EzVjXRzoEVmGW6FKHskI) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [JUICY](https://open.spotify.com/album/3dBxIm63bMFJfX2GUGkSRO) | 3:48 |
-| 73 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
-| 74 | [Átutazó](https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [Átutazó](https://open.spotify.com/album/7mWhXfPQYzUTkw8Mdo9qO2) | 2:55 |
+| 73 | [Átutazó](https://open.spotify.com/track/0CCg3ywQIY93SSuAJ8I2rd) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28) | [Átutazó](https://open.spotify.com/album/7mWhXfPQYzUTkw8Mdo9qO2) | 2:55 |
+| 74 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
 | 75 | [Barbi Baba](https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX) | [Barbi Baba](https://open.spotify.com/album/07MLMgLbx7wUeKUlPeA0fb) | 2:30 |
 | 76 | [SISS](https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [SISS](https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM) | 2:50 |
 | 77 | [Szobor](https://open.spotify.com/track/6hWybKVOmVE6q4LeJRcoay) | [Wavy](https://open.spotify.com/artist/6yhyLqCUsp3DMQDRRb6iEq), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72), [FRANKO](https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [MENNI MIXTAPE](https://open.spotify.com/album/2ppanRLrOHhtXlf3RztiB7) | 3:11 |

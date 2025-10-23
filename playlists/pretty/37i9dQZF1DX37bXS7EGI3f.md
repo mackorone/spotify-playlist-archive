@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Battle Beast
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,551 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,643 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 80 | [Morphine Waltz](https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Opera](https://open.spotify.com/album/1dDS9EG35qdgeshBzEP2ja) | 3:36 |
 | 81 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 82 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 |
-| 83 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
-| 84 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 |
+| 83 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 |
+| 84 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 85 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
 | 86 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 |
 | 87 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 92 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
 | 93 | [Power of Will](https://open.spotify.com/track/480rtuITvEdBj1TA76juXO) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Power of Will](https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr) | 3:53 |
 | 94 | [An Ocean Of Strange Islands](https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [An Ocean Of Strange Islands](https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV) | 9:26 |
-| 95 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 |
-| 96 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
+| 95 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
+| 96 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 |
 | 97 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
 | 98 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
 | 99 | [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 |

@@ -1201,6 +1201,28 @@
     },
     {
       "album": {
+        "name": "Boundary Rider",
+        "url": "https://open.spotify.com/album/5acfdsTeybq9WNzMStHK3g"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "Paul Banks",
+          "url": "https://open.spotify.com/artist/6h7Y3QR7IjzAD05Qw5QYO4"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224943,
+      "name": "Boundary Rider",
+      "url": "https://open.spotify.com/track/5w9XvpOBv2FviDF7lSV5Kb"
+    },
+    {
+      "album": {
         "name": "Break Me Down",
         "url": "https://open.spotify.com/album/5GxzwB5MNabNYCjgFX8ml0"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Sarah Vanderzon
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,314 likes - 107 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,351 likes - 107 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

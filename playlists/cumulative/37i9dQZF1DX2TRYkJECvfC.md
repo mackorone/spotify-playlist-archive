@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-648 songs - 2 day 5 hr 26 min
+649 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
 | [Circulations](https://open.spotify.com/track/3MjKR35SfCpO0DTTYNKvTp) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Circulations](https://open.spotify.com/album/37XToRwRagx0FQSJNqjKdr) | 5:22 | 2025-08-29 |  |
 | [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 | 2023-08-04 |  |
+| [Closer To You](https://open.spotify.com/track/3WHDzLmx5Nndrh9mHvx1gQ) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk), [Lost Miracle](https://open.spotify.com/artist/0SnGv2ybYofUyE1IZyr198) | [Closer To You](https://open.spotify.com/album/7LuXAPiAzcShywUuDajqWV) | 3:38 | 2025-10-17 |  |
 | [Come On Back With Your Love \- Sunrise Mix](https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Come On Back With Your Love](https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf) | 3:26 | 2025-01-17 | 2025-09-06 |
 | [Cosmic Burst](https://open.spotify.com/track/08cpxxd1LWWD0ThphypIB6) | [Jason Krupp](https://open.spotify.com/artist/1IwXiIpWgZQ7txUBbdqCFf) | [Cosmic Burst](https://open.spotify.com/album/6NdKNFmfFEooVNv0SYCAK3) | 3:12 | 2024-03-01 | 2025-09-06 |
 | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 | 2025-07-11 |  |
@@ -493,7 +494,7 @@
 | [Savoy](https://open.spotify.com/track/715rpC66hIERTuMWlcBmBl) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Savoy](https://open.spotify.com/album/1R1viXeoCT5YC5py2e3OKb) | 5:23 | 2021-12-08 | 2023-04-28 |
 | [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 |  |
 | [SBCNCSLY](https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [SBCNCSLY](https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp) | 6:24 | 2021-12-08 | 2022-02-22 |
-| [Seagulls](https://open.spotify.com/track/7DGGaogybfys4M7iozhbay) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Seagulls / The Mind](https://open.spotify.com/album/70vhtZIWRTamfOWQ2tdDrj) | 3:26 | 2025-02-18 |  |
+| [Seagulls](https://open.spotify.com/track/7DGGaogybfys4M7iozhbay) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Seagulls / The Mind](https://open.spotify.com/album/70vhtZIWRTamfOWQ2tdDrj) | 3:26 | 2025-02-18 | 2025-10-23 |
 | [searchingforthelights](https://open.spotify.com/track/1Uzc6TAWKBBbp60GDJE1LR) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [searchingforthelights](https://open.spotify.com/album/0PHUdMruU2l6acvyz0RvXD) | 3:12 | 2024-10-11 | 2025-05-03 |
 | [SF to Córdoba](https://open.spotify.com/track/4WCm0HBa2LO3hO7ycV7WeI) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [SF to Córdoba // Curve](https://open.spotify.com/album/43V4cIc3qfQp2XoP3Xzr8b) | 5:42 | 2024-04-12 |  |
 | [She's A Replicant \- Afriqua Remix](https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC), [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [The Replicant EP](https://open.spotify.com/album/3oQWq2N3ZHTLTHZATQorQU) | 8:23 | 2021-12-08 | 2022-07-27 |

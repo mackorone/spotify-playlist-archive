@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 459727,
+  "num_followers": 459883,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAAAqa+tjokxX4eRp8Pr7F8wQ",
+  "snapshot_id": "aPbNAAAAAAD3alRAIy9za5m7CUCWbax2",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 124173,
       "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
       "url": "https://open.spotify.com/track/4HpIh5wWfkq5sSuCLLSwYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 368666,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF"
     },
     {
       "added_at": null,
@@ -267,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 368666,
-      "name": "Passenger",
-      "url": "https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 204880,
       "name": "Engine No. 9",
       "url": "https://open.spotify.com/track/5vVKkF3xih38Vcoo4HgAo8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 249320,
+      "name": "Hole in the Earth",
+      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 249320,
-      "name": "Hole in the Earth",
-      "url": "https://open.spotify.com/track/5Bpc360LNUScK53FrM8nvB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 223893,
       "name": "7 Words",
       "url": "https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Xerces",
+      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Xerces",
-      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 245973,
       "name": "Bored",
       "url": "https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Beware",
-      "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deftones",
         "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 257813,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Kimdracula",
+      "url": "https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Kimdracula",
-      "url": "https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Koi No Yokan",
         "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond Eyes",
-        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "You've Seen the Butcher",
-      "url": "https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 293053,
       "name": "Phantom Bride",
       "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "You've Seen the Butcher",
+      "url": "https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ohms",
-        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 250222,
-      "name": "Ohms",
-      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 220826,
       "name": "Root",
       "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ohms",
+        "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 250222,
+      "name": "Ohms",
+      "url": "https://open.spotify.com/track/0h6vLT1rLneoc5I4sOxvB1"
     },
     {
       "added_at": null,

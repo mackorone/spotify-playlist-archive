@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,287 likes - 40 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,299 likes - 40 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [K\-OST Center](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: 폭군의 셰프\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: 우주메리미 \(Would You Merry Me?\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,735,740 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,735,678 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I will let go](https://open.spotify.com/track/04dgxVUkSV4poDWfeBdfGy) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/6sTWqJbo4bY7pyiW25epDb) | 4:35 |
-| 2 | [If you love me let me know \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/1ZjHeeIWYqAuAsuTta1b9S) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Would You Marry Me?, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7gi0kRiZQicfrD97qWyJv6) | 3:00 |
+| 1 | [If you love me let me know \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/1ZjHeeIWYqAuAsuTta1b9S) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Would You Marry Me?, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7gi0kRiZQicfrD97qWyJv6) | 3:00 |
+| 2 | [I will let go](https://open.spotify.com/track/04dgxVUkSV4poDWfeBdfGy) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/6sTWqJbo4bY7pyiW25epDb) | 4:35 |
 | 3 | [Together](https://open.spotify.com/track/5MvF6MyuNNELmJUBAMn6V9) | [Lee Sun Bin](https://open.spotify.com/artist/7fIixACoi67hBc7Pua9Vj3), [Ra Mi Ran](https://open.spotify.com/artist/72siRfnwioeRM5Szwha1TX), [JO ARAM](https://open.spotify.com/artist/3AtarhiDXqzBJIWTTlkhEl) | [To The Moon, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/6TqAi5YXqWS8SEILtUmS3N) | 3:34 |
 | 4 | [HALLEY](https://open.spotify.com/track/2gakxR9lhOOXkTP83F2RSz) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Spirit Fingers OST Part.1](https://open.spotify.com/album/7KCLznEPjVGoE9t8y8LDjV) | 3:04 |
 | 5 | [Did You See The Rainbow?](https://open.spotify.com/track/5nL0h5zDR0MQqcjSmbGQrm) | [LEE JUNHO](https://open.spotify.com/artist/1nEFr6pWrot80eRuOkZQxg) | [Typhoon Family, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3DhtRFZAhZI4gfaCDMpTPs) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [START!](https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG) | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn), [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [Resident Playbook, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6DypdU7rOJQ5HEauFecbNE) | 3:46 |
 | 100 | [My Love by My Side](https://open.spotify.com/track/56tHSb0gP5lEKIgobG4jWk) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [When Life Gives you Tangerines OST from the Netflix Series \- Chapter 3](https://open.spotify.com/album/4HAR2j5k5ZFxlqDsYamKVk) | 4:55 |
 
-Snapshot ID: `AAAAAHlwjE3sr75Wn+9Kgt2J4zz8WxDy`
+Snapshot ID: `AAAAAJhzheBQencCBHSvELIOV8hHapAh`

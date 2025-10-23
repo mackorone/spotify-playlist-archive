@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,039 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,038 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 62 | [La Despedida](https://open.spotify.com/track/3pWKmAgp9FnQCsMPvrKlTa) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [La Despedida](https://open.spotify.com/album/3rjay3TC0UuyXz9jXAznhx) | 2:27 |
 | 63 | [Donde Vas?](https://open.spotify.com/track/3RJ4OyJpNuNCRAUnCJWWuH) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Donde Vas?](https://open.spotify.com/album/1dtTQUfgnrHi7nrPbyfzEf) | 3:02 |
 | 64 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |
-| 65 | [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 |
-| 66 | [Éramos lo más](https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Éramos lo más](https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg) | 3:29 |
+| 65 | [Éramos lo más](https://open.spotify.com/track/7u2DT6k6Wwdb0e8qKiAdNs) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Éramos lo más](https://open.spotify.com/album/7JR1aMehX24jFZ24gO0Dpg) | 3:29 |
+| 66 | [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 |
 | 67 | [Cintas Con Vos](https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Yate](https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG) | 2:42 |
 | 68 | [Sin mí :\(](https://open.spotify.com/track/2ntg6Vit9Dfc3FigiFmALf) | [PADAWVN](https://open.spotify.com/artist/68xpgCrWeZtoeRVQh7JiFE), [Ussi](https://open.spotify.com/artist/7LttRGU0XWmv7IbukE57sF) | [Sin mí :\(](https://open.spotify.com/album/68zk4WJbT68djgnHkYrtG4) | 3:47 |
 | 69 | [balada para el fin del mundo](https://open.spotify.com/track/3EANbFz0CCNWUhFfpYNhsZ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [balada para el fin del mundo](https://open.spotify.com/album/5oMb9DNJOLnVtawJVhmIs1) | 2:41 |
@@ -81,15 +81,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 71 | [Solo](https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Solo](https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55) | 2:50 |
 | 72 | [Domingo Escarlata](https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Domingo Escarlata](https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf) | 3:49 |
 | 73 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 |
-| 74 | [Corazón](https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Corazón](https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g) | 2:43 |
-| 75 | [Ey](https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z) | [Barco](https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom) | [Ey](https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e) | 3:17 |
-| 76 | [Secret Love](https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Secret Love](https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO) | 3:48 |
+| 74 | [Ey](https://open.spotify.com/track/4DS3VTwg6lQSNVgDYybM9Z) | [Barco](https://open.spotify.com/artist/18T3gHC4XCn5KyY0gxSZom) | [Ey](https://open.spotify.com/album/4x21KaeQo6Qy6fuWBur09e) | 3:17 |
+| 75 | [Secret Love](https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Secret Love](https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO) | 3:48 |
+| 76 | [Corazón](https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Corazón](https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g) | 2:43 |
 | 77 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 |
 | 78 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |
-| 79 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
-| 80 | [Ojos de Planeta](https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Ojos de Planeta](https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH) | 3:15 |
-| 81 | [otr\(a v\)ez](https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [\(re\)definiciones](https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b) | 2:46 |
-| 82 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 |
+| 79 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 |
+| 80 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
+| 81 | [Ojos de Planeta](https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Ojos de Planeta](https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH) | 3:15 |
+| 82 | [otr\(a v\)ez](https://open.spotify.com/track/5uvy0VMwIV3tYAw14LxDIs) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [\(re\)definiciones](https://open.spotify.com/album/6Sy57CxEueZpSgLi69ea3b) | 2:46 |
 | 83 | [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 |
 | 84 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [TODO LO QUE HICIMOS.](https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK) | 3:37 |
 | 85 | [Cómo olvidar](https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:15 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 96 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
 | 97 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 |
 | 98 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 |
-| 99 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 |
-| 100 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 |
+| 99 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 |
+| 100 | [Tuami](https://open.spotify.com/track/1UbSaStuc69LXMOTQhlEtS) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Tuami](https://open.spotify.com/album/5szk65Ovv0G5VYInwORa3k) | 3:06 |
 
 Snapshot ID: `AAAAACdrk/O0RAEx8vXeHcoFglhz0ktD`

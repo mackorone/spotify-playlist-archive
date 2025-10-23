@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124861,
+  "num_followers": 124860,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUtAlqY8jI36fvDpMOUt13JlJzS10e",
+  "snapshot_id": "AAAUulki+sc6QVx+WFcAsFoLxlgryRLN",
   "tracks": [
+    {
+      "added_at": "2025-10-22 11:33:05",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Go4wSvMagoNKseAj2UGp3"
+      },
+      "artists": [
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7amTNi6wRWUzvAh5aC9fmd"
+    },
+    {
+      "added_at": "2025-10-22 11:30:21",
+      "album": {
+        "name": "Worlds Apart (PROFF Remix)",
+        "url": "https://open.spotify.com/album/3WWTinkXft98zVVbuJYqdF"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        },
+        {
+          "name": "PROFF",
+          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
+        }
+      ],
+      "duration_ms": 196656,
+      "name": "Worlds Apart - PROFF Remix",
+      "url": "https://open.spotify.com/track/11vdTubFrrMporME9bLiib"
+    },
     {
       "added_at": "2025-10-20 17:34:03",
       "album": {

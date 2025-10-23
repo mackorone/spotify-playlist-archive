@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Jabbar ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,278 likes - 141 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,275 likes - 141 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 121 | [Şefim](https://open.spotify.com/track/1oMTBbQg22KBGYAqTLFUJV) | [Ozaan](https://open.spotify.com/artist/5oqH88K5xBw3rhxVaNpQzP) | [Şefim](https://open.spotify.com/album/3HTN7amlIfsjyJx3Wn9d2Y) | 2:22 |
 | 122 | [Göremezsin](https://open.spotify.com/track/4nIzE6OUSWXOW3wTiFDmmD) | [yukii](https://open.spotify.com/artist/1dGECRUK1IZxumIoAQvS8e), [Dest](https://open.spotify.com/artist/1LHPVpHC47y3smBcWT925y) | [Göremezsin](https://open.spotify.com/album/1jGVoW9hDXfMXIFBsOeF3c) | 2:18 |
 | 123 | [Sen Yoksun](https://open.spotify.com/track/5NE0JY8xM3lyKZm5uo2jwn) | [Ceren Hocaoğlu](https://open.spotify.com/artist/1SR1sF3sCRJb6xR6tl99hA) | [Sen Yoksun](https://open.spotify.com/album/0Wl0WEcTN8e72fQNz39Hrt) | 3:06 |
-| 124 | [mami tatilde](https://open.spotify.com/track/5QzDdjcUnwYlRG8zAfwDat) | [Mami CEE](https://open.spotify.com/artist/10mhAgF88Sf9VySAod9CV0) | [mami tatilde](https://open.spotify.com/album/1BCNenwPOs8zboGXzUlBY0) | 1:45 |
+| 124 | [mami tatilde](https://open.spotify.com/track/5QzDdjcUnwYlRG8zAfwDat) | [Mami CEE](https://open.spotify.com/artist/10mhAgF88Sf9VySAod9CV0), [SUPAVIZOR](https://open.spotify.com/artist/5bqZQouZMITNQpaJsKqhsK) | [mami tatilde](https://open.spotify.com/album/1BCNenwPOs8zboGXzUlBY0) | 1:45 |
 | 125 | [Yakıştı Sana](https://open.spotify.com/track/5QE5NQYYdQ2PRtqF0X9eKu) | [Tamer Deniz](https://open.spotify.com/artist/2iPLjgLMUes7lGI5QopMld) | [Yakıştı Sana](https://open.spotify.com/album/4mX7gWHe3qMvOnHKuIBCGD) | 3:23 |
 | 126 | [N'olur Ağlama](https://open.spotify.com/track/08YWoNHdKBKZPFOM0bXgd1) | [İrem Özen](https://open.spotify.com/artist/76G25ekDcncsRVCDunPdu1) | [N'olur Ağlama](https://open.spotify.com/album/4BM2i2Mv2FHBfyJ4yuewQQ) | 3:14 |
 | 127 | [Ben De Yoluma Giderim](https://open.spotify.com/track/63UJrQzB5gjEN1qGOTyv5C) | [Arya Aryay](https://open.spotify.com/artist/5TrOFp4saNR1jYOoOITvH9) | [Ben De Yoluma Giderim](https://open.spotify.com/album/35fkc1dg7Z6SHnUT3YusTg) | 3:35 |

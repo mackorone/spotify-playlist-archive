@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 357964,
+  "num_followers": 358017,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Serenatas",
-        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
-      },
-      "artists": [
-        {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Trio Delfines",
         "url": "https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 165186,
       "name": "Candilejas",
       "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Serenatas",
+        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
+      },
+      "artists": [
+        {
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Un Siglo de Ausencia - Remasterizado",
-      "url": "https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Personalidad - Los Grandes Trios - Las Sombras",
         "url": "https://open.spotify.com/album/7y2WIsOp0LrL9dJjjhDE66"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 158026,
       "name": "Empiezo a Extra\u00f1arte",
       "url": "https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Un Siglo de Ausencia - Remasterizado",
+      "url": "https://open.spotify.com/track/7nbh6ki0u8cVToPoKZLzsl"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Inspiraciones de Siempre",
-        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
-      },
-      "artists": [
-        {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Cari\u00f1ito Azucarado",
-      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 162944,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Inspiraciones de Siempre",
+        "url": "https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Cari\u00f1ito Azucarado",
+      "url": "https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Nos Hizo Falta Tiempo",
         "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 166500,
       "name": "Nos Hizo Falta Tiempo",
       "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antolog\u00eda. . .Hermanas Aguila",
-        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
+        "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
+        "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
       },
       "artists": [
         {
-          "name": "Hermanas Aguila",
-          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
+          "name": "Trio Las Sombras",
+          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
         }
       ],
-      "duration_ms": 210413,
-      "name": "Se\u00f1ora tentaci\u00f3n",
-      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
+      "duration_ms": 150146,
+      "name": "Un Dia",
+      "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
-        "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
+        "name": "Antolog\u00eda. . .Hermanas Aguila",
+        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
       },
       "artists": [
         {
-          "name": "Trio Las Sombras",
-          "url": "https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4"
+          "name": "Hermanas Aguila",
+          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
         }
       ],
-      "duration_ms": 150146,
-      "name": "Un Dia",
-      "url": "https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb"
+      "duration_ms": 210413,
+      "name": "Se\u00f1ora tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Bodas De Plata",
-        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Flor Sin Reto\u00f1o",
-      "url": "https://open.spotify.com/track/20E3A5HYWkcbFSLSMFxPCR"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "RCA 100 A\u00f1os de M\u00fasica",
         "url": "https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 172160,
       "name": "Suspenso Infernal",
       "url": "https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Bodas De Plata",
+        "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Flor Sin Reto\u00f1o",
+      "url": "https://open.spotify.com/track/20E3A5HYWkcbFSLSMFxPCR"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
-        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
-      },
-      "artists": [
-        {
-          "name": "Virginia Lopez",
-          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
-        }
-      ],
-      "duration_ms": 159440,
-      "name": "Tus Promesas de Amor",
-      "url": "https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Romanticamente Trios Vol. 9",
         "url": "https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
+        "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
+      },
+      "artists": [
+        {
+          "name": "Virginia Lopez",
+          "url": "https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS"
+        }
+      ],
+      "duration_ms": 159440,
+      "name": "Tus Promesas de Amor",
+      "url": "https://open.spotify.com/track/1TRdUF2oyYENzeX30yQtwM"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
         "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 136693,
       "name": "Desesperadamente",
       "url": "https://open.spotify.com/track/2L1q1K3eLEG3sysm8iLtwl"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "XEW La Voz de America Latina",
-        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
       },
       "artists": [
         {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
         }
       ],
-      "duration_ms": 175106,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
+      "duration_ms": 165106,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/6ipKZL678L6S4L93oBmqtz"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "Despierta",
-      "url": "https://open.spotify.com/track/6ipKZL678L6S4L93oBmqtz"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "15 Creaciones De Yolanda Y Su Trio Perla Negra - Versiones Originales",
         "url": "https://open.spotify.com/album/0MVQMThE6fTEOMvpGgWjTe"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 153826,
       "name": "Espumas",
       "url": "https://open.spotify.com/track/3nSV1I5ZVv4vI8nU7Kl6zW"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Tr\u00edos Del Mundo : 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Voy Gritando Por La Calle",
+      "url": "https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1599,22 +1615,6 @@
       "duration_ms": 171973,
       "name": "Como Las Olas",
       "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Tr\u00edos Del Mundo : 40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Voy Gritando Por La Calle",
-      "url": "https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Grandes \u00c9xitos De Carmen Delia Dipin\u00ed",
+        "url": "https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7"
+      },
+      "artists": [
+        {
+          "name": "Carmen Delia Dipini",
+          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
+        },
+        {
+          "name": "Johnny Rodriguez Y Su Trio",
+          "url": "https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka"
+        }
+      ],
+      "duration_ms": 170733,
+      "name": "Conozco La Verdad",
+      "url": "https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 188963,
       "name": "Esta Melodia",
       "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Grandes \u00c9xitos De Carmen Delia Dipin\u00ed",
-        "url": "https://open.spotify.com/album/4sOd7sSRarWnDiDLmeOlm7"
-      },
-      "artists": [
-        {
-          "name": "Carmen Delia Dipini",
-          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
-        },
-        {
-          "name": "Johnny Rodriguez Y Su Trio",
-          "url": "https://open.spotify.com/artist/3uAVQsk8Roan0ICqULYAka"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "Conozco La Verdad",
-      "url": "https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg"
     }
   ],
   "unique_name": "Tr\u00edos y Boleros Rom\u00e1nticos",

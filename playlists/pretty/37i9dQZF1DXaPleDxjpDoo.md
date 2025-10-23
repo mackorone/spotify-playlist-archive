@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,504 likes - 150 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,604 likes - 150 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 149 | [Thorns of Life](https://open.spotify.com/track/0hnmVaXmMT3F9LalPEkEYJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Thorns of Life](https://open.spotify.com/album/1WZAh7SNiSuPIVH4B8PE5m) | 4:23 |
 | 150 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 |
 
-Snapshot ID: `AAAAALZ4inrveIBYuFu0CDSaRAdnccQm`
+Snapshot ID: `AAAAAAvwdkgnNGVhJ8GOqQN4EJ0fffFY`

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Clarissa\n",
-  "num_followers": 367847,
+  "num_followers": 367833,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2025-10-17 16:00:46",
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/3beIHrF62ugsvypSt1BeZr"
-      },
-      "artists": [
-        {
-          "name": "WENNY",
-          "url": "https://open.spotify.com/artist/4H8hUcllrXmI91BT0fMdWj"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/6e0waa7MMY5WOKjfwSeGOW"
-    },
-    {
-      "added_at": "2025-10-17 16:00:46",
-      "album": {
         "name": "sinto saudade",
         "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 150978,
       "name": "sinto saudade",
       "url": "https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5"
+    },
+    {
+      "added_at": "2025-10-17 16:00:46",
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/3beIHrF62ugsvypSt1BeZr"
+      },
+      "artists": [
+        {
+          "name": "WENNY",
+          "url": "https://open.spotify.com/artist/4H8hUcllrXmI91BT0fMdWj"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/6e0waa7MMY5WOKjfwSeGOW"
     },
     {
       "added_at": "2025-10-17 16:00:46",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-10-17 16:00:46",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
-      },
-      "artists": [
-        {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
-    },
-    {
-      "added_at": "2025-10-17 16:00:46",
-      "album": {
         "name": "A Laje",
         "url": "https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2025-10-17 16:00:46",
       "album": {
-        "name": "Eu Vou Querer Mais",
-        "url": "https://open.spotify.com/album/08KjVOC5C0pVl33YkkcNl8"
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
       "artists": [
         {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         }
       ],
-      "duration_ms": 218086,
-      "name": "Eu Vou Querer Mais",
-      "url": "https://open.spotify.com/track/2puxv3fmNdv7RZ67aRWDO3"
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
     },
     {
       "added_at": "2025-10-17 16:00:46",
@@ -867,6 +851,22 @@
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
+    },
+    {
+      "added_at": "2025-10-17 16:00:46",
+      "album": {
+        "name": "Eu Vou Querer Mais",
+        "url": "https://open.spotify.com/album/08KjVOC5C0pVl33YkkcNl8"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 218086,
+      "name": "Eu Vou Querer Mais",
+      "url": "https://open.spotify.com/track/2puxv3fmNdv7RZ67aRWDO3"
     },
     {
       "added_at": "2025-10-17 16:00:46",
@@ -1155,22 +1155,22 @@
     {
       "added_at": "2025-10-17 16:00:46",
       "album": {
-        "name": "Encontros",
-        "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
+        "name": "Sagitariano",
+        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
       },
       "artists": [
         {
-          "name": "C.L",
-          "url": "https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq"
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
         },
         {
-          "name": "Karol Fernandez",
-          "url": "https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP"
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Encontros",
-      "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
+      "duration_ms": 141125,
+      "name": "Sagitariano",
+      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
     },
     {
       "added_at": "2025-10-17 16:00:46",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2025-10-17 16:00:46",
       "album": {
-        "name": "Sagitariano",
-        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
+        "name": "Encontros",
+        "url": "https://open.spotify.com/album/1Tx3Eod9st8By5csSKETaj"
       },
       "artists": [
         {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+          "name": "C.L",
+          "url": "https://open.spotify.com/artist/6w1Vg5lVWY3g8woAEz60uq"
         },
         {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+          "name": "Karol Fernandez",
+          "url": "https://open.spotify.com/artist/29QuZBNZlNEtU5CYyBlRZP"
         }
       ],
-      "duration_ms": 141125,
-      "name": "Sagitariano",
-      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
+      "duration_ms": 201000,
+      "name": "Encontros",
+      "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
     },
     {
       "added_at": "2025-10-17 16:00:46",
@@ -1231,22 +1231,6 @@
       "duration_ms": 148037,
       "name": "Mensagem",
       "url": "https://open.spotify.com/track/3pIuEFpcEFLXjFU2PXZVab"
-    },
-    {
-      "added_at": "2025-10-17 16:00:46",
-      "album": {
-        "name": "\"bb, que tal?\"",
-        "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
-      },
-      "artists": [
-        {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        }
-      ],
-      "duration_ms": 161285,
-      "name": "\"bb, que tal?\"",
-      "url": "https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj"
     },
     {
       "added_at": "2025-10-17 16:00:46",
@@ -1291,6 +1275,22 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
+    },
+    {
+      "added_at": "2025-10-17 16:00:46",
+      "album": {
+        "name": "\"bb, que tal?\"",
+        "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "\"bb, que tal?\"",
+      "url": "https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj"
     },
     {
       "added_at": "2025-10-17 16:00:46",

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22138,
+  "num_followers": 22142,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,26 @@
     {
       "added_at": "2025-10-10 03:01:28",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "added_at": "2025-10-10 03:01:28",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2025-10-10 03:01:28",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
       "added_at": "2025-10-10 03:01:28",
@@ -735,30 +735,6 @@
     {
       "added_at": "2025-10-10 03:01:28",
       "album": {
-        "name": "Bandidas Tamb\u00e9m Falam de Amor",
-        "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
-      },
-      "artists": [
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "MUC4",
-          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
-        }
-      ],
-      "duration_ms": 143551,
-      "name": "Bonita & Gostosa",
-      "url": "https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb"
-    },
-    {
-      "added_at": "2025-10-10 03:01:28",
-      "album": {
         "name": "Intens\u00e3o",
         "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 210526,
       "name": "Intens\u00e3o",
       "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
+    },
+    {
+      "added_at": "2025-10-10 03:01:28",
+      "album": {
+        "name": "Bandidas Tamb\u00e9m Falam de Amor",
+        "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+        }
+      ],
+      "duration_ms": 143551,
+      "name": "Bonita & Gostosa",
+      "url": "https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb"
     },
     {
       "added_at": "2025-10-10 03:01:28",

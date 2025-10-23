@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Innellea & Peces Raros.
 
-327 songs - 1 day 7 hr 18 min
+328 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Pinto](https://open.spotify.com/track/1dreniBF17P2HIn9cdQKSf) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw), [Pedro Perelman](https://open.spotify.com/artist/6PDer1TABluN09lZ2CWdbD), [Yuvi Gerstein](https://open.spotify.com/artist/34xoo5Pk2CLFHpBrMFwKDD) | [Pinto](https://open.spotify.com/album/6f3AnOqx9larx53QPSArrP) | 5:46 | 2025-07-04 |  |
 | [Plexo](https://open.spotify.com/track/1GtBfYQR8FJig0YiYNjedr) | [FunkState](https://open.spotify.com/artist/6V83rdyRMOwknBz8d4UKng) | [Plexo](https://open.spotify.com/album/7e0MJ7cxWWFKAwkzMUui6J) | 7:04 | 2020-09-04 | 2023-11-18 |
 | [Prana Vayu](https://open.spotify.com/track/3QknknkTXnwcy8gEOiTxQY) | [Berni Turletti](https://open.spotify.com/artist/1lhA46N6VsjJDN8wQccLtW) | [Prana Vayu](https://open.spotify.com/album/38SCAuXZIlAXKcqq6xw2VH) | 8:32 | 2023-11-17 | 2025-06-27 |
-| [Push Me](https://open.spotify.com/track/24WY0ThqTZLADGzgUvhlmG) | [Techmo](https://open.spotify.com/artist/1yOcHzpmPpgun7xQH8v0Kt), [Nico Banfi](https://open.spotify.com/artist/7Et37M7KmMFEd57BfFi7Hh) | [Push Me](https://open.spotify.com/album/1uiGRg3ehWgYOL9qNtn2UR) | 3:08 | 2025-07-11 |  |
+| [Push Me](https://open.spotify.com/track/24WY0ThqTZLADGzgUvhlmG) | [Techmo](https://open.spotify.com/artist/1yOcHzpmPpgun7xQH8v0Kt), [Nico Banfi](https://open.spotify.com/artist/7Et37M7KmMFEd57BfFi7Hh) | [Push Me](https://open.spotify.com/album/1uiGRg3ehWgYOL9qNtn2UR) | 3:08 | 2025-07-11 | 2025-10-23 |
 | [Python](https://open.spotify.com/track/0ITms5I6a8XV0st5nVeLrl) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Existence](https://open.spotify.com/album/6UADhBrlrMsv3nrEYvrDbr) | 3:47 | 2024-01-19 | 2025-03-20 |
 | [Quilaquina \- Radio Edit](https://open.spotify.com/track/2SABgcKY6WhWLdLdZOjRbt) | [Francisco Garcia](https://open.spotify.com/artist/1ijri5JZogzobbbQEDkmJO), [This & That](https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Quilaquina](https://open.spotify.com/album/1rEZAzJZyhbrbjFGjY3jZD) | 3:31 | 2025-09-26 |  |
 | [Ramp](https://open.spotify.com/track/4HS3WtiuCUH9ZwwNNxTzOJ) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5) | [Ramp](https://open.spotify.com/album/2OK0f3QFaxqYZU8nblzOvv) | 5:08 | 2025-07-04 | 2025-09-26 |
@@ -311,6 +311,7 @@
 | [Under Depth](https://open.spotify.com/track/4w1UBTHdo7aGxTSsseoj2n) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Under Depth](https://open.spotify.com/album/4L7PONnkfJ5ZZ3iqdYtGwJ) | 4:24 | 2025-03-19 | 2025-06-06 |
 | [Undertones 2](https://open.spotify.com/track/4p6A0iRwk566yuZysJdv7z) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Undertones 2](https://open.spotify.com/album/3OPQ2Kjn717hUsHhmBMx64) | 5:46 | 2023-12-07 | 2025-06-27 |
 | [Undertones 2 \- Remix](https://open.spotify.com/track/3NCaewb7OXm9eXmW3ECd0b) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI), [Rumanians](https://open.spotify.com/artist/5Hu2cTdWpxnck5aaCeirWv) | [Undertones 2 \(Remix\)](https://open.spotify.com/album/4uLKTeYiEOsqZDLg9m2hCl) | 7:12 | 2023-12-22 | 2025-03-20 |
+| [Us Forever](https://open.spotify.com/track/2Pdjj0oK5nK8DaUoDZsCad) | [Gueva](https://open.spotify.com/artist/05Pn4YBKlafyqay7CrSS17), [Nosssia](https://open.spotify.com/artist/0AwiZyTdsQf0abors9p7FR) | [Us Forever](https://open.spotify.com/album/3msyNGBzQzOBqKPXS3DCCG) | 6:12 | 2025-10-22 |  |
 | [Utopia](https://open.spotify.com/track/3YqN04q8uUceD8HKM0VCd3) | [Stjepanek](https://open.spotify.com/artist/3CbZyG68qYiKTYyN7ya6SG), [Bob Tosh](https://open.spotify.com/artist/3CSNiJzkKeRXlfiXyzEygS) | [Utopia](https://open.spotify.com/album/0eWoQrhgpAaO1RoGQ0G6ck) | 6:57 | 2025-03-19 | 2025-09-26 |
 | [Vectoria \- Original Mix](https://open.spotify.com/track/0Ww28y8TkdNMhijhYgNbe7) | [John Cosani](https://open.spotify.com/artist/2LRGIZMAT8HDCNQvMqgcFg) | [Vectoria](https://open.spotify.com/album/4Vs7EUAgcGDxfZ7SFpauhH) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Vesper](https://open.spotify.com/track/5QwSKYtSlEJYTkmQGconNk) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC) | [Vesper](https://open.spotify.com/album/0bXLbgN5wSXw4zxjOiLpEm) | 6:25 | 2025-09-19 |  |

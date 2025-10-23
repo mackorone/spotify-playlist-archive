@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-979 songs - 2 day 9 hr 24 min
+982 songs - 2 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [An Old Friend](https://open.spotify.com/track/0rTpm9I2WboX06LxXMfyE8) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [An Old Friend](https://open.spotify.com/album/5H5hhOYVjBIdTHMP2yjULo) | 2:57 | 2024-07-12 | 2025-07-24 |
 | [And still it was quiet](https://open.spotify.com/track/7fjhQ3RlieskEDsnmKvoM1) | [Blue Hour Theory](https://open.spotify.com/artist/2HRFwBMwsqAMf7c6xFhz2H) | [And still it was quiet](https://open.spotify.com/album/0I4rvQxwzESr8j3JTp1VF5) | 3:16 | 2025-09-30 |  |
 | [Angel Eyes](https://open.spotify.com/track/5qHNehosAT9As6OnEfjtR2) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Angel Eyes](https://open.spotify.com/album/5cvyX1YB1KWzgF0ZIsQPLJ) | 4:27 | 2024-02-02 | 2024-06-25 |
-| [Angel Falls](https://open.spotify.com/track/18mq8tGDlx1wF16w1YZxTf) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Angel Falls](https://open.spotify.com/album/4p1xPxPef4pe0cyAqJa20l) | 3:46 | 2024-05-10 |  |
+| [Angel Falls](https://open.spotify.com/track/18mq8tGDlx1wF16w1YZxTf) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Angel Falls](https://open.spotify.com/album/4p1xPxPef4pe0cyAqJa20l) | 3:46 | 2024-05-10 | 2025-10-23 |
 | [Another Day](https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Another Day](https://open.spotify.com/album/2mCmt4mpUId90aVmNJY7zt) | 4:47 | 2024-05-23 |  |
 | [Another Fairytale](https://open.spotify.com/track/6q49DPa2Q5D8ZNi6Hz62uJ) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Another Fairytale](https://open.spotify.com/album/5uCV7xBcsS9iJXd6UPKUr6) | 2:33 | 2024-04-10 |  |
 | [Another Hymn](https://open.spotify.com/track/4bPTSAAbGSLuNML02HgxQl) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Another Hymn](https://open.spotify.com/album/4OVtyj190QZqc3zI6OLE4p) | 4:31 | 2025-07-23 |  |
@@ -160,6 +160,7 @@
 | [Carey](https://open.spotify.com/track/5KjUmRrLUBDEE9v5aCtIiS) | [Ted Jonson Trio](https://open.spotify.com/artist/6PtFDZvnb3HKvKEh1OPDWQ) | [Carey](https://open.spotify.com/album/2gWopAqM32qmWPiyVsbKXu) | 2:05 | 2022-04-11 | 2023-01-06 |
 | [Casual](https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Casual](https://open.spotify.com/album/3ieMsFkfAmnxD3wPyMB3WL) | 3:40 | 2022-08-30 | 2025-01-28 |
 | [Catchy Love](https://open.spotify.com/track/4lL9ndZad8q5IwyoZgR8nt) | [Chops & Coda](https://open.spotify.com/artist/6n4Dbzp4CXCS3JzkqTU5cc) | [Catchy Love](https://open.spotify.com/album/2rM1cO5kYKd8DBToKgIY5v) | 2:42 | 2025-01-14 |  |
+| [Central Park Stroll](https://open.spotify.com/track/6HqntWF4Ergp1aTtT3FCCZ) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Central Park Stroll](https://open.spotify.com/album/5vfOxpqBTzqU9V8JS2p7iZ) | 3:40 | 2025-10-22 |  |
 | [Central Park West](https://open.spotify.com/track/2qVYNJdc64graTY7olJU1f) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Central Park West](https://open.spotify.com/album/1Xd4fshsUde1v2UWCLLLMa) | 2:59 | 2022-08-30 | 2023-11-24 |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-10 | 2025-05-20 |
 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 | 2022-04-11 | 2022-12-09 |
@@ -247,6 +248,7 @@
 | [Even If It Breaks My Heart](https://open.spotify.com/track/2smYdzIk06dlNfIK509OHl) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Even If It Breaks My Heart](https://open.spotify.com/album/3YuJiO9uN5AC6qIlIcZnIX) | 3:31 | 2024-03-22 | 2025-01-28 |
 | [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-10 | 2024-11-26 |
 | [Evening Stroll](https://open.spotify.com/track/1diXhclwZpFmaglGeIpqBb) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Evening Stroll](https://open.spotify.com/album/2gTcibp2PCQN7MpsvBuQS6) | 3:35 | 2024-08-19 |  |
+| [Evening Sun](https://open.spotify.com/track/5Kwzs76HmFATFfdAHEN1tw) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Evening Sun](https://open.spotify.com/album/47uiCpOa5y5ZEwBjkhwve0) | 2:55 | 2025-10-22 |  |
 | [Every Can of Beans](https://open.spotify.com/track/5o1afJfFQoVSnruTPSOqoj) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [Every Can of Beans](https://open.spotify.com/album/2ZOY0KarjBQsvzqVAvIGI6) | 3:25 | 2025-05-05 |  |
 | [Everybody Knew](https://open.spotify.com/track/0vVsZ7fLYEnYA9VIBXYdhv) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Everybody Knew](https://open.spotify.com/album/64IM7XMUoAS8owtJzMUxIB) | 3:22 | 2022-12-08 | 2025-07-24 |
 | [Everyday Gold](https://open.spotify.com/track/2RT3OmhreJ20WRkwe3YDHJ) | [Chops & Coda](https://open.spotify.com/artist/6n4Dbzp4CXCS3JzkqTU5cc) | [Everyday Gold](https://open.spotify.com/album/4zATX2czQaFh9azSLFi952) | 3:17 | 2025-09-30 |  |
@@ -448,7 +450,7 @@
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-04-11 | 2022-09-15 |
 | [Ladybird](https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Dolphin Dance](https://open.spotify.com/album/4xz7ahUYTnpC8xzWfeDWV3) | 2:53 | 2023-01-12 | 2025-07-24 |
 | [Lament](https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Lament](https://open.spotify.com/album/42sHzP8X3IDIZLdIQem4b7) | 2:55 | 2022-04-11 | 2022-11-18 |
-| [Lament of the Heart](https://open.spotify.com/track/7DoHgiFgZrduHqJYS98SRR) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Lament of the Heart](https://open.spotify.com/album/0LOEkhXmbYotwSoTSvpqEG) | 3:23 | 2024-09-03 |  |
+| [Lament of the Heart](https://open.spotify.com/track/7DoHgiFgZrduHqJYS98SRR) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Lament of the Heart](https://open.spotify.com/album/0LOEkhXmbYotwSoTSvpqEG) | 3:23 | 2024-09-03 | 2025-10-23 |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 | 2024-04-19 |
 | [Last Call](https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 3:21 | 2022-12-01 | 2024-04-03 |
 | [Last Call](https://open.spotify.com/track/0h18e2XB4kamKRD7Mlo2Fk) | [Nighthawks Revisited](https://open.spotify.com/artist/2sgwN8aKPOcrVSAdVil6R1) | [Last Call](https://open.spotify.com/album/7apIu7m0hBq59gnjWCuSuZ) | 3:21 | 2025-09-03 |  |
@@ -526,7 +528,7 @@
 | [Maybe We Should Dance](https://open.spotify.com/track/2DWXx31Eg2vNMTcEVZT9qk) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 3:26 | 2023-04-13 |  |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-30 | 2025-08-29 |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-02-23 |  |
-| [Meets the Sea](https://open.spotify.com/track/4Zs5DSz0nNvKWMTNKoAQ78) | [Nordklang Collective](https://open.spotify.com/artist/0o2YTCBctZKK3CxDw6yVf9) | [Meets the Sea](https://open.spotify.com/album/7gNaMqsgryJessmqyAYNyQ) | 3:37 | 2025-01-07 |  |
+| [Meets the Sea](https://open.spotify.com/track/4Zs5DSz0nNvKWMTNKoAQ78) | [Nordklang Collective](https://open.spotify.com/artist/0o2YTCBctZKK3CxDw6yVf9) | [Meets the Sea](https://open.spotify.com/album/7gNaMqsgryJessmqyAYNyQ) | 3:37 | 2025-01-07 | 2025-10-23 |
 | [Mellow Moments](https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp) | [Leeluck & Co](https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL) | [Mellow Moments](https://open.spotify.com/album/1ewVy7oBv5CLUM7htj4oFk) | 3:08 | 2023-04-27 |  |
 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-02-02 | 2025-08-20 |
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 | 2025-09-24 |
@@ -722,6 +724,7 @@
 | [Smile in Your Eyes](https://open.spotify.com/track/6Ok5ubn2agXdrd8UrFfrrR) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Smile in Your Eyes](https://open.spotify.com/album/3eOVnkbDiW3OClAQLuOjLV) | 6:58 | 2024-07-22 | 2024-11-26 |
 | [Smooth Sailing](https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Smooth Sailing](https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ) | 2:05 | 2023-08-10 | 2025-07-24 |
 | [Snowbound](https://open.spotify.com/track/7sDq8pkhmQJCkRR68jnnzz) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Snowbound](https://open.spotify.com/album/1JZB7ZrcA7gJ8NC4eWQAEM) | 3:28 | 2023-01-05 | 2024-08-20 |
+| [Soft Gaze](https://open.spotify.com/track/35E2O1CY3ZnuCwQjtmdOLV) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Soft Gaze](https://open.spotify.com/album/4t08593gJotLc2m1REOpR0) | 3:50 | 2025-10-22 |  |
 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 | 2022-04-11 | 2022-09-21 |
 | [Softly, Tenderly](https://open.spotify.com/track/5byMA13b3vZFCMVAgJNsCo) | [The Smooth Sounds](https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8) | [Softly, Tenderly](https://open.spotify.com/album/4UjQcQQbyYPZnNbY4gWsPM) | 3:41 | 2023-04-13 | 2025-05-20 |
 | [Solemnly Promising](https://open.spotify.com/track/2lxEx2C8RgzzOcauGXH43k) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Solemnly Promising](https://open.spotify.com/album/208MoAQUMS1dIncuScpudd) | 3:35 | 2025-08-19 |  |

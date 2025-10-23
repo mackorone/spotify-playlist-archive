@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 30516,
+  "num_followers": 30524,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -115,26 +115,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Aves del Sur",
-        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        },
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 189811,
-      "name": "Aves del Sur",
-      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Aves del Sur",
+        "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 189811,
+      "name": "Aves del Sur",
+      "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Sosiego",
-        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
-      },
-      "artists": [
-        {
-          "name": "Dj 113",
-          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
-        }
-      ],
-      "duration_ms": 108203,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 127586,
       "name": "Viento de Arrabal",
       "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Sosiego",
+        "url": "https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV"
+      },
+      "artists": [
+        {
+          "name": "Dj 113",
+          "url": "https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG"
+        }
+      ],
+      "duration_ms": 108203,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Helado de Mango (Remix)",
         "url": "https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 141825,
       "name": "Helado de Mango (Remix)",
       "url": "https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 126857,
       "name": "Orange Waves",
       "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "100% Barztep",
+        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Shemomedjamo",
+      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 136000,
       "name": "Ag\u00fcita de Coco",
       "url": "https://open.spotify.com/track/06U4QV5Gid1LZjm39ydcMp"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "100% Barztep",
-        "url": "https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Shemomedjamo",
-      "url": "https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Alc\u00e1zar",
+        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
+      },
+      "artists": [
+        {
+          "name": "Tranquilo",
+          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
+        }
+      ],
+      "duration_ms": 98653,
+      "name": "Alc\u00e1zar",
+      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Playa del Amor",
         "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 129565,
       "name": "Playa del Amor",
       "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Alc\u00e1zar",
-        "url": "https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ"
-      },
-      "artists": [
-        {
-          "name": "Tranquilo",
-          "url": "https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE"
-        }
-      ],
-      "duration_ms": 98653,
-      "name": "Alc\u00e1zar",
-      "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
     },
     {
       "added_at": "2025-04-04 04:00:19",

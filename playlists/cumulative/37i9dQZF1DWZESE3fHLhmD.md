@@ -4,7 +4,7 @@
 
 > Ran an den Pumpkin Spice Latte  🧡
 
-345 songs - 18 hr 24 min
+346 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2024-01-19 | 2025-08-02 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-09-26 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-19 | 2025-08-02 |
+| [ich glaub ich](https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [ich glaub ich](https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN) | 2:46 | 2025-10-16 |  |
 | [impstr](https://open.spotify.com/track/5TVdAbllNYNBXQhG0h74lY) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [impstr](https://open.spotify.com/album/5TxPb4YrQ6LUz3RY9Jgohr) | 2:46 | 2023-10-27 | 2023-11-10 |
 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-11-09 | 2024-12-21 |
 | [In Der Zeit Verlieren](https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [alfons.](https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin) | [In Der Zeit Verlieren](https://open.spotify.com/album/131JPd43brI7u4ad651rj8) | 2:38 | 2024-04-19 |  |
@@ -311,7 +312,7 @@
 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 | 2025-06-17 |  |
 | [The Night We Met](https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Night We Met](https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO) | 3:29 | 2024-04-19 |  |
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/5JVlz4JCy3cv8pZB12sKJL) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/3HHHK8lGDgB9wwGXd0za9o) | 3:29 | 2023-10-27 | 2024-03-16 |
-| [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-10-09 |  |
+| [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-10-09 | 2025-10-23 |
 | [The Spins](https://open.spotify.com/track/7BcOUi4FQ3wBLmNTW0yfCR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:15 | 2024-01-26 |  |
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-15 | 2025-06-18 |
 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 | 2024-09-23 |  |

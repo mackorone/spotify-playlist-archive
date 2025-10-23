@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 842599,
+  "num_followers": 842673,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPV7gAAAAACxf0hjssC/wEoEi2dzjv5q",
+  "snapshot_id": "aPbNAAAAAAAojxlbLCaYxLQIOujr2bbR",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche De Cuatro Lunas",
-        "url": "https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX"
+        "name": "Dos Mundos - Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
       },
       "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        },
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 235493,
-      "name": "Dos Corazones, Dos Historias (Dos Cora\u00e7\u00f5es E Uma Historia)",
-      "url": "https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect"
+      "duration_ms": 220333,
+      "name": "Ma\u00f1ana Es Para Siempre",
+      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
     },
     {
       "added_at": null,
@@ -687,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Mundos - Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy"
+        "name": "Noche De Cuatro Lunas",
+        "url": "https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX"
       },
       "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         }
       ],
-      "duration_ms": 220333,
-      "name": "Ma\u00f1ana Es Para Siempre",
-      "url": "https://open.spotify.com/track/3z96E6DaTMAgj8QXOhK26A"
+      "duration_ms": 235493,
+      "name": "Dos Corazones, Dos Historias (Dos Cora\u00e7\u00f5es E Uma Historia)",
+      "url": "https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect"
     },
     {
       "added_at": null,

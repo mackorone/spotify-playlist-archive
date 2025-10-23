@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Bubbles",
+        "url": "https://open.spotify.com/album/2CyHtYK3K7qGlg16smSPAd"
+      },
+      "artists": [
+        {
+          "name": "Galeazzo",
+          "url": "https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131903,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/2cak9qM28L1TaaxgdMOVyh"
+    },
+    {
+      "album": {
         "name": "By Next Year",
         "url": "https://open.spotify.com/album/5UwjvOu1TQEYJDoCJ8Pvgz"
       },
@@ -1730,6 +1748,24 @@
       "duration_ms": 230281,
       "name": "Ca\u00e7ador de Mim",
       "url": "https://open.spotify.com/track/48ucmkpjZzAE3IFfFyugH7"
+    },
+    {
+      "album": {
+        "name": "Central Park Stroll",
+        "url": "https://open.spotify.com/album/5vfOxpqBTzqU9V8JS2p7iZ"
+      },
+      "artists": [
+        {
+          "name": "Dries Riesen",
+          "url": "https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220723,
+      "name": "Central Park Stroll",
+      "url": "https://open.spotify.com/track/6HqntWF4Ergp1aTtT3FCCZ"
     },
     {
       "album": {
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 212113,
       "name": "Get Started",
       "url": "https://open.spotify.com/track/5362P1gqoccfp1i09vrw8m"
@@ -6042,7 +6078,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 218972,
       "name": "Midday, Uptown, Out of Focus",
       "url": "https://open.spotify.com/track/5eoO0f1dg33nEpfMmn4X8o"
@@ -6546,7 +6582,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-23",
       "duration_ms": 264750,
       "name": "My Sweet Darling",
       "url": "https://open.spotify.com/track/5HDqVxiCI8eL4yjlSRGGgn"
@@ -10866,6 +10902,24 @@
       "duration_ms": 279557,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz"
+    },
+    {
+      "album": {
+        "name": "You\u2019re Very Wrong",
+        "url": "https://open.spotify.com/album/4dMgmvB8aDCh0JxHUulswQ"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "date_added": "2025-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187529,
+      "name": "You\u2019re Very Wrong",
+      "url": "https://open.spotify.com/track/0FNRVItw10U6D10rdQLce6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7UE7qrnkvsf"

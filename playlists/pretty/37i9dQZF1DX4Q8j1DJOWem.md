@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ฉลอง 1,000 ศิลปิน RADAR กับ 10 ศิลปิน RADAR ประเทศไทยที่มียอดสตรีมสูงที่สุด ปก: Saran
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,526 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,528 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [G.A.Y o\(T^T\)o](https://open.spotify.com/track/30p0jzv4DZf1gOIHOvBlRh) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [G.A.Y o\(T^T\)o](https://open.spotify.com/album/1tonE5HqMUp6oTqQtUWuaI) | 3:47 |
 | 50 | [หยอกไม่หลอก \(TRICK OR TREAT\) \[feat\. Chrrissa\]](https://open.spotify.com/track/6Lo9GFEQ1IsbTHXWza3xyp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Chrrissa](https://open.spotify.com/artist/3HbdAO1uUXLMo1FRXJWdYt) | [หยอกไม่หลอก \(TRICK OR TREAT\) \[feat\. Chrrissa\]](https://open.spotify.com/album/64CbnizNQ4vrBgzTUrw11J) | 3:37 |
 
-Snapshot ID: `AAAAANk3MI2U3y0ABSe71YLMOZ+6iibH`
+Snapshot ID: `AAAAALnE7k1ZjtOKVC1TcwiTGpwQUfst`

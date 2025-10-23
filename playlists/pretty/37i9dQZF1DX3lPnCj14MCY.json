@@ -1,6 +1,6 @@
 {
   "description": "Embrace all colours with your favourite anthems. \"Let's have a kiki!\"",
-  "num_followers": 39536,
+  "num_followers": 39540,
   "original_name": "Rainbow Mix",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -83,18 +99,18 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+      "duration_ms": 258893,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -115,22 +131,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 258893,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
+        "name": "I Feel Love",
+        "url": "https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
         "name": "Ta-Dah",
         "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 288360,
       "name": "I Don't Feel Like Dancin'",
       "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "Conga",
-      "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "I Feel Love",
-        "url": "https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
         }
       ],
-      "duration_ms": 254453,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t"
+      "duration_ms": 255760,
+      "name": "Conga",
+      "url": "https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0"
     },
     {
       "added_at": "2025-06-20 09:42:39",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-06-20 09:42:39",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 204726,
-      "name": "My My My!",
-      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
-    },
-    {
-      "added_at": "2025-06-20 09:42:39",
-      "album": {
         "name": "ZITTI E BUONI",
         "url": "https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 192654,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV"
+    },
+    {
+      "added_at": "2025-06-20 09:42:39",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 204726,
+      "name": "My My My!",
+      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
     },
     {
       "added_at": "2025-06-20 09:42:39",

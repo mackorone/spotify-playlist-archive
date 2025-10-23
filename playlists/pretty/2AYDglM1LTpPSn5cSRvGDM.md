@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 
 > The best Progressive House for your late night running, cardio, lifting spinning, HIIT, workout experience\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 97,108 likes - 100 songs - 5 hr 30 min
+[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 97,254 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 | 29 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 |
 | 30 | [Cry \(Just A Little\)](https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Cry \(Just A Little\)](https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji) | 2:43 |
 | 31 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 |
-| 32 | [OGdub](https://open.spotify.com/track/3nPwkr8RE4VfhF80fyDVXJ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [OGdub](https://open.spotify.com/album/0d9SgHDCP04wphWMeEMArX) | 3:26 |
+| 32 | [OGdub](https://open.spotify.com/track/3nPwkr8RE4VfhF80fyDVXJ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [OGdub](https://open.spotify.com/album/0d9SgHDCP04wphWMeEMArX) | 3:26 |
 | 33 | [Fine Day](https://open.spotify.com/track/09eWCNjHzXXOUcvLzXKvAq) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Fine Day](https://open.spotify.com/album/765HkHd46H8HL4NqQpkakp) | 3:38 |
 | 34 | [Wide Awake](https://open.spotify.com/track/6xSX6eAD59mAl7TFtH9zlE) | [Zoshe](https://open.spotify.com/artist/4jOPmqBJsAj2Q4GNZhJXFn), [Mr Kay \(CH\)](https://open.spotify.com/artist/1ILknkAYObzLzIbiE0hlfq), [SebDell](https://open.spotify.com/artist/4JilqgKuNlwLPG6IppSVuK) | [Wide Awake](https://open.spotify.com/album/5xq5OSXHmIKzYGsfdLhvmd) | 3:04 |
 | 35 | [Charma](https://open.spotify.com/track/0K7SkpnKer4yv8gDF1t0EF) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Charma](https://open.spotify.com/album/30XDXUOJeIXEgEE9WJbc64) | 3:21 |

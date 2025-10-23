@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: pablopablo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,022 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,034 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

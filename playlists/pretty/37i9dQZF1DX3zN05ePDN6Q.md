@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Torya
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,415 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,445 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [NASCI PRA ISSO](https://open.spotify.com/track/4WwJ4xNXqRjNJOXYm38QNa) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [HIGHBOYZ](https://open.spotify.com/album/0LXnhPYep0AOA1c7BFg7Vm) | 3:06 |
 | 75 | [Entre vielas e avenidas](https://open.spotify.com/track/6VSh7RrHhOYidvNzuuTp40) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Entre vielas e avenidas](https://open.spotify.com/album/1UB0ig4balR3ItgjXRbWLp) | 1:54 |
 
-Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`
+Snapshot ID: `AAAAAAs4ypFITl4JX+2BbgH3EZ3ZUb77`
