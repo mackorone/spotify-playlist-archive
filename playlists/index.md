@@ -1,4 +1,4 @@
-## Playlists \(8818\)
+## Playlists \(8819\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5497,6 +5497,7 @@
 - [Songs to Test Speakers With](/playlists/pretty/37i9dQZF1DWZtZ8vUCzche.md)
 - [Songs to do CPR to](/playlists/pretty/7oJx24EcRU7fIVoTdqKscK.md)
 - [Songs we slept to in 2024](/playlists/pretty/37i9dQZF1DX9oYNnMKJSS1.md)
+- [Sonic Youth Stuff](/playlists/pretty/62f0MyW67fqNfZ4XsYDdpy.md)
 - [Sonic's Racing Mixtape](/playlists/pretty/37i9dQZF1DWWKadG93BgMV.md)
 - [Sonido de Lluvia](/playlists/pretty/37i9dQZF1DWZoPCylYnvtU.md)
 - [Sonidos de Lluvia y Truenos](/playlists/pretty/37i9dQZF1DWYgToHlKhwA5.md)
