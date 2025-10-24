@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: رامي جمال
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: كريم محسن
 
-1,588 songs - 3 day 16 hr 34 min
+1,590 songs - 3 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -852,7 +852,7 @@
 | [Shakshaka](https://open.spotify.com/track/5Eq09G3fJGaKeWDPq1CeH9) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Shakshaka](https://open.spotify.com/album/5hdm0gJYmtCnQYd0gzOu4G) | 2:33 | 2021-12-23 | 2022-03-10 |
 | [SHAMROUKH](https://open.spotify.com/track/6Ko6eF0dtw3v8Ab1GAe5J3) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [SHAMROUKH](https://open.spotify.com/album/286nUW47JR4xHHeCUD2WSf) | 2:02 | 2023-12-18 | 2024-01-26 |
 | [Shams W Hawa](https://open.spotify.com/track/5KUBjmdPpamovUuXEit9z2) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 3:24 | 2025-07-31 |  |
-| [Shayfa Eh](https://open.spotify.com/track/0Tl9HkmuH5cKvBahwBKxiU) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Disco Beirut](https://open.spotify.com/artist/5fHftmhZMqu9QF56yXAsEg) | [Shayfa Eh](https://open.spotify.com/album/74QxBcQ5KQjkO15JNOlNWF) | 3:23 | 2025-07-24 |  |
+| [Shayfa Eh](https://open.spotify.com/track/0Tl9HkmuH5cKvBahwBKxiU) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Disco Beirut](https://open.spotify.com/artist/5fHftmhZMqu9QF56yXAsEg) | [Shayfa Eh](https://open.spotify.com/album/74QxBcQ5KQjkO15JNOlNWF) | 3:23 | 2025-07-24 | 2025-10-24 |
 | [Shiekh El Arab](https://open.spotify.com/track/1t6TBaFGvaPxWlF7eC83QT) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Shiekh El Arab](https://open.spotify.com/album/1GkhRERlHRAGdMgaxEdMmJ) | 3:47 | 2023-08-17 | 2023-08-29 |
 | [Shoft Kteer](https://open.spotify.com/track/3YCD3eKdnkeBYJXzBg5An1) | [KAZO](https://open.spotify.com/artist/19yy7hO5RGgmD072QHh1gR) | [Shoft Kteer](https://open.spotify.com/album/5M7uvlNyapaw9ZmxWfvaI6) | 3:20 | 2024-01-18 | 2024-02-16 |
 | [Shokr Khas](https://open.spotify.com/track/1umEMxmOa7hn6XGjqggQ4q) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Shokr Khas](https://open.spotify.com/album/6SWL7U28mMRQOMsJSEGF2C) | 3:34 | 2023-02-23 | 2023-02-26 |
@@ -1084,7 +1084,7 @@
 | [العيب](https://open.spotify.com/track/6SBe9zsjDmieyHcOC2ALNd) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [العيب](https://open.spotify.com/album/0EYAcwhmD2H1tutw1jO9Ys) | 3:10 | 2024-01-25 | 2024-02-16 |
 | [العين بالعين](https://open.spotify.com/track/6SoaQw4IPCJOyErCTg6KeL) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [العين بالعين](https://open.spotify.com/album/4h9VVGe2EWkIm08FZUTsFn) | 3:36 | 2024-06-13 | 2024-07-25 |
 | [الف خسارة](https://open.spotify.com/track/3RHpogVSZ6i4GG8X2ZTOLi) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV) | [الف خسارة](https://open.spotify.com/album/2gQZviWAUm9jLT0MRRJIAd) | 2:48 | 2024-07-11 | 2024-08-29 |
-| [الف سلامة](https://open.spotify.com/track/6R6NJeckfkrOVpIYonLpNx) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Ramy El Masry](https://open.spotify.com/artist/3uJr9F3C8SEDACgjZJzjDP) | [الف سلامة](https://open.spotify.com/album/3SRF2ffjoKGA6BU7X1UiNR) | 3:43 | 2025-07-03 |  |
+| [الف سلامة](https://open.spotify.com/track/6R6NJeckfkrOVpIYonLpNx) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Ramy El Masry](https://open.spotify.com/artist/3uJr9F3C8SEDACgjZJzjDP) | [الف سلامة](https://open.spotify.com/album/3SRF2ffjoKGA6BU7X1UiNR) | 3:43 | 2025-07-03 | 2025-10-24 |
 | [القعدة وياها](https://open.spotify.com/track/1t92PLGQlNTFys2ujeh16y) | [Noor Radwan](https://open.spotify.com/artist/2GhbS9S7Gp9SIH6iUPvFeA) | [القعدة وياها](https://open.spotify.com/album/0CANZEmU3quFUm4X3EB9DM) | 3:41 | 2022-09-22 | 2022-12-16 |
 | [القلب شايل بيموت \( خلصت يا قلبى بينا \)](https://open.spotify.com/track/3WjVnnMScPvcHPjMaujzuG) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [القلب شايل بيموت \( خلصت يا قلبى بينا \)](https://open.spotify.com/album/1sSAvhFnplhn9objnKq1jl) | 4:34 | 2023-05-04 | 2023-06-20 |
 | [الكبير](https://open.spotify.com/track/5D5Cm9cEUBub4AWhNSRJVo) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [الكبير](https://open.spotify.com/album/3pgaZb4Zum1U9NaMQIasAQ) | 3:24 | 2023-07-28 | 2023-08-19 |
@@ -1288,6 +1288,7 @@
 | [سلامات سلامات طب عدا وفات](https://open.spotify.com/track/2yt3yMJowt3zzTkTVBH7Yn) | [رحاب سليم](https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS) | [سلامات سلامات طب عدا وفات](https://open.spotify.com/album/6cq4sdZbQYe8hJrCSvj1oa) | 3:34 | 2025-01-17 | 2025-04-11 |
 | [سلامي امانه](https://open.spotify.com/track/35Qk7KSF5we0gHMlUaHEvs) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [سلامي امانه](https://open.spotify.com/album/1UBy2k9nbNPQXaYeKD0Ts9) | 2:40 | 2025-10-02 |  |
 | [سمع هس](https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Karim Abdelaziz](https://open.spotify.com/artist/2MFCrt54MlbqNJZdjWiTUs), [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6) | [سمع هس](https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL) | 2:36 | 2023-06-19 | 2023-07-25 |
+| [سمك زينة](https://open.spotify.com/track/4g1fqIV9EbOHstHeioY4az) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [سمك زينة](https://open.spotify.com/album/7DKwZsrLRZKt3JOJXBReD9) | 3:46 | 2025-10-23 |  |
 | [سنجل](https://open.spotify.com/track/4iULrfhv47rx9l3QojGugH) | [Wazeer](https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4) | [سنجل](https://open.spotify.com/album/6fqe8DuKFVY1xARM4kzcMB) | 2:41 | 2024-10-18 | 2024-12-06 |
 | [سواد على الكل \- تتر نهاية مسلسل العتاولة 2](https://open.spotify.com/track/6jm0hFRYUmkVzwhWzD1PFo) | [Showkey](https://open.spotify.com/artist/3xQ3WqraSnv3qd9Ni7vlQx), [Felo](https://open.spotify.com/artist/4JhWEqWfwTQywn7lKkNWt5), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [سواد على الكل \(تتر نهاية مسلسل العتاولة 2\)](https://open.spotify.com/album/4IKjxF1G9I5cU8NEmi3pFu) | 2:37 | 2025-03-04 | 2025-04-11 |
 | [سواد قلوبكو](https://open.spotify.com/track/06DeRNtlL7CSse2nXUZMGo) | [Mohamed Raafat](https://open.spotify.com/artist/0661TuDjt3EaEaYtfYhZZ9) | [سواد قلوبكو](https://open.spotify.com/album/2meH5xMSguvsmVJxIafBuc) | 4:14 | 2024-12-13 | 2025-01-24 |
@@ -1438,6 +1439,7 @@
 | [لينا معاد](https://open.spotify.com/track/2w4mJijrR9euogYlaq8H2R) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [لينا معاد](https://open.spotify.com/album/1PiNzyKUgo41ZnStM6EEY6) | 4:02 | 2025-07-16 |  |
 | [ليه خسرتك](https://open.spotify.com/track/4mqAEhjGpFZRTi1DnRBlvA) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [ليه خسرتك](https://open.spotify.com/album/00s1ad6SOrgQc97aLd3eju) | 2:28 | 2023-01-26 | 2023-03-08 |
 | [ليه مكملين](https://open.spotify.com/track/0JC9cfQp0zPidqORTGW3gr) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [ما بعد اتنسينا](https://open.spotify.com/album/0LP5y8eWCS9BFEXQUvjxTi) | 2:39 | 2025-06-26 | 2025-10-03 |
+| [مأساة](https://open.spotify.com/track/7EaXHV6fnXKdXtU3z3WDjw) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [مأساة](https://open.spotify.com/album/29GcXePhytJTaaObLlOSOh) | 4:21 | 2025-10-23 |  |
 | [ما اتفقناش](https://open.spotify.com/track/1NgXSCMvPWPYvewx5m2Oyr) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [ما اتفقناش](https://open.spotify.com/album/59VCxKihjY3xe5zG8srH2X) | 3:41 | 2024-01-05 | 2024-02-08 |
 | [ماتيجي اعدي عليكي](https://open.spotify.com/track/4Tfdzh30bYmSPsWhAnUhYG) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:25 | 2024-07-24 | 2024-09-13 |
 | [مارتحناش](https://open.spotify.com/track/7MQEgw6m2eAxJMsy5AURlG) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [مارتحناش](https://open.spotify.com/album/5TV3DdIKADbHPmMP7QyJbP) | 3:36 | 2024-02-13 | 2024-04-12 |

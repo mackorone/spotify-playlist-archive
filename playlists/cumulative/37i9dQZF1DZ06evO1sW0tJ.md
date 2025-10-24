@@ -4,7 +4,7 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-58 songs - 4 hr 2 min
+59 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,8 +63,9 @@
 | [Vier Polonaisen op\. 1 \- Polonaise Nr\. 3](https://open.spotify.com/track/2dRrRkjVX3nEYBZq94D3Tm) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Martin Malto](https://open.spotify.com/artist/6P0AqYTK30QL4X8x8lGXIX) | [Vier Polonaisen op\. 1](https://open.spotify.com/album/3uuTEeRWp7S3QN2rlC3CD4) | 2:59 | 2025-08-12 | 2025-08-13 |
 | [“Am Strande” \(Geibel\)](https://open.spotify.com/track/3QpwROBzAorokKDbXtSZog) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 2:54 | 2025-10-15 |  |
 | [“An Einem Lichten Morgen”](https://open.spotify.com/track/7CyHLTOYuDLwEqbc9lM2q2) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 3:06 | 2025-10-17 |  |
+| [“Die Stille Lotosblume” \(Geibel\)](https://open.spotify.com/track/4o5Jl9hPkY6pBxuxqFamnn) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 2:44 | 2025-10-24 |  |
 | [“Er Ist Gekommen In Sturm Und Regen” \(Rückert\)](https://open.spotify.com/track/0myF0M2RZWBqrBjV9VnieO) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 2:27 | 2025-10-15 | 2025-10-20 |
-| [“Geheimes Flüstern Hier Und Dort”](https://open.spotify.com/track/64BZpywW3YmR4OecljgPhg) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 3:34 | 2025-10-17 |  |
+| [“Geheimes Flüstern Hier Und Dort”](https://open.spotify.com/track/64BZpywW3YmR4OecljgPhg) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 3:34 | 2025-10-17 | 2025-10-24 |
 | [“O Lust, O Lust” \(Hauffen\)](https://open.spotify.com/track/6NMDYdfD9fdjGYXbDuycd5) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 421: Clara Schumann, Voice of the Heart](https://open.spotify.com/album/63IwmIbj8lJ0yMmg3lFwHv) | 1:45 | 2025-10-15 |  |
 
 \*This playlist was first scraped on 2025-08-12. Prior content cannot be recovered.

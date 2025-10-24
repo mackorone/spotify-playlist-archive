@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,374 songs - 12 day 12 hr 20 min
+5,375 songs - 12 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1204,6 +1204,7 @@
 | [Distractions](https://open.spotify.com/track/3HXvfZz5jwVY1jMS4WjaQ6) | [Ms\. Jesso](https://open.spotify.com/artist/7Ilc61qxkIiL8JwuMxWBEA) | [Distractions](https://open.spotify.com/album/1NVEj4PpxuARqIOPFlvfhk) | 3:24 | 2024-02-29 | 2024-03-08 |
 | [Diva](https://open.spotify.com/track/2N4Fs1jeggmilxMi0cyrRu) | [Qasim](https://open.spotify.com/artist/611DiraGc9sy6b10CKFOIW) | [Diva](https://open.spotify.com/album/4yuj3HTE9wo6uq9TViyRWK) | 3:00 | 2021-11-25 | 2021-12-18 |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2024-01-21 | 2024-01-29 |
+| [Divine](https://open.spotify.com/track/18uxbUhR9WmcYxqZEcpCk9) | [Millie Mountain](https://open.spotify.com/artist/6DVdCYxPalV6GXHAFhEkIG), [Femi Temowo](https://open.spotify.com/artist/1SVvnxxsilOcr7W6wLMTML) | [Divine](https://open.spotify.com/album/158OTiUNqJwvmBEPf5R5Hv) | 4:23 | 2025-10-23 |  |
 | [Divine](https://open.spotify.com/track/0LTFXjtv2rzCNDiRcMnqKp) | [Violet Jane](https://open.spotify.com/artist/3RBGAHGr57td8AgFn096cc) | [Divine](https://open.spotify.com/album/1mc7n1OlASpZ7WGUMaaZIb) | 3:15 | 2025-03-23 | 2025-04-04 |
 | [Divine Intervention \- Acoustic](https://open.spotify.com/track/0ROiUmUgUIuTRjS6VBdwHU) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Divine Intervention \(Acoustic\)](https://open.spotify.com/album/2i1wqhJanmXnoTDiIpDCQo) | 3:03 | 2024-05-31 | 2024-06-14 |
 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 | 2022-09-16 | 2022-10-04 |

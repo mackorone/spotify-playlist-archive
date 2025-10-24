@@ -1,12 +1,12 @@
 {
   "description": "This is Tokyo Ska Paradise Orchestra. The essential tracks, all in one playlist.",
-  "num_followers": 38900,
+  "num_followers": 38904,
   "original_name": "This Is Tokyo Ska Paradise Orchestra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPbNAAAAAAA9G2jqQYgecPXCKj0XFjxK",
+  "snapshot_id": "aPgegAAAAAAF6FVfjMnPA43RgMZ4rfWQ",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Has NO BORDER",
-        "url": "https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Sakanakun",
-          "url": "https://open.spotify.com/artist/4rfS2cN7FAWYGN4Fj1ALwR"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Paradise Has No Border",
-      "url": "https://open.spotify.com/track/0g2W5jMygHfV8HoN4qYTRp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALMIGHTY\u301c\u4eee\u9762\u306e\u7d04\u675f",
         "url": "https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 247973,
       "name": "ALMIGHTY\u301c\u4eee\u9762\u306e\u7d04\u675f - feat.\u5ddd\u4e0a\u6d0b\u5e73 \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30bb\u30a4\u30d0\u30fc\u300f\u4e3b\u984c\u6b4c",
       "url": "https://open.spotify.com/track/0A2W626CJSt3rw6iJHYL8A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise Has NO BORDER",
+        "url": "https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Sakanakun",
+          "url": "https://open.spotify.com/artist/4rfS2cN7FAWYGN4Fj1ALwR"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Paradise Has No Border",
+      "url": "https://open.spotify.com/track/0g2W5jMygHfV8HoN4qYTRp"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ea\u30dc\u30f3 [feat.\u685c\u4e95\u548c\u5bff(Mr.Children)]",
-        "url": "https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk"
+        "name": "\u30c4\u30ae\u30cf\u30ae\u30ab\u30e9\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj"
       },
       "artists": [
         {
@@ -452,13 +452,13 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         },
         {
-          "name": "Kazutoshi Sakurai",
-          "url": "https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN"
+          "name": "\u30c1\u30d0\u30e6\u30a6\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW"
         }
       ],
-      "duration_ms": 236106,
-      "name": "\u30ea\u30dc\u30f3 - feat.\u685c\u4e95\u548c\u5bff(Mr.Children)",
-      "url": "https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt"
+      "duration_ms": 163900,
+      "name": "Dale Dale! \u301c\u30c0\u30ec\u30fb\u30c0\u30ec!\u301c - feat.\u30c1\u30d0\u30e6\u30a6\u30b9\u30b1",
+      "url": "https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c4\u30ae\u30cf\u30ae\u30ab\u30e9\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj"
+        "name": "\u30ea\u30dc\u30f3 [feat.\u685c\u4e95\u548c\u5bff(Mr.Children)]",
+        "url": "https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk"
       },
       "artists": [
         {
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         },
         {
-          "name": "\u30c1\u30d0\u30e6\u30a6\u30b9\u30b1",
-          "url": "https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW"
+          "name": "Kazutoshi Sakurai",
+          "url": "https://open.spotify.com/artist/4zDHk92mbBkXMT6QIisUvN"
         }
       ],
-      "duration_ms": 163900,
-      "name": "Dale Dale! \u301c\u30c0\u30ec\u30fb\u30c0\u30ec!\u301c - feat.\u30c1\u30d0\u30e6\u30a6\u30b9\u30b1",
-      "url": "https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL"
+      "duration_ms": 236106,
+      "name": "\u30ea\u30dc\u30f3 - feat.\u685c\u4e95\u548c\u5bff(Mr.Children)",
+      "url": "https://open.spotify.com/track/1Yk7N0YXbx36UfvdwnZjBt"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
       "duration_ms": 273280,
       "name": "\u6d41\u661f\u3068\u30d0\u30e9\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
-        "url": "https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "SUDA MASAKI",
-          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
-      "url": "https://open.spotify.com/track/10JVAH3MIlfRzyYWvzLQpz"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 229433,
       "name": "\u6559\u3048\u3066\u30a6\u30ed\u30dc\u30ed\u30b9 - feat.\u5bae\u5d0e\u671d\u5b50",
       "url": "https://open.spotify.com/track/0nDouEV8uGMwAfndyQ3iPH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
+        "url": "https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "SUDA MASAKI",
+          "url": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
+      "url": "https://open.spotify.com/track/10JVAH3MIlfRzyYWvzLQpz"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Liar",
-        "url": "https://open.spotify.com/album/5pOoOJypKDcjwCV57AVyVp"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 209366,
-      "name": "The Liar",
-      "url": "https://open.spotify.com/track/2d9h8W6esGHsrz3Oow11GU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.O.S. [Share One Sorrow] (feat.Tokyo Tanaka & Jean-Ken Johnny)",
         "url": "https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 242791,
       "name": "S.O.S. [Share One Sorrow] - feat.Tokyo Tanaka & Jean-Ken Johnny",
       "url": "https://open.spotify.com/track/0WiJhz5KOuIjtXkjo5Ckt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Liar",
+        "url": "https://open.spotify.com/album/5pOoOJypKDcjwCV57AVyVp"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 209366,
+      "name": "The Liar",
+      "url": "https://open.spotify.com/track/2d9h8W6esGHsrz3Oow11GU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Skin On Skin
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,023 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,021 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 29 | [Running In Place](https://open.spotify.com/track/12wmwCIvIHJMA1JzMNZyGq) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [They Hate Change](https://open.spotify.com/artist/6ht9VksrtRJDQXKzC2BZ3d) | [Running In Place](https://open.spotify.com/album/1P2j6FStEaTUOh1HCJFGpJ) | 3:16 |
 | 30 | [What if](https://open.spotify.com/track/2izy3kSKKpXqIqWIkYv7q1) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [What if](https://open.spotify.com/album/3M2j3cGIFkRyaqAN8HVLw2) | 3:05 |
 | 31 | [The Way I'm Feeling](https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [The Way I'm Feeling](https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT) | 4:17 |
-| 32 | [Best Design](https://open.spotify.com/track/4hYV24bLAfwhOYRGFgoPk0) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII), [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [\[CPU\]](https://open.spotify.com/album/6bba7VMHCZKGJ2Rp6sGc4b) | 5:31 |
+| 32 | [Best Design](https://open.spotify.com/track/4hYV24bLAfwhOYRGFgoPk0) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII) | [\[CPU\]](https://open.spotify.com/album/6bba7VMHCZKGJ2Rp6sGc4b) | 5:31 |
 | 33 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
 | 34 | [SPACE INVADER \- SBTRKT Remix](https://open.spotify.com/track/28eJ1NhTVJPg0D38kpxtMd) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [SPACE INVADER \(SBTRKT Remix\)](https://open.spotify.com/album/0TGnPOeWwkmufODbRTarro) | 3:20 |
 | 35 | [We Need To Do Something About That Horse](https://open.spotify.com/track/0R7RCkr8V5XjMyYXJDz7jD) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [We Need To Do Something About That Horse](https://open.spotify.com/album/0bnPMv0O579GNX4yD6rqxS) | 3:56 |

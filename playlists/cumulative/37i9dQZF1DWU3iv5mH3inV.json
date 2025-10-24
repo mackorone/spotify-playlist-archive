@@ -301,6 +301,36 @@
     },
     {
       "album": {
+        "name": "A Girl",
+        "url": "https://open.spotify.com/album/3luL7cwDMGiPkc3FtTcwTy"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        },
+        {
+          "name": "Reissel",
+          "url": "https://open.spotify.com/artist/5PBjt4OmB9jEdcuTIUu6Go"
+        },
+        {
+          "name": "Breyco En Producidera",
+          "url": "https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp"
+        },
+        {
+          "name": "Dale Saoco Ponko",
+          "url": "https://open.spotify.com/artist/4doDlcVjfPxTKaNOVfcyeo"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168426,
+      "name": "A Girl",
+      "url": "https://open.spotify.com/track/2WRDMcbQ6RNcNh1OadQ5Q2"
+    },
+    {
+      "album": {
         "name": "A Terror",
         "url": "https://open.spotify.com/album/0etm14sbRaMZ86qD9KNiAD"
       },
@@ -988,6 +1018,32 @@
       "duration_ms": 144000,
       "name": "Atencion - Remix",
       "url": "https://open.spotify.com/track/46VWSg0ZyMgrHNdCsGOECx"
+    },
+    {
+      "album": {
+        "name": "AUDI",
+        "url": "https://open.spotify.com/album/5eqqiWRn7PWdM02BBbVqNM"
+      },
+      "artists": [
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        },
+        {
+          "name": "Orco",
+          "url": "https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7"
+        },
+        {
+          "name": "Avie",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126553,
+      "name": "AUDI",
+      "url": "https://open.spotify.com/track/2z4aCFqMlVPR4mFRLBYQsI"
     },
     {
       "album": {
@@ -2406,6 +2462,24 @@
       "duration_ms": 113789,
       "name": "Cadenita",
       "url": "https://open.spotify.com/track/2EXcYu19tIO30QVD5qNDcD"
+    },
+    {
+      "album": {
+        "name": "Cadereo",
+        "url": "https://open.spotify.com/album/3ZeCzWedwxk09wbotwVw0k"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120014,
+      "name": "Cadereo",
+      "url": "https://open.spotify.com/track/3R8VMEspr1YsOuw7qQ5jSj"
     },
     {
       "album": {
@@ -4292,7 +4366,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 137165,
       "name": "Cuando Sea Donde Sea",
       "url": "https://open.spotify.com/track/3j4cyALRCaVstg0jTNr7Dn"
@@ -4374,7 +4448,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 114375,
       "name": "Cuero Fino",
       "url": "https://open.spotify.com/track/45qj8p4QWDRiaiMGW5aZM7"
@@ -5920,7 +5994,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 207652,
       "name": "Doy Cokero - Remix",
       "url": "https://open.spotify.com/track/1uXUmDnKpx9C2AJdYlzPMp"
@@ -6004,7 +6078,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 90984,
       "name": "E Del Loco",
       "url": "https://open.spotify.com/track/35pkZW0Mx4Ttapt6Oo5jeO"
@@ -6260,7 +6334,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 141238,
       "name": "El Cuc0.0",
       "url": "https://open.spotify.com/track/3yBx8j3hVNawnmlrBf3EHR"
@@ -10576,6 +10650,32 @@
     {
       "album": {
         "name": "La Popola",
+        "url": "https://open.spotify.com/album/1CFuiDAUxF4BQdh2cki3mt"
+      },
+      "artists": [
+        {
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+        },
+        {
+          "name": "La Makulada",
+          "url": "https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI"
+        },
+        {
+          "name": "El Sie7e",
+          "url": "https://open.spotify.com/artist/589jbVYNbLSQNTdIsDvn32"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121492,
+      "name": "La Popola",
+      "url": "https://open.spotify.com/track/1lLnKT5A4qRzLxaMymHg78"
+    },
+    {
+      "album": {
+        "name": "La Popola",
         "url": "https://open.spotify.com/album/0IIu6hX9lJSWgCXg8eRKEj"
       },
       "artists": [
@@ -12506,6 +12606,28 @@
       "duration_ms": 209470,
       "name": "Matadora",
       "url": "https://open.spotify.com/track/0invq6hmeodEYK3pJbi1au"
+    },
+    {
+      "album": {
+        "name": "Max Que Chula",
+        "url": "https://open.spotify.com/album/7JavNAoVn91kzy659Xg9ie"
+      },
+      "artists": [
+        {
+          "name": "El Mello 06",
+          "url": "https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo"
+        },
+        {
+          "name": "Felpa Divo",
+          "url": "https://open.spotify.com/artist/2KkZWjSpAlNqADOVzrhgxh"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Max Que Chula",
+      "url": "https://open.spotify.com/track/1Yw8Rho5whpx8IpSq4MRPZ"
     },
     {
       "album": {
@@ -15412,7 +15534,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 116564,
       "name": "Pa Que La Coja",
       "url": "https://open.spotify.com/track/5QaQgKPU2WBv1E8ssQuVla"
@@ -15972,7 +16094,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 145188,
       "name": "Peine Banana",
       "url": "https://open.spotify.com/track/0yLgMEw2W0lFIJfXwEiNmi"
@@ -16074,7 +16196,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 132262,
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/4tybOoeNoDQOaVN27M9aFF"
@@ -17464,7 +17586,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 114347,
       "name": "Prendelo",
       "url": "https://open.spotify.com/track/0H3Qer1LMzdXok2lOuWLAN"
@@ -18806,7 +18928,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 112021,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/4BQM29oXbNtGDnhAxqOYxl"
@@ -19364,7 +19486,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 123144,
       "name": "Rompeme",
       "url": "https://open.spotify.com/track/6LQZWxtwUQAglSIVYNhNJR"
@@ -20218,7 +20340,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 129692,
       "name": "Si Me Lo Topo - Remix",
       "url": "https://open.spotify.com/track/3wat209Iqe56xRRMC2reZm"
@@ -20640,7 +20762,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 117230,
       "name": "Somos De Aqui Mismo",
       "url": "https://open.spotify.com/track/0oJfuTagpeKomBeE8CSYCk"
@@ -22401,6 +22523,44 @@
     },
     {
       "album": {
+        "name": "Te Van A Velar",
+        "url": "https://open.spotify.com/album/1yQSsYdGp2Y7kLUPCvQGKO"
+      },
+      "artists": [
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        },
+        {
+          "name": "Ronny Rich",
+          "url": "https://open.spotify.com/artist/3IkasrMmEOKHK7OKDsaesB"
+        },
+        {
+          "name": "El Gordo Rap",
+          "url": "https://open.spotify.com/artist/0JJ7NSZ2ogCog6YfCnRaTB"
+        },
+        {
+          "name": "Puty Euro",
+          "url": "https://open.spotify.com/artist/30prj8jwCAbbDOOpPH5EJw"
+        },
+        {
+          "name": "Even Mz",
+          "url": "https://open.spotify.com/artist/7d8IdWeDfHBDrMdDwwXQ4o"
+        },
+        {
+          "name": "Indol Produce",
+          "url": "https://open.spotify.com/artist/5wxZDZdblU7vEzkd8ToABL"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142735,
+      "name": "Te Van A Velar",
+      "url": "https://open.spotify.com/track/52Qkp3fUKyPsDXkEGgsn5K"
+    },
+    {
+      "album": {
         "name": "Te Vi Y Te Vere",
         "url": "https://open.spotify.com/album/0OQc8Rde29vQ1FKbAlAclS"
       },
@@ -23664,7 +23824,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 151968,
       "name": "Traicionero",
       "url": "https://open.spotify.com/track/6UmE7SpjERJ49P3ZXsQrxa"
@@ -23690,7 +23850,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 119062,
       "name": "Traime La Mujere",
       "url": "https://open.spotify.com/track/37vzbWoB8GS6goZDgdu1Wt"
@@ -26112,7 +26272,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 97850,
       "name": "YO LO GASTO",
       "url": "https://open.spotify.com/track/4DxpLmN0WgO95N82YFtzbP"

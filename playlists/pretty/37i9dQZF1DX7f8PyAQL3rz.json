@@ -1,6 +1,6 @@
 {
   "description": "le\u00e3o ferido ainda \u00e9 le\u00e3o",
-  "num_followers": 1419779,
+  "num_followers": 1419831,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,26 @@
     {
       "added_at": "2025-10-17 03:01:37",
       "album": {
+        "name": "Serena & Venus (Lado A)",
+        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "duration_ms": 237726,
+      "name": "Serena & Venus",
+      "url": "https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH"
+    },
+    {
+      "added_at": "2025-10-17 03:01:37",
+      "album": {
         "name": "Marmita de Blogueira",
         "url": "https://open.spotify.com/album/4U6TbTVXKGwF7OAmZPNczl"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 131520,
       "name": "Marmita de Blogueira",
       "url": "https://open.spotify.com/track/6TFne3kuZiI7kfSVCx1OFg"
-    },
-    {
-      "added_at": "2025-10-17 03:01:37",
-      "album": {
-        "name": "Serena & Venus (Lado A)",
-        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
-        }
-      ],
-      "duration_ms": 237726,
-      "name": "Serena & Venus",
-      "url": "https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH"
     },
     {
       "added_at": "2025-10-17 03:01:37",
@@ -911,30 +911,6 @@
     {
       "added_at": "2025-10-17 03:01:37",
       "album": {
-        "name": "Sentido \u00e0 Zona Leste",
-        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 123508,
-      "name": "Sentido \u00e0 Zona Leste",
-      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2025-10-17 03:01:37",
-      "album": {
         "name": "Quase Pronta Mixtape",
         "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 168750,
       "name": "Sexo Hot",
       "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
+    },
+    {
+      "added_at": "2025-10-17 03:01:37",
+      "album": {
+        "name": "Sentido \u00e0 Zona Leste",
+        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 123508,
+      "name": "Sentido \u00e0 Zona Leste",
+      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
     },
     {
       "added_at": "2025-10-17 03:01:37",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-10-17 03:01:37",
       "album": {
-        "name": "RISCA DA LISTA",
-        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Kohuru",
-          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
-        }
-      ],
-      "duration_ms": 146634,
-      "name": "RISCA DA LISTA",
-      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
-    },
-    {
-      "added_at": "2025-10-17 03:01:37",
-      "album": {
         "name": "gelo no stanley",
         "url": "https://open.spotify.com/album/1GFDa6HJINq4vyNWfU6ws3"
       },
@@ -1255,22 +1235,22 @@
     {
       "added_at": "2025-10-17 03:01:37",
       "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
+        "name": "RISCA DA LISTA",
+        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
       },
       "artists": [
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
         },
         {
-          "name": "Dj Herculano",
-          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
+          "name": "Kohuru",
+          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
         }
       ],
-      "duration_ms": 257142,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
+      "duration_ms": 146634,
+      "name": "RISCA DA LISTA",
+      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
     },
     {
       "added_at": "2025-10-17 03:01:37",
@@ -1307,6 +1287,26 @@
       "duration_ms": 190588,
       "name": "EDWARD",
       "url": "https://open.spotify.com/track/4rR3Z2yrPPTT9JupJ25KWa"
+    },
+    {
+      "added_at": "2025-10-17 03:01:37",
+      "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Dj Herculano",
+          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
     },
     {
       "added_at": "2025-10-17 03:01:37",

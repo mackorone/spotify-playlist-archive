@@ -2371,6 +2371,28 @@
     },
     {
       "album": {
+        "name": "Wanderers",
+        "url": "https://open.spotify.com/album/77CsoFgj7Zu0bPwiKKv3pa"
+      },
+      "artists": [
+        {
+          "name": "The G",
+          "url": "https://open.spotify.com/artist/6efaB8Z4oqKHAdrdf578jJ"
+        },
+        {
+          "name": "Mint Simon",
+          "url": "https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/4ijGuPxgAcNw4CpDG9eCRv"
+    },
+    {
+      "album": {
         "name": "Azur",
         "url": "https://open.spotify.com/album/6wXbMbcikBFjJUQbNRPwKt"
       },
@@ -3960,7 +3982,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 252000,
       "name": "Can't Go Back",
       "url": "https://open.spotify.com/track/1Qa7UpG3l3RyYIUhgcopQW"
@@ -5678,7 +5700,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 222315,
       "name": "Dangerous (feat. PRIZM)",
       "url": "https://open.spotify.com/track/5yA7lbHGaER16zBVxyD5ET"
@@ -8310,7 +8332,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 256874,
       "name": "Explorers",
       "url": "https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac"
@@ -8874,7 +8896,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 339400,
       "name": "Fatal Obsession (feat. Jupiter Winter)",
       "url": "https://open.spotify.com/track/3GLhmBjqctLj3rP6g8KAvo"
@@ -9088,7 +9110,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 208026,
       "name": "Figuratives",
       "url": "https://open.spotify.com/track/5wJInZJJbCNBFf6u5SoQ7U"
@@ -10786,7 +10808,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 236103,
       "name": "Hazy",
       "url": "https://open.spotify.com/track/6pW3oStHbBcwhJYGJfnooT"
@@ -10912,7 +10934,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 286066,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5sYB6KH9SP2sjAs4skcFhJ"
@@ -13066,7 +13088,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 201351,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/1oqeNtrCSLxYYxe2F6qIrF"
@@ -15182,7 +15204,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 277335,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/6BHWr5TZ3YV1xczv3n5OZj"
@@ -21868,7 +21890,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 307083,
       "name": "Runaways (feat. Bonnie McKee)",
       "url": "https://open.spotify.com/track/1oOo2Kd2mwDomHbtbReSO8"
@@ -25050,7 +25072,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 202129,
       "name": "Summer Eyes",
       "url": "https://open.spotify.com/track/1l9GWlY0FPr5Z7xRNoyNcV"
@@ -26910,7 +26932,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 264410,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/5TxotO7jpRFwG1dR1suT7G"
@@ -30142,7 +30164,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 274905,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2OVUeLRtxnuyl8whgj840X"

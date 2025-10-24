@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Juicy Luicy",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Aziz Hedra, Julia Wu",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Artificial Grass",
+        "url": "https://open.spotify.com/album/6zrKX85vdTchx5H2oSMDhU"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Artificial Grass",
+      "url": "https://open.spotify.com/track/3J5r1YebSC4fW4R14Zgf72"
+    },
+    {
+      "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7"
       },
@@ -726,6 +744,24 @@
       "duration_ms": 228750,
       "name": "Bagaimana Kalau Aku Tidak Baik Baik Saja - 2025 Version",
       "url": "https://open.spotify.com/track/1XasiJNvU7btWjp5q7sPiL"
+    },
+    {
+      "album": {
+        "name": "Bahagia Lagi",
+        "url": "https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX"
+      },
+      "artists": [
+        {
+          "name": "Piche Kota",
+          "url": "https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227415,
+      "name": "Bahagia Lagi",
+      "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
     },
     {
       "album": {
@@ -2466,6 +2502,28 @@
       "duration_ms": 236489,
       "name": "everything u are",
       "url": "https://open.spotify.com/track/5WOSNVChcadlsCRiqXE45K"
+    },
+    {
+      "album": {
+        "name": "Fall Into You",
+        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168658,
+      "name": "Fall Into You",
+      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
     },
     {
       "album": {
@@ -4363,6 +4421,28 @@
     },
     {
       "album": {
+        "name": "Kumbang Bunga",
+        "url": "https://open.spotify.com/album/00eF8Qvm43RcHxWPYUEhp8"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        },
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209291,
+      "name": "Kumbang Bunga",
+      "url": "https://open.spotify.com/track/4SSlJ2gg67bxk2WzWosu3G"
+    },
+    {
+      "album": {
         "name": "Kumpul Bocah (Original Soundtrack From \u201cJUMBO\")",
         "url": "https://open.spotify.com/album/23qxIsMBrP5jSrF66At2dt"
       },
@@ -5460,6 +5540,32 @@
       "duration_ms": 228125,
       "name": "Mengenal Lebih Jauh",
       "url": "https://open.spotify.com/track/3SnTh7hIYJzB4J6zyJ17OA"
+    },
+    {
+      "album": {
+        "name": "Menjadi Dewasa",
+        "url": "https://open.spotify.com/album/1U1XHck0TGcN7cpPnlzOUd"
+      },
+      "artists": [
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        },
+        {
+          "name": "Rendy Pandugo",
+          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
+        },
+        {
+          "name": "NAKI",
+          "url": "https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255392,
+      "name": "Menjadi Dewasa",
+      "url": "https://open.spotify.com/track/4nhzCMML73Im5AAhWzAviK"
     },
     {
       "album": {
@@ -9078,7 +9184,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 233004,
       "name": "Terima Kasih",
       "url": "https://open.spotify.com/track/6VvqrT2ptFQjM5aMWAcxSH"

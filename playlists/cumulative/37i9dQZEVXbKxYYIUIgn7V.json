@@ -1611,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/2kAvTA4eyLVM8e3w38GPqd"
+      },
+      "artists": [
+        {
+          "name": "Anne West",
+          "url": "https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/5GCadjq15wCiYe5l8CAUfL"
+    },
+    {
+      "album": {
         "name": "Adrenalin (Remix)",
         "url": "https://open.spotify.com/album/6tG3ONEybJZq1oosRdHmcm"
       },
@@ -1888,6 +1906,24 @@
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "album": {
+        "name": "My Day In Abades",
+        "url": "https://open.spotify.com/album/1jfkj0z77MmGdnG8VNOxbx"
+      },
+      "artists": [
+        {
+          "name": "We're All F*cked",
+          "url": "https://open.spotify.com/artist/13A2rC7R5jSqmrxBnoW3YI"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154959,
+      "name": "Aliento De La Marea",
+      "url": "https://open.spotify.com/track/6VsIeu08Yf8N14FgINNU2r"
     },
     {
       "album": {
@@ -13254,10 +13290,28 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 93317,
       "name": "Everything is romantic",
       "url": "https://open.spotify.com/track/2cpzjmzazkHdY4a5Nb8pLR"
+    },
+    {
+      "album": {
+        "name": "Everything is romantic (fall in love again and again)",
+        "url": "https://open.spotify.com/album/5i2JGfpM2JemC4jVE5hG3N"
+      },
+      "artists": [
+        {
+          "name": "aurelia",
+          "url": "https://open.spotify.com/artist/31Z6pYHEGH6ceO0kxLqG5t"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93288,
+      "name": "Everything is romantic (fall in love again and again)",
+      "url": "https://open.spotify.com/track/0OYNpQ7xiLyZkksalUuko1"
     },
     {
       "album": {
@@ -31386,7 +31440,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 192619,
       "name": "Odd One Out",
       "url": "https://open.spotify.com/track/1CdKu2peFHHBySydV8ZTue"
@@ -31686,7 +31740,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -33664,7 +33718,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 186084,
       "name": "Predador de Perereca",
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
@@ -43468,7 +43522,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 430800,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
@@ -45986,6 +46040,24 @@
     {
       "album": {
         "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/3MdbUcUHAivqEshhSXAcAs"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171167,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/2aLkTZI6OeNOPASp7rZO7k"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
         "url": "https://open.spotify.com/album/1TixQRG8d8TbqUmq7vArHK"
       },
       "artists": [
@@ -48020,7 +48092,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 202021,
       "name": "Zweifelturm",
       "url": "https://open.spotify.com/track/14hirAgOOQ819lWbBtZOwi"

@@ -8449,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/42uTSaGDVKFovDuCGWRQtB"
+      },
+      "artists": [
+        {
+          "name": "PARK RD",
+          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242727,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/00wwC5APlsYUz47ci2rD4o"
+    },
+    {
+      "album": {
         "name": "The Way It Goes",
         "url": "https://open.spotify.com/album/48bPxZj78IQWlsu2ynIhWg"
       },

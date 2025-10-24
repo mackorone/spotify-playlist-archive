@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Solann et Yoa",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Benjamin Biolay",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 142691,
       "name": "J'ai grandi",
       "url": "https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 188760,
       "name": "LILA",
       "url": "https://open.spotify.com/track/5icFlrdlmnMbnvQu5HotQ3"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 175448,
       "name": "pas assez de toi",
       "url": "https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms"
@@ -3785,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "Si t'\u00e9tais l\u00e0",
+        "url": "https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf"
+    },
+    {
+      "album": {
         "name": "Les histoires tristes me collent au corps",
         "url": "https://open.spotify.com/album/3KikqyS2U3WnDrVHTVemWe"
       },
@@ -3987,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Tout fait pour",
+        "url": "https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx"
+      },
+      "artists": [
+        {
+          "name": "Marie-Flore",
+          "url": "https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Tout fait pour",
+      "url": "https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj"
+    },
+    {
+      "album": {
         "name": "Tout sera pardonn\u00e9",
         "url": "https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg"
       },
@@ -4002,6 +4038,24 @@
       "duration_ms": 252413,
       "name": "Tout sera pardonn\u00e9",
       "url": "https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ"
     },
     {
       "album": {

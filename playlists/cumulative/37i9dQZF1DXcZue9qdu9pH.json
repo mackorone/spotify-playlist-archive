@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "BETTERTHAN",
+        "url": "https://open.spotify.com/album/0brOHImSzfnvoVssrwRRHn"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "BETTERTHAN",
+      "url": "https://open.spotify.com/track/4sFYd4TZT4LRy0d569wkch"
+    },
+    {
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
       },
@@ -344,6 +362,28 @@
       "duration_ms": 185739,
       "name": "can't stand it",
       "url": "https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r"
+    },
+    {
+      "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb"
     },
     {
       "album": {
@@ -500,7 +540,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 180007,
       "name": "Diani",
       "url": "https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd"
@@ -2720,7 +2760,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 164293,
       "name": "We're Changing",
       "url": "https://open.spotify.com/track/6wrzXoMKu9bZ5cbUXVckqH"

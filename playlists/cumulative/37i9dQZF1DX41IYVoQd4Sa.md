@@ -2,15 +2,15 @@
 
 ### [האלטרנטיב של ישראל](https://open.spotify.com/playlist/37i9dQZF1DX41IYVoQd4Sa)
 
-> מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
+> מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : IDIOT!
 
-315 songs - 18 hr 31 min
+317 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [160](https://open.spotify.com/track/1GKT0DSkBm7h6Q7sohvsKx) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [160](https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL) | 3:25 | 2025-03-06 | 2025-03-27 |
 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 | 2025-04-10 |  |
-| [360](https://open.spotify.com/track/4CFNVoLBv6DNQO0IOox6u7) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/4Spchm6vre9ivSTtnS4eZB) | 3:04 | 2025-09-11 |  |
+| [360](https://open.spotify.com/track/4CFNVoLBv6DNQO0IOox6u7) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/4Spchm6vre9ivSTtnS4eZB) | 3:04 | 2025-09-11 | 2025-10-24 |
 | [5/4](https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z) | [Sheygets](https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8) | [עוד משקאות חריפים](https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK) | 3:45 | 2024-07-12 | 2024-09-13 |
 | [50](https://open.spotify.com/track/27v4cb03PUqsG9w0KNAiPd) | [Peter Roth](https://open.spotify.com/artist/5lLE5NXuUO1dpOIEKMwA5d) | [50](https://open.spotify.com/album/0GTWdKSin55AtpzJVHQUMq) | 3:06 | 2025-09-11 | 2025-09-26 |
 | [A Better Man](https://open.spotify.com/track/3ioH5vhka49gZPgq1jlBJr) | [Ofir Lessel](https://open.spotify.com/artist/7fxgWT81yP2N3u9lGNY5VR) | [A Better Man](https://open.spotify.com/album/2wWFjG5njtoWHIZvN3PVl2) | 4:49 | 2025-03-20 | 2025-04-11 |
@@ -83,7 +83,7 @@
 | [On My Own](https://open.spotify.com/track/3NKuAFk0QycmqD1Ontsg1z) | [Allan Tune](https://open.spotify.com/artist/0XCcXANyEqw44WsvKKuqQc) | [On My Own](https://open.spotify.com/album/31qeq5W8Lq6H07GV0yJj6l) | 2:00 | 2025-02-06 | 2025-02-21 |
 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 | 2024-11-14 | 2025-08-29 |
 | [Out of Reach](https://open.spotify.com/track/7hOQIADSK0zU0FEuZJUoi7) | [Ziv Moran](https://open.spotify.com/artist/2rbMHBakqM1TudxGhkyv9q), [Alma Zohar](https://open.spotify.com/artist/61Sbigb2Faz8K27wBoOBo9) | [Out of Reach](https://open.spotify.com/album/0BSoCHrlcG0P6n9tRHOFdz) | 3:20 | 2024-10-17 | 2024-11-29 |
-| [Party](https://open.spotify.com/track/2V0D9VEUCZjGu4vsrSJUnJ) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [ZION](https://open.spotify.com/album/38Z5tXyDoEyv6OGMlQhwjX) | 3:55 | 2025-09-04 |  |
+| [Party](https://open.spotify.com/track/2V0D9VEUCZjGu4vsrSJUnJ) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [ZION](https://open.spotify.com/album/38Z5tXyDoEyv6OGMlQhwjX) | 3:55 | 2025-09-04 | 2025-10-24 |
 | [Pay For Me \(שלם עליי\)](https://open.spotify.com/track/5oBfXbiGMO4YN2vahPCm2Q) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [Pay For Me \(שלם עליי\)](https://open.spotify.com/album/0dlqp2x3x8Y2UoqLJ8Pka9) | 3:24 | 2025-01-30 | 2025-02-07 |
 | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc) | 2:59 | 2024-06-27 | 2024-09-20 |
 | [PENNY LAME](https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [PENNY LAME](https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5) | 3:00 | 2025-09-18 |  |
@@ -200,7 +200,9 @@
 | [חלק לא נפרד מאחרים](https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN) | [Ivri Lider](https://open.spotify.com/artist/1L8QE7iUTf9330wcKxnieK), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [חלק לא נפרד מאחרים](https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL) | 3:28 | 2024-12-19 |  |
 | [חתול ועכבר](https://open.spotify.com/track/70zpgj4c2NFnHlQ3GRwmMD) | [קיקי מלינקי](https://open.spotify.com/artist/3IC3e7Xim7DpP5jBbzqdmo) | [חתול ועכבר](https://open.spotify.com/album/4f8rjwbhxLzdOnsUrNlVTV) | 3:53 | 2025-04-10 | 2025-05-09 |
 | [טפו טפו](https://open.spotify.com/track/379bhCgYGmQm7OhIGfRsb5) | [Ofiri](https://open.spotify.com/artist/4d0qotNvTkO3McH3WWpUg6), [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [מושלמדי](https://open.spotify.com/album/0cqZpntWMsPS3q4E40a6lk) | 2:22 | 2025-01-09 | 2025-01-24 |
+| [יהלום שחור](https://open.spotify.com/track/4mh3gz698j7UB2VBiSaDba) | [Ilai Ashdot](https://open.spotify.com/artist/17hPAjtRLK0X3JHXFnd5Sy) | [יהלום שחור](https://open.spotify.com/album/0cBpAxJKNhIUTSrVvV6SkW) | 2:58 | 2025-10-23 |  |
 | [יומה](https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS) | [Tohar Gadasi](https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa) | [יומה](https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC) | 2:25 | 2025-01-30 | 2025-05-14 |
+| [יונתן \(במקום הזה\)](https://open.spotify.com/track/3O3oZsTb905EMoryJyybhF) | [Koevary](https://open.spotify.com/artist/514hNDaF4aEem1kTBmnobn) | [יונתן \(במקום הזה\)](https://open.spotify.com/album/046oLUb3Qn74GvC7Vm3dmb) | 3:22 | 2025-10-23 |  |
 | [יותר לאט](https://open.spotify.com/track/32C8LMu8odyguxCRshtqwg) | [Dana Ivgy](https://open.spotify.com/artist/2S7fupwn9aMPnUYeufmRPd) | [יותר לאט](https://open.spotify.com/album/0B68jA6HhQbwVR6MibZmd0) | 2:56 | 2025-09-18 |  |
 | [ילדה](https://open.spotify.com/track/6EP4IVc2g2SW1ypyvkkgg6) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe) | [האמנה החברתית](https://open.spotify.com/album/5QeQGrTNQwH1hToFmA4M7Q) | 3:05 | 2025-04-10 |  |
 | [ילדות נשכחת](https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [ילדות נשכחת](https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK) | 3:23 | 2024-08-01 | 2024-09-09 |

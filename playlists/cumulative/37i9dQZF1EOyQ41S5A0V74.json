@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Vinyl Biography",
+        "url": "https://open.spotify.com/album/534jgfpUs7wrgSwYwZyBnC"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Biography",
+          "url": "https://open.spotify.com/show/534jgfpUs7wrgSwYwZyBnC"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3941328,
+      "name": "Ben Wysocki of The Fray",
+      "url": "https://open.spotify.com/episode/0MfQm1ubaSyVQ7qNJ1nj9R"
+    },
+    {
+      "album": {
         "name": "21 Days with mxmtoon",
         "url": "https://open.spotify.com/album/7k2gNSLZnopnh6pcvkQACK"
       },
@@ -110,24 +128,6 @@
       "duration_ms": 2012186,
       "name": "Episode 063 - The Fray",
       "url": "https://open.spotify.com/episode/5fPlNJ255AqdYqofn2qZBm"
-    },
-    {
-      "album": {
-        "name": "Vinyl Biography",
-        "url": "https://open.spotify.com/album/534jgfpUs7wrgSwYwZyBnC"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Biography",
-          "url": "https://open.spotify.com/show/534jgfpUs7wrgSwYwZyBnC"
-        }
-      ],
-      "date_added": "2020-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 3941328,
-      "name": "Episode 5: Ben Wysocki of The Fray",
-      "url": "https://open.spotify.com/episode/0MfQm1ubaSyVQ7qNJ1nj9R"
     },
     {
       "album": {

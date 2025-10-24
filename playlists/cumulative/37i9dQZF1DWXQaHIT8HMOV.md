@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
+> Homegrown Ugandan gems in one playlist\. Cover: Pallaso
 
-486 songs - 1 day 0 hr 52 min
+491 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Camille](https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Camille](https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo) | 2:38 | 2022-05-12 | 2022-09-10 |
 | [Can't Let Go](https://open.spotify.com/track/649lRLV5y06Z04kiudT1Eb) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Papa cyangwe](https://open.spotify.com/artist/5gw4Q3SlH6GBv3e3yaEwjn) | [Can't Let Go](https://open.spotify.com/album/0rIsYwm15sIqkiTitNDK8R) | 2:52 | 2022-07-29 | 2023-02-12 |
 | [Captain](https://open.spotify.com/track/4t0AscNyN1Bb2o1IRrN1YF) | [Kivumbi King](https://open.spotify.com/artist/3HUSbkQozU4gXUD82jAbRv), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Captain](https://open.spotify.com/album/7q5fBbqtu0Ypcb3mCvlKjE) | 2:12 | 2023-08-11 | 2024-05-17 |
+| [Cashmere](https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [Cashmere](https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn) | 3:07 | 2025-10-23 |  |
 | [Chai Mata](https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Chai Mata](https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw) | 2:55 | 2022-08-05 | 2024-02-03 |
 | [Chai We Njaye](https://open.spotify.com/track/2eugayDg4riGTlUp2yx6Sa) | [Omutume Planet](https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp) | [Chai We Njaye](https://open.spotify.com/album/4qLSlCEFhQhZnAVXRDPMgS) | 2:44 | 2023-03-20 | 2023-04-15 |
 | [Chai We Njaye](https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m) | [OMUTUME PLANET](https://open.spotify.com/artist/7bnCd7NLxA2hjoZZiaj8Ic) | [Chai We Njaye](https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc) | 2:45 | 2023-04-27 | 2024-02-03 |
@@ -167,6 +168,7 @@
 | [Geza Bugeza](https://open.spotify.com/track/5fZzENyrqSsaxlUdMEjYpH) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Chronicles Of A Woman](https://open.spotify.com/album/3aZbRfKKvhnPtuYgaEdxSD) | 2:20 | 2023-01-12 | 2023-01-21 |
 | [GHOST TOWN ROAD](https://open.spotify.com/track/3ZKjSQSC5EYcqebSM44Nwy) | [Bowman Aremwaki](https://open.spotify.com/artist/2YoIFtQ3oep6z6p5z7j1Dh) | [GHOST TOWN ROAD](https://open.spotify.com/album/0QRgoCNVjFYzK4ZBhBbdYA) | 4:08 | 2025-04-24 | 2025-06-21 |
 | [Gimme](https://open.spotify.com/track/0nEAcURklA0PX2hqmzyDlf) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:13 | 2024-03-15 | 2024-04-06 |
+| [Give Me \(Story Book Riddim\)](https://open.spotify.com/track/1eNE8To9RboIMrdOObfPJd) | [Nutty Neithan](https://open.spotify.com/artist/2OvQ8hSCoty5MBYDt1kvKw) | [Give Me \(Story Book Riddim\)](https://open.spotify.com/album/0GkSjE0nF9GfromUhQ2Be3) | 2:18 | 2025-10-23 |  |
 | [Glory To The King](https://open.spotify.com/track/5hjIkgoGSlKlip1L0t3FyL) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Glory To The King](https://open.spotify.com/album/0mY2R7zCQYE4pzgymyWuJ2) | 2:30 | 2023-03-03 | 2023-04-05 |
 | [Good Idea](https://open.spotify.com/track/6MHDsDMdC4l2DZ9fUdmk6L) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [Good Idea](https://open.spotify.com/album/6H1rdKxDBAVCEq3fpRGLI2) | 3:00 | 2025-05-22 |  |
 | [Goodbye](https://open.spotify.com/track/77ecdnlCJILdoNzRUZiH5T) | [ALLAN TONIKS](https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Goodbye](https://open.spotify.com/album/6QOMmikqhoWYgeo3nxT2XD) | 3:24 | 2024-07-18 | 2024-12-06 |
@@ -303,6 +305,7 @@
 | [Nguwayo](https://open.spotify.com/track/1oWaNysQNktTIh7Ro0My1E) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Nguwayo](https://open.spotify.com/album/6sea4jShgdOs8oNE4aAl1t) | 3:01 | 2022-05-12 | 2022-08-20 |
 | [Nikushike](https://open.spotify.com/track/0VF8j5uoRE5l929BeZkhJB) | [Kamalaika](https://open.spotify.com/artist/7dRpsd01zNedZeSEZWkpIu) | [Nikushike](https://open.spotify.com/album/00P9EnFEe19TeSyjhVe9kP) | 3:33 | 2023-10-20 | 2024-02-03 |
 | [Nina Anjagala](https://open.spotify.com/track/4dk1WxucD7abERh4ocTJCL) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6) | [Nina Anjagala](https://open.spotify.com/album/3xK0euMYLHUXcY4kH5f8kH) | 2:52 | 2025-10-09 |  |
+| [Njagala Mukwano](https://open.spotify.com/track/6PzFNEhqh5s5osIbIgseE5) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Njagala Mukwano](https://open.spotify.com/album/1iD6TzKVWgf7sgChI5777R) | 2:58 | 2025-10-23 |  |
 | [Njagala Vibe](https://open.spotify.com/track/04k1NR5oYy8bZzwTnlah1r) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 3:02 | 2024-03-15 | 2024-04-06 |
 | [Nkisusamu](https://open.spotify.com/track/3QUyCTyxXSB4egQhLa45gZ) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Nkisusamu](https://open.spotify.com/album/3TsSnRHtcCmg5MJa56HV0t) | 2:58 | 2025-10-02 |  |
 | [Nkuchekele](https://open.spotify.com/track/5hL3C8ThGlO0uqcXmpM8EH) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:03 | 2024-03-15 | 2024-04-06 |
@@ -328,6 +331,7 @@
 | [Nyambula](https://open.spotify.com/track/29p4uMNu5rFqqR3eXgQnfy) | [Pawa Ug](https://open.spotify.com/artist/6uSS4pQJnHudxFeBVDG3l8), [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Nyambula](https://open.spotify.com/album/2XSkPLzMZnaJQUilLf2THo) | 2:44 | 2024-06-21 | 2025-02-08 |
 | [Nyanya Mbisi](https://open.spotify.com/track/4TaavhhwL9c4bcWtD3I96I) | [That Malcolm Guy](https://open.spotify.com/artist/2oNtuWZXcMdCspkoQr97SI) | [Nyanya Mbisi](https://open.spotify.com/album/0ZQb5hEq1KKcyoBthJM3kZ) | 2:30 | 2022-09-30 | 2022-10-07 |
 | [Nyoko \(Remastered\)](https://open.spotify.com/track/6776viloLrnBTXcAEYsaQ1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Let's Music Vol 2](https://open.spotify.com/album/2ZaMITZXW1qt20EnWbIMuf) | 3:13 | 2024-05-03 | 2024-06-22 |
+| [Nzikiriza](https://open.spotify.com/track/6R97FR5ro7PL8h76QBXjmq) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [Nzikiriza](https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq) | 3:56 | 2025-10-23 |  |
 | [Oasis](https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [OASIS](https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV) | 2:30 | 2023-10-26 | 2024-06-08 |
 | [Obinkola](https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Recho Ray](https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:26 | 2022-10-06 | 2023-03-22 |
 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 | 2024-05-03 | 2024-05-25 |
@@ -366,6 +370,7 @@
 | [Post Yo Babe](https://open.spotify.com/track/5xmzk3PkQOmwbofWFeOMHD) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Post Yo Babe](https://open.spotify.com/album/7fr8AuBM7HdLoXKKjb6b6m) | 3:11 | 2024-09-26 | 2024-10-04 |
 | [Practical](https://open.spotify.com/track/0TiSmHrbTSzMLrMXac4Jt8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [Blessings](https://open.spotify.com/album/4BR9qEpGlHcLOWmWayRCcL) | 3:11 | 2023-08-25 | 2024-08-09 |
 | [Pray](https://open.spotify.com/track/7CGixibOxgHex5Mdof4PLU) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Pray](https://open.spotify.com/album/4c0L47sUxM6nZ4Yv19inhB) | 4:58 | 2024-12-05 | 2025-08-22 |
+| [Pretty Girls](https://open.spotify.com/track/6aO0r4j8XzHVQ2wEAGCO8t) | [B2c](https://open.spotify.com/artist/0w6MT5uoaHy7p8Z0cllzb4), [Dj Harold](https://open.spotify.com/artist/0t94qXQLOExk6iZ3ErjNcw) | [](https://open.spotify.com/album/null) | 2:34 | 2025-10-23 |  |
 | [Pretty Young Thing](https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Pretty Young Thing](https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF) | 3:10 | 2023-03-24 | 2024-01-07 |
 | [Q'lalea](https://open.spotify.com/track/0VLklpLJUem9Vt80EFQi5M) | [Chaka Demus](https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN), [Mucho birbo](https://open.spotify.com/artist/66UHS8qt4af4tBrqjccxYH), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Q'lalea](https://open.spotify.com/album/5FBkaeCPyo9SAKYGTz4NTu) | 3:24 | 2024-02-09 | 2024-05-04 |
 | [Qualified](https://open.spotify.com/track/0fMB8OKeUUvj850w0toQvk) | [X\-Flavour](https://open.spotify.com/artist/4SetbGfynemaeCdN4NK9ac), [John Frog](https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE) | [Qualified](https://open.spotify.com/album/5rvTQdo3oBSYnDxbwkanhk) | 2:02 | 2024-12-05 | 2025-04-18 |

@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "All About Us",
+        "url": "https://open.spotify.com/album/5lbwUSHWsrUmeGwFztkVNp"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "All About Us",
+      "url": "https://open.spotify.com/track/3EwT7uWmy6f5T8LRcQwiRn"
+    },
+    {
+      "album": {
         "name": "Birds, Bees, The Clouds & The Trees",
         "url": "https://open.spotify.com/album/3oeLdlJQDB1ZNaEUvq8scI"
       },
@@ -1414,7 +1436,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 282000,
       "name": "She's Strong",
       "url": "https://open.spotify.com/track/5jK2To0EsnOGhc1Xzo6aev"
@@ -1458,7 +1480,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 282000,
       "name": "She's Strong (feat. Maddee)",
       "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"

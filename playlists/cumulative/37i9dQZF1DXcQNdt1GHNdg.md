@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-288 songs - 13 hr 48 min
+289 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Clockin](https://open.spotify.com/track/41P540FctQvKXvGLMDQTBd) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Clockin](https://open.spotify.com/album/2nsZv6osPR8TeCBYKJDdoH) | 3:00 | 2025-02-03 | 2025-10-17 |
 | [Cloud 9](https://open.spotify.com/track/00XkDGA1r9y738Jn6o1w4D) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [Cloud 9](https://open.spotify.com/album/5eR6sgjE9UCXfWg3Z0odk7) | 2:37 | 2025-02-18 | 2025-03-14 |
 | [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 | 2025-06-03 | 2025-08-14 |
-| [Compro](https://open.spotify.com/track/1AICQ0OXBwtoJZzct1ifPv) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Alfaaz](https://open.spotify.com/artist/1xHIVVHhwnuYe0uCAip33C) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 2:49 | 2025-09-26 |  |
+| [Compro](https://open.spotify.com/track/1AICQ0OXBwtoJZzct1ifPv) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Alfaaz](https://open.spotify.com/artist/1xHIVVHhwnuYe0uCAip33C) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 2:49 | 2025-09-26 | 2025-10-24 |
 | [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 | 2023-07-18 | 2024-08-24 |
 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 | 2025-07-11 |  |
 | [COOLIN](https://open.spotify.com/track/4JtT28isAsPL7sznEbybpO) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [COOLIN](https://open.spotify.com/album/1MBMMMWRVog86eyr248GlH) | 3:00 | 2024-11-06 | 2024-11-27 |
@@ -128,6 +128,7 @@
 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 | 2024-11-11 |  |
 | [Grip](https://open.spotify.com/track/0Q2f1XXXQLB8K1Z6dV3KLa) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [The Lassoi Code](https://open.spotify.com/album/4pY5u16GsIyIpmr1JTPxmL) | 2:15 | 2025-05-24 | 2025-07-10 |
 | [Gunda](https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [604Blizzy](https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:14 | 2025-10-15 |  |
+| [Gunda](https://open.spotify.com/track/39Nhc2gTnfBXjdR2O7EY6J) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Gunda](https://open.spotify.com/album/4pTF5bb7zDttkUtKwkQ3jC) | 2:33 | 2025-10-23 |  |
 | [Gym](https://open.spotify.com/track/0ymXuNYPbXMaL4d6VytNEi) | [Sarba Maan](https://open.spotify.com/artist/1XXOjhwvCOtj5IeYwbOb6J) | [Gym](https://open.spotify.com/album/2d77Q3SZRxyJ8CmXrBzif2) | 3:19 | 2024-10-25 | 2024-11-09 |
 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 | 2025-04-29 | 2025-09-13 |
 | [Hammer](https://open.spotify.com/track/4v5S808Mifk7EP1eFHo0Ht) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/3JKdXVxsmARqASCf84rzsa) | 2:42 | 2025-09-15 | 2025-09-27 |

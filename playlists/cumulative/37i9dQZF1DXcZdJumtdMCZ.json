@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 114666,
       "name": "Dabba",
       "url": "https://open.spotify.com/track/05FOJj4aqZcUgZSOQykMDX"
@@ -2405,6 +2405,32 @@
     },
     {
       "album": {
+        "name": "Kosty",
+        "url": "https://open.spotify.com/album/2FkNKoWdSniSBSOBLJwoHd"
+      },
+      "artists": [
+        {
+          "name": "Ratty Adhiththan",
+          "url": "https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF"
+        },
+        {
+          "name": "King Mohan",
+          "url": "https://open.spotify.com/artist/3kFxhNte8FZFPTRegrk2Tg"
+        },
+        {
+          "name": "Anjali Kanthan",
+          "url": "https://open.spotify.com/artist/1L9EtsOddN8qSLf8suY3rE"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278130,
+      "name": "Kosty",
+      "url": "https://open.spotify.com/track/1GT7xRwjq1rnWJSX1AVgk7"
+    },
+    {
+      "album": {
         "name": "Kudikaran Pechi",
         "url": "https://open.spotify.com/album/2RtIQrxomTxkNGWkaybPZh"
       },
@@ -3710,7 +3736,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 166060,
       "name": "Pear Kettu Paru",
       "url": "https://open.spotify.com/track/45DB56vkOlgovmzfiYTTaG"
@@ -4432,6 +4458,40 @@
       "duration_ms": 134166,
       "name": "Sollisai Kaalam",
       "url": "https://open.spotify.com/track/41KyWqoRsspaiFPbSy8ZnC"
+    },
+    {
+      "album": {
+        "name": "SOUTHSIDE",
+        "url": "https://open.spotify.com/album/0KIEUIE0fGhTOaeIOadVeP"
+      },
+      "artists": [
+        {
+          "name": "LEO XMD",
+          "url": "https://open.spotify.com/artist/4tv4JflXtgC6Zp7697lWAS"
+        },
+        {
+          "name": "kinzxn",
+          "url": "https://open.spotify.com/artist/2Anj6H7nWFBUBIL90RX2t2"
+        },
+        {
+          "name": "Stan & Sam",
+          "url": "https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM"
+        },
+        {
+          "name": "Darloo",
+          "url": "https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7"
+        },
+        {
+          "name": "Two Teens Music",
+          "url": "https://open.spotify.com/artist/269ulyYI7YIaKmDRAHbXnK"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105377,
+      "name": "SOUTHSIDE",
+      "url": "https://open.spotify.com/track/021jE0MCbAcqEZIe40JMeX"
     },
     {
       "album": {

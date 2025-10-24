@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,223 likes - 64 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,350 likes - 64 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 63 | [We're All Miracles 963 Hz](https://open.spotify.com/track/2MtRwOaDYfRHJY9np3t2Wc) | [Tide Machine](https://open.spotify.com/artist/1dwB5V858hnmHhR9tCIor2) | [We're All Miracles 963 Hz](https://open.spotify.com/album/41t5CmcZcW738Ng7euE8sF) | 2:33 |
 | 64 | [Orange Waves 963 hz](https://open.spotify.com/track/7puC3J72XiYjIrlAPsg4YP) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:40 |
 
-Snapshot ID: `AAAAAKg3w6KMoL/Dr94ghXc5FqJNK4Lw`
+Snapshot ID: `AAAAAHWXqDtOdbdRUWLzVegycULqDbyD`

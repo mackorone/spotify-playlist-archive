@@ -4,7 +4,7 @@
 
 > late nights in Marrakech? packing now
 
-110 songs - 7 hr 11 min
+111 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Sippin](https://open.spotify.com/track/22rHMXtwCgg0xvDgvDX6S7) | [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy) | [Sippin](https://open.spotify.com/album/0lVqOdiWpFtXhH7u8aTzyb) | 3:34 | 2025-10-14 |  |
 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 | 2025-07-18 |  |
 | [Soft](https://open.spotify.com/track/4NN84VDgdhviZawxbzZhhM) | [Ewerseen](https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG), [Jaquet](https://open.spotify.com/artist/36lN5NolUGQxNHcICDgOTu) | [Soft](https://open.spotify.com/album/6Qx319Km3bpBiHWuOtLszP) | 3:30 | 2025-07-07 |  |
+| [Special](https://open.spotify.com/track/3P8foaWa703hSuKls9vpMx) | [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Special](https://open.spotify.com/album/0ByeGJA6FaPfbgnpq7mD97) | 2:44 | 2025-10-23 |  |
 | [Stranger](https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Bautiii](https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9) | [Stranger](https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB) | 3:06 | 2025-08-02 |  |
 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \(Radio Edit\)](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 | 2025-06-27 | 2025-08-03 |
 | [Tangerines](https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Tangerines](https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt) | 2:31 | 2025-06-27 | 2025-07-02 |

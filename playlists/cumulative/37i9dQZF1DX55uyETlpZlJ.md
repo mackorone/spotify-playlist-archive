@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-567 songs - 1 day 8 hr 14 min
+568 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Dinavella](https://open.spotify.com/track/3lgQcLrvO2wEk882hNcIeZ) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Dinavella](https://open.spotify.com/album/1ztLQ6dcHw4rH88FDa1SOo) | 3:12 | 2023-11-24 | 2024-04-30 |
 | [Dingar Baby](https://open.spotify.com/track/6ArGFVvFW0XwVY1Mut8vBB) | [Nikhil Bld](https://open.spotify.com/artist/4sFuFMCA0jKBbnFYhIjwj0) | [Dingar Baby](https://open.spotify.com/album/5i41nXyuPD6MqHHhCXeUNi) | 4:07 | 2025-05-26 |  |
 | [Don't Care \- Female Version](https://open.spotify.com/track/6zRJJRw3dX9xcXSHBQMeQf) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Don't Care \(Female Version\)](https://open.spotify.com/album/1EWSD1tTU4iixNYQjCEYIc) | 3:24 | 2024-03-08 | 2024-08-03 |
+| [DON'T KNOW](https://open.spotify.com/track/7ibBcvABwZB29w33zQLO5i) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3), [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4) | [TEASER](https://open.spotify.com/album/66JhdhbpW7N08TStp8kMuW) | 2:57 | 2025-10-23 |  |
 | [Don't Worry 2](https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Don't Worry 2](https://open.spotify.com/album/3YKpYn2iDXF3oXNBGNN8DI) | 3:43 | 2023-03-23 | 2024-01-18 |
 | [Doora](https://open.spotify.com/track/3EFguMJWPrCW2tfoVANBj7) | [Pavan Partha](https://open.spotify.com/artist/1x975ksdHtocx05ePZ2Xnt) | [Doora](https://open.spotify.com/album/7zaqlrpl0SJMAV8YIHhkCO) | 3:47 | 2023-03-31 | 2023-12-12 |
 | [Doora Doora](https://open.spotify.com/track/2kHvNJ3FUeOQP2Y6ubdQJD) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [Doora Doora](https://open.spotify.com/album/2Mcdq1eoQpkqx0BKlcHlKr) | 4:43 | 2025-02-06 | 2025-06-21 |
@@ -320,7 +321,7 @@
 | [Melusire \(Remix\)](https://open.spotify.com/track/2JjTtuqudMf9hoVbXsIw5w) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ) | [Melusire \(Remix\)](https://open.spotify.com/album/6J4APiB6I2wow3uGmVqX4j) | 0:47 | 2022-11-28 | 2024-01-30 |
 | [Mi Amor](https://open.spotify.com/track/4257sWSwAnFjI725qd4YT4) | [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Mi Amor](https://open.spotify.com/album/0GmaAGG2IIdoIhdH2rRTfX) | 3:02 | 2024-11-12 | 2025-04-18 |
 | [Modala Anuraagha](https://open.spotify.com/track/3DwxcZtB2OyvWa3GfWuktS) | [Praveen Srinivasmurthy](https://open.spotify.com/artist/0j797yShflaeSHwSXgvudO), [Kashi Mohan](https://open.spotify.com/artist/1augpbLYfLW0D2880tnicq), [Supriya Joshi](https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB) | [Modala Anuraagha](https://open.spotify.com/album/50vHFpFQpuXqgr1gS2Opbk) | 5:14 | 2024-02-14 | 2024-07-30 |
-| [Mokee](https://open.spotify.com/track/5Cyb1AzqZKK8DqcqzgbTCx) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Mokee](https://open.spotify.com/album/2kMIE8OMwDqQJIAmH0GiKD) | 3:32 | 2025-03-19 |  |
+| [Mokee](https://open.spotify.com/track/5Cyb1AzqZKK8DqcqzgbTCx) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Mokee](https://open.spotify.com/album/2kMIE8OMwDqQJIAmH0GiKD) | 3:32 | 2025-03-19 | 2025-10-24 |
 | [Money In The World](https://open.spotify.com/track/3mb6cmdGfriBt5WHamvtdo) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Money In The World](https://open.spotify.com/album/1cGiCtgfbtXuda2WIO41jj) | 1:30 | 2023-07-24 | 2024-02-01 |
 | [Money Minded \(feat\. Dheemusix\)](https://open.spotify.com/track/1hfUSMzucr5vntMJcuUeGm) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Money Minded \(feat\. Dheemusix\)](https://open.spotify.com/album/2Yxm0F6CH1Mcm1Rtra0AU4) | 3:04 | 2023-01-25 | 2023-08-22 |
 | [Mooru Dina Jeevana](https://open.spotify.com/track/72rmsR6tE4OZUKSovywtOs) | [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd), [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp) | [Mooru Dina Jeevana](https://open.spotify.com/album/30csRc2zyilSOWwnUZlZaL) | 3:25 | 2024-01-18 | 2024-06-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3UPs2wwmV4JpxnIz6L847m.md) - [plain]
 
 > rap&\#x2F;hip hop, best to play on shuffle
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 35 likes - 4,780 songs - 11 day 0 hr 9 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 34 likes - 4,780 songs - 11 day 0 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

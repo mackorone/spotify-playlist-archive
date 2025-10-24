@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Autrement\" de Julien Lieb est le Grand Hit de la semaine",
+  "description": "\"L'horizon\" de Pierre Garnier est le Grand Hit de la semaine",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 178293,
       "name": "Amour cyclone",
       "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 180000,
       "name": "Courage - Edit",
       "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "grandir",
+        "url": "https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154866,
+      "name": "la maison",
+      "url": "https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6"
+    },
+    {
+      "album": {
         "name": "la pluie",
         "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
       },
@@ -3147,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Lendemain de f\u00eate",
+        "url": "https://open.spotify.com/album/1BlXnz1DGAT1luAvYhTMtG"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Lendemain de f\u00eate",
+      "url": "https://open.spotify.com/track/5i3e6gjbom2iWqspwmCGbA"
+    },
+    {
+      "album": {
         "name": "Les bonbons",
         "url": "https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI"
       },
@@ -3462,7 +3498,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 189786,
       "name": "M'envoler",
       "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
@@ -4454,6 +4490,24 @@
       "duration_ms": 177049,
       "name": "Respire",
       "url": "https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz"
+    },
+    {
+      "album": {
+        "name": "Restes d'averses (Regretting You Version)",
+        "url": "https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173364,
+      "name": "Restes d'averses - Regretting You Version",
+      "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"
     },
     {
       "album": {

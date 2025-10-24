@@ -1159,7 +1159,7 @@
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192150,
+      "duration_ms": 192017,
       "name": "Between You And Me",
       "url": "https://open.spotify.com/track/4yVNunq9yjeqF7AVfV09Ra"
     },
@@ -11872,7 +11872,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 245200,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/3tRfWnJXA557NsVIz2R2GB"
@@ -12990,6 +12990,28 @@
       "duration_ms": 194611,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/3nVuglijxmqA2eb4iFrprH"
+    },
+    {
+      "album": {
+        "name": "We Made It Look Easy (with Robbie Williams)",
+        "url": "https://open.spotify.com/album/3O62XBQhDZ3prnhNji3id0"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "We Made It Look Easy (with Robbie Williams)",
+      "url": "https://open.spotify.com/track/7Ic1kADy4mqKVDvMWQIXE2"
     },
     {
       "album": {

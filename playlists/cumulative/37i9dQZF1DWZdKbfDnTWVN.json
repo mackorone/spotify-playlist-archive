@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 209454,
       "name": "Chase",
       "url": "https://open.spotify.com/track/0mZBoHCXAX8ff0W1N1fN0R"
@@ -2849,6 +2849,28 @@
     },
     {
       "album": {
+        "name": "Hattrick",
+        "url": "https://open.spotify.com/album/5Y3LxqS84YPJNk8KZLes6V"
+      },
+      "artists": [
+        {
+          "name": "Kimemia",
+          "url": "https://open.spotify.com/artist/4B9PQfwK6mo8NXccLRaKUe"
+        },
+        {
+          "name": "NJENGAAA",
+          "url": "https://open.spotify.com/artist/16ocunQdP5nNwd7K69PM7t"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204765,
+      "name": "Hattrick",
+      "url": "https://open.spotify.com/track/7tiu1Qny7ax3bhwaH7F683"
+    },
+    {
+      "album": {
         "name": "Head Up",
         "url": "https://open.spotify.com/album/5WKPonFE8oT1qkCAsTCK6s"
       },
@@ -3434,7 +3456,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 162420,
       "name": "Jarateng Sheep (12.3.21)",
       "url": "https://open.spotify.com/track/2l85onC67Du4CLHZOXIurR"
@@ -6616,6 +6638,24 @@
       "duration_ms": 238368,
       "name": "Red Namba Plate",
       "url": "https://open.spotify.com/track/1kWsePJN3ccg4pOfHtuMf4"
+    },
+    {
+      "album": {
+        "name": "58 Flava",
+        "url": "https://open.spotify.com/album/4aI0mYW2tWLDT44c6zpUdv"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Rich or Broke",
+      "url": "https://open.spotify.com/track/751af64Wdw2dNzBXd1nSpQ"
     },
     {
       "album": {

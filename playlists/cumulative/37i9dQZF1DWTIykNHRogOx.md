@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Solann et Yoa
+> Les  meilleures nouveautés de la chanson française avec Benjamin Biolay
 
-238 songs - 13 hr 12 min
+241 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [IL N'A DIEU QUE POUR ELLE](https://open.spotify.com/track/2TCexzMXhtEMrO7NT6QMQk) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6) | [CONTRE TOI](https://open.spotify.com/album/6HPKxakSZeFgqt0U3PHStV) | 3:59 | 2024-06-27 | 2024-07-27 |
 | [ils en savent quoi ?](https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [ils en savent quoi ?](https://open.spotify.com/album/6YEiKcIjfQaWBRxoaFBJTO) | 3:18 | 2024-09-19 | 2025-01-31 |
 | [Insolation](https://open.spotify.com/track/6nq8djOsXo8wr8vl1eKeIH) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Insolation](https://open.spotify.com/album/3rTQcvP4qgScLh3vDOJyIp) | 2:54 | 2024-06-27 | 2024-11-29 |
-| [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 | 2025-05-29 |  |
+| [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 | 2025-05-29 | 2025-10-24 |
 | [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 | 2025-05-22 | 2025-10-17 |
 | [j'aime pas les goodbye](https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [j'aime pas les goodbye](https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs) | 2:03 | 2025-10-02 |  |
 | [J'connais des gens](https://open.spotify.com/track/4ypetAUhCL7Y3Y433EBnm2) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [J'connais des gens](https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ) | 2:15 | 2024-06-27 | 2024-09-20 |
@@ -152,7 +152,7 @@
 | [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM), [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 | 2025-02-06 | 2025-05-16 |
 | [Les épines du coeur](https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO) | 2:52 | 2025-10-09 |  |
 | [Lettre à soi](https://open.spotify.com/track/75qYFNmfceZZtxrRa3Js2y) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lettre à soi](https://open.spotify.com/album/0qv0FYdpQgpFpMuk9uFOXz) | 3:43 | 2025-07-03 | 2025-09-27 |
-| [LILA](https://open.spotify.com/track/5icFlrdlmnMbnvQu5HotQ3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Lila](https://open.spotify.com/album/7AN65th2nIoDy1z5N1EDe7) | 3:08 | 2025-06-12 |  |
+| [LILA](https://open.spotify.com/track/5icFlrdlmnMbnvQu5HotQ3) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Lila](https://open.spotify.com/album/7AN65th2nIoDy1z5N1EDe7) | 3:08 | 2025-06-12 | 2025-10-24 |
 | [Longtemps](https://open.spotify.com/track/4CBquCNpWBMWSF1hzlLBtv) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:55 | 2024-10-17 | 2024-11-22 |
 | [Luxembourg](https://open.spotify.com/track/392kafx6I9FFgx0eUNHA1n) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Saint\-Valentin](https://open.spotify.com/album/4K9Gdg4S0RSzy8IhfU32Cd) | 4:00 | 2024-10-24 | 2025-03-14 |
 | [l’exil et l’asile](https://open.spotify.com/track/3LBn8ucmgGyPe5se5y2UB1) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [l’exil et l’asile](https://open.spotify.com/album/0nLD6Pp5C2F8lfdiPV2k6U) | 2:51 | 2025-03-13 | 2025-06-20 |
@@ -181,7 +181,7 @@
 | [Paris](https://open.spotify.com/track/6aBUJSbfXSj4lWbSRB3iyt) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Paris](https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v) | 6:04 | 2024-06-27 | 2024-09-06 |
 | [Paris Amour](https://open.spotify.com/track/3uJvgK0JVKNVbOHQe0RPfR) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/5UPeTy8r4aoKnZtRP6PnMa) | 3:40 | 2025-06-19 |  |
 | [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 | 2025-05-15 | 2025-10-10 |
-| [pas assez de toi](https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [pas assez de toi](https://open.spotify.com/album/6nv6PS50Hyh34ZIAzjuXUy) | 2:55 | 2025-06-19 |  |
+| [pas assez de toi](https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [pas assez de toi](https://open.spotify.com/album/6nv6PS50Hyh34ZIAzjuXUy) | 2:55 | 2025-06-19 | 2025-10-24 |
 | [Patineuse](https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK) | [Morgane Imbeaud](https://open.spotify.com/artist/0g7GbpCnCwZfTMj8dHqFjy) | [The Lake](https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ) | 3:39 | 2024-06-27 | 2024-11-15 |
 | [Perdre la tête](https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Perdre la tête](https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ) | 3:23 | 2024-06-27 | 2024-10-11 |
 | [PEUR DE RIEN](https://open.spotify.com/track/3nAFx9qe9yHobSF4JaV7e2) | [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [À TRAVERS](https://open.spotify.com/album/5XZlKtB1RmSOrDbnKVJQ6x) | 3:22 | 2024-10-03 | 2025-02-21 |
@@ -210,6 +210,7 @@
 | [Seabed Eden \- French version](https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Seabed Eden \(French version\)](https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z) | 4:04 | 2024-06-27 | 2024-11-08 |
 | [Seul](https://open.spotify.com/track/7zIncbn5OIPjHKrlPSBNdJ) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Seul](https://open.spotify.com/album/5yxQkHMcwhgLyeu9ZQka2r) | 3:01 | 2024-06-27 | 2024-11-08 |
 | [Si beau](https://open.spotify.com/track/0CVnlbUnDN61gX1NkCxwtM) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Si beau](https://open.spotify.com/album/0BODdkgwRorbheFUCiFJSz) | 3:44 | 2025-05-15 | 2025-10-03 |
+| [Si t'étais là](https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Si t'étais là](https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN) | 3:15 | 2025-10-23 |  |
 | [Solo dans mon lit double](https://open.spotify.com/track/4GwzkAblYm57j4MWg5bn6d) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/3KikqyS2U3WnDrVHTVemWe) | 3:39 | 2025-06-12 | 2025-10-03 |
 | [Sous mon bob](https://open.spotify.com/track/6uBOkq10cGEvQjF3bygMYX) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Sous mon bob](https://open.spotify.com/album/68E3HZQpH30t9EMnftnsmZ) | 2:42 | 2024-06-27 | 2024-10-11 |
 | [Souveraines](https://open.spotify.com/track/3z7EsXU4kC7xvwTqNVTmZG) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:13 | 2024-06-27 | 2024-09-27 |
@@ -221,7 +222,9 @@
 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 | 2025-07-10 |  |
 | [Tour du Monde](https://open.spotify.com/track/7kAQ5yUq5uuJfSzHunHWAR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Tour du Monde](https://open.spotify.com/album/7HhfRpFv1nIuFA3C2xYNka) | 3:24 | 2025-10-09 |  |
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 | 2025-03-21 |
+| [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 | 2025-10-23 |  |
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
+| [Track 5](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |
 | [tu dis que tu m'aimes \- piano version](https://open.spotify.com/track/4DiQIu33YyFtAf6713AsIw) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [tu dis que tu m'aimes \(piano version\)](https://open.spotify.com/album/5gVjadxwoN3dbwiZiZNsHz) | 3:00 | 2024-11-28 | 2025-04-18 |
 | [tu m'as dit que tu m'aimais](https://open.spotify.com/track/2pwXypfanqsYaTyoGE0yPk) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [tu m'as dit que tu m'aimais](https://open.spotify.com/album/4cPiATyN905GjIHqkusfdc) | 2:40 | 2025-03-06 | 2025-07-11 |

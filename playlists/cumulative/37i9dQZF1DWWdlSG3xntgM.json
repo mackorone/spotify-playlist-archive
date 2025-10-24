@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
+  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
   "name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "tracks": [
     {
@@ -4145,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "Hoang Vu",
+        "url": "https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e1i Ch\u00e2u",
+          "url": "https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM"
+        }
+      ],
+      "date_added": "2025-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290289,
+      "name": "Qua Con Me",
+      "url": "https://open.spotify.com/track/3vC3uONMUOeiEiOl3MfbwQ"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t Mai Gi\u00e3 T\u1eeb V\u0169 Kh\u00ed",
         "url": "https://open.spotify.com/album/5Mwa2pqo8DKUNvOBhaRdie"
       },
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 285269,
       "name": "Tau Dem Nam Cu",
       "url": "https://open.spotify.com/track/5tVuKbPyMauB0YKbJeCGDc"

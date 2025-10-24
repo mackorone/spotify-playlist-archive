@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114993,
+  "num_followers": 114987,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Uzun Uzun (feat. Jabbar)",
+        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Jabbar",
+          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Uzun Uzun (feat. Jabbar)",
+      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 215803,
       "name": "D\u00fcn",
       "url": "https://open.spotify.com/track/4Cdv5EjQOoWFCEEfTvLexr"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Uzun Uzun (feat. Jabbar)",
-        "url": "https://open.spotify.com/album/0kq1mKiHDEAnTHkA3LJ6EG"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Jabbar",
-          "url": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Uzun Uzun (feat. Jabbar)",
-      "url": "https://open.spotify.com/track/2lfIKSkxC1z8Q7JzTufWFo"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Al Senin Olsun D\u00fcnya",
-        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
-      },
-      "artists": [
-        {
-          "name": "Buray",
-          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
-        }
-      ],
-      "duration_ms": 195805,
-      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
-      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Sana Ne Dedi Zaman",
         "url": "https://open.spotify.com/album/1Y0DAdqgQt6XDjKyXQVuFO"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 209032,
       "name": "Sana Ne Dedi Zaman",
       "url": "https://open.spotify.com/track/54f1QKc16vMi3enzmChcIy"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Al Senin Olsun D\u00fcnya",
+        "url": "https://open.spotify.com/album/7qfiGdZbSh9068JTlpEAkQ"
+      },
+      "artists": [
+        {
+          "name": "Buray",
+          "url": "https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd"
+        }
+      ],
+      "duration_ms": 195805,
+      "name": "AL SEN\u0130N OLSUN D\u00dcNYA",
+      "url": "https://open.spotify.com/track/43zDWY9YsHRa1e7xSMPTfs"
     },
     {
       "added_at": "2025-07-10 21:06:57",

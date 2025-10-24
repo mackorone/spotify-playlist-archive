@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Jahyanai",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Maureen",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 106890,
       "name": "#patachou",
       "url": "https://open.spotify.com/track/3eWN9SplW6aFqVQRcaVyA8"
+    },
+    {
+      "album": {
+        "name": "#TouteLaNuit",
+        "url": "https://open.spotify.com/album/6nataf6HmvGILKfZd3OHMr"
+      },
+      "artists": [
+        {
+          "name": "Carla Genus",
+          "url": "https://open.spotify.com/artist/2o7RrZDvas49cCUKDkC56r"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "#TouteLaNuit",
+      "url": "https://open.spotify.com/track/5Pf3gBalDf2H42pEwJqzts"
     },
     {
       "album": {
@@ -1609,6 +1627,28 @@
     },
     {
       "album": {
+        "name": "Bepbep",
+        "url": "https://open.spotify.com/album/0UYRJo8xOfeRta8BiNf2lY"
+      },
+      "artists": [
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj"
+        },
+        {
+          "name": "DJ SAURIER",
+          "url": "https://open.spotify.com/artist/5FKogijn8UxQeGoSGgTpss"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Bepbep",
+      "url": "https://open.spotify.com/track/6tDVy1VJPJWJEan7E08dU0"
+    },
+    {
+      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/3wIRgjXeN15DvUkmcS9qzV"
       },
@@ -2033,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "BOSS UP",
+        "url": "https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151320,
+      "name": "BOSS UP",
+      "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
+    },
+    {
+      "album": {
         "name": "Bouclier",
         "url": "https://open.spotify.com/album/7ampzSKM4JamAiI9fo5ksd"
       },
@@ -2130,7 +2188,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 157000,
       "name": "Bouw\u00e9y",
       "url": "https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr"
@@ -2760,7 +2818,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 129056,
       "name": "Chambre 04",
       "url": "https://open.spotify.com/track/6zBRSNNizxsGWRQFg2eToG"
@@ -7226,7 +7284,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 164414,
       "name": "KOZ\u00c9 CHO 2",
       "url": "https://open.spotify.com/track/4BghhV8A6NhqtjFlmmH5Rg"
@@ -7428,7 +7486,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 170135,
       "name": "La piraterie",
       "url": "https://open.spotify.com/track/6sJncGrdz5lcomB5D2Te9C"
@@ -7796,7 +7854,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 145836,
       "name": "Like That",
       "url": "https://open.spotify.com/track/4df0O8eGWBUvW73DPVCoqY"
@@ -8200,6 +8258,32 @@
       "duration_ms": 159600,
       "name": "Many men",
       "url": "https://open.spotify.com/track/7zwNOwAg7mhUSidOudjsbc"
+    },
+    {
+      "album": {
+        "name": "MANZ M'A PAYER",
+        "url": "https://open.spotify.com/album/1hU1FgW06qTnpt622lz694"
+      },
+      "artists": [
+        {
+          "name": "Toulou",
+          "url": "https://open.spotify.com/artist/0X7QlcVMGgyXyNJ6IGaZWG"
+        },
+        {
+          "name": "Tatane",
+          "url": "https://open.spotify.com/artist/1nGAkxWQrJ6GH0we2O48N8"
+        },
+        {
+          "name": "DJ MiMi",
+          "url": "https://open.spotify.com/artist/0nM2p46IFFB8f3NQxspjG5"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "MANZ M'A PAYER",
+      "url": "https://open.spotify.com/track/6dULLaaHVV9Dwm6KeqD420"
     },
     {
       "album": {
@@ -9171,6 +9255,32 @@
     },
     {
       "album": {
+        "name": "Nani",
+        "url": "https://open.spotify.com/album/7pB4QT7Nx9FBIgqSUUFPnV"
+      },
+      "artists": [
+        {
+          "name": "Jason Imanuel",
+          "url": "https://open.spotify.com/artist/3uQYsvZhFDNBb6bpVNEhO7"
+        },
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        },
+        {
+          "name": "Andr\u00e9lon",
+          "url": "https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Nani",
+      "url": "https://open.spotify.com/track/1dDyeCWfRIOvfCXDs4Hmqw"
+    },
+    {
+      "album": {
         "name": "Narcos",
         "url": "https://open.spotify.com/album/2bRRFf3Q4ZA9ji74oCIDf6"
       },
@@ -9264,7 +9374,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 142196,
       "name": "New Gears (feat. Vybz Kartel & Fran\u00e7oise Hardy)",
       "url": "https://open.spotify.com/track/6v2WTkZpJL3XeO0bo9SO2p"
@@ -10244,7 +10354,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 139054,
       "name": "Par\u00e8 Ba-Y",
       "url": "https://open.spotify.com/track/0Rbm7NmOFuUqkT9Nqyzgcr"
@@ -10284,7 +10394,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 138000,
       "name": "Pas Pareil",
       "url": "https://open.spotify.com/track/3jjJxkrnWdH4owDsX1EmEL"
@@ -11219,6 +11329,28 @@
     },
     {
       "album": {
+        "name": "FASTLIFE",
+        "url": "https://open.spotify.com/album/6kLERPO1TeAhKTR539Ncin"
+      },
+      "artists": [
+        {
+          "name": "Capi",
+          "url": "https://open.spotify.com/artist/7gAnXQ1dYZdtwCdFEvmUwi"
+        },
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179865,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/4rGBx3OtDj4waLtdaNT0i6"
+    },
+    {
+      "album": {
         "name": "6.9.4.2",
         "url": "https://open.spotify.com/album/5o1xMeUQ9cLNq9rX5ftrrx"
       },
@@ -11800,7 +11932,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 144244,
       "name": "SFK",
       "url": "https://open.spotify.com/track/731MfQNjCkkS2vuEIu4qyy"
@@ -12896,7 +13028,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 109565,
       "name": "Ta meuf",
       "url": "https://open.spotify.com/track/17709i83p9cPzoPaPCq9jm"
@@ -13759,6 +13891,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/258OblSwifjdaXY6Br7vak"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U"
+    },
+    {
+      "album": {
         "name": "Tremor",
         "url": "https://open.spotify.com/album/3rD9fNOvN2Pi90kgBnDPfU"
       },
@@ -13950,6 +14118,28 @@
       "duration_ms": 131666,
       "name": "TUTTI FRUTTI",
       "url": "https://open.spotify.com/track/3yXPsQnivkVH971uUnXgL7"
+    },
+    {
+      "album": {
+        "name": "KO\u00c9RANS",
+        "url": "https://open.spotify.com/album/1GiMIoNYZ9QtxulhmSACuZ"
+      },
+      "artists": [
+        {
+          "name": "Misi\u00e9 Sadik",
+          "url": "https://open.spotify.com/artist/2BfjmShvoGPl4migLIun7a"
+        },
+        {
+          "name": "Matieu White",
+          "url": "https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "T\u00c8LMAN DOU",
+      "url": "https://open.spotify.com/track/1Z8PLY1YfTgBQwmr0ObgZn"
     },
     {
       "album": {
@@ -14426,6 +14616,24 @@
       "duration_ms": 166530,
       "name": "Wasav",
       "url": "https://open.spotify.com/track/2rE51kV2cQ8qbiaSjz8Z6z"
+    },
+    {
+      "album": {
+        "name": "WATCH MO BACK",
+        "url": "https://open.spotify.com/album/2kWgxdWWNPwAY7rhSXJGww"
+      },
+      "artists": [
+        {
+          "name": "ZOE LUCY",
+          "url": "https://open.spotify.com/artist/0fi0UZMwNy8fGhjvcnnuD2"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "WATCH MO BACK",
+      "url": "https://open.spotify.com/track/1gKcP1RlXhybk8TMf6PTPB"
     },
     {
       "album": {

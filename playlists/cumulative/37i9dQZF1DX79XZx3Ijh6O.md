@@ -4,10 +4,12 @@
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка:  <a href="spotify:artist:4C1doWhhFm7OZXDuBguhn8">ДРІТА</a>
 
-126 songs - 6 hr 31 min
+136 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#willgetbetter](https://open.spotify.com/track/1G1W1T8d7rajOHJeAm13Uk) | [Kostiuchenko](https://open.spotify.com/artist/5MMXe2yDeGG1760ZOSsH7g) | [\#willgetbetter](https://open.spotify.com/album/0WIqOo2KfG2gg9dDCjlij4) | 2:20 | 2025-10-21 |  |
+| [20 осінь](https://open.spotify.com/track/2IBWLkHKyMHIoifIP6ZI0w) | [homepunkk](https://open.spotify.com/artist/1Iojpi4JD9BGWR3hUCfeao) | [20 осінь](https://open.spotify.com/album/18UtOmbfX7FJrsqUUQncau) | 2:50 | 2025-10-21 |  |
 | [99](https://open.spotify.com/track/6mgwueAYTkXFWOu7GwMggk) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [99](https://open.spotify.com/album/3geF8EbWpyCifWUurQK4e2) | 2:32 | 2025-10-07 |  |
 | [angel](https://open.spotify.com/track/3qwY9DRz60C2t7Br7rMYGF) | [The Multiverse](https://open.spotify.com/artist/7b0VwfMQk9Pv0Q2Hsi2eiE) | [angel](https://open.spotify.com/album/3yWOYC6LsYFol5YUF6x3wW) | 3:14 | 2025-10-07 |  |
 | [Brat](https://open.spotify.com/track/1ECaPmIcNX1jQCKRSmbIVw) | [OTAKOЇ](https://open.spotify.com/artist/1XFUlGvrUdVEkWkImS2pNk) | [Brat](https://open.spotify.com/album/3GMEbKZ1iHHJW07izUh4Ng) | 2:12 | 2025-10-07 | 2025-10-15 |
@@ -17,6 +19,7 @@
 | [EauDeVie](https://open.spotify.com/track/3ILCiFz5ruZNqMQoBrN0w1) | [примара](https://open.spotify.com/artist/5KcnpkqFlHg21eHRqiFpP6) | [EauDeVie](https://open.spotify.com/album/4C2oEj5SxmNISrSF8t426E) | 1:41 | 2025-10-07 | 2025-10-22 |
 | [eclipse](https://open.spotify.com/track/0j61ChQGBZJx3cecHGwS53) | [yokae](https://open.spotify.com/artist/67aOtf9En6vSn7Tr7JY8JG) | [eclipse](https://open.spotify.com/album/69IVm7qVGMvLWwbzOhrTai) | 3:03 | 2025-10-14 |  |
 | [Errday Freestyle](https://open.spotify.com/track/3cv8ywCfjnKjFHe213DDRV) | [AveKucher](https://open.spotify.com/artist/4ObQC7zEAd2fACSWGjumQg) | [Errday Freestyle](https://open.spotify.com/album/3dNIN1iitaI6kFg2iLXzWb) | 2:00 | 2025-10-14 |  |
+| [FADE AWAY](https://open.spotify.com/track/1zTQdl148SlUYSYR0NptPg) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI) | [FADE AWAY](https://open.spotify.com/album/1e6l55iMqlijrfCXbZGPhM) | 2:14 | 2025-10-21 |  |
 | [Fatum](https://open.spotify.com/track/4ePXhM7M00XXX5r84DUFRL) | [PROBLEMA](https://open.spotify.com/artist/4RnDiyMmHovpIRHgz5WyTn) | [Fatum](https://open.spotify.com/album/30dLuPO6xju4OTJkC5Vm0W) | 2:03 | 2025-10-07 |  |
 | [First Try](https://open.spotify.com/track/55ugYWXINRLFqJZj7hCtnf) | [Fuji Moodji](https://open.spotify.com/artist/1TG11OIiavZKVfRxVr5Tyo) | [First Try](https://open.spotify.com/album/618x2WIyUq7xfRTaRABOae) | 2:39 | 2025-10-21 |  |
 | [Game Is Done](https://open.spotify.com/track/6b0d7MrVMWoKqjgXiwLTQu) | [kelly wine](https://open.spotify.com/artist/2bIxWLvm8Smz1iW8KMTSQt) | [Game Is Done](https://open.spotify.com/album/4COSpunD35D76LIiZMNHlz) | 1:57 | 2025-10-14 |  |
@@ -33,6 +36,7 @@
 | [без фільтрів](https://open.spotify.com/track/4Cr1ahRxnBsofNeXWFeAcS) | [дехто інший](https://open.spotify.com/artist/4zZPFCA5zURydeVtikC0wa) | [без фільтрів](https://open.spotify.com/album/7k99crEMbDbDdAmrJFPbxX) | 2:46 | 2025-10-14 |  |
 | [Беземоціонально](https://open.spotify.com/track/4RU3Y0G1bNtZPoxHlTnd0G) | [nikoniko](https://open.spotify.com/artist/3Jatau6vAuotrvfP3Z9yLp) | [Беземоціонально](https://open.spotify.com/album/6Ap8WIoTsFlIef9TQyLbh0) | 3:13 | 2025-10-21 |  |
 | [Бейслайн](https://open.spotify.com/track/67KmO9nPY5cQ0kInUXAMrD) | [echotone](https://open.spotify.com/artist/0YQ9c42XhofXXLfvzYQJFA), [FL¥XER](https://open.spotify.com/artist/5dfbWMupW51JQubE7c1xOP) | [Бейслайн](https://open.spotify.com/album/0iqmsREoUXuM28V8mwQnFf) | 2:22 | 2025-10-07 | 2025-10-22 |
+| [близько](https://open.spotify.com/track/046ERUWAwdnR38O1u5RX3X) | [M1SHKA](https://open.spotify.com/artist/6x6LoUxvX9ScaOW5oP0P8i) | [близько](https://open.spotify.com/album/7q2VWcG3TxXsm1HByBJtOF) | 2:27 | 2025-10-21 |  |
 | [бурштином](https://open.spotify.com/track/0TgPhzsSbJLHkSgbZiFaQV) | [Kostiuchenko](https://open.spotify.com/artist/5MMXe2yDeGG1760ZOSsH7g), [kissesfromeldar](https://open.spotify.com/artist/7GP413tTRIYhPfubxubMjZ) | [бурштином](https://open.spotify.com/album/3kC0xViYuZIt72wZefF6vG) | 2:30 | 2025-10-07 | 2025-10-22 |
 | [Валерія](https://open.spotify.com/track/4WKWZ5znMU2rGCFhRlIeod) | [Микола Серпень](https://open.spotify.com/artist/0jaj5KueBn1OqYwpfBX4e2) | [Валерія](https://open.spotify.com/album/0b4Nc1wIBio6JT90HtdyTX) | 2:24 | 2025-10-07 |  |
 | [Весна](https://open.spotify.com/track/4YoEzmcUxniSdzSFACzMJ4) | [Р3ЙМ4Н](https://open.spotify.com/artist/4WJKwDv6cDbc1hDyL0xnBg), [Van Singer](https://open.spotify.com/artist/3bbGaPXqzyCrJMIHfMbJeA) | [Весна](https://open.spotify.com/album/5LOL9v4ZMpGRvDMnAJS4BL) | 2:40 | 2025-10-07 |  |
@@ -40,6 +44,7 @@
 | [Відчувай](https://open.spotify.com/track/461gtxfosJbJgkM9SjMn6B) | [VLADLEN](https://open.spotify.com/artist/6LXhsy1BioBmy6OgEZ5miQ) | [Відчувай](https://open.spotify.com/album/7rnhdBuVhaVZVWgf7BavQo) | 2:01 | 2025-10-21 |  |
 | [Відчуття](https://open.spotify.com/track/1ukfFmCkUQYsjCL5xZOa6S) | [secondpart](https://open.spotify.com/artist/76kiH7vVs8wcKL5yUVvJsT) | [Відчуття](https://open.spotify.com/album/36F8HosBbDsuUPMUy2aVEk) | 3:39 | 2025-10-07 |  |
 | [Віражі](https://open.spotify.com/track/0pdoVhoqLrC9P9vwTBWBpB) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Віражі](https://open.spotify.com/album/2b96q7pQI4sYnmJ06PozEk) | 2:55 | 2025-10-07 |  |
+| [Давай Тікай](https://open.spotify.com/track/102r3LmKTn3JL6BMa7qPny) | [Granat Garden](https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L) | [Давай Тікай](https://open.spotify.com/album/1AHwB9pvaLS0YcNxAvBtbf) | 4:49 | 2025-10-21 |  |
 | [День відкритих дверей](https://open.spotify.com/track/3eraZSUNnGTxzQCfipLHs0) | [Тур](https://open.spotify.com/artist/3t6Zfl6CFGL2B6BUhWu6Yg) | [День відкритих дверей](https://open.spotify.com/album/2rdEo7MF1SWv9FCEYfPZj2) | 1:30 | 2025-10-07 |  |
 | [День літнього сонцестояння](https://open.spotify.com/track/6xv66Y7IB0JbSd3idNDJNb) | [Очеретяний кіт](https://open.spotify.com/artist/5f0nFJJt3Ae67uvSCifLMO) | [Дуети\. пісні на вірші українських поетів.](https://open.spotify.com/album/4M04jLu3IeKxcvFh0CnGFw) | 4:38 | 2025-10-07 | 2025-10-22 |
 | [День, день, день](https://open.spotify.com/track/5rcrKvmYeFLonYKDeTt2Gv) | [keeroo](https://open.spotify.com/artist/2oDHc60nD2xyrESmbck1SU), [Kelavra](https://open.spotify.com/artist/4nspO81kxsyCdMbxqyDvCE) | [День, день, день](https://open.spotify.com/album/6LAaYFa7ZjpIrZ6o7FAC9S) | 3:15 | 2025-10-21 |  |
@@ -50,6 +55,8 @@
 | [Думи](https://open.spotify.com/track/3Ny4JePb8XIgoVL3ZA0niE) | [Матвій М.](https://open.spotify.com/artist/4G8yADwEn9zG3K5JO97dav) | [Думи](https://open.spotify.com/album/2rIWhIXTYBk7lV5pgzvYou) | 2:22 | 2025-10-07 |  |
 | [душа](https://open.spotify.com/track/3tNYXuJrV7MwelYIVlE9YD) | [SIAMÍS](https://open.spotify.com/artist/3ViTfdi8Vp3Xw6Xa4UcXrY) | [душа](https://open.spotify.com/album/60IcZmxTame2Ar5GuQBOw6) | 3:29 | 2025-10-07 | 2025-10-22 |
 | [Жигуль](https://open.spotify.com/track/47JnxtoxmDx5oaXnkcTCgL) | [кмп](https://open.spotify.com/artist/3riGNh4EhBcdBqoe6eih00) | [Жигуль](https://open.spotify.com/album/7akmb2Gz5zu09YmRAsNb9h) | 2:08 | 2025-10-07 |  |
+| [Заповіт \(Т.Ш.\)](https://open.spotify.com/track/3wam2YCUcVwGW9FeL040hD) | [o.hroza](https://open.spotify.com/artist/35t5PBQsmMVZnS57wAg8ek) | [Заповіт \(Т.Ш.\)](https://open.spotify.com/album/1uRbEG27VyRSpVwLOH7vXR) | 1:53 | 2025-10-21 |  |
+| [Знайти](https://open.spotify.com/track/7MzWydzI1UN1SWmIT8R3sY) | [сліпток](https://open.spotify.com/artist/56M3mfXvDAZ8eYzHfM6lu0) | [Знайти](https://open.spotify.com/album/40pCtxW8gqgxaCJMdjPCPl) | 2:37 | 2025-10-21 |  |
 | [Знову хочу бути](https://open.spotify.com/track/5dExNn42HMbgxvkHFZCPgV) | [Tongi Joi](https://open.spotify.com/artist/55giOLseXZAOzEcx622ljL) | [Знову хочу бути](https://open.spotify.com/album/7arA6REc20yvOC07I8RXub) | 6:20 | 2025-10-07 | 2025-10-22 |
 | [Зробимо це тут](https://open.spotify.com/track/3AAkRjBs9v6illLBtkmUMz) | [D016](https://open.spotify.com/artist/4MPDfqNMUkYAG0APA0R9gV), [Kova97](https://open.spotify.com/artist/21uXasUoGwONOZnZd5UHTy) | [Зробимо це тут](https://open.spotify.com/album/3Pm79LpFC9URu1xxj4KZP0) | 3:10 | 2025-10-14 |  |
 | [Зупинитися](https://open.spotify.com/track/5bZhi2oRXhkG1ERsCKI8rn) | [KITAN](https://open.spotify.com/artist/5gGjS4zHqaLZnWzOSxgte3) | [Зупинитися](https://open.spotify.com/album/0al0DnRkCFCvx7DTlQ6aVW) | 2:28 | 2025-10-21 |  |
@@ -100,10 +107,12 @@
 | [Про любов](https://open.spotify.com/track/03fZZwb9l3HN2U33wCcrSu) | [Skarb](https://open.spotify.com/artist/4IkN1rNU2zbmF5xcJTpdtt) | [Спільний код](https://open.spotify.com/album/2Z7Shb6zcSAxukzDmesPGu) | 3:25 | 2025-10-07 | 2025-10-22 |
 | [прогулянка](https://open.spotify.com/track/0MigkB5TLqDMtkXyU7Mcxl) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN), [Leleka i Paporot](https://open.spotify.com/artist/452SnJVAxr0a1MLjRIpbaV) | [прогулянка](https://open.spotify.com/album/4Zf18nWsrNqpLc5DDWDd0p) | 4:02 | 2025-10-07 |  |
 | [прозорі](https://open.spotify.com/track/4sNYNsGbhiZA9hxCToexlb) | [системний підхід](https://open.spotify.com/artist/4659iTYOmYreKBkHpdPPv1) | [прозорі](https://open.spotify.com/album/29bPH5M1ZRrbquTBEFihkW) | 2:48 | 2025-10-07 |  |
+| [рікаКрові](https://open.spotify.com/track/7rrI2lRDjvrYW7cqeBwUcM) | [примара](https://open.spotify.com/artist/5KcnpkqFlHg21eHRqiFpP6) | [рікаКрові](https://open.spotify.com/album/3yFdXRulY6BEGsVvzac75q) | 1:54 | 2025-10-21 |  |
 | [Салют](https://open.spotify.com/track/1JtNbH4NkbR5gXJNQ7gRYo) | [AYA NÓVA](https://open.spotify.com/artist/2I2msOrpiAsvgm4L6CJ3eP) | [Салют](https://open.spotify.com/album/4eddKJsyu1NIi29tmVarp4) | 1:55 | 2025-10-07 |  |
 | [Сам На Сам](https://open.spotify.com/track/18ejh1Q5YDBvU7MFkfXEZy) | [Ayko](https://open.spotify.com/artist/3Mged6LdqMSwqhGkQpZutU), [PROROKK](https://open.spotify.com/artist/3n7c8rkyC9IfmaKHixUck4) | [Сам На Сам](https://open.spotify.com/album/64yHQX95hOWHM6mwSo817w) | 2:53 | 2025-10-14 |  |
 | [Самокритика](https://open.spotify.com/track/0tfd1M4WmcZ1lvAhAoByd9) | [SNODIINYI](https://open.spotify.com/artist/3lnW3oUCfWGtApcnAz5ymT) | [Самокритика](https://open.spotify.com/album/5S0sKwnAAiy4YxLFUVCmcl) | 1:56 | 2025-10-07 |  |
 | [Сателіт](https://open.spotify.com/track/6TpEzEoN5jP25Z7CDzB63W) | [Alex Silakov](https://open.spotify.com/artist/4onFhnZzfEog4oXThDtkZC) | [Сателіт](https://open.spotify.com/album/7BjdVZPa8pSPY0sBykWnxH) | 3:04 | 2025-10-07 | 2025-10-15 |
+| [Світ питає](https://open.spotify.com/track/1BvWFZJRfPZDF3JuvebIiG) | [TRINY T](https://open.spotify.com/artist/151WSLorWES5ccXH79H8H3) | [Світ питає](https://open.spotify.com/album/1PRxoP758euElmiOGsAUXX) | 2:14 | 2025-10-21 |  |
 | [сепуку](https://open.spotify.com/track/1llNmkD9I4fkicO1MRX4xx) | [ніщо](https://open.spotify.com/artist/2EvTbGozen8nATUn70qYAM) | [сепуку](https://open.spotify.com/album/2rNMPHov3OIJKzexo5O4IW) | 3:30 | 2025-10-07 | 2025-10-22 |
 | [смирись](https://open.spotify.com/track/4iIUkBjIQkGRJ962IcmXbM) | [o.hroza](https://open.spotify.com/artist/35t5PBQsmMVZnS57wAg8ek) | [смирись](https://open.spotify.com/album/0ZmTfyY3hgqk7gfFfKJqoZ) | 1:29 | 2025-10-07 | 2025-10-22 |
 | [Сон](https://open.spotify.com/track/2jjc8XbSEiKqip3PSceS1K) | [РАЙ](https://open.spotify.com/artist/6vSRxxitO3Tf1sGm2eHxQD) | [Сон](https://open.spotify.com/album/3QW69jGrByIG7IIAWtcVqq) | 3:14 | 2025-10-07 | 2025-10-22 |
@@ -125,6 +134,7 @@
 | [Цілуй мене](https://open.spotify.com/track/0HVS6JytL0GoskOCPvtwrB) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Цілуй мене](https://open.spotify.com/album/0XAFm1MiaZ4c8EXviiRugP) | 3:09 | 2025-10-14 |  |
 | [Цілунок](https://open.spotify.com/track/1igRimJ2paDUeR6IO9joTU) | [SYDOR](https://open.spotify.com/artist/5mCLSzdZkJ2PgQ0EGkIIgK) | [Цілунок](https://open.spotify.com/album/0jHDXmmP1PHb8DPOYgwYhH) | 2:10 | 2025-10-07 | 2025-10-22 |
 | [Чи ти щаслива?](https://open.spotify.com/track/0uH6FTcmNoO8uZc6IdWmdj) | [Швєд](https://open.spotify.com/artist/4nl9iA6Qy8yKqbiEiSvEKb) | [Чи ти щаслива?](https://open.spotify.com/album/1qYGfqmYWkv2jNMiQhn5TX) | 3:04 | 2025-10-07 |  |
+| [Чорний дим](https://open.spotify.com/track/7oDWT6LnPYGiaMcyinNsua) | [Paliukh](https://open.spotify.com/artist/4scfG9YJQEmI068kzCBz8g) | [Чорний дим](https://open.spotify.com/album/2PlLJ0qyGc4LjsT67cFT8V) | 2:02 | 2025-10-21 |  |
 | [Шишка із Закарпаття](https://open.spotify.com/track/4oDn82unmmX2hSJTkwqiei) | [Довгий Пес](https://open.spotify.com/artist/1YaTr0uiPvcbPBlPKTluuV), [Jointjay](https://open.spotify.com/artist/2XU652rRc854TwFBEGYoTK) | [Шишка із Закарпаття](https://open.spotify.com/album/4lkWiLViLC6H1ZVM0KUDjz) | 2:27 | 2025-10-14 |  |
 | [Шрами](https://open.spotify.com/track/1RjiXaLlh8v29Wa8kM9aJp) | [HOHLAN](https://open.spotify.com/artist/1Ln7ZhAvknbaC7gleBpZYw) | [Шрами](https://open.spotify.com/album/1Kqrejy7VS9TWmIwSbElBR) | 2:18 | 2025-10-07 |  |
 | [Я буду тим](https://open.spotify.com/track/7fH2L9fivXCSkNfqoEs2G3) | [Teplova](https://open.spotify.com/artist/0W2oONRu90ZheXlDNbFEs8) | [Стиснути двічі](https://open.spotify.com/album/3rqCjgAtNXLGYwQcVtiJUM) | 3:02 | 2025-10-07 | 2025-10-15 |

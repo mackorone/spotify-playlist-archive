@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5388Muv9Img.md) - [plain]
 
 > Let the celebrations begin!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,110 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,187 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5388Muv9Img.md) - [plain]
 | 49 | [Jigelu Rani](https://open.spotify.com/track/5niD1hTmYAC9FDP5YkYrv4) | [Rela Kumar](https://open.spotify.com/artist/62oOhStk8pQGEafnScrUP6), [Ganta Venkata Lakshmi](https://open.spotify.com/artist/3Gz4xvWhNyxN5W2DO6CMMj), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Rangasthalam](https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF) | 5:05 |
 | 50 | [Jai Balayya](https://open.spotify.com/track/798gW1ukNF0nQir6XLiUH2) | [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Akhanda \[TELUGU\]](https://open.spotify.com/album/2MTDrkdwyNhJqwl9vP6hEM) | 4:24 |
 
-Snapshot ID: `AAAAAES8s3m8TkL4kVri9KyhJCIHWIoi`
+Snapshot ID: `AAAAANEVIROpwp9ePlHjTRlIuXk2iyNe`

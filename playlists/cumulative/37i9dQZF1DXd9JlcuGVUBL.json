@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Ichnus",
+  "description": "Die beste country musiek. Omslag: Eloff",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 183815,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
@@ -439,7 +439,7 @@
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 212962,
+      "duration_ms": 213062,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Country Probeer",
+        "url": "https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232153,
+      "name": "Country Probeer",
+      "url": "https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN"
+    },
+    {
+      "album": {
         "name": "Country Song Came On",
         "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
       },
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 263893,
       "name": "Fight Fire With A Flame",
       "url": "https://open.spotify.com/track/4DAEkAd5rTMruWqKFW8oxB"
@@ -3109,6 +3127,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169958,
+      "name": "ONE MORE",
+      "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
+    },
+    {
+      "album": {
         "name": "One Road Out",
         "url": "https://open.spotify.com/album/6EIgJ1gzvolbTkrem2P8jQ"
       },
@@ -3474,7 +3510,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 170000,
       "name": "Rowwe Aande",
       "url": "https://open.spotify.com/track/5SR22xwAC6bwwGVyCUnt9x"
@@ -4234,7 +4270,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 249731,
       "name": "Trots Suid-Afrikaans",
       "url": "https://open.spotify.com/track/3cCDPHbD2CtNzBaAb1vTz4"

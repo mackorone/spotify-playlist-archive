@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Anastasios Rammos",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Apostolia Zoi",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -884,6 +884,24 @@
       "duration_ms": 267480,
       "name": "Epitelous",
       "url": "https://open.spotify.com/track/3Qsq7EWfKRmYLzmY2wWvE2"
+    },
+    {
+      "album": {
+        "name": "Erotas Eisai",
+        "url": "https://open.spotify.com/album/4tpUfY9myOHSSaqaQp0w1G"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Papadopoulos",
+          "url": "https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211338,
+      "name": "Erotas Eisai",
+      "url": "https://open.spotify.com/track/6XMUFhd6rikAzz0w2A4ath"
     },
     {
       "album": {
@@ -2073,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Deka",
+        "url": "https://open.spotify.com/album/2UnmILWDKGhCl9XbSiRcht"
+      },
+      "artists": [
+        {
+          "name": "Anastasios Rammos",
+          "url": "https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163841,
+      "name": "Na M' Agapas",
+      "url": "https://open.spotify.com/track/419XlcPiQkS7fPsAnnSL25"
+    },
+    {
+      "album": {
         "name": "Na Peite Sto Paidi",
         "url": "https://open.spotify.com/album/6hEqjqDmKi7e661j514OFl"
       },
@@ -2428,7 +2464,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 162035,
       "name": "Pano Kato",
       "url": "https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY"
@@ -2684,7 +2720,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 212744,
       "name": "Porni Outopia",
       "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
@@ -2956,7 +2992,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 159664,
       "name": "Shik Shak Shock",
       "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
@@ -3126,6 +3162,24 @@
       "duration_ms": 252415,
       "name": "Sta Logia Meiname",
       "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"
+    },
+    {
+      "album": {
+        "name": "Steritika",
+        "url": "https://open.spotify.com/album/73k7aV7i7zq90arWKLfyYH"
+      },
+      "artists": [
+        {
+          "name": "Apostolia Zoi",
+          "url": "https://open.spotify.com/artist/1Bkxsw4F0k3dwgA1GtpPaJ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158233,
+      "name": "Steritika",
+      "url": "https://open.spotify.com/track/2EncMWWrQJhNWsZ3vG7eaq"
     },
     {
       "album": {

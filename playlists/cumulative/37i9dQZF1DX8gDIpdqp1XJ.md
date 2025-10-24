@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-993 songs - 2 day 16 hr 47 min
+997 songs - 2 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-07 | 2023-12-02 |
 | [Days Like These](https://open.spotify.com/track/2exuDqNVfSYuPEBAmogFeY) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Days Like These](https://open.spotify.com/album/3OIhcJ1dODYadOqISRc4SG) | 3:32 | 2021-08-20 | 2022-07-26 |
 | [Dearest](https://open.spotify.com/track/4QzBdskP3xtUZDe6WUG7OQ) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 3:19 | 2021-06-04 | 2022-07-01 |
+| [DEATH COMES FROM THE SKY](https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [CURSE](https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41) | 2:28 | 2025-10-24 |  |
 | [Deep in Thought](https://open.spotify.com/track/0FeNQSPv57L6ZomDDLSjMb) | [South of France](https://open.spotify.com/artist/0sBxk1gyQM4VN1j1pS01GJ) | [Deep in Thought](https://open.spotify.com/album/7HvToLnaATPKifUgdKGBT0) | 3:27 | 2023-03-06 | 2023-03-11 |
 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 | 2023-06-30 | 2023-08-19 |
 | [Desert Horse](https://open.spotify.com/track/0NrvQDetQZEQgn1rePONfT) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Desert Horse](https://open.spotify.com/album/6J2SXoCyOeEz6QiUyhxfaP) | 5:15 | 2021-04-02 | 2022-04-19 |
@@ -540,6 +541,7 @@
 | [Matador](https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Matador](https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi) | 3:16 | 2022-10-07 | 2022-12-18 |
 | [maybe](https://open.spotify.com/track/4nTR8KBN9mu1Yjy7P6K29l) | [Charlie Myles](https://open.spotify.com/artist/2NDd2biAGcq4bdICP7mFb7) | [maybe](https://open.spotify.com/album/6DtOiwEsQh4liA9UK0xqBB) | 2:15 | 2023-01-27 | 2023-03-11 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/4N5JhudHz0Wlj9r3FDpGyi) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Me Myself and Dollar Hell](https://open.spotify.com/album/3vZXuT5lKdbUFKNhXLtN81) | 3:00 | 2021-08-20 | 2022-07-09 |
+| [Meant to Be](https://open.spotify.com/track/0pXt0UdacoAg0eYHvPukXF) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl), [© Linda Fox](https://open.spotify.com/artist/2DOGDrGDmfURr17vp3FYkJ) | [Meant to Be](https://open.spotify.com/album/7owhzox0MmtVOr95H3jYRR) | 4:33 | 2025-10-24 |  |
 | [Medicine](https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 5:11 | 2023-06-09 | 2023-08-26 |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-14 | 2024-02-22 |
 | [Meet You in the Dark](https://open.spotify.com/track/5QOmCG8ujCRA7lgDOFJXv6) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Meet You in the Dark](https://open.spotify.com/album/5BqQM6aij8GzQgcNyuOQln) | 2:55 | 2021-04-02 | 2022-07-07 |
@@ -731,6 +733,7 @@
 | [Scattered Dreams](https://open.spotify.com/track/44IYLlpl5cPvqQH9Ff6GhQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Scattered Dreams](https://open.spotify.com/album/2nEeFzRFh8ppWwAvlVtgPv) | 3:54 | 2023-05-05 | 2023-09-25 |
 | [Scattered Dreams](https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Time Lapsed](https://open.spotify.com/album/2rzaUdlBmCJt9f5KjT2HDE) | 3:54 | 2023-05-05 | 2024-04-19 |
 | [Schedule](https://open.spotify.com/track/1MpAPtGwhH1zagZwpQ7a6r) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Schedule](https://open.spotify.com/album/3YuYutAkjm9WsxG53Sek6u) | 4:14 | 2021-04-02 | 2022-04-19 |
+| [Search and Destroy](https://open.spotify.com/track/0xIvgrDJMzYjwom7MwdfKT) | [Ima Robot](https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb) | [Search and Destroy](https://open.spotify.com/album/5hgxmqIJcumltwZhrKS3wN) | 2:19 | 2025-10-24 |  |
 | [Seize the Day](https://open.spotify.com/track/0zyJIiJw64jCFAqpZGT7vE) | [Blac Rabbit](https://open.spotify.com/artist/0UvgR4VckgdEkBhTOjxwCc) | [Seize the Day](https://open.spotify.com/album/08DK7K5Z1uwDObLOKzMca1) | 5:02 | 2021-04-02 | 2022-04-21 |
 | [Sense](https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Paper Mâché Dream Balloon](https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5) | 3:30 | 2022-07-22 | 2023-04-29 |
 | [Sense](https://open.spotify.com/track/7tUUZ74ZhKN8B1IiMREYlO) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Paper Mâché Dream Balloon](https://open.spotify.com/album/2JBYEDQtyCpo9M6otaJLmI) | 3:30 | 2021-04-02 | 2022-07-29 |
@@ -834,6 +837,7 @@
 | [Take Me Avalon I'm Young](https://open.spotify.com/track/01fdJQg7hkJZV0PgXidvDG) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 3:31 | 2021-10-08 | 2022-07-06 |
 | [take me home](https://open.spotify.com/track/1n6D4uMH3OXU8bgbLDTroE) | [Moon Tide Gallery](https://open.spotify.com/artist/5yS0ICIkgehkPHwYCpe5Hy) | [take me home](https://open.spotify.com/album/311YmSBDRgHDHaEjuCq78j) | 3:49 | 2023-06-09 | 2024-01-03 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-04-02 | 2022-04-16 |
+| [Tanana](https://open.spotify.com/track/0lYkjoTbmh9sVPv9yvGae3) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Tanana / Mush](https://open.spotify.com/album/0x1oIowTSUKCbeCEiUCifA) | 3:19 | 2025-10-24 |  |
 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 | 2021-04-02 | 2022-07-04 |
 | [Taste](https://open.spotify.com/track/6kcRaRTILeTqwZGnsDLjsy) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Taste](https://open.spotify.com/album/6qt5yQOrotsGW6K0pNMRke) | 3:36 | 2021-04-02 | 2022-04-16 |
 | [Taxi’s Here](https://open.spotify.com/track/1T5tDibcj3AmFmPxYGm6vp) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:47 | 2021-04-02 | 2022-06-01 |

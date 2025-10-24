@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 60538,
+  "num_followers": 60551,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "De Raza Campera",
+        "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
+      },
+      "artists": [
+        {
+          "name": "Leandro Gutierrez y su Conjunto",
+          "url": "https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm"
+        }
+      ],
+      "duration_ms": 138844,
+      "name": "De Raza Campera",
+      "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "De Raza Campera",
-        "url": "https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D"
-      },
-      "artists": [
-        {
-          "name": "Leandro Gutierrez y su Conjunto",
-          "url": "https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm"
-        }
-      ],
-      "duration_ms": 138844,
-      "name": "De Raza Campera",
-      "url": "https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU"
     },
     {
       "added_at": "2025-03-31 12:53:49",

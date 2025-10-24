@@ -1,13 +1,29 @@
 {
-  "description": "Die beste country musiek. Omslag: Ichnus",
-  "num_followers": 41023,
+  "description": "Die beste country musiek. Omslag: Eloff",
+  "num_followers": 41033,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPb0ukVpsyB/+c8yjGK89IcTE23Z",
+  "snapshot_id": "AAAAAJ2xpiE9iIee0Z+vEggVsJId5BzL",
   "tracks": [
+    {
+      "added_at": "2025-10-23 22:00:50",
+      "album": {
+        "name": "Country Probeer",
+        "url": "https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 232153,
+      "name": "Country Probeer",
+      "url": "https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN"
+    },
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
@@ -49,22 +65,6 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
-      "added_at": "2025-09-25 22:00:26",
-      "album": {
-        "name": "Almal Weet",
-        "url": "https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg"
-      },
-      "artists": [
-        {
-          "name": "Ichnus",
-          "url": "https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT"
-        }
-      ],
-      "duration_ms": 198923,
-      "name": "Almal Weet",
-      "url": "https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq"
-    },
-    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "A Bar Song (Tipsy)",
@@ -79,6 +79,22 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2025-10-23 22:00:50",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 169958,
+      "name": "ONE MORE",
+      "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -149,6 +165,22 @@
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
     },
     {
+      "added_at": "2025-07-31 22:00:30",
+      "album": {
+        "name": "Acoustic Sessions Vol 1",
+        "url": "https://open.spotify.com/album/2fIIbii7DzZNW7DxQA7C4g"
+      },
+      "artists": [
+        {
+          "name": "Ruan Josh",
+          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Till the neon's gone / Stand by me",
+      "url": "https://open.spotify.com/track/2UhOHSiABCaDKTPogBNT8R"
+    },
+    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "I Had Some Help",
@@ -167,22 +199,6 @@
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
-    },
-    {
-      "added_at": "2025-07-31 22:00:30",
-      "album": {
-        "name": "Acoustic Sessions Vol 1",
-        "url": "https://open.spotify.com/album/2fIIbii7DzZNW7DxQA7C4g"
-      },
-      "artists": [
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Till the neon's gone / Stand by me",
-      "url": "https://open.spotify.com/track/2UhOHSiABCaDKTPogBNT8R"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -231,22 +247,6 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2025-09-19 10:40:37",
-      "album": {
-        "name": "Fight Fire With A Flame",
-        "url": "https://open.spotify.com/album/0e6roXxtOt0WL0s1pVQJd4"
-      },
-      "artists": [
-        {
-          "name": "Christian John",
-          "url": "https://open.spotify.com/artist/5n3HIoI0nArjxKAhQcrSNY"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Fight Fire With A Flame",
-      "url": "https://open.spotify.com/track/4DAEkAd5rTMruWqKFW8oxB"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -332,7 +332,7 @@
           "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 212962,
+      "duration_ms": 213062,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/1Zf4uRhtfWbMK9a8My3S03"
     },
     {
+      "added_at": "2025-09-25 22:00:26",
+      "album": {
+        "name": "Almal Weet",
+        "url": "https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg"
+      },
+      "artists": [
+        {
+          "name": "Ichnus",
+          "url": "https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT"
+        }
+      ],
+      "duration_ms": 198923,
+      "name": "Almal Weet",
+      "url": "https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq"
+    },
+    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "I'm The Problem",
@@ -583,22 +599,6 @@
       "duration_ms": 212437,
       "name": "Not At This Party",
       "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
-    },
-    {
-      "added_at": "2025-09-25 22:00:26",
-      "album": {
-        "name": "Trots Suid-Afrikaans",
-        "url": "https://open.spotify.com/album/2bWD5Ml1rS1QwV5GQfKqGr"
-      },
-      "artists": [
-        {
-          "name": "Corn\u00e9 Louw",
-          "url": "https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ"
-        }
-      ],
-      "duration_ms": 249731,
-      "name": "Trots Suid-Afrikaans",
-      "url": "https://open.spotify.com/track/3cCDPHbD2CtNzBaAb1vTz4"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -669,22 +669,6 @@
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
     },
     {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
-        "name": "Rowwe Aande",
-        "url": "https://open.spotify.com/album/2OT7q6hUPN96xZMeovuYV2"
-      },
-      "artists": [
-        {
-          "name": "Christiaan Carstens",
-          "url": "https://open.spotify.com/artist/6MJAnS9V6Jzfv5AcBodBIu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rowwe Aande",
-      "url": "https://open.spotify.com/track/5SR22xwAC6bwwGVyCUnt9x"
-    },
-    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "White Horse",
@@ -719,6 +703,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -855,6 +839,26 @@
       "duration_ms": 220157,
       "name": "You Had To Be There (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
+    },
+    {
+      "added_at": "2025-06-26 22:00:36",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 183815,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     }
   ],
   "unique_name": "Country Musiek",

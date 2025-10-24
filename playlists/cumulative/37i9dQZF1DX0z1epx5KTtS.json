@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Serge Beynaud",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Team Paiya",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -3199,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "Les Hommes du Pouvoir",
+        "url": "https://open.spotify.com/album/6htoc1uoP1OLPkuhRzbj3D"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Les Hommes du Pouvoir",
+      "url": "https://open.spotify.com/track/5AN6Xo7sl4ZxjZhQOYVymx"
+    },
+    {
+      "album": {
         "name": "Ma Place",
         "url": "https://open.spotify.com/album/3cevtx8WGwucUcmrP9toVk"
       },
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 210206,
       "name": "Noroyabazin - La dance du Bazin",
       "url": "https://open.spotify.com/track/0916kwsuNxKSPexm1Q3UvI"

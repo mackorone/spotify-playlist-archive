@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 2,721 likes - 59 songs - 3 hr 47 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 2,722 likes - 59 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 44 | [Run Free](https://open.spotify.com/track/61AY4Xtv1G9BGeE1LZyk29) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying](https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8) | 4:40 |
 | 45 | [MY TYPE](https://open.spotify.com/track/0PlecpToLRAAAXY0KaiyiJ) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [THE BPM](https://open.spotify.com/album/6xuXmpSyh7WqIct3bvsSfg) | 3:08 |
 | 46 | [House of Dead Memories](https://open.spotify.com/track/7lb4OGnYSsPE0OG0yIu1GL) | [Sugar](https://open.spotify.com/artist/4DD6xBZ1INIT3yGJRQLzej) | [House of Dead Memories](https://open.spotify.com/album/6utbOnPWSYw7nQHXu8sBbi) | 2:06 |
-| 47 | [Nigeria 1984](https://open.spotify.com/track/2SP8GjU3hv4acw3rFgJYOl) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Oumy](https://open.spotify.com/artist/7kc1AHamzDTIg0EkXnCZid) | [Earth Is Begging](https://open.spotify.com/album/2YEalm3OGMsiJNzXldPcMe) | 3:23 |
+| 47 | [Nigeria 1984](https://open.spotify.com/track/2SP8GjU3hv4acw3rFgJYOl) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Oumy](https://open.spotify.com/artist/5GjX6I2UCWn9S8vm63ffoy) | [Earth Is Begging](https://open.spotify.com/album/2YEalm3OGMsiJNzXldPcMe) | 3:23 |
 | 48 | [Pale Blue](https://open.spotify.com/track/2bGSuFriNuFKna7xf4pY6s) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Pale Blue](https://open.spotify.com/album/5VuCQ0LxE50Y6EYLndrzrP) | 2:35 |
 | 49 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 |
 | 50 | [Main Event](https://open.spotify.com/track/5jz0O5hFKUFe7Rg5pUzx10) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP), [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX) | [Main Event](https://open.spotify.com/album/7aWE3QNvesLISCJFt0UtWO) | 3:12 |

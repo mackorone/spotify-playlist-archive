@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Yiruma
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,567 likes - 78 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,600 likes - 78 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 2 | [Festive Overture, Op\. 96](https://open.spotify.com/track/4tX67B22pLf6o1hPPgNKlU) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Gianandrea Noseda](https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Shostakovich: Festive Overture](https://open.spotify.com/album/7wNdN2HoHEBQfEtyRupd8H) | 6:02 |
 | 3 | [Debussy: Arabesque No\. 1, L\. 66](https://open.spotify.com/track/0Fmb1NhrUD4UNEitq0BrKj) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Debussy: Arabesque No\. 1, L\. 66](https://open.spotify.com/album/2Fz5qE8UWfhfviYireJaD7) | 6:43 |
 | 4 | [Rhapsody on a Theme of Paganini, Op\. 43: Var\. 18\. Andante cantabile \(Arr\. Korepanova for Solo Piano\)](https://open.spotify.com/track/5jw0ZZVYXI6zYXGfQZ3o8W) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 3:02 |
-| 5 | [Schumann: Kinderszenen, Op\. 15: No\. 7, Traümerei](https://open.spotify.com/track/5e0ONjTHbD5hJqtYhbPJVW) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Kenji Miura](https://open.spotify.com/artist/3ChmbYeVzbJXj5DO0eyqp4) | [Schumann: Traümerei](https://open.spotify.com/album/6ZdK2ZQDIZeyg8NgBI158J) | 3:02 |
+| 5 | [Schumann: Kinderszenen, Op\. 15: No\. 7, Träumerei](https://open.spotify.com/track/5e0ONjTHbD5hJqtYhbPJVW) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Kenji Miura](https://open.spotify.com/artist/3ChmbYeVzbJXj5DO0eyqp4) | [Schumann: Träumerei](https://open.spotify.com/album/6ZdK2ZQDIZeyg8NgBI158J) | 3:02 |
 | 6 | [10 Preludes, Op\. 23: IV\. Andante cantabile](https://open.spotify.com/track/19BoCZ6x35cIshRAPWR1V5) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [10 Preludes, Op\. 23: IV\. Andante cantabile](https://open.spotify.com/album/7bTiSMDwSmUt8OQZeEPnoM) | 4:46 |
 | 7 | [Mazurka No\. 14 in G Minor, Op\. 24 No\. 1](https://open.spotify.com/track/2sLvpoYjigFLY7uANZ2pXR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Mazurkas Opp\. 6, 17, 24, 41, 50, 56 & 63](https://open.spotify.com/album/0XkKT6kDxnNOgfjtsWNb1i) | 2:36 |
 | 8 | [Ithaca Suite: VII\. Pax Athenae](https://open.spotify.com/track/0nvJPiORjBCDWrrejARm2r) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Ithaca Suite/VII\. Pax Athenae](https://open.spotify.com/album/0UGWYSfM6oQIVcXdNYJPsh) | 4:20 |

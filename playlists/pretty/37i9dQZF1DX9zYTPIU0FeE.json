@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
-  "num_followers": 12157,
+  "num_followers": 12165,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,46 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "The Crossover II",
+        "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
+      },
+      "artists": [
+        {
+          "name": "Jazzgroupiez",
+          "url": "https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM"
+        },
+        {
+          "name": "Saul Madiope",
+          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
+        },
+        {
+          "name": "Stephen Richard",
+          "url": "https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3"
+        }
+      ],
+      "duration_ms": 129998,
+      "name": "Brunch In Harlem",
+      "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -311,38 +351,6 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
         "name": "African Time",
         "url": "https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s"
       },
@@ -359,26 +367,18 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "The Crossover II",
-        "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
       },
       "artists": [
         {
-          "name": "Jazzgroupiez",
-          "url": "https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM"
-        },
-        {
-          "name": "Saul Madiope",
-          "url": "https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3"
-        },
-        {
-          "name": "Stephen Richard",
-          "url": "https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3"
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
         }
       ],
-      "duration_ms": 129998,
-      "name": "Brunch In Harlem",
-      "url": "https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9"
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -451,6 +451,26 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
+      },
+      "artists": [
+        {
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
-      },
-      "artists": [
-        {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -879,18 +879,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "Lullaby for Khayoyo",
-        "url": "https://open.spotify.com/album/1DHnHcZeohhtUCN67IOxiB"
+        "name": "Apho Kungenje",
+        "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
       },
       "artists": [
         {
-          "name": "McCoy Mrubata",
-          "url": "https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5"
+          "name": "Ncesh Nonxishi",
+          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
+        },
+        {
+          "name": "Mthunzikazi Mbungwana",
+          "url": "https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo"
         }
       ],
-      "duration_ms": 491192,
-      "name": "Ezilalini",
-      "url": "https://open.spotify.com/track/09hp2WoNDK4HmVL7kTzrHy"
+      "duration_ms": 413906,
+      "name": "Ebhedini",
+      "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -911,22 +915,18 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "Apho Kungenje",
-        "url": "https://open.spotify.com/album/7BgstqFLclam34XUZfiX33"
+        "name": "Lullaby for Khayoyo",
+        "url": "https://open.spotify.com/album/1DHnHcZeohhtUCN67IOxiB"
       },
       "artists": [
         {
-          "name": "Ncesh Nonxishi",
-          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
-        },
-        {
-          "name": "Mthunzikazi Mbungwana",
-          "url": "https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo"
+          "name": "McCoy Mrubata",
+          "url": "https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5"
         }
       ],
-      "duration_ms": 413906,
-      "name": "Ebhedini",
-      "url": "https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63"
+      "duration_ms": 491192,
+      "name": "Ezilalini",
+      "url": "https://open.spotify.com/track/09hp2WoNDK4HmVL7kTzrHy"
     },
     {
       "added_at": "2025-08-29 10:19:41",

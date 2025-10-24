@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 
 > The tracks that you love from the artists you love\. Cover: Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,519 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,720 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MbMfAHb8U0.md) - [plain]
 | 99 | [Love Jones](https://open.spotify.com/track/6nKicHEYNBSSPc7gRNvy72) | [Chico DeBarge](https://open.spotify.com/artist/67ISVBZzcCTTKM17Ps00sx) | [Long Time No See](https://open.spotify.com/album/59BzD3TlvOhiw7pTc3pk6K) | 4:43 |
 | 100 | [No Us, No Them](https://open.spotify.com/track/2IS7iaxPURfSfJZZceOVK8) | [Bernhoft](https://open.spotify.com/artist/7hJnLLfzUy0oDOtNZF8wUm), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Islander](https://open.spotify.com/album/2CQoEMpJwCmowXcprCCKzN) | 5:41 |
 
-Snapshot ID: `AAAAAAOugG8gVzYX1GTeioG+d/5MAFk2`
+Snapshot ID: `AAAAAHhVSkUtj2tFg09a5NXyt3fa1dbZ`

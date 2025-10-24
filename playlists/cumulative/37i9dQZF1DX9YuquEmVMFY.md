@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9YuquEmVMFY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9YuquEmVMFY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9YuquEmVMFY)
 
-### [On Tour Korea: Ryokuoushoku Shakai](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
+### [On Tour Korea: Travis Scott](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
 
 > TRAVIS SCOTT \- CIRCUS MAXIMUS in Korea 2025.10.25 @ 고양 종합 운동장
 

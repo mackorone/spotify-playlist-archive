@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43777,
+  "num_followers": 43774,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAadhBgebFrl2L/9wHMjFg+MAHxx6/x",
+  "snapshot_id": "AAAaeHKC42nnSLjLGopmFiDvnHGBItwf",
   "tracks": [
+    {
+      "added_at": "2025-10-24 04:00:21",
+      "album": {
+        "name": "San Diego",
+        "url": "https://open.spotify.com/album/1FsJRWqLv5jI7LwO6ptrzn"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 168695,
+      "name": "San Diego",
+      "url": "https://open.spotify.com/track/4jbmPbCPQD4TxAXjGMbNIr"
+    },
+    {
+      "added_at": "2025-10-24 04:00:20",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/7a6GG1brPwSupamjLGahQS"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/2Hc2qBnB8rUrpFy80b8eby"
+    },
     {
       "added_at": "2025-10-17 18:24:49",
       "album": {

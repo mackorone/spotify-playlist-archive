@@ -17183,6 +17183,28 @@
     },
     {
       "album": {
+        "name": "Piece of Mind",
+        "url": "https://open.spotify.com/album/39fwua4qgbVlvktxc9WLHE"
+      },
+      "artists": [
+        {
+          "name": "Adam Klobi",
+          "url": "https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI"
+        },
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2025-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235247,
+      "name": "Piece of Mind",
+      "url": "https://open.spotify.com/track/5NKS1vZJLvKNT7wNRxq42s"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d"
       },

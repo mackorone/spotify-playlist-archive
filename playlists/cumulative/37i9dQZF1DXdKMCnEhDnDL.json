@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: Zo\u00eb Livay",
+  "description": "De beste Nederlandse liedjes. Cover: Hannah Mae",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -3253,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Houden Van Haten",
+        "url": "https://open.spotify.com/album/5pTIrOVqiNEe0pi9pV333j"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        },
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192049,
+      "name": "Houden Van Haten",
+      "url": "https://open.spotify.com/track/1nVXy0NnlDUPFIeEGuoe9S"
+    },
+    {
+      "album": {
         "name": "Houden Van Mij",
         "url": "https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty"
       },
@@ -3640,7 +3662,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 166923,
       "name": "Ik Spaar Geen Centen",
       "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"

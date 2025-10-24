@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "ACL",
+      "url": "https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S"
+    },
+    {
+      "album": {
         "name": "ADA",
         "url": "https://open.spotify.com/album/4Osfrf7ymT1xzP4w0btQpZ"
       },
@@ -1463,7 +1481,7 @@
     },
     {
       "album": {
-        "name": "Body Go",
+        "name": "Body Go (with Tyla)",
         "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
       },
       "artists": [
@@ -1480,7 +1498,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165000,
-      "name": "Body Go",
+      "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
     },
     {
@@ -3952,7 +3970,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 236347,
       "name": "Gen Z Love",
       "url": "https://open.spotify.com/track/3o098CKsWI7KBVdAqIFhdh"
@@ -6520,7 +6538,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
@@ -7897,6 +7915,24 @@
     },
     {
       "album": {
+        "name": "I D R I S",
+        "url": "https://open.spotify.com/album/7wCBsfkkPKxSlxa5ivTB1w"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Owo (Olomoge)",
+      "url": "https://open.spotify.com/track/7rdc5VeokulNiykWmE2HgU"
+    },
+    {
+      "album": {
         "name": "OYO (On Your Own)",
         "url": "https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI"
       },
@@ -8772,10 +8808,32 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+    },
+    {
+      "album": {
+        "name": "Shakabulizzy (Remix)",
+        "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Shakabulizzy - Remix",
+      "url": "https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi"
     },
     {
       "album": {
@@ -9409,6 +9467,28 @@
     },
     {
       "album": {
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179381,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
       },
@@ -9828,7 +9908,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 133043,
       "name": "Too Busy",
       "url": "https://open.spotify.com/track/22l3YPQhWkphT3FWJL7heC"
@@ -10512,6 +10592,28 @@
       "duration_ms": 158400,
       "name": "WHAT HAVE YOU DONE",
       "url": "https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC"
+    },
+    {
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/3gUojms7owZ051gB5AWlTG"
+      },
+      "artists": [
+        {
+          "name": "Uche B",
+          "url": "https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v"
+        },
+        {
+          "name": "Mangodance",
+          "url": "https://open.spotify.com/artist/4ZHLtUjqMxXhA05qiDgnH1"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A"
     },
     {
       "album": {

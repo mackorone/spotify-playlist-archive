@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Mir Nicolas
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,681 likes - 105 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,671 likes - 105 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 104 | [CAUSALIDAD](https://open.spotify.com/track/2OHV8ExjIHLsgwfWWNAOPo) | [Tian vck](https://open.spotify.com/artist/6FIeC9f8qjVNu7xSj71jzW), [El Esca](https://open.spotify.com/artist/7GdYY1koOX8nAt1sDFlfzt) | [CAUSALIDAD](https://open.spotify.com/album/7Ir56pw3YmrXt7OdxZqpQa) | 2:25 |
 | 105 | [NÚMEROS](https://open.spotify.com/track/4WF8Ce2qc2hpbrtpaUiSPN) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [NÚMEROS](https://open.spotify.com/album/05L2g7oNkpi9nvze7voEgy) | 2:45 |
 
-Snapshot ID: `AAAAAMZqedEA9pCM7W8ZuJ0CtRNkb1ac`
+Snapshot ID: `AAAAAHS82IbN9sYNtQVDhw6Km9oRJufy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,826,246 likes - 205 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,826,744 likes - 205 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 204 | [Nostalgic](https://open.spotify.com/track/3bVNWnQQzTvjLGN8SgBvvv) | [Amber Sky](https://open.spotify.com/artist/6DH3SvRzxgISukfWiREIre) | [Nostalgic](https://open.spotify.com/album/1oYxIdxtWAuoS5zBj5QHEl) | 2:54 |
 | 205 | [Latitude](https://open.spotify.com/track/49wbzcnZpd8ySgOP7Vn9Vu) | [Sam Matthew](https://open.spotify.com/artist/6PkYVSB01oeVQJwmfxTd6M) | [Latitude](https://open.spotify.com/album/4TeX6ZH14NxtlVCZ66mnNg) | 2:19 |
 
-Snapshot ID: `AAAAAEuu0yNztGEmP9AmjEBFOZu5GEop`
+Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`

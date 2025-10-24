@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,705 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,765 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Apaixona Muita Gente \- Ao Vivo](https://open.spotify.com/track/47lS4QkejzTxY058UmbQhv) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk), [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Apaixona Muita Gente \(Ao Vivo\)](https://open.spotify.com/album/3LaWG2GUUDd5nnVWdayr93) | 2:40 |
 | 50 | [Vacilona \- Ao Vivo](https://open.spotify.com/track/1butVubqmo2gXoAgZiM7hY) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Ao Vivo Nos Porta\-Malas \- Vol\. 2](https://open.spotify.com/album/68BF78Yfvo8iU0ggDkOrdx) | 2:16 |
 
-Snapshot ID: `MIxK+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MI2aIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

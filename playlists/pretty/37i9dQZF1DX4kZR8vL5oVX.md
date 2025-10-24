@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Miki \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,802 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,800 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 17 | [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 |
 | 18 | [RAGE](https://open.spotify.com/track/5NlCOpIwwKXz2nTu3JSaZA) | [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [RAGE](https://open.spotify.com/album/3NcvHIonSqFpWdgPvWDem2) | 2:55 |
 | 19 | [MON BÉBÉ](https://open.spotify.com/track/2R7R94zl7B8tZ47HWPQesc) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:23 |
-| 20 | [les avions](https://open.spotify.com/track/0rKI4LbWhiYLrokKjVxQHt) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les avions](https://open.spotify.com/album/6PELiskolaUJaVhvFR9Pbk) | 2:38 |
+| 20 | [les avions](https://open.spotify.com/track/0rKI4LbWhiYLrokKjVxQHt) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les avions](https://open.spotify.com/album/6PELiskolaUJaVhvFR9Pbk) | 2:39 |
 | 21 | [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 |
 | 22 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 |
 | 23 | [Chiens](https://open.spotify.com/track/51qMciprNwFso3R3XioUUu) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chiens](https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG) | 3:02 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 42 | [le stress et la monnaie](https://open.spotify.com/track/6w3fl8BG6WsJyEiihvnVGy) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [le stress et la monnaie](https://open.spotify.com/album/34vnGLn1IytmSOCZzCQeL6) | 3:41 |
 | 43 | [Swallows](https://open.spotify.com/track/2UzH3g6YD6xwjfR7YSISIU) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Swallows](https://open.spotify.com/album/30pAoKCZvypRubYeiJz4li) | 3:19 |
 | 44 | [Respire](https://open.spotify.com/track/712OgjddKy45t3qPjBIKQz) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Respire](https://open.spotify.com/album/586uDYayPhfpfSEPPFUaiz) | 3:03 |
-| 45 | [PIERROT LE FOU](https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PIERROT LE FOU](https://open.spotify.com/album/1gUOdwnfqdL8f97BS0j5kY) | 2:49 |
+| 45 | [PIERROT LE FOU](https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh) | [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [PIERROT LE FOU](https://open.spotify.com/album/1gUOdwnfqdL8f97BS0j5kY) | 2:48 |
 | 46 | [Ça sent pas bon](https://open.spotify.com/track/4k2i59FDiNy3Wb16fmmUU6) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Ça sent pas bon](https://open.spotify.com/album/2IUWYKMdPRpKZZE93UmrLW) | 2:17 |
 | 47 | [ride or die](https://open.spotify.com/track/1rLdDdCgKA1oWhzvm3cDb3) | [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [ride or die](https://open.spotify.com/album/1AzPfd0Wg2QRNA73ue7WY5) | 2:47 |
 | 48 | [NE REPOND PAS](https://open.spotify.com/track/2LFqtdakseyIck34XjTrg5) | [ALBA](https://open.spotify.com/artist/4UhYvW3mqQS4btbiJDfMyV) | [NE REPOND PAS](https://open.spotify.com/album/6SPtHZjSoveI9sqOE97TV5) | 2:11 |

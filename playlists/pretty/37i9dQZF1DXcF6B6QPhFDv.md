@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Militarie Gun
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,309,867 likes - 82 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,309,495 likes - 82 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

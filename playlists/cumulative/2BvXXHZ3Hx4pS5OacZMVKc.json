@@ -3447,6 +3447,28 @@
     },
     {
       "album": {
+        "name": "Hero's Ending",
+        "url": "https://open.spotify.com/album/0F2ec1MWnZJ0Bz7pupoaWp"
+      },
+      "artists": [
+        {
+          "name": "Lost Sky",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "name": "OPALS",
+          "url": "https://open.spotify.com/artist/2zfIng9rmEWqL6EdbwozIq"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Hero's Ending",
+      "url": "https://open.spotify.com/track/4b1QOluT2bgdrG2KTXRmQm"
+    },
+    {
+      "album": {
         "name": "Hide Your Heart",
         "url": "https://open.spotify.com/album/4tpchLz24pygDGVkoX6qXC"
       },

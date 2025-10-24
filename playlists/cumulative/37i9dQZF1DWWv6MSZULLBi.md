@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Great Lake Swimmers
 
-1,383 songs - 3 day 11 hr 17 min
+1,384 songs - 3 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -937,6 +937,7 @@
 | [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 | 2023-04-21 | 2023-10-07 |
 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2022-07-01 | 2023-03-25 |
 | [Pictures of Paris](https://open.spotify.com/track/4USgnbSI6cah2DgMCsuMzW) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [Pictures of Paris](https://open.spotify.com/album/7unK7oNkSgHf5WmBSrX986) | 3:33 | 2023-10-20 | 2023-12-23 |
+| [Piece of Mind](https://open.spotify.com/track/5NKS1vZJLvKNT7wNRxq42s) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Piece of Mind](https://open.spotify.com/album/39fwua4qgbVlvktxc9WLHE) | 3:55 | 2025-10-17 |  |
 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 | 2023-05-05 | 2023-07-01 |
 | [Pilgrims](https://open.spotify.com/track/5nVlBiK4kqitHE1An7BFL5) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Pilgrims](https://open.spotify.com/album/1vvE4s8YX5IRRVBYq9Gxwp) | 4:37 | 2023-09-22 | 2023-10-14 |
 | [Pine](https://open.spotify.com/track/0a3SUkWh13mUx6mh2Lg2mq) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Pine](https://open.spotify.com/album/7Br7mFSH8gvJ3pcHFaxu76) | 3:42 | 2025-07-04 | 2025-08-29 |

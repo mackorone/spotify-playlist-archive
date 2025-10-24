@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Katarina, RAVA",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Erika Isac",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 178837,
       "name": "Bani & Pl\u0103ceri",
       "url": "https://open.spotify.com/track/4OvMCOrWB9vFN6UIGtpoL8"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 146214,
       "name": "Bass",
       "url": "https://open.spotify.com/track/5NLfIFyx4csoftlFerjuVr"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 186506,
       "name": "Mana sus",
       "url": "https://open.spotify.com/track/6pLmtX4CSfb4UUOnBQcNAB"
@@ -3048,7 +3048,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 146526,
       "name": "PESTE TOT",
       "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 275250,
       "name": "Piesa de masina",
       "url": "https://open.spotify.com/track/0KqldOyqf87zR2rail9Yxi"
@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/7KXn10FnYYqcoepIO95RdZ"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5QxMPQDcRaYThurJz6KYhx"
+    },
+    {
+      "album": {
         "name": "REGELE S-A \u00ceNTORS",
         "url": "https://open.spotify.com/album/0qKOiVCm7rKGH3iZPu1Ijm"
       },
@@ -3322,6 +3340,28 @@
       "duration_ms": 153707,
       "name": "Rom\u00e2neasc\u0103",
       "url": "https://open.spotify.com/track/6IvsHJJMAbf6lUBpFaSii4"
+    },
+    {
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/2mayvivDMSVcl9n0FcqsAP"
+      },
+      "artists": [
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/7y8gBW0r70bPZaF3h9fI7x"
     },
     {
       "album": {
@@ -3446,6 +3486,28 @@
       "duration_ms": 152571,
       "name": "Seria 5",
       "url": "https://open.spotify.com/track/41oOSj88trRGw0i16Rh9u1"
+    },
+    {
+      "album": {
+        "name": "SHE WANNA DANCE",
+        "url": "https://open.spotify.com/album/5AGYEzwSZi1V753Cg17MmO"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "AOUR",
+          "url": "https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "SHE WANNA DANCE",
+      "url": "https://open.spotify.com/track/017lLMCoXyiJrwhu9DfqiQ"
     },
     {
       "album": {
@@ -4081,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Valuri",
+        "url": "https://open.spotify.com/album/5INqX6JMCosUk3DVNJxtJ9"
+      },
+      "artists": [
+        {
+          "name": "Bitza",
+          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185529,
+      "name": "Valuri",
+      "url": "https://open.spotify.com/track/6zc4BD3MRj4YWb8Yt44fuu"
+    },
+    {
+      "album": {
         "name": "Cel mai frumos show",
         "url": "https://open.spotify.com/album/3jQEVnPOB9v5Dv7aWExx3b"
       },
@@ -4238,6 +4318,24 @@
       "duration_ms": 160000,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z"
+    },
+    {
+      "album": {
+        "name": "Zile Gemene",
+        "url": "https://open.spotify.com/album/4dgEAQpcWaILxIPMhzvyrD"
+      },
+      "artists": [
+        {
+          "name": "El Nino",
+          "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Zile Gemene",
+      "url": "https://open.spotify.com/track/1fLAcffF9GTh1XrZJWpVtU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-664 songs - 1 day 22 hr 0 min
+666 songs - 1 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [One Day You Will](https://open.spotify.com/track/6k0MYs7iejQfLAtJBmxCiC) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:13 | 2025-08-12 |  |
 | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/track/2vR4pJKdFMt2Mqk3j9ZPOI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/album/5cXDAJMKRcHtGdoVAHxIfc) | 3:21 | 2024-09-07 |  |
 | [One In This World](https://open.spotify.com/track/2hyLXM40ZAV9rMBtRNpJL1) | [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 4:11 | 2023-12-30 |  |
-| [One Less Lonely Heart](https://open.spotify.com/track/2tLRb3ZZ2nbHGlXVMNQBJA) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Water Under The Bridge](https://open.spotify.com/album/1IJbRzdrd9RH7mSvcUtufE) | 4:14 | 2025-09-10 |  |
+| [One Less Lonely Heart](https://open.spotify.com/track/2tLRb3ZZ2nbHGlXVMNQBJA) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Water Under The Bridge](https://open.spotify.com/album/1IJbRzdrd9RH7mSvcUtufE) | 4:14 | 2025-09-10 | 2025-10-24 |
+| [One Less Lonely Heart](https://open.spotify.com/track/16U0e4DjYEXBZUpw5wIajB) | [Smokey Mountain](https://open.spotify.com/artist/4kqsp7WTMpLUKe9GDJfY97) | [Know You Will](https://open.spotify.com/album/1O0dkqGQ4JZLoZScJOeryt) | 4:33 | 2025-10-23 |  |
 | [One Less Lonely Heart](https://open.spotify.com/track/1VuOHhfq5IMKolMQP9nms3) | [Smokey Mountain](https://open.spotify.com/artist/4kqsp7WTMpLUKe9GDJfY97) | [Know You Will](https://open.spotify.com/album/0aQ3iPqAB5roQwAqF4t4bf) | 4:33 | 2023-12-30 | 2025-08-29 |
 | [One More Mountain \(Free Again\)](https://open.spotify.com/track/0k4X5Ikasw226QDLnOnL6F) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 3:41 | 2023-12-30 |  |
 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 | 2023-12-30 |  |
@@ -557,7 +558,8 @@
 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 | 2024-06-16 |  |
 | [There Is No Heart That Won't Heal](https://open.spotify.com/track/0MG53mMBZb4mJpqR0Ukmjd) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Naked Without You](https://open.spotify.com/album/6qrmgCo7ZTnPPqLEcCcdvD) | 5:17 | 2023-12-30 |  |
 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 | 2023-12-30 |  |
-| [There You'll Be \(dal Film Pearl Harbour\)](https://open.spotify.com/track/41mYwd1noYXctLrGYj32fG) | [Film Orchestra](https://open.spotify.com/artist/6GE3gIjUijpFNel1OIfNr9) | [Film Oscar Vol\. 1 Cover Version \(MP3 Album\)](https://open.spotify.com/album/7kJdB7buEQagGUTfcN3nJC) | 4:00 | 2024-07-10 |  |
+| [There You'll Be \(dal Film Pearl Harbour\)](https://open.spotify.com/track/41mYwd1noYXctLrGYj32fG) | [Film Orchestra](https://open.spotify.com/artist/6GE3gIjUijpFNel1OIfNr9) | [Film Oscar Vol\. 1 Cover Version \(MP3 Album\)](https://open.spotify.com/album/7kJdB7buEQagGUTfcN3nJC) | 4:00 | 2024-07-10 | 2025-10-24 |
+| [There You'll Be \- From Pearl Harbor](https://open.spotify.com/track/1DyZlnrvzYCAjBOc6W8z3v) | [J.F\. Band](https://open.spotify.com/artist/7w5T5hY0evS3a3xQvNLSIC) | [Film In Love Collection Vol\. 1](https://open.spotify.com/album/1J4vXJZr4e3NTHmTiTvKlI) | 4:00 | 2025-10-23 |  |
 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 | 2023-12-30 |  |
 | [This Could Take All Night](https://open.spotify.com/track/1VfOrgBJKhvO1ivJ8u6hkf) | [Chris Emerson](https://open.spotify.com/artist/3wMMMz6nznx9XoTHjnOUgS) | [TOURIST](https://open.spotify.com/album/0spxXinrmiHGwjop4hxVIb) | 4:03 | 2024-07-10 |  |
 | [This Is for My Girls \- 128 BPM Workout Remix](https://open.spotify.com/track/0Oxh40DEPR1gtRWT7Qecue) | [Jayne Mendez](https://open.spotify.com/artist/1v0pPpow6FkpRm0M6jOtxx) | [40 Top Workout Hits 2016](https://open.spotify.com/album/1iX5KFclgzSrc4cP3Dje7H) | 4:50 | 2023-12-30 | 2025-06-20 |

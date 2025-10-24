@@ -1067,6 +1067,32 @@
     },
     {
       "album": {
+        "name": "Bleib stark",
+        "url": "https://open.spotify.com/album/2mBw0hNgfE4lvYgajed54n"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Bleib stark",
+      "url": "https://open.spotify.com/track/6JbVRviSipLkiY3khQjBWs"
+    },
+    {
+      "album": {
         "name": "Blocc Maroccina",
         "url": "https://open.spotify.com/album/4Lqb2VGtlhlh95hVX2Gz7r"
       },
@@ -1334,7 +1360,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 203995,
       "name": "Brennpunkt",
       "url": "https://open.spotify.com/track/1ZqLWpVs4LjkBDOrWRtivQ"
@@ -2179,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170773,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6"
+    },
+    {
+      "album": {
         "name": "drop body",
         "url": "https://open.spotify.com/album/699ao1hhKCVsnfnzlJKUmV"
       },
@@ -2226,7 +2270,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 184615,
       "name": "Dschungelbuch",
       "url": "https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb"
@@ -2686,6 +2730,24 @@
       "duration_ms": 150500,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt"
+    },
+    {
+      "album": {
+        "name": "GETRENNTE SOMMERNACHT",
+        "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161642,
+      "name": "GETRENNTE SOMMERNACHT",
+      "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
     },
     {
       "album": {
@@ -4745,7 +4807,7 @@
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 190258,
+      "duration_ms": 190227,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh"
     },
@@ -6400,7 +6462,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 134724,
       "name": "Temperatura",
       "url": "https://open.spotify.com/track/3CBPfbeWuAD1pM1IFHQ4Er"
@@ -6609,7 +6671,7 @@
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 252865,
+      "duration_ms": 252831,
       "name": "TRAPPER'S LULLABY",
       "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
     },

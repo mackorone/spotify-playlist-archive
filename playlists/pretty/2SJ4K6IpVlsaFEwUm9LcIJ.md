@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,454 likes - 65 songs - 3 hr 39 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,457 likes - 66 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 63 | [Victor, Fly Me to Stafford](https://open.spotify.com/track/3MNFiVcKOPlcvXcx9EHdpE) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [在動物園散步才是正經事](https://open.spotify.com/album/3R06MVz2i8ynBUfar35Ixk) | 2:14 |
 | 64 | [Golden Fall](https://open.spotify.com/track/1MxBaWWTu4RRh7edgHExVb) | [Ooberman](https://open.spotify.com/artist/0QEF9qRSTtRUV6leWVPhQt) | [Shorley Wall](https://open.spotify.com/album/24V0ER59SFtczhNhoqOYMq) | 4:55 |
 | 65 | [Stars](https://open.spotify.com/track/7AD1EjsHB0ynpJ1LCkcz2X) | [Lisa Germano](https://open.spotify.com/artist/5TZqjmYL8p9HtJsBKXCxgE) | [Geek the Girl](https://open.spotify.com/album/1yZ4bCBoDk01rxjefcoUzq) | 2:31 |
+| 66 | [Love To Know](https://open.spotify.com/track/2eJW10wl70KQ7zLazlSEMW) | [Marine Girls](https://open.spotify.com/artist/06U3HB7kYW3D8AORt54Xp8) | [Lazy Ways/Beach Party](https://open.spotify.com/album/1mcPuNWDmqpSpm86qyHD8l) | 2:51 |
 
-Snapshot ID: `AAANS7q0HDBE0eKHYLmUawdsGQTcqcVW`
+Snapshot ID: `AAANTDBPz48El6Idb1SY7t7NY3R1qQnm`

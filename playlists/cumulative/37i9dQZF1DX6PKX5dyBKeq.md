@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Nemzzz
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Dave, Kano
 
-2,182 songs - 4 day 12 hr 18 min
+2,187 songs - 4 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [16 Eden](https://open.spotify.com/track/2FqnCosayR6UTyRyVHhymb) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [16 Eden](https://open.spotify.com/album/5EUbD8c1aaQPPyaREQXRwB) | 2:30 | 2025-08-07 |  |
 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 | 2022-01-24 | 2022-01-29 |
 | [17 \(feat\. LD & Rv\)](https://open.spotify.com/track/0jrqHgpcNVSD6Fv71f8PdL) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [A Glass of Water 2](https://open.spotify.com/album/6BHyekmzGjCqv6ZDgK0GpI) | 3:07 | 2021-04-09 | 2021-05-29 |
+| [175 Months](https://open.spotify.com/track/7HkOwm4wmvTsKbe405RhE3) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:34 | 2025-10-23 |  |
 | [1942](https://open.spotify.com/track/52kfQoyVkYz1advJIwgsWC) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [1942](https://open.spotify.com/album/4PP4Ch7eYmvU59hvw3KXyq) | 2:49 | 2025-07-24 |  |
 | [1989](https://open.spotify.com/track/5LgopqF6Rqfp8cWdj9XzCM) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [1989](https://open.spotify.com/album/5L6AKgaJyex0tb5TfdsF6S) | 2:17 | 2022-05-19 | 2022-07-15 |
 | [1992](https://open.spotify.com/track/5QVAoNN7mj1qcQfuXMbrWl) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [1992](https://open.spotify.com/album/7vd66N6D7o7HqAvZ22td5W) | 3:00 | 2024-01-19 | 2024-02-10 |
@@ -352,6 +353,7 @@
 | [Buckingham Palace 2](https://open.spotify.com/track/5eDHhJDDv1DIfYTWB0MqKm) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Buckingham Palace 2](https://open.spotify.com/album/3bBUh9FpxVp7whedH8d1FK) | 4:05 | 2024-05-31 | 2024-06-14 |
 | [Buff Baddies](https://open.spotify.com/track/71hCrxBjDzCL49k20QCbGS) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 2:37 | 2020-11-06 | 2021-01-15 |
 | [Bulletproof](https://open.spotify.com/track/0RFOCmzJUIYipUwO1rujrm) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Bulletproof](https://open.spotify.com/album/7eUS2pFDEjhgd1E7RREd3A) | 2:40 | 2024-02-16 | 2024-03-16 |
+| [Bully](https://open.spotify.com/track/0nT3wSiJ49DhKCgWeK9D2g) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Bully](https://open.spotify.com/album/2kHDDHxnDFjjaNuiCyBRnV) | 2:55 | 2025-10-23 |  |
 | [Bumpy Ride \(feat\. M Huncho\)](https://open.spotify.com/track/09tRbQEW30BOyOGboo0fQq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [EDNA](https://open.spotify.com/album/066XCkY2VUxaJHf5g3tHJx) | 2:21 | 2020-10-10 | 2021-02-09 |
 | [BURBERRY](https://open.spotify.com/track/607WIPFOolZIXWAi98xelk) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [BURBERRY](https://open.spotify.com/album/17pjR0jdVyaHL4j2BU8a1L) | 2:58 | 2025-03-14 | 2025-07-18 |
 | [BURN](https://open.spotify.com/track/3PXuHxtx0C5DTuKpUY0cji) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X) | [CAYENNE](https://open.spotify.com/album/6zxZoy1eWC2BRAuPE9wB1R) | 2:32 | 2025-07-03 | 2025-08-29 |
@@ -418,6 +420,7 @@
 | [Change](https://open.spotify.com/track/6Dr6f20AZfsGZoaSucRM7m) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [Change](https://open.spotify.com/album/78lL6tJbAgvIHP2plIvkVM) | 2:32 | 2021-10-09 | 2021-10-30 |
 | [Changed](https://open.spotify.com/track/3fXz9J05CLXsJtsUzWkpg7) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [DNA](https://open.spotify.com/album/3uzHRsdKQeAsINaS2RISBF) | 3:45 | 2020-11-03 | 2020-11-23 |
 | [Changed Me \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1XSMSGTunIq5LL4mOVIh8L) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 3:50 | 2020-11-06 | 2020-12-18 |
+| [Chapter 16 \(feat\. Kano\)](https://open.spotify.com/track/1Vn4C8zBO7b2pZPQ8L0oZO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 6:20 | 2025-10-23 |  |
 | [Charisma](https://open.spotify.com/track/5w2wGoIGGGTHdxCQ2BaiRh) | [JM7](https://open.spotify.com/artist/5JlMu1K8bFk1Q62SRUVckm), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Charisma](https://open.spotify.com/album/2b81z3LwIfg9yKGiVrKCks) | 3:11 | 2024-01-26 | 2024-03-08 |
 | [Chasing the Bag](https://open.spotify.com/track/3FfUQEvoUZbDEsuRNVsi9F) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Chasing the Bag](https://open.spotify.com/album/0qgzmo5SFrup2dg5jH7lsN) | 2:36 | 2021-01-29 | 2021-03-06 |
 | [Check](https://open.spotify.com/track/46xI9iWrBtcwl1R2h5pKYi) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Check](https://open.spotify.com/album/5BEBSJT2cUo5CkpS7UBiZw) | 2:28 | 2023-09-28 | 2024-01-19 |
@@ -988,6 +991,7 @@
 | [Invest](https://open.spotify.com/track/7u3NPlsAeN9h7BVxQzPlqO) | [Hazard \(LDG\)](https://open.spotify.com/artist/4nml39NC8oqEVPIgyTafjx) | [Invest](https://open.spotify.com/album/2ZOp3Nsd6cpOGhl5x6YKv6) | 2:41 | 2021-01-09 | 2021-02-13 |
 | [Irish Girls \(feat\. Reggie\)](https://open.spotify.com/track/6GzmyFlm4giQapIY3PYcYv) | [SELLO](https://open.spotify.com/artist/6GdZAjpf8BRRnbBWLaiFZ7), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Irish Girls \(feat\. Reggie\)](https://open.spotify.com/album/5YICwPWF132Fs8phV8U5ix) | 3:11 | 2022-06-16 | 2022-07-02 |
 | [Is It Alright?](https://open.spotify.com/track/6BOx3oBtrTWRGEr7NLsGfi) | [SB](https://open.spotify.com/artist/3FrZFYZLLegU3Jf2tmy4y8) | [Off Licence](https://open.spotify.com/album/3QBbflBp9RdEvUeyBNVZgc) | 2:35 | 2022-03-08 | 2022-03-09 |
+| [IShowSpeed](https://open.spotify.com/track/2wbk6A10eL8RASqph8aFlV) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Personal](https://open.spotify.com/album/0I8cCNiamdciUOWyt4efpy) | 1:53 | 2025-10-23 |  |
 | [It is What It Is](https://open.spotify.com/track/1Kplq4ufxVnwzuScKe2O8n) | [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Mukta vs Mukta](https://open.spotify.com/album/73Z5ccuSgue5fKMUgJpqx0) | 2:58 | 2020-07-25 | 2020-08-21 |
 | [It Is What It Is](https://open.spotify.com/track/56Tn1NezPK8I82vgZ38FzR) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [It Is What It Is](https://open.spotify.com/album/4Kf53rJMirogBxNIDzQVSe) | 2:39 | 2025-04-04 |  |
 | [it's a real life](https://open.spotify.com/track/2VxTa7BolLHeiKQgayvjBU) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Until Feb](https://open.spotify.com/album/5Nnlj4MbhhFlzaDlvRYv4t) | 2:26 | 2024-02-09 | 2024-02-23 |
@@ -1372,6 +1376,7 @@
 | [No Speaking](https://open.spotify.com/track/3p9Cswrn2zFBTe0iUqcwcw) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [No Speaking](https://open.spotify.com/album/2bQblaJC8OtJGFPXSR0lHc) | 3:18 | 2020-09-26 | 2022-03-09 |
 | [No Squids](https://open.spotify.com/track/5QIcnRFAMA37FSsXf1NKBE) | [Ocean Wisdom](https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8), [K Koke](https://open.spotify.com/artist/30n2M66Hu0LvcaRAJDrcxQ) | [No Squids](https://open.spotify.com/album/50Xo2teuOsmf3CAaIqj3Rq) | 4:22 | 2024-05-24 | 2024-07-27 |
 | [No Wahala](https://open.spotify.com/track/6DUVkJa50QyFebstc2AQpb) | [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [The G Tape: Volume 3](https://open.spotify.com/album/47dTquqJGybvtfnV4I3x5q) | 2:31 | 2024-01-26 | 2024-02-27 |
+| [No Weapons \(feat\. Jim Legxacy\)](https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:18 | 2025-10-23 |  |
 | [Noisy Neighbours](https://open.spotify.com/track/2JaH5ZaktJll8VNF2PQ5If) | [Temz](https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg) | [Noisy Neighbours](https://open.spotify.com/album/1b3q0Ej3zJ9fNu7f0epW8H) | 3:06 | 2021-05-29 | 2021-07-17 |
 | [Normal](https://open.spotify.com/track/7rWUc4LuZ081oZ9VBZd6JK) | [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY) | [Normal](https://open.spotify.com/album/7jrM2dAzQWlu8WYTGnyhHo) | 2:38 | 2023-09-08 | 2023-12-09 |
 | [Nostalgic](https://open.spotify.com/track/4c7hAxxli9JQ5cu5qgVyEY) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Nostalgic](https://open.spotify.com/album/6mnYEPTbNbCGSNrrRr6DKZ) | 3:37 | 2023-05-12 | 2023-06-30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sofia, Cristale, Wohdee",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Metrik",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -4980,7 +4980,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 245617,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/6rsdjEmVm2dNBr0b7lz0mr"
@@ -6158,7 +6158,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 227757,
       "name": "Entertainer",
       "url": "https://open.spotify.com/track/7FptOddFAj1Dgh2gpuTYNu"
@@ -8189,6 +8189,28 @@
     },
     {
       "album": {
+        "name": "Go Down Low",
+        "url": "https://open.spotify.com/album/5h8WeWXrIe9MD4VZZleC8N"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112140,
+      "name": "Go Down Low",
+      "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
+    },
+    {
+      "album": {
         "name": "Going Out To The Ravers (feat. Everyone You Know)",
         "url": "https://open.spotify.com/album/5odIXcGxVjgUxTSEL0Uycv"
       },
@@ -10213,6 +10235,24 @@
     },
     {
       "album": {
+        "name": "Inside The Rider",
+        "url": "https://open.spotify.com/album/5HsHfs6G7J9o5jOUvwuqDo"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Inside The Rider",
+      "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
+    },
+    {
+      "album": {
         "name": "Interference",
         "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
       },
@@ -11114,7 +11154,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 185517,
       "name": "Liberties",
       "url": "https://open.spotify.com/track/6OyOKKkqtKZKKfdI2r7k61"
@@ -12414,7 +12454,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 178474,
       "name": "Mash It Up",
       "url": "https://open.spotify.com/track/7hPEkmz1E07maKTZCptT6u"
@@ -13563,6 +13603,24 @@
     },
     {
       "album": {
+        "name": "Never Know (Love You So)",
+        "url": "https://open.spotify.com/album/3izOWpIbdqm3lLKqkPlHAq"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Never Know (Love You So)",
+      "url": "https://open.spotify.com/track/0DPCEnF33OTbElhEva4IfY"
+    },
+    {
+      "album": {
         "name": "Never Let You Down (feat. Penny Ivy)",
         "url": "https://open.spotify.com/album/4lQIsXVm1uAQH1nYK5yaID"
       },
@@ -14298,7 +14356,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 228000,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/07z8ovGxkdCxwL8PQ4osIq"
@@ -14350,7 +14408,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 139310,
       "name": "On The Beach",
       "url": "https://open.spotify.com/track/2HjlMi1EYwI9dbz22nn98i"
@@ -15960,6 +16018,32 @@
       "duration_ms": 148155,
       "name": "Rave Out",
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
+    },
+    {
+      "album": {
+        "name": "Ravers Anonymous",
+        "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
+      },
+      "artists": [
+        {
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
+        },
+        {
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+        },
+        {
+          "name": "Leanne Louise",
+          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "Ravers Anonymous",
+      "url": "https://open.spotify.com/track/2KnvHihZGiVbtEqjJzpdR0"
     },
     {
       "album": {
@@ -17806,7 +17890,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 192000,
       "name": "SIESTA",
       "url": "https://open.spotify.com/track/2v5oFBfVOzT1eokEBUwp8j"
@@ -22718,7 +22802,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 281379,
       "name": "Worlds Apart",
       "url": "https://open.spotify.com/track/720lysDWZ9Qp9HBgU7dH5S"

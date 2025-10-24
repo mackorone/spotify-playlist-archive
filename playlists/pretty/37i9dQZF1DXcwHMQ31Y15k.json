@@ -1,28 +1,48 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Esa Risty",
-  "num_followers": 227235,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Ndarboy Genk ",
+  "num_followers": 227331,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAON16nvWBMUwIcX5GHOn18HwWAjO",
+  "snapshot_id": "AAAAAGsZD1eaI0jZBxioi0AyQ6OcXOhS",
   "tracks": [
     {
-      "added_at": "2025-10-17 14:29:44",
+      "added_at": "2025-10-23 19:45:49",
       "album": {
-        "name": "Ngamen 4",
-        "url": "https://open.spotify.com/album/55q4uCV11NAmVbxhk7XY0R"
+        "name": "Sikep (Siap Kelangan Pengarep Arep)",
+        "url": "https://open.spotify.com/album/2rmM5EfmOH7gVTZEE9Ok3M"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "duration_ms": 305314,
+      "name": "Sikep (Siap Kelangan Pengarep Arep)",
+      "url": "https://open.spotify.com/track/72avAygkMmzT1UXks8D1gx"
+    },
+    {
+      "added_at": "2025-10-23 19:45:49",
+      "album": {
+        "name": "Tragedi Tali Kutang",
+        "url": "https://open.spotify.com/album/7hLFcp5KkPGNvpejEfY1d9"
       },
       "artists": [
         {
           "name": "Esa Risty",
           "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "ARYA GALIH",
+          "url": "https://open.spotify.com/artist/3LEzVC11Jtzc1fZWzXtOGY"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Ngamen 4",
-      "url": "https://open.spotify.com/track/00n38igoTWDhcLF2jSDIKN"
+      "duration_ms": 444000,
+      "name": "Tragedi Tali Kutang",
+      "url": "https://open.spotify.com/track/4kv9oXzFdpVlpkGNIWw3gw"
     },
     {
       "added_at": "2025-10-02 22:28:29",
@@ -45,6 +65,26 @@
       "url": "https://open.spotify.com/track/4c2OR5RjaVRhAOTqWhXZfQ"
     },
     {
+      "added_at": "2025-10-23 19:45:49",
+      "album": {
+        "name": "Ego Wong Tuo",
+        "url": "https://open.spotify.com/album/2vnrti9NGjh8KfwFmCZB70"
+      },
+      "artists": [
+        {
+          "name": "Pusma Shakira",
+          "url": "https://open.spotify.com/artist/26tD8d49VHsZQAuMiYb1IB"
+        },
+        {
+          "name": "Royhan Ni'amillah",
+          "url": "https://open.spotify.com/artist/3Irw8ZMEnXSCNdn8ehbUF5"
+        }
+      ],
+      "duration_ms": 306461,
+      "name": "Ego Wong Tuo",
+      "url": "https://open.spotify.com/track/24ysT3qIjLv65dxmIPyvq0"
+    },
+    {
       "added_at": "2025-09-25 22:52:17",
       "album": {
         "name": "Wongliyo Ngerti Opo",
@@ -59,6 +99,22 @@
       "duration_ms": 236102,
       "name": "Wongliyo Ngerti Opo",
       "url": "https://open.spotify.com/track/6gHdhWdC2cdv6O4bMFXe2f"
+    },
+    {
+      "added_at": "2025-10-17 14:29:44",
+      "album": {
+        "name": "Ngamen 4",
+        "url": "https://open.spotify.com/album/55q4uCV11NAmVbxhk7XY0R"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Ngamen 4",
+      "url": "https://open.spotify.com/track/00n38igoTWDhcLF2jSDIKN"
     },
     {
       "added_at": "2025-10-02 22:28:29",
@@ -447,26 +503,6 @@
       "duration_ms": 300000,
       "name": "Jiwarungsit",
       "url": "https://open.spotify.com/track/0CTcOv4NP9mU046khNKfVc"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "Tresna Humiring Waspa",
-        "url": "https://open.spotify.com/album/5gYk9UJ12zl1kwqcfq5LZj"
-      },
-      "artists": [
-        {
-          "name": "Esa Risty",
-          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
-        },
-        {
-          "name": "Wandra Restusiyan",
-          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
-        }
-      ],
-      "duration_ms": 414000,
-      "name": "Tresna Humiring Waspa",
-      "url": "https://open.spotify.com/track/3juFBGMCifyNH2TAY7X0zl"
     },
     {
       "added_at": "2025-09-25 22:52:17",
@@ -1075,38 +1111,6 @@
     {
       "added_at": "2025-09-25 22:52:17",
       "album": {
-        "name": "Aku Tenang",
-        "url": "https://open.spotify.com/album/2uCk5kk3fWD9JQ0JkTM7QA"
-      },
-      "artists": [
-        {
-          "name": "Damara De",
-          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
-        }
-      ],
-      "duration_ms": 318239,
-      "name": "Aku Tenang",
-      "url": "https://open.spotify.com/track/1bmOl3WYltXNAWDFcyOrmc"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "NGANGGUR",
-        "url": "https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5"
-      },
-      "artists": [
-        {
-          "name": "Masdddho",
-          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "NGANGGUR",
-      "url": "https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
         "name": "Nresnani (Live)",
         "url": "https://open.spotify.com/album/3y0vZoaZSFnOIpxLBLS5zm"
       },
@@ -1127,42 +1131,6 @@
     {
       "added_at": "2025-09-25 22:52:17",
       "album": {
-        "name": "Tresno Tekan Mati",
-        "url": "https://open.spotify.com/album/3MQNsBZtpSYVAr9w8alNit"
-      },
-      "artists": [
-        {
-          "name": "Woro Widowati",
-          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
-        },
-        {
-          "name": "Ratih SDE",
-          "url": "https://open.spotify.com/artist/3G52T19P9oKRUizIgxqy2D"
-        }
-      ],
-      "duration_ms": 319451,
-      "name": "Tresno Tekan Mati",
-      "url": "https://open.spotify.com/track/4xrFfbqpxcF6KjKGg57DYS"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "Pepisahan",
-        "url": "https://open.spotify.com/album/6fEQf1bNuwNDxq9xUyESiU"
-      },
-      "artists": [
-        {
-          "name": "Vadesta",
-          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Pepisahan",
-      "url": "https://open.spotify.com/track/4W8mIGnU6RFfOg6EVjMiTo"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
         "name": "Ora Ngemis Bali",
         "url": "https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5"
       },
@@ -1179,22 +1147,6 @@
       "duration_ms": 332253,
       "name": "Ora Ngemis Bali",
       "url": "https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "Denny Caknan: Live at ZEPP Kuala Lumpur",
-        "url": "https://open.spotify.com/album/3ghdTfXuLekdikteuBPK1f"
-      },
-      "artists": [
-        {
-          "name": "Denny Caknan",
-          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
-        }
-      ],
-      "duration_ms": 413000,
-      "name": "Wirang",
-      "url": "https://open.spotify.com/track/5KVwLJPyIo62vSmMC01osE"
     },
     {
       "added_at": "2025-09-25 22:52:17",
@@ -1251,22 +1203,6 @@
     {
       "added_at": "2025-09-25 22:52:17",
       "album": {
-        "name": "Sugeng Dalu",
-        "url": "https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf"
-      },
-      "artists": [
-        {
-          "name": "Denny Caknan",
-          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
-        }
-      ],
-      "duration_ms": 542863,
-      "name": "Sugeng Dalu",
-      "url": "https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
         "name": "All In For You",
         "url": "https://open.spotify.com/album/6icTLvbEIwpUAE4if2aOM4"
       },
@@ -1299,22 +1235,6 @@
     {
       "added_at": "2025-09-25 22:52:17",
       "album": {
-        "name": "HTS",
-        "url": "https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU"
-      },
-      "artists": [
-        {
-          "name": "Lavora",
-          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
-        }
-      ],
-      "duration_ms": 255238,
-      "name": "HTS",
-      "url": "https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
         "name": "NDX A.K.A. Familia",
         "url": "https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc"
       },
@@ -1343,22 +1263,6 @@
       "duration_ms": 310000,
       "name": "LDR \"Langgeng Dayaning Rasa\" - Live",
       "url": "https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "Yowes Modaro",
-        "url": "https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW"
-      },
-      "artists": [
-        {
-          "name": "Aftershine",
-          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Yowes Modaro",
-      "url": "https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B"
     },
     {
       "added_at": "2025-09-25 22:52:17",
@@ -1483,38 +1387,6 @@
       "duration_ms": 259910,
       "name": "Piwales Tresno",
       "url": "https://open.spotify.com/track/0Bo51l3LBA1w0cnClTiV4S"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "Kalah 2",
-        "url": "https://open.spotify.com/album/2XDM13lSNzlB3eIz1wJGoO"
-      },
-      "artists": [
-        {
-          "name": "Aftershine",
-          "url": "https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL"
-        }
-      ],
-      "duration_ms": 310153,
-      "name": "Kalah 2",
-      "url": "https://open.spotify.com/track/1CHQEzT8SY3pPoBz9FuSgb"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "Gampil",
-        "url": "https://open.spotify.com/album/0UjiKUCJA3xHzSfhjlqqVk"
-      },
-      "artists": [
-        {
-          "name": "Guyon Waton",
-          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
-        }
-      ],
-      "duration_ms": 291590,
-      "name": "Gampil",
-      "url": "https://open.spotify.com/track/6T03CN5UVnCGPz3muqvpOz"
     },
     {
       "added_at": "2025-09-25 22:52:17",
@@ -1791,22 +1663,6 @@
       "duration_ms": 304888,
       "name": "Pingal",
       "url": "https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S"
-    },
-    {
-      "added_at": "2025-09-25 22:52:17",
-      "album": {
-        "name": "Korban Janji",
-        "url": "https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX"
-      },
-      "artists": [
-        {
-          "name": "Guyon Waton",
-          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
-        }
-      ],
-      "duration_ms": 255508,
-      "name": "Korban Janji",
-      "url": "https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju"
     },
     {
       "added_at": "2025-09-25 22:52:17",

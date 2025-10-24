@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-944 songs - 2 day 14 hr 38 min
+945 songs - 2 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [TECHNOPOLIS \- 2018 Bob Ludwig Remastering](https://open.spotify.com/track/2ZFSgNZWT6Jvp3nAc3ncJv) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Solid State Survivor](https://open.spotify.com/album/5z480Ywi9Hn3EQV8N4UwEN) | 4:14 | 2025-07-23 |  |
 | [Teeth Like God's Shoeshine](https://open.spotify.com/track/5aUn8l6MaYrh9yNBzrLEBF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 6:53 | 2022-09-20 |  |
 | [Tekka](https://open.spotify.com/track/4JDdbnKobkyn7j2o76D1mV) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:08 | 2023-01-07 |  |
+| [Tell It To Me](https://open.spotify.com/track/2AgTYr7uZM1C2wfItdtvlc) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/5Y83CwSuyymvHbtg2KgK7j) | 2:47 | 2025-10-23 |  |
 | [Tell Me Who You Are Today](https://open.spotify.com/track/1tB6SUQaXIUU4CprvNPwsT) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Lives Outgrown](https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA) | 3:55 | 2024-05-28 |  |
 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 | 2025-06-20 |  |
 | [terminal paradise](https://open.spotify.com/track/1WBavEwIws3xdg7GVDUZWp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:59 | 2023-11-04 | 2025-10-10 |
@@ -881,7 +882,7 @@
 | [Up & Down](https://open.spotify.com/track/16dOZA7Rvb0H14R1E04WyR) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 3:23 | 2024-01-01 |  |
 | [Upside Down](https://open.spotify.com/track/3spmBjPY8HCNCR6Y0H7Ahd) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/2r05fWtfSBpLSj4L7V7Ix9) | 4:04 | 2024-01-08 |  |
 | [Us Against The World](https://open.spotify.com/track/0sHSFzglnJ1b9mILzQ7ifJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:27 | 2024-06-16 | 2025-09-13 |
-| [VEENA](https://open.spotify.com/track/7pBbcjmlVvyHRF4DpJX1CU) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [RAM DULARI](https://open.spotify.com/artist/7bMzC3UZKxukjTnTAWA19t), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [VEENA](https://open.spotify.com/album/6AUvshZi7wXvnfnzCsm1u9) | 2:26 | 2025-09-20 |  |
+| [VEENA](https://open.spotify.com/track/7pBbcjmlVvyHRF4DpJX1CU) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [RAM DULARI](https://open.spotify.com/artist/7bMzC3UZKxukjTnTAWA19t), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [VEENA](https://open.spotify.com/album/6AUvshZi7wXvnfnzCsm1u9) | 2:26 | 2025-09-20 | 2025-10-24 |
 | [Velocity Girl](https://open.spotify.com/track/1sfI921cOH7r6HXGcJ7FnJ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Songs for Polarbears](https://open.spotify.com/album/7kYowijrwy9wBiZia6FzUs) | 4:37 | 2024-01-17 |  |
 | [Velvet Portraits](https://open.spotify.com/track/0SFgulpiL8xNREkhshoFJb) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/2oCzMde3oNEsr2Mz8OBv8P) | 1:33 | 2024-02-06 |  |
 | [Versailles](https://open.spotify.com/track/5XeSZTj2XOqFHcr78W9guM) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Despot](https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1) | [Aethiopes](https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD) | 3:07 | 2024-04-18 | 2024-04-20 |

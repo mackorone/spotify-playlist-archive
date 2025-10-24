@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 202782,
       "name": "Domino",
       "url": "https://open.spotify.com/track/4yObsIr4sNWathGTbjU3Sz"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 155026,
       "name": "Eeva",
       "url": "https://open.spotify.com/track/5UsS8o4Mis0xnGceIT7z0B"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 178067,
       "name": "Haavat",
       "url": "https://open.spotify.com/track/2Xp723l2bYsKGrieosITk5"
@@ -2155,6 +2155,24 @@
     },
     {
       "album": {
+        "name": "Is\u00e4nmaa",
+        "url": "https://open.spotify.com/album/6qT0XFIbdHVRiwJH4VUk69"
+      },
+      "artists": [
+        {
+          "name": "Matti Johannes Koivu",
+          "url": "https://open.spotify.com/artist/5lcnnSakS86zhwO8XTlsUd"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327284,
+      "name": "Is\u00e4nmaa",
+      "url": "https://open.spotify.com/track/740GzPVOCGJQkyPegwxGAP"
+    },
+    {
+      "album": {
         "name": "Lagopus",
         "url": "https://open.spotify.com/album/6qzyB6Q8p2M08EHj2vvqEJ"
       },
@@ -2726,6 +2744,24 @@
       "duration_ms": 227153,
       "name": "Kaikesta puolet saat",
       "url": "https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD"
+    },
+    {
+      "album": {
+        "name": "Kaikkeni sulle",
+        "url": "https://open.spotify.com/album/0VOuQlgrrklLelHehIv4rb"
+      },
+      "artists": [
+        {
+          "name": "Mika R\u00e4m\u00e4",
+          "url": "https://open.spotify.com/artist/5mkvW9yhZF8bGFrok0OXJr"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205181,
+      "name": "Kaikkeni sulle",
+      "url": "https://open.spotify.com/track/1ExBfFOp72sxH2KQBGNr8i"
     },
     {
       "album": {
@@ -3938,7 +3974,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 304737,
       "name": "Kunnes toisin todistetaan",
       "url": "https://open.spotify.com/track/5BRYt12cimUH9C9RNk5kCz"
@@ -4636,6 +4672,24 @@
       "duration_ms": 140973,
       "name": "Maailma on",
       "url": "https://open.spotify.com/track/4JnxaZEVFf63QZbtvnm2Zl"
+    },
+    {
+      "album": {
+        "name": "Maailmaan mahtuu",
+        "url": "https://open.spotify.com/album/2tE2KoHnhoug7I763mERgs"
+      },
+      "artists": [
+        {
+          "name": "Nina Kaitaranta",
+          "url": "https://open.spotify.com/artist/2PsdnaaKgXsNDhPYsZkPpo"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211870,
+      "name": "Maailmaan mahtuu",
+      "url": "https://open.spotify.com/track/6W2vCGRMGxyrEXDGMjNsiT"
     },
     {
       "album": {
@@ -5850,7 +5904,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 201973,
       "name": "Oi Anhedonia!",
       "url": "https://open.spotify.com/track/78ucQHIEkH700wwsPkjFlX"
@@ -6020,6 +6074,28 @@
       "duration_ms": 216134,
       "name": "Outo nainen",
       "url": "https://open.spotify.com/track/339HjC5fjeebCrMwVNUtJ2"
+    },
+    {
+      "album": {
+        "name": "Outoa aikaa",
+        "url": "https://open.spotify.com/album/6bsLP6UBIaSa2uQdjWBTnw"
+      },
+      "artists": [
+        {
+          "name": "Jiri Nikkinen",
+          "url": "https://open.spotify.com/artist/7D1jrz1kJxQPne6KxPVA0j"
+        },
+        {
+          "name": "Hyypi\u00f6t",
+          "url": "https://open.spotify.com/artist/0RU4m1uTXjD5A6OVzUMnSH"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226374,
+      "name": "Outoa aikaa",
+      "url": "https://open.spotify.com/track/1OQVVG93mlnzzv7ZK9VaKe"
     },
     {
       "album": {
@@ -6279,6 +6355,24 @@
     },
     {
       "album": {
+        "name": "Pehme\u00e4 kuin painajainen",
+        "url": "https://open.spotify.com/album/52rzJomhJ02OyTlTPqZylb"
+      },
+      "artists": [
+        {
+          "name": "51koodia",
+          "url": "https://open.spotify.com/artist/000BblCiHJeKvtiq5aiHOs"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203868,
+      "name": "Pehme\u00e4 kuin painajainen",
+      "url": "https://open.spotify.com/track/1W3fWg71cDmNPlzABWkFnx"
+    },
+    {
+      "album": {
         "name": "Pelastakaa edes lapset",
         "url": "https://open.spotify.com/album/4sWsP49d4Z5SFsq7OW4tCw"
       },
@@ -6460,7 +6554,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 189266,
       "name": "Pidin sinusta",
       "url": "https://open.spotify.com/track/5DNjIfIGquwE9fsHZNkRnF"
@@ -7520,7 +7614,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 225913,
       "name": "Satumaa",
       "url": "https://open.spotify.com/track/2D5YvmAMDBF5aEWvAxPzma"
@@ -9311,6 +9405,24 @@
     },
     {
       "album": {
+        "name": "UKKOMETSO SOI",
+        "url": "https://open.spotify.com/album/0KJdxzP6CE412JLwkJZWvY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Hellman",
+          "url": "https://open.spotify.com/artist/00w3K1ZFzTNRCoPg08p6cw"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180243,
+      "name": "UKKOMETSO SOI",
+      "url": "https://open.spotify.com/track/4K4YAYm07lKkVyHSM1S063"
+    },
+    {
+      "album": {
         "name": "Ullaa ullaa",
         "url": "https://open.spotify.com/album/68OBanZzsyBSb76SDjApw5"
       },
@@ -9802,6 +9914,24 @@
       "duration_ms": 178385,
       "name": "Viimeinen kes\u00e4p\u00e4iv\u00e4",
       "url": "https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65"
+    },
+    {
+      "album": {
+        "name": "Viimeinkin sut saan",
+        "url": "https://open.spotify.com/album/7iqiJxYzHsFnp6bCY4VHxq"
+      },
+      "artists": [
+        {
+          "name": "Michael Bleu",
+          "url": "https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176240,
+      "name": "Viimeinkin sut saan",
+      "url": "https://open.spotify.com/track/6cAe2eUGkB7jx7Pe60IZFa"
     },
     {
       "album": {

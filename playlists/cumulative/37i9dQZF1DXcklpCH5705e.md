@@ -4,7 +4,7 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 盧廣仲 Crowd Lu
 
-246 songs - 15 hr 57 min
+250 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [下一世遇見](https://open.spotify.com/track/0BvSDFthkPOVWfNdIs2BGM) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [下一世遇見](https://open.spotify.com/album/2JDuShaImrZIYITFQJ2Lba) | 4:25 | 2025-05-01 |  |
 | [两难](https://open.spotify.com/track/7oQku6a7j4laDq3zTI6CRf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [两难](https://open.spotify.com/album/6HQyq2KNTILRZzwrzKVKsK) | 2:50 | 2025-06-12 |  |
 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 | 2025-04-03 |  |
+| [他不愛我 \- 滾石撞樂隊2 \(原唱:莫文蔚\)](https://open.spotify.com/track/0oFAas3rJLL2evZiSGlSxm) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [滾石撞樂隊2 \- 他不愛我](https://open.spotify.com/album/4gxiKfR8AlCen1oiRsH6H1) | 3:27 | 2025-10-23 |  |
 | [以後](https://open.spotify.com/track/3rYFYwdoNcniqvruCbViHM) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:05 | 2025-10-09 |  |
 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2025-04-03 | 2025-08-15 |
 | [但願人長久](https://open.spotify.com/track/0K9JlgBeEtcx5I2OgX9hlg) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [晴歌集](https://open.spotify.com/album/2NkOW9aVr1Ov261a9upeH1) | 4:19 | 2023-02-02 | 2025-04-04 |
@@ -152,6 +153,7 @@
 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 | 2025-04-03 |  |
 | [我爱你但是我要回家](https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE) | [ET](https://open.spotify.com/artist/6L8uYIuAWEDljh6LxP5jMm), [Happer](https://open.spotify.com/artist/6Ljp6ps4Nt9w0WJA8jSTdc), [无面小生](https://open.spotify.com/artist/2Yftm8We3xQFKhndUtuXUr), [口古口古](https://open.spotify.com/artist/6XRGKV1jyYJ5wTJ5S7hxeh) | [我爱你但是我要回家](https://open.spotify.com/album/6MqJXDfjN3dpfS2hH5FeKF) | 3:14 | 2025-04-03 | 2025-08-15 |
 | [我看好的](https://open.spotify.com/track/5NPlmy6TQMNCwg4nPCDslh) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [我看好的](https://open.spotify.com/album/2FoEyVTB7TVO144Ig6cKAN) | 3:13 | 2025-05-29 |  |
+| [房間裡的大象](https://open.spotify.com/track/21Q7rYAfVkzW5ryhL6uQSz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [有且](https://open.spotify.com/album/5KvOMc2has9jVkEl1n8QEf) | 4:26 | 2025-10-23 |  |
 | [手望\(守望版\) \- Chill Club Version](https://open.spotify.com/track/72xWqUAWRuYhP0BZhroJjF) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1), [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [手望\(守望版\) \[Chill Club Version\]](https://open.spotify.com/album/55YNpYQPgwvhxCXte6OtN7) | 3:58 | 2023-02-02 | 2025-04-04 |
 | [打空氣的拳擊手](https://open.spotify.com/track/20DgB0tAU39wAfHNhyI0lZ) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [打空氣的拳擊手](https://open.spotify.com/album/3ZtFJbTJc9ENZ1sg3xGxSU) | 3:48 | 2025-04-17 |  |
 | [把你給的愛全部還給你](https://open.spotify.com/track/3iXJ94UA0usAvkMF8Em4v1) | [王泰翔 2000wtx](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa) | [把你給的愛全部還給你](https://open.spotify.com/album/3MR2paemv2NSAqggLR0mJm) | 4:20 | 2025-04-17 |  |
@@ -170,6 +172,7 @@
 | [最好的朋友](https://open.spotify.com/track/3uD9D4Gw9hxhvVQWBx3Ehd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [最好的朋友](https://open.spotify.com/album/0gUEh0gO3nDqiWwWHh7bMS) | 3:52 | 2025-04-24 |  |
 | [最後的信仰 \- Snug In My Arms Live](https://open.spotify.com/track/3XGVrj8xSClxddeiKbbA3C) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [Snug In My Arms Live](https://open.spotify.com/album/0lefvBKopUG6Ip0jvqeVCx) | 4:48 | 2024-04-04 | 2025-04-04 |
 | [最後的歌](https://open.spotify.com/track/2cSNM2l9koIzxoKoOkPE9m) | [陳輝陽 x 女聲合唱](https://open.spotify.com/artist/6t1LRAgmnIc4a1hnjhSDHU) | [最後的歌](https://open.spotify.com/album/6obk6R6XuJmp0VFjCGaypj) | 3:30 | 2024-04-04 | 2025-04-04 |
+| [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 | 2025-10-23 |  |
 | [月亮代表我的心 \(《華燈初上》主題曲\)](https://open.spotify.com/track/0Q02NWqQL5m4m8jkp3zsSy) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [月亮代表我的心](https://open.spotify.com/album/5EpcaGPuWiDZ2zmqOy5JaJ) | 3:47 | 2022-03-10 | 2023-02-03 |
 | [有一种遗憾叫我们](https://open.spotify.com/track/2lJKw8pv3MhggQ0bkpYlDj) | [田园](https://open.spotify.com/artist/0jM3y35HaOX5szIGplr77U) | [有一种遗憾叫我们](https://open.spotify.com/album/1Ufvo7twAsHynXZpxf92er) | 3:30 | 2025-06-12 |  |
 | [有些](https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 3:49 | 2025-04-03 | 2025-07-04 |
@@ -249,6 +252,7 @@
 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay 小肥](https://open.spotify.com/artist/14wCkmaUSQPkMjqo0MRhRv), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2023-02-02 | 2025-04-04 |
 | [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/track/3SFgidWdBgZNLcjy8ymzH0) | [小肥](https://open.spotify.com/artist/1IEuhKA77qmOfPSgrCaFCs), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/album/3lic9Btq2yShkvJfC7YnvE) | 4:07 | 2023-03-16 | 2024-04-19 |
 | [靠近一點](https://open.spotify.com/track/1zVDZM1e6yGIVsKSWiZ1J5) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [靠近一點](https://open.spotify.com/album/55TXf1F3aAlrfMIvcm37t4) | 3:40 | 2025-07-17 |  |
+| [願你愛自己，像我愛你一樣](https://open.spotify.com/track/0xme1uL6BTAkjQdHGW66aA) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [願你愛自己，像我愛你一樣](https://open.spotify.com/album/4JLYwZPpbZandgmxR4GYYT) | 4:24 | 2025-10-23 |  |
 | [飛女正傳](https://open.spotify.com/track/5sj0UfCx4Wjs0epsmL45ZQ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [金牌醇音樂](https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR) | 4:16 | 2023-02-02 | 2025-04-04 |
 | [馬上去](https://open.spotify.com/track/6qL5U6ljhHZnh7TrnJXliC) | [Energy](https://open.spotify.com/artist/6GUGvmk5XZesTWRQdkp69u) | [馬上去](https://open.spotify.com/album/5p9SGkQyOkGCnyyYhC3REe) | 2:34 | 2025-05-29 |  |
 | [馬路天使](https://open.spotify.com/track/2qZx8ZAB4E24KX4bXXo86e) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [達明一代](https://open.spotify.com/album/512ilWYaatApFMRpBoohXl) | 3:31 | 2023-02-02 | 2025-04-04 |

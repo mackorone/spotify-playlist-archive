@@ -2,9 +2,9 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Turi in cover.
+> Beat e rime, oggi come una volta\. Moder in cover.
 
-589 songs - 1 day 9 hr 21 min
+590 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [CROCI € CRISTI](https://open.spotify.com/track/2PapS7vOF7plqO5pytAbEz) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:34 | 2023-11-02 | 2025-03-28 |
 | [Cronaca quotidiana](https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Chicoria](https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce) | [La calda notte](https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT) | 4:33 | 2022-07-28 | 2025-09-26 |
 | [Cronache di resistenza](https://open.spotify.com/track/1O2g1BXb2PwvvDjusEHrEn) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [DJ Shablo](https://open.spotify.com/artist/07f8TqvRdTipPKrqu56X8r) | [Hip Hop Mafia: Best Italian Rappers](https://open.spotify.com/album/7G6r46pbpmxODY8qrH2akH) | 3:42 | 2024-01-02 | 2024-01-12 |
-| [Cronache di resistenza \- Hard to do](https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 3:41 | 2022-05-05 |  |
+| [Cronache di resistenza \- Hard to do](https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Mi fist \(Remastered version\)](https://open.spotify.com/album/5v0hrtP9nDnlfx2rbAiAd8) | 3:41 | 2022-05-05 | 2025-10-24 |
 | [Cronico](https://open.spotify.com/track/3htVVMLpPeiYQ9C4YNpW5O) | [DFWU](https://open.spotify.com/artist/5aRNA4nzvO7aEU1v73iOUV), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Cronico](https://open.spotify.com/album/4qQXDWpqF08XvDG0SN6UxW) | 3:23 | 2024-11-28 | 2025-01-10 |
 | [Cultura Generale](https://open.spotify.com/track/5dRU587gIi1oO6yfHIma3V) | [Dosher](https://open.spotify.com/artist/09wO5wigUVWQgzEeGNyvnY), [Clave](https://open.spotify.com/artist/1mlBw3UZcPtRrddiHh5ARE) | [Cultura Generale](https://open.spotify.com/album/3ErN2iGBrBR88GJCoF9bq7) | 2:18 | 2025-02-27 | 2025-04-04 |
 | [Cumbia Sobre el Mar](https://open.spotify.com/track/26KXwICOkpTjlPtF518xj3) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Dj MS](https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa) | [Cumbia Sobre el Mar](https://open.spotify.com/album/3RQx0XOIB3iequw6uFktYl) | 2:39 | 2022-07-28 | 2022-10-04 |
@@ -550,6 +550,7 @@
 | [Tiger Mask \- Se Acabo](https://open.spotify.com/track/5UVvbBbPmlBl6i7OAZRMpP) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Wego FTS](https://open.spotify.com/artist/2PoxLmzjISQlPoZ7KLzOMf) | [Tiger Mask \(Se Acabo\)](https://open.spotify.com/album/60oDLiIshmfMvwYg3KX5SJ) | 3:10 | 2022-05-12 | 2022-06-23 |
 | [Tinta unita \(feat\. Danno\)](https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [CRISTI E DIAVOLI](https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC) | 2:48 | 2023-04-20 |  |
 | [Titanic](https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [Titanic](https://open.spotify.com/album/2g5mdnKae0ZnGzI6nXyDko) | 3:50 | 2022-06-02 | 2022-08-02 |
+| [Track 7](https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-23 |  |
 | [Tranqi Funky](https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [Così Com' è](https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2) | 3:23 | 2022-06-30 | 2024-03-15 |
 | [Treddepomeriggio](https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP) | [Er Costa](https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1) | [Treddepomeriggio](https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF) | 3:03 | 2022-05-12 | 2024-06-01 |
 | [TROPPAweed \(feat\. Noyz Narcos\)](https://open.spotify.com/track/3v088yIHQdsiyaPATMhAv9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Canerandagio \- Parte 1](https://open.spotify.com/album/6KJJfteoBkSM7g9OUZMUDc) | 2:45 | 2025-04-17 |  |

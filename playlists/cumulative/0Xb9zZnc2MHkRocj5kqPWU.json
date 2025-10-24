@@ -2518,12 +2518,12 @@
       },
       "artists": [
         {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        },
-        {
           "name": "Ludwig van Beethoven",
           "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
         }
       ],
       "date_added": "2025-07-08",
@@ -3617,7 +3617,7 @@
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195746,
+      "duration_ms": 195750,
       "name": "Larghetto",
       "url": "https://open.spotify.com/track/2uovlfgHlr6mlyfCdekODQ"
     },
@@ -4205,7 +4205,7 @@
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 189951,
+      "duration_ms": 189952,
       "name": "Moment in Time",
       "url": "https://open.spotify.com/track/5QVpsrD7VvA3JGLO7UAjpr"
     },
@@ -6050,10 +6050,6 @@
         {
           "name": "Olivia Belli",
           "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
         }
       ],
       "date_added": "2025-07-08",
@@ -6673,7 +6669,7 @@
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 105346,
+      "duration_ms": 105083,
       "name": "Tamina's Lullaby",
       "url": "https://open.spotify.com/track/5yhjbDdE9IxBzsYE0FlZ9r"
     },

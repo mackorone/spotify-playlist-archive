@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Awa Lemen",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Blynk",
   "name": "le miel",
   "tracks": [
     {
@@ -6247,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "Rappelle-toi",
+        "url": "https://open.spotify.com/album/6DUoJ5e2BOuBLfVMkdNpl4"
+      },
+      "artists": [
+        {
+          "name": "SWETHA",
+          "url": "https://open.spotify.com/artist/5CsSIXTkXaMwYWPKtPlMm7"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194620,
+      "name": "Rappelle-toi",
+      "url": "https://open.spotify.com/track/3ye6rGhqEypSUKAbwiLBfm"
+    },
+    {
+      "album": {
         "name": "Une semaine \u00e0 Paris",
         "url": "https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u"
       },
@@ -7075,6 +7093,24 @@
     },
     {
       "album": {
+        "name": "Sinc\u00e8re",
+        "url": "https://open.spotify.com/album/6c4VJAEsXzjK6MsaXw7Srg"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142384,
+      "name": "Sinc\u00e8re",
+      "url": "https://open.spotify.com/track/00ZveyXTNQGFmtFepBbQoL"
+    },
+    {
+      "album": {
         "name": "Situationship (STTS)",
         "url": "https://open.spotify.com/album/4cYEfc0SbTMiHg51DKtt8f"
       },
@@ -7166,7 +7202,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 181306,
       "name": "Sorci\u00e8re",
       "url": "https://open.spotify.com/track/1piwxmB8YelJmJfXBBiVCb"
@@ -7286,7 +7322,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 141008,
       "name": "Sur mon mind",
       "url": "https://open.spotify.com/track/654OEnSg5uvz7t9tl1hzG2"

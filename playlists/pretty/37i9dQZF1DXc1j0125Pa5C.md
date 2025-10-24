@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,406 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,490 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 26 | [Para De Falar Tanta Besteira / Leite Condensado \- Ao Vivo](https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Para De Falar Tanta Besteira / Leite Condensado \(Ao Vivo\)](https://open.spotify.com/album/4xB6dLq7PQ6pptAljw0kAJ) | 3:41 |
 | 27 | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \- Ao Vivo](https://open.spotify.com/track/3GZJc4YW0uIL9OA5kevKKu) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Me Olha Nos Olhos / Futuro Prometido / Não Tem Perdão \(Ao Vivo\)](https://open.spotify.com/album/1tKje5JGchKFpu6xPdfgwR) | 6:41 |
 | 28 | [Erro Gostoso / Mal Acostumado / A Gente Se Entrega](https://open.spotify.com/track/2CU2o0jyWO8xq0TiJPXZ6y) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 1](https://open.spotify.com/album/4as0CzqdSkS5f6iuFEldZ4) | 5:26 |
-| 29 | [Sem Abuso / Maneiras \- Ao Vivo](https://open.spotify.com/track/20ba17syY508T4hRtI8Oic) | [Samba 90 Graus](https://open.spotify.com/artist/6h3xVRZMOFMRIyKOqvRnCE) | [Samba 90 Graus Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0dMN58fUFDX1R33PWuLY9K) | 4:41 |
+| 29 | [Sem Abuso / Maneiras \- Ao Vivo](https://open.spotify.com/track/20ba17syY508T4hRtI8Oic) | [Samba 90 Graus](https://open.spotify.com/artist/6h3xVRZMOFMRIyKOqvRnCE), [Netinho De Paula](https://open.spotify.com/artist/0b2YHyqwdG24iZZEZSagrL), [Chrigor](https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk), [Marcio Art](https://open.spotify.com/artist/1O4nBXNCH4cIFjN3nDSjan) | [Samba 90 Graus Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0dMN58fUFDX1R33PWuLY9K) | 4:41 |
 | 30 | [Tô Com Saudade / Palpite](https://open.spotify.com/track/4kssCsuyujpcSiGIVdqujS) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Ensaios do PDD](https://open.spotify.com/album/3qGSCZnemeG5cRYhsXLxGc) | 4:58 |
 | 31 | [Refém / Trovão / Cansei de Farra \- Ao Vivo](https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc) | 5:27 |
 | 32 | [Que Situação / Sem Abuso / Coração Radiante \- Ao Vivo](https://open.spotify.com/track/4VCAwBLGck4NWFPmotK85V) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Mania do Brasil \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/4x6saOWa3jIl2sN6hOchu5) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección de ELENA ROSE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,560 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,547 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 49 | [QSV](https://open.spotify.com/track/73ZE0Dmy5FsfiMUECtehzG) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [QSV](https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1) | 2:05 |
 | 50 | [Venezuela Habla Cantando](https://open.spotify.com/track/1pT0SxHqeA68nsO2S87vPE) | [Conny Méndez](https://open.spotify.com/artist/1A4Zhuj2TADrUzqS1YgDNu) | [La Caraqueñisima Vol\. 3](https://open.spotify.com/album/0q4XEEdo2CLr1YcJpGtpGJ) | 1:59 |
 
-Snapshot ID: `AAAAAB5XX2tBMvNrN3spGIhdRjVNbbgX`
+Snapshot ID: `AAAAAJLaQ3K0stz0pHjIomrv+rvLXn7l`

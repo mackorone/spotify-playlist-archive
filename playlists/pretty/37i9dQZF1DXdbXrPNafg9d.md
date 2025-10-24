@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,297,662 likes - 200 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,297,585 likes - 200 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYM6nVKMXBtM.md) - [plain]
 
 > Ini dia video podcast terbaru yang wajib banget ada di radar kamu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6 likes - 10 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7 likes - 10 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYM6nVKMXBtM.md) - [plain]
 | 9 | [Lanjut atau Nyerah?](https://open.spotify.com/episode/62mkQ3ITXt5kHEoZyCWwyf) | [Ems n Hums Podcast](https://open.spotify.com/show/6aupjS29VqTTR8s9N7eWlo) | [Ems n Hums Podcast](https://open.spotify.com/album/6aupjS29VqTTR8s9N7eWlo) | 28:38 |
 | 10 | [Cara Atur Duit Sama Pasangan I \#DariNol](https://open.spotify.com/episode/6uSO7osncSf7gpv8Hhkdp2) | [Theo Derick ](https://open.spotify.com/show/17zFxLgC20hygKDT88RyRR) | [Theo Derick ](https://open.spotify.com/album/17zFxLgC20hygKDT88RyRR) | 22:04 |
 
-Snapshot ID: `AAAAAJSooTk+3kX7XYgkyG+FhviSj3lv`
+Snapshot ID: `AAAAAGB3ykoJhsSmhkZsWORptI9W1Kse`

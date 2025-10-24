@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,260 likes - 203 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,309 likes - 203 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 83 | [Y'a pas de réseau](https://open.spotify.com/track/3F4oQ91Zhy7J5OlF6ewcg6) | [Alexis Rault](https://open.spotify.com/artist/5anuO5XELrKLuyNONB2OnY) | [Y'a pas de réseau \(Bande originale du film\)](https://open.spotify.com/album/0D8qWHpK3U90ADznnuTTnm) | 2:04 |
 | 84 | [Together with Millie](https://open.spotify.com/track/1BCIoSW8OjWcamHdb6sSiJ) | [Cornel Wilczek](https://open.spotify.com/artist/4dkHBxANZXk2STw2AUVE9S) | [Together \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/1U4CT8PiWvzQRCyP61rJ69) | 1:51 |
 | 85 | [Opening Titles](https://open.spotify.com/track/5eLxmCdxJdGn98VIO2f5vh) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Sketch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zQvkvTb4q0XVndD3H2IWu) | 0:51 |
-| 86 | [The Naked Gun \(Gordon Goodwin Remix\) \[From "The Naked Gun"\]](https://open.spotify.com/track/0Lw5CpEhnPtxm05QnHMdDB) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [James Ira Newborn](https://open.spotify.com/artist/60XlwtD41FUJuYxaGng6OY), [Gordon Goodwin](https://open.spotify.com/artist/67aDn6MpR8gpp7yX21dT9o) | [The Naked Gun \(Gordon Goodwin Remix\) \[From "The Naked Gun"\]](https://open.spotify.com/album/76rJRaWBbSSe1dtApBu9Pe) | 3:04 |
+| 86 | [The Naked Gun \(Gordon Goodwin Remix\) \[From "The Naked Gun"\]](https://open.spotify.com/track/0Lw5CpEhnPtxm05QnHMdDB) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Gordon Goodwin](https://open.spotify.com/artist/67aDn6MpR8gpp7yX21dT9o) | [The Naked Gun \(Gordon Goodwin Remix\) \[From "The Naked Gun"\]](https://open.spotify.com/album/76rJRaWBbSSe1dtApBu9Pe) | 3:04 |
 | 87 | [Last Son](https://open.spotify.com/track/6CJHa7KcYR430ei2kATUi7) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Superman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NrArmSSCpQg2eDq7vqRyA) | 2:45 |
 | 88 | [Cairo, Five Years Ago](https://open.spotify.com/track/2Si6l08jYSNpNw8DygFCVD) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [The Bad Guys 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOruSDLvleGc47uqRcbWm) | 2:24 |
 | 89 | [HUMAN Suite](https://open.spotify.com/track/2650MdzBYaOLwPOPnP69Ga) | [Paul Saunderson](https://open.spotify.com/artist/6LvqXE4N4n5il7gLQLuu9g) | [Human \(Original Television Soundtrack\)](https://open.spotify.com/album/1mKHzkkiR7lMvoym0lwNXm) | 3:22 |

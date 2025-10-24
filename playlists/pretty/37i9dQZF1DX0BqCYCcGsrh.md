@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BqCYCcGsrh.md) - [plain]
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,263 likes - 92 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,296 likes - 92 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BqCYCcGsrh.md) - [plain]
 | 91 | [PAPARAZZI～＊この物語はフィクションです～](https://open.spotify.com/track/7DUgvM7GfClB9alU1VKUSa) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 5:29 |
 | 92 | [匿名希望](https://open.spotify.com/track/1JPzlz24PeSDg3aLVHTX6B) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [FOREVER DAZE](https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD) | 4:09 |
 
-Snapshot ID: `AAAAALK6Hr/AmVySg13XR+OJwE7gPIx9`
+Snapshot ID: `AAAAAOaKh42UAdTLAfGg9/I4yzGoMRPc`

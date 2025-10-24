@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: pablopablo.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Depresi\u00f3n Sonora.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 143999,
       "name": "925",
       "url": "https://open.spotify.com/track/4rbEHom0nX4PuXgtp3rLVJ"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 169955,
       "name": "abrigo",
       "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 186098,
       "name": "Amiguita como t\u00fa",
       "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 199927,
       "name": "AZAFATA",
       "url": "https://open.spotify.com/track/4OeQ3j5Np7hMDAkdxmt6Bu"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 199325,
       "name": "a\u00fan mejor",
       "url": "https://open.spotify.com/track/2V6uEVQnZuxyAswFmPtgOl"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 203314,
       "name": "Bienestares Malestares",
       "url": "https://open.spotify.com/track/29FmBh8j5mWNIFc8NJVwTK"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 231889,
       "name": "El Laberinto [2012]",
       "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "He ido m\u00e1s all\u00e1",
+        "url": "https://open.spotify.com/album/3UeufvhtyOwCF6b1QmJuvC"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngel Stanich",
+          "url": "https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306920,
+      "name": "He ido m\u00e1s all\u00e1",
+      "url": "https://open.spotify.com/track/5kiROZugRspoz3k4EwF75e"
+    },
+    {
+      "album": {
         "name": "Bodhiria",
         "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
@@ -4623,6 +4641,24 @@
     },
     {
       "album": {
+        "name": "Soulost",
+        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240498,
+      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
+      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
+    },
+    {
+      "album": {
         "name": "Imaginado es todo",
         "url": "https://open.spotify.com/album/0garmhDOkyNqvle6gCIgrh"
       },
@@ -4674,6 +4710,24 @@
       "duration_ms": 215500,
       "name": "Importante",
       "url": "https://open.spotify.com/track/7EST4cNrgPyNyMFKnVWeKV"
+    },
+    {
+      "album": {
+        "name": "Incandescente",
+        "url": "https://open.spotify.com/album/1e8QJS82UNvhczJeK8bhKm"
+      },
+      "artists": [
+        {
+          "name": "Comandante Twin",
+          "url": "https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Incandescente",
+      "url": "https://open.spotify.com/track/6ZNWbn4fN8K2sJXV32Fm3I"
     },
     {
       "album": {
@@ -5147,6 +5201,24 @@
     },
     {
       "album": {
+        "name": "Los Perros no Entienden Internet (\u2026Y Yo no Entiendo de Sentimientos)",
+        "url": "https://open.spotify.com/album/54ioPa0kudt4A9VPR0K3a2"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "La Ley del Pobre",
+      "url": "https://open.spotify.com/track/7x14AaXr4xkTGqoIpGWadT"
+    },
+    {
+      "album": {
         "name": "La Luna y el Sol",
         "url": "https://open.spotify.com/album/0ToGibJOn1bfAdexcLgAwp"
       },
@@ -5418,7 +5490,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 198987,
       "name": "LE BOYFRIEND",
       "url": "https://open.spotify.com/track/6aVSqovq2DFncEi9R9v2FS"
@@ -5542,6 +5614,32 @@
       "duration_ms": 233453,
       "name": "Liturgia",
       "url": "https://open.spotify.com/track/5PLusVGpEDbye2lHYq0cRd"
+    },
+    {
+      "album": {
+        "name": "Llenita de nueva luz (feat. diego vega)",
+        "url": "https://open.spotify.com/album/0CjgeB8fbuJy5zX3T1TBYt"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        },
+        {
+          "name": "ROSSA",
+          "url": "https://open.spotify.com/artist/1bDaeKBosfN3pWxVv82skJ"
+        },
+        {
+          "name": "diego vega",
+          "url": "https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "Llenita de nueva luz (feat. diego vega)",
+      "url": "https://open.spotify.com/track/0yCstdD3uvtpmaA2UgMsj7"
     },
     {
       "album": {
@@ -5987,6 +6085,24 @@
     },
     {
       "album": {
+        "name": "maligna",
+        "url": "https://open.spotify.com/album/4CHhgOEkspyY1ZCT5CaBsi"
+      },
+      "artists": [
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165742,
+      "name": "maligna",
+      "url": "https://open.spotify.com/track/0I5GPsripSqbQ3VLtV9TEd"
+    },
+    {
+      "album": {
         "name": "mangata",
         "url": "https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq"
       },
@@ -6020,6 +6136,24 @@
       "duration_ms": 128949,
       "name": "MANZANA",
       "url": "https://open.spotify.com/track/4omg9ZG0HsLPcIRCTej50K"
+    },
+    {
+      "album": {
+        "name": "MECHARADIO",
+        "url": "https://open.spotify.com/album/6c0ALxhtn2B916vl5SIndi"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167303,
+      "name": "Mao Enamorado Pilotando Un Mecha",
+      "url": "https://open.spotify.com/track/2gd5JjjE0H0CWXeIUEhoJW"
     },
     {
       "album": {
@@ -6616,6 +6750,24 @@
       "duration_ms": 158400,
       "name": "Mis T\u00edas",
       "url": "https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs"
+    },
+    {
+      "album": {
+        "name": "MODO VENGANZA!!!",
+        "url": "https://open.spotify.com/album/5D4WqMcTX4lXJpSW1iGdb5"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "MODO VENGANZA!!!",
+      "url": "https://open.spotify.com/track/2litFxJmP3G7NnR0fCDFJ3"
     },
     {
       "album": {
@@ -8024,7 +8176,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 216154,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/3Vxo9I8bHaYBDvKv2WOFDg"
@@ -9405,6 +9557,24 @@
     },
     {
       "album": {
+        "name": "SINGAPUR",
+        "url": "https://open.spotify.com/album/586rEprlnKrkeirPWmzfBM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96662,
+      "name": "SINGAPUR",
+      "url": "https://open.spotify.com/track/6hGPhNuiUEjtUEkOxGDbss"
+    },
+    {
+      "album": {
         "name": "So payaso",
         "url": "https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ"
       },
@@ -10745,6 +10915,28 @@
     },
     {
       "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/0yooW6UNUKvJfiCRHbHpbR"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        },
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/7IIhqZnvWA2drToEC8IpDR"
+    },
+    {
+      "album": {
         "name": "Trist\u00e1n, Ahora Con Reloj",
         "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
       },
@@ -11078,7 +11270,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 201818,
       "name": "xi. ave \u00b7 renacer",
       "url": "https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk"

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Charles Lloyd Delta Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,133 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,142 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Logue](https://open.spotify.com/track/2tqam8LDaNrdUO37oNBFco) | [Tom Skinner](https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Kaleidoscopic Visions](https://open.spotify.com/album/53qTij2vfe8DobwgYFSlU9) | 5:16 |
-| 2 | [SEUSS PANTS](https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [SEUSS PANTS](https://open.spotify.com/album/7nNYEMB95NgOkCtxoY3iSv) | 6:41 |
+| 2 | [Seuss Pants](https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Suess Pants](https://open.spotify.com/album/7nNYEMB95NgOkCtxoY3iSv) | 6:41 |
 | 3 | [Tales of Mississippi](https://open.spotify.com/track/42hVqGscO1T9tJlFmC6O74) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD) | [Tales of Mississippi](https://open.spotify.com/album/5YqwcpQMAht5EnIHusDgS4) | 4:45 |
 | 4 | [The Time Bender](https://open.spotify.com/track/1GnquVOVTWIjOTJG2sB0gp) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [The Time Bender](https://open.spotify.com/album/75wjwKv7iPWJtdzIpiWa2q) | 6:06 |
 | 5 | [Blues for Langston](https://open.spotify.com/track/4c3AvJY7H4nETw1xXey04e) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Figure In Blue](https://open.spotify.com/album/1qMMVXxfxe0rPsHunQzFe0) | 8:17 |

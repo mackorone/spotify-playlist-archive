@@ -1,13 +1,197 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6840,
+  "num_followers": 6838,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADHIyBORoz0EGREDOxhwdYK3+x1gaUK",
+  "snapshot_id": "AADHL5yUxarmspoMJvygn8xMdK2pGfpY",
   "tracks": [
+    {
+      "added_at": "2025-10-23 20:06:28",
+      "album": {
+        "name": "head, shoulders, knees and ankles",
+        "url": "https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 192780,
+      "name": "head, shoulders, knees and ankles",
+      "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
+    },
+    {
+      "added_at": "2025-10-23 07:38:08",
+      "album": {
+        "name": "Cumulus / Memory",
+        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 407765,
+      "name": "Cumulus / Memory",
+      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
+    },
+    {
+      "added_at": "2025-10-23 20:04:55",
+      "album": {
+        "name": "Forever, Like That",
+        "url": "https://open.spotify.com/album/5VYETuvcEQvtym1EnxWlKL"
+      },
+      "artists": [
+        {
+          "name": "Eliza McLamb",
+          "url": "https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Forever, Like That",
+      "url": "https://open.spotify.com/track/4RDL5rsAb75PMKy0uL8F6g"
+    },
+    {
+      "added_at": "2025-10-23 20:08:48",
+      "album": {
+        "name": "tra",
+        "url": "https://open.spotify.com/album/5NjEozBiYuMnRz49cuM66T"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "For Residue",
+      "url": "https://open.spotify.com/track/1FfSb6xviPGiWYn8SC9Yk3"
+    },
+    {
+      "added_at": "2025-10-23 20:17:59",
+      "album": {
+        "name": "Zambra del contrario",
+        "url": "https://open.spotify.com/album/5YG3IrsPukSa5V5FWXHykK"
+      },
+      "artists": [
+        {
+          "name": "Yeli Yeli",
+          "url": "https://open.spotify.com/artist/0O1EvfNqika1WaElc26qlE"
+        },
+        {
+          "name": "ROMERO",
+          "url": "https://open.spotify.com/artist/08F3savDQkkjALSA9bFcoA"
+        }
+      ],
+      "duration_ms": 144120,
+      "name": "Zambra del contrario",
+      "url": "https://open.spotify.com/track/35D191q5cAq00sJXVXWLtt"
+    },
+    {
+      "added_at": "2025-10-23 20:05:20",
+      "album": {
+        "name": "Running Errands",
+        "url": "https://open.spotify.com/album/67HHtry07ZJ6oDjKe1ABYj"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "duration_ms": 153717,
+      "name": "Running Errands (Yesterday)",
+      "url": "https://open.spotify.com/track/2nRvPmnxd4FW7AvPY70FvQ"
+    },
+    {
+      "added_at": "2025-10-23 20:18:21",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "added_at": "2025-10-23 20:08:10",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/1D82wftMZcFOvOjc63NYX0"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 217157,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/7GZRf39EhLXWQWT8faJcjy"
+    },
+    {
+      "added_at": "2025-10-23 20:27:30",
+      "album": {
+        "name": "horseglue",
+        "url": "https://open.spotify.com/album/4qtHcTixnEhDJIPG7gD2cd"
+      },
+      "artists": [
+        {
+          "name": "Ekko Astral",
+          "url": "https://open.spotify.com/artist/5YaWzI756w0pw1DkJkun5u"
+        }
+      ],
+      "duration_ms": 118960,
+      "name": "horseglue",
+      "url": "https://open.spotify.com/track/4OUXSMtGYH0Vacg7W6zCwS"
+    },
+    {
+      "added_at": "2025-10-23 20:07:09",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/46khrFkkGW7gvme1igzvha"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/15BHVlIASaUOK1dKNDscgt"
+    },
+    {
+      "added_at": "2025-10-23 20:06:03",
+      "album": {
+        "name": "Just Be Friends (Soccer Mommy Version)",
+        "url": "https://open.spotify.com/album/3hqGYCGblOgZWVcSkH0LyV"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Just Be Friends - Soccer Mommy Version",
+      "url": "https://open.spotify.com/track/7vgPcT0kQIeDQJaDWNIqyV"
+    },
     {
       "added_at": "2025-10-17 04:21:34",
       "album": {
@@ -130,6 +314,10 @@
         {
           "name": "Estrella Fugaz",
           "url": "https://open.spotify.com/artist/69DE5YhguSk2MxUZVFexBA"
+        },
+        {
+          "name": "FERNANDO ALFARO",
+          "url": "https://open.spotify.com/artist/0mDQIgKwYkiFfvI2CberhR"
         }
       ],
       "duration_ms": 212416,
@@ -1115,7 +1303,7 @@
     {
       "added_at": "2025-10-17 04:54:07",
       "album": {
-        "name": "Body Go",
+        "name": "Body Go (with Tyla)",
         "url": "https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM"
       },
       "artists": [
@@ -1129,7 +1317,7 @@
         }
       ],
       "duration_ms": 165000,
-      "name": "Body Go",
+      "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
     },
     {

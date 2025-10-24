@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Alikiba
+> What is your love language? Say it in Swahili\.  Cover: Lony Bway
 
-320 songs - 17 hr 59 min
+321 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Mi Nawe \(feat\. Marioo\)](https://open.spotify.com/track/64X9atKN39EjblFYTsHxVh) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mi Nawe \(feat\. Marioo\)](https://open.spotify.com/album/4XaoSNR21UgRTcdR8TVk2Z) | 2:41 | 2024-03-14 | 2024-03-22 |
 | [Miss U Bad](https://open.spotify.com/track/14rxnzoifQ42TBqxuWJ5Ys) | [Stepperz](https://open.spotify.com/artist/1XQPI6QqsHeBoCFUfAHDth), [Winnie Paul](https://open.spotify.com/artist/0X5mUWmOKejiTwwpFpwm3l) | [Miss U Bad](https://open.spotify.com/album/473plLt1yX2E2P0yN8gGKI) | 2:32 | 2025-09-12 |  |
 | [Miss U Mama](https://open.spotify.com/track/6whQSAHFD8uejAoSKXJC9e) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Miss U Mama](https://open.spotify.com/album/5s6W0xnh5X2RnLC5GQBaIL) | 4:02 | 2024-04-18 | 2024-05-10 |
+| [Mitano](https://open.spotify.com/track/2MeQYMD5hTdHVRX4fjpYvi) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mitano](https://open.spotify.com/album/2PHyjMtCUcwATrDvQ1ZuQ3) | 3:12 | 2025-10-23 |  |
 | [Morning Call](https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Morning Call](https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro) | 3:13 | 2023-06-15 | 2024-03-01 |
 | [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 | 2025-02-13 | 2025-10-17 |
 | [Moyo](https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 3:55 | 2022-11-07 | 2023-03-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. Turi in cover.",
+  "description": "Beat e rime, oggi come una volta. Moder in cover.",
   "name": "Radici Hip-Hop",
   "tracks": [
     {
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 221806,
       "name": "Cronache di resistenza - Hard to do",
       "url": "https://open.spotify.com/track/3nEmwAy1uQD8Nwr93J8vYc"
@@ -12514,6 +12514,24 @@
       "duration_ms": 230526,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/0N9qDDpB8Pd0q07VpunhlV"
     },
     {
       "album": {

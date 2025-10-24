@@ -14344,7 +14344,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 170470,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/3zsPmf4xBL3Vr5KDLb5Nu5"
@@ -17472,7 +17472,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 245840,
       "name": "Kato Tebe Vtori Nyama",
       "url": "https://open.spotify.com/track/3LzpgBBMv6aFmUYu7dfdhg"
@@ -21656,7 +21656,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 180571,
       "name": "MOLITVA",
       "url": "https://open.spotify.com/track/6y8EguWQWT0z8GBeSHTaKK"
@@ -22960,7 +22960,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
@@ -23602,7 +23602,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 220016,
       "name": "Notarialno zaveren",
       "url": "https://open.spotify.com/track/7tJCzGC2zIWUYm4gQ3oaqi"
@@ -25467,6 +25467,28 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -26064,7 +26086,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 208010,
       "name": "Poludei",
       "url": "https://open.spotify.com/track/6IlvYGBXvsgGqb095l6Vtn"
@@ -35048,7 +35070,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 161419,
       "name": "TRAP LAPE 2",
       "url": "https://open.spotify.com/track/18qw30epJG7LLedJtzWdbr"
@@ -39832,7 +39854,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 168750,
       "name": "\u0414\u0430\u043b\u0435 \u0434\u0430\u043b\u0435",
       "url": "https://open.spotify.com/track/0n0EI2pBX3dtF6MICMM6TC"
@@ -41590,7 +41612,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 176923,
       "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
       "url": "https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6"
@@ -41692,7 +41714,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 196666,
       "name": "\u041c\u0430\u043c\u0430 \u043d\u0435 \u0434\u0430\u0432\u0430",
       "url": "https://open.spotify.com/track/2l0H1o8guCuGekEgyaE8Of"
@@ -41822,7 +41844,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 188780,
       "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
       "url": "https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU"

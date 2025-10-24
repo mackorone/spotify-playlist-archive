@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-317 songs - 18 hr 36 min
+318 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Cypher Mashup \(Onionn\. Remix\) \(live from GENfest 23\)](https://open.spotify.com/track/4Kz929bdICFzsdlY8m8Vn5) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Onionn.](https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c) | [Low G \(live from GENfest 23\)](https://open.spotify.com/album/3fcl86ADbtIA0u9GPPX9kr) | 2:58 | 2024-01-11 | 2024-02-03 |
 | [Càng Cua](https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Càng Cua](https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F) | 2:19 | 2023-11-14 | 2024-10-04 |
 | [Cá Mập Con](https://open.spotify.com/track/2ZaNDguKgghsZ1LRlbCZNv) | [Mason Nguyen](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Cá Mập Con](https://open.spotify.com/album/14qCKKMXKpVIWkFz9q4U1l) | 2:55 | 2024-12-22 | 2025-01-08 |
+| [Câu Đùa Nhạt](https://open.spotify.com/track/75Sd1g3pZmERoNLyQ2z4rG) | [YC](https://open.spotify.com/artist/78B1EgDYyqU24oyNcYQZl3), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Đâu Ai Yêu Nghệ Thuật Đến Thế](https://open.spotify.com/album/4pkUbcUaE8TyTPXtDpCIhq) | 3:06 | 2025-10-23 |  |
 | [Còn Ai Ngoài Anh Với Em](https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 4:04 | 2025-07-10 |  |
 | [Có Em](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 | 2023-10-19 | 2024-04-19 |
 | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8) | [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Có Lẽ Anh Chưa Từng](https://open.spotify.com/album/3hgXb4KBABOU4IHPpfODp2) | 4:54 | 2024-06-03 | 2024-06-07 |
@@ -203,7 +204,7 @@
 | [No Way Back](https://open.spotify.com/track/119ovwmwcP4SHmTs3wcYhi) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K) | [An](https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w) | 3:29 | 2024-06-25 | 2024-07-01 |
 | [NOLOVENOLIFE](https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 2:50 | 2023-10-19 | 2024-03-09 |
 | [NOLOVENOLIFE](https://open.spotify.com/track/6D94p9ASguBcYlDC0o56vx) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 2:50 | 2024-03-22 | 2024-04-19 |
-| [NÉT LUÂN](https://open.spotify.com/track/4EduZPlc0sMdZc9D3fHp0b) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [TRAP](https://open.spotify.com/album/7heesEqGdTK3syn99rbbTy) | 2:42 | 2025-10-22 |  |
+| [NÉT LUÂN](https://open.spotify.com/track/4EduZPlc0sMdZc9D3fHp0b) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [TRAP](https://open.spotify.com/album/7heesEqGdTK3syn99rbbTy) | 2:42 | 2025-10-22 | 2025-10-24 |
 | [Nói Dối](https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Nói Dối](https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP) | 3:26 | 2024-01-08 |  |
 | [Nói Dối \(feat\. HIEUTHUHAI\)](https://open.spotify.com/track/3LlEZ4J1ORcgP1WmTF9pIX) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nói Dối \(feat\. HIEUTHUHAI\)](https://open.spotify.com/album/5nQQMbatNcXU1oORUNecxH) | 3:19 | 2024-03-22 | 2024-04-05 |
 | [Nước Mắt Cá Sấu](https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nước Mắt Cá Sấu](https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i) | 3:26 | 2025-04-01 |  |

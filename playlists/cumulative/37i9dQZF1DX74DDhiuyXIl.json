@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "FACE III \u672a\u4f86",
+        "url": "https://open.spotify.com/album/3acpkBbuD8mOdCBCQaHLK8"
+      },
+      "artists": [
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237591,
+      "name": "\u4e0d\u52c7\u6562",
+      "url": "https://open.spotify.com/track/0fgw8YYgyKqB5fK6of6XEQ"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u5b58\u5728\u7684\u7231\u604b",
         "url": "https://open.spotify.com/album/6VSvxTApaaOZzoqkIxiFb1"
       },
@@ -2835,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "\u6709\u4e14",
+        "url": "https://open.spotify.com/album/5KvOMc2has9jVkEl1n8QEf"
+      },
+      "artists": [
+        {
+          "name": "Rainie Yang",
+          "url": "https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235530,
+      "name": "\u514d\u75ab\u9ad4",
+      "url": "https://open.spotify.com/track/6JmpsSqBTecBlDvoITLBmB"
+    },
+    {
+      "album": {
         "name": "\u8aaa\u6545\u4e8b\u7684\u6b4c",
         "url": "https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB"
       },
@@ -3268,7 +3304,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 251470,
       "name": "\u522a\u4e86",
       "url": "https://open.spotify.com/track/1lqWsPvpHKjbhX59QBUoVc"
@@ -9570,7 +9606,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 262588,
       "name": "\u7121\u540d\u4e4b\u8f29 (\u96fb\u8996\u5287\u300a\u89aa\u611b\u7684, \u71b1\u611b\u7684\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv"

@@ -1,12 +1,12 @@
 {
   "description": "This is Irv Gotti. The essential tracks, all in one playlist.",
-  "num_followers": 154,
+  "num_followers": 155,
   "original_name": "This Is Irv Gotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPbNAAAAAAA6Fa1EZaNslpm2qcO8Uieo",
+  "snapshot_id": "aPgegAAAAAAHhwN7qSHX7xFYch7v/b4b",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Irv Gotti Presents: The Murderers",
-        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
-      },
-      "artists": [
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 130826,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 278200,
       "name": "Intro (Various Artists/Irv Gotti Presents... The Inc.)",
       "url": "https://open.spotify.com/track/2nQvUJgNFgvdYGwGtLUUKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Irv Gotti Presents: The Murderers",
+        "url": "https://open.spotify.com/album/7aSfSgqa64j0WPe6W7D32w"
+      },
+      "artists": [
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 130826,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4wcsCTDLadhBiSSTc3j289"
     },
     {
       "added_at": null,
@@ -172,37 +172,17 @@
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "Caddillac Tah",
-          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+          "name": "D.O. Cannons",
+          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
         },
         {
-          "name": "Black Child",
-          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
+          "name": "Young Merc",
+          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
         }
       ],
-      "duration_ms": 169560,
-      "name": "O.G. - Remix",
-      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Informal Introduction OG",
-        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
-      },
-      "artists": [
-        {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
+      "duration_ms": 236680,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
     },
     {
       "added_at": null,
@@ -227,6 +207,26 @@
       "duration_ms": 233773,
       "name": "Here We Come",
       "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Informal Introduction OG",
+        "url": "https://open.spotify.com/album/53ITXaRohUnllzMoXNbuSd"
+      },
+      "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/6SJoDmdniQS2xI6uYxvXj0"
     },
     {
       "added_at": null,
@@ -260,17 +260,17 @@
           "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
         },
         {
-          "name": "D.O. Cannons",
-          "url": "https://open.spotify.com/artist/0goZfLP9o3cMDjawhuYfI5"
+          "name": "Caddillac Tah",
+          "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
         },
         {
-          "name": "Young Merc",
-          "url": "https://open.spotify.com/artist/6RdgFuRxWjCYZZzUKjFJBG"
+          "name": "Black Child",
+          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 236680,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/7Ekfi0norL9U3umpqrBmXo"
+      "duration_ms": 169560,
+      "name": "O.G. - Remix",
+      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
     },
     {
       "added_at": null,

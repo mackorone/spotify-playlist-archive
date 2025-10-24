@@ -2,9 +2,9 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> DJ Seinfeld + Confidence Man = Hardest Collab of the Year
+> The Deans are taking over the world!
 
-1,343 songs - 4 day 3 hr 22 min
+1,346 songs - 4 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Fjord](https://open.spotify.com/track/4xDGbeoAUyPkHV6uLC2RTM) | [Avenue One](https://open.spotify.com/artist/36aAN3R8JUJBcInylswfxA) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 3:19 | 2023-01-19 | 2023-03-10 |
 | [Flares](https://open.spotify.com/track/48AS1ULVAVhnRFnkqjRfnW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Songs You Might Remember from Some Parties](https://open.spotify.com/album/577Fv1hPQfp1btM1N5lXN1) | 4:35 | 2022-12-27 | 2023-01-02 |
 | [Flashpoints \- Original Club Mix](https://open.spotify.com/track/6bLmLYkxx34BT0A5Gzjx1a) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Flashpoints EP](https://open.spotify.com/album/2gSmb5G13VPo9l5xOS1n8a) | 4:48 | 2025-04-03 | 2025-10-17 |
+| [flight mode \- Âme Remix](https://open.spotify.com/track/3obxk1RGNTxTZWbxcnHYWx) | [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [BERNT](https://open.spotify.com/artist/3uY7CDg3g84A8y1PoYcATv), [let me you](https://open.spotify.com/artist/4D5bNOz5mLxAdGBqqvqVMS), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [flight mode \(Âme Remix\)](https://open.spotify.com/album/0h0lc2h9IHk77fxS41cpui) | 5:51 | 2025-10-23 |  |
 | [Flood](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Flood](https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6) | 4:32 | 2024-10-21 | 2025-08-16 |
 | [Florianopolis](https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Florianopolis](https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj) | 2:21 | 2022-09-15 | 2023-08-04 |
 | [Fly Away](https://open.spotify.com/track/1niYvR84CZQiNE3pWFZiLS) | [New Spectrum](https://open.spotify.com/artist/2pf5q0TzKjDmsr8iwU5N5B) | [Out of My Head EP](https://open.spotify.com/album/6M01XBy3SciLGIuih1nXmL) | 5:56 | 2023-02-16 | 2023-03-10 |
@@ -529,6 +530,7 @@
 | [Hunger For Your Vibe \- Moonwalk Remix](https://open.spotify.com/track/4YUM6w6KqQLEwxi3ShRA8T) | [Arm In Arm](https://open.spotify.com/artist/1nWTuAPoIl3Ig7QUxuFgdl), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Hunger for Your Vibe](https://open.spotify.com/album/214rxKKvsoEgvjDgZ7aUDk) | 6:32 | 2022-08-19 | 2022-08-26 |
 | [Hurt You \- AN21 Mix](https://open.spotify.com/track/0oEThl1m4VSYqrGz2IHCPs) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Lya Adams](https://open.spotify.com/artist/3yVh3xDQNdgKBlAxWZmQkY) | [Hurt You \(Original & AN21 Mixes\)](https://open.spotify.com/album/6uiHG2j725HrytmAIZYQRm) | 3:05 | 2023-11-02 | 2024-06-21 |
 | [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-01 | 2023-09-01 |
+| [Hypersilent](https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [J.J\. Fad](https://open.spotify.com/artist/2eynOGnZLqDuEJwbRHlHN1) | [Hypersilent](https://open.spotify.com/album/0dUwtvMnpFyiUq7CO5hWBb) | 5:54 | 2025-10-23 |  |
 | [Hypno](https://open.spotify.com/track/5IrRddhCAkOSc51EFWYRRT) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Trick, Pt\. 1](https://open.spotify.com/album/3M56M1PoVddtL3Q0wVmTH4) | 7:24 | 2022-11-24 | 2023-03-10 |
 | [Hypno Therapy](https://open.spotify.com/track/7nRA1ebc541cvTMXzNIz7O) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Hypno Therapy](https://open.spotify.com/album/16QXxjSeXbwkVyApPgU149) | 5:30 | 2023-01-26 | 2023-03-10 |
 | [I Am The One](https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [I Am The One](https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9) | 3:20 | 2024-03-21 | 2025-08-16 |
@@ -1341,6 +1343,7 @@
 | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [You Don't Own Me \(feat\. RAHH\)](https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT) | 2:50 | 2025-06-19 |  |
 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-02-29 | 2025-08-16 |
 | [You Run](https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [You Run](https://open.spotify.com/album/0TYWnfGE7HspkqdLQLA0vD) | 5:54 | 2022-08-18 | 2023-03-10 |
+| [You Should Think Ahead](https://open.spotify.com/track/545JYgtVRRFHf9EcYovxGC) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [You Should Think Ahead EP](https://open.spotify.com/album/1CXrgjDFohX5TOL8oKhxHi) | 6:12 | 2025-10-23 |  |
 | [Young Money](https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq) | [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Young Money](https://open.spotify.com/album/1hiQPT0R07NhqFghAC15xr) | 3:00 | 2023-12-14 | 2025-08-16 |
 | [Your Love \- Diplo Remix](https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Your Love \(Diplo Remix\)](https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV) | 2:35 | 2024-04-18 | 2024-06-21 |
 | [Your Love \- Seth Troxler Remix](https://open.spotify.com/track/1vY3452aVUKq59zjQqmNk7) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [Your Love \(Seth Troxler Remix\)](https://open.spotify.com/album/0H4XPs3byMfSvGTpGGoh15) | 6:33 | 2024-03-22 | 2025-08-16 |

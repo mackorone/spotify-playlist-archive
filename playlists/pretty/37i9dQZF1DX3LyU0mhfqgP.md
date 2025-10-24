@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: HAAi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,079 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,021 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 21 | [Isn’t That Life](https://open.spotify.com/track/1iIRaQjzWaDql3e52JNWU9) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [American Spirit: The Last Drag](https://open.spotify.com/album/5hSvIpAkDp9nH2ER2vUoXP) | 3:33 |
 | 22 | [All This Love](https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [All This Love](https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4) | 3:25 |
 | 23 | [Gauchito](https://open.spotify.com/track/6oX7qoA3Hfv3PrpypeSlx7) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Único y Nuestro](https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH) | 3:43 |
-| 24 | [xi\. ave · renacer](https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [xi\. ave · renacer](https://open.spotify.com/album/3cUbFIk8UqWsM9okxpug9h) | 3:21 |
+| 24 | [xi\. Ave · renacer](https://open.spotify.com/track/3vscNSlxazMyYsqTvhUtHk) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [xi\. Ave · renacer](https://open.spotify.com/album/3cUbFIk8UqWsM9okxpug9h) | 3:21 |
 | 25 | [Onions](https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Onions](https://open.spotify.com/album/2QbGDADifKwU9DlKwQvK6I) | 3:08 |
 | 26 | [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 |
 | 27 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 |

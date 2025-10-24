@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 186391,
+  "num_followers": 186460,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPbNAAAAAABFtYYttCLrqiBdYsnd8Q5f",
+  "snapshot_id": "aPgegAAAAAAByB4/VPq72h17uYhOz6Gi",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Este Cuento",
-        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "Este Cuento",
-      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las De Infante",
         "url": "https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 175737,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/4kF52Us8ae35E230x84Vht"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Este Cuento",
+        "url": "https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 174083,
+      "name": "Este Cuento",
+      "url": "https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 303990,
+      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 MANOS 1 MUNDO",
         "url": "https://open.spotify.com/album/4hMqeZaxdYC4GxMl5vzylA"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 188000,
       "name": "SOL",
       "url": "https://open.spotify.com/track/087LHAM3Qh50ClhMjvtF0y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 303990,
-      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 162040,
-      "name": "Explorando El Universo",
-      "url": "https://open.spotify.com/track/5DcG3SCnOvGrIEnaFT5eTY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 321763,
       "name": "Intro + Miel - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/4VcnsXca3wmorKKJPgZR0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 162040,
+      "name": "Explorando El Universo",
+      "url": "https://open.spotify.com/track/5DcG3SCnOvGrIEnaFT5eTY"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Aut\u00e9ntica",
-      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Lastim\u00e9",
         "url": "https://open.spotify.com/album/3NiY4M0jMYZP9NkAziX41p"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 221211,
       "name": "Te Lastim\u00e9",
       "url": "https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Aut\u00e9ntica",
+      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Sara Gioielli in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "KIMONO in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 135111,
       "name": "1 secondo",
       "url": "https://open.spotify.com/track/04hZAHzIMGiFfnJiXFm2d5"
+    },
+    {
+      "album": {
+        "name": "1000 Persone",
+        "url": "https://open.spotify.com/album/0cemiyQDsB9mhgt1kwIv4O"
+      },
+      "artists": [
+        {
+          "name": "YOF",
+          "url": "https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4"
+        },
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "1000 Persone",
+      "url": "https://open.spotify.com/track/2BoMWdcJU065H5iTnv59km"
     },
     {
       "album": {
@@ -1236,7 +1258,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 232509,
       "name": "Arresa (luna crescente)",
       "url": "https://open.spotify.com/track/0Vr35hJsL01o8rmTHN1VtC"
@@ -1792,7 +1814,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 244112,
       "name": "Bene",
       "url": "https://open.spotify.com/track/63hpZm6eqbs9ILgTrFS6kB"
@@ -2478,7 +2500,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 223737,
       "name": "california",
       "url": "https://open.spotify.com/track/1yfl84jsGkHku06KIkNtJm"
@@ -4315,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "di malva",
+        "url": "https://open.spotify.com/album/1wKtY8GO7Cywa3FhIzNDFk"
+      },
+      "artists": [
+        {
+          "name": "juni",
+          "url": "https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "di malva",
+      "url": "https://open.spotify.com/track/07cG69CgL3B0Ndi8inXaCU"
+    },
+    {
+      "album": {
         "name": "Di Me",
         "url": "https://open.spotify.com/album/5gYDoJXbOF8RK8XF28gQWr"
       },
@@ -5212,6 +5252,28 @@
       "duration_ms": 122666,
       "name": "Essere Me",
       "url": "https://open.spotify.com/track/5zwUQT8YfZGwtpdaqLlLhE"
+    },
+    {
+      "album": {
+        "name": "eva",
+        "url": "https://open.spotify.com/album/0hIBbwmprs7RWfRCB6h1hh"
+      },
+      "artists": [
+        {
+          "name": "VERSAILLES",
+          "url": "https://open.spotify.com/artist/3A2Z3yqJm0weMjLnVZSHTE"
+        },
+        {
+          "name": "MVR",
+          "url": "https://open.spotify.com/artist/76UyJVzkGi3b124vOPrD0u"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184947,
+      "name": "eva",
+      "url": "https://open.spotify.com/track/6N9H4Yd8N4zhD9e2StbzIZ"
     },
     {
       "album": {
@@ -7762,7 +7824,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 157800,
       "name": "Kylie",
       "url": "https://open.spotify.com/track/4WbOOS239xyycYvtx6Ocag"
@@ -7824,6 +7886,24 @@
       "duration_ms": 181978,
       "name": "L'AMARO",
       "url": "https://open.spotify.com/track/0h5lX7Lb6VZWBlemG1vkbI"
+    },
+    {
+      "album": {
+        "name": "SONO UN GRANDE",
+        "url": "https://open.spotify.com/album/21lb48X13ygaYOsHi8RCS6"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "L'Amore \u00c8 Re",
+      "url": "https://open.spotify.com/track/1aNzG5PUkwuuDMJDFdZx5P"
     },
     {
       "album": {
@@ -9899,6 +9979,24 @@
     },
     {
       "album": {
+        "name": "SONO UN GRANDE",
+        "url": "https://open.spotify.com/album/21lb48X13ygaYOsHi8RCS6"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235824,
+      "name": "Milite Ignoto",
+      "url": "https://open.spotify.com/track/08iWg44KrpLHFRo2TOvc4U"
+    },
+    {
+      "album": {
         "name": "Mistiche Vibre",
         "url": "https://open.spotify.com/album/2iDkk5I8UIhjifY5Ys7U3z"
       },
@@ -11361,6 +11459,24 @@
     },
     {
       "album": {
+        "name": "Nun \u00e8 cos",
+        "url": "https://open.spotify.com/album/2HYt1viErXIsCbtaVYXd5o"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lizzul",
+          "url": "https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Nun \u00e8 cos",
+      "url": "https://open.spotify.com/track/2hk8qmbTy4yzf4t8PAfoiE"
+    },
+    {
+      "album": {
         "name": "Nunn 'o voglio sape'",
         "url": "https://open.spotify.com/album/0Jz3rP9MZ3VUrMKSlRkBH8"
       },
@@ -12391,6 +12507,24 @@
     },
     {
       "album": {
+        "name": "PE' FA PACE",
+        "url": "https://open.spotify.com/album/7480FprI9WB9OPjgytmDk0"
+      },
+      "artists": [
+        {
+          "name": "Federico Di Napoli",
+          "url": "https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164919,
+      "name": "PE' FA PACE",
+      "url": "https://open.spotify.com/track/0HrL7MoXE2ePNLyashGu2L"
+    },
+    {
+      "album": {
         "name": "Pensavo ire Tu",
         "url": "https://open.spotify.com/album/3RxcNXSD61x7q4zs9bTogZ"
       },
@@ -12518,7 +12652,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 265064,
       "name": "Perdono",
       "url": "https://open.spotify.com/track/2NGIdB7mPVetCIVaG0mLwx"
@@ -14458,7 +14592,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 181090,
       "name": "Senza Mani",
       "url": "https://open.spotify.com/track/6awGQXoB8XcGs7zsOeAUGb"
@@ -17680,7 +17814,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 139200,
       "name": "vorrei crederci",
       "url": "https://open.spotify.com/track/22evodmRPB1ZFWH4OVCjtK"

@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Sound Of Legend au top des bangers dance/electro du moment !
+> MORTEN x David Guetta au top des bangers dance/electro du moment !
 
 300 songs - 13 hr 49 min
 

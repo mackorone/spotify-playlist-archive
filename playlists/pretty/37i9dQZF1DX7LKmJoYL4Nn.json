@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-09-16 15:44:19",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Trickstar",
+        "url": "https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u661f\u30b9\u30d0\u30eb(CV.\u67ff\u539f\u5fb9\u4e5f)",
+          "url": "https://open.spotify.com/artist/3PW3czb1thoCaP2TYUid3p"
+        }
+      ],
+      "duration_ms": 192300,
+      "name": "EverySing For You",
+      "url": "https://open.spotify.com/track/1S4Y2mzhP2sM2NgAUL2yx2"
+    },
+    {
+      "added_at": "2025-09-16 15:44:19",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f UNDEAD",
         "url": "https://open.spotify.com/album/62jk8EoHjZXcdRI4yFtqsn"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 246600,
       "name": "\u30cf\u30cb\u30fc\u30df\u30eb\u30af\u306f\u304a\u597d\u307f\u3067",
       "url": "https://open.spotify.com/track/1C5wgl35vBuflcyAsYMec0"
-    },
-    {
-      "added_at": "2025-09-16 15:44:19",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba fine",
-        "url": "https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl"
-      },
-      "artists": [
-        {
-          "name": "\u65e7fine/\u5929\u7965\u9662\u82f1\u667a(CV.\u7dd1\u5ddd \u5149)\u3001\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)",
-          "url": "https://open.spotify.com/artist/0Sd7c2j09NBAzxKw93DXN9"
-        }
-      ],
-      "duration_ms": 283520,
-      "name": "Genuine Revelation",
-      "url": "https://open.spotify.com/track/58IRDzby3EXJb8SUt37mMV"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

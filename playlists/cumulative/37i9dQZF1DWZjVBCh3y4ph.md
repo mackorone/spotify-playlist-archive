@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Meryl x Kalipsxau
+> Les hits zouk du moment\. Photo : LÉA CHURROS x Maud Elka
 
-322 songs - 17 hr 7 min
+323 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Ohana](https://open.spotify.com/track/6uqAOPe2Wf5rY2O23Iezh8) | [DJ Ramses](https://open.spotify.com/artist/5A1Lk3WRlRE67ua5B0zelb), [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Ohana](https://open.spotify.com/album/3rZbZbvxXs4jbxqGnz7Gvy) | 2:25 | 2025-06-26 | 2025-08-29 |
 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 | 2023-09-28 | 2024-06-14 |
 | [On se blesse](https://open.spotify.com/track/2eZ8nYofJxOzkGWwFJyEgZ) | [Fside](https://open.spotify.com/artist/00ZDcRvFcW61HAEYNH0lG9), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [On se blesse](https://open.spotify.com/album/27rw5gQVjcfoUg4taawrKv) | 2:56 | 2025-06-12 | 2025-07-04 |
-| [On Ti Kosé Posé](https://open.spotify.com/track/5BSTdR9vkOlsj8V9wqsaTJ) | [Joël GALIPO](https://open.spotify.com/artist/6rW55fOMEJYi4Gb8PPbU9p) | [On Ti Kosé Posé](https://open.spotify.com/album/0diTvlZKmfkNM061CuystB) | 3:00 | 2025-10-02 |  |
+| [On Ti Kosé Posé](https://open.spotify.com/track/5BSTdR9vkOlsj8V9wqsaTJ) | [Joël GALIPO](https://open.spotify.com/artist/6rW55fOMEJYi4Gb8PPbU9p) | [On Ti Kosé Posé](https://open.spotify.com/album/0diTvlZKmfkNM061CuystB) | 3:00 | 2025-10-02 | 2025-10-24 |
 | [Ou fè'm mal](https://open.spotify.com/track/5aFXwdIy5hkZ6WZZDHnEcq) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Eclosion](https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu) | 3:18 | 2024-11-21 | 2025-02-14 |
 | [Ou fèm vakabon](https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 4:33 | 2024-09-26 | 2024-11-08 |
 | [Ou Pé](https://open.spotify.com/track/0eWNcMTXQ8985SKAZM24cO) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:16 | 2024-10-10 | 2024-12-06 |
@@ -242,6 +242,7 @@
 | [Rosalie](https://open.spotify.com/track/17lQCngPjOFEgHwprsVYif) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [Dj Skyro](https://open.spotify.com/artist/6G97rMBD9PiOYqKgMrpRBo) | [On di Road](https://open.spotify.com/album/4sVuvKPam9nXw9PzBbdG0m) | 2:27 | 2024-06-27 | 2024-10-18 |
 | [Résignée](https://open.spotify.com/track/6dilPsFJWBb7UiyLVOYY7n) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Résignée](https://open.spotify.com/album/1AW1TKdEei7KQRYmjsLcNs) | 3:15 | 2023-09-28 | 2023-12-08 |
 | [Rété](https://open.spotify.com/track/0SHEQGXUj2WRJg7HJIiduJ) | [Jim Rama](https://open.spotify.com/artist/0lBsfiyz1qHN8F8alOIE60), [Vanessa Desire](https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Rété](https://open.spotify.com/album/2KfC8YMWmpfG5kiuN3YVdp) | 4:12 | 2025-02-13 | 2025-04-25 |
+| [Saison 2](https://open.spotify.com/track/61zhgBrll0JcbZdhaYQ16i) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq) | [Saison 2](https://open.spotify.com/album/0msn4kPdpwzjypJgyDeomg) | 3:12 | 2025-10-23 |  |
 | [San vou](https://open.spotify.com/track/2yzerewN8VNbVTy8Iuvzbj) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT), [Venssy](https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [San vou](https://open.spotify.com/album/1hp1wuS70Pyt4WaP0FV6OH) | 3:26 | 2024-09-19 | 2024-11-15 |
 | [Sans pause](https://open.spotify.com/track/4gDYUBYloGXLDIWKNfyMNP) | [Kent1](https://open.spotify.com/artist/3j1OW2DW29UNsdM44viM9f), [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c) | [Flamboyant](https://open.spotify.com/album/60xFN9qI4uQgOFrigWw1aG) | 3:31 | 2025-07-24 |  |
 | [Sans rancœur](https://open.spotify.com/track/7HMYc94izcZHDneK2UMp8s) | [7iaa](https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl) | [Fake Goumin](https://open.spotify.com/album/0O48Hy858MyXDzlx7GB1LT) | 3:15 | 2025-02-13 | 2025-03-28 |

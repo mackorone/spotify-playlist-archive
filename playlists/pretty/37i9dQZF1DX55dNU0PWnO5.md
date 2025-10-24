@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,222 likes - 200 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,218 likes - 200 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 3 | [Chicago Four](https://open.spotify.com/track/0ItbJ3oUSk9eca9cLaPiAB) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [Chicago Four](https://open.spotify.com/album/6nGxNNR7dnQ1PWxyOn7FcV) | 3:33 |
 | 4 | [Parallel](https://open.spotify.com/track/19FzgTmZaepdeXBqHm87VD) | [DAWSON](https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02), [Lewis McCallum](https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn) | [Parallel](https://open.spotify.com/album/01Gi66AgxBlxs47qLBKOJg) | 2:52 |
 | 5 | [Resonance](https://open.spotify.com/track/5DKML664ZyiuKI2RmPweIY) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Resonance](https://open.spotify.com/album/5JOKGI1Pwi5Elseu6PBI6y) | 3:58 |
-| 6 | [verdigris](https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [verdigris](https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o) | 3:21 |
+| 6 | [verdigris](https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [verdigris](https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o) | 3:20 |
 | 7 | [high vibrations](https://open.spotify.com/track/0gr9ny9UGmMdrBV1ivgnGb) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [high vibrations](https://open.spotify.com/album/7icKH7oDXCA2m6V6tks0XO) | 5:35 |
 | 8 | [32\. Dip \(108\)](https://open.spotify.com/track/2AKRp397r2BIbTzrOyTJdd) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [32\. Dip \(108\)](https://open.spotify.com/album/4mVYlX9obxUJAiwzvPgJkb) | 2:48 |
 | 9 | [Eclipse the Moon](https://open.spotify.com/track/0bvuAdxKXmf9FGA4vb37hK) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Eclipse the Moon](https://open.spotify.com/album/1HLQWCaeOjWfHfRYPmkoGu) | 3:27 |

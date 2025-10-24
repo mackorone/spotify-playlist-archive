@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Johnny Jane",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : James Baker",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -388,6 +388,24 @@
       "duration_ms": 149226,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC"
+    },
+    {
+      "album": {
+        "name": "ATTITUDE",
+        "url": "https://open.spotify.com/album/0J1vKaqrAHhMUGk7euACSy"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178701,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/09u87tRFWJH0hlgeEH4Tgu"
     },
     {
       "album": {
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 177133,
       "name": "Keskia",
       "url": "https://open.spotify.com/track/4bXWo43kD5yjlQ3oFCGVWo"
@@ -3687,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "mais le ciel est sublime",
+        "url": "https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl"
+      },
+      "artists": [
+        {
+          "name": "nous \u00e9tions une arm\u00e9e",
+          "url": "https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224630,
+      "name": "mais le ciel est sublime",
+      "url": "https://open.spotify.com/track/5cfD8I77n0o74lx5I6kdjt"
+    },
+    {
+      "album": {
         "name": "Maisons vides",
         "url": "https://open.spotify.com/album/1hgVIIJBeoAcy96jPMS3Xx"
       },
@@ -3889,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Mon c\u0153ur kiff\u00e9",
+        "url": "https://open.spotify.com/album/0mjd6eD8Y2Yl1eHq5nYQz6"
+      },
+      "artists": [
+        {
+          "name": "HORLA",
+          "url": "https://open.spotify.com/artist/3rroBIgezFxcKXYw0MugUQ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "Mon c\u0153ur kiff\u00e9",
+      "url": "https://open.spotify.com/track/6oKiuFOlrQ4rqS085TmCxC"
+    },
+    {
+      "album": {
         "name": "Trois, Deux, Un",
         "url": "https://open.spotify.com/album/20yAmWJJUpuJpB3qkkWCng"
       },
@@ -4016,6 +4070,24 @@
       "duration_ms": 194600,
       "name": "My Way (with Creams)",
       "url": "https://open.spotify.com/track/5WvApuKcoXZL1FinExKsRq"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "TOMASI",
+          "url": "https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "Mythique",
+      "url": "https://open.spotify.com/track/1lRMPEt5awlduYQwRXy5Kw"
     },
     {
       "album": {
@@ -4525,7 +4597,7 @@
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169506,
+      "duration_ms": 168813,
       "name": "PIERROT LE FOU",
       "url": "https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh"
     },
@@ -5442,7 +5514,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 152571,
       "name": "si tu veux on va voir la mer",
       "url": "https://open.spotify.com/track/50oYuuu1dN4Ld47YkO6SVP"
@@ -6272,7 +6344,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 249391,
       "name": "Vie de r\u00eave",
       "url": "https://open.spotify.com/track/5hiomyDdmSY5uITlR75LmK"

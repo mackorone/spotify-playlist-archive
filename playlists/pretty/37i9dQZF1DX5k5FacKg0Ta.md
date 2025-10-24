@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,225 likes - 82 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,227 likes - 82 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 81 | [Two Kids A Day](https://open.spotify.com/track/0Y6ydDHos0BlEofX7AX93O) | [Joakim Berghäll](https://open.spotify.com/artist/6WflLUp4wE1JvcKmIdmg9O), [Adele Sauros](https://open.spotify.com/artist/58tRYc5aVpaZl6PmnRusI3) | [Runoja rauhalle \(Poems for Peace\)](https://open.spotify.com/album/1xxwZokHP27IAA1y0EbvnK) | 3:49 |
 | 82 | [Adrift](https://open.spotify.com/track/2MF5PmEeFCudJz87mbQ3aX) | [The Watercolors](https://open.spotify.com/artist/5xbkbQqKZyoPSK49m7MjmU) | [La Grande Odyssée](https://open.spotify.com/album/4CYgMZ3NIUbwMOOIG6Jgg1) | 4:39 |
 
-Snapshot ID: `AAAAAKnhhk3Ds8ervpfnt8WnRnFJbfp5`
+Snapshot ID: `AAAAAI9Qv0cRQNI1QGUcNPf8hulztt/+`

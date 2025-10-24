@@ -161,6 +161,36 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/1UtTQfuTFfsDsHzx1ZRA9w"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Stonefox",
+          "url": "https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156842,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4mplINLD4G4Dtlflkl67xW"
+    },
+    {
+      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 36 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/3uwTC6JM6iva72xeLfd80b"
       },
@@ -276,6 +306,32 @@
       "duration_ms": 164262,
       "name": "Amazin' - Edit",
       "url": "https://open.spotify.com/track/1JpTKjjvvCJ7zkE2Okl3LJ"
+    },
+    {
+      "album": {
+        "name": "An Angel's Love (Bobby Suryadi Remix)",
+        "url": "https://open.spotify.com/album/6uuYO0jOkQtciW5FoafKqK"
+      },
+      "artists": [
+        {
+          "name": "Alex M.O.R.P.H.",
+          "url": "https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW"
+        },
+        {
+          "name": "Sylvia Tosun",
+          "url": "https://open.spotify.com/artist/0DhprLDFQGaundr4WVi9P1"
+        },
+        {
+          "name": "Bobby Suryadi",
+          "url": "https://open.spotify.com/artist/6TMPHyIc8NbEGdkI3Le4bN"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219685,
+      "name": "An Angel's Love - Bobby Suryadi Remix",
+      "url": "https://open.spotify.com/track/5UFGL9webcYRAJhgdwQnnb"
     },
     {
       "album": {

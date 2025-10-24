@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Danny Smoke",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Bernice West",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -2093,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Hart soos 'n Hilux",
+        "url": "https://open.spotify.com/album/5p2LWBsu5tiu0O8Of4fvqR"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228888,
+      "name": "Hart soos 'n Hilux",
+      "url": "https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R"
+    },
+    {
+      "album": {
         "name": "Proe Soos Nog",
         "url": "https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS"
       },
@@ -3676,7 +3694,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 213000,
       "name": "Madelein",
       "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 182927,
       "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
       "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
@@ -5320,6 +5338,24 @@
       "duration_ms": 178669,
       "name": "Stoom",
       "url": "https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2"
+    },
+    {
+      "album": {
+        "name": "Stoppit Ek Like It",
+        "url": "https://open.spotify.com/album/48GPo4UGTORgtYYNwwGVZK"
+      },
+      "artists": [
+        {
+          "name": "Brandon Miles",
+          "url": "https://open.spotify.com/artist/0Xl7arcMBlu0zYvLfCHo1Z"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231385,
+      "name": "Stoppit Ek Like It",
+      "url": "https://open.spotify.com/track/0nABZUwsLO9VtJA6xoD1K0"
     },
     {
       "album": {

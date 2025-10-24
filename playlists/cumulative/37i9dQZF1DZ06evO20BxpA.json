@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 170853,
       "name": "Beneath the Waves",
       "url": "https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 251266,
       "name": "Heads of State",
       "url": "https://open.spotify.com/track/3Njp6CLh7QFtb4MAXvnlEg"
@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Long Distance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Memory Bank",
+      "url": "https://open.spotify.com/track/6XCeLQcaWUciWJr7K3IFzG"
+    },
+    {
+      "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 180826,
       "name": "Seers of the Sky",
       "url": "https://open.spotify.com/track/4K4EEp5SkLMBjri9HScOqJ"

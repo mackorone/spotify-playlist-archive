@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 196937,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5EHXU9CZznZWvIU36VmzF0"
@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 192079,
       "name": "Only God Knows",
       "url": "https://open.spotify.com/track/706M6LqlmTnLFobIEDJCc6"
@@ -3857,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "Politrix",
+        "url": "https://open.spotify.com/album/4sfKAbdvTNk1ptNCxChqni"
+      },
+      "artists": [
+        {
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Politrix",
+      "url": "https://open.spotify.com/track/4CKeIn5J2vlqmyuVtq7uZs"
+    },
+    {
+      "album": {
         "name": "Power Mabula",
         "url": "https://open.spotify.com/album/60GeP9UVZfwZYMyQLYrcFT"
       },
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 196519,
       "name": "Rap Like Me",
       "url": "https://open.spotify.com/track/7tWk2k290JeSHkZQGOl5Bf"
@@ -4240,6 +4258,28 @@
       "duration_ms": 176413,
       "name": "Say",
       "url": "https://open.spotify.com/track/7x90WpEMiHUD1T5RseSVeN"
+    },
+    {
+      "album": {
+        "name": "Sayansi",
+        "url": "https://open.spotify.com/album/7FbTSmwk4oZvMREJLGRJOy"
+      },
+      "artists": [
+        {
+          "name": "Msodoki Young Killer",
+          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+        },
+        {
+          "name": "Belle 9",
+          "url": "https://open.spotify.com/artist/6ggRSrG9TdJEVxreHuiapz"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249300,
+      "name": "Sayansi",
+      "url": "https://open.spotify.com/track/79jk7HytiAKQZS8T27WGPm"
     },
     {
       "album": {
@@ -4648,6 +4688,28 @@
       "duration_ms": 224615,
       "name": "Step",
       "url": "https://open.spotify.com/track/4znb2uP2JB0Ws5cIM4ryC9"
+    },
+    {
+      "album": {
+        "name": "Suluhu",
+        "url": "https://open.spotify.com/album/4nHdHu8iJqiRONh34R5xxv"
+      },
+      "artists": [
+        {
+          "name": "Zaiid",
+          "url": "https://open.spotify.com/artist/5zLg27W6DwxNLbC2nTexRM"
+        },
+        {
+          "name": "Aila Voice",
+          "url": "https://open.spotify.com/artist/4bNXLLdUNsMn41AnCjuNrN"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194347,
+      "name": "Suluhu",
+      "url": "https://open.spotify.com/track/71g0kfOCpNm6V5RAfXALH7"
     },
     {
       "album": {

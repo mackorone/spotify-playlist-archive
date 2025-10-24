@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 396058,
+  "num_followers": 396144,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Olha Pra Mim",
-        "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
-      },
-      "artists": [
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        },
-        {
-          "name": "Hevo 84",
-          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
-        }
-      ],
-      "duration_ms": 177535,
-      "name": "Olha Pra Mim",
-      "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
+        "name": "Olha Pra Mim",
+        "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
+      },
+      "artists": [
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Hevo 84",
+          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
+        }
+      ],
+      "duration_ms": 177535,
+      "name": "Olha Pra Mim",
+      "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
     },
     {
       "added_at": "2025-09-12 17:34:26",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 503207,
+  "num_followers": 503238,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aPbNAAAAAABEJ/hIkkOET7Xsr/c+NYLu",
+  "snapshot_id": "aPgegAAAAADaJk/Zz4hmCB93DEE0q84I",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verve Remixed 2",
-        "url": "https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Jaffa",
-          "url": "https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt"
-        }
-      ],
-      "duration_ms": 297920,
-      "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
-      "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 149330,
       "name": "He Needs Me (2013 - Remaster)",
       "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Verve Remixed 2",
+        "url": "https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Jaffa",
+          "url": "https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt"
+        }
+      ],
+      "duration_ms": 297920,
+      "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
+      "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Song Sohee\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,136 songs - 2 day 20 hr 54 min
+1,137 songs - 2 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-08 | 2022-08-05 |
 | [Girl Scout](https://open.spotify.com/track/3S4u5vm5ThxB68vevwDDMH) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:57 | 2021-12-21 | 2022-07-06 |
 | [Girl to a Bride](https://open.spotify.com/track/77oYxuIZpbKKRQC2DUtwkt) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [XOXO: Your Wedding Song](https://open.spotify.com/album/1VQ38HctrDL20BpOUHvf0y) | 3:26 | 2022-05-11 | 2022-06-09 |
+| [Girls](https://open.spotify.com/track/6lEc9x1r1AOxH5gltRUuLX) | [Naked Tapes](https://open.spotify.com/artist/0oivAG6IziMRhcAASDbP7p) | [Naked Tapes](https://open.spotify.com/album/1rY30zLb2loNmK4VpzouEY) | 3:11 | 2025-10-23 |  |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-28 | 2023-03-28 |
 | [Gloomy melody](https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Gloomy melody](https://open.spotify.com/album/5Ir0Ou7xH6smsOdvdelFYo) | 2:38 | 2024-04-30 | 2024-05-10 |
 | [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-06-23 | 2025-07-05 |
@@ -720,7 +721,7 @@
 | [pasta24](https://open.spotify.com/track/76qpPQuiuNFhssb8QgQTEe) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Weather](https://open.spotify.com/album/6q6ae8zIemGiAsZw7bYjEG) | 3:57 | 2025-07-23 | 2025-08-02 |
 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 | 2025-09-24 |  |
 | [Peach](https://open.spotify.com/track/2ercDPV3NHgYJP7ayN0O14) | [gonamjun](https://open.spotify.com/artist/7eIZPLvyKwliDbQUeQjjA8), [Kuki](https://open.spotify.com/artist/5h5Z954kIRQW9GLOzuycrT) | [Peach](https://open.spotify.com/album/1JWMKEY6ZXT7QjRQ3WyNwx) | 2:43 | 2024-12-19 | 2025-03-05 |
-| [Peachy](https://open.spotify.com/track/7m9TTtjVC8QOByp3SKFf6s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Peachy](https://open.spotify.com/album/5yu53vfvfv6IE6lZ98xViM) | 3:29 | 2025-08-21 |  |
+| [Peachy](https://open.spotify.com/track/7m9TTtjVC8QOByp3SKFf6s) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Peachy](https://open.spotify.com/album/5yu53vfvfv6IE6lZ98xViM) | 3:29 | 2025-08-21 | 2025-10-24 |
 | [Peanut butter Sandwich](https://open.spotify.com/track/3A76bRRuVaIJrV8mrVeb21) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [pool vol\. 2 \- Peanut Butter Sandwich](https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV) | 3:51 | 2024-05-09 | 2024-11-07 |
 | [People sometimes want me to fail](https://open.spotify.com/track/5jHcrQa9lC3CMot6CjQghX) | [2apartment](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [People sometimes want me to fail](https://open.spotify.com/album/5dx9WZvhhxNQzCJohO2os3) | 3:19 | 2022-03-31 | 2022-04-02 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2022-03-31 | 2024-11-07 |
@@ -899,7 +900,7 @@
 | [Still, Alive](https://open.spotify.com/track/2D6y91fPS8anxXLmYuFIIm) | [jaegyeong Lee](https://open.spotify.com/artist/2Ix3jdtgamaZbYPfk8A4e1) | [Still, Alive](https://open.spotify.com/album/3YQzgiNGQQo8QBK3j4oxMS) | 3:41 | 2025-07-22 | 2025-08-19 |
 | [Stillness](https://open.spotify.com/track/2r4sl4hds7xyfT9im6N1ZL) | [pylat](https://open.spotify.com/artist/1zMe4f8RnQ4rEKV6DOHER3) | [Stillness](https://open.spotify.com/album/4iK991XKjt5gyJ2YrVqIHq) | 5:25 | 2025-01-30 | 2025-04-11 |
 | [Story Line \(Feat.Dawon\) \(Korean ver.\)](https://open.spotify.com/track/51ZLM32YbcAQ1aSl292T5N) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [Dawon](https://open.spotify.com/artist/0L4d5EwDWqTEOTjztWF0mw) | [Story Line](https://open.spotify.com/album/5QoTyucanJ6ilfPNENdseH) | 3:36 | 2021-12-21 | 2022-07-29 |
-| [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/2YX2HNfgXhprZlfrLRPrZI) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 | 2025-10-23 |  |
+| [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/3dL5qo0TDlRJXV8K3FNZID) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 | 2025-10-23 |  |
 | [Struggle](https://open.spotify.com/track/0vTFne5Auul5yGMFcWsNPU) | [JaeDal](https://open.spotify.com/artist/7eRzbxCxgpBeDQf07H6cwW) | [Struggle](https://open.spotify.com/album/5YRerCvXlvSVUIdAFksZHI) | 3:30 | 2022-03-31 | 2022-04-05 |
 | [Struggling](https://open.spotify.com/track/50EwAI9bolehhOwR0BxjfX) | [Brocccoli You Too?](https://open.spotify.com/artist/1PgKa72aXVTY8GmUaGkvwl) | [I Feel Like I'd Have To Do Something](https://open.spotify.com/album/2ZhRMgJQ1upVD8p3ssaZun) | 0:29 | 2021-12-21 | 2022-07-02 |
 | [Stuck In Wheels](https://open.spotify.com/track/12Zw0Rv4rmo77OV420pR6Z) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Stuck In Wheels](https://open.spotify.com/album/23eYYVlP58Kvunu7Iq1PEo) | 3:08 | 2022-06-08 | 2022-06-14 |

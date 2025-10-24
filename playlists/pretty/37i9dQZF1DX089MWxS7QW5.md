@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui\(엘루이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,833 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,849 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lucid Dream](https://open.spotify.com/track/44EYN37LzbbMWan3rdstuu) | [YOU Sieun](https://open.spotify.com/artist/76e055trYOgjlIidfYGBmu) | [Morphine](https://open.spotify.com/album/3Aaat4pMDRMrRoEyxmA9X6) | 4:23 |
 | 2 | [PATIO](https://open.spotify.com/track/3pYuavyK9gyWxq1jdAJuKP) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [sunkissed](https://open.spotify.com/album/3loRoqVh6Xub8tTMsv5zTb) | 2:40 |
-| 3 | [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/2YX2HNfgXhprZlfrLRPrZI) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 |
+| 3 | [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/3dL5qo0TDlRJXV8K3FNZID) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 |
 | 4 | [Lost in Paradise](https://open.spotify.com/track/6tmtcjvQSrE1BNLr287pEj) | [YUL2](https://open.spotify.com/artist/3Sp5SaLGwrIkMWb1lmEX0X) | [Lost in Paradise](https://open.spotify.com/album/55DuNmtHwcKki9Sl0QJ7Ha) | 3:31 |
 | 5 | [Me, Myself & I](https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Me, Myself & I](https://open.spotify.com/album/1OsWJNxJABp62RsCo4Mcmb) | 3:04 |
 | 6 | [Somethin′s True](https://open.spotify.com/track/3KVRvgah5akIezdgLoSviO) | [SEOAN](https://open.spotify.com/artist/3tXQgaA7tfAtXcGWNXnJge) | [Somethin's True](https://open.spotify.com/album/0RTBGZbJKSm4qbMqAZeVrt) | 3:15 |

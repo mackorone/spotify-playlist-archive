@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 180705,
       "name": "And That Was It",
       "url": "https://open.spotify.com/track/3p3OPAGKwZVDX9wq6fRiQl"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 89600,
       "name": "Atlantik",
       "url": "https://open.spotify.com/track/4J4BEFKlDVTsYPNkkPzd9T"
@@ -5394,7 +5394,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 112207,
       "name": "Bunch Of Flowers",
       "url": "https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V"
@@ -11060,7 +11060,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 166165,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF"
@@ -18398,7 +18398,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 120000,
       "name": "I-65",
       "url": "https://open.spotify.com/track/3fQfA3LMIx9BEkHIl0iNSd"
@@ -18698,6 +18698,24 @@
       "duration_ms": 151125,
       "name": "in a... mood",
       "url": "https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs"
+    },
+    {
+      "album": {
+        "name": "in bloom",
+        "url": "https://open.spotify.com/album/1lcF0WksRe45P6r3UasIKK"
+      },
+      "artists": [
+        {
+          "name": "zavoir vivre",
+          "url": "https://open.spotify.com/artist/1FZinZKYnYJdW3nB4g0p7j"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119441,
+      "name": "in bloom",
+      "url": "https://open.spotify.com/track/7lupNFizmGbG2DhjX6uQsa"
     },
     {
       "album": {
@@ -19598,7 +19616,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 171233,
       "name": "Jokes On You I'm A Ninja",
       "url": "https://open.spotify.com/track/1FggDvwM0V0pmjsko1FhQz"
@@ -27074,7 +27092,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 104661,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/2OHdkHHa8iBtfT6iRLjAjU"
@@ -35936,7 +35954,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 106071,
       "name": "Solutions",
       "url": "https://open.spotify.com/track/09o5eBgKfrfXh6JZBd5S6I"
@@ -43917,6 +43935,24 @@
     },
     {
       "album": {
+        "name": "when the leaves",
+        "url": "https://open.spotify.com/album/6dtMISjjExmxOq1mqcY3X6"
+      },
+      "artists": [
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "when the leaves",
+      "url": "https://open.spotify.com/track/627rDXLovcxPJRbarsYQxP"
+    },
+    {
+      "album": {
         "name": "When We Last Spoke",
         "url": "https://open.spotify.com/album/729l7CLfvcWNkVX1Cm0ZyK"
       },
@@ -44680,7 +44716,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 144344,
       "name": "World",
       "url": "https://open.spotify.com/track/2tfGauk51uKPA5u2d0SFkM"
@@ -45208,7 +45244,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 139232,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/01tUhIL7bgA6UrByND0Cg3"

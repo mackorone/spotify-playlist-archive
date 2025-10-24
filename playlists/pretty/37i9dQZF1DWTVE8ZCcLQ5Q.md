@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > NandaTsunami e novos talentos do Brasil\. Dê play no futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,338 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,322 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 59 | [Zero Zero](https://open.spotify.com/track/0FnWtGORbAVaJ6VMfRuymK) | [Brenu](https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv), [Relikia](https://open.spotify.com/artist/6W87gpXtGPtbgQer83mS2J), [Subsolo](https://open.spotify.com/artist/68u9LcXws8gMwc6BoPyJtm), [LEON PX](https://open.spotify.com/artist/4x6FtbtAEHbc2Tm5P8aDBD) | [Mixtape 2025'S](https://open.spotify.com/album/1Pi2QHOml84wIC7ADjfW4Z) | 3:16 |
 | 60 | [Jogo Da Vida](https://open.spotify.com/track/7t50dEgiMo5eLePiLnFjQu) | [A Matilha](https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk), [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [TYAGO 021](https://open.spotify.com/artist/5FhhDu8U5gwHXd2dyjEsrS), [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [Raí BG](https://open.spotify.com/artist/0QVqNtYyvl5iZ49kDVdaNk), [Lazza](https://open.spotify.com/artist/3D2HMyfRTLvIi7cOOSO6Xs), [Malvadin](https://open.spotify.com/artist/77LIEcEBmbJ4TJcpOdlWSl), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk), [Prod\. Gui](https://open.spotify.com/artist/5i0x6pmiwHODYyEnKXSbjC) | [Jogo Da Vida](https://open.spotify.com/album/3CPcahlcdLCj4wFqCWjWEI) | 3:53 |
 
-Snapshot ID: `AAAAAGQexHtqpEDMAo02B9e84LkZhUzd`
+Snapshot ID: `AAAAAN5iUl8yyhwS5w6pZvpA0mUyjOef`

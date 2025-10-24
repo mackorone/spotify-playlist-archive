@@ -1,13 +1,45 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordan Susanto",
-  "num_followers": 113127,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Clara Riva",
+  "num_followers": 113142,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtecnJ5Hhq/C0x6BN0rcEcSwWj5",
+  "snapshot_id": "AAAAAOtB0CpQjmuMJKMANnyrFTTh2X11",
   "tracks": [
+    {
+      "added_at": "2025-10-23 17:00:26",
+      "album": {
+        "name": "Iya Iya Iya",
+        "url": "https://open.spotify.com/album/6LDaXWIsbNbbTgpNBmmVK1"
+      },
+      "artists": [
+        {
+          "name": "Clara Riva",
+          "url": "https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J"
+        }
+      ],
+      "duration_ms": 231636,
+      "name": "Iya Iya Iya",
+      "url": "https://open.spotify.com/track/5p62NfCoX4smo7XvCb74Rh"
+    },
+    {
+      "added_at": "2025-10-23 17:00:26",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/2DG74M1TvezzaglnsunUau"
+      },
+      "artists": [
+        {
+          "name": "Inthesky",
+          "url": "https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw"
+        }
+      ],
+      "duration_ms": 315852,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/52Mn4DYE32LNrHnHp9dWSE"
+    },
     {
       "added_at": "2025-10-16 17:00:27",
       "album": {
@@ -35,6 +67,30 @@
       "duration_ms": 349750,
       "name": "Fleeting Love - Live at the Jazz Marathon 2025",
       "url": "https://open.spotify.com/track/4nNsggh8grTMfylhkPLHbz"
+    },
+    {
+      "added_at": "2025-10-23 17:00:26",
+      "album": {
+        "name": "Something in the Air",
+        "url": "https://open.spotify.com/album/78WWVbPW0hQymrnYIue3nM"
+      },
+      "artists": [
+        {
+          "name": "Monty Hasan",
+          "url": "https://open.spotify.com/artist/5ynw9wf1cMhlwLkrHGI9A1"
+        },
+        {
+          "name": "Fathan Maulana",
+          "url": "https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4"
+        },
+        {
+          "name": "Monica Karina",
+          "url": "https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR"
+        }
+      ],
+      "duration_ms": 232619,
+      "name": "Something in the Air",
+      "url": "https://open.spotify.com/track/4VC6CGs0rt7qmgdV4OIF6w"
     },
     {
       "added_at": "2025-10-16 17:00:27",

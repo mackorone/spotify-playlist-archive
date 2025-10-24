@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 51379,
+  "num_followers": 51470,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
         "name": "Gaddem",
         "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 161454,
       "name": "Gaddem",
       "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
         "name": "Hildabaci (Remix)",
         "url": "https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 148672,
       "name": "FOR YOU",
       "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
         "name": "Crazily",
         "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -743,22 +743,22 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "Mwah!",
-        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Mwah!",
-      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -783,22 +783,22 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
+        "name": "Mwah!",
+        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         },
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 195589,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+      "duration_ms": 128000,
+      "name": "Mwah!",
+      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
+        "name": "Love & Hustle",
+        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 180612,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
         "name": "Control (with Joeboy & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 185880,
       "name": "Control (with Joeboy & Bella Shmurda)",
       "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
-        "name": "Love & Hustle",
-        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 180612,
-      "name": "Princess Treatment",
-      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "About Us (with Qing Madi)",
-        "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
-      },
-      "artists": [
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "About Us (with Qing Madi)",
-      "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
         "name": "Namipa",
         "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 141521,
       "name": "Namipa",
       "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
+        "name": "About Us (with Qing Madi)",
+        "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "About Us (with Qing Madi)",
+      "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
-      },
-      "artists": [
-        {
-          "name": "Morravey",
-          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
         "name": "Sunny Ade",
         "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
       },
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "Wife Material",
-        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Wife Material",
-      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
         "name": "MILLIONS",
         "url": "https://open.spotify.com/album/3UTDZIfRoaqXQ78ClTfT0l"
       },
@@ -1399,6 +1367,38 @@
       "duration_ms": 153750,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/7EJspXo2FwdCxeFvQ1noaP"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
+      },
+      "artists": [
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
+        "name": "Wife Material",
+        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "Wife Material",
+      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
+        "name": "Body Special (feat. Jaywillz)",
+        "url": "https://open.spotify.com/album/0czyMVe7APz0aZ3FujCNug"
+      },
+      "artists": [
+        {
+          "name": "Paddy k",
+          "url": "https://open.spotify.com/artist/51q4yLLGj93p2Ky0n0yOah"
+        },
+        {
+          "name": "Jaywillz",
+          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+        }
+      ],
+      "duration_ms": 149762,
+      "name": "Body Special (feat. Jaywillz)",
+      "url": "https://open.spotify.com/track/03TPK94ljLVww9GLVv5XBp"
+    },
+    {
+      "added_at": "2025-10-17 00:01:32",
+      "album": {
         "name": "Showboy",
         "url": "https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1"
       },
@@ -1479,22 +1499,22 @@
     {
       "added_at": "2025-10-17 00:01:32",
       "album": {
-        "name": "Body Special (feat. Jaywillz)",
-        "url": "https://open.spotify.com/album/0czyMVe7APz0aZ3FujCNug"
+        "name": "Who Is Big Banju",
+        "url": "https://open.spotify.com/album/7yIj6m5wHxmHxk2Lmgue2m"
       },
       "artists": [
         {
-          "name": "Paddy k",
-          "url": "https://open.spotify.com/artist/51q4yLLGj93p2Ky0n0yOah"
+          "name": "BIG BANJU",
+          "url": "https://open.spotify.com/artist/5SiinrhJnoLQv6buf3IQwp"
         },
         {
-          "name": "Jaywillz",
-          "url": "https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 149762,
-      "name": "Body Special (feat. Jaywillz)",
-      "url": "https://open.spotify.com/track/03TPK94ljLVww9GLVv5XBp"
+      "duration_ms": 172427,
+      "name": "In Love with You",
+      "url": "https://open.spotify.com/track/22ChegU5K3Yv2BOE5Il3QO"
     },
     {
       "added_at": "2025-10-17 00:01:32",
@@ -1519,26 +1539,6 @@
       "duration_ms": 153803,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu"
-    },
-    {
-      "added_at": "2025-10-17 00:01:32",
-      "album": {
-        "name": "Who Is Big Banju",
-        "url": "https://open.spotify.com/album/7yIj6m5wHxmHxk2Lmgue2m"
-      },
-      "artists": [
-        {
-          "name": "BIG BANJU",
-          "url": "https://open.spotify.com/artist/5SiinrhJnoLQv6buf3IQwp"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "In Love with You",
-      "url": "https://open.spotify.com/track/22ChegU5K3Yv2BOE5Il3QO"
     }
   ],
   "unique_name": "AfroBae",

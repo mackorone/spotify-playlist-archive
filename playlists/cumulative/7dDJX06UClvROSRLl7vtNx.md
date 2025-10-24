@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,053 songs - 1 day 21 hr 38 min
+1,054 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [Who](https://open.spotify.com/track/0iwPDxjMWFudZfAorIfoFE) | [Muwano](https://open.spotify.com/artist/6HZbDlTZVnotgVzuPcYxiX), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Who](https://open.spotify.com/album/6405U2FAPABcdYzk9gixhm) | 2:28 | 2025-03-16 |  |
 | [WHY?](https://open.spotify.com/track/1rQQ16ECybtuu2GrzZHeTx) | [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [WHY?](https://open.spotify.com/album/7KuRWzZHCwrX9YLIkDrx12) | 2:28 | 2025-06-29 |  |
 | [Wicked Game](https://open.spotify.com/track/0MipOE6RTEx3WZL3580AIF) | [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Youkii](https://open.spotify.com/artist/03hW2M1ECvJTjoa8EXVfsn) | [Wicked Game](https://open.spotify.com/album/4VAoXA4Hed91lZYmXHkw2Q) | 2:22 | 2023-09-22 | 2025-10-13 |
+| [Wicked Game](https://open.spotify.com/track/3eX4KovuTeNJxFZZT6KeWa) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Wicked Game](https://open.spotify.com/album/7bQKXzmfZjcdWmYMCr8jZH) | 2:26 | 2025-10-23 |  |
 | [Wide Blue](https://open.spotify.com/track/1bzlLF1VeiXV51XWz8APpR) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Wide Blue](https://open.spotify.com/album/65Tk1jkREf6sDcafZ3S3gD) | 3:01 | 2024-06-07 | 2024-07-29 |
 | [Will You Be Mine](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Will You Be Mine](https://open.spotify.com/album/79387ejIshaY5c4TeTlC1V) | 3:11 | 2024-04-20 | 2024-07-14 |
 | [Wish You All the Best](https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Wish You All the Best](https://open.spotify.com/album/1OSw1uOIxohvXg49jr9Q3j) | 2:13 | 2023-09-22 | 2024-10-09 |

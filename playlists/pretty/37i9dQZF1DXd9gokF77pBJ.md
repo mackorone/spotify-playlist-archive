@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,561 likes - 80 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,574 likes - 80 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 79 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 |
 | 80 | [Stay](https://open.spotify.com/track/3DCAjSZiLK127tGL0URVGE) | [Eternal](https://open.spotify.com/artist/7zYGAXxAaq15C9eM29M8Fj), [Jonathan Wales](https://open.spotify.com/artist/1JIzyYdy9WGW1U9ZNq60Kr), [Paul Jervier](https://open.spotify.com/artist/2dWFZbqJkDvA4NAf6knskk), [Steve Jervier](https://open.spotify.com/artist/6nLM87NFy18fHOOprTtWuS) | [Always And Forever](https://open.spotify.com/album/0wOzlOLMnOSs8iqbJscgnX) | 3:57 |
 
-Snapshot ID: `AAAAAAJsqcDi0o3VVxFVG7bukTSO156k`
+Snapshot ID: `AAAAAKxLnv7xNFmhaUT8Tqw9zEurTFs3`

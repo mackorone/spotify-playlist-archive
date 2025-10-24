@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > regras pras negras bonitas de 20 e poucos anos; e AULAS pra canalha mentiroso \- que inclusive, já estão sendo vencidos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,157,668 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,157,592 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Acima De Mim Só Deus](https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:30 |
 | 50 | [Avisa Lá](https://open.spotify.com/track/6Vz1T3319EdMDnh3UUAgjW) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [Avisa Lá](https://open.spotify.com/album/0aErLfp230jSZGmrssLYey) | 2:06 |
 
-Snapshot ID: `AAAAABayBV9AgG+cuztxfEuxjmdZEoWP`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

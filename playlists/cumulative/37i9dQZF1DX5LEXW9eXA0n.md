@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: DAVICHI \(다비치\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Choi Yu Ree\(최유리\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,578 songs - 4 day 6 hr 27 min
+1,579 songs - 4 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Better](https://open.spotify.com/track/54nRNzhHNi8xL53obahC0o) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [Short Pieces \(Studio Live\)](https://open.spotify.com/album/0Ed1Cb804BKKJQKZHWhARy) | 4:22 | 2024-01-25 | 2024-04-03 |
 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 | 2021-12-23 | 2022-07-05 |
 | [Better together \(with O.WHEN\)](https://open.spotify.com/track/3AiDXwi809AyT7pKUfqUJY) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Wish.zip \(1\)](https://open.spotify.com/album/3nHdBxVCmwSbZE45N8fphQ) | 4:08 | 2022-11-22 | 2023-01-21 |
+| [Between Earth and Sky](https://open.spotify.com/track/5cQ9mS0qDlh4YPRQZBHhBm) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stay: One](https://open.spotify.com/album/294zKrmWjAZZahTDOtOKd1) | 4:25 | 2025-10-23 |  |
 | [Between Us](https://open.spotify.com/track/2ztOFhdIuhY4Ee1RmqBLZG) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/1Rxo7snNPsZ9lE9JidXbLb) | 4:01 | 2022-03-24 | 2022-04-01 |
 | [Between You And Me \(Nth Romance X Car, the garden\)](https://open.spotify.com/track/3F31vRSaPlXqecuLleWG0E) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Between You And Me \(Nth Romance X Car, the garden\)](https://open.spotify.com/album/3iFLXiQVinX1CZpTPL2ZBW) | 2:57 | 2022-03-31 | 2022-06-15 |
 | [Beyond The Sea](https://open.spotify.com/track/4OxtWbT2vpoWOROrRSYHSk) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [Beyond The Sea](https://open.spotify.com/album/5sIJhxAbyNindPmfgYb0VS) | 3:00 | 2023-01-10 | 2023-02-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Klaudia, Puya",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Florian Rus, INNA",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 162628,
       "name": "2 vulcani",
       "url": "https://open.spotify.com/track/3uhdnm1aIr7U1zDmMFd1ci"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 178570,
       "name": "Aer",
       "url": "https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 182400,
       "name": "Am \u00eencredere \u00een tine",
       "url": "https://open.spotify.com/track/1iHeNa4qmNcnkWTubbWwz8"
@@ -1118,6 +1118,24 @@
       "duration_ms": 198461,
       "name": "Camera mea",
       "url": "https://open.spotify.com/track/2TPiTMKYrK1UOgHb4AhmX2"
+    },
+    {
+      "album": {
+        "name": "Carusel",
+        "url": "https://open.spotify.com/album/170Z5Kr8xhV0zUFNwiThC7"
+      },
+      "artists": [
+        {
+          "name": "Emilian",
+          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174209,
+      "name": "Carusel",
+      "url": "https://open.spotify.com/track/5Q67ufYWPdoxrYbfSYSXqR"
     },
     {
       "album": {
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 174083,
       "name": "Doar Am\u00e2ndoi",
       "url": "https://open.spotify.com/track/5ogbS3YWRv7eqUWmYFLMWU"
@@ -2336,6 +2354,28 @@
       "duration_ms": 178290,
       "name": "Echo",
       "url": "https://open.spotify.com/track/61qMlEw96KJJluJx1ANYbH"
+    },
+    {
+      "album": {
+        "name": "Elita (From \"Cursa\" The Movie)",
+        "url": "https://open.spotify.com/album/6cZswVNnltYzWJhCqAzxFh"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156383,
+      "name": "Elita - From \"Cursa\" The Movie",
+      "url": "https://open.spotify.com/track/59LyOyo8OwKTNXS1OahYrl"
     },
     {
       "album": {
@@ -4667,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "Optiunea ta",
+        "url": "https://open.spotify.com/album/0jYsXS3zs2aBt8CjnK29U1"
+      },
+      "artists": [
+        {
+          "name": "Amna",
+          "url": "https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Optiunea ta",
+      "url": "https://open.spotify.com/track/1hrzkfGypVP0tjnCeniHPI"
+    },
+    {
+      "album": {
         "name": "Ora, Ora",
         "url": "https://open.spotify.com/album/0nXIE6a6YbBafy4U6C0eBD"
       },
@@ -4802,7 +4860,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 173385,
       "name": "Pata de culoare",
       "url": "https://open.spotify.com/track/5s8Vd9V3oGoa9r19L5ypAQ"
@@ -5165,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/7KXn10FnYYqcoepIO95RdZ"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5QxMPQDcRaYThurJz6KYhx"
+    },
+    {
+      "album": {
         "name": "P\u0103m\u00e2ntul",
         "url": "https://open.spotify.com/album/7gNoNV1qYU0aqE2sM3zBSS"
       },
@@ -5386,6 +5462,28 @@
       "duration_ms": 140571,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/4PSmDmmbMN0US301mLFHi9"
+    },
+    {
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/2mayvivDMSVcl9n0FcqsAP"
+      },
+      "artists": [
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/7y8gBW0r70bPZaF3h9fI7x"
     },
     {
       "album": {

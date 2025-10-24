@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Ilan Bluestone
 
-1,204 songs - 3 day 0 hr 12 min
+1,205 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Crush](https://open.spotify.com/track/4wv1O6QCbotNMM5BWqUOn7) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO), [Beat & Voice](https://open.spotify.com/artist/1X7TekxpJEEuRoZTMX6SFr) | [Crush](https://open.spotify.com/album/6lNTwf0EI75sUIE7lY2vxx) | 3:41 | 2021-12-17 | 2022-03-12 |
 | [Cry My Name](https://open.spotify.com/track/5gJKGE7dk8OTULVIPIxWKn) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Cry My Name](https://open.spotify.com/album/3pfUQ49kJpoHO6EDp0s0oy) | 4:03 | 2022-03-04 | 2023-03-04 |
 | [Curer](https://open.spotify.com/track/6xASHanHhUcc6Mfo1FHaXa) | [Temple One](https://open.spotify.com/artist/04d81XptQA11pLPxMXLxC9) | [Vivid Motion](https://open.spotify.com/album/3inz2oPpQDvkejHkVA7SoY) | 3:21 | 2023-06-30 | 2024-07-13 |
-| [Dance of Life](https://open.spotify.com/track/2DfahOK7hUFhiiHFvVS9WF) | [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7) | [Dance of Life](https://open.spotify.com/album/1c4YuF4rGrlj665PVyxDuL) | 4:07 | 2024-09-13 |  |
+| [Dance of Life](https://open.spotify.com/track/2DfahOK7hUFhiiHFvVS9WF) | [Orkidea](https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7) | [Dance of Life](https://open.spotify.com/album/1c4YuF4rGrlj665PVyxDuL) | 4:07 | 2024-09-13 | 2025-10-24 |
 | [Dance To Death](https://open.spotify.com/track/1t9CSdEHfgWAKoPJuxGd9A) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [MEMO](https://open.spotify.com/album/6azdO29kApAjBqsnEW98cN) | 3:08 | 2023-06-30 | 2023-09-30 |
 | [Dancing In The Stars \(With You\)](https://open.spotify.com/track/4vEBzVmIAbKSGtSMP45AuR) | [Triode](https://open.spotify.com/artist/6PeUGjC4XaZD1XysuYogDG), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Dancing In The Stars \(With You\)](https://open.spotify.com/album/5ETpVy3DQjIf9z7AiOArsr) | 4:19 | 2023-06-30 | 2024-07-13 |
 | [Daring To Love \- Asteroid Remix](https://open.spotify.com/track/0wCHys665L3AYPLKFTsgn1) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf), [Asteroid](https://open.spotify.com/artist/7x3GRBRhJ7qQfDoOwVSoL4) | [Daring To Love \(Asteroid Remix\)](https://open.spotify.com/album/6NOjTC9X40RuF6uIq1BWkB) | 3:49 | 2023-02-10 | 2023-12-30 |
@@ -671,6 +671,7 @@
 | [Memories Of Space](https://open.spotify.com/track/1hsTJPpq5wAEBDakGTQgk7) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Kristina Sky](https://open.spotify.com/artist/1gOZzUV1Yq3fAj2kj3RoB6), [Evan Henzi](https://open.spotify.com/artist/6zzF0xo07ybJc8E0N8ecSM) | [Memories Of Space](https://open.spotify.com/album/3A5u51agi4getEhGu96dac) | 3:54 | 2025-08-29 |  |
 | [Midnight](https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Midnight / Equal](https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU) | 8:00 | 2022-06-10 | 2023-06-10 |
 | [Midnight Sun](https://open.spotify.com/track/0YAYFl6Nsj6nYrTYKaIj2g) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy), [Dave Raval](https://open.spotify.com/artist/3MtctuuM4lt9jFuVA8zZxg) | [Midnight Sun](https://open.spotify.com/album/6xuGSr1yn3W4vIgaQ4oOQe) | 3:26 | 2022-10-14 | 2023-06-10 |
+| [Milenio](https://open.spotify.com/track/725nm2i4KkzTXZB3oPYpJU) | [BK](https://open.spotify.com/artist/5zFtqMfPtmGuKZEjepbVDW) | [Milenio](https://open.spotify.com/album/1WNxshbFI2rh8g5Qjv4HLE) | 3:00 | 2025-10-17 |  |
 | [Militia](https://open.spotify.com/track/5BPmf3wlUmDDQvsFMJaXby) | [Rodrigo Deem](https://open.spotify.com/artist/22wrhNQAtwTj0CPoB9mWEF) | [Militia](https://open.spotify.com/album/6vyYIItTUALUcBmCGreLRp) | 3:30 | 2022-01-21 | 2022-07-08 |
 | [Million Stars](https://open.spotify.com/track/58LpK5TgVzFDounJPpBydQ) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Million Stars](https://open.spotify.com/album/3WUx199WAQBeSOxSkPftCh) | 3:36 | 2022-12-23 | 2023-07-08 |
 | [Milosonic](https://open.spotify.com/track/13rJAzkjwSva0tbWfjA75F) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Milosonic](https://open.spotify.com/album/00arKSho3CKSI4pUerUrss) | 3:56 | 2024-08-30 | 2025-09-27 |

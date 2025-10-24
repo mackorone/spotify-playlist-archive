@@ -6,8 +6,32 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAtkE5QIbX0BVFDzkP79MATdvrFn1j2",
+  "snapshot_id": "AAAtlHcLqFmqjpOWNaaVcEx2Ll+qqnLi",
   "tracks": [
+    {
+      "added_at": "2025-10-23 22:20:06",
+      "album": {
+        "name": "Bodies (feat. Bella Perozzi)",
+        "url": "https://open.spotify.com/album/6INkTaTKXruqZBU1nIlDq4"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "DJ All Empty",
+          "url": "https://open.spotify.com/artist/1YiRziDwjPYotO0IIRAu5r"
+        },
+        {
+          "name": "Bella Perozzi",
+          "url": "https://open.spotify.com/artist/0cZulQTrbZpr9BdG7v6pR9"
+        }
+      ],
+      "duration_ms": 178221,
+      "name": "Bodies (feat. Bella Perozzi)",
+      "url": "https://open.spotify.com/track/2Qqbqn0qb8PimnpglA4Idn"
+    },
     {
       "added_at": "2025-10-16 22:00:01",
       "album": {
@@ -31,6 +55,62 @@
       "duration_ms": 214549,
       "name": "Il\u00ea (feat. J\u00e9ssica Gaspar)",
       "url": "https://open.spotify.com/track/2LbAw4pKH0t7zISMM8nO0Q"
+    },
+    {
+      "added_at": "2025-10-23 22:20:01",
+      "album": {
+        "name": "What's A Girl To Do (Yuv\u00e8e Remix)",
+        "url": "https://open.spotify.com/album/3ZRz2uj1FwGTeQ3GeE96Pl"
+      },
+      "artists": [
+        {
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        },
+        {
+          "name": "Yuv\u00e8e",
+          "url": "https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "What's A Girl To Do (Yuv\u00e8e Remix)",
+      "url": "https://open.spotify.com/track/7opQkDhvgNdbVdVdswx4fg"
+    },
+    {
+      "added_at": "2025-10-23 22:20:02",
+      "album": {
+        "name": "Mi Tambora",
+        "url": "https://open.spotify.com/album/1wLHQqQ5mx5zORbVqmRzXB"
+      },
+      "artists": [
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        },
+        {
+          "name": "ASLN",
+          "url": "https://open.spotify.com/artist/58DPIUFMVBSQEy9xZNbKfU"
+        }
+      ],
+      "duration_ms": 198013,
+      "name": "Mi Tambora",
+      "url": "https://open.spotify.com/track/4YcOEoRr9vlTZzpI4POZ0o"
+    },
+    {
+      "added_at": "2025-10-23 22:20:04",
+      "album": {
+        "name": "Ole!",
+        "url": "https://open.spotify.com/album/6ayesMxqMVeKOO5wzDmFoM"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 149523,
+      "name": "Ole!",
+      "url": "https://open.spotify.com/track/4Pn1c6tWh9WH0Q3wZGwire"
     },
     {
       "added_at": "2025-10-16 22:20:03",

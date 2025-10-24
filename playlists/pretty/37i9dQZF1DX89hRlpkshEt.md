@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89hRlpkshEt.md) - [plain]
 | 9 | [\#73 Oktoberfest Eskalation ](https://open.spotify.com/episode/1xkF0jUkn23coKx3zQuB2p) | [Sisterhood](https://open.spotify.com/show/15TyAIfOcF1FaSx9r53GPe) | [Sisterhood](https://open.spotify.com/album/15TyAIfOcF1FaSx9r53GPe) | 50:08 |
 | 10 | [\# 69 \- unser neues Familienmitglied](https://open.spotify.com/episode/6964Dj6YoRJiH0FemE46jC) | [Sisterhood](https://open.spotify.com/show/15TyAIfOcF1FaSx9r53GPe) | [Sisterhood](https://open.spotify.com/album/15TyAIfOcF1FaSx9r53GPe) | 45:25 |
 
-Snapshot ID: `AAAAAJRtwSsFksX8oLAz7SkCwYdOIGLJ`
+Snapshot ID: `AAAAABpW3OS8X7aXlHCYWJllh4rQSYq5`

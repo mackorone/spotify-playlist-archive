@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Sonny Fodera, D.O.D, Poppy Baskcomb
+> The UK's biggest dance playlist! Cover: James Hype
 
 708 songs - 1 day 12 hr 49 min
 

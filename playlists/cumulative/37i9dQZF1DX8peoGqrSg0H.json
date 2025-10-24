@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZEE PRUK, NuNew",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 188727,
       "name": "Corset",
       "url": "https://open.spotify.com/track/1ZSD2lmLRCRZF8mLAaTNbJ"
@@ -1612,6 +1612,28 @@
       "duration_ms": 235714,
       "name": "HEARTCASE",
       "url": "https://open.spotify.com/track/6BAiUeSqRDDDIz8X3V5haW"
+    },
+    {
+      "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/2hFZ2m73QwTpdVrirkt1Vx"
+      },
+      "artists": [
+        {
+          "name": "ZEE PRUK",
+          "url": "https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg"
+        },
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/3AHKsP3e8iMqm92VP2NzHw"
     },
     {
       "album": {
@@ -2232,7 +2254,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 203505,
       "name": "LEVELING UP",
       "url": "https://open.spotify.com/track/1IA9sG0rTu8ewvtrQK89u1"
@@ -5486,6 +5508,24 @@
       "duration_ms": 225882,
       "name": "\u0e04\u0e34\u0e14\u0e04\u0e34\u0e14 (Let me know)",
       "url": "https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27 (kt eek laew)",
+        "url": "https://open.spotify.com/album/6nc8gYKmYlUHpSoPcHBpeW"
+      },
+      "artists": [
+        {
+          "name": "gorn",
+          "url": "https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27 (kt eek laew)",
+      "url": "https://open.spotify.com/track/5j0mS5X4XGR9Scl9DnXyYa"
     },
     {
       "album": {
@@ -11995,6 +12035,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e15\u0e34\u0e21\u0e40\u0e18\u0e2d (Fill My Heart)",
+        "url": "https://open.spotify.com/album/1WjecyATm10Vz6V75Zberz"
+      },
+      "artists": [
+        {
+          "name": "KRIST",
+          "url": "https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212409,
+      "name": "\u0e40\u0e15\u0e34\u0e21\u0e40\u0e18\u0e2d (Fill My Heart)",
+      "url": "https://open.spotify.com/track/6Bw6ZasvryV0lgryseKuhW"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e16\u0e35\u0e22\u0e07\u0e40\u0e01\u0e48\u0e07 (Bad Mouth) [feat. UrboyTJ]",
         "url": "https://open.spotify.com/album/1RwPXnOxs97fKVZy572vvo"
       },
@@ -14228,7 +14286,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 180465,
       "name": "\u0e44\u0e1b\u0e15\u0e35\u0e49 (Roll With Me) - From 'GELTY (GELBOYS VARIETY)'",
       "url": "https://open.spotify.com/track/71iFacnDkpVGUzqDxjfo5w"

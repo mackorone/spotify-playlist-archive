@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Tame Impala gets dancey ☀️ it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,441 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,542 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 85 | [Brick Store](https://open.spotify.com/track/5KVTaI63tP6IJhN0y6m1u6) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK), [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk) | [Cutting the Stone](https://open.spotify.com/album/5sWhVWiLfL0aEVs4RPkXs7) | 3:20 |
 | 86 | [Away](https://open.spotify.com/track/6vMkNjkfzL1aH9Lgbk9bhp) | [Jaime Rosso](https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ) | [Away](https://open.spotify.com/album/1a8HbQtIUl7JPGLNOdXA9X) | 3:50 |
 | 87 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
-| 88 | [crystalised](https://open.spotify.com/track/68Z5RPvf1aI2tRTN2i2DBT) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo), [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [crystalised](https://open.spotify.com/album/45MmD9u8slCeAZdAnDmuK8) | 3:41 |
+| 88 | [crystalised](https://open.spotify.com/track/68Z5RPvf1aI2tRTN2i2DBT) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [crystalised](https://open.spotify.com/album/45MmD9u8slCeAZdAnDmuK8) | 3:41 |
 | 89 | [Berry](https://open.spotify.com/track/46ZXFEiPubUOl8kuphtUfY) | [2touch](https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq) | [Berry](https://open.spotify.com/album/1W2M5ONY1tLSZaaW3NwMFP) | 2:14 |
 | 90 | [It Feels Like](https://open.spotify.com/track/6F2sn9kcsw8z8mgmJrVOyK) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6) | [It Feels Like](https://open.spotify.com/album/14aXbZsvboHzeuDcRJwMjp) | 2:56 |
 | 91 | [Hypnotised \(feat\. Linden Jay\)](https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Linden Jay](https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC) | [Hypnotised](https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO) | 3:22 |

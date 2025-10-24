@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Afternoon Bike Ride
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,829 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,841 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 149 | [Everyone Loves You](https://open.spotify.com/track/2I4zMC2Y7ra08XHD6ZQGl3) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Everyone Loves You](https://open.spotify.com/album/1xmpfJ7GFzyOxsSM24TxRu) | 6:34 |
 | 150 | [Mirrorland](https://open.spotify.com/track/41oobhHtYEgpuZfuHjOPAC) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Mirrorland](https://open.spotify.com/album/5Y5Lw8HNzX81Np0l6gdhw3) | 2:44 |
 
-Snapshot ID: `AAAAALMfP89AlesSjOK7yY4TfrP8EWT/`
+Snapshot ID: `AAAAADIAgaUkXqjASmK+/tfqp6jIcDBM`

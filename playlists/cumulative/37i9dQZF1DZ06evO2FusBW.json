@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Winter Impressions",
+        "url": "https://open.spotify.com/album/64YMG6vJwyIM8ambiLp2UR"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166338,
+      "name": "A Tale in Paris",
+      "url": "https://open.spotify.com/track/01qzs0Vb5ZWQNJcLg2wqoE"
+    },
+    {
+      "album": {
         "name": "A Tale in Paris",
         "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
       },

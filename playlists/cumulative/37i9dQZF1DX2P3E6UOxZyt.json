@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u6176\u795d RADAR \u97f3\u6a02\u4eba\u7a81\u7834 1000 \u4f4d\uff01\u91cd\u6eab RADAR \u65b0\u52e2\u529b\u6b77\u4f86\u6700\u53d7\u6b61\u8fce\u6b4c\u624b\u4f5c\u54c1\uff01Cover: \u9f4a\u7fd4 (XIANG)",
+  "description": "\u6176\u795d RADAR \u97f3\u6a02\u4eba\u7a81\u7834 1000 \u4f4d\uff01\u91cd\u6eab RADAR \u65b0\u52e2\u529b\u6b77\u4f86\u6700\u53d7\u6b61\u8fce\u6b4c\u624b\u4f5c\u54c1\uff01Cover: \u827e\u871c\u8389 (AMILI) ",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 140201,
       "name": "EXX",
       "url": "https://open.spotify.com/track/1uxpdBypxB44G4F6insgK3"
@@ -3812,7 +3812,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 128800,
       "name": "Only u",
       "url": "https://open.spotify.com/track/3R2gyIZA55OnwsyISh6gyb"
@@ -4104,7 +4104,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 300888,
       "name": "REGRET",
       "url": "https://open.spotify.com/track/0q9slfcOo1wkkD0tNn7GdH"
@@ -4864,7 +4864,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 294697,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6OEdWblne8zSJwOlL4ngLs"
@@ -6273,6 +6273,24 @@
     },
     {
       "album": {
+        "name": "Fxxk Sleep",
+        "url": "https://open.spotify.com/album/30ZQ9RxY3lf0FgYFDH4vCD"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176896,
+      "name": "\u4e0d\u80fd\u9078\u64c7",
+      "url": "https://open.spotify.com/track/1xEpcosFwHYz3oRterh3BY"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u9060\u8655",
         "url": "https://open.spotify.com/album/3OfDmuDl9aMma0I8JxtYeA"
       },
@@ -6324,7 +6342,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 216734,
       "name": "\u4e3b\u89d2vol.2 (feat. \u897f\u5c6f\u7d14\u611b\u7d44)",
       "url": "https://open.spotify.com/track/5jdRVfbTL9W7eAkBk6CJEF"
@@ -6917,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "\u5047\u88ddSober",
+        "url": "https://open.spotify.com/album/39VV1rL10VGFLIkRY3K6pP"
+      },
+      "artists": [
+        {
+          "name": "\u827e\u871c\u8389AMILI",
+          "url": "https://open.spotify.com/artist/2yphKbezBLHQNhrVEA4Uup"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163856,
+      "name": "\u5047\u88ddSober",
+      "url": "https://open.spotify.com/track/2rH7I6aURwBPR1th5IaMGz"
+    },
+    {
+      "album": {
         "name": "\u5931\u7720\u75c7\u5019\u7fa4",
         "url": "https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN"
       },
@@ -7284,7 +7320,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 216037,
       "name": "\u5230\u5e95\u6200\u611b\u662f\u500b\u8b0e\u9084\u662f\u500b\u766e",
       "url": "https://open.spotify.com/track/0e91ZClcvuQk0IMLpuF9aJ"
@@ -7787,6 +7823,28 @@
     },
     {
       "album": {
+        "name": "\u6d41\u6c34\u5e2d Flow's Banquet",
+        "url": "https://open.spotify.com/album/4IUVCH0duJjB0wvCSJCaed"
+      },
+      "artists": [
+        {
+          "name": "Flowstrong",
+          "url": "https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH"
+        },
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231504,
+      "name": "\u5634\u5df4\u9589\u9589",
+      "url": "https://open.spotify.com/track/3ZSAuiIj7fJzNBLKahNLDU"
+    },
+    {
+      "album": {
         "name": "\u5927\u9006\u4e0d\u9053",
         "url": "https://open.spotify.com/album/4pmimPqqUWaflYZ0MCzNYn"
       },
@@ -7878,7 +7936,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 183989,
       "name": "\u5728\u6211\u5468\u570d",
       "url": "https://open.spotify.com/track/1MycuEN3imJitxtvb6KWrx"
@@ -8652,7 +8710,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 228637,
       "name": "\u5b89\u5168\u5cf6 Surrender (Falling and Falling...)",
       "url": "https://open.spotify.com/track/4GayvHFBnOxznFcbxtLUhw"
@@ -9532,7 +9590,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 196860,
       "name": "\u611b\u4e0d\u5b9c\u9072 Not Too Late",
       "url": "https://open.spotify.com/track/6XuUa1kXTmQ68DBCi8j9OB"
@@ -9892,7 +9950,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 182384,
       "name": "\u6211\u60f3\u4e0d\u900f",
       "url": "https://open.spotify.com/track/2vGseNTkHih0ZzeQXSxBCA"
@@ -10228,10 +10286,32 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-29",
+      "date_removed": null,
       "duration_ms": 241305,
       "name": "\u625b\u4e0d\u4f4f",
       "url": "https://open.spotify.com/track/0Y9xqeRizcseRKzFKjWAAI"
+    },
+    {
+      "album": {
+        "name": "\u51b7\u8eab\u64cd",
+        "url": "https://open.spotify.com/album/7rFJMxNnficSdrZT4PtgIy"
+      },
+      "artists": [
+        {
+          "name": "Yo Lee",
+          "url": "https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh"
+        },
+        {
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253154,
+      "name": "\u628a\u4f60\u6212\u6389",
+      "url": "https://open.spotify.com/track/1kE44czQ8j4dcXeAP8LobX"
     },
     {
       "album": {
@@ -12018,7 +12098,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 210857,
       "name": "\u7121\u89e3",
       "url": "https://open.spotify.com/track/54dG2LgA0qqV4dTwRoAdvL"
@@ -14316,7 +14396,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 271316,
       "name": "\u91cb\u8fe6 - Live Session",
       "url": "https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE"
@@ -14410,7 +14490,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-13",
+      "date_removed": null,
       "duration_ms": 237204,
       "name": "\u9577\u591c\u8cfd\u8dd1 Nights",
       "url": "https://open.spotify.com/track/0DTfdzLVkHO4Mjv8IiF7xs"

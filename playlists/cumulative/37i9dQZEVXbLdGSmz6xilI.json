@@ -3534,7 +3534,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 278823,
       "name": "B\u01b0\u1edbc Qua M\u00f9a C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/6uxuJ8Fr1AAfSPJUF9N1yr"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
@@ -10923,6 +10923,28 @@
     },
     {
       "album": {
+        "name": "L2K",
+        "url": "https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200923,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7uUuftbcr94tzGOCJSM25u"
+    },
+    {
+      "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
       },
@@ -13083,6 +13105,28 @@
     },
     {
       "album": {
+        "name": "L2K",
+        "url": "https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199442,
+      "name": "Love Game",
+      "url": "https://open.spotify.com/track/08Hvl1OJalM7dG6mf6jpx6"
+    },
+    {
+      "album": {
         "name": "Love Game",
         "url": "https://open.spotify.com/album/1vyxo3BO4guXsPYgWoV9gl"
       },
@@ -13098,7 +13142,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 199442,
       "name": "Love Game",
       "url": "https://open.spotify.com/track/0x7rhEP1Tak1guiTYODlic"
@@ -13602,7 +13646,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 261616,
       "name": "L\u1ea1 L\u00f9ng",
       "url": "https://open.spotify.com/track/5Bti0azlFhMattVY76qFr9"
@@ -15556,7 +15600,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 214438,
       "name": "Ng\u00e0n N\u0103m \u00c1nh S\u00e1ng",
       "url": "https://open.spotify.com/track/4nyoalDFgUaZOzIKqj3aS5"
@@ -17122,7 +17166,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 292757,
       "name": "N\u1ebfu Ng\u00e0y \u1ea4y",
       "url": "https://open.spotify.com/track/4BdB08vuS9r4HOoY7GkAxT"
@@ -22732,7 +22776,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -24848,7 +24892,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 210067,
       "name": "V\u1ebft M\u01b0a",
       "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"

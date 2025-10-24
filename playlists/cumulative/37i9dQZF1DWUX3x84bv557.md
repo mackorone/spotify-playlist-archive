@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Russo & Ronnie Flex
 
-1,102 songs - 2 day 4 hr 40 min
+1,107 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2023-06-01 | 2023-08-18 |
 | [Anorak](https://open.spotify.com/track/125nmYAaZVIwLXVyLf6PDc) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 2:05 | 2023-02-23 | 2023-03-25 |
 | [Anti\-Social](https://open.spotify.com/track/67R9SI604DJIWTF6UuEBJY) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Anti\-Social](https://open.spotify.com/album/3VTg32BOXuGHU3MHX6qfcX) | 2:29 | 2024-03-07 | 2024-05-03 |
+| [Antiheld](https://open.spotify.com/track/4ucruKSRIODEfPW0ms0OYV) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Antiheld](https://open.spotify.com/album/4wI7I5HzgqQZI9HBsBawLj) | 2:28 | 2025-10-23 |  |
 | [Antwoord](https://open.spotify.com/track/0ssnNZsidlDT4QeXIjTmh5) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Alles Komt, Alles Gaat](https://open.spotify.com/album/7hlpC2SJnuKtP1VgkHMx8r) | 2:59 | 2024-11-21 | 2025-02-28 |
 | [App me als je thuis bent](https://open.spotify.com/track/7F8autsIk3qKOhBHth4O82) | [Sophia Mason](https://open.spotify.com/artist/2v5PJeR9kJsZbkGvi85tVv), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [App me als je thuis bent](https://open.spotify.com/album/1avOhAMcwqKToin3pv37y8) | 2:25 | 2023-08-24 | 2023-09-08 |
 | [Arcade](https://open.spotify.com/track/06q5OfzaRccXcFU6L7PrWd) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Arcade](https://open.spotify.com/album/5p4dNjuAzVPPM61pt4KQhK) | 3:16 | 2023-10-19 | 2023-11-03 |
@@ -392,6 +393,7 @@
 | [Hard Hout](https://open.spotify.com/track/4d3lKZ5YOnt3pWSp9yUTG9) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Hard Hout](https://open.spotify.com/album/4olpplTVPCKmgIxDOinv2E) | 2:34 | 2025-04-11 | 2025-07-11 |
 | [Harmonie](https://open.spotify.com/track/1RGseAlntVH6yD65xKi509) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Harmonie](https://open.spotify.com/album/7ekoyoS7XjHdic9gqDGlxm) | 2:59 | 2024-01-18 | 2024-03-15 |
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-04-24 | 2025-07-18 |
+| [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 | 2025-10-23 |  |
 | [Hartenbreker](https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Hartenbreker](https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU) | 2:37 | 2023-12-08 | 2024-03-15 |
 | [Hartslag](https://open.spotify.com/track/2JH8u157TEJOojZ4GfRxUv) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Hartslag](https://open.spotify.com/album/0mpT1ek8Dt0m3w7oowVJpN) | 2:21 | 2025-05-29 | 2025-10-10 |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2023-09-28 | 2024-01-12 |
@@ -440,6 +442,7 @@
 | [Hoe Kom Ik Hier Weg](https://open.spotify.com/track/7fS5dpettfYfl1hoIWKlMf) | [Mara Julia](https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ) | [Hoe Kom Ik Hier Weg](https://open.spotify.com/album/0IUNnHHLWYa7Lrqtlq86Nc) | 3:01 | 2025-06-05 | 2025-09-05 |
 | [Hoe Minder Je Weet](https://open.spotify.com/track/0nzO7opgxBudBTawZPao5X) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Hoe Minder Je Weet](https://open.spotify.com/album/5O3MEZgD5ePlwZXQmBahcy) | 2:29 | 2023-05-25 | 2023-08-18 |
 | [Hoe Zit Het Met Ons?](https://open.spotify.com/track/1rN5JHM21poaueaK01se6P) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Hoe Zit Het Met Ons?](https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis) | 3:06 | 2025-05-01 | 2025-07-18 |
+| [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 | 2025-10-23 |  |
 | [Hoe Zou Het Zijn](https://open.spotify.com/track/1Ozx074E5K8p5QNoIgKnrt) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Hoe Zou Het Zijn](https://open.spotify.com/album/2ALYBOS62AwjwUTxPuQZtN) | 2:20 | 2024-04-04 | 2024-06-28 |
 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 | 2025-05-01 | 2025-08-08 |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-08-01 | 2024-09-27 |
@@ -615,6 +618,7 @@
 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2024-09-12 | 2024-10-25 |
 | [Levenslang](https://open.spotify.com/track/0eoKebZgSvWn9Po7HWDHza) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Levenslang](https://open.spotify.com/album/7GkEwAWC4mXglJjTl23wJi) | 2:52 | 2025-08-04 |  |
 | [Levenslang](https://open.spotify.com/track/39up5WgPdJqPTi56C4mEJq) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Levenslang](https://open.spotify.com/album/2dHMo4Cb6qfR1DjpuayvCm) | 3:17 | 2025-05-15 | 2025-08-08 |
+| [Licht Naar Mij](https://open.spotify.com/track/2X8dXau3E5rLhQIHivmHUk) | [Nick Kruit](https://open.spotify.com/artist/1mgurMrzrP5f9Z9q3UwJVl) | [Licht Naar Mij](https://open.spotify.com/album/0zthrO2e6ymqr5J9AkCf0S) | 2:30 | 2025-10-23 |  |
 | [Lichtje](https://open.spotify.com/track/404rOhH2rgrLZyFuGMeDHm) | [Lola Cedès](https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0) | [Lichtje](https://open.spotify.com/album/3ikqtvweHbAYbTlqTloImd) | 2:31 | 2024-09-26 | 2024-11-15 |
 | [Liefde Deel Ik Niet](https://open.spotify.com/track/155ZntbO4KNJIpyM8BQWFW) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Liefde Deel Ik Niet](https://open.spotify.com/album/1ujiVqwTFZbJiWVPamwbld) | 2:50 | 2024-10-24 | 2025-01-24 |
 | [Liefde Doet Pijn](https://open.spotify.com/track/0dz6WOXIwroUc8fJs2DX3h) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ) | [El Colombolandés](https://open.spotify.com/album/5kpYP9HhhizwdRuWI3cVR9) | 3:34 | 2024-05-30 | 2024-07-05 |
@@ -704,6 +708,7 @@
 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 | 2024-06-27 | 2024-11-05 |
 | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/track/1Y4HU3vc35uINQ1fHlX163) | [Ginger](https://open.spotify.com/artist/3mrOynKrihp03WXLtootoD), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Net Zo Gek Als Ik \(feat\. Diggy Dex\)](https://open.spotify.com/album/6lsNobFDteOEr3boHDgJry) | 2:43 | 2023-02-23 | 2023-06-23 |
 | [Net Zolang](https://open.spotify.com/track/5v7kikNBNvUXktkB0i2Ht3) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Net Zolang](https://open.spotify.com/album/6BCzk8O4K6E38EEW71GzdQ) | 3:46 | 2023-09-14 | 2023-09-29 |
+| [Niemand](https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Niemand](https://open.spotify.com/album/0dwDG1ALroQL9nw2ieSlLZ) | 3:49 | 2025-10-23 |  |
 | [Niemand \(De Enige\)](https://open.spotify.com/track/7wehFRahb9PMsYai1jHv1y) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Niemand \(De Enige\)](https://open.spotify.com/album/4PUj0odPADosM9F8G8vanL) | 3:39 | 2023-02-23 | 2023-03-31 |
 | [Niemand Anders](https://open.spotify.com/track/6pRAF99tQ6bJXYkkYhFB1G) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Niemand Anders](https://open.spotify.com/album/68AAkMDMZPQMEqR9elVSwX) | 2:37 | 2023-05-25 | 2023-09-08 |
 | [Niemand Die Ons Ziet](https://open.spotify.com/track/1ZfHgxaPfhlAdYiFLE4LMw) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Niemand Die Ons Ziet](https://open.spotify.com/album/5DiLcbA53ww7UU6QNSt81j) | 2:47 | 2024-10-18 | 2025-01-07 |

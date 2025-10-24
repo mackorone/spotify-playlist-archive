@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6176\u795d\u5168\u7403RADAR \u85dd\u4eba\u7a81\u7834 1\u5343\uff0c\u56de\u9867\u524dRADAR \u85dd\u4eba\u6b4c\u66f2\uff0c\u4ee5\u53ca2025\u65b0\u8072\uff01Cover: Michael C",
+  "description": "2025 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u9999\u6e2f\u672a\u4f86\u65b0\u8072\uff01Cover: Tr33",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 232087,
       "name": "1234",
       "url": "https://open.spotify.com/track/0sa1tVoQiF5aCpWh7BYQTH"
+    },
+    {
+      "album": {
+        "name": "168.5 (feat. Billy Choi)",
+        "url": "https://open.spotify.com/album/2JfKZz1GyNC0P7Q1vc3hcD"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        },
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149943,
+      "name": "168.5 (feat. Billy Choi)",
+      "url": "https://open.spotify.com/track/28MXl4LQOLVOWgBTmoXcx3"
     },
     {
       "album": {
@@ -3072,6 +3094,24 @@
       "duration_ms": 233983,
       "name": "\u4e09\u5206\u751c",
       "url": "https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u8981\u8a55\u8ad6\u9019\u9996\u6b4c",
+        "url": "https://open.spotify.com/album/6m7lyRuFArQlULXhum8NiN"
+      },
+      "artists": [
+        {
+          "name": "Gordon Flanders",
+          "url": "https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190145,
+      "name": "\u4e0d\u8981\u8a55\u8ad6\u9019\u9996\u6b4c",
+      "url": "https://open.spotify.com/track/2mWWXGMlMmm2zC2LVkIVGH"
     },
     {
       "album": {

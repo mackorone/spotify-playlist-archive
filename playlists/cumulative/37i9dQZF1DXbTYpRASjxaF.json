@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "todos pro alto, cada um com o seu. Foto: KayG, Vulgo FK",
+  "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
   "name": "Cop\u00e3o na M\u00e3o",
   "tracks": [
+    {
+      "album": {
+        "name": "100Pena",
+        "url": "https://open.spotify.com/album/2IsF0Ts1GViwoLSw8KxB8v"
+      },
+      "artists": [
+        {
+          "name": "EZE ODT",
+          "url": "https://open.spotify.com/artist/3bblo79bAUwY3qKupiP3xf"
+        },
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "100Pena",
+      "url": "https://open.spotify.com/track/403Prh7O2Lycea21emaQLC"
+    },
     {
       "album": {
         "name": "Perdas & Ganhos",
@@ -630,7 +652,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 111118,
       "name": "Akilla On The Radar Freestyle",
       "url": "https://open.spotify.com/track/74ufXZKMlPBqIVp7N444Nf"
@@ -5202,7 +5224,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 148615,
       "name": "FOI NUM BAILE DO TREZE",
       "url": "https://open.spotify.com/track/7zblwlyeFM7tG4omTHTQu7"
@@ -7736,7 +7758,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 229569,
       "name": "Mente Pensante - Bonus Track",
       "url": "https://open.spotify.com/track/0sdoMuL7ZIHl6Apq2WUhzJ"
@@ -8234,7 +8256,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 141395,
       "name": "M\u00f3 Boqueta",
       "url": "https://open.spotify.com/track/4GI7Y3pkXdTvwjqecVSZJg"
@@ -9548,6 +9570,36 @@
       "duration_ms": 197333,
       "name": "Outra Hora",
       "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
+    },
+    {
+      "album": {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
       "album": {
@@ -11893,6 +11945,32 @@
     },
     {
       "album": {
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -13594,6 +13672,32 @@
       "duration_ms": 181629,
       "name": "USD, \u00e9 USD!",
       "url": "https://open.spotify.com/track/0JPpScEAtvRvWQ38nifwO9"
+    },
+    {
+      "album": {
+        "name": "VAI AMAR OU VAI MENTIR?",
+        "url": "https://open.spotify.com/album/6saNaooOROQPlQZuGdfoUp"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "VAI AMAR OU VAI MENTIR?",
+      "url": "https://open.spotify.com/track/2MWRZhN9NYyrIMFACp1v9c"
     },
     {
       "album": {

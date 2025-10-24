@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-777 songs - 1 day 14 hr 54 min
+778 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Heaven Knows](https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu) | [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Protolizard](https://open.spotify.com/artist/7nlh1D3MwQ7LOIcCD6jFya) | [Heaven Knows](https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX) | 2:57 | 2023-02-28 | 2023-08-10 |
 | [Help Me Help You](https://open.spotify.com/track/2vk58QOQxxXeUKnDiJIO38) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:31 | 2024-04-19 | 2024-12-09 |
 | [Her Body](https://open.spotify.com/track/1IwxBJDrjQm93Wn1jgd1fU) | [QKReign](https://open.spotify.com/artist/5pTDhtjL1lF9Mft8TYCjv6), [DMHP\_SKN](https://open.spotify.com/artist/1aOM1lb7XonK53Ye1wVB62) | [Her Body](https://open.spotify.com/album/4zXZfkKD7Oe0zLDhwHtfRc) | 2:05 | 2025-07-22 |  |
+| [Hero's Ending](https://open.spotify.com/track/4b1QOluT2bgdrG2KTXRmQm) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [OPALS](https://open.spotify.com/artist/2zfIng9rmEWqL6EdbwozIq) | [Hero's Ending](https://open.spotify.com/album/0F2ec1MWnZJ0Bz7pupoaWp) | 3:36 | 2025-10-23 |  |
 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 | 2023-08-08 |  |
 | [Hide Your Heart](https://open.spotify.com/track/23fQ2QOFRIw57uYM7w19C2) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [BRIGHTDVWN](https://open.spotify.com/artist/0ExsFJFEnGuchlp60W2oHe) | [Hide Your Heart](https://open.spotify.com/album/4tpchLz24pygDGVkoX6qXC) | 2:44 | 2023-08-01 | 2023-08-10 |
 | [High \(feat\. Aleesia\)](https://open.spotify.com/track/3Bin1J5O34OUDb3a4BctoI) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [High](https://open.spotify.com/album/7LqM3dX7Iv65gtMl29Sqd5) | 2:28 | 2023-08-08 | 2024-04-17 |

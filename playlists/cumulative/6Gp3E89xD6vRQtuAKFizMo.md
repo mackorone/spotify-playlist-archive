@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-509 songs - 1 day 0 hr 26 min
+511 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Pill](https://open.spotify.com/track/5qa0Vd1RbFfryPALhL1d3x) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill](https://open.spotify.com/album/2xmmJIoFBCPvhtAIKfgoPm) | 2:09 | 2022-05-06 | 2022-08-13 |
 | [Play With You](https://open.spotify.com/track/5RKUtMvMl1VhCVDHg20fP4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Play With You](https://open.spotify.com/album/79U6oOr7Qhoizl1CIyOkpE) | 3:03 | 2023-07-13 | 2025-04-27 |
 | [Playground](https://open.spotify.com/track/2ik3fTroPHOoEhEmTHCjMi) | [Benix](https://open.spotify.com/artist/6KNBk0pkK9ydjkflb4uBAr) | [Playground](https://open.spotify.com/album/7ipy8yJGLtF5B52X8rXn5Y) | 2:44 | 2023-11-22 | 2025-04-27 |
+| [Please Don't Go](https://open.spotify.com/track/2Hc2qBnB8rUrpFy80b8eby) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [Please Don't Go](https://open.spotify.com/album/7a6GG1brPwSupamjLGahQS) | 2:17 | 2025-10-24 |  |
 | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP) | 3:09 | 2022-05-06 | 2023-02-18 |
 | [Poison \(feat\. CERES\)](https://open.spotify.com/track/5qjyiw8igGbkVmkPsvN22F) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Poison \(feat\. CERES\)](https://open.spotify.com/album/6fZ3oqdKX8vOS7z1BnBNfd) | 2:09 | 2024-09-13 | 2025-04-27 |
 | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx) | 3:20 | 2022-05-13 | 2023-04-09 |
@@ -399,6 +400,7 @@
 | [Running](https://open.spotify.com/track/0AV1eWrh1x86FFnVDJ4BZD) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Running](https://open.spotify.com/album/2dOQ99k30Tolva3vPZ4jEB) | 3:13 | 2025-10-10 |  |
 | [RXDIO ACTXVE](https://open.spotify.com/track/6K0VFqzZ53URyjfAjLDsqK) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt) | 2:34 | 2023-11-22 | 2025-04-27 |
 | [SAFE](https://open.spotify.com/track/1An0fvGIjjMDFGoebz2GI9) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [God Bless The Trap House](https://open.spotify.com/album/3gGdE5OzZ8qUPGSXf0OzZ7) | 2:11 | 2023-08-09 | 2023-12-14 |
+| [San Diego](https://open.spotify.com/track/4jbmPbCPQD4TxAXjGMbNIr) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [San Diego](https://open.spotify.com/album/1FsJRWqLv5jI7LwO6ptrzn) | 2:48 | 2025-10-24 |  |
 | [Sangre Poderosa](https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Sangre Poderosa](https://open.spotify.com/album/70Pw8yVlZQkoEu8ttNiIDf) | 2:26 | 2022-05-06 | 2022-06-25 |
 | [Save Me From Myself](https://open.spotify.com/track/4NwppL4nlPoBsuMNatp1pC) | [JAYEM](https://open.spotify.com/artist/4tWO1xn8RaWclA2yINpRcE), [Alix Robson](https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT), [Iona](https://open.spotify.com/artist/17Y2csL81MRhA4lwSy5IAN) | [Save Me From Myself](https://open.spotify.com/album/4iYVCLCLA6ThnFkR8AjqkQ) | 2:45 | 2024-08-19 | 2025-04-27 |
 | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/track/52IUYgumUJN31TVeyfjv9t) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh) | 3:28 | 2024-05-17 | 2025-04-27 |

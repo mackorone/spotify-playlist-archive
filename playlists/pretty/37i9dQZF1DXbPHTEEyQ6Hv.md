@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 675,428 likes - 103 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,317 likes - 103 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 102 | [I'll Send You a Letter](https://open.spotify.com/track/5kRFyS1djRYnDQfIf9gZBY) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [I'll Send You a Letter](https://open.spotify.com/album/7M5nfPmJ94z1NlhlNRond9) | 2:15 |
 | 103 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 2:38 |
 
-Snapshot ID: `AAAAAL2AB/SMT/SLZCoRemf0pVtKcYPA`
+Snapshot ID: `AAAAAPZ882z9FZPCBwboQzZQ80R3Lci2`

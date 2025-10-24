@@ -4,7 +4,7 @@
 
 > 
 
-7,832 songs - 20 day 5 hr 10 min
+7,835 songs - 20 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [BALD!](https://open.spotify.com/track/0sBY9cwM2ubXSiEu5mQGQn) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 2:32 | 2025-01-03 |  |
 | [BALD!](https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EP!](https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i) | 2:33 | 2025-01-03 |  |
 | [BALD! REMIX](https://open.spotify.com/track/58CNpg1ZnTM4FFqXC8dmcA) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 2:33 | 2025-01-03 |  |
+| [BALD! REMIX](https://open.spotify.com/track/5wv9OEeC3N0oWqLMATSoSK) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [EP!](https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i) | 2:33 | 2025-10-23 |  |
 | [ball w/o you](https://open.spotify.com/track/50a8bKqlwDEqeiEknrzkTO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:15 | 2024-12-05 |  |
 | [Ballin'](https://open.spotify.com/track/1GZXuFBvq3FuFYtomtRq6a) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 3:38 | 2024-12-14 |  |
 | [Ballin' \(with Roddy Ricch\)](https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:00 | 2025-01-04 |  |
@@ -1718,6 +1719,7 @@
 | [Egyptian Luvr](https://open.spotify.com/track/48Co4cbgmgcAGch0mZoJuJ) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Dear Annie](https://open.spotify.com/album/4EY6NvQTvyRt6n5iwTmgmP) | 4:16 | 2025-04-18 |  |
 | [either on or off the drugs](https://open.spotify.com/track/3EWaU5exMayFzQMkIfTX7w) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:20 | 2025-01-03 |  |
 | [Either Way](https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Either Way](https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV) | 2:46 | 2025-03-17 |  |
+| [EL TORO COMBO MEAL \(feat\. Mavi\)](https://open.spotify.com/track/4PBRfiwBQiFkZVZED0ktV7) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [FEET OF CLAY](https://open.spotify.com/album/0N0EFoE8csbKxl5lxT1ylm) | 2:31 | 2025-10-23 |  |
 | [Elastic Heart](https://open.spotify.com/track/5S9lfZu1YF8xKkgSsqL2Bd) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:17 | 2025-01-15 |  |
 | [election year](https://open.spotify.com/track/79qTYKyxC3SAKTVoKrGifl) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [election year](https://open.spotify.com/album/76yJbscqVCSod2FKY6txAd) | 3:25 | 2025-04-19 |  |
 | [Electric Body \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6br4Pc0BzU6dTD5fEmks2i) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 4:15 | 2024-12-05 |  |
@@ -2135,6 +2137,7 @@
 | [Fruits Of The Spirit](https://open.spotify.com/track/2U5c6C6A3yg6rGUpnhwHfc) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 1:34 | 2025-01-03 |  |
 | [frutiger aero](https://open.spotify.com/track/5Yc9IrkeagPfOBHbUs9if0) | [temcandoanything](https://open.spotify.com/artist/4k7v8gQIQQDOKVIZ1nbxvI) | [The Soundtrack Of Frutiger Aero](https://open.spotify.com/album/6YP2a0D5OhUH9MNvKjwpkB) | 1:42 | 2025-05-17 |  |
 | [Fubuki](https://open.spotify.com/track/2hCsE0BdLv67JWp4AKNLbC) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [FlyingDog x C2Kikan <KanColle Memorial Compilation>](https://open.spotify.com/album/2ciJcGF1FGI7XyfXfr8Hqj) | 4:13 | 2025-01-04 |  |
+| [Fuck Kd](https://open.spotify.com/track/1baagmboW3o1VPGJeFuNXl) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Hoop Life](https://open.spotify.com/album/7fP1DdLng8DwEQZB2srvl0) | 3:41 | 2025-10-23 |  |
 | [Fuck LA](https://open.spotify.com/track/68Sxbmub4GZAF48w49CZDA) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:20 | 2025-01-15 |  |
 | [Fuck Love](https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:26 | 2025-01-15 |  |
 | [Fuck Up Some Commas](https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:57 | 2025-01-03 |  |

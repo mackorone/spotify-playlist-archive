@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: JACE
 
-588 songs - 1 day 11 hr 1 min
+591 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,12 @@
 | [Afterglow](https://open.spotify.com/track/1lQRxn6whhD9GG5jaZcHvu) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Afterglow](https://open.spotify.com/album/1bCV8b4iui8QDDKylQOEBJ) | 2:08 | 2025-02-20 | 2025-09-12 |
 | [Amazing Grace](https://open.spotify.com/track/5cofkYnlrYaXesdVpP6xeP) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Amazing Grace](https://open.spotify.com/album/74VNV5wkmqHDq3xuNLKryH) | 4:58 | 2024-06-27 | 2025-09-12 |
 | [AMERICANO](https://open.spotify.com/track/6zjnNyW1pZbMkt69v2OkTL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [AMERICANO](https://open.spotify.com/album/6JBvATX9VNlsWqrNND2xm9) | 2:41 | 2025-09-18 |  |
+| [AMERICANO \- nutty ver.](https://open.spotify.com/track/6hbk14eY4dgqoOoCUMPlqh) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [AMERICANO \(nutty ver.\)](https://open.spotify.com/album/4NFEtszSbF1iEFNdCnzs79) | 2:40 | 2025-10-23 |  |
 | [Another Day](https://open.spotify.com/track/2mIv66hfLHGn59uzBPPtnZ) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Another Day](https://open.spotify.com/album/7ohZZGOS9fYAifoSES1nMi) | 3:44 | 2025-09-11 |  |
 | [anything you ask](https://open.spotify.com/track/4cOWfl6IYophMuVhI6JfxY) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [anything you ask](https://open.spotify.com/album/5k7wAaARTHyyI6w0afP1GE) | 4:06 | 2024-06-27 | 2025-09-12 |
 | [Apart, so](https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Apart, so](https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy) | 3:28 | 2024-06-27 | 2025-09-12 |
 | [Atypical](https://open.spotify.com/track/5LXr3GhncY4sC9ynpapsnc) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Atypical](https://open.spotify.com/album/3FEaGC24Dx03W74Xz1Xb1t) | 2:56 | 2024-06-27 | 2025-09-12 |
+| [BABY YOU SO SWEET](https://open.spotify.com/track/6Az4FVq4hivzYn6kFEpduy) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [BABY YOU SO SWEET](https://open.spotify.com/album/0LwdSRmgnKv0jhCmZYrFzB) | 2:55 | 2025-10-23 |  |
 | [Back in the Game](https://open.spotify.com/track/1lx0nTrol5vUiG65MleoEi) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Back in the Game](https://open.spotify.com/album/5uLE642bTtgVSubD20bh21) | 3:37 | 2024-06-27 | 2025-09-12 |
 | [bad weather](https://open.spotify.com/track/1B7dvUWXL8tJFtsFgbj5mm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [bad weather](https://open.spotify.com/album/7GcqB2QpeFKDg4gDcaN52q) | 2:50 | 2024-06-27 | 2025-09-12 |
 | [Be with you](https://open.spotify.com/track/3oLmvdygvx8PCbbqUCt7Sl) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Be with you](https://open.spotify.com/album/4bC8Xd8IHkUfFkDf2jIbDQ) | 3:02 | 2024-08-08 | 2025-09-12 |
@@ -397,7 +399,7 @@
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2024-06-27 | 2025-09-12 |
 | [我就像從前 \- \(劇集《夢華錄》主題曲\)](https://open.spotify.com/track/0HJSVO7WLsQ29HZUKEzuds) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [我就像從前 \(劇集《夢華錄》主題曲\)](https://open.spotify.com/album/2OWMf8OpZkI5ldHN8nOFQh) | 2:51 | 2024-06-27 | 2025-09-12 |
 | [我想和你好好的](https://open.spotify.com/track/62XpKzUXVB2MYL2adL4UlE) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [我想和你好好的](https://open.spotify.com/album/03bAX2xfV0l2r8miCIyMAJ) | 4:17 | 2024-06-27 | 2025-09-12 |
-| [我愛你不問歸期（粵語版）](https://open.spotify.com/track/73jVepKE3CndpleVAA8AZe) | [莊心妍](https://open.spotify.com/artist/5xAtVo7xUqTxLxuH7M7ey3) | [我愛你不問歸期（粵語版）](https://open.spotify.com/album/4PcXLDyIdkYy97bHlbVHmr) | 4:12 | 2025-10-16 |  |
+| [我愛你不問歸期（粵語版）](https://open.spotify.com/track/73jVepKE3CndpleVAA8AZe) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [我愛你不問歸期（粵語版）](https://open.spotify.com/album/4PcXLDyIdkYy97bHlbVHmr) | 4:12 | 2025-10-16 |  |
 | [我所看見的未來](https://open.spotify.com/track/2wqw7q4VGdzPQtXxhRcipT) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/1PlovqRs1kJG76NhSdkNPU) | 3:42 | 2024-06-27 | 2025-09-12 |
 | [我本人](https://open.spotify.com/track/1phM99AMGMC8DhmCOKFbBa) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [我本人](https://open.spotify.com/album/4BKs6hUWu0ALzAzJXmlRCZ) | 4:17 | 2024-06-27 | 2025-09-12 |
 | [我的受保護動物](https://open.spotify.com/track/5YW8XsFfxPJIi5SmMbDVZk) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [我的受保護動物](https://open.spotify.com/album/42oZpxR4YktkYD2j0jkteb) | 3:37 | 2024-06-27 | 2025-09-12 |
@@ -483,6 +485,7 @@
 | [無名故事](https://open.spotify.com/track/63R20l947cq2dn2opzQ06D) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [無名故事](https://open.spotify.com/album/2WInCniECtqSXUn6eNlWzu) | 4:04 | 2024-06-27 | 2025-09-12 |
 | [無家 \- 紀錄片《毛家》主題曲](https://open.spotify.com/track/5g4rSS5KP0Qcu5e7pyqrjL) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [無家 \(紀錄片《毛家》主題曲\)](https://open.spotify.com/album/79mvJNNYXYfwnLTQ13bAON) | 3:25 | 2025-08-21 |  |
 | [無常家](https://open.spotify.com/track/5HE9tB9RHyoHVMdpOQmOHs) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [無常家](https://open.spotify.com/album/7GsVzjPuZJbKrbeEgqR23h) | 3:59 | 2024-06-27 | 2025-09-12 |
+| [無心傷人](https://open.spotify.com/track/3H4LjQJbvzTcZr56hIu8Jk) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [無心傷人](https://open.spotify.com/album/7MBkUr8xipcopiV6J9o76K) | 4:04 | 2025-10-23 |  |
 | [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 | 2024-06-27 | 2025-09-12 |
 | [無愧於當初的我](https://open.spotify.com/track/2IPkyXBGEhkAbFHmORynJ9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Leap of Faith](https://open.spotify.com/album/78xlTT3f0OyrdPr3XJflhq) | 3:43 | 2025-02-27 |  |
 | [無窮盡](https://open.spotify.com/track/70wJlV40JiB5eqWbxxqRvE) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [無窮盡](https://open.spotify.com/album/7ymagvuqyzfVFbaqIksYao) | 3:35 | 2024-06-27 | 2025-09-12 |

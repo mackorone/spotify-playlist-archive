@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,053 likes - 105 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,133 likes - 105 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 104 | [Freedom \- Barokan Remix](https://open.spotify.com/track/4v3a5Rtqxyq56FKRkciyvW) | [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c), [DJEFF](https://open.spotify.com/artist/7h1PMdIjUn3sZM2sNz0SD4), [Djely Tapa](https://open.spotify.com/artist/1ZWqXYKC5ZOETTsGYVihTF) | [Freedom \(Barokan Remix\)](https://open.spotify.com/album/3fCaU2LU3EYWBTFdajS8Di) | 6:58 |
 | 105 | [Lelela](https://open.spotify.com/track/6POrIFUB1tGDIR1hRaQ6o3) | [Luz](https://open.spotify.com/artist/7vbFUADS8wRB1zYcGeHTus) | [Lelela](https://open.spotify.com/album/1ZPSfXypHahUx7oQLLqzDB) | 6:53 |
 
-Snapshot ID: `AAAAAPg5FBQq/al7JvDzYWxu/C9o//fg`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

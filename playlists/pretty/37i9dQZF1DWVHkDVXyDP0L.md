@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 8 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 |
 | 9 | [MISS HER](https://open.spotify.com/track/6KdhOOGA2jiinTxZ9bUio4) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [MISS HER](https://open.spotify.com/album/5iyhaKuooHHV4O3BBi5z53) | 2:08 |
 | 10 | [Theodore](https://open.spotify.com/track/2sm6s9KIXTWAx1aEQogjKY) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Theodore](https://open.spotify.com/album/0fy89umhGhmh0GzQo89W5s) | 3:51 |
-| 11 | [Working Class Hero](https://open.spotify.com/track/7bkwlRmFsiteZzMrNFuAi6) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Working Class Hero](https://open.spotify.com/album/0dfOBm3T0jMxVpMsx8lRYW) | 3:51 |
+| 11 | [Working Class Hero](https://open.spotify.com/track/7bkwlRmFsiteZzMrNFuAi6) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Working Class Hero](https://open.spotify.com/album/0dfOBm3T0jMxVpMsx8lRYW) | 3:52 |
 | 12 | [Bitch](https://open.spotify.com/track/375yACL0bMGmcgr1cY62r3) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Bitch](https://open.spotify.com/album/2uyUeKwzu56mjv1jpII4wE) | 3:49 |
 | 13 | [Runaway](https://open.spotify.com/track/7raiI3iMXLAlwz0pq8bZEF) | [Will Baker](https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY) | [Runaway](https://open.spotify.com/album/0o9NqJnjM1bIwWZFVsLf67) | 3:37 |
 | 14 | [Greener](https://open.spotify.com/track/3xjG4x6u2xTLWADWgrDiPU) | [Coast Arcade](https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC) | [Coast Arcade](https://open.spotify.com/album/5PvbYVaQmAVrbzdZEohvdA) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [The Wait Is Over](https://open.spotify.com/track/1eURH5K09qCz92S9xvJy5X) | [LAHGO](https://open.spotify.com/artist/0a54VvQLtAxcXeFh5nMlyB) | [The Wait Is Over](https://open.spotify.com/album/03M4OPoEZfqhxB4Bw9VZ51) | 3:28 |
 | 100 | [All I Want](https://open.spotify.com/track/4bsp96mZsE7nztuh2IATmt) | [Polly](https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq) | [All I Want](https://open.spotify.com/album/5hn307vdC7XpvtTPuF0QJr) | 3:56 |
 
-Snapshot ID: `AAAAAKTdqeG2qgR1bwGFeeNRO9nqW5Zh`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

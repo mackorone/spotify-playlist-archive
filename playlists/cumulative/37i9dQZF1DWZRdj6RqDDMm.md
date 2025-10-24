@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Mercy Chinwo
 
-572 songs - 1 day 8 hr 7 min
+573 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Come & See](https://open.spotify.com/track/2A5oGxrKWwNcEoAJcnUX4d) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Come & See](https://open.spotify.com/album/3oMJySAfI9s3ZdbRnueFpa) | 3:09 | 2025-09-19 |  |
 | [Come Thou Fount](https://open.spotify.com/track/2FSajE2kAaMr88P5q3ci5p) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Jae Sekoya](https://open.spotify.com/artist/0kJwyMUjDs6cebm8YzOa69), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Come Thou Fount](https://open.spotify.com/album/7gBRTwE247sdsBwKY9I1Tf) | 2:17 | 2024-12-13 | 2025-02-28 |
 | [Comfort me](https://open.spotify.com/track/3e35HnDENOkg77SBrmOhsa) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY) | [Comfort me](https://open.spotify.com/album/2Ugn4YVHHiEgMQhcBAHPT5) | 2:22 | 2024-09-20 | 2024-10-25 |
-| [Comforter](https://open.spotify.com/track/0P5u7S5JktdlzlGixUEE7K) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48) | [Comforter](https://open.spotify.com/album/6MaGpTtoqsvn6LQHdo0XGk) | 2:24 | 2025-09-12 |  |
+| [Comforter](https://open.spotify.com/track/0P5u7S5JktdlzlGixUEE7K) | [Paul Rarity](https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48) | [Comforter](https://open.spotify.com/album/6MaGpTtoqsvn6LQHdo0XGk) | 2:24 | 2025-09-12 | 2025-10-24 |
 | [Comforter](https://open.spotify.com/track/3EX5x2fUpczvsg2U65E8Fe) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Comforter](https://open.spotify.com/album/7gHCoqTQze2noRt7RUt4wx) | 3:00 | 2025-05-30 |  |
 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 | 2023-10-20 |  |
 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 | 2023-10-27 | 2024-01-26 |
@@ -553,6 +553,7 @@
 | [Working for My Good](https://open.spotify.com/track/7IwhWWrugXAMbbcyUrj2jg) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Holy Impact](https://open.spotify.com/album/04s7WRi21IjxJtt7dCjiQ5) | 2:19 | 2024-02-23 | 2024-03-29 |
 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-01-12 | 2024-03-29 |
 | [Worthy](https://open.spotify.com/track/3wvWdSDQSNlyof2evfER3t) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [Worthy](https://open.spotify.com/album/2Len8qt5dWE2N91BjQxR1r) | 2:49 | 2025-01-10 | 2025-05-30 |
+| [Yahweh](https://open.spotify.com/track/4sPs5XhnfUTM7OipFTOJjA) | [Outgun Onkar](https://open.spotify.com/artist/4prG7V9Q373dQcu1sfyplD), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Yahweh](https://open.spotify.com/album/7k5jPNCIuuPAzh2mm6HgnK) | 3:08 | 2025-10-24 |  |
 | [YAHWEH](https://open.spotify.com/track/5zcN37FyD7kZjtZbG8mkj3) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [YAHWEH](https://open.spotify.com/album/5qrTKLpLI4RkZGr9KMiSEl) | 2:38 | 2025-07-25 | 2025-09-19 |
 | [Yahweh](https://open.spotify.com/track/3EdKqTX7D0vZ8hzz2cCj73) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Theresa Phondo](https://open.spotify.com/album/2UMRplzblsIzW07Mr9SIX6) | 3:07 | 2024-07-12 | 2025-01-10 |
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 |  |

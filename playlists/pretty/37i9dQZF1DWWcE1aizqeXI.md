@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,802 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,830 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 53 | [WHY2K!](https://open.spotify.com/track/6sDkXocfHCttx18PVQmOVV) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Wherefore](https://open.spotify.com/artist/5vOJRY9yCRvua91pDxlX62) | [WHY2K!](https://open.spotify.com/album/44FVsHZqFXLtHjPBFnJhm9) | 4:09 |
 | 54 | [Downtown](https://open.spotify.com/track/4XXqNYESlfqGKIddnyDYAw) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Downtown EP](https://open.spotify.com/album/62rtRsFWFtdugJOsTSzMfC) | 6:36 |
 
-Snapshot ID: `AAAAAAHW5gf5KiaUVzt2aTbWCXEq/V5e`
+Snapshot ID: `AAAAALuGbURsr6BaDvLG2ZOmzN7JmpEO`

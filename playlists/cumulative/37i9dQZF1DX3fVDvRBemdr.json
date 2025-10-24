@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met Hollands en Volkspop. Cover: Samuel Welten (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR-artiest</a>)",
+  "description": "Wekelijkse update met Hollands en Volkspop. Cover: Gerard Joling, Billy Dans & Afro Bros",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 195249,
       "name": "Aan het strand van Porto Rico",
       "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 178631,
       "name": "Alleen Van Jou Zijn",
       "url": "https://open.spotify.com/track/6w2m2ZXCdeVSOsPI3nLzkF"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 158932,
       "name": "Corry Konings",
       "url": "https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 154800,
       "name": "De Grote Stad",
       "url": "https://open.spotify.com/track/1oINIoAU4hC3Zqm1FkgQ1h"
@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "De Zon (Zal Weer Gaan Schijnen)",
+        "url": "https://open.spotify.com/album/0dd56xP2Tb0CsL22OxwSvs"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213448,
+      "name": "De Zon (Zal Weer Gaan Schijnen)",
+      "url": "https://open.spotify.com/track/35FXdxNcDpdL3e9eY9nIxQ"
+    },
+    {
+      "album": {
         "name": "De Zuipschuit",
         "url": "https://open.spotify.com/album/6XFYnlzinUjZybuV8KfOUL"
       },
@@ -1758,6 +1776,28 @@
       "duration_ms": 155922,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/2IeytsvuYh5NWRJLaLTbJg"
+    },
+    {
+      "album": {
+        "name": "Dicht bij jou",
+        "url": "https://open.spotify.com/album/5E9nRruHBHe65o4wabcuEZ"
+      },
+      "artists": [
+        {
+          "name": "Jaman",
+          "url": "https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD"
+        },
+        {
+          "name": "Elz Bakker",
+          "url": "https://open.spotify.com/artist/2cGsxIdaInZnSeazYsVi0s"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199788,
+      "name": "Dicht bij jou",
+      "url": "https://open.spotify.com/track/7qggfc9pgyuAhKrR0tS1j3"
     },
     {
       "album": {
@@ -2165,6 +2205,32 @@
     },
     {
       "album": {
+        "name": "Faka",
+        "url": "https://open.spotify.com/album/64ydkS99TJ8y9409oNwnWS"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Faka",
+      "url": "https://open.spotify.com/track/3kTzNmEK4M6tCkA4fubGsB"
+    },
+    {
+      "album": {
         "name": "Feessie",
         "url": "https://open.spotify.com/album/1RCR1GzJDxGL57Rs55Rk5H"
       },
@@ -2468,6 +2534,42 @@
       "duration_ms": 174614,
       "name": "Gelukkig Heb Ik Jou Nog",
       "url": "https://open.spotify.com/track/3AHSS3a8DEMiAPDM0C2aOE"
+    },
+    {
+      "album": {
+        "name": "Geouwehoer",
+        "url": "https://open.spotify.com/album/73ZqNRlby912HDhC6XyIm0"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209383,
+      "name": "Geouwehoer",
+      "url": "https://open.spotify.com/track/482UpSEiMaKq7iOUxSvydd"
+    },
+    {
+      "album": {
+        "name": "Gevangenis",
+        "url": "https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164305,
+      "name": "Gevangenis",
+      "url": "https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL"
     },
     {
       "album": {
@@ -2804,6 +2906,24 @@
       "duration_ms": 136687,
       "name": "Hey Buurvrouw",
       "url": "https://open.spotify.com/track/1LaCmbx2Ovb0w7vzvd68aT"
+    },
+    {
+      "album": {
+        "name": "Hey Macarena",
+        "url": "https://open.spotify.com/album/0Eh10dyBOSqJEOH1ewQOmc"
+      },
+      "artists": [
+        {
+          "name": "Fetty",
+          "url": "https://open.spotify.com/artist/553VSxbzZS8p7TSUhEbZuU"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165878,
+      "name": "Hey Macarena",
+      "url": "https://open.spotify.com/track/2RYuapffXKoJGQaH0uNxLa"
     },
     {
       "album": {
@@ -4760,7 +4880,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 173449,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/35yUzQ46yiBD2FH9EDLcaU"
@@ -4818,6 +4938,32 @@
       "duration_ms": 188906,
       "name": "Liefde en geluk",
       "url": "https://open.spotify.com/track/4fEv9QkkH241wCNRlzOtsX"
+    },
+    {
+      "album": {
+        "name": "Liefde In De Nacht",
+        "url": "https://open.spotify.com/album/2TViVZDnRWKWvjYq8atIt6"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155491,
+      "name": "Liefde In De Nacht",
+      "url": "https://open.spotify.com/track/29Oq2JIEG7Ma3mH82ELwes"
     },
     {
       "album": {
@@ -5686,7 +5832,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 182812,
       "name": "Onder De Lakens",
       "url": "https://open.spotify.com/track/6mpSui1VfWjaCb0PC4pHla"
@@ -5932,7 +6078,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 162550,
       "name": "Panja in Espa\u00f1a",
       "url": "https://open.spotify.com/track/2E5otxkJL7lXUwpJrSmH6p"
@@ -6858,6 +7004,24 @@
       "duration_ms": 171317,
       "name": "Vakantie In Eigen Land",
       "url": "https://open.spotify.com/track/3mvQDJJZGGV7qCKapHfkvb"
+    },
+    {
+      "album": {
+        "name": "Vallen en Opstaan",
+        "url": "https://open.spotify.com/album/72yWmmE7BLr2EfeAr3CaxW"
+      },
+      "artists": [
+        {
+          "name": "Gizbey",
+          "url": "https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173669,
+      "name": "Vallen en Opstaan",
+      "url": "https://open.spotify.com/track/2XKcXMzMJlnDGnI8AyuT41"
     },
     {
       "album": {
@@ -8142,7 +8306,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 191835,
       "name": "Ze Mogen Praten",
       "url": "https://open.spotify.com/track/4Vf3D6GWFeta7QJ3ljrzsa"

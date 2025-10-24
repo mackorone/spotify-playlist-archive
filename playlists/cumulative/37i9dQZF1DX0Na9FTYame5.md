@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-288 songs - 13 hr 0 min
+289 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Ich bring dir keine Blumen](https://open.spotify.com/track/4oevkKHMUdSJkCspP2ebAE) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Ich bring dir keine Blumen](https://open.spotify.com/album/1xQWMRbUYJjFtW90WLucia) | 2:30 | 2024-10-10 | 2025-01-17 |
 | [Ich hass dich](https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Ich hass dich](https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw) | 3:13 | 2024-06-28 |  |
 | [Ich hoff](https://open.spotify.com/track/1taMWidwpvYK54tseGqXcH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Ich hoff](https://open.spotify.com/album/5AQKC9RMfb6b0KSI6GbhQy) | 2:26 | 2025-10-16 |  |
-| [Ich Liebe Dich](https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich Liebe Dich](https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa) | 2:35 | 2024-06-28 |  |
+| [Ich Liebe Dich](https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Ich Liebe Dich](https://open.spotify.com/album/5t6CZCpZTS2hOVZLVEuvGa) | 2:35 | 2024-06-28 | 2025-10-24 |
 | [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Ich liebe...\. \(feat\. MAJAN\)](https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj) | 3:56 | 2024-06-28 |  |
 | [Ich schwör bei Gott](https://open.spotify.com/track/2bicGF7dHTbCynG3cgD485) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [Ich schwör bei Gott](https://open.spotify.com/album/7jJs0KTEZcKsmToM6YeELg) | 2:17 | 2024-06-28 | 2024-10-25 |
 | [Ich will](https://open.spotify.com/track/16HZAn6XX5XIzKMqcZYoIY) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Ich will](https://open.spotify.com/album/44OcC6K1FFJ2fs76VvGvNg) | 3:13 | 2024-06-28 |  |
@@ -154,6 +154,7 @@
 | [LEUCHTTURM](https://open.spotify.com/track/5BrWQaA9kuEvWoAlXfpl7g) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [LEUCHTTURM](https://open.spotify.com/album/7469Uc8ZwZuglYTMSy1Cus) | 2:33 | 2024-12-09 | 2025-03-15 |
 | [Leyfi](https://open.spotify.com/track/6MH1qbmbOjmM2ZJSzFPnOA) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [Leyfi](https://open.spotify.com/album/1Zb8ozA5TKXIBcwUIOEkC5) | 2:57 | 2025-03-24 | 2025-04-29 |
 | [LICHTER AUS](https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [LICHTER AUS](https://open.spotify.com/album/2QwVedRQawAlOOhPPWUNoS) | 3:23 | 2025-02-06 |  |
+| [Liebe](https://open.spotify.com/track/1ZZXvHOj2w46xknyOK6i9P) | [Vega](https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Liebe](https://open.spotify.com/album/1zKtSM9pxuu65xNaermEOz) | 3:14 | 2025-10-23 |  |
 | [Liebe = Schmerz](https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Liebe = Schmerz](https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK) | 2:37 | 2024-06-28 | 2025-05-16 |
 | [Liebe ist ein Dieb](https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Liebe ist ein Dieb](https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW) | 3:11 | 2024-06-28 |  |
 | [Liebestext](https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Liebestext](https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N) | 3:07 | 2025-04-24 | 2025-05-16 |

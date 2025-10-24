@@ -4802,7 +4802,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 300683,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 244897,
       "name": "Drb Almahalik",
       "url": "https://open.spotify.com/track/3DBLrqr306UI8Lp7Z48n64"
@@ -8330,7 +8330,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
@@ -10834,7 +10834,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 400320,
       "name": "Hbnah Antaha",
       "url": "https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7"
@@ -10878,7 +10878,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
@@ -17204,7 +17204,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 75682,
       "name": "MONTAGEM XONADA",
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
@@ -28218,7 +28218,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -28708,7 +28708,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -28748,7 +28748,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 180604,
       "name": "Wish - Audiomack Trap Symphony Version",
       "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
@@ -31580,6 +31580,24 @@
       "duration_ms": 220868,
       "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628 | \u0647\u0644\u0627 \u0628\u0627\u0644\u0637\u064a\u0628 \u0627\u0644\u063a\u0627\u0644\u064a \u060c \u0639\u0632\u064a\u0632 \u0648 \u0634\u0648\u0641\u062a\u0643 \u0645\u0646\u0648\u0647 \u060c \u0645\u0643\u0633 \u062e\u0644\u064a\u062c\u064a",
       "url": "https://open.spotify.com/track/0bTAlDHgc92ygVA60kXw1L"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628| \u064a\u0627\u0639\u0630\u0627\u0628\u064a \u064a\u0627\u0633\u0628\u062a \u062c\u0631\u0648\u062d\u064a \u0645\u0637\u0644\u0648\u0628 \u0627\u0643\u062b\u0631 \u0634\u064a\u0621",
+        "url": "https://open.spotify.com/album/70H21gHQ47TFUME3a7qTNb"
+      },
+      "artists": [
+        {
+          "name": "\u0637\u0634\u0645",
+          "url": "https://open.spotify.com/artist/6DkAPdMzYY7W81CmS3K0yZ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171826,
+      "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628| \u064a\u0627\u0639\u0630\u0627\u0628\u064a \u064a\u0627\u0633\u0628\u062a \u062c\u0631\u0648\u062d\u064a \u0645\u0637\u0644\u0648\u0628 \u0627\u0643\u062b\u0631 \u0634\u064a\u0621",
+      "url": "https://open.spotify.com/track/4ejCvJMkVS24QJYDiMXmaL"
     },
     {
       "album": {

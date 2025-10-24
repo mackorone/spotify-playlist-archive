@@ -1,6 +1,6 @@
 {
   "description": "techno you can relax/study to ",
-  "num_followers": 69755,
+  "num_followers": 69773,
   "original_name": "ambient techno",
   "owner": {
     "name": "Spotify",
@@ -727,18 +727,18 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
-        "name": "Nospheratu",
-        "url": "https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS"
+        "name": "Silent State",
+        "url": "https://open.spotify.com/album/3DCJgMiJJWBBJbKcQPQ7Vb"
       },
       "artists": [
         {
-          "name": "Pulshar",
-          "url": "https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA"
+          "name": "STL",
+          "url": "https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg"
         }
       ],
-      "duration_ms": 677029,
-      "name": "Nospheratu - Echospace Reduction",
-      "url": "https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv"
+      "duration_ms": 419560,
+      "name": "From A Distance",
+      "url": "https://open.spotify.com/track/7k9lcsMwgPlhLOCHQbUzlU"
     },
     {
       "added_at": "2025-08-28 10:30:22",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
-        "name": "Silent State",
-        "url": "https://open.spotify.com/album/3DCJgMiJJWBBJbKcQPQ7Vb"
+        "name": "Nospheratu",
+        "url": "https://open.spotify.com/album/6acXl9mOKEGrKwQ5oALqvS"
       },
       "artists": [
         {
-          "name": "STL",
-          "url": "https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg"
+          "name": "Pulshar",
+          "url": "https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA"
         }
       ],
-      "duration_ms": 419560,
-      "name": "From A Distance",
-      "url": "https://open.spotify.com/track/7k9lcsMwgPlhLOCHQbUzlU"
+      "duration_ms": 677029,
+      "name": "Nospheratu - Echospace Reduction",
+      "url": "https://open.spotify.com/track/5B9UGB7LoTTPsNC1RFd8gv"
     },
     {
       "added_at": "2025-08-28 10:30:22",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
-        "name": "T'Raenon (Remastered Edition)",
-        "url": "https://open.spotify.com/album/68H34x36go49MEHBTbpeyi"
-      },
-      "artists": [
-        {
-          "name": "Photek",
-          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
-        }
-      ],
-      "duration_ms": 537123,
-      "name": "T'Raenon - Version",
-      "url": "https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP"
-    },
-    {
-      "added_at": "2025-08-28 10:30:22",
-      "album": {
         "name": "Bcd",
         "url": "https://open.spotify.com/album/3QiuQrKMLpt7MDgjUDvv8d"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 416960,
       "name": "Quadrant Dub I - Edit",
       "url": "https://open.spotify.com/track/66I6gDEjkZZyVFfyRTtKPx"
+    },
+    {
+      "added_at": "2025-08-28 10:30:22",
+      "album": {
+        "name": "T'Raenon (Remastered Edition)",
+        "url": "https://open.spotify.com/album/68H34x36go49MEHBTbpeyi"
+      },
+      "artists": [
+        {
+          "name": "Photek",
+          "url": "https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI"
+        }
+      ],
+      "duration_ms": 537123,
+      "name": "T'Raenon - Version",
+      "url": "https://open.spotify.com/track/1sCpEdkIxvafPpLSZ9KfiP"
     },
     {
       "added_at": "2025-08-28 10:30:22",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/6bjLW5oKgSanC18sGIlkl8"
-      },
-      "artists": [
-        {
-          "name": "Ghost Dubs",
-          "url": "https://open.spotify.com/artist/0nEbx8lIbqkO08rKkXqQ05"
-        }
-      ],
-      "duration_ms": 149921,
-      "name": "Dub Laboratory",
-      "url": "https://open.spotify.com/track/0cn668YRwXBgVVG1LqAkEE"
-    },
-    {
-      "added_at": "2025-08-28 10:30:22",
-      "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/6bjLW5oKgSanC18sGIlkl8"
+      },
+      "artists": [
+        {
+          "name": "Ghost Dubs",
+          "url": "https://open.spotify.com/artist/0nEbx8lIbqkO08rKkXqQ05"
+        }
+      ],
+      "duration_ms": 149921,
+      "name": "Dub Laboratory",
+      "url": "https://open.spotify.com/track/0cn668YRwXBgVVG1LqAkEE"
+    },
+    {
+      "added_at": "2025-08-28 10:30:22",
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR"
       },
@@ -1187,6 +1187,38 @@
       "duration_ms": 307546,
       "name": "Tangente",
       "url": "https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN"
+    },
+    {
+      "added_at": "2025-08-28 10:30:22",
+      "album": {
+        "name": "Message Of Sound, Pt. 1",
+        "url": "https://open.spotify.com/album/6R1ntsOgTuBhIXqAGyU3b2"
+      },
+      "artists": [
+        {
+          "name": "STL",
+          "url": "https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg"
+        }
+      ],
+      "duration_ms": 550134,
+      "name": "Heavy Snow",
+      "url": "https://open.spotify.com/track/1343rvbH69vJ3mPDmPwBrg"
+    },
+    {
+      "added_at": "2025-08-28 10:30:22",
+      "album": {
+        "name": "Ikikieri\u00f6",
+        "url": "https://open.spotify.com/album/3Y4MFlHV1PYX2CQY2Wzemi"
+      },
+      "artists": [
+        {
+          "name": "Monoder",
+          "url": "https://open.spotify.com/artist/587oFfNlf7pKfT2sJds5Wn"
+        }
+      ],
+      "duration_ms": 464720,
+      "name": "G3",
+      "url": "https://open.spotify.com/track/1epu6KNwZjVuyoa4GBLdmL"
     },
     {
       "added_at": "2025-08-28 10:30:22",
@@ -1211,18 +1243,18 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
-        "name": "Message Of Sound, Pt. 1",
-        "url": "https://open.spotify.com/album/6R1ntsOgTuBhIXqAGyU3b2"
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV"
       },
       "artists": [
         {
-          "name": "STL",
-          "url": "https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg"
+          "name": "Martin Schulte",
+          "url": "https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI"
         }
       ],
-      "duration_ms": 550134,
-      "name": "Heavy Snow",
-      "url": "https://open.spotify.com/track/1343rvbH69vJ3mPDmPwBrg"
+      "duration_ms": 362731,
+      "name": "Winter Calmness",
+      "url": "https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy"
     },
     {
       "added_at": "2025-08-28 10:30:22",
@@ -1239,38 +1271,6 @@
       "duration_ms": 537386,
       "name": "upekah",
       "url": "https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi"
-    },
-    {
-      "added_at": "2025-08-28 10:30:22",
-      "album": {
-        "name": "Ikikieri\u00f6",
-        "url": "https://open.spotify.com/album/3Y4MFlHV1PYX2CQY2Wzemi"
-      },
-      "artists": [
-        {
-          "name": "Monoder",
-          "url": "https://open.spotify.com/artist/587oFfNlf7pKfT2sJds5Wn"
-        }
-      ],
-      "duration_ms": 464720,
-      "name": "G3",
-      "url": "https://open.spotify.com/track/1epu6KNwZjVuyoa4GBLdmL"
-    },
-    {
-      "added_at": "2025-08-28 10:30:22",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/5sN18BNWYP7m2IJCy9zcJV"
-      },
-      "artists": [
-        {
-          "name": "Martin Schulte",
-          "url": "https://open.spotify.com/artist/3l9uLPHODHCBSiGcALBPPI"
-        }
-      ],
-      "duration_ms": 362731,
-      "name": "Winter Calmness",
-      "url": "https://open.spotify.com/track/0IrrY7K6VwEjuhQTogbIAy"
     },
     {
       "added_at": "2025-08-28 10:30:22",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ"
+      },
+      "artists": [
+        {
+          "name": "Eusebeia",
+          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
+        }
+      ],
+      "duration_ms": 344846,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm"
+    },
+    {
+      "added_at": "2025-08-28 10:30:22",
+      "album": {
         "name": "Never Give Up (Vril Remix)",
         "url": "https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2025-08-28 10:30:22",
       "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ"
-      },
-      "artists": [
-        {
-          "name": "Eusebeia",
-          "url": "https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD"
-        }
-      ],
-      "duration_ms": 344846,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm"
-    },
-    {
-      "added_at": "2025-08-28 10:30:22",
-      "album": {
         "name": "74312",
         "url": "https://open.spotify.com/album/7i1TW1TRl0V2JhW64Ybygu"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 229369,
       "name": "74312",
       "url": "https://open.spotify.com/track/4flwU7ZFnR8qAvyEFh3skD"
+    },
+    {
+      "added_at": "2025-08-28 10:30:22",
+      "album": {
+        "name": "Third Dive",
+        "url": "https://open.spotify.com/album/1CMGPzaXavvbjRi4k1ILG2"
+      },
+      "artists": [
+        {
+          "name": "Izzat Man",
+          "url": "https://open.spotify.com/artist/2TJqlwyMRNWecsnAaI7Mes"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Autumn - Original Mix",
+      "url": "https://open.spotify.com/track/3c2jXCxdXZLY3HXzdzrmES"
     },
     {
       "added_at": "2025-08-28 10:30:22",
@@ -1599,22 +1615,6 @@
       "duration_ms": 365906,
       "name": "The Bell With The Wooden Tongue",
       "url": "https://open.spotify.com/track/0JFpDPcZTyntehmhrLH0AV"
-    },
-    {
-      "added_at": "2025-08-28 10:30:22",
-      "album": {
-        "name": "Third Dive",
-        "url": "https://open.spotify.com/album/1CMGPzaXavvbjRi4k1ILG2"
-      },
-      "artists": [
-        {
-          "name": "Izzat Man",
-          "url": "https://open.spotify.com/artist/2TJqlwyMRNWecsnAaI7Mes"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Autumn - Original Mix",
-      "url": "https://open.spotify.com/track/3c2jXCxdXZLY3HXzdzrmES"
     },
     {
       "added_at": "2025-08-28 10:30:22",

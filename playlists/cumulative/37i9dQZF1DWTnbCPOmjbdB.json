@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Sarsa",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Mrozu, Zalia",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 142666,
       "name": "A CAPPELLA",
       "url": "https://open.spotify.com/track/422x0kVjxPWUtsiIif5CJQ"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 156000,
       "name": "Beze mnie",
       "url": "https://open.spotify.com/track/5gEfm9EEabiqTP4e7TP79P"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 151546,
       "name": "CO JA WIEM",
       "url": "https://open.spotify.com/track/6yFBubbTWWUI5Le58Mtwhg"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 184000,
       "name": "Co za noc (projekt BABIE LATO, Santander Letnie Brzmienia)",
       "url": "https://open.spotify.com/track/65hBCYomnvP6qBCjaWnhm3"
@@ -1694,6 +1694,24 @@
       "duration_ms": 153513,
       "name": "Co, je\u015bli?",
       "url": "https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr"
+    },
+    {
+      "album": {
+        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157272,
+      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
     },
     {
       "album": {
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 115555,
       "name": "daj zapomnie\u0107.",
       "url": "https://open.spotify.com/track/4tbmUuzgC7EmtrmAAesiB5"
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 158117,
       "name": "FIKU MIKU",
       "url": "https://open.spotify.com/track/5JUs80EV0MeJ3s2atMaPjr"
@@ -4099,6 +4117,50 @@
     },
     {
       "album": {
+        "name": "Ja\u015bniepanie",
+        "url": "https://open.spotify.com/album/7fsfGwJL2Gvx5CYcjKuBQj"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162985,
+      "name": "Ja\u015bniepanie",
+      "url": "https://open.spotify.com/track/3DwhTJ3HghkmKpk7KXeEnk"
+    },
+    {
+      "album": {
+        "name": "Jeden dzie\u0144 (podaruj)",
+        "url": "https://open.spotify.com/album/6NEy9e469Ekau3vwzmCnMb"
+      },
+      "artists": [
+        {
+          "name": "Dominika Kwiatkowska",
+          "url": "https://open.spotify.com/artist/7psv9gndJ8VqYGr33wvNdZ"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Jeden dzie\u0144 (podaruj)",
+      "url": "https://open.spotify.com/track/0LSIMLQIlnB3gHCQShV9RY"
+    },
+    {
+      "album": {
         "name": "Jenga",
         "url": "https://open.spotify.com/album/6tU2xyoMM6SDb8O2Ava3E6"
       },
@@ -4466,6 +4528,24 @@
       "duration_ms": 177777,
       "name": "Kocham chwile",
       "url": "https://open.spotify.com/track/0HSy7JF3ItQveT3ikZoIIm"
+    },
+    {
+      "album": {
+        "name": "Kochankowie Syreny",
+        "url": "https://open.spotify.com/album/4vZYi2KfAEDCmtyo89EhmR"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284839,
+      "name": "Kochankowie Syreny",
+      "url": "https://open.spotify.com/track/72ELnznn8edOYQRJojgS5c"
     },
     {
       "album": {
@@ -5826,7 +5906,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 166992,
       "name": "Mimo Wszystko",
       "url": "https://open.spotify.com/track/68qiV7ihpsPGQ3zmH1GqjU"
@@ -6116,6 +6196,24 @@
       "duration_ms": 138064,
       "name": "Momenty",
       "url": "https://open.spotify.com/track/1V308vfYwSw9QqY1kL0Toz"
+    },
+    {
+      "album": {
+        "name": "morze dalej zimne",
+        "url": "https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176335,
+      "name": "morze dalej zimne",
+      "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
     },
     {
       "album": {
@@ -6603,6 +6701,24 @@
     },
     {
       "album": {
+        "name": "NADAL KOCHAM",
+        "url": "https://open.spotify.com/album/6t7jtb5l7ezFCBmKtXCCZj"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152142,
+      "name": "NADAL KOCHAM",
+      "url": "https://open.spotify.com/track/3wBWvBR502XCbIkfMtACX9"
+    },
+    {
+      "album": {
         "name": "Naiwna Dziewucha",
         "url": "https://open.spotify.com/album/2UzNFBcrhMDDGnkPNCZ3kL"
       },
@@ -6618,6 +6734,24 @@
       "duration_ms": 129600,
       "name": "Naiwna Dziewucha",
       "url": "https://open.spotify.com/track/2N3ZrP2F4q6PHx8Ei1aepT"
+    },
+    {
+      "album": {
+        "name": "najgorsze restauracje",
+        "url": "https://open.spotify.com/album/4N7S8DQNO3TIJqVtijain8"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165638,
+      "name": "najgorsze restauracje",
+      "url": "https://open.spotify.com/track/4zMKD8kgLfYwuZlzvGTqOJ"
     },
     {
       "album": {
@@ -6734,6 +6868,28 @@
       "duration_ms": 200769,
       "name": "Ne Rozumiju",
       "url": "https://open.spotify.com/track/3XWr2NZqYd80MB8FIq9r55"
+    },
+    {
+      "album": {
+        "name": "Nic Nie Czuj\u0119",
+        "url": "https://open.spotify.com/album/6NiyA1EKIlMdYeV7v7jXiz"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153383,
+      "name": "Nic Nie Czuj\u0119",
+      "url": "https://open.spotify.com/track/1uRu3xrwSFCn3SBtY1kFlc"
     },
     {
       "album": {
@@ -7762,6 +7918,28 @@
       "duration_ms": 151406,
       "name": "oddaj mnie",
       "url": "https://open.spotify.com/track/2dUDMxSYnfGV4zNyNr1qz7"
+    },
+    {
+      "album": {
+        "name": "Odpowiedni moment",
+        "url": "https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194980,
+      "name": "Odpowiedni moment",
+      "url": "https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h"
     },
     {
       "album": {
@@ -9798,7 +9976,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 146590,
       "name": "Serce",
       "url": "https://open.spotify.com/track/4sraugoYKif53mYvrE8eE9"
@@ -10402,7 +10580,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 183050,
       "name": "tajfun",
       "url": "https://open.spotify.com/track/6ERPdRl4gHCrU0O3LAa19v"
@@ -10710,7 +10888,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 184921,
       "name": "Ta\u0144cz, Mamusiu, Ta\u0144cz",
       "url": "https://open.spotify.com/track/4mwiVyAJtYU1qlBq0sP4SZ"
@@ -11193,6 +11371,32 @@
     },
     {
       "album": {
+        "name": "Tylko noc (feat. Ania D\u0105browska)",
+        "url": "https://open.spotify.com/album/5XtD73PS8Rr23QaIAHyPdP"
+      },
+      "artists": [
+        {
+          "name": "Robert Cichy",
+          "url": "https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0"
+        },
+        {
+          "name": "Jarecki",
+          "url": "https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh"
+        },
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187953,
+      "name": "Tylko noc (feat. Ania D\u0105browska)",
+      "url": "https://open.spotify.com/track/1U53LQBf7VqYGUe67eeV8V"
+    },
+    {
+      "album": {
         "name": "TYLKO TY",
         "url": "https://open.spotify.com/album/66PycGv6SVcaO0xxhas7g5"
       },
@@ -11230,6 +11434,24 @@
       "duration_ms": 146843,
       "name": "U Mnie",
       "url": "https://open.spotify.com/track/6fy7TMTFuqxruaEDCdXcFr"
+    },
+    {
+      "album": {
+        "name": "Uciekam",
+        "url": "https://open.spotify.com/album/1H84585wQYaVOS6mobVT5s"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178970,
+      "name": "Uciekam",
+      "url": "https://open.spotify.com/track/6c5rteLZFRaTQ8qcGtA36V"
     },
     {
       "album": {
@@ -11610,7 +11832,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 187420,
       "name": "WIATR",
       "url": "https://open.spotify.com/track/3n1N8s6iKQGLmCN6a9es2B"

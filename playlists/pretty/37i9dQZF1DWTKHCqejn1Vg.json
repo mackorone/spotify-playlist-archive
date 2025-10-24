@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJca12DHeLQ4ksnj/T+DUBzbGODO",
+  "snapshot_id": "AAAAALOATPZhE9VLOicxq3K+P63pXn4v",
   "tracks": [
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "CLAASSIC",
         "url": "https://open.spotify.com/album/5KL4s0DShFK5oz3zKy9zmP"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2aOk5X66c3YwRLp0wuKkUC"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "RAD",
         "url": "https://open.spotify.com/album/2GPaZ2S7JNb8VPPLffpjgv"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/0ov6JhUBz6MHouL7wLUSmq"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "SignHere episode 6",
         "url": "https://open.spotify.com/album/785X4KofIFSHpjD4aD6ewB"
@@ -69,7 +69,75 @@
       "url": "https://open.spotify.com/track/25knVBbk3p6iW3sQan9TaK"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
+      "album": {
+        "name": "NIGHT OFF",
+        "url": "https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 173445,
+      "name": "NIGHT OFF",
+      "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
+    },
+    {
+      "added_at": "2025-10-23 10:23:23",
+      "album": {
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 209589,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
+    },
+    {
+      "added_at": "2025-10-23 10:23:23",
+      "album": {
+        "name": "shy girl",
+        "url": "https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 163681,
+      "name": "shy girl",
+      "url": "https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP"
+    },
+    {
+      "added_at": "2025-10-23 10:23:23",
+      "album": {
+        "name": "Prism Heart",
+        "url": "https://open.spotify.com/album/7Fnc3mYvWZMkiwmftIPi0F"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Get Over Me",
+      "url": "https://open.spotify.com/track/3Bt8QgyF1ScD26tb5zXybD"
+    },
+    {
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "SLIDIN\u2019",
         "url": "https://open.spotify.com/album/1M9noTaRDmFsm9juq86FDA"
@@ -93,55 +161,7 @@
       "url": "https://open.spotify.com/track/0k9YOhsIcZGaXzwEVAL0EM"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 209589,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
-    },
-    {
-      "added_at": "2025-10-21 04:47:57",
-      "album": {
-        "name": "shy girl",
-        "url": "https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 163681,
-      "name": "shy girl",
-      "url": "https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP"
-    },
-    {
-      "added_at": "2025-10-21 04:47:57",
-      "album": {
-        "name": "Prism Heart",
-        "url": "https://open.spotify.com/album/7Fnc3mYvWZMkiwmftIPi0F"
-      },
-      "artists": [
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Get Over Me",
-      "url": "https://open.spotify.com/track/3Bt8QgyF1ScD26tb5zXybD"
-    },
-    {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "224",
         "url": "https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR"
@@ -173,7 +193,27 @@
       "url": "https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
+      "album": {
+        "name": "LVRS PARADISE (SIDE A)",
+        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 163144,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/4nNpY2RyMQMvlKkQMRb5XQ"
+    },
+    {
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "GOLDEN HOUR : Part.3 'In Your Fantasy Edition'",
         "url": "https://open.spotify.com/album/2rBtlOpNMuE4u9imyZz0YL"
@@ -189,7 +229,7 @@
       "url": "https://open.spotify.com/track/3acG1smdVAPB6TPjWkyQK5"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Skrr (feat. GISELLE)",
         "url": "https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG"
@@ -209,7 +249,7 @@
       "url": "https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
@@ -225,7 +265,7 @@
       "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "IS ANYBODY OUT THERE?",
         "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
@@ -241,7 +281,7 @@
       "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "KARD 6th Mini Album 'ICKY'",
         "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
@@ -257,7 +297,7 @@
       "url": "https://open.spotify.com/track/7DFxvlzyT4thkXhtcio8Tu"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Perfume - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
@@ -273,7 +313,7 @@
       "url": "https://open.spotify.com/track/6iirdwpyu2Ohg3iVdu4vXl"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
@@ -309,7 +349,7 @@
       "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V"
@@ -333,7 +373,7 @@
       "url": "https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "boy.",
         "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
@@ -357,7 +397,7 @@
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
@@ -377,7 +417,7 @@
       "url": "https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Wait On Me - The 4th Mini Album",
         "url": "https://open.spotify.com/album/78cxz0pQ2TDtESNyCCX5Qj"
@@ -393,7 +433,7 @@
       "url": "https://open.spotify.com/track/5cYGEaQIa9Sc7TYPYQ6nqC"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
@@ -413,7 +453,7 @@
       "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Hello, World - The 4th Mini Album",
         "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
@@ -429,7 +469,7 @@
       "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
@@ -445,7 +485,7 @@
       "url": "https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "EVE: ROMANCE",
         "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
@@ -461,7 +501,7 @@
       "url": "https://open.spotify.com/track/0Kl6xCOt69FaQfhVYJ9f7A"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Keep It Sexy (MOMMAE 2)",
         "url": "https://open.spotify.com/album/74Xun3jkHLajFFz2ymcsRs"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/349vRUzitG48j0mYch7Ega"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Flip",
         "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Hello, World - The 4th Mini Album",
         "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
@@ -513,7 +553,7 @@
       "url": "https://open.spotify.com/track/3OGSCPdVyj6FWJSm8bx70q"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
@@ -529,7 +569,7 @@
       "url": "https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "ONLY LOVERS LEFT",
         "url": "https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/3tZhtCYISL5esUNEvcWclc"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -569,7 +609,7 @@
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
@@ -605,7 +645,7 @@
       "url": "https://open.spotify.com/track/3n3lKRN7oLcIW9i0wxDkX2"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
@@ -649,7 +689,7 @@
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Jay Park Season 1",
         "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
@@ -665,7 +705,7 @@
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
@@ -685,7 +725,7 @@
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "THE BOYZ The 10th Mini Album [a;e\ufb00ect]",
         "url": "https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0"
@@ -701,7 +741,7 @@
       "url": "https://open.spotify.com/track/6J0xPIfeSpjiyoDsfEDvcL"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "PERCENT",
         "url": "https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/1s4azvneHkiBMkd4Gr8XX1"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "POP (feat. BIBI)",
         "url": "https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN"
@@ -737,7 +777,7 @@
       "url": "https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "CHASE - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
@@ -773,7 +813,7 @@
       "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "F*cked Up",
         "url": "https://open.spotify.com/album/3UEl9CwTk4kDTxblSiNdQ9"
@@ -789,7 +829,7 @@
       "url": "https://open.spotify.com/track/4RXBQjfrhHkVDiLZBd52yN"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
@@ -805,7 +845,7 @@
       "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
@@ -829,23 +869,7 @@
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
-      "album": {
-        "name": "SET",
-        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
-    },
-    {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "MaRz&B",
         "url": "https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93"
@@ -865,7 +889,23 @@
       "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
+      "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+    },
+    {
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "HORIZON : THE MIXTAPE",
         "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
@@ -881,7 +921,7 @@
       "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "TOUCHIN'",
         "url": "https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke"
@@ -897,7 +937,7 @@
       "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "SOMO: FUME",
         "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
@@ -917,7 +957,7 @@
       "url": "https://open.spotify.com/track/01vDYm34I3kVygzQ29T1no"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
@@ -933,7 +973,7 @@
       "url": "https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Lost (Feat. Chan)",
         "url": "https://open.spotify.com/album/6wYbrnLW8oLOzLS8cfO2vR"
@@ -953,7 +993,7 @@
       "url": "https://open.spotify.com/track/0CGLEfpRiP9Xx3DOGIpyu6"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "There And Back Again",
         "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
@@ -969,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "What if we met at another place ?",
         "url": "https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J"
@@ -985,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
@@ -1001,7 +1041,7 @@
       "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "love",
         "url": "https://open.spotify.com/album/2D9Wm88bSk4B9VGJQhs8tN"
@@ -1017,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0d1EXbqOjCrxzBY0QML5O8"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "KEUNG",
         "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
@@ -1033,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
     },
     {
-      "added_at": "2025-10-21 04:47:57",
+      "added_at": "2025-10-23 10:23:23",
       "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
@@ -1051,50 +1091,6 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
-    },
-    {
-      "added_at": "2025-10-21 04:47:57",
-      "album": {
-        "name": "FALL IN LUST",
-        "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
-      },
-      "artists": [
-        {
-          "name": "EDEN",
-          "url": "https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49"
-        },
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "FALL IN LUST",
-      "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
-    },
-    {
-      "added_at": "2025-10-21 04:47:57",
-      "album": {
-        "name": "Not my fault",
-        "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
-      },
-      "artists": [
-        {
-          "name": "dress",
-          "url": "https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 214319,
-      "name": "I wonder (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

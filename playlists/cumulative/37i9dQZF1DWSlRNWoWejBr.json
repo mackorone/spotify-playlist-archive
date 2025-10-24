@@ -3175,6 +3175,32 @@
     },
     {
       "album": {
+        "name": "Foda Selvagem",
+        "url": "https://open.spotify.com/album/58QI0UaFrIvlP83PVmwjLH"
+      },
+      "artists": [
+        {
+          "name": "Dj D\u00e9dda",
+          "url": "https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX"
+        },
+        {
+          "name": "DJ Marc\u00e3o 019",
+          "url": "https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "Foda Selvagem",
+      "url": "https://open.spotify.com/track/0ZZt6dtMeqku5boSXPT9cX"
+    },
+    {
+      "album": {
         "name": "Folga No Trampo",
         "url": "https://open.spotify.com/album/4JUaN7FvGbXTm7KrGo4BtL"
       },
@@ -4530,7 +4556,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 142504,
       "name": "MEGA FA FA FA FA",
       "url": "https://open.spotify.com/track/2O0CJSTAl7cZOkX6l1ZAht"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,474 songs - 5 day 10 hr 3 min
+2,475 songs - 5 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-22 |
 | [Assassinat](https://open.spotify.com/track/3fdOkTuwYW2nyBi8vIibKc) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:58 | 2021-06-27 | 2021-07-18 |
 | [Assoces](https://open.spotify.com/track/65qLZYZ9jtjC4oHJlNz3RF) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 2:31 | 2021-03-27\* | 2021-04-04 |
-| [Astrid](https://open.spotify.com/track/1n8fHxto2OMcsDBE1fR70H) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Astrid](https://open.spotify.com/album/3jSB6Lto6ZLx8paXGWwarY) | 2:45 | 2025-10-18 | 2025-10-20 |
+| [Astrid](https://open.spotify.com/track/1n8fHxto2OMcsDBE1fR70H) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Astrid](https://open.spotify.com/album/3jSB6Lto6ZLx8paXGWwarY) | 2:45 | 2025-10-18 |  |
 | [Astronaut In The Ocean](https://open.spotify.com/track/0BGwAKW4u8kWOhWFflZxfl) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean \(International Remixes\)](https://open.spotify.com/album/4YtSVQwETLHiKNZXySp7Mw) | 2:12 | 2021-05-30 | 2021-06-27 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Atasanté \(feat\. Hamza\)](https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:34 | 2022-05-28 | 2022-07-21 |
@@ -1697,8 +1697,9 @@
 | [P&LOVÉ](https://open.spotify.com/track/2hnN2kFtYzf0jpyrEzBmkh) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [X](https://open.spotify.com/album/2DWSieXN6ldWJczKBB3BCS) | 3:02 | 2024-03-05 | 2024-03-07 |
 | [P\*tain](https://open.spotify.com/track/10KQANolhaHKp6dRThpTbs) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:35 | 2024-01-27 | 2024-01-29 |
 | [P.I.B](https://open.spotify.com/track/3tKYZ8DUgSz3BFssm94dB6) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/1LDXAEM40WTZ2vRqiZy9z6) | 2:12 | 2025-09-15 | 2025-10-18 |
-| [P.I.B](https://open.spotify.com/track/5AUm2Uy54KJXu0IxdDzOaq) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/5VuIw7GcISPhXx04mfWo8Z) | 2:12 | 2025-09-11 |  |
+| [P.I.B](https://open.spotify.com/track/5AUm2Uy54KJXu0IxdDzOaq) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/5VuIw7GcISPhXx04mfWo8Z) | 2:12 | 2025-09-11 | 2025-10-24 |
 | [P.I.B](https://open.spotify.com/track/6YwglTFkBDJ2DcgzbUpXOD) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/1WmWymM85Nr8mCo92QGjyT) | 2:12 | 2025-09-10 | 2025-09-12 |
+| [P.I.B](https://open.spotify.com/track/3TAZc74uzlJW77FAGbvddN) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [P.I.B](https://open.spotify.com/album/5nxUUmZPyFp2QOiXuZb4fX) | 2:13 | 2025-10-23 |  |
 | [P.O.V.](https://open.spotify.com/track/2mZaUAjM2b6GUGwHMOjgQf) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:21 | 2023-10-29 | 2023-11-02 |
 | [Pa Pa Paw](https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [SARAH SEY](https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:35 | 2025-05-31 |  |
 | [Pablo](https://open.spotify.com/track/0KifVydMFjrwl53BPjhS0o) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Pablo](https://open.spotify.com/album/1pU0VS9klvCOCdoEkjQfOW) | 3:07 | 2022-07-06 | 2022-07-08 |
@@ -2381,7 +2382,7 @@
 | [Vovo](https://open.spotify.com/track/2ohO63bidj6AMGmRxqWGt0) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [TRAP$TAR 3](https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5) | 3:18 | 2023-10-21 | 2023-10-23 |
 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 | 2025-01-14 | 2025-02-02 |
 | [Vrai / Faux](https://open.spotify.com/track/7c8hPeNvH3bWnQPqaVBIst) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:55 | 2021-11-14 | 2021-11-20 |
-| [Vrais](https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:03 | 2025-01-25 |  |
+| [Vrais](https://open.spotify.com/track/6WfnzeciIa1Ta661GY9hue) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:03 | 2025-01-25 | 2025-10-24 |
 | [Vrais salauds \(feat\. Gazo & Kore\)](https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-15 | 2024-06-21 |
 | [Vroum Vroum](https://open.spotify.com/track/6sRPU30pj9A6G1pBXqzQkM) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Vroum Vroum](https://open.spotify.com/album/0cPGWnwGhDm4SAV8h2Ot6l) | 3:06 | 2021-03-27 | 2021-06-13 |
 | [Vroum Vroum](https://open.spotify.com/track/1TmuaS1lnCUf7yCLk2hwDT) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Dernier souffle](https://open.spotify.com/album/0pMvd6rQonhDJT4ELR9GJE) | 3:06 | 2021-06-13 | 2021-07-25 |

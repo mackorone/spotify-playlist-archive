@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops\. Cover: Theo Croker
 
-441 songs - 1 day 2 hr 38 min
+441 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [Unforgettable \(Mike Casey Remix\)](https://open.spotify.com/track/08NbsNUNHo6BIqNk4laZSJ) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Law of Attraction: The Remixes](https://open.spotify.com/album/2kYSW1wMRdIQWFram635Yf) | 2:16 | 2021-10-29 |  |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2023-04-28 |  |
 | [Vacuum Lessons](https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j) | [Vacuum Lessons](https://open.spotify.com/album/0Uy7gJAelfoncRT7LvGkdC) | 3:03 | 2021-01-29 |  |
-| [verdigris](https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [verdigris](https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o) | 3:21 | 2025-05-16 |  |
+| [verdigris](https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [verdigris](https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o) | 3:20 | 2025-05-16 |  |
 | [Viper \- Card On Spokes Remix](https://open.spotify.com/track/0VjoYWcUmOMkXhLF7Ae58J) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ), [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv) | [YUNIKōN \(Deluxe Edition\)](https://open.spotify.com/album/7ozWefQLSgQ3nO3uDjGEJl) | 4:31 | 2022-03-25 | 2024-04-19 |
 | [Viper \- Card On Spokes Remix](https://open.spotify.com/track/1LnUMYEuGZMXdIjjlXv6XO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ), [Card On Spokes](https://open.spotify.com/artist/0U3iJFP70s9Z8cswLdiCIv) | [Viper \(Card On Spokes Remix\)](https://open.spotify.com/album/1X6SwF0DNYYuuj7e0NO2zs) | 4:31 | 2022-03-18 |  |
 | [Vision 9 \- Melé Mix](https://open.spotify.com/track/5AgLRGf1qVv4s4lhaiWZ4o) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Christopher Paul Peers](https://open.spotify.com/artist/5edzJIcR5Wqy2mVdVuiEN7), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Vision 9 \(Melé Mix & Dub\)](https://open.spotify.com/album/2S69BD9OcdrPGC0wLYWxLw) | 6:26 | 2021-05-28 | 2022-04-21 |

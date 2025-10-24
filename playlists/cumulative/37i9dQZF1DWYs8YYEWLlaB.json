@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
+  "description": "viral, trend ve y\u00fckselenler.  Kapak: Shawty x Bedo",
   "name": "trend 2025",
   "tracks": [
     {
@@ -454,6 +454,24 @@
       "duration_ms": 192475,
       "name": "Ben Sana Gelemem",
       "url": "https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ"
+    },
+    {
+      "album": {
+        "name": "Bende Katilime A\u015f\u0131kt\u0131m",
+        "url": "https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131ld\u0131r\u0131m Elmas",
+          "url": "https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "Bende Katilime A\u015f\u0131kt\u0131m",
+      "url": "https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa"
     },
     {
       "album": {
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 176625,
       "name": "G\u00f6zlerinden G\u00f6zlerine",
       "url": "https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp"
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 214146,
       "name": "Mendil",
       "url": "https://open.spotify.com/track/366jopUhzxmlcO7m7I6q8G"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 204833,
       "name": "Sana G\u00fcvenmiyorum - Dedub Sessions",
       "url": "https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ"
@@ -3257,6 +3275,28 @@
     },
     {
       "album": {
+        "name": "Seni G\u00f6rmeden \u00d6nce",
+        "url": "https://open.spotify.com/album/5YxvpFaQ5iuqMHqA6xUBVN"
+      },
+      "artists": [
+        {
+          "name": "Shawty",
+          "url": "https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn"
+        },
+        {
+          "name": "Bedo",
+          "url": "https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Seni G\u00f6rmeden \u00d6nce",
+      "url": "https://open.spotify.com/track/7hyG6gKMswVlv10aZx4Jcx"
+    },
+    {
+      "album": {
         "name": "Seni Seven Kimdi",
         "url": "https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML"
       },
@@ -3272,6 +3312,24 @@
       "duration_ms": 240642,
       "name": "Seni Seven Kimdi",
       "url": "https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8"
+    },
+    {
+      "album": {
+        "name": "Senin Olsun",
+        "url": "https://open.spotify.com/album/25erIZ2spmY3cH5TgwMJUp"
+      },
+      "artists": [
+        {
+          "name": "Ceylin Arslan",
+          "url": "https://open.spotify.com/artist/1WQSj0aNrCPWRw7zf1PYcw"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138229,
+      "name": "Senin Olsun",
+      "url": "https://open.spotify.com/track/6IRuWQvn6p0ite4H4s7J2n"
     },
     {
       "album": {

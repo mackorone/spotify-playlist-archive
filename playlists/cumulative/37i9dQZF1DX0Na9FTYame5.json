@@ -1089,7 +1089,7 @@
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 174762,
+      "duration_ms": 174745,
       "name": "Dunya",
       "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     },
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 155152,
       "name": "Ich Liebe Dich",
       "url": "https://open.spotify.com/track/2mVrSw1sSk3v8GanOZj9wF"
@@ -2930,6 +2930,28 @@
       "duration_ms": 203066,
       "name": "LICHTER AUS",
       "url": "https://open.spotify.com/track/4mVhmpRtHuzMFJlU3an4eG"
+    },
+    {
+      "album": {
+        "name": "Liebe",
+        "url": "https://open.spotify.com/album/1zKtSM9pxuu65xNaermEOz"
+      },
+      "artists": [
+        {
+          "name": "Vega",
+          "url": "https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO"
+        },
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Liebe",
+      "url": "https://open.spotify.com/track/1ZZXvHOj2w46xknyOK6i9P"
     },
     {
       "album": {
@@ -5441,7 +5463,7 @@
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159259,
+      "duration_ms": 159500,
       "name": "WENN DU MICH SIEHST",
       "url": "https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA"
     },

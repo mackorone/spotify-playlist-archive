@@ -6701,6 +6701,24 @@
     },
     {
       "album": {
+        "name": "FODDER",
+        "url": "https://open.spotify.com/album/1EddVMg0glN4iWtW9261ll"
+      },
+      "artists": [
+        {
+          "name": "Insightful",
+          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248164,
+      "name": "Shores",
+      "url": "https://open.spotify.com/track/7mCBglQEL4tFTjwrrLm5BJ"
+    },
+    {
+      "album": {
         "name": "Show Up",
         "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
       },
@@ -6998,7 +7016,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 299536,
       "name": "Standing On The Moon",
       "url": "https://open.spotify.com/track/757iJ0Z4Sn48BzcQgxFl8W"

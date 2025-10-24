@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Rowlene
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,738 likes - 65 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,836 likes - 65 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

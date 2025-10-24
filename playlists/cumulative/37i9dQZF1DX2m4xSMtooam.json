@@ -3019,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "Noites de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/3EFMIRvfIXIhXbtXcmjF4P"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "date_added": "2025-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192984,
+      "name": "Noites de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/3J2A6l5wdDu5okpp9l4MO9"
+    },
+    {
+      "album": {
         "name": "North Carolina",
         "url": "https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81"
       },
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 208937,
       "name": "Planos Secretos",
       "url": "https://open.spotify.com/track/6GAT5PHjMg6JtwmiDcTWl4"

@@ -3461,6 +3461,24 @@
     },
     {
       "album": {
+        "name": "The Haunting Song of the Waves",
+        "url": "https://open.spotify.com/album/1zNsgdeN2IzxId303bo0dx"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123394,
+      "name": "Thundering Waves of the Open Sea",
+      "url": "https://open.spotify.com/track/6QhqmzdwY7KBTYYySNfmpD"
+    },
+    {
+      "album": {
         "name": "Thunder & Rain Relaxation",
         "url": "https://open.spotify.com/album/5Y6fIPchbFHAtc3BaBC9am"
       },
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 160000,
       "name": "Watching Heavy Ocean Waves",
       "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"

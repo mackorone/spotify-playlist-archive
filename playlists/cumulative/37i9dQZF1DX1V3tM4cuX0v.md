@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Alena Omargalieva & MamaRika
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Tyler, The Creator
 
 155 songs - 7 hr 43 min
 

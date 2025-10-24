@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 173233,
       "name": "Back To The Sound",
       "url": "https://open.spotify.com/track/54HmVaiLg72bfmQ2lkhljF"
@@ -4483,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "Every You",
+        "url": "https://open.spotify.com/album/0EHyqAlArvA0g6kVEqMSeo"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314906,
+      "name": "Every You",
+      "url": "https://open.spotify.com/track/0gxMVptwBuSC3kragNfCoQ"
+    },
+    {
+      "album": {
         "name": "Evocation",
         "url": "https://open.spotify.com/album/3VcRjGflbm5jB2vPqafc6v"
       },
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 402818,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
@@ -5868,6 +5886,24 @@
       "duration_ms": 267000,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1jm4IAFkPTpenVwLSURpIG"
+    },
+    {
+      "album": {
+        "name": "Gothico",
+        "url": "https://open.spotify.com/album/0THYB9irvjJdrHqMYwixZp"
+      },
+      "artists": [
+        {
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260280,
+      "name": "Gothico",
+      "url": "https://open.spotify.com/track/3EwYGbA0XMljz3Z5Beu87L"
     },
     {
       "album": {

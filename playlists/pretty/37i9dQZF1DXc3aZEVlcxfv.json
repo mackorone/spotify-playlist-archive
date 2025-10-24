@@ -1,13 +1,105 @@
 {
   "description": "I am blessed!",
-  "num_followers": 20169,
+  "num_followers": 20176,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2CtEIZeHcOb+2i6FO/W5Z76Jnp",
+  "snapshot_id": "AAAAAHYp5AGeHABB8dX6ONc3p85lj7Fw",
   "tracks": [
+    {
+      "added_at": "2025-10-24 00:01:24",
+      "album": {
+        "name": "Now That I'm Found",
+        "url": "https://open.spotify.com/album/312T2mtANBk8C4iUEq1rfw"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Telling Everyone",
+      "url": "https://open.spotify.com/track/3KpOMEy33l2fOr8ybnUjnb"
+    },
+    {
+      "added_at": "2025-10-24 00:01:24",
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/0jo4aBkmzONSDin9WR4m8d"
+      },
+      "artists": [
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Daddy",
+      "url": "https://open.spotify.com/track/69Pcsnqzv0QaTodhpPdn8j"
+    },
+    {
+      "added_at": "2025-10-24 00:01:24",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/1lieJsFQbluMUfNGUYouZX"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        },
+        {
+          "name": "IsaiahLaRoi",
+          "url": "https://open.spotify.com/artist/3o50w5mSnTFy6gmqGEu2Yv"
+        }
+      ],
+      "duration_ms": 162464,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/4kl6JrRdDO2K2pPBPNVI0X"
+    },
+    {
+      "added_at": "2025-10-24 00:01:24",
+      "album": {
+        "name": "Blessed Child",
+        "url": "https://open.spotify.com/album/1InZFTcdT3npephAfpjcKM"
+      },
+      "artists": [
+        {
+          "name": "Gospel hints",
+          "url": "https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc"
+        }
+      ],
+      "duration_ms": 134040,
+      "name": "Blessed Child",
+      "url": "https://open.spotify.com/track/4gZZo78bmbvgrn34kBf3pT"
+    },
+    {
+      "added_at": "2025-10-24 00:01:24",
+      "album": {
+        "name": "From The East",
+        "url": "https://open.spotify.com/album/5JcwlqoGbAXqAv5WOP1PPj"
+      },
+      "artists": [
+        {
+          "name": "MUNACHi4u",
+          "url": "https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao"
+        },
+        {
+          "name": "Munachi",
+          "url": "https://open.spotify.com/artist/0leZlPELCIzuli3P2BltF8"
+        }
+      ],
+      "duration_ms": 128521,
+      "name": "Before I Pray",
+      "url": "https://open.spotify.com/track/0NVbSTEsMZMevw6OiOeLFa"
+    },
     {
       "added_at": "2025-10-10 00:01:09",
       "album": {

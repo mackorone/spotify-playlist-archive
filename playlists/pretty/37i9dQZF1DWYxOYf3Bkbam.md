@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,538 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,551 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 51 | [Virgencita de Itatí](https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [20 Grandes Exitos](https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0) | 2:35 |
 | 52 | [Siete Higueras](https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Tarrago Ros](https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:27 |
 | 53 | [El Toro](https://open.spotify.com/track/6NDOsal4LAqelh43irEedg) | [Los Chaque\-Che](https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx), [Los Hermanos Aquino](https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs) | [Chamamé](https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi) | 2:20 |
-| 54 | [Rumbeando Pal Litoral](https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 3:07 |
-| 55 | [De Raza Campera](https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU) | [Leandro Gutierrez y su Conjunto](https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm) | [De Raza Campera](https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D) | 2:18 |
+| 54 | [De Raza Campera](https://open.spotify.com/track/2ML3ESPtnijeGoMbEniGhU) | [Leandro Gutierrez y su Conjunto](https://open.spotify.com/artist/35gn73PazKoQi2zjoLOREm) | [De Raza Campera](https://open.spotify.com/album/0vdvQ4LlkeD0RstpjmDs3D) | 2:18 |
+| 55 | [Rumbeando Pal Litoral](https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 3:07 |
 | 56 | [El Cascabel](https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef), [Luis Angel Torres](https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB) | [Amaneciendo](https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd) | 6:19 |
 | 57 | [Baile de Campo](https://open.spotify.com/track/1me7vpj6UO5MhK2lTLRLyn) | [Los Taitas del Chamame](https://open.spotify.com/artist/0JTFmHW2WqRW4GHtDFrl5u) | [Baile de Campo](https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g) | 2:45 |
 | 58 | [Para Volver a Soñar](https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa) | [Herencia Chamamecera](https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym), [Ricardo Gómez](https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb) | [Segundo Contacto](https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H) | 3:14 |

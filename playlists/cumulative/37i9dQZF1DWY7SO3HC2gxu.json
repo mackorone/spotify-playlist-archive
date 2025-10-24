@@ -83,6 +83,28 @@
     },
     {
       "album": {
+        "name": "All Around Me",
+        "url": "https://open.spotify.com/album/3ucbZvoWqIlBGFOJluv7Ti"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        },
+        {
+          "name": "OKCHUKU",
+          "url": "https://open.spotify.com/artist/0XKkD1K7J5NvwgrEJPppVk"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475826,
+      "name": "All Around Me",
+      "url": "https://open.spotify.com/track/7xNFU5TAW1RYwAooRGP7Nu"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/59SSlA8rAV2ZAanVp77jrS"
       },
@@ -468,7 +490,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 456000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0CznHbi50Y4QidvnD3p32o"
@@ -734,7 +756,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 162701,
       "name": "Digane",
       "url": "https://open.spotify.com/track/2jRH7jNpx7kqTHLyay4Fhe"
@@ -760,7 +782,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 185298,
       "name": "Digane - Raphael Afro Vibe Remix",
       "url": "https://open.spotify.com/track/2toSZyPADIFdkZArAUKUXf"
@@ -856,7 +878,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 151475,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/2DDmqQcKCEi9IcuGJOo6zd"
@@ -1169,6 +1191,28 @@
     },
     {
       "album": {
+        "name": "Follow Me UNO - Club Mix",
+        "url": "https://open.spotify.com/album/5Nhp9Ep1fYxlJeCG28q6lI"
+      },
+      "artists": [
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        },
+        {
+          "name": "Canny Odinga",
+          "url": "https://open.spotify.com/artist/38sf6tdBV2hTkPzoKJm8Eu"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Follow Me UNO - Club Mix",
+      "url": "https://open.spotify.com/track/6kLeX190s6SOGTM4XkVWb0"
+    },
+    {
+      "album": {
         "name": "Forever (&Lez Remix)",
         "url": "https://open.spotify.com/album/4uhoVqDV7IFDbwgs2U2EvZ"
       },
@@ -1434,7 +1478,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 200624,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4I7POhQ85hutuPukYwLPrF"
@@ -1456,6 +1500,28 @@
       "duration_ms": 212212,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/1RHki0uvD1y8QiiDDKqKm1"
+    },
+    {
+      "album": {
+        "name": "Hewa",
+        "url": "https://open.spotify.com/album/37VkK6pODbojC0gyi5At0S"
+      },
+      "artists": [
+        {
+          "name": "Sohno",
+          "url": "https://open.spotify.com/artist/16gx3wfHLBqAFtI4NjtiZP"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193170,
+      "name": "Hewa",
+      "url": "https://open.spotify.com/track/6QRS2DLiuCgmP2mLaXpVRB"
     },
     {
       "album": {
@@ -1514,6 +1580,28 @@
       "duration_ms": 409786,
       "name": "I'll Be There - Original",
       "url": "https://open.spotify.com/track/2seWEAts59TSfxKHqvPEz5"
+    },
+    {
+      "album": {
+        "name": "I'm Falling Deep",
+        "url": "https://open.spotify.com/album/7dvui23ypelLCEDbOTHlrG"
+      },
+      "artists": [
+        {
+          "name": "Damian Breath",
+          "url": "https://open.spotify.com/artist/0baJehjafujdWklt7tRLWO"
+        },
+        {
+          "name": "Nick Calling",
+          "url": "https://open.spotify.com/artist/7unuOtGbZmU28A8Umt1WWu"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "I'm Falling Deep",
+      "url": "https://open.spotify.com/track/1OGDT4Auczg3cYUjg895wz"
     },
     {
       "album": {
@@ -1646,7 +1734,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 246500,
       "name": "Itiririke",
       "url": "https://open.spotify.com/track/2eRzMGEs72ZrgFsCH1Uctf"
@@ -2185,6 +2273,32 @@
     },
     {
       "album": {
+        "name": "Kumerera",
+        "url": "https://open.spotify.com/album/4JbxtNCMs66rG8q7cSUEEx"
+      },
+      "artists": [
+        {
+          "name": "Breyth",
+          "url": "https://open.spotify.com/artist/1ASRVb6tSo0Pdb6yEKZhmx"
+        },
+        {
+          "name": "Native P.",
+          "url": "https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Kumerera",
+      "url": "https://open.spotify.com/track/7qBuTKBo4FIQfk8LNwda6G"
+    },
+    {
+      "album": {
         "name": "Kute (Instant Touch SA Remix)",
         "url": "https://open.spotify.com/album/3z7qFHhyBuoPSFoDLmXxdg"
       },
@@ -2517,6 +2631,28 @@
     },
     {
       "album": {
+        "name": "M2Ki2",
+        "url": "https://open.spotify.com/album/4cjHPIp6ZCDLddXq9n9rsX"
+      },
+      "artists": [
+        {
+          "name": "Rody Joh",
+          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
+        },
+        {
+          "name": "JayBless",
+          "url": "https://open.spotify.com/artist/74TsvjrmUSPpRdQxGuBYvM"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416015,
+      "name": "M2Ki2",
+      "url": "https://open.spotify.com/track/0gIFH2K59Ry9gQQ2avfnzh"
+    },
+    {
+      "album": {
         "name": "Mahaba",
         "url": "https://open.spotify.com/album/2Ok1ptSfkGhzmIavtvY4p4"
       },
@@ -2808,6 +2944,32 @@
       "duration_ms": 464000,
       "name": "Mezdeke",
       "url": "https://open.spotify.com/track/0J2ptNkPaufRddhT5copXv"
+    },
+    {
+      "album": {
+        "name": "Milima",
+        "url": "https://open.spotify.com/album/0vFKYHS0vrHpkAyzCrjs6P"
+      },
+      "artists": [
+        {
+          "name": "BURY",
+          "url": "https://open.spotify.com/artist/2QkiuWZrpomAKJRUbZUR20"
+        },
+        {
+          "name": "DeeSaxx",
+          "url": "https://open.spotify.com/artist/7JRW5CWnM2RB6oB1yfCIf0"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Milima",
+      "url": "https://open.spotify.com/track/70Wfji6ZBXsdTBlmve6C6x"
     },
     {
       "album": {
@@ -3318,7 +3480,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 185624,
       "name": "Nawachana",
       "url": "https://open.spotify.com/track/4GXJw1882hpkI2iD0EwxyM"
@@ -3410,7 +3572,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 306072,
       "name": "Nihurumie",
       "url": "https://open.spotify.com/track/4tcf25zqQPcGqtF6Px0Yd6"
@@ -3524,7 +3686,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 566534,
       "name": "Njoke Njuge",
       "url": "https://open.spotify.com/track/2hnnON4yT1gk5vnbCON1Q7"
@@ -3929,6 +4091,36 @@
     },
     {
       "album": {
+        "name": "Please",
+        "url": "https://open.spotify.com/album/5hfq3JKNKqvQdiq3xMcNI4"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "SINE",
+          "url": "https://open.spotify.com/artist/6wr2WxGsp6r1wnPjg0b3kL"
+        },
+        {
+          "name": "Garnic",
+          "url": "https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/25Sl4iKGi1dtuQkfNPCfa8"
+    },
+    {
+      "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
@@ -4273,6 +4465,32 @@
     },
     {
       "album": {
+        "name": "Sawa",
+        "url": "https://open.spotify.com/album/5vpy5VTrl2S4hxZ9PRgoNk"
+      },
+      "artists": [
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        },
+        {
+          "name": "YAH LISTEN",
+          "url": "https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc"
+        },
+        {
+          "name": "JT Bulinda",
+          "url": "https://open.spotify.com/artist/7hOUX5uA9IBzeVFiBNIsFM"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326520,
+      "name": "SAWA",
+      "url": "https://open.spotify.com/track/7md1oHjTZW3XVONksrshzk"
+    },
+    {
+      "album": {
         "name": "Scilla E Cariddi",
         "url": "https://open.spotify.com/album/0CJqDxzR5S4c7TIQ8aPrdh"
       },
@@ -4292,6 +4510,28 @@
       "duration_ms": 155224,
       "name": "Scilla E Cariddi",
       "url": "https://open.spotify.com/track/6wPqdQuxXZy6XY8FIaKzR6"
+    },
+    {
+      "album": {
+        "name": "Sema (Radio-Edit)",
+        "url": "https://open.spotify.com/album/0LLgVrpQMIzaKBFXRtbLkQ"
+      },
+      "artists": [
+        {
+          "name": "Seth Evans & Descello",
+          "url": "https://open.spotify.com/artist/1JJX2kTo8Miavqxn1hWXUW"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Sema - Radio-Edit",
+      "url": "https://open.spotify.com/track/60d0oVjGb0a5yZlW3Jq1Zy"
     },
     {
       "album": {
@@ -4789,6 +5029,28 @@
     },
     {
       "album": {
+        "name": "Taka",
+        "url": "https://open.spotify.com/album/4FzE8QlJKvzSvkxJpBQViN"
+      },
+      "artists": [
+        {
+          "name": "Deep7s",
+          "url": "https://open.spotify.com/artist/33QC3toB8CzjHU0QhbVLfl"
+        },
+        {
+          "name": "J Nana",
+          "url": "https://open.spotify.com/artist/5MKzRozKLB0cR0yRSkgsKf"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132713,
+      "name": "Taka",
+      "url": "https://open.spotify.com/track/6dmcDqovHzYWu80Fnlsmpk"
+    },
+    {
+      "album": {
         "name": "Take A Chance",
         "url": "https://open.spotify.com/album/5L3ZDYPpWNnxjST6k8pq8O"
       },
@@ -4874,7 +5136,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 245760,
       "name": "The Room",
       "url": "https://open.spotify.com/track/51CZN7nGw0TQyk8nmGJk0T"
@@ -4892,7 +5154,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 268534,
       "name": "The System",
       "url": "https://open.spotify.com/track/7dfY4o5xu1Okdeu1L4yDTb"
@@ -5304,7 +5566,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 332419,
       "name": "Umenitosha",
       "url": "https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po"

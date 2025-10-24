@@ -444,7 +444,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 210449,
       "name": "Back 2 Front",
       "url": "https://open.spotify.com/track/2fUNlLJrzdX1uoK6pMwuai"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 140724,
       "name": "Beamin\u2019",
       "url": "https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 132378,
       "name": "Body Type",
       "url": "https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN"
@@ -990,6 +990,24 @@
       "duration_ms": 273934,
       "name": "Care 4 U",
       "url": "https://open.spotify.com/track/5qnR7addSkFe7TXDV2PDry"
+    },
+    {
+      "album": {
+        "name": "Chewy",
+        "url": "https://open.spotify.com/album/4fWs6mychyBW55QCLPqTAd"
+      },
+      "artists": [
+        {
+          "name": "Adam BFD",
+          "url": "https://open.spotify.com/artist/1rEBNCllAuxwnJ8fIjevHv"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Chewy",
+      "url": "https://open.spotify.com/track/5EoheWu5ZF02NjSXkO8QQR"
     },
     {
       "album": {
@@ -1276,6 +1294,24 @@
       "duration_ms": 244939,
       "name": "Dart",
       "url": "https://open.spotify.com/track/0VECtX3A6GhmPmbJ6M9joL"
+    },
+    {
+      "album": {
+        "name": "MY NAME IS OPP!",
+        "url": "https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238297,
+      "name": "DARWIN",
+      "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
     },
     {
       "album": {
@@ -1870,6 +1906,28 @@
       "duration_ms": 233823,
       "name": "Feel The Rush",
       "url": "https://open.spotify.com/track/3qAHlj0o7h3WkiMTVjMuKr"
+    },
+    {
+      "album": {
+        "name": "MHITR: The Album",
+        "url": "https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/43m82UNzbK17KIqHLJwZlT"
     },
     {
       "album": {
@@ -2514,7 +2572,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 153126,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r"
@@ -2883,7 +2941,7 @@
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 213333,
+      "duration_ms": 215111,
       "name": "I'm Not Alone - MPH Remix",
       "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
     },
@@ -3952,7 +4010,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 232992,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz"
@@ -4557,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1BfBUqYMPQF0N3GGM5QJEU"
       },
@@ -4630,6 +4706,32 @@
       "duration_ms": 206769,
       "name": "Promise",
       "url": "https://open.spotify.com/track/6mTaiZPlOEop2t4FLUEMUc"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu"
+      },
+      "artists": [
+        {
+          "name": "Special Request",
+          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
+        },
+        {
+          "name": "ODF",
+          "url": "https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu"
+        },
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196480,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
     },
     {
       "album": {
@@ -4768,7 +4870,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 170306,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe"
@@ -5608,7 +5710,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 214285,
       "name": "Take No Chat",
       "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
@@ -6258,6 +6360,46 @@
       "duration_ms": 196895,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 LDN (feat. Flowdan)",
+        "url": "https://open.spotify.com/album/08s53yPAoXtWg29VLYK8Ju"
+      },
+      "artists": [
+        {
+          "name": "Lemtom",
+          "url": "https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172548,
+      "name": "Welcome 2 LDN (feat. Flowdan)",
+      "url": "https://open.spotify.com/track/74yRHYEYFueRYYDriUFNIH"
+    },
+    {
+      "album": {
+        "name": "What's A Girl To Do (feat. DRIIA)",
+        "url": "https://open.spotify.com/album/3XRAWTnyUDiIA3LSfgxBfi"
+      },
+      "artists": [
+        {
+          "name": "IsGwan",
+          "url": "https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221642,
+      "name": "What's A Girl To Do",
+      "url": "https://open.spotify.com/track/189M4F08qXZh02rjz8Qsdy"
     },
     {
       "album": {

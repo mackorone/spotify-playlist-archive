@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jordan Susanto
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Clara Riva
 
-272 songs - 18 hr 54 min
+275 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Even Rain](https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Teguh Sukarelawanto](https://open.spotify.com/artist/4J8wGo6gMLJq73e3qdLMhX) | [Perspektif](https://open.spotify.com/album/57LCW4mUge5Y4YWMsOjOXz) | 2:36 | 2023-06-08 | 2024-12-07 |
 | [evening in senayan](https://open.spotify.com/track/4PMfPiUMzOTahCjnHDKIkA) | [Michael Aldi](https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4) | [evening in senayan](https://open.spotify.com/album/4jJ1dbHf4jPhKSblVGVRrg) | 3:00 | 2024-11-29 |  |
 | [Everyday People](https://open.spotify.com/track/6rmxcDSZza05k1ylSVo3am) | [Praya Tjondro](https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM) | [Love In Peace](https://open.spotify.com/album/72PHHKpw2zuBHrDgPx0Mfl) | 4:37 | 2023-08-17 |  |
+| [Everything](https://open.spotify.com/track/52Mn4DYE32LNrHnHp9dWSE) | [Inthesky](https://open.spotify.com/artist/6cpT3fcSO6kNyiBCy0DNTw) | [Everything](https://open.spotify.com/album/2DG74M1TvezzaglnsunUau) | 5:15 | 2025-10-23 |  |
 | [eyes closed](https://open.spotify.com/track/4ulnoshXvEKyzwaYETxa5g) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [eyes closed](https://open.spotify.com/album/2OGwtsWKnsRiATyy6wFfHa) | 3:08 | 2024-04-18 | 2025-09-26 |
 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 | 2022-09-02 | 2024-01-26 |
 | [Feeling](https://open.spotify.com/track/3F56BRaiq37HjdJWg6YUpj) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Cika Amalia](https://open.spotify.com/artist/2M4JBNdO2DPJBSJSutcgas) | [Feeling](https://open.spotify.com/album/2ZY2Kiukixr1VqBotNsTmf) | 3:34 | 2025-02-20 |  |
@@ -141,6 +142,7 @@
 | [Irene](https://open.spotify.com/track/7mwr8KXoJ4x5Cdq3p6LypD) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Colo Colo 1](https://open.spotify.com/album/3mogJhxm0wmeZkZEEZfWzK) | 2:13 | 2023-02-03 | 2023-07-14 |
 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 | 2024-06-27 |  |
 | [It Don't Mean a Thing](https://open.spotify.com/track/53kdKA8W4Fh6L5OKxPBUOA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [CINEMA\. extended](https://open.spotify.com/album/4SO2qY7jxlQqc5dghBj4Jt) | 2:01 | 2024-12-06 |  |
+| [Iya Iya Iya](https://open.spotify.com/track/5p62NfCoX4smo7XvCb74Rh) | [Clara Riva](https://open.spotify.com/artist/7Gtq2mxSjXQuZx4rtc1L1J) | [Iya Iya Iya](https://open.spotify.com/album/6LDaXWIsbNbbTgpNBmmVK1) | 3:51 | 2025-10-23 |  |
 | [Jeje](https://open.spotify.com/track/51C65PJIu5tC1369pCd8YJ) | [Echa Soemantri](https://open.spotify.com/artist/4iiKBvCYsDz8Jes3XX04JX) | [Jeje](https://open.spotify.com/album/2ReE8N1x0YrSCLgLtaNyEY) | 5:49 | 2023-01-26 | 2025-06-27 |
 | [Jemariku](https://open.spotify.com/track/05IKmQI4vHtPYOyE1ohc78) | [Gabriella Fernaldi](https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO) | [Episode 25](https://open.spotify.com/album/6P9lUI450arzYqRQvWZ2Fk) | 3:53 | 2025-09-25 |  |
 | [Jetlag](https://open.spotify.com/track/3hBGxI7UqcR7luoO5mvlYl) | [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Jetlag](https://open.spotify.com/album/0tX3LsUKM1LPAmpTcyYMHQ) | 3:05 | 2023-03-03 | 2025-02-07 |
@@ -244,6 +246,7 @@
 | [Small Steps](https://open.spotify.com/track/1GTurAcZYchUWusuE9NNLh) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Small Steps \- EP](https://open.spotify.com/album/3DCU0szK5y7UMaLqUZffOW) | 1:55 | 2023-05-25 | 2024-11-16 |
 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 | 2023-06-08 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 | 2023-09-29 |
+| [Something in the Air](https://open.spotify.com/track/4VC6CGs0rt7qmgdV4OIF6w) | [Monty Hasan](https://open.spotify.com/artist/5ynw9wf1cMhlwLkrHGI9A1), [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Something in the Air](https://open.spotify.com/album/78WWVbPW0hQymrnYIue3nM) | 3:52 | 2025-10-23 |  |
 | [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 | 2025-10-17 |
 | [Squares](https://open.spotify.com/track/49qpkL3x01LfJV3JuIh6Iz) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Squares](https://open.spotify.com/album/4nhNcys5Ah1RUSkkg5xnQJ) | 2:16 | 2025-02-27 | 2025-09-26 |
 | [Stay](https://open.spotify.com/track/2v2RXHwpOZXgPhgtqreHbv) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Kurun Waktu](https://open.spotify.com/album/3bcdLrLC5hkVxT0TIFDgu6) | 3:55 | 2022-09-02 | 2024-08-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: BIG SPECIAL",
+  "description": "The best new music from the wide world of punk. Cover: Angel Du$t",
   "name": "All New Punk",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 151246,
       "name": "16/25",
       "url": "https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk"
@@ -2117,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "ALL MY ANGELS",
+        "url": "https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181012,
+      "name": "ALL MY ANGELS",
+      "url": "https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x"
+    },
+    {
+      "album": {
         "name": "All My Exes Live In Vortexes",
         "url": "https://open.spotify.com/album/2B7rUPxDbKKugD1KTL17v4"
       },
@@ -3106,6 +3124,24 @@
       "duration_ms": 187679,
       "name": "Are You Impressed?",
       "url": "https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl"
+    },
+    {
+      "album": {
+        "name": "Are You Ready To Go Now?",
+        "url": "https://open.spotify.com/album/2a6RfCuTRxahnlhdQfqqkk"
+      },
+      "artists": [
+        {
+          "name": "GUMX",
+          "url": "https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161688,
+      "name": "Are You Ready To Go Now?",
+      "url": "https://open.spotify.com/track/5RfNu9kbyEEUCrEefKdcsl"
     },
     {
       "album": {
@@ -4207,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "NO ALTERNATIVE",
+        "url": "https://open.spotify.com/album/1vEjGCMo8d5xfWH1nAq27d"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Street",
+          "url": "https://open.spotify.com/artist/0bAZy8K5gTFOhGcatCuEbW"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "BEARS & SHARKS: NATURE'S BEST FRIENDS",
+      "url": "https://open.spotify.com/track/0wO13roY06RbCOCptho4qN"
+    },
+    {
+      "album": {
         "name": "Beat To Beat",
         "url": "https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi"
       },
@@ -4600,7 +4654,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 189064,
       "name": "Better",
       "url": "https://open.spotify.com/track/74nvvW4DI8UYB1EHRDONUl"
@@ -7928,7 +7982,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 176007,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5IN4Tidgh7w7omsfytcq0S"
@@ -9343,6 +9397,24 @@
     },
     {
       "album": {
+        "name": "Cold 2 The Touch",
+        "url": "https://open.spotify.com/album/2zIxNEsqq66RxJwrSWncrV"
+      },
+      "artists": [
+        {
+          "name": "Angel Du$t",
+          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114840,
+      "name": "Cold 2 The Touch",
+      "url": "https://open.spotify.com/track/0wEpEXSz9xMJxiFw0EIwvF"
+    },
+    {
+      "album": {
         "name": "GENRELESS",
         "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
       },
@@ -10628,7 +10700,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 138200,
       "name": "Cut Your Hair",
       "url": "https://open.spotify.com/track/4Bc815YVcOZvPepoCEubl6"
@@ -15288,6 +15360,28 @@
     {
       "album": {
         "name": "Famous",
+        "url": "https://open.spotify.com/album/6bb5k1L5Y5gLfazncJfZAG"
+      },
+      "artists": [
+        {
+          "name": "Chase Petra",
+          "url": "https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3"
+        },
+        {
+          "name": "Zayna Youssef",
+          "url": "https://open.spotify.com/artist/2B84tYHfJYTyDZ1HrTaoOj"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234699,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/3yuBbqWCc9GZZOnTHKAfZJ"
+    },
+    {
+      "album": {
+        "name": "Famous",
         "url": "https://open.spotify.com/album/5seaTIXtd8jOpbQDqa5qIs"
       },
       "artists": [
@@ -17744,7 +17838,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 270000,
       "name": "Get Your Ass To Mars",
       "url": "https://open.spotify.com/track/66OzlSp5sPkJOoeWXCh9r8"
@@ -20766,7 +20860,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 215128,
       "name": "Homecoming Queen",
       "url": "https://open.spotify.com/track/46EIjN7CpgVdIybsjt3eb8"
@@ -21492,6 +21586,24 @@
       "duration_ms": 201808,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/329c0F8q0Fra2vx7FQapMw"
+    },
+    {
+      "album": {
+        "name": "I Can't Look For You",
+        "url": "https://open.spotify.com/album/4HNHkY2rtWxQNUGFjNyCYO"
+      },
+      "artists": [
+        {
+          "name": "Bad Neighbour",
+          "url": "https://open.spotify.com/artist/1Lg2j8CzYY32r5sDiuVW8B"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242007,
+      "name": "I Can't Look For You",
+      "url": "https://open.spotify.com/track/3OjfVuqoq0yrNqUSWo6lEP"
     },
     {
       "album": {
@@ -24012,7 +24124,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 205679,
       "name": "It's Just A Title",
       "url": "https://open.spotify.com/track/00pSd7PkuGUoY8xuCtnn74"
@@ -25224,7 +25336,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 221589,
       "name": "King",
       "url": "https://open.spotify.com/track/1zQvjaJSLOe4ApyRkrjnPW"
@@ -28170,6 +28282,24 @@
       "duration_ms": 184374,
       "name": "Mad Punks",
       "url": "https://open.spotify.com/track/61oZ1PntdHLFj2LfJE1ojv"
+    },
+    {
+      "album": {
+        "name": "Mad Rooter",
+        "url": "https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185284,
+      "name": "Mad Rooter",
+      "url": "https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t"
     },
     {
       "album": {
@@ -31464,7 +31594,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 213761,
       "name": "No Contact",
       "url": "https://open.spotify.com/track/63AaM8TNtaxtKISFyK8WqB"
@@ -32412,7 +32542,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 196713,
       "name": "November Boys",
       "url": "https://open.spotify.com/track/3Ki65zoOr3AlK1mGs2zR1j"
@@ -43057,6 +43187,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167797,
+      "name": "SUGAR IN THE GAS TANK (feat. KennyHoopla)",
+      "url": "https://open.spotify.com/track/6WRFZiEc7ygA8rATAqJ1zo"
+    },
+    {
+      "album": {
         "name": "Sugarcoat",
         "url": "https://open.spotify.com/album/55v2DV8xP6YHQeU86JdXnS"
       },
@@ -45467,6 +45619,32 @@
     },
     {
       "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/7qFDSLH4Pa8nb8wc4LJIdn"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        },
+        {
+          "name": "Gwendoline Christie",
+          "url": "https://open.spotify.com/artist/5IVTpZihpMnl50YeAvZ9RS"
+        },
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180553,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/0t0WWWHYPt2wD6OAHy4Vvo"
+    },
+    {
+      "album": {
         "name": "The Hogg",
         "url": "https://open.spotify.com/album/4ONoMe87kCX6GV7gAs6DdA"
       },
@@ -45772,6 +45950,24 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "album": {
+        "name": "The Real Contra Band",
+        "url": "https://open.spotify.com/album/4VeS0UCjBAsBhF0HH7Snsr"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189673,
+      "name": "The Real Contra Band",
+      "url": "https://open.spotify.com/track/4kBtmojfp18pLG6HPtn5xR"
     },
     {
       "album": {
@@ -46514,7 +46710,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-24",
       "duration_ms": 204815,
       "name": "This Is Teamwork!",
       "url": "https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY"
@@ -52184,6 +52380,28 @@
       "duration_ms": 118380,
       "name": "YOU'RE SO POLITE",
       "url": "https://open.spotify.com/track/1S2QiFXMbfFENSZ9aSOBRZ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2025-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "You've Got My Number",
+      "url": "https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW"
     },
     {
       "album": {
